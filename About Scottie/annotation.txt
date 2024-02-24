@@ -85,3 +85,15 @@ D: 02.txt
 Q: How does the combination of physical and temperament traits of the Scottish Terrier enhance its suitability as Carnegie Mellon University's mascot?
 A: Its physical and temperament traits together symbolize CMU's values of strength, intelligence, and determination.
 D: 02.txt
+
+Q: Who won the vote for the mascot of Carnegie Mellon University?
+A: Nearly 78 percent of 2,370 students surveyed in February 2007 voted for the Scottish terrier.
+D: 01.txt
+
+Q: Why was the Scottish terrier chosen as the mascot of Carnegie Mellon University?
+A: The Scottish terrier was chosen as the mascot because it won the vote in a series of surveys and a university Town Hall meeting. Additionally, Carnegie Mellon University had a history of connection with the breed.
+D: 01.txt
+
+Q: What is the graphic of the official mascot of Carnegie Mellon University?
+A: The graphic of the official mascot of Carnegie Mellon University features a profile of a distinguished, bold Scottish terrier sporting a plaid scarf around his neck. The dog is contained in a shield, representing Carnegie Mellon's Scottish heritage.
+D: 01.txt
