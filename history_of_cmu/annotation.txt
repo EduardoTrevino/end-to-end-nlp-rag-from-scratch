@@ -1,1 +1,131 @@
+Q: Who was Andrew Carnegie?
+A: Andrew Carnegie was a self-educated entrepreneur and industrialist who founded the world's largest steel producing company by the end of the 19th century.
+D: 01.txt
 
+Q: What is Andrew Carnegie known for?
+A: He is known for founding the world's largest steel producing company.
+D: 01.txt
+
+Q: When did Andrew Carnegie emigrate from Scotland?
+A: Andrew Carnegie emigrated from Scotland in 1848.
+D: 01.txt
+
+Q: Where did Andrew Carnegie settle when he emigrated from Scotland?
+A: He settled in Pittsburgh, Pennsylvania.
+D: 01.txt
+
+Q: How did Andrew Carnegie educate himself?
+A: He attended night school and borrowed books to educate himself.
+D: 01.txt
+
+Q: What was Andrew Carnegie's job before he became a successful entrepreneur?
+A: Carnegie worked as a factory worker in a textile mill.
+D: 01.txt
+
+Q: How did Andrew Carnegie rise to prominence?
+A: He rose to prominence by founding what became the world's largest steel producing company.
+D: 01.txt
+
+Q: What was Andrew Carnegie's nationality before he emigrated to the United States?
+A: Andrew Carnegie was Scottish before he emigrated to the United States.
+D: 01.txt
+
+Q: Was Andrew Carnegie always successful in his career?
+A: No, he started as a factory worker in a textile mill before eventually becoming a successful entrepreneur and industrialist.
+D: 01.txt
+
+Q: How did Andrew Carnegie contribute to the industrial era in the United States?
+A: Andrew Carnegie contributed to the industrial era by founding the world's largest steel producing company.
+D: 01.txt
+
+Q: Who founded the Carnegie Technical Schools?
+A: Andrew Carnegie founded the Carnegie Technical Schools.
+D: 02.txt
+
+Q: What was Andrew Carnegie's belief about wealth?
+A: Andrew Carnegie believed that "to die rich is to die disgraced."
+D: 02.txt
+
+Q: For what purpose did Andrew Carnegie donate $1 million in 1900?
+A: He donated $1 million for the creation of a technical institute for the city of Pittsburgh.
+D: 02.txt
+
+Q: What was Carnegie's vision for the technical institute in Pittsburgh?
+A: His vision was to establish a school where working-class men and women could learn practical skills, trades, and crafts to enhance their careers, lives, and communities.
+D: 02.txt
+
+Q: What motto is associated with the Carnegie Technical Schools, reflecting Andrew Carnegie's values?
+A: The motto is "My heart is in the work."
+D: 02.txt
+
+Q: What types of programs did the Carnegie Technical Schools offer?
+A: The schools offered two- and three-year certificates in the arts and in engineering disciplines.
+D: 02.txt
+
+Q: Was there a specific college for women at the Carnegie Technical Schools? If so, what was its name?
+A: Yes, there was a college for women named Margaret Morrison Carnegie College.
+D: 02.txt
+
+Q: How did Andrew Carnegie view his post-wealth phase of life?
+A: He viewed it as a time for writing, social activism, and philanthropy, focusing on establishing educational opportunities.
+D: 02.txt
+
+Q: What demographic did the Carnegie Technical Schools primarily aim to serve?
+A: The schools primarily aimed to serve working-class men and women of Pittsburgh.
+D: 02.txt
+
+Q: What transformation did Carnegie Technical Schools undergo in its early years?
+A: Carnegie Technical Schools began offering bachelor's degrees through its College of Engineering and College of Fine Arts, becoming the Carnegie Institute of Technology, or "Carnegie Tech."
+D: 03.txt
+
+Q: How did Carnegie Tech expand during the first half of the 20th century?
+A: It expanded from two buildings into an elegant 20th century campus designed in the beaux arts architectural style, with machine shops, studios, and laboratories.
+D: 03.txt
+
+Q: What pioneering educational programs did Carnegie Tech offer?
+A: It pioneered conservatory degree programs in music and drama, as well as visual art and design programs, and awarded the first U.S. drama degree in 1914.
+D: 03.txt
+
+Q: When was the first doctorate awarded at Carnegie Tech, and in which field?
+A: The first doctorate was awarded in 1919, in the field of civil engineering.
+D: 03.txt
+
+Q: Who received the first doctorate from Carnegie Tech?
+A: Mao Yisheng, a student from China, received the first doctorate.
+D: 03.txt
+
+Q: How did Carnegie Tech contribute to the development of research institutions?
+A: It laid the groundwork for a research institution by recruiting leading scientists, offering sponsored fellowships, and pioneering interdisciplinary research.
+D: 03.txt
+
+Q: What is the hallmark of Carnegie Mellon research, as established by Carnegie Tech?
+A: Interdisciplinary research, bringing together various scientific disciplines, is the hallmark of Carnegie Mellon research.
+D: 03.txt
+
+Q: What was the 'Carnegie Plan' initiated in 1938?
+A: The 'Carnegie Plan' required science and engineer students to take courses in humanities and social sciences to better understand the needs of society.
+D: 03.txt
+
+Q: How did Carnegie Tech's campus evolve architecturally in the early 20th century?
+A: The campus evolved into an elegant 20th century campus designed in the beaux arts architectural style.
+D: 03.txt
+
+Q: What was the significance of the first U.S. drama degree awarded at Carnegie Tech?
+A: The awarding of the first U.S. drama degree in 1914 marked Carnegie Tech as a pioneer in conservatory degree programs for drama.
+D: 03.txt
+
+Q: In what year did Andrew Carnegie die, and what is said about his vision?
+A: Andrew Carnegie died in 1919, and it is noted that his vision for an educated public lived on after him.
+D: 03.txt
+
+Q: How did Carnegie Tech address the practical learning aspect in its curriculum?
+A: It housed a wealth of machine shops, studios, and laboratories as the hands-on center of learning.
+D: 03.txt
+
+Q: What was the first graduate degree offered by Carnegie Tech, and to whom?
+A: The first graduate degree, a doctorate in civil engineering, was offered to Mao Yisheng.
+D: 03.txt
+
+Q: How did Carnegie Tech's early curriculum adapt to societal needs?
+A: By initiating the 'Carnegie Plan' which required science and engineering students to take humanities and social sciences courses.
+D: 03.txt
