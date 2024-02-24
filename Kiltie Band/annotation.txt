@@ -1,12 +1,77 @@
+Q: When was The Kiltie Band founded?
+A: The Kiltie Band was founded in 1908.
+D: 01.txt
 
+Q: How many students formed The Kiltie Band initially?
+A: Seven students.
+D: 01.txt
+
+Q: When did The Kiltie Band have its first official performance?
+A: November 25th, 1922.
+D: 01.txt
+
+Q: On whose birthday did The Kiltie Band perform for the first time?
+A: The Kiltie Band performed for the first time on Andrew Carnegie's 87th birthday.
+D: 01.txt
+
+Q: What events does The Kiltie Marching Band play at?
+A: The Kiltie Marching Band plays at all Carnegie Mellon home football games.
+D: 01.txt
+
+Q: How often does The Kiltie Band change its show during the football season?
+A: There is a new show every week during the football season.
+D: 01.txt
+
+Q: What kind of music does The Kiltie Band perform?
+A: The Kiltie Band performs a variety of music, including traditional marches, oldies, current pop tunes, and jazz standards.
+D: 01.txt
+
+Q: Besides football games, at what other events does The Kiltie Band perform?
+A: The Kiltie Band also performs at a holiday concert, two spring concerts, and acts as a pep band for the basketball teams.
+D: 01.txt
+
+Q: When does the Kiltie Concert Band play its holiday concert?
+A: After the football season.
+D: 01.txt
+
+Q: How many spring concerts does The Kiltie Band perform, and at what special event do they perform?
+A: The Kiltie Band performs two spring concerts. The special event they perform is at Carnegie Mellon’s Spring Carnival.
+D: 01.txt
+
+Q: In what capacity does The Kiltie Band support the basketball teams?
+A: The Kiltie Band acts as a pep band for the basketball teams.
+D: 01.txt
+
+Q: Which campus entity recognizes The Kiltie Band?
+A: The Kiltie Band is recognized by the Student Senate.
+D: 01.txt
+
+Q: What department administers The Kiltie Band?
+A: The Kiltie Band is administered by the Department of Athletics, Physical Education, and Recreation.
+D: 01.txt
+
+Q: Is there an audition requirement for joining The Kiltie Band?
+A: No, Membership is open to all members of the campus/community without audition.
+D: 01.txt
+
+Q: How can I get kicked out from The Kiltie Band?
+A: Participants must promote the ensemble's success through attendance, attitude, and dependability.
+D: 01.txt
 
 Q: When are rehearsals?
-A: Football season: Mondays and Thursdays from 5:30 p.m.-7:30 p.m. and Game Day 9:30-11:00a.m. Concert Season: Mondays and Thursdays from 5:30-6:30 p.m.
-Location is the CUC Studio Theater.
+A: During Football season: Mondays and Thursdays from 5:30 p.m.-7:30 p.m. and Game Day 9:30-11:00a.m. During Concert Season: Mondays and Thursdays from 5:30-6:30 p.m.
+D: 02.txt
+
+Q: Where are rehearsals?
+A: Rehearsals during football, and concert seasons are at the CUC Studio Theater.
 D: 02.txt
 
 Q: When are performances?
-A: The Kiltie Band performs at all home football games, a holiday concert, and two spring concerts. Times and dates for all performances are announced at the first practice.
+A: Times and dates for all performances are announced at the first practice.
+D: 02.txt
+
+Q: Where are performances? 
+A: The Kiltie Band performs at all home football games, a holiday concert, and two spring concerts.
 D: 02.txt
 
 Q: Are there auditions?
