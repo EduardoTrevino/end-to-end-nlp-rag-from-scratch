@@ -1,0 +1,1234 @@
+Commonality in Recommender Systems: Evaluating
+Recommender Systems to Enhance Cultural Citizenship
+ANDRES FERRARO, McGill University, Canada
+GUSTAVO FERREIRA, McGill University, Canada
+FERNANDO DIAZ, Google, Canada
+GEORGINA BORN, University College London, United Kingdom
+Recommender systems have become the dominant means of curating cultural content, significantly influ-
+encing the nature of individual cultural experience. While the majority of academic and industrial research
+on recommender systems optimizes for personalized user experience, this paradigm does not capture the
+ways that recommender systems impact cultural experience in the aggregate, across populations of users.
+Although existing novelty, diversity, and fairness studies probe how recommender systems relate to the
+broader social role of cultural content, they do not adequately center culture as a core concept and challenge.
+In this work, we introduce commonality as a new measure of recommender systems that reflects the degree to
+which recommendations familiarize a given user population with specified categories of cultural content. Our
+proposed commonality metric responds to a set of arguments developed through an interdisciplinary dialogue
+between researchers in computer science and the social sciences and humanities. With reference to principles
+underpinning public service media (PSM) systems in democratic societies, we identify universality of address
+and content diversity in the service of strengthening cultural citizenship as particularly relevant goals for
+recommender systems delivering cultural content. We develop commonality as a measure of recommender
+system alignment with the promotion of content toward a shared cultural experience across a population
+of users. We advocate for the involvement of human editors accountable to a larger value community as
+a fundamental part of defining categories in the service of cultural citizenship. As such, we ensure that
+commonality emphasizes a diverse shared experience. We empirically compare the performance of recom-
+mendation algorithms using commonality with existing utility, diversity, novelty, and fairness metrics using
+three different domains. Our results demonstrate that commonality captures a property of system behavior
+complementary to existing metrics and suggests the need for alternative, non-personalized interventions in
+recommender systems oriented to strengthening cultural citizenship across populations of users. Moreover,
+commonality demonstrates both consistent results under different editorial policies and robustness to missing
+labels and users. Alongside existing fairness and diversity metrics, commonality contributes to a growing
+body of scholarship developing ‘public good’ rationales for digital media and machine learning systems.
+CCS Concepts: •Information systems ;•Computing methodologies →Artificial intelligence ;
+Additional Key Words and Phrases: recommender systems, evaluation, cultural content, movies, music,
+literature, cultural citizenship, diversity
+1 INTRODUCTION
+Online platforms that host cultural content such as music, movies, and literature use recommender
+systems to suggest and distribute items from their catalogs using the principle of personalization.
+Generally, we measure the degree to which a recommender system succeeds in personalization by
+adopting various offline metrics (e.g. precision, NDCG) and online metrics (e.g. clickthrough rate,
+consumption) [ 24]. Evaluation using these metrics is appealing in commercial settings because
+they are aligned with revenue-generating metrics like retention and subscriptions. As a result,
+personalization remains a central principle of academic and industrial research on recommender
+systems.
+However, increasing evidence suggests that, while the degree of personalization is one desirable
+property of a recommender system, it does not capture the wider effects of recommender systems
+in aggregate, nor does it measure the effects of recommender systems across a population of users.
+1arXiv:2302.11360v2  [cs.IR]  23 Feb 2023Andres Ferraro, Gustavo Ferreira, Fernando Diaz, and Georgina Born
+This is important because personalized recommendations are likely to have cumulative effects,
+shaping the wider cultures and societies within which they are being used [2].
+We advocate that the design of recommender systems delivering cultural content broaden
+its foundation to include not just personalization and associated commercial interests but also
+appropriate normative principles oriented to furthering the democratic well-being and the cultural
+and social development of contemporary societies. By ‘normative’ we refer to principles considered
+to provide models of morally, ethically and/or politically right or just action or behavior at the
+level of societies and communities as well as individuals. And, just as domains such as criminal
+justice or lending have associated normative values related to justice and fairness, the distribution
+of cultural content does as well. For guidance on normative principles appropriate to the provision
+of cultural content we turn to the principles underpinning public service media (PSM) systems [ 3].
+Public service media refers to the existence of various channels of content distribution and related
+media organizations that are designed to be accountable to the public and may also be publicly
+funded [ 44]. Examples include the British Broadcasting Corporation, the Canadian Broadcasting
+Corporation, and the Australian Broadcasting Corporation.1
+From the set of normative principles guiding PSM, we identify universality of address and content
+diversity in the service of strengthening cultural citizenship as particularly relevant normative
+principles for recommender systems delivering cultural content. If personalization attempts to
+maximize individual user satisfaction with a platform, the promotion of cultural citizenship entails
+disseminating a diversity or plurality of cultural content in order to stimulate intercultural and
+intracultural dialogue and exposure to cultural diversity. As a result, the distribution of cultural
+content can enhance both social integration and pluralistic cultural experience across communities.
+In making these arguments we contribute to a growing body of scholarship developing public
+good rationales for digital media and machine learning systems [ 3,13,14,67,69,93,97]. Later, we
+expand upon and further justify these arguments.
+Recognizing the role played by evaluation metrics in embodying values such as personalization
+or fairness, we derive a new evaluation metric based on the principle of commonality. Our metric
+measures the degree to which a recommender system familiarizes a given population of users with
+specific under-represented categories of cultural content in a certain medium. These categories,
+identified by human editors answerable to a knowledgeable community, work in concert with
+the metric to promote cultural citizenship. More concretely, our commonality metric provides
+editors with an instrument to counteract undesirable biases associated with racism, sexism, and
+the neglect of non-Western content in the cultural content being recommended, and to deliver this
+more diverse experience commonly across a population of users.
+In order to better understand our metric, we include a series of quantitative analyses of its
+behavior. Using data from three media—movies, music, and literature—we compare commonality
+with existing utility, diversity, and fairness metrics. Our results demonstrate that our new metric
+is not correlated with existing metrics (i.e. it captures different properties) while maintaining
+comparable robustness.
+To date, criticisms of recommender systems and machine learning systems for their capacity to
+reproduce forms of bias and discrimination have been based on the evaluation of such biases at
+the level of individual users. Relatively little attention has been paid to identifying means of both
+counteracting biases and enhancing diversity in recommended cultural content by evaluating their
+1PSM organizations are found throughout Europe and in many member states of the Commonwealth. Several PSM
+organizations may be found within a single country and thereby constitute a PSM ecology or system, as is the case, for
+example, in the UK, Germany, and Australia. Transnational PSM institutions also exist, such as the European Broadcasting
+Union, an alliance composed of PSM organizations from countries that lie within the European Broadcasting Area or are
+members of the Council of Europe.
+2Commonality in Recommender Systems
+performance in the promotion of common experiences across a population of users. As we show in
+this work, recommender systems can be developed explicitly to promote a value such as diversity
+by counteracting racist and sexist biases and the neglect of non-Western content–and they can
+advance these progressive changes as common experiences, thus enhancing cultural citizenship. In
+this way recommender design, and evaluation in particular, can support the wider cultural changes
+called for by those critical of the lack of diversity and biases evident in recommender systems , as
+well as by those sympathetic to these criticisms from the RecSys community [ 6,31,32,61,70,101].
+2 BACKGROUND
+Our research proceeded through sustained interdisciplinary dialogues between two computer
+science researchers designing music recommender systems (Diaz, Ferraro) and two media and
+communication scholars from the humanities and social sciences (Born, Ferreira). Over the course
+of a year we instructed each other in appropriate background research, sharing ideas and deepening
+our mutual engagement in both directions. In this way we translated terms from one ‘side’ to
+the other, while also responding to critical questioning about the relevance of key concepts, and
+subsequently adapting the latter. Such translation across disciplinary domains is difficult and may
+be incomplete. Nonetheless, our experience is that it can produce hybrid thinking that can in
+turn generate powerful new concepts and tools. Indeed, systematic interdisciplinary practices of
+this kind can move beyond the tendency for one domain to provide merely a service to the other
+[5], and instead makes possible reflexive critical thought on both ‘sides’ that builds towards new,
+higher-level syntheses.
+3 FOUR PROPOSITIONS FOR RECOMMENDER SYSTEMS
+The process described in Section 2 resulted in four related propositions at the core of our research,
+as follows.
+First, we propose that it is timely for the design of recommender systems delivering cultural
+content to move beyond a commercial orientation focused primarily on individualized interests.2
+We suggest that recommender design should, in addition, pursue complementary design paradigms
+guided by normative principles intended to promote the democratic development of contemporary
+cultures and societies as this enhances human flourishing.
+In this way, we link our work to ‘a computational politics wedded to emancipation and human
+flourishing’ [88].
+Second, we propose that as well as a focus on personalization, recommender system design
+should acknowledge the aggregate and cumulative influences of recommender systems we have
+described, which have the potential to mediate wider cultural and social changes, and in this light
+develop ways of analyzing and modifying these influences in progressive ways that seek to achieve
+the goals described in the previous paragraph. In this respect our work participates in the ‘values
+in design’ debate [ 38,54], which addresses the challenges of reflexively ‘incorporating human
+values adequately into formal models’ [ 37]. ‘Values in design’ recognizes that the development of
+formal models for machine learning systems tend to fall back on ‘internalist’ tendencies, in that
+‘only considerations that are legible within the language of algorithms’, for example accuracy and
+efficiency, ‘are recognized as important design and evaluation considerations’ [ 41]. The result is that
+design responses ‘to questions concerning human values such as fairness [become] problematic,
+because “problems with quantification [affect] everything downstream”’ [ 37,60]. It is in order to
+2Although concerns about personalization often center on filter bubbles that keep individuals in taste echo chambers, our
+proposition in this paper goes further. We are concerned not only with the social effects of individualization but with
+the need for greater diversity in the curation and distribution of cultural content and the benefits of promoting a shared
+diversity of cultural experience.
+3Andres Ferraro, Gustavo Ferreira, Fernando Diaz, and Georgina Born
+suggest a new approach to identifying values for recommender design that we turn below to studies
+of the principles guiding public service media systems. As Fish and Stark [37] comment, ‘expanding
+formal models to include social values’, what Green and Viljoen [41] call “formalist incorporation”,
+may be ‘situationally and strategically useful’, even if it is imperative to be aware of how ‘such
+solutions are insufficient as full remedies to the inherent limitations of formal modeling’ [37].
+Third, as a concrete means of addressing these two propositions, we turn to evaluation metrics as
+a place to incorporate alternative ‘values in design’ into the development of recommender systems.
+Specifically, we have developed a metric named ‘commonality’ which measures the degree to which
+recommendations familiarize a given user population with specified categories of content chosen
+to promote certain ‘values in design’ [ 34]. In addition to translating normative principles from the
+social sciences into mathematical representations, we conducted a series of experiments to assess
+the novelty and usefulness of commonality, in the context of other, related evaluation metrics.
+Fourth,
+we draw on research that identifies the normative principles underlying public service media
+(PSM) systems, principles that then can be translated into a quantitative metric. In turning to
+previous research on principles embodied in PSM systems, we note both the powerful insights that
+can be derived from this research and its limitations with respect to the challenge of translating
+earlier normative concepts into contemporary digital platforms. Hence, although there is a literature
+concerned with how PSM organizations and older private media organizations are adapting to
+platformization and personalization (e.g., [ 8,21,45,89,96,97]), as well as papers by PSM-based
+researchers on these topics and specifically on recommender design (e.g., [ 7,36], attempts to adapt
+PSM’s earlier normative principles to the platform present are less advanced. We stress that, in
+this study, we are not concerned with PSM organizations in themselves nor with their approaches
+to recommender systems (see, e.g., [ 52]). Rather, we take writings on the normative foundations
+of PSM as a source of potentially relevant concepts, and then attempt to translate these relevant
+principles into the design of recommender systems. Our work does not aim to be an intervention
+in PSM but to have general implications for recommender design.
+4 THE CASE FOR PRINCIPLES TO INFORM THE DESIGN OF RECOMMENDER
+SYSTEMS
+Recommender systems have become the dominant means of curating cultural content in the digital
+era. Curation—or the selection, organization and promotion of content to be made available to
+consumers—has, however, a deep history. For centuries consumers have encountered cultural
+content through intermediaries—publishers, gallerists, patrons, impresarios—who collected works
+of culture, music and art, organized and categorized those works, and made them available to
+audiences and consumers. From the 2000s, the term curation began to be used to refer to the
+collection and organization of content on the internet. Indeed, the present has been depicted as
+an era of ‘curationism’—an ‘acceleration of the curatorial impulse to become a dominant way of
+thinking and being... [in] an attempt to make affiliations with, and to court, various audiences
+and consumers’ [ 4]. In general, ‘the introduction of new technologies has both introduced new
+methods of curation and expanded the breadth of individuals deemed fit to be curators’ [ 1]. Yet
+curation is not just an individual activity: it forges interconnections between curators, artists, and
+the industries, institutions, and online platforms supporting cultural production [ 72]. Today, the
+normative question of how curation by online platforms should be organized, and the forms it
+should take, is a pressing one.
+When the curation enacted by online platforms’ recommender systems is multiplied across the
+billions of recommendations presented to users, it significantly influences the nature of individual
+cultural experiences [ 92]. Yet in marked contrast with earlier eras of curation, this influence is
+4Commonality in Recommender Systems
+multiplied and magnified cumulatively not only across time but across populations, cultures, and
+regions. In the short term, recommender systems clearly influence individual cultural consumption
+and taste. In the medium and long term, by employing data on consumer behavior and repeat-
+edly influencing consumer choices, recommender systems can shape cultural literacies as well as
+population-wide trends in cultural consumption and cultural taste [ 15]. They also participate in the
+commodification of the data generated by consumers as they engage with online platforms [ 39].
+Moreover, the collection and mining of consumer data implemented by recommender systems, a
+type of ‘monitoring-based marketing’ [ 3], takes place at a much larger scale and is more rapid,
+recursive and intensive in comparison with earlier, non-computational methods of applying market
+research to identify and shape what consumers might want. In some ways this may be a productive
+kind of power and control exercised over consumers; yet, as a critic notes, ‘users have little choice
+over whether this data is generated and little say in how it is used’, and ‘in this sense we might
+describe the generation and use of this data as. . . [an] alienated or estranged dimension of [users’]
+activity’ [3].
+Recommender systems therefore implement a higher degree of automatized intervention than
+previous forms of curation in the way not only individuals but societies and communities encounter
+cultural content. And despite their intended personalized address, recommender systems have
+cumulative effects in shaping the wider cultures and societies within which they are being employed.
+Yet perhaps because academic and industrial research on recommender systems has converged
+on personalization as a paradigm, these effects have been relatively unexplored by research in
+the RecSys community. Some metrics linked to personalization and ‘user relevance’ (e.g., nDCG,
+precision, clickthrough rate) align with user retention and other longer term individual-level
+metrics which, when aggregated, can correlate with business metrics like revenue [ 90]. Even
+metrics like diversity, often motivated by broadening the range of categories to which users are
+exposed, regularly need to be justified by individual-level metrics like retention [ 2]. Despite being
+concerned with and sensitive to the broader social role of cultural content, fairness metrics focus on
+individual exposure of providers or effectiveness for users and do not capture the wider, aggregate
+shaping effects of recommender systems on patterns of cultural consumption, taste, and literacy as
+described above.
+4.1 Applying normative principles from public service media to recommendation:
+universality, diversity, and cultural citizenship
+In employing the principles underpinning public service media systems in democratic societies,
+we take the view that ‘a public service rationale is as pertinent as ever in the digital era’ [ 3]. The
+normative ideas underpinning public service media developed over the last century in the context
+of governments seeking to strengthen their societies’ democratic and representative channels of
+communication as well as means of reliable public information provision and cultural exchange
+[9,44,81,83]. Although these normative principles originated in national democratic polities, they
+have also been applied transnationally, for example in the European Union through the auspices of
+the European Broadcasting Union. They are therefore not limited in their purview to national media
+systems [ 27,28,48,49]. A common misconception is to equate PSM systems with state-controlled
+media; however, as media institutions and ecologies created for the purposes mentioned, and
+bolstered by regulatory frameworks, they are designed to be independent of the state, to exhibit a
+certain autonomy and political impartiality, and to be publicly accountable [ 9]—although in reality
+this status may be fragile or imperfectly achieved.
+A substantial body of research in media and political theory has identified the normative principles
+informing PSM systems and how these systems function as a communicative infrastructure for
+democratic societies. Central among those principles are universality (or commonality), diversity,
+5Andres Ferraro, Gustavo Ferreira, Fernando Diaz, and Georgina Born
+and citizenship [ 10,13,14,16,75,80]. We consider this triad particularly relevant for recommender
+systems delivering cultural content, since together they answer calls in democratic media and
+political theory for digital media systems to enhance cultural citizenship [ 10]. The concept of
+cultural citizenship has become foundational for democratic political theories in the last two
+decades; indeed, “one of the striking developments in recent political discourse has been the
+increasing confluence of culture and citizenship” [ 26]. Cultural citizenship has been defined as a
+fourth stage of citizenship that responds to recognition of the social transformations and challenges
+posed by globalization, increased migration, the growing heterogeneity of the populations of nation
+states, and the intensification of identity politics among subaltern and marginalized groups [ 66,77].3
+Given these profound changes, cultural citizenship draws attention to a ‘new domain of cultural
+rights [involving] the right to symbolic presence, dignifying representation’, and ‘the maintenance
+and propagation of distinct cultural identities’ [ 73]. Hence, for theorists of cultural citizenship,
+’cultural pluralism is viewed as something which enriches rather than threatens the fabric of
+society’ [ 26, p. 61]. In this light it becomes clear that, in order to promote cultural citizenship,
+PSM organizations and other democratic channels of cultural production and distribution have
+a responsibility to curate and disseminate a plurality of cultural content with the intention of
+stimulating both intercultural and intracultural dialogue, as well as the acceptance of, and respect
+for, cultural diversity [ 10,12]. In this way PSM and other democratic media can act both as a force
+‘for social cohesion and integration’ and as a forum for pluralistic cultural experience and exchange
+among those many groups and communities that coexist and interact in democratic societies [ 48].
+Music, movies, and literature, as expressive media, add further dimensions to these ideas. Some
+political theorists argue that the dialogical mechanisms of democratic pluralism should not be
+confined to the classic concerns of public sphere theory—information, reason, and cognition—but
+should also engage matters of identity and affective experience. Hence, the political philosopher
+Martha Nussbaum draws attention to emotion as a basic component of ethical reasoning, arguing
+that a compassionate citizenry depends on access to pluralistic cultural repertoires that engage
+audiences’ emotions and thereby enhance their capacity for mutual recognition, empathy, and
+toleration. For Nussbaum such processes are essential for the well-being and development of
+democratic societies [ 71]. Arguably, then, cultural citizenship is the principal form for the exercise
+of citizenship in the multicultural societies characterizing the contemporary world. If we take
+seriously the role of mediated cultural content, such as that curated by recommender systems, in
+influencing users’ tastes and thereby conditioning the wider public culture, then, by analogy with
+the concern in democratic theory with the formation of an educated and informed citizenry, we
+might add a concern with the formation of a culturally mature and aware, culturally pluralistic
+citizenry [ 16,74]. In this sense, digital platforms distributing cultural content—such as music,
+movies, and literature—can be understood as primary ‘theaters’ for contemporary pluralism and
+consequently bear an obligation to provide a diversity of cultural experience. As Stuart Hall, a leading
+critical race theorist, has noted, ‘The quality of life for black or ethnic minorities depends on the
+whole society knowing more about the “black experience”’ [ 42], an experience that can be grasped
+most compellingly through access to the diverse riches of black cultural production—whether
+music, movies, or literature. Platforms curating cultural content therefore have the capacity, and
+arguably the responsibility, to play a vital role in fostering cultural citizenship—itself a precondition
+for the processes of ethical, social, and cultural development that underlie the general condition of
+citizenship [10].
+3In Marshall’s classic sociological account of the historical emergence of citizenship [ 62], he divides it into three stages or
+‘elements’—civil, political, and social [33]. Theorists of cultural citizenship conceive of it as a fourth stage.
+6Commonality in Recommender Systems
+Both universality or commonality—that is, the provision of common cultural experiences—and
+diversity of cultural experience, or exposure to diverse cultural content, are therefore essential
+to the strengthening of cultural citizenship. As Georgina Born argues, both ‘mutual cultural
+recognition and the expansion of cultural referents... are dynamics essential to the well-being
+of pluralist societies. But this does not obviate the need also for integration—for the provision
+of common [cultural] experience and the fostering of common identities’ [ 10]. Scholarship on
+these matters emphasizes, further, that implementing principles like universality (commonality),
+diversity, and citizenship require ‘alternative success metrics... focused on [media systems’]
+impact on democracy’ and which address users ‘as citizens and not just... as consumers’ [ 93].
+Such metrics will enable democratically-oriented media and platforms to adapt to the present by
+advancing ‘cultural citizenship and the needs of the digital society’ [ 48]. Recommender system
+design intended to strengthen cultural citizenship therefore requires us to implement universality—
+via a commonality metric—and to deliver diversity of cultural experience, a challenge to which we
+turn now.
+4.2 Human editing, value communities, and recommender systems as sociotechnical
+assemblages
+Given the importance of pluralistic cultural experience in strengthening cultural citizenship, a
+core challenge for this research is the need to boost the diversity of cultural content to which a
+population of users is exposed by recommendation. Unlike existing ideas of diversity employed in
+the recommender system literature, we consider that diversity for cultural items such as movies,
+music, or literature can be conceptualized in a range of ways. They include, first, diversity of
+content in terms of artistic and cultural expression, which can be equated with the need to ensure
+that a range of genres are present as well as intra-generic differences, generic margins and niches.
+And second, diversity of the source or producer of the content, according to region, territory,
+or culture of origin as well as under-represented demographics among producers of the content
+(musicians, filmmakers, writers). The two—diversity of content and of source—are potentially
+related, in that greater diversity of source or producer is likely to favor, although it does not
+guarantee, greater diversity of content. However, judgments about what kinds of content and
+source diversity are desirable are intrinsically context-dependent and culturally-dependent. In this
+sense they necessitate human editorial processes that draw on knowledgeable and communally-
+validated categorizations—whether of the subtleties of demographic categories, or of the complex
+contours of cultural genres.
+A key assumption in our work is therefore that human editors must be involved in these
+judgments, and that their role is to reflect on the diversity of a recommender with respect to a
+given category or categories by drawing on insights generated by a larger ‘value community’
+knowledgeable about cultural expressions and their social conditions [ 11]. By value community
+we refer to the existence of communities sharing cultural interests and tastes, among them genre
+communities, who broadly embody an evolving consensus about the cultural interests or genres
+they enjoy and their relationship to categories of social identity, and about which members have
+varying degrees of expertise. The consensual judgments of value emerging from a value community
+are, then, relational, and, as Bourdieu suggests, they will inevitably encompass a lively and shifting
+dissensus within the consensus [ 17]. The human editors we envisage therefore act as conduits
+for these larger communities of interest and judgement, and their judgments are legitimised and
+validated by this relationship.
+The aim is to achieve a diverse mix of content and sources that appeals beyond personalization,
+and that avoids the risks of employing reified models of both identities and genres. Editors’ judg-
+ments, moreover, will necessarily evolve over time and will be repeatedly replenished by evaluating
+7Andres Ferraro, Gustavo Ferreira, Fernando Diaz, and Georgina Born
+(via a commonality metric) the performance of the recommendation of the diverse categories
+selected across a user population. It is the resulting universal promotion of a plurality of cultural
+experiences, relative to a given social context and cultural situation, that is likely to cumulatively
+enhance cultural citizenship; it may also foster progressive cultural and social change.
+A related conceptual step is necessitated by the key role we are proposing for editors respon-
+sive to wider value communities. It is to expand how we think about ‘recommender systems’ to
+include human editors, the value communities validating their knowledge, and user populations
+(or audiences). In this light we propose that recommender systems can be productively conceived
+as sociotechnical assemblages that include the social knowledge and social labour that go into
+the processes described. As Seaver puts it, ‘algorithms are not autonomous technical objects, but
+complex sociotechnical systems’, and ‘while discourses about algorithms sometimes describe them
+as “unsupervised,” working without a human in the loop, in practice there are no unsupervised
+algorithms. If you cannot see a human in the loop, you just need to look for a bigger loop’ [ 84].
+Designating recommender (or algorithmic) systems as sociotechnical assemblages implies, then,
+that these ‘technologies are embedded in the social context that produces them’ [78].
+5 CONCEPTUALIZING DIVERSITY IN RELATION TO CULTURAL CITIZENSHIP, AND
+IMPLEMENTING IT IN RECOMMENDER SYSTEMS
+If diversity of cultural experience is a precondition for enhancing cultural citizenship, then the
+question is how diversity should be conceptualized in relation to recommender systems in order to
+achieve this end. As discussed above, diversity of content and diversity of source are perhaps the
+most obvious vectors of diversity. But it is certainly possible to imagine additional forms of diversity
+in relation to recommender systems focused, for example, on diversity of consumption experience
+and of user controls. This might include the potential to design diversity into the navigational
+architecture of recommendation by avoiding ‘similarity’ and promoting difference; or by offering
+controls to users that endow the algorithm with greater legibility and increase users’ agency to
+pursue diverse pathways through a given recommendation space.
+Yet although these and other approaches to diversity might be significant for design, the RecSys
+community has mainly addressed diversity in terms of promoting either diversity in some abstract
+space (e.g. a vector space) or through fairness measures, approaches that equate in some ways to
+what what we have called diversity of content and/or of source. Existing work, conceptualizing
+diversity in this way, even if it is concerned with and sensitive to the broader social role of cultural
+content, does not adequately support the rich set of goals system designers might have and the
+values they might want to implement through design. Typically, diversity metrics are limited to
+the goal of capturing the variety of content within a recommendation list; they may consider
+categorizations of the content, distances in a latent space, or simply how many different items are
+recommended [ 2,43,51,82]. Aligned with the goals of personalization, the formulation of these
+diversity metrics sometimes optionally consider the relevance of the content for users, assuming
+that what a user consumed in the past indicates what they will still be interested in and that
+recommendations should be limited to such categories. And while related novelty metrics measure
+the newness of items or categories of recommendations, they are still individualized, and they are
+also agnostic about what type of content is new to the user.
+In a similar way, to evaluate fairness means to be concerned with increasing diversity by seeking
+to redress the problematic under-representation of certain categories of source and content. But
+these approaches also tend to adhere to fixed and pre-given definitions of genres and identities,
+in this way risking the reification of those categories and untethering them from processes of
+community validation of the kind we advocate in Section 4.2. Existing work on fairness addresses
+specific topics around increasing biases as well as the under-representation of particular groups [ 29].
+8Commonality in Recommender Systems
+Provider fairness metrics typically consider how many different groups of content providers appear
+in recommendations and assume a given distribution that it is desired to match. Consumer fairness
+metrics consider disparate treatments of the system in relation to different groups of consumers.
+Recent research has proposed more general multi-stakeholder fairness metrics, acknowledging the
+impact recommender systems have on different groups of individuals [18, 65, 87].
+A standard argument is that by reflecting biases embedded in the datasets, recommender systems
+create a feedback loop reinforcing such biases [ 25,61]. The loop can be identified in popularity
+bias, which may reflect a mainstream bias in cultural domains. Slaney and White [86] studied
+this propensity in music playlists and theorized diversity as a key criterion for user satisfaction,
+providing music discovery for users who “do not want to listen to the highest rated song” within
+a system “over and over again.” Celma and Cano [22] noted similarly the tendency to reinforce
+“popular artists, at the expense of discarding less-known music.” Both in provider and consumer
+fairness, recommender systems have been shown to reproduce or exacerbate wider conditions of
+cultural and social discrimination against certain social groups.
+Existing work on fairness addresses specific topics around increasing biases as well as the
+underrepresentation of particular groups [ 29]. Provider fairness metrics typically consider how
+many different groups of content providers appear in recommendations and assume a given
+distribution that it is desired to match. On the other hand, consumer fairness metrics considers
+disparate treatments of the system in relation to different groups of consumers. Recent research has
+proposed more general multi-stakeholder fairness metrics, acknowledging the impact recommender
+systems have on different groups of individuals [18, 65, 87].
+On the consumer fairness side, Mansoury et al . [61] show that biases against minority groups of
+users can be reinforced in movie recommender systems as they reinforce user choices “through
+different iterations of users interaction” with the system. In their study, they highlight stronger
+bias amplification in recommendations for female users. Shakespeare et al . [85] evaluate in the
+music domain how gender bias, rooted “in cultural practices historically related with socio-political
+power differentials,” can be “propagated by CF-based recommendations” based on user ratings. In
+similar research on movie recommendation, Lin et al . [59] demonstrates the propagation of users’
+gender biases, arguing that “recommendation algorithms generally distort preference biases present
+in the input data and do so in sometimes unpredictable ways.” Ekstrand et al . [30] demonstrate
+how popularity and demographic biases in both music and movie recommendation tend to affect
+user utility grouped by age and gender; they show that the models tend to perform better for
+male users and vary significantly across age groups. Kowald et al . [56] studies how popularity bias
+may lead to unfair treatment of users with little interest in popular items in the context of music
+recommendations. Kowald et al . [55] show that recommendations’ accuracy varies for different
+groups of users depending on their openness towards beyond-mainstream music listened. Lesota
+et al. [58] studies how multiple recommender systems with different levels of popularity bias may
+affect users of different genders differently.
+On the provider fairness side, Epps-Darling et al . [32] shows for music recommendation that
+female and non-binary artists can be under-represented, affecting users’ listening behaviors. They
+argue that “higher proportions of female artists in recommended streaming is predictive of higher
+proportions of female artists in organic streaming.” Ferraro et al . [35] also reveal an imbalance of
+exposure in music recommendations between female and male artists, and a tendency to confirm
+the feedback loop that moves male artists to the top. Ekstrand et al . [31] observe, with respect to
+books, that “there are efforts in many segments of the publishing industry to improve representation
+of women, ethnic minorities, and other historically underrepresented groups.” Yet they argue that
+the recommender systems they analyzed tend to propagate disparities present in user profiles. This
+tendency in the book domain was also confirmed by Saxena and Jain [79].
+9Andres Ferraro, Gustavo Ferreira, Fernando Diaz, and Georgina Born
+Overall, it is striking that the various forms of bias shown by the under-representation of cultural
+content with respect to gender, race, class, and region (i.e., diversity of source or provider) correspond
+to wider core-periphery dynamics and geographical inequalities in the cultural industries [ 19,91,99].
+It seems that recommender systems often mirror these inequalities, promoting Western-centric
+popular cultural content, in the English language, released by major producers [ 100]. Increasing
+diversity of source and producer, both as an issue of equity in itself and as it bears on diversity
+of content, is therefore a huge hurdle in achieving recommender systems oriented to enhancing
+cultural citizenship.
+6 MEASURING COMMONALITY
+Criticisms of recommender systems and machine learning systems for reproducing such forms of
+bias and discrimination have been met by personalized recommender systems interventions aimed
+at redressing bias at the level of individual users. In light of our discussion of the importance of
+addressing the cumulative cultural and social effects of recommender systems, we contend that
+it is also crucial to identify means of counteracting bias and enhancing the diversity of source
+and content offered across populations of users. We propose measuring common experiences of
+diversity at the aggregate level. Assuming a democratic media environment, we seek to evaluate
+whether a recommender system contributes to the strengthening of cultural citizenship by system-
+atically promoting diversity of source and content within a given type of cultural content (in our
+experiments, movies, music, and literature). In this way, evaluation has the potential to assist in
+counteracting sexist and racist biases and the neglect of non-Western and non-mainstream content
+across a user population. This also provides a means of evaluating the extent to which a given
+recommender system is contributing to the kinds of wider cultural changes called for by anti-racist
+and feminist critics as well as by those sympathetic to criticisms of existing recommender systems.
+6.1 Metric Definition
+Recall that we are interested in measuring the extent to which users, in response to algorithmic
+recommendations, gain a shared familiarity with a diverse set of content. This requires us to define
+(i) which items or categories of items should be emphasized, (ii) how we quantify familiarity, (iii) how
+we quantify a shared familiarity, and (iv) how we aggregate multiple categories of commonality.
+6.1.1 Selecting Categories. The promoted categories, we suggest, will be identified and curated
+by editors in a relevant field seeking to promote a plurality of cultural content in the service of
+strengthening cultural citizenship. We contrast this with statistical methods for selecting under-
+represented categories (e.g. [ 64]), which may surface under-represented content misaligned with
+the goals of enhancing diversity of cultural experience across a user population, and at the same
+time enhancing their common experience of that diversity. As described in section 4.2, editors make
+curatorial decisions drawing on insights generated by their knowledge about cultural expressions
+and social conditions with the goal of achieving a diverse mix of content and sources that appeals
+beyond personalization, and that avoids the risks of employing reified models of both identities
+and genres. These editors may opt to promote, for example, movies by female directors or those
+produced for non-Western markets.
+Given the large body of criticism of bias and lack of fairness in the RecSys literature, and for
+the purpose of testing the commonality metric, in what follows we chose to work experimentally
+with widely recognized under-represented categories of source or producer in the three chosen
+media (movies, music, and literature). The under-represented categories come in three broad
+clusters, which are: female and non-binary gendered providers, artists or authors; independent
+production; and non-Western sources. At the same time, boosting diversity by promoting these
+10Commonality in Recommender Systems
+under-represented source and producer categories bears directly on, and is very likely to increase,
+the diversity of content in each case. However, it is important to point out that the approach
+and the principles set out in this article can be applied in alternative ways, employing different
+categories and boosting different vectors of diversity. The distinctive facet of our work is not so
+much the attempt to redress specific kinds of under-representation – although we are certainly
+concerned with this challenge both in itself and as a key component of the goal of enhancing
+cultural citizenship. Rather, it is the attempt to bind such an intervention to larger normative
+ambitions (strengthening cultural citizenship), and to find means of evaluating the effects of this
+intervention (that is, increasing the diversity of cultural experience) not just on individuals but
+universally, across populations of users.
+6.1.2 Measuring Familiarity. In order to measure familiarity, we make the simplifying assumptions
+that all users (i) begin their recommendation session with the same background in the relevant
+categories (Section 6.1.1), and (ii) engage with exactly one ranked list of recommendations. We
+make these assumptions to clarify our exposition and extensions to heterogeneous backgrounds
+and multi-turn recommendations are left for future work.
+A user’s familiarity with a category after having interacted with a ranked list of recommendations
+can be computed using existing evaluation methods. If a user has interacted with the 𝑘items, then
+the familiarity can be estimated by computing the fraction of all items in the category present
+amongst the 𝑘items. Let𝜋𝑢be a ranking of 𝑛items from the catalog Dfor user𝑢∈U. If a user
+scans linearly from the first ranked item downward, we can measure familiarity as the recall of
+items in category 𝑔at position𝑘,
+R(𝜋𝑢,𝑘,𝑔)=|𝜋𝑢,:𝑘∩D 𝑔|
+|D𝑔|(1)
+whereD𝑔is the set of items labeled with category 𝑔.
+Although we could use a fixed cutoff 𝑘, this may not capture users that terminate their scan of
+the list before or after the 𝑘th item. A user browsing Pr(𝑘)model provides us with a distribution
+over possible stopping positions. Specifically, in our experiments, we adopt the browsing model
+used in rank-biased precision [68],
+Pr(𝑘)=(1−𝛾)𝛾𝑘−1(2)
+where the patience parameter 𝛾∈(0,1)controls how deep into the ranked list the user is likely to
+progress, regardless of relevance.
+Combining Equations 1 and 2, we can compute, given a ranking 𝜋𝑢, the familiarity of 𝑢with
+category𝑔as the expected recall,
+Pr(𝐹𝑢,𝑔|𝜋𝑢)=𝑛∑︁
+𝑖=1Pr(𝑖)R(𝜋𝑢,𝑖,𝑔) (3)
+where𝐹𝑢,𝑔is a binary random variable indicating that the user is familiar with the category.
+6.1.3 Commonality. Thecommonality of a system captures the probability that every user simulta-
+neously gains familiarity with the editorially-selected categories.
+Given a set of editorially-selected categories G, we can compute the commonality of a system
+with respect to a single category 𝑔∈G as the probability that every user has become familiar with
+11Andres Ferraro, Gustavo Ferreira, Fernando Diaz, and Georgina Born
+𝑔under the system’s ranking,
+C𝑔(𝜋)=Pr(𝐹1,𝑔,...,𝐹 𝑚,𝑔|𝜋)
+=Ö
+𝑢∈UPr(𝐹𝑢,𝑔|𝜋𝑢) (4)
+Using the joint probability of familiarity over all users emphasizes the importance of the public in
+our conception results in a metrics that degrades quickly, even if few (or one) user whose category
+recall is low. In practice, to address numerical precision issues, we use the logarithm of commonality,
+which is rank equivalent with commonality.
+6.1.4 Aggregation. While some system designers may be comfortable analyzing commonality
+disaggregated by category, many will want a summary of commonality across groups. This may be
+due to convenience (e.g. a leaderboard) or out of a desire to measure robust performance across
+categories, in the interest of promoting a shared plurality of cultural content.
+As such, we developed an aggregated commonality metric, summarizing performance across
+categories. Although we could aggregate per-category commonality using an arithmetic mean,
+this might be instable due to different category sizes and sensitive metric (Equation 4). Instead, we
+adopt Borda’s rank aggregation method. Assume that we have a set Sof systems, each associated
+with a set of per-user rankings {𝜋𝑠}𝑠∈S. We begin by, for each category 𝑔∈ G, generating a
+system ranking according to C𝑔(𝜋𝑠). We then assign the top-ranked system with a value of 1, the
+second-ranked system with a value of 2, down to|S|for the last-ranked system. Aggregating these
+‘votes’ across categories results in a final system score, where lower values are better.
+6.2 Mathematical Analysis
+In Section 5, we discussed prior approaches to measuring the diversity and fairness of recommender
+systems in the context of cultural citizenship. Given that our commonality metric is developed with
+cultural citizenship in mind, we turn to contrasting the specific mathematical differences between
+commonality and prior metrics.
+6.2.1 Aggregation. The fundamental conceptual shift from individualized to collective metrics
+is reflected in our adoption of the joint probability of user events. As a simple contrast, consider
+normalized discounted cumulative gain ( NDCG ) [50]. When computing the aggregate metric, we
+look at the sample mean over users,
+EU[NDCG(𝜋)]=1
+|U|∑︁
+𝑢∈UNDCG(𝜋𝑢)
+whereR𝑢be the set of items relevant to user 𝑢. In this case, we can see that NDCG sums the metric
+value across users while commonality (Equation 4) multiplies familiarity across users. This results
+in a metric that is much more sensitive to supporting collective familiarity and shared cultural
+experiences.
+As a general case, diversity and fairness metrics operate similarly. We adopt an individualized
+metric, compute its value for a user (e.g. answering ‘how fair/diverse is this ranking for this user?’),
+and then compute the sample mean. As a result, we can imagine situations where the lack of
+diversity or fairness for some users is ‘compensated for’ by users whose recommendations are
+more diverse or fair.
+One exception to this is fairness metrics based on measuring the Kullback-Leibler divergence
+between the distribution of categories in recommendations from a uniform distribution over
+categories. Let 𝜃be the distribution of exposure over recommended groups and 𝜃∗=1
+|G|a uniform
+12Commonality in Recommender Systems
+distribution over groups [ 53]. We can reduce the sample mean of this metric to a rank equivalent
+quantity based on the sum of group joint probabilities,
+EU[ΔKL(𝜋)]=1
+|U|∑︁
+𝑢∈UDKL(𝜃∗∥𝜃𝑢)
+=1
+|U|∑︁
+𝑢∈U∑︁
+𝑔∈G1
+|G|log 1
+|G|
+𝜃𝑢,𝑔!
+rank=−∑︁
+𝑢∈U∑︁
+𝑔∈Glog 𝜃𝑢,𝑔
+=−∑︁
+𝑔∈Glog Ö
+𝑢∈U𝜃𝑢,𝑔!
+In this case, we can see that, like commonality, ΔKLincludes a product of per-user metrics. However,
+there are two slight differences. First, the metric being multiplied is the relative exposure of a
+category in the user’s ranking as opposed to the familiarity. While these may sometimes be
+correlated, there are certainly situations where we might observe high 𝜃𝑢,𝑔and a low𝐹𝑢,𝑔, meaning
+thatΔKLwould be inappropriate for measuring the shared familiarity. Second, the aggregation
+of joint metrics in ΔKLuses a simple sum aggregation, which is possible, in part, because 𝜃𝑢,𝑔
+is calibrated across groups while 𝐹𝑢,𝑔may not be (i.e. differences in sizes of categories may lead
+to different ranges of empirical values). Note that this observation may be unique to using the
+Kullback-Leibler divergence, which includes a logarithmic term.
+Another way to interpret category commonality is as the geometric mean of the recall of a
+category, connecting it to geometric mean average precision [ 76]. In the context of utility metrics,
+Valcarce et al . [95] experiment with geometric mean performance, finding that it is more robust
+than the arithmetic mean when dealing with samples of users. We will return to this observation
+in Section 6.3.5.
+6.2.2 Category Metric. A second difference between commonality and prior fairness, diversity,
+and novelty metrics is in the category-level metric.
+Fairness metrics tend to emphasize divergence from some reference distribution of categories [ 53].
+In the previous section, we saw the example of ΔKL, where, when using the uniform distribution
+over categories as a reference, the aggregated metric reduces to the magnitude of categories in the
+recommendations. These per-user quantities capture the the presence of the category as opposed
+to the comprehensiveness of the category (i.e., recall). Even in the case of non-uniform reference
+distributions, exposure distributions are normalized in such a way that any recall information is
+removed, implying that, while similar in form, fairness metrics are mathematically measuring a
+different phenomenon.
+While fairness metrics capture the divergence of category exposure from some reference distri-
+bution, diversity metrics measure the support of the exposure distribution in some space. Consider
+the expected intra-list distance ( EILD ). Assume that we consider all recommended items,
+EU[EILD(𝜋)]=1
+|U|∑︁
+𝑢∈U𝑛∑︁
+𝑖=1𝑛∑︁
+𝑗=𝑖+1Pr(𝑖)Pr(𝑗−𝑖)𝛿(𝜋𝑢,𝑖,𝜋𝑢,𝑗)
+13Andres Ferraro, Gustavo Ferreira, Fernando Diaz, and Georgina Born
+where𝛿is a linear distance function between items. If each item belongs to only one category, then
+we can set𝛿(𝑖,𝑗)=1−Í
+𝑔∈GI(𝑖∈D 𝑔)I(𝑗∈D 𝑔)and derive a rank-equivalent metric,
+EU[EILD(𝜋)]rank=−∑︁
+𝑔∈G∑︁
+𝑢∈U𝑛∑︁
+𝑖=1𝑛∑︁
+𝑗=𝑖+1Pr(𝑖)Pr(𝑗−𝑖)I(𝜋𝑢,𝑖∈D 𝑔)I(𝜋𝑢,𝑗∈D 𝑔)
+|                                                             {z                                                             }
+exposure of items in D𝑔
+From this, we can see that, like commonality, diversity computes the exposure of items in a category.
+Like fairness metrics, diversity metrics measure presence as opposed to comprehensiveness.
+In terms of novelty, take the expected profile distance ( EPD ) metric [ 98]. Assume that we
+consider all recommended items and relevant items in the users profile,
+EU[EPD(𝜋)]=𝐶
+|U|∑︁
+𝑢∈U𝑛∑︁
+𝑖=1Pr(𝑖)∑︁
+𝑟∈R𝑢𝛿(𝜋𝑢,𝑖,𝑟)
+where𝐶is a constant and 𝛿is a linear distance function between items. If each item belongs to only
+one category, then we can set 𝛿(𝑖,𝑗)=1−Í
+𝑔∈GI(𝑖∈D 𝑔)I(𝑗∈D 𝑔)and derive a rank-equivalent
+metric,
+EU[EPD(𝜋)]rank=−∑︁
+𝑔∈G∑︁
+𝑢∈U∑︁
+𝑟∈R𝑢I(𝑟∈D 𝑔)𝑛∑︁
+𝑖=1Pr(𝑖)I(𝜋𝑢,𝑖∈D 𝑔)
+|                                           {z                                           }
+new exposure of items in D𝑔
+From this perspective–and with this distance function–we can see that, for each category, the metric
+measures magnitude of exposure of items in that category for users who have already engaged with
+an item in that category . For example, in the movie domain, taking the category of West African
+film, if a user has already positively rated at least one movie in that category, this metric would
+measure how many more West African films are recommended.
+6.3 Empirical Analysis
+Although we synthesized concepts from the PSM literature and the evaluation literature to develop
+our commonality metric, we are interested in understanding its empirical behavior as an evaluation
+metric. To this end, we explored the following, (i) correlation with existing metrics, (ii) robustness
+to missing labels, (iii) generalizability from population samples, and (iv) optimizability. These
+analyses use a fixed experimental setup consisting of multiple, publicly available datasets, which
+we use to compare commonality with existing metrics. Our analyses focus on the behavior of the
+commonality metric under different possible editorial policies. So, while a production system would
+employ editors who act as conduits for value communities, we select categories such that they are
+representative in size and representation to what we might expect from a human editor.
+6.3.1 Data. We consider three recommender system domains dealing with cultural content: movies,
+music, and literature. For each dataset, in addition to publicly available data, we selected categories
+(i.e.G) based on their historic under-representation in order to assess the behavior of our metric.
+Movies. We use the movielens-1m dataset, which contains 1,000,209 ratings of approximately
+3,900 movies from 6,040 users from the movielens platform. Using a separate dataset4, we augmented
+the movielens movies with metadata including country of production, gender of the director, original
+language, and keywords collected from the movie’s description. For this dataset, we used rankings
+4https://www.themoviedb.org/
+14Commonality in Recommender Systems
+from multiple recommendation systems prepared by Valcarce et al . [94] . Following the method
+described by the authors we converted to binary relevance labels considering ratings of 4 and
+5 as relevant. We selected categories of movies that are typically under-represented by movie
+recommender systems. Specifically, we consider female directors (under-representation by gender);
+independent film (under-representation by industry sector); and several sources of non-Western film
+(under-representation by geographical and linguistic inequality). We use categorical gender data,
+acknowledging the limitations of this framing [ 47]. For geographic categories, we use the country
+of production for the following regions of the world: South America, Central America, North Africa,
+South Africa, West Africa, Mid Africa, Southeast Asia, South Asia, Western Asia, Central Asia and
+East Asia. We consider, broadly, non-English language movies as a separate category. And, finally,
+we use keywords to create categories with selected movies whose categories contain “independent
+films”, “LGBT”, and “transgender”. We manually checked whether these keywords can be trusted to
+represent specific identities.
+Music. For music, we use Last.fm-2b dataset, which is the largest dataset containing users’
+listening events for 120,000 Last.fm users, and over two billion listening events. We enriched
+this dataset with additional information of the artists collected from MusicBrainz.org, a large
+collaborative database of music information. From this dataset we only considered interaction
+between the years 2013 and 2020. After removing items that were listened to by fewer than fifteen
+users and users that listened to less than fifteen items, the resulting dataset had 18,711 users
+and 28,341 items. From these items a total of 2,712 belong to at least one category. We selected
+eight categories that are related with regions of the world of non-western countries from the
+artists’ locations (North Africa, East Africa, Middle Africa, South Africa, West Africa, Middle
+East, Central Asia and Southeast Asia). We additionally selected two categories based on artists’
+gender information collected from Musicbrainz, these two categories are female artists and non-
+binary artists. We acknowledge that the category of female artists represent a group much larger
+than the other categories but, as we have reviewed, their are still under-representend or suffer
+through both industrial and recommender biases when compared to male artists. We trained 12
+recommender systems for the last.fm data using the Elliot library. We use models based on MF2020,
+NeuMF, RP3beta, BPRMF and iALS trained of both binarized and original input; plus two baselines:
+Popularity and Random.
+Literature. For literature, we use the Librarything dataset, containing user book ratings. We use
+a subset of the dataset containing 7279 users and 37232 items. We collected information for these
+books from Librarything.com. From the information we selected the following categories: Africa,
+Asia, Latin-america, Middle-east, Environment, Female, LGBT, Independent and Multicultural &
+Race. A total of 8171 books correspond to at least on category. For this dataset, we also used
+rankings from multiple recommendation systems prepared by Valcarce et al . [94] . Following the
+method described by the authors we first converted the original ratings to a scale of 1-5 and then
+converted to binary relevance labels considering ratings of 4 and 5 as relevant.
+6.3.2 Baseline Metrics. For all the experiments, we compare commonality against three classes of
+metrics: utility metrics, diversity metrics [98], and fairness metrics [20].
+We measure utility-focused properties using precision ( P), recall, ( R), and NDCG . We measure
+fairness across categories Gusing disparate exposure ( U) [40] and the divergence family of metrics
+(Δabs,Δsq,ΔKL) using the probability of exposure to categories [ 53]. We measure diversity of
+categoriesGusing𝛼-NDCG andIA-ERR and novelty using Expected Intra-List Distance ( EILD )
+and Expected Profile Distance ( EPD ) with distances based on genre representations of items.
+15Andres Ferraro, Gustavo Ferreira, Fernando Diaz, and Georgina Born
+Table 1. Full Category Selection. Correlation between commonality utility, fairness, and diversity metrics.
+Kendall’s𝜏between rankings of runs with Bonferroni correction to correct for multiple comparisons (bold:
+𝑝<0.05).
+movies music literature
+Utility
+P -0.119 0.512 0.053
+R -0.138 0.574 0.043
+NDCG -0.205 0.450 0.072
+Fairness
+U 0.721 0.326 0.763
+ΔKL 0.616 0.698 0.062
+Δsq 0.348 0.636 -0.647
+Δabs 0.339 0.605 -0.647
+Diversity and Novelty
+𝛼-NDCG -0.062 0.512 0.254
+IA-ERR -0.100 0.512 0.254
+EILD 0.730 0.853 0.782
+EPD 0.702 0.822 0.763
+6.3.3 Correlation with Existing Metrics. In our first analysis, we were interested in understanding
+the correlation between commonality and existing metrics (Section 6.3.2). Observing consistently
+high correlations between commonality and existing metrics across domains would suggest re-
+dundancy, reducing the need for a new metric. We measure this correlation across three different
+editorial regimes for selecting items within each category (i.e. which subset of D𝑔). In the first
+condition, we assume that editors select allitems inD𝑔. For example, if items authored by women
+were a broad category of interest, an editor in this condition would be interested in promoting a
+comprehensive familiarity with all items authored by women. In this condition, larger categories,
+while sometimes more likely to be recommended naturally (if the category is already popular),
+will be more difficult to achieve high familiarity with, even when explicitly programmed; smaller
+categories, on the other hand, will, by chance, have a lower probability of exposure but, with explicit
+programming, can reach high familiarity. In part to address this, we consider a second regime
+wherein an editor may downsample items from the largest category. Our final regime considers
+downsampling items from all categories until they have equal size. In this section, our analyses
+help us understand inter-metric correlation as a function of different editorial conditions.
+In order to compare metrics, we compute the Kendall’s 𝜏correlation between system rankings
+according to commonality and existing metrics.
+Full Category Selection. In our first analysis, we compare the correlation when using an editorial
+policy that selects all items in a category for promotion. Our results (Table 1) indicate that none
+of our utility and fairness metrics show a strong consistent correlation with commonality. While
+some domains show stronger correlations for some of these metrics, there is no evidence that
+commonality is redundant with these metrics. In terms of diversity and novelty, both EILD and
+EPD show stronger correlation with commonality consistently across domains.
+Downsampling the dominant category. In order to understand the relation between commonality
+and previous metrics under different editorial policies, we now look at how selecting a subset of items
+in the larger category would affect the rank correlations. In this analysis, we progressively remove
+16Commonality in Recommender Systems
+20406080-1.0-0.50.00.51.0P
+missingτ20406080-1.0-0.50.00.51.0R
+missingτ20406080-1.0-0.50.00.51.0NDCG
+missingτ
+20406080-1.0-0.50.00.51.0U
+missingτ20406080-1.0-0.50.00.51.0ΔKL
+missingτ20406080-1.0-0.50.00.51.0Δsq
+missingτ20406080-1.0-0.50.00.51.0Δabs
+missingτ
+20406080-1.0-0.50.00.51.0α−NDCG
+missingτ20406080-1.0-0.50.00.51.0IA-ERR
+missingτ20406080-1.0-0.50.00.51.0EILD
+missingτ20406080-1.0-0.50.00.51.0EPD
+missingτ
+Fig. 1. Correlation with commonality when downsampling the dominant category. Horizontal axis (all plots):
+percentage downsampled. Vertical axis (all plots): 𝜏correlation with commonality. Top row: Utility metrics;
+middle row: fairness metrics; bottom row: diversity metrics. Solid line: movies; dashed line: music; dotted line:
+literature. Lines show mean across five trials. Shaded regions indicate one standard deviation around the
+mean.
+category labels for items from the dominant category, simulating a policy that de-emphasizes
+familiarity with the comprehensive set of items in a category. We randomly downsample the
+dominant category to percentages of the original size, including (10, 30, 50, 70 and 90
+Downsampling all categories. In our final analysis, we measure how metrics correlate with
+commonality when editors downsample items from categories to have similar size. We scale the
+size of the categories such that 0
+Summary. Our analysis indicates that, across the editorial policies we considered, diversity met-
+rics (EILD andEPD ) maintain high correlation with commonality. Although these specific fairness
+and diversity metrics show stronger correlation than other metrics, their absolute correlation varies
+substantially across domains and remains relatively far from perfect correlation. Returning to our
+earlier analysis, much of this correlation is due to the fact that these measures, unlike utility and
+fairness metrics, capture the exposure of promoted content on average while commonality captures
+the exposure simultaneously .
+6.3.4 Robustness to missing category labels. In our second analysis, we evaluate the robustness of
+commonality to missing category labels. To do this, we remove category labels for items in each
+category and measure the correlation between metric computed with incomplete category labels
+17Andres Ferraro, Gustavo Ferreira, Fernando Diaz, and Georgina Born
+20406080-1.0-0.50.00.51.0P
+missingτ20406080-1.0-0.50.00.51.0R
+missingτ20406080-1.0-0.50.00.51.0NDCG
+missingτ
+20406080-1.0-0.50.00.51.0U
+missingτ20406080-1.0-0.50.00.51.0ΔKL
+missingτ20406080-1.0-0.50.00.51.0Δsq
+missingτ20406080-1.0-0.50.00.51.0Δabs
+missingτ
+20406080-1.0-0.50.00.51.0α−NDCG
+missingτ20406080-1.0-0.50.00.51.0IA-ERR
+missingτ20406080-1.0-0.50.00.51.0EILD
+missingτ20406080-1.0-0.50.00.51.0EPD
+missingτ
+Fig. 2. Correlation with commonality when downsampling all categories. Horizontal axis (all plots): percentage
+downsampled. Vertical axis (all plots): 𝜏correlation with commonality. Top row: Utility metrics; middle row:
+fairness metrics; bottom row: diversity metrics. Solid line: movies; dashed line: music; dotted line: literature.
+Lines show mean across five trials. Shaded regions indicate one standard deviation around the mean.
+and the metric with complete category labels. This is different from our earlier analysis because
+we are simulating errors induced when editors have incomplete information about the complete
+set of items they would select. We present the results of this analysis in Figure 3. Commonality
+degrades with increasing label noise due to impact on recall estimates. That said, since all systems
+are uniformly subject to incomplete data, the degradation in correlation is slight. As expected, utility
+metrics, which do not use category labels show strong correlation with complete label information,
+regardless of missing labels. Fairness, diversity, and novelty metrics–with the exception of ΔKL
+andIA-ERR –show more dramatic degradation compared to commonality.
+6.3.5 Generalization from sampled users. Since offline evaluation approximates performance for
+a full population of users with a sample, we were interested in understanding the stability of
+commonality under smaller samples. In this analysis, we evaluate commonality on a random subset
+of users and measure whether the ranking of systems changes significantly. To test how well a
+metric generalizes to a larger population of users, we randomly sample a subset of users in the
+range (10-90
+6.3.6 Improving Commonality of Personalization Algorithms. So far, we have concentrated on
+understanding commonality with respect to personalization-focused models. In this section, we will
+focus on post-processing the output of these algorithms to make them more commonality-sensitive.
+We emphasize simple mitigation strategies so that we can focus on understanding commonality
+18Commonality in Recommender Systems
+20406080-1.0-0.50.00.51.0commonality
+missingτ20406080-1.0-0.50.00.51.0P
+missingτ20406080-1.0-0.50.00.51.0R
+missingτ20406080-1.0-0.50.00.51.0NDCG
+missingτ
+20406080-1.0-0.50.00.51.0U
+missingτ20406080-1.0-0.50.00.51.0ΔKL
+missingτ20406080-1.0-0.50.00.51.0Δsq
+missingτ20406080-1.0-0.50.00.51.0Δabs
+missingτ
+20406080-1.0-0.50.00.51.0α−NDCG
+missingτ20406080-1.0-0.50.00.51.0IA-ERR
+missingτ20406080-1.0-0.50.00.51.0EILD
+missingτ20406080-1.0-0.50.00.51.0EPD
+missingτ
+Fig. 3. Robustness to missing category labels. Category labels were progressively removed from items and
+then the correlation between the system ranking with partial labels and the system ranking with complete
+labels was measured. Horizontal axis (all plots): percentage downsampled. Vertical axis (all plots): 𝜏correlation
+with complete labels. Top row: Comonality and utility metrics; middle row: fairness metrics; bottom row:
+diversity metrics. Solid line: movies; dashed line: music; dotted line: literature. Lines show mean across five
+trials. Shaded regions indicate one standard deviation around the mean.
+rather on the Pareto-optimal algorithm. Specifically, we adopt a interleaved promotion algorithm
+that boosts in-category items within personalization-focused recommendations. For each user, we
+order items in a category according to their positions in the personalized ranking and construct
+a combined promoted content ranking by selecting items from each category round robin. We
+select the top-ranked item in the final interleaved list by sampling an item from either the top of
+the original personalized ranking with probability 𝑝or the top of the combined promoted content
+ranking with probability 1−𝑝. We remove the selected item from its source list. For second-ranked
+item in the final interleaved list by sampling an item as before and removing the item from its source
+list. We continue this procedure until we have completed the ranking. A high value of 𝑝will recover
+the original ranking; a low value of 𝑝will return the combined promoted content ranking; values
+in between will be a combination of the two. We present a detailed description of the algorithm
+in Appendix A. We present interleaving results in Figure 5. We observe that interleaving allows
+us to increase the commonality while smoothly degrading utility. In most cases, tradeoff curves
+Pareto dominate each other, indicating that relative utility performance can be largely maintained
+across commonality targets. That said, some runs with lower baseline NDCG performance reverse
+order under interleaving. This indicates possible systematic under-exposure of content mitigated
+by interleaving.
+19Andres Ferraro, Gustavo Ferreira, Fernando Diaz, and Georgina Born
+20406080-1.0-0.50.00.51.0commonality
+missingτ20406080-1.0-0.50.00.51.0P
+missingτ20406080-1.0-0.50.00.51.0R
+missingτ20406080-1.0-0.50.00.51.0NDCG
+missingτ
+20406080-1.0-0.50.00.51.0U
+missingτ20406080-1.0-0.50.00.51.0ΔKL
+missingτ20406080-1.0-0.50.00.51.0Δsq
+missingτ20406080-1.0-0.50.00.51.0Δabs
+missingτ
+20406080-1.0-0.50.00.51.0α−NDCG
+missingτ20406080-1.0-0.50.00.51.0IA-ERR
+missingτ20406080-1.0-0.50.00.51.0EILD
+missingτ20406080-1.0-0.50.00.51.0EPD
+missingτ
+Fig. 4. Generalization from sampled users. Correlation between rankings of systems using metrics with
+samples of users and rankings of systems using metrics with full samples of users. Horizontal axis (all plots):
+percentage downsampled. Vertical axis (all plots): 𝜏correlation with complete labels. Top row: Comonality
+and utility metrics; middle row: fairness metrics; bottom row: diversity metrics. Solid line: movies; dashed
+line: music; dotted line: literature. Lines show mean across five trials. Shaded regions indicate one standard
+deviation around the mean.
+7 DISCUSSION
+Since commonality when linked to other progressive cultural principles (here, diversity) is a
+normative property we seek to promote in recommender systems, we have emphasized clear
+connections between it and the formal properties of our metric (e.g. diverse curation, familiarity).
+This exercise involved substantial translational work between disciplines–between ideas from
+the social sciences and humanities, and perspectives from recommender engineering. Specifically,
+we derived normative principles from the literature on public service media and translated them
+into guiding principles for the design of quantitative evaluation. In contrast with other evaluation
+metrics—including many based on personalization–we do not have a latent or delayed quantity to
+validate the metric. As such, conceptual analysis and theoretical development play a necessary and
+an exceptionally important role in the overall research we are presenting here.
+We were, in part, motivated by the proposition that existing evaluation metrics fail to capture
+broader principles associated with the promotion of cultural citizenship. The mathematical com-
+parison of commonality with existing metrics (Section 6.2) demonstrated that formal properties of
+commonality were absent in existing metrics. Our empirical results (Section 6.3.3) further support
+this proposition based on the inconsistent correlation between commonality and existing metrics.
+20Commonality in Recommender Systems
+05001000150020002500300035000.00.10.20.30.4
+commonalityNDCGBPRMFPLSApopularityRM1SVDrandom
+Fig. 5. Utility-Commonality Tradeoff Using Interleaved Promotion. Commonality and NDCG of
+personalization-focused algorithms post-processed by interleaved promotion. Results for the movies domain.
+Our conviction is that, depending on the cultural context, in principle other normative values
+could also be formally developed; these, in turn, could be used to assess mathematical or empirical
+alignment with existing metrics.
+Our results in Section 6.3.6 demonstrate that existing personalization algorithms can be processed
+to improve commonality, supporting our proposition that metrics provide an actionable intervention.
+While we developed our interleaved promotion algorithm as a proof of concept, more sophisticated
+algorithms can improve commonality while maintaining high utility. And, since personalization
+and public good objectives may be fundamentally in tension, multiobjective methods may be
+appropriate [63].
+Human editors–and the value communities they channel, and from whom they derive validated
+categories and judgments–play an important role in the assemblage supporting our evaluation
+metric. Even though we used examples of categories justified by existing literature, by envisaging
+editors answerable to knowledgeable communities that would guide category definition and assign-
+ment, we were able to investigate this metric performance while attending in the broader design of
+the assemblage to SSH concerns about the risks of identity essentialism.5While the categories we
+selected were limited by labels in our datasets, the general behavior of metrics we observed are
+representative of the diversity in size and prominence that we expect in practice. Given that in
+this series of experiments, we ourselves substituted for the editors we envisage, we are interested
+in future work in exploring the extent to which, and how, categories and items selected by those
+editors would affect the results. Moreover, in some cases, editors may desire more fine-grained
+5The risks of essentialism alluded to here are denounced in decolonial data feminist writing, which argues that “predatory
+data’s algorithmically-driven platforms and ‘predictive’ architectures have massified reductive classification schemes” [ 23].
+The alternative envisaged is to promote ’explicitly pluralistic, coalitional knowledge’ practices, a version of which we are
+attempting here through the editors and their relationship to evolving value communities.
+21Andres Ferraro, Gustavo Ferreira, Fernando Diaz, and Georgina Born
+control over category importance. In this situation, we can easily adapt our Borda count method to
+incorporate weights for categories [46].
+In previous work [ 34], we aggregated commonality values using mean commonality across groups
+instead of Borda count (Section 6.1). While mean aggregation is appropriate when aggregated
+values are calibrated across groups, it can degrade in the presence of outliers, which can occur due
+to differences in category sizes [ 34, Figure 1b]. Borda aggregation, on the other hand, preserves
+only the rank position of each system during aggregation, discarding the magnitude of differences
+in commonality between runs. In general, we find that Borda aggregation is necessary to compute
+a stable aggregation.
+8 CONCLUSION
+In this work, motivated by defining metrics for recommendation of cultural content, we developed
+a method to measure alignment with principles of cultural citizenship that we adapted from the
+PSM literature. Our proposed commonality metric emphasizes shared familiarity, the simultane-
+ous exposure of users to content from selected categories. This definition, captured by the joint
+probability of familiarity events, is worth exploring for both theoretical, normative, and pragmatic
+reasons.
+In addition to commonality, we introduced a relatively simple model of familiarity based on
+recall. We believe there is opportunity to develop alternative models of familiarity that consider a
+user’s previous experience with the category or other contextual information. However, the design
+of a familiarity model should be aligned with the concept of shared experience, meaning that, even
+if a user has engaged with content from a category in the past, re-exposing them may promote
+commonality at the risk of over-satiating users with niche interests, a topic of recent research [ 57].
+Our results demonstrate that existing high-utility recommendation algorithms under-perform in
+terms of commonality. We believe that exploring the space of commonality-informed recommen-
+dation can produce algorithms that perform substantially better in terms of commonality while
+maintaining high utility.
+By introducing earlier the idea of a recommender system as a sociotechnical assemblage, we
+point to how future research could attend more to other components of this assemblage, beyond
+the algorithm, that also bear on diversity or its lack. This might include the catalogues of content
+on which the system draws, and the larger institutional configuration within which recommender
+systems are designed and operationalized. Our focus in this paper on the importance of the
+commonality metric, then, should not be mistaken for the view that developing a new metric is in
+itself sufficient to advance and achieve the goals we have articulated: recommenders in the public
+interest that can enhance cultural citizenship.
+In future work we are also interested in how the commonality metric attuned to increasing
+diversity of shared cultural experience might enable us to track these processes over time as,
+potentially, they cumulatively affect a given population of users. This builds on our founding
+assumption that existing personalized recommender systems are having cumulative effects–effects
+that have not yet been identified and studied by the RecSys community. In the same way we assume
+that the commonality metric could also be tracked over time to identify the cumulative effects of
+the interventions we describe, making explicit the potential for cumulative changes in cultural
+exposure among the user population–and potentially bringing to light certain kinds of progressive
+cultural change.
+22Commonality in Recommender Systems
+A INTERLEAVED PROMOTION ALGORITHM
+Algorithm 1: Algorithm to incorporate promoted content into a personalization-based
+ranking.
+Function interleave User u, Float p
+allRecs = getRecommendation ( 𝑢);
+List idealRec = new List( 𝑖𝑡𝑒𝑚𝑠 );
+while idealRec.size() < 100 do
+List currentCategories = new List( 𝑐𝑎𝑡𝑒𝑔𝑜𝑟𝑖𝑒𝑠 );
+forall Category𝑐in categories do
+if𝑐not in currentCategories then
+itemC = allRecs.getNextItemByCategory(c);
+idealRec.push(itemC);
+catsItemC = getAllCategories(itemC);
+currentCategories.addAll(catsItemC);
+end
+end
+end
+forall Item𝑖in idealRec do
+ifrandom number > p: then
+nextItem = idealRec.pop();
+end
+else
+nexItem = allRecs.getNextItemNotAdded();
+end
+newRec.push( 𝑛𝑒𝑥𝑡𝐼𝑡𝑒𝑚 );
+end
+return newRec;
+end
+REFERENCES
+[1] 2022. A brief history of curation. https://www.alation.com/a-brief-history-of-curation
+[2]Ashton Anderson, Lucas Maystre, Ian Anderson, Rishabh Mehrotra, and Mounia Lalmas. 2020. Algorithmic Effects
+on the Diversity of Consumption on Spotify. In Proceedings of The Web Conference 2020 . Association for Computing
+Machinery, New York, NY, USA, 2155–2165. https://doi.org/10.1145/3366423.3380281
+[3]Mark Andrejevic. 2013. Public service media utilities: Rethinking search engines and social networking as public
+goods. Media International Australia 146, 1 (2013), 123–132.
+[4] David Balzer. 2014. Curationism: How curating took over the art world and everything else . Coach House Books.
+[5]Andrew Barry and Georgina Born. 2013. Interdisciplinarity: reconfigurations of the social and natural sciences. In
+Interdisciplinarity . Routledge, 1–56.
+[6]Ruha Benjamin. 2019. Race After Technology: Abolitionist Tools for the New Jim Code. Social Forces 98, 4 (12 2019),
+1–3. https://doi.org/10.1093/sf/soz162 arXiv:https://academic.oup.com/sf/article-pdf/98/4/1/33382045/soz162.pdf
+[7]Christina Boididou, Di Sheng, Felix J Mercer Moss, and Alessandro Piscopo. 2021. Building Public Service Recom-
+menders: Logbook of a Journey. In Fifteenth ACM Conference on Recommender Systems . 538–540.
+[8]Tiziano Bonini. 2017. The Participatory Turn in public service media. In Public Service Media Renewal. Adaptation to
+Digital Network Challenges , M. Głowacki and A. Jaskiernia (Eds.). 101–115.
+[9]G. Born. 2005. Uncertain Vision: Birt, Dyke and the Reinvention of the BBC . Vintage. https://books.google.es/books?
+id=LZNfNmeSqoYC
+23Andres Ferraro, Gustavo Ferreira, Fernando Diaz, and Georgina Born
+[10] Georgina Born. 2006. Digitising Democracy. In What can be done?: making the media and politics better , John Lloyd
+and Jean Seaton (Eds.). Oxford: Blackwell, 102–23.
+[11] Georgina Born. 2010. The social and the aesthetic: For a post-Bourdieuian theory of cultural production. Cultural
+Sociology 4, 2 (2010), 171–208.
+[12] Georgina Born. 2012. Mediating the public sphere: Digitisation, pluralism, and communicative democracy. Beyond
+Habermas: Democracy, Knowledge, and the Public Sphere (2012).
+[13] Georgina Born. 2018. Principles of Public Service for the 21st Century. In A Future for Public Service Television , Des
+Freedman and Vana Goblot (Eds.). [The MIT Press]. https://doi.org/10.7551/mitpress/9781906897710.003.0015
+[14] Georgina Born. 2018. Taking the Principles of Public Service Media into the Digital Ecology. In A Future for Public
+Service Television , Des Freedman and Vana Goblot (Eds.). [The MIT Press], 181–190. https://doi.org/10.7551/mitpress/
+9781906897710.003.0025
+[15] Georgina Born, Jeremy Morris, Fernando Diaz, and Ashton Anderson. 2021. Artificial Intelligence, Music Rec-
+ommendation, and the Curation of Culture. Schwartz Reisman Institute for Technology and Society White Paper
+(2021).
+[16] Georgina Born and Tony Prosser. 2001. Culture and Consumerism: Citizenship, Public Service Broadcasting and the
+BBC’s Fair Trading Obligations. The Modern Law Review 64, 5 (2001), 657–687. http://www.jstor.org/stable/1097275
+[17] Pierre Bourdieu. 1971. Systems of Education and Systems of Thought. In Knowledge and Control , Michael F.D. Young
+(Ed.). Collier Macmillan, New York, NY, 189–207.
+[18] Robin D Burke, Himan Abdollahpouri, Bamshad Mobasher, and Trinadh Gupta. 2016. Towards multi-stakeholder
+utility evaluation of recommender systems. UMAP (Extended Proceedings) 750 (2016).
+[19] Minerva Campos-Rabadán. 2020. Inequalities within the international film arena. A framework for studying Latin
+American film festivals. Comunicación y Medios 29, 42 (2020), 70–82. https://doi.org/10.5354/0719-1529.2020.57224
+[20] Rocío Cañamares, Pablo Castells, and Alistair Moffat. 2020. Offline evaluation options for recommender systems.
+Information Retrieval Journal (2020).
+[21] Roberto Suárez Candel. 2012. Adapting public service to the multiplatform scenario: challenges, opportunities and risks;
+final report of the project" Redefining and repositioning public service broadcasting in the digital and multiplatform
+scenarion; agents and strategies" . Hans-Bredow-Inst. für Medienforschung an der Univ. Hamburg, Verlag.
+[22] Òscar Celma and Pedro Cano. 2008. From hits to niches? or how popular artists can bias music recommendation
+and discovery. In Proceedings of the 2nd KDD Workshop on Large-Scale Recommender Systems and the Netflix Prize
+Competition . 1–8.
+[23] Anita Say Chan. 2022. Decolonial feminist futures and the coalitional lives of data pluralism (or: An inter-generational
+feminist playbook to resisting data apartheid).
+[24] Praveen Chandar, Fernando Diaz, and Brian St Thomas. 2020. Beyond accuracy: Grounding evaluation metrics for
+human-machine learning systems. Advances in Neural Information Processing Systems (2020).
+[25] Allison J. B. Chaney, Brandon M. Stewart, and Barbara E. Engelhardt. 2018. How Algorithmic Confounding in
+Recommendation Systems Increases Homogeneity and Decreases Utility. In Proceedings of the 12th ACM Conference
+on Recommender Systems (RecSys ’18) . Association for Computing Machinery, New York, NY, USA, 224–232.
+[26] Gerard Delanty. 2002. Two conceptions of cultural citizenship: A review of recent literature on culture and citizenship.
+The Global Review of Ethnopolitics 1, 3 (2002), 60–66.
+[27] Boguslawa Dobek-Ostrowska, Michał Głowacki, Karol Jakubowicz, and Miklos Sükösd. 2010. Comparative media
+systems: European and global perspectives . Central European University Press.
+[28] Karen Donders. 2011. Public service media and policy in Europe . Springer.
+[29] Michael D. Ekstrand, Anubrata Das, Robin Burke, and Fernando Diaz. 2022. Fairness in Recommender Systems. In
+Recommender Systems Handbook , Francesco Ricci, Lior Rokach, and Bracha Shapira (Eds.). Springer US, New York,
+NY, 679–707. https://doi.org/10.1007/978-1-0716-2197-4_18
+[30] Michael D Ekstrand, Mucun Tian, Ion Madrazo Azpiazu, Jennifer D Ekstrand, Oghenemaro Anuyah, David McNeill,
+and Maria Soledad Pera. 2018. All the cool kids, how do they fit in?: Popularity and demographic biases in recommender
+evaluation and effectiveness. In Conference on fairness, accountability and transparency . PMLR, 172–186.
+[31] Michael D. Ekstrand, Mucun Tian, Mohammed R. Imran Kazi, Hoda Mehrpouyan, and Daniel Kluver. 2018. Exploring
+Author Gender in Book Rating and Recommendation. In Proceedings of the 12th ACM Conference on Recommender
+Systems (Vancouver, British Columbia, Canada) (RecSys ’18) . Association for Computing Machinery, New York, NY,
+USA, 242–250. https://doi.org/10.1145/3240323.3240373
+[32] Avriel Epps-Darling, Henriette Cramer, and Romain Takeo Bouyer. 2020. Artist gender representation in music
+streaming.. In Proceedings of the 21th International Society for Music Information Retrieval Conference, ISMIR 2020,
+Montreal, Canada, October 11-16, 2020 . 248–254.
+[33] Adalbert Evers and Anne-Marie Guillemard. 2012. Social Policy and Citizenship: The Changing Landscape . Oxford
+University Press.
+24Commonality in Recommender Systems
+[34] Andres Ferraro, Gustavo Ferreira, Diaz Fernando, and Georgina Born. 2022. Measuring Commonality in Recommen-
+dation of Cultural Content: Recommender Systems to Enhance Cultural Citizenship. In Sixteenth ACM Conference
+on Recommender Systems (Seattle, USA) (RecSys ’22) . Association for Computing Machinery, New York, NY, USA.
+https://doi.org/10.1145/3523227.3551476
+[35] Andres Ferraro, Xavier Serra, and Christine Bauer. 2021. Break the loop: Gender imbalance in music recommenders.
+InProceedings of the 2021 Conference on Human Information Interaction and Retrieval . 249–254.
+[36] Benjamin Fields, Rhia Jones, and Tim Cowlishaw. 2012. The case for public service recommender algorithms. In
+FATREC 2017 workshop .
+[37] Benjamin Fish and Luke Stark. 2021. Reflexive Design for Fairness and Other Human Values in Formal Models. In
+Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society (Virtual Event, USA) (AIES ’21) . Association
+for Computing Machinery, New York, NY, USA, 89–99. https://doi.org/10.1145/3461702.3462518
+[38] Mary Flanagan, Daniel C. Howe, and Helen Nissenbaum. 2008. Embodying values in technology: Theory and practice .
+Cambridge University Press, 322–353. https://doi.org/10.1017/CBO9780511498725.017 Publisher Copyright: ©
+Cambridge University Press 2008 and 2009..
+[39] Christian Fuchs. 2012. Class and exploitation on the Internet. In Digital labor .
+[40] Elizabeth Gómez, Carlos Shui Zhang, Ludovico Boratto, Maria Salamó, and Mirko Marras. 2021. The Winner Takes
+It All: Geographic Imbalance and Provider (Un)Fairness in Educational Recommender Systems. In Proceedings of
+the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (Virtual Event,
+Canada) (SIGIR ’21) . Association for Computing Machinery, New York, NY, USA, 1808–1812. https://doi.org/10.1145/
+3404835.3463235
+[41] Ben Green and Salomé Viljoen. 2020. Algorithmic realism: expanding the boundaries of algorithmic thought. In
+Proceedings of the 2020 conference on fairness, accountability, and transparency . 19–31.
+[42] Stuart Hall. 1993. Which public, whose service? British Film Institute.
+[43] Jungkyu Han and Hayato Yamana. 2017. A Survey on Recommendation Methods Beyond Accuracy. IEICE Trans. Inf.
+Syst. 100-D (2017), 2931–2944.
+[44] David Hendy. 2013. Public Service Broadcasting . Bloomsbury Publishing.
+[45] Alfred Hermida, A Ash, and Amanda Ash. 2010. Wikifying the CBC: Reimagining the remit of public service media.
+(2010).
+[46] Tin Kam Ho, J.J. Hull, and S.N. Srihari. 1994. Decision combination in multiple classifier systems. IEEE Transactions
+on Pattern Analysis and Machine Intelligence 16, 1 (1994), 66–75.
+[47] Anna Lauren Hoffmann. 2019. Where fairness fails: data, algorithms, and the limits of antidiscrimination discourse.
+Information, Communication & Society 22, 7 (2019), 900–915.
+[48] Karol Jakubowicz. 2007. Public Service Broadcasting in the 21st century. From public service broadcasting to public
+service media. RIPE@ 2007 (2007), 29–49.
+[49] Karol Jakubowicz. 2010. PSB 3.0: Reinventing European PSB. In Reinventing public service communication . Springer,
+9–22.
+[50] Kalervo Järvelin and Jaana Kekäläinen. 2002. Cumulated gain-based evaluation of IR techniques. TOIS 20, 4 (2002),
+422–446.
+[51] Yucheng Jin, Nava Tintarev, and Katrien Verbert. 2018. Effects of Individual Traits on Diversity-Aware Music
+Recommender User Interfaces. In Proceedings of the 26th Conference on User Modeling, Adaptation and Personalization
+(Singapore, Singapore) (UMAP ’18) . Association for Computing Machinery, New York, NY, USA, 291–299. https:
+//doi.org/10.1145/3209219.3209225
+[52] Elliot Jones. 2022. Inform, educate, entertain...and recommend? Technical Report. Ada Lovelace Institute.
+[53] Ömer Kırnap, Fernando Diaz, Asia Biega, Michael Ekstrand, Ben Carterette, and Emine Yilmaz. 2021. Estimation of
+fair ranking metrics with incomplete judgments. In Proceedings of the Web Conference 2021 . 1065–1075.
+[54] Cory Knobel and Geoffrey C Bowker. 2011. Values in design. Commun. ACM 54, 7 (2011), 26–28.
+[55] Dominik Kowald, Peter Muellner, Eva Zangerle, Christine Bauer, Markus Schedl, and Elisabeth Lex. 2021. Support
+the underground: characteristics of beyond-mainstream music listeners. EPJ Data Science 10, 1 (2021), 14.
+[56] Dominik Kowald, Markus Schedl, and Elisabeth Lex. 2020. The unfairness of popularity bias in music recommendation:
+A reproducibility study. In European conference on information retrieval . Springer, 35–42.
+[57] Liu Leqi, Fatma Kilinc-Karzan, Zachary C. Lipton, and Alan L. Montgomery. 2021. Rebounding Bandits for Modeling
+Satiation Effects.
+[58] Oleg Lesota, Alessandro Melchiorre, Navid Rekabsaz, Stefan Brandl, Dominik Kowald, Elisabeth Lex, and Markus
+Schedl. 2021. Analyzing item popularity bias of music recommender systems: Are different genders equally affected?.
+InFifteenth ACM Conference on Recommender Systems . 601–606.
+[59] Kun Lin, Nasim Sonboli, Bamshad Mobasher, and Robin Burke. 2019. Crank up the volume: preference bias amplifica-
+tion in collaborative recommendation. In Proceedings of the First Workshop on Recommendation in Multi-stakeholder
+25Andres Ferraro, Gustavo Ferreira, Fernando Diaz, and Georgina Born
+Environments .
+[60] Momin M Malik. 2020. A hierarchy of limitations in machine learning. arXiv preprint arXiv:2002.05193 (2020).
+[61] Masoud Mansoury, Himan Abdollahpouri, Mykola Pechenizkiy, Bamshad Mobasher, and Robin Burke. 2020. Feedback
+loop and bias amplification in recommender systems. In Proceedings of the 29th ACM international conference on
+information & knowledge management . 2145–2148.
+[62] Thomas H. Marshall. 1950. Citizenship and Social Class . Cambridge.
+[63] Rishabh Mehrotra. 2021. Algorithmic Balancing of Familiarity, Similarity, & Discovery in Music Recommendations. In
+Proceedings of the 30th ACM International Conference on Information & Knowledge Management (CIKM ’21) . Association
+for Computing Machinery, New York, NY, USA, 3996–4005.
+[64] Rishabh Mehrotra, James McInerney, Hugues Bouchard, Mounia Lalmas, and Fernando Diaz. 2018. Towards a Fair Mar-
+ketplace: Counterfactual Evaluation of the trade-off between Relevance, Fairness and Satisfaction in Recommendation
+Systems. In Proceedings of the 27th ACM conference on Information and knowledge management .
+[65] Silvia Milano, Mariarosaria Taddeo, and Luciano Floridi. 2021. Ethical aspects of multi-stakeholder recommendation
+systems. The information society 37, 1 (2021), 35–45.
+[66] Toby Miller. 2001. Introducing... cultural citizenship. Social Text 19, 4 (2001), 1–5.
+[67] Hallvard Moe. 2008. Dissemination and dialogue in the public sphere: a case for public service media online. Media,
+Culture & Society 30, 3 (2008), 319–336.
+[68] Alistair Moffat and Justin Zobel. 2008. Rank-biased Precision for Measurement of Retrieval Effectiveness. ACM Trans.
+Inf. Syst. 27, 1 (Dec. 2008), 2:1–2:27.
+[69] Graham Murdock. 2005. Building the digital commons. Cultural dilemmas in public service broadcasting (2005),
+213–31.
+[70] Safiya Umoja Noble. 2018. Algorithms of Oppression . New York University Press, New York, USA. https://doi.org/doi:
+10.18574/nyu/9781479833641.001.0001
+[71] Martha C Nussbaum. 2003. Upheavals of thought: The intelligence of emotions . Cambridge University Press.
+[72] Hans Ulrich Obrist, Lionel Bovier, and Birte Theiler. 2008. A brief history of curating . JRP/Ringier Zurique.
+[73] Jan Pakulski. 1997. Cultural citizenship. Citizenship studies 1, 1 (1997), 73–86.
+[74] Bhikhu Parekh et al .2000. The Parekh Report: The Future of Multi-Ethnic Britain. Birmingham: Birminham Education
+Authority Publication (2000).
+[75] Marc Raboy. 1996. Public broadcasting for the 21st century . Vol. 17. Indiana University Press.
+[76] Stephen Robertson. 2006. On GMAP: And Other Transformations. In Proceedings of the 15th ACM International
+Conference on Information and Knowledge Management (CIKM ’06) . Association for Computing Machinery, New York,
+NY, USA, 78–83.
+[77] Renato Rosaldo. 1994. Cultural Citizenship in San Jose, California. PoLAR 17 (1994), 57.
+[78] Maria Sapignoli. 2021. Anthropology and the AI-Turn in Global Governance. American Journal of International Law
+115 (2021), 294–298.
+[79] Shrikant Saxena and Shweta Jain. 2022. Exploring and Mitigating Gender Bias in Book Recommender Systems with
+Explicit Feedback. (2022).
+[80] Paddy Scannell. 1989. Public service broadcasting and modern public life. Media, Culture & Society 11, 2 (1989),
+135–166.
+[81] Paddy Scannell and David Cardiff. 1991. A Social History of British Broadcasting: 1922-1939: Serving the Nation . Basil
+Blackwell.
+[82] Markus Schedl and David Hauger. 2015. Tailoring Music Recommendations to Users by Considering Diversity,
+Mainstreaminess, and Novelty. In Proceedings of the 38th International ACM SIGIR Conference on Research and
+Development in Information Retrieval (Santiago, Chile) (SIGIR ’15) . Association for Computing Machinery, New York,
+NY, USA, 947–950. https://doi.org/10.1145/2766462.2767763
+[83] Jean Seaton. 2021. The BBC: guardian of public understanding. In Guardians of Public Value . Palgrave Macmillan,
+Cham, 87–110.
+[84] Nick Seaver. 2018. What should an anthropology of algorithms do? Cultural anthropology 33, 3 (2018), 375–385.
+[85] Dougal Shakespeare, Lorenzo Porcaro, Emilia Gómez, and Carlos Castillo. 2020. Exploring artist gender bias in music
+recommendation. In Proceedings of the 2nd Workshop on the Impact of Recommender Systems .
+[86] Malcolm Slaney and William White. 2006. Measuring playlist diversity for recommendation systems. In Proceedings
+of the 1st ACM workshop on Audio and music computing multimedia . 77–82.
+[87] Nasim Sonboli, Robin Burke, Michael Ekstrand, and Rishabh Mehrotra. 2022. The multisided complexity of fairness
+in recommender systems. AI Magazine 43, 2 (2022), 164–176. https://doi.org/10.1002/aaai.12054
+[88] Luke Stark. 2018. Algorithmic psychometrics and the scalable subject. Social Studies of Science 48, 2 (2018), 204–231.
+[89] Trine Syvertsen, Karen Donders, Gunn Enli, and Tim Raats. 2019. Media disruption and the public interest. Nordic
+Journal of Media Studies 1, 1 (2019), 11–28.
+26Commonality in Recommender Systems
+[90] Georgios Theocharous, Philip S. Thomas, and Mohammad Ghavamzadeh. 2015. Personalized Ad Recommendation
+Systems for Life-Time Value Optimization with Guarantees. In Proceedings of the 24th International Conference on
+Artificial Intelligence (IJCAI’15) . AAAI Press, 1806–1812.
+[91] Tamas Tofalvy and Júlia Koltai. 2021. “Splendid Isolation”: The reproduction of music industry inequalities in Spotify’s
+recommendation system. new media & society (2021), 14614448211022161.
+[92] Matus Tomlein, Branislav Pecher, Jakub Simko, Ivan Srba, Robert Moro, Elena Stefancova, Michal Kompan, Andrea
+Hrckova, Juraj Podrouzek, and Maria Bielikova. 2021. An Audit of Misinformation Filter Bubbles on YouTube: Bubble
+Bursting and Recent Behavior Changes. In Fifteenth ACM Conference on Recommender Systems . 1–11.
+[93] Klaus Unterberger and Christian Fuchs. 2021. The public service media and public service internet manifesto . University
+of Westminster Press.
+[94] Daniel Valcarce, Alejandro Bellogín, Javier Parapar, and Pablo Castells. 2018. On the Robustness and Discriminative
+Power of Information Retrieval Metrics for Top-N Recommendation. In Proceedings of the 12th ACM Conference on
+Recommender Systems (Vancouver, British Columbia, Canada) (RecSys ’18) . Association for Computing Machinery,
+New York, NY, USA, 260–268. https://doi.org/10.1145/3240323.3240347
+[95] Daniel Valcarce, Alejandro Bellogín, Javier Parapar, and Pablo Castells. 2020. Assessing ranking metrics in top-N
+recommendation. Information Retrieval Journal 23, 4 (2020), 411–448.
+[96] Hilde Van den Bulck. 2008. Can PSB stake its claim in a media world of digital convergence? The case of the Flemish
+PSB management contract renewal from an international perspective. Convergence 14, 3 (2008), 335–349.
+[97] Hilde Van den Bulck and Hallvard Moe. 2018. Public service media, universality and personalisation through
+algorithms: mapping strategies and exploring dilemmas. Media, Culture & Society 40, 6 (2018), 875–892.
+[98] Saúl Vargas and Pablo Castells. 2011. Rank and Relevance in Novelty and Diversity Metrics for Recommender Systems.
+InProceedings of the Fifth ACM Conference on Recommender Systems (Chicago, Illinois, USA) (RecSys ’11) . Association
+for Computing Machinery, New York, NY, USA, 109–116. https://doi.org/10.1145/2043932.2043955
+[99] Deb Verhoeven, Bronwyn Coate, and Vejune Zemaityte. 2019. Re-distributing gender in the global film industry:
+Beyond #MeToo and #MeThree. Media Industries Journal 6, 1 (2019).
+[100] Michael Matthias Voit and Heiko Paulheim. 2021. Bias in Knowledge Graphs–an Empirical Study with Movie
+Recommendation and Different Language Editions of DBpedia. In Proceedings of the Language, Data, and Knowledge
+Conference .
+[101] Sarah Myers West. 2020. Redistribution and Rekognition: A Feminist Critique of Algorithmic Fairness. Catalyst:
+Feminism, Theory, Technoscience 6, 2 (2020).
+27

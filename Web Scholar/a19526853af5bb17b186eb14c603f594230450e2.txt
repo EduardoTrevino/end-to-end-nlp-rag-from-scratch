@@ -1,0 +1,2065 @@
+Vol.:(0123456789)Journal of Computers in Education (2024) 11(1):305–346
+https://doi.org/10.1007/s40692-022-00257-5
+1 3
+Tools for assessing teacher digital literacy: a review
+Lan Anh Thuy Nguyen1  · Anita Habók2 
+Received: 1 June 2022 / Revised: 19 November 2022 / Accepted: 14 December 2022 /  
+Published online: 19 January 2023 
+© The Author(s) 2023
+Abstract
+With the rapid advancement of technology, digital literacy has become a key com-
+ponent in educators’ professional development. A wide range of assessment tools 
+has been developed to measure teacher digital literacy; however, there has been no 
+previous attempt to systematically synthesize and scrutinize those tools to improve 
+evaluation of this ability among educators. The current study reviews literature on 
+instruments that assess teacher digital literacy with the purposes of ascertaining 
+the main aspects of it that recent researchers focus on in their evaluation, instru-
+ment types used for assessment, and the reliability and validity report, as well as 
+the frameworks or models used to design assessment tools. The review selected 33 
+English-language publications in the field of educational technology from peer-
+reviewed journals indexed in the Education Resources Information Center (ERIC), 
+Web of Science, and Scopus. The study period spanned from 2011 to 2022 with 
+the objective of reviewing the tools used to assess teacher digital competence. The 
+major findings demonstrate that scholars focus on digital competence in teachers’ 
+use of educational technology, teaching and learning, professional development, and 
+support for learners through digital competence. Other researchers emphasize the 
+ability of educators to apply technology to the assessment of learner outcomes or to 
+empower students in using technology to enhance learning. Additionally, self-evalu-
+ation instruments are common, whereas a few studies promote subjective evaluation 
+in combination with objective assessment to provide a comprehensive understanding 
+of teacher digital competence. The results form the basis for several recommenda-
+tions for future research for the further examination of teacher digital literacy.
+Keywords Digital literacy · Digital competence · Literature review · Assessment 
+tools · Professional development · Educational assessment · Teacher evaluation
+ * Lan Anh Thuy Nguyen 
+ lan.anh.nguyen@edu.u-szeged.hu
+Extended author information available on the last page of the article306 Journal of Computers in Education (2024) 11(1):305–346
+1 3
+Introduction
+There has been a great deal of effort to provide technologies in schools since 
+the 1980s because educational computing has long been considered to prepare 
+learners with essential digital skills for their future career. However, the issue of 
+the integration of technology into an educational context positively facilitating 
+the outcome of teaching and learning has been controversial because there has 
+been a lack of evidence for the effectiveness of using technologies in education 
+(Elstad, 2016). The concern here is that businesspeople, the technology industry 
+and policy-makers may merely use the inclusion of digital technology as rheto-
+ric to gain access to lucrative markets (Lindh & Nolin, 2016), while students, 
+teachers, and teacher education are often overlooked (Nivala, 2009). Specifically, 
+in recent years, globalization and the expansion in information and communica-
+tion technology (ICT) have been used to augment the importance and urgency of 
+implementing ICT in education. Keeping up with the times to avoid being left 
+behind, multiple governments have invested in reformulating the education sys-
+tem to align it with the global information society discourse because education is 
+understood as one of the most influential strategies to facilitate national develop-
+ment in the digital age (Haugsbakk, 2013). Accordingly, digital literacy devel-
+opment is considered an instrument to improve educational standards, address 
+economic problems, and build the information society (Hanell, 2018). The ubiq-
+uitous involvement of technology in all aspects of education and changes in ICT 
+policies have been demonstrated by the fact that a series of education systems 
+have required digital educational platforms or assessment tools for learning and 
+teaching (Porat et  al., 2018). Therefore, at a high-stakes level, digital literacy 
+development is considered one of the strongest potential solutions to the multi-
+faceted problems of involving ICT in society, since it can become an instrument 
+for better educational attainment and societal development (Hanell, 2018; Nguyen 
+& Habók, 2021). At a low-stakes level, digital literacy is also becoming a major 
+concern for school stakeholders because investing in digital facilities to support 
+a hybrid teaching and learning system would only be valuable if teachers and 
+students possessed sufficient digital literacy to use technology in education effec-
+tively. In the current educational environment, teachers’ mission is to support stu-
+dents in mastering the knowledge and skills required in the twenty-first century. 
+Moreover, digital literacy is considered one of the key competencies as well as an 
+essential factor in learning (Knutsson et al., 2012) for students to be able to cope 
+with the demands of globalization. Additionally, scholars predict that digital liter -
+acy will be indispensable in all kinds of achievement during the Fourth Industrial 
+Revolution (Williamson et al., 2019). Educational technologies, the task of being 
+digital role models, and providing appropriate education for students as future 
+citizens are crucial. Thus, teachers are required to achieve high levels of qualified 
+digital literacy or to possess sufficient technical, cognitive, and socioemotional 
+skills (Güneş & Bahçivan, 2018). Teachers can thus successfully align technolo-
+gies, pedagogies, and content knowledge in a digitally rich media environment. 
+Additionally, in relation to coping with the digitization of education, teachers 307
+1 3 Journal of Computers in Education (2024) 11(1):305–346 
+are urged to update, enhance, and emulate well-honed skills in front of students 
+(Priestley, 2011). The reason for this notion is that teachers play a decisive role in 
+learner digital literacy. Moreover, teachers are considered a primary factor in the 
+success of placing and innovating technology in schools (European Union, 2013). 
+Consequently, professional development among teachers in general and their 
+level of digital literacy in terms of integrating technology into education in par -
+ticular have become global concerns. In response, researchers around the world 
+have conducted various studies across contexts to assess the extent to which edu-
+cators use technologies in the teaching process. Moreover, such studies intend to 
+examine the ability of teachers to guide students in the use of technology through 
+digital literacy. As such, scholars formulate and test diverse instruments to assess 
+teacher digital literacy in substantial educational contexts (e.g., Quaicoe & Pata, 
+2020). Furthermore, measurement is a complex process because of the dizzying 
+emergence of technologies in society (Núñez-Canal et al., 2022). Scholars there-
+fore recommend that educators constantly improve knowledge and skills for edu-
+cational practice and professional development. While a variety of measurements 
+has been presented in various studies to evaluate teacher digital literacy, there is 
+a need to categorize and synthesize recent assessment tools to facilitate improve-
+ment of evaluation. Additionally, the existing literature focuses a great deal on 
+reviewing digital literacy assessment among students (e.g., Siddiq et  al., 2016) 
+but not among teachers. The objective of this review is thus to paint a picture of 
+the assessment of teacher digital literacy in the school context. The paper intends 
+to answer the following questions:
+RQ1 What aspects of digital literacy are presented in recent research on potential 
+ways to assess teacher digital literacy?
+RQ2 What types of instruments are used to assess digital literacy, and how are 
+instrument reliability and validity reported?
+RQ3 What frameworks or models are used to develop the instruments?
+With these guided research questions, the article will be followed by a theoretical 
+background section where digital literacy and other related concepts, dimensions of 
+digital literacy, models/frameworks for assessing educators’ digital literacy, approaches 
+and types of instruments, and reliability and validity indicators for instruments are 
+reviewed comprehensively. After that, we present the methodology with information 
+on the coding process and study selection. In the Results and discussion section, the 
+research questions will be answered and discussed in detail. In the final section, we will 
+synthesize the main findings of the research and point out some limitations as well as 
+making recommendations for future studies.308 Journal of Computers in Education (2024) 11(1):305–346
+1 3
+Theoretical background
+Digital literacy and other related concepts
+The unprecedented growth of ICT in the digital era has spawned various terms to 
+indicate the skills, competencies, abilities, or literacies related to the use of digital 
+technologies. Apart from digital literacy, which was used by the European Commis-
+sion (2003), various studies have coined a wide range of other similar terms. The 
+most common ones are ICT literacy (Educational Testing Service, 2002), twenty-
+first-century skills (Partnership for 21s t Century Skills, 2002), new literacies (Lank -
+shear & Knobel, 2003), digital skills (Erstad, 2006), media literacy (Erstad, 2010), 
+digital competence (Ferrari et al., 2013), Internet literacy (Harrison, 2017), emerg-
+ing technology (Pacansky-Brock, 2017), and ICT competence (Suárez-Rodríguez 
+et al., 2018). However, no clear-cut boundaries were established between the con-
+structs covered by these terms in previous studies. Frequently, certain authors have 
+used related terms to replace others (e.g., Nguyen & Habók, 2022a). Thus far, the 
+relationship between these terms has remained controversial in the literature, with 
+the differences possibly having originated because of the multiple academic fields 
+represented by the authors (Bawden, 2008) or the occasional expansion of the tech-
+nologies. Indeed, numerous terms were used in the digital context when technolo-
+gies were not as developed as at the present time, in which the context was some-
+times implicit and sometimes explicit (Ala-Mutka, 2011). This is why scholars may 
+use the same term but with different foci or different terms with the same focus 
+(Bawden, 2001). Therefore, it is somewhat challenging to employ a term because the 
+relevant concept may be too broad or narrow. If the concept is too broad, the find-
+ings of the study have no purpose. In contrast, the discovery may rule out significant 
+components. However, it cannot be denied that the terms noted above share similari-
+ties because they focus on the use of technologies in coping with information and 
+communication and with content creation through technologies to aid an individ-
+ual in achieving targets in learning, professional development, and other activities 
+(Hatlevik et al., 2015). Additionally, these terms are the links between technology 
+domain, knowledge, competence, and ethical issues (Siddiq et al., 2016).
+Conceptualization of digital literacy
+The concept of digital literacy can be encapsulated using multiple means and per -
+spectives. Although certain concepts of digital literacy have offered a panoramic 
+vision, others have endeavored to dissect the terminology to understand what lies 
+at the heart of it. Initially, the definitions seemed contradictory and were defined 
+from different perspectives and in different contexts. A more comprehensive 
+understanding of digital literacy was constituted out of a combination of such 
+definitions. For example, digital literacy could be captured from the cognitive 
+perspective through expansive definitions. For example, Gilster (1997) proposed 
+one of the earliest and most common definitions in relation to an understanding 309
+1 3 Journal of Computers in Education (2024) 11(1):305–346 
+of digital literacy and described the term as the competence to use, evaluate, and 
+align multiple digital resources or tools in the lifelong learning process. This defi-
+nition exceeded the narrow scope of technical skills and emphasized the issue of 
+generating the idea of using technology to solve problems and to acquire vital 
+knowledge and skills in the digital context. This then formed a scaffold for later 
+conceptions of digital literacy (e.g., Nguyen & Habók, 2022b; Redecker, 2017a), 
+whereas the limits of the term have gradually been expanded on the basis of new 
+skills and updated digital technologies in multiple digitized environments. Addi-
+tionally, the European Commission (2018) suggested that digital literacy is a vital 
+competence such that the accessibility and use of technologies enable individu-
+als to achieve personal integration and development in society (European Com-
+mission, 2018). These general definitions have been applied to different fields, 
+where the scope is then associated with additional specific contexts. In education, 
+teacher digital literacy is related to proficiency in applying technology to educa-
+tion accompanied with awareness of and decisions on the implications of teach-
+ing and learning in the context of a digitized society (Krumsvik, 2012). Another 
+example is Hall et  al. (2014), who developed the DigiLit Leicester project to 
+facilitate progress in teacher digital literacy. The working definition of the pro-
+ject emerged from various definitions presented by a number of education studies. 
+Also, in the project, they defined teacher digital literacy as knowledge, skills, and 
+attitudes toward the use of educational applications to support learners. A digi-
+tally literate teacher is expected to be capable of effectively teaching with tech-
+nology, enhancing their professional development, critical thinking about tech-
+nology integration, and forming their identity. The government of Catalonia also 
+identified digitally competent educators as those who can implement educational 
+knowledge, skills, and attitudes in concrete teaching situations on a daily basis 
+(Generalitat de Catalunya, 2018).
+Digital literacy was also found in many studies on narrow-scope definitions of 
+digital literacy, which mainly focus on operational technological tasks (e.g., Son 
+et  al., 2017). The Assessment and Teaching of twenty-first Century Skills pro-
+ject concentrates on improving learners’ consumer and producer skills and social 
+and intellectual skills in the digitized collaborative context in relation to digital 
+literacy (Wilson et al., 2017). Reviewing the foundational definition of digital lit-
+eracy and distinguishing from Gilster’s (1997) cognitive aspect, the author noted 
+that accessibility, information search, management and editing, and virtual com-
+munication and network participation comprise a set of skills that requires digital 
+literacy. In education, researchers have adopted the concept by classifying dif-
+ferent technical skills related to the accessibility of information, online involve-
+ment, computer skills, search engine skills, and information evaluation (McAr -
+thur et al., 2018). This paper will focus on digital literacy among educators in a 
+specific context, which is the educational environment. Then, once we have sum-
+marized, narrowed, and linked the definitions above, digital literacy can be under -
+stood as educators’ knowledge, skill, and attitude in dealing with technologies to 
+facilitate teaching and learning, professional development, and other educational 
+activities.310 Journal of Computers in Education (2024) 11(1):305–346
+1 3
+Dimensions of digital literacy from different perspectives
+Digital literacy has been categorized into types of subcompetencies based on hierar -
+chy. Authors and scholars continue to discuss the term, other related constructs, and 
+the scope of these constructs. Although Law et al. (2018) categorized digital literacy 
+into several subcompetencies, computer, ICT, information, and media literacies, 
+Wilson et  al. (2011) classified these terms in the opposite direction. Specifically, 
+the authors combined media and information literacies into an umbrella term that 
+covers digital literacy. From the same perspective, Tristán-López and Ylizaliturri-
+Salcedo (2014) claimed that digital literacy and other concepts, such as information 
+and computer literacies, are subcomponents of ICT competency, which is consid-
+ered a blanket term. Alternatively, other authors have refrained from linking these 
+associated constructs to establish a class relation, and this perception may be reason-
+able because the concepts above share similarities (e.g., Hatlevik et al., 2015), which 
+we discussed in the previous section. However, specific sub-branches that constitute 
+digital literacy should be determined to capture the concept fully. Digital literacy 
+may be assumed to comprise six branches of subcognitive literacies: photo-visual 
+(comprehension of multimedia information), reproduction (creation of a completed 
+product from disparate information), branching (characterization, arrangement, and 
+engagement of available information), information (critical evaluation of informa-
+tion), socioemotional (adherence to digital norms), and real-time thinking (simul-
+taneous processing of a number of stimuli) literacies. Eshet (2012) proposed this 
+classification, whereas Ng (2012) presented three broad dimensions: technical, cog-
+nitive, and social–emotional aspects. Although the concept includes the essential 
+skills of digital literacy, scholars have voiced criticism that operational skills, which 
+are related to the ability to work using different, updated hardware and software for 
+specific purposes, should have been indicated (Zhong, 2011). Indeed, both views 
+are persuasive, and they are impacted by the research contexts, the purposes of the 
+research, the field represented by the authors, and so on. A few years later, Carretero 
+et al. (2017) promoted a European digital competence framework for citizens: Dig-
+Comp 2.1. The framework specified digital literacies on five subscales: information 
+and data literacy, communication and collaboration, digital content creation, safety, 
+and problem-solving. The framework has become influential in the assessment of 
+digital literacy and has been used in multiple fields (e.g., Silva-Quiroz & Morales-
+Morgado, 2022). Eventually, the framework was adopted to measure digital com-
+petence among citizens across fields. Moreover, Van Laar et al. (2017) intended to 
+assess digital literacy in an authentic, specific context. Hence, the authors specified 
+not only digital literacy but also the contextual skills required to implement it. The 
+core skills recommended by the authors cover seven core elements (technical, infor -
+mation management, communication, collaboration, creativity, critical thinking, and 
+problem-solving). Apart from these seven elements, the authors also categorized 
+contextual skills to facilitate the use of digital literacy in various contexts: ethi-
+cal awareness, cultural awareness, flexibility, self-direction, and lifelong learning. 
+Similarly, Peromingo and Pieterson (2018) grouped digital literacy into five com-
+ponents: operation, mobility, navigation, society, and creation. However, the authors 
+added the ability to use mobile devices as a component of digital literacy apart from 311
+1 3 Journal of Computers in Education (2024) 11(1):305–346 
+computers, which are common tools, due to the current popularity of such devices 
+in the classroom environment. Clearly, there are trends in components of digital lit-
+eracy which must adapt to the development of technologies and society.
+Models/frameworks of teacher digital literacy assessment in the educational 
+context
+Various empirical studies have designed and tested a number of frameworks and 
+assessment tools that describe multiple components of digital literacy at the interna-
+tional and national levels. The objective was to support the measurement of teacher 
+digital literacy to anticipate training needs (Redecker, 2017a) or to explore the extent 
+to which these frameworks or measurement tools interpret teacher competence in 
+the educational context.
+At the international level, Martin and Grudziecki (2006) developed the DigEu-
+Lit framework and tools for European countries and proposed three levels for the 
+enhancement of digital literacy from the foundation to the extreme stage (digital 
+competence, use, and transformation). The framework provided educators, learn-
+ers, and learning support staff with specific guidelines on how to facilitate the rec-
+ognition of digital components in teaching, learning, and support activities in line 
+with the curriculum and with professional development. Moreover, the framework 
+emphasized the application of technology for working and learning purposes in 
+practice. It was further tied to several tools for tutors, learners, and support staff  
+to enable them to monitor, deliver, or acquire the appropriate digital elements for 
+teaching and learning programs. Nevertheless, the focal points of the framework and 
+tools are inadequate in terms of relevant skills outside schools. The rapid change 
+in digital technologies in the new decade requires new competencies for educators 
+and learners. New frameworks have thus been designed and developed to cope with 
+the pace of society. Another framework has been published for the context of Euro-
+pean education, the European Framework for the Digital Competence of Educators 
+(DigCompEdu; Redecker, 2017b), which was modified from DigComp (Carretero 
+et al., 2017). This framework is based on consultations among experts to describe 
+the digital competencies necessary for the teaching profession and to identify the 
+specific digital literacies required of educators. The framework has been widely rec-
+ognized because it not only adopted relevant skills from valuable frameworks but 
+also complemented the comprehensive aspects of the twenty first-century competen-
+cies necessary for teachers. The framework focused on multiple aspects that educa-
+tors address in their daily professional activities, such as professional engagement, 
+digital resources, teaching and learning, assessment, learner empowerment, and 
+facilitating digital competence among learners. The core of the framework intended 
+to support teachers in implementing technology in teaching in a pedagogically effec-
+tive manner as well as to aid learners in achieving the skills required in the digital 
+business world. Thus, the results of this stream of research could be interpreted as 
+follows: technology, pedagogy, and target knowledge and skills should be incorpo-
+rated to promote meaningful teaching in a digitized learning environment. Addition-
+ally, the core elements of the framework are not separate but united in focusing on 312 Journal of Computers in Education (2024) 11(1):305–346
+1 3
+establishing links to apply technology and pedagogy to teaching practice in relation 
+to problem-solving skills in the real world. Moreover, UNESCO (2013) designed 
+the ICT Competency Framework for Teachers (ICT-CFT), which was developed on 
+the basis of three integration levels in ICT (technology literacy, knowledge deepen-
+ing, and knowledge creation) to support policy-makers in assessing ICT competency 
+among teachers. Thus, the framework aimed to measure the competency of teachers 
+from six aspects in relation to the education system (policy and vision, curriculum 
+and assessment, pedagogy, ICT, organization and administration, and teacher profes-
+sional development) from the perspectives of curriculum designers and policy-mak -
+ers. DigCompEdu and UNESCO ICT-CFT mainly focus on teachers’ application of 
+technology to teaching activities using consistent aspects of assessment. However, 
+UNESCO ICT-CFT is also concerned with the issue of context as regards curricu-
+lum, facilities, and policy. As such, it expects teachers to address issues associated 
+with specific contexts to effectively integrate technology into education and incorpo-
+rate a technological approach. The International Society for Technology in Educa-
+tion (ISTE) developed a framework for teacher competence by focusing on students’ 
+twenty first-century skills. Furthermore, it aims to aid teachers in their practice with 
+technology, enhance collaboration among learners, innovate teaching through tech-
+nology, and foster autonomy among learners (Crompton, 2017; ISTE, 2018). The 
+ISTE standards for educators are categorized into seven types of competencies that 
+educators are required to achieve during their career. Educators should improve 
+their competence in evaluation, facilitation, designation, collaboration, leader -
+ship, and citizenship and in learning to work well with students and guiding them 
+within a technological environment. The framework refers to the necessary compe-
+tencies for teachers and provides teachers with examples of each competence and 
+the focal competencies tied to the issues of teaching and learning with technology. 
+However, the standard continues to hold certain limitations because the competen-
+cies are separate, whereas the illustrative examples for each competence are general 
+and descriptive instead of practical. In Africa, the ICT-enhanced Teacher Standards 
+framework (UNESCO International Institute for Capacity Building in Africa, 2012) 
+was designed for countries on that continent. It comprises interrelated dimensions of 
+competent, twenty first-century teachers in engaging in instructional design, namely, 
+promotion and motivation of student learning, innovation and creation, creation and 
+management of effective learning environments, evaluation and communication, 
+professional development and model ethical duty, and comprehensive understanding 
+of the subject. Additionally, various studies have used the frameworks noted above 
+to assess teacher digital competence (e.g., Quaicoe & Pata, 2020), and the compre-
+hensive subcomponents of teacher digital literacy and the relationship among them 
+may be the reasons for the popularity of the framework.
+Some nations adapted international frameworks to design and apply the national 
+model to their specific educational context. For instance, the Spanish Ministry of 
+Education, Culture and Sport designed a digital competence model in 2012 called 
+the Common Framework for Digital Competence for Teachers (INTEF – Insti-
+tuto Nacional de Tecnologías Educativas y Formación del Profesorado, 2017). It 
+was adapted from DigComp (Carretero et al., 2017) and DigCompEdu (Redecker, 
+2017b) for the Spanish context. Eventually, several researchers used the framework 313
+1 3 Journal of Computers in Education (2024) 11(1):305–346 
+to develop and validate instruments for measuring digital literacy (e.g., Tourón 
+et al., 2018). Likewise, the Education and Teaching Foundation in Britain designed 
+the Digital Teaching Professional Framework (Education & Training Foundation, 
+2019) to support educators in understanding technology integration, in cultivating 
+the practice of teaching with technology, and in supplementing their professional 
+development. The framework specifies teacher competence from seven aspects 
+(planning pedagogy, approach pedagogy, student employability, specific teaching, 
+assessment, accessibility and inclusion, and personal development). Each aspect is 
+classified into three levels: exploration, adaptation, and leadership. As regards the 
+seven aspects, the nature of each aspect was relatively consistent with a few inter -
+national frameworks, such as DigCompEdu and UNESCO ICT-CFT. Moreover, the 
+framework highlighted that the focal point of the competence of educators is to fos-
+ter learners in using digital technology to enhance their employment and entrepre-
+neurial prospects.
+Multiple models and frameworks from various empirical studies have also con-
+tributed to the evaluation of digital literacy in specific educational contexts (e.g., 
+Mishra & Koehler, 2006; Puentedura, 2006). Certain models or frameworks empha-
+size teacher competence in incorporating technology into the teaching process to 
+enhance learning. Mishra and Koehler (2006) have developed a technological peda-
+gogical content knowledge (TPACK) model that aims to illustrate effective teaching 
+using technology to incorporate technological, pedagogical, and content knowledge. 
+Undeniably, the framework has greatly contributed to integrating technology into 
+the classroom. However, the model is limited because it does not offer a conceptual-
+ization of digital literacy for educators. Additionally, scholars have demonstrated the 
+lack of discrimination between different areas of knowledge, while the boundaries 
+of the aspects are vague (Drummond & Sweeney, 2017). Alternatively, the Substi-
+tution Augmentation Modification Redefinition (SAMR; Puentedura, 2006) model 
+was developed as a descriptive framework with four levels of hierarchy (substitu-
+tion, augmentation, modification, and redefinition). It follows the taxonomy from 
+low to high levels and has been widely used by educational researchers and trainers 
+as a guide for teachers in the technology integration process. At the highest level 
+or stage (redefinition), teachers are guided to create new tasks that require abilities 
+related to higher-order cognition, whereas at the starting stage (substitution), digital 
+technology also functions as a guided tool that does not call for any change in the 
+function of technology or created tasks with lower-order cognition. The two other 
+intermediate steps, augmentation and modification, serve as bridges for transforma-
+tion from the simple stage in using digital technologies to the more complex stage. 
+These stages intend to facilitate development and innovation in education, peda-
+gogy, and the curriculum. Although the SAMR model provided educators with a 
+step-by-step process for achieving the target points in applying technology to the 
+teaching process, it drew criticism because it lacked a detailed practical application 
+and because it failed to specify the digital competence required of teachers for each 
+stage and the transition from one stage to the next. Krumsvik (2014) introduced a 
+digital competence model for teachers, which was developed in the Scandinavian 
+context. The model grouped teacher digital competence into four subscales, basic 
+technological usage, pedagogical use of digital technology, learning technology, 314 Journal of Computers in Education (2024) 11(1):305–346
+1 3
+and ethical issues, to align technology with education as well as to enhance aware-
+ness of digitization. It is evident that the model focused a great deal on evaluating a 
+teacher’s competence in teaching with technology from the teacher’s perspective but 
+not in relation to learners. Fisher et al. (2012) designed the teacher-centered DECK 
+framework, which stresses the use of digital applications in teaching practice from 
+four main aspects, distributed cognition and knowledge, engagement and motiva-
+tion, community and communication, and knowledge enhancement. Although the 
+framework clearly refers to digital literacy in practice, it does not provide adequate, 
+detailed information on the competencies for each aspect. Hall et al. (2014) intro-
+duced a self-evaluation DigiLit Leicester framework that focuses on measuring digi-
+tal literacy from four aspects with four levels (entry, core, developer, and pioneer), 
+which were critically reviewed and adapted from different frameworks: (1) finding, 
+assessment, and organization; (2) creation and sharing; (3) communication, coop-
+eration, and participation; and (4) online safety and e-identity. Further, a number of 
+frameworks concentrate on evaluating digital competence among pre-service teach-
+ers, with the components of these frameworks also being similar to those designed 
+for inservice teachers. For instance, Expertise NetWork at the Ghent University 
+Association (ENW AUGent, 2013) for teacher training institutions developed an ICT 
+competence framework to support teacher training programs. The framework aimed 
+to improve digital competence among preservice teachers in three broad dimensions 
+of professional development, instruction and pedagogy, professional development, 
+and the school. Table  1 lists typical but impressive frameworks in the field of edu-
+cational digital literacy. One acceptable notion is that a number of competencies 
+referred to by different frameworks and models at the cross-national, national, and 
+contextual levels can be mapped using DigCompEdu (Redecker, 2017b). The reason 
+is that the framework was evaluated to cover the main digital competencies of edu-
+cators in the school context. Additionally, DigCompEdu was selected because it pro-
+vided general competencies needed by educators to achieve digital literacy. Table  1 
+collates aspects of typical frameworks according to DigCompEdu.
+Approaches and types of instruments to measure digital literacy
+Two approaches for measurement (pragmatic and psychometric) are common in 
+designing tools to assess digital literacy. Each approach has its strengths and 
+weaknesses as regards validity. Scholars have thus advised combining the two 
+approaches to guarantee instrument validity. Based on multiple frameworks and 
+models, international and national organizations and researchers in specific con-
+texts have designed and improved various tools to assess digital literacy. Assess-
+ment tools can measure information, technology, and digital information and 
+are thus grouped from the perspective of assessment and item design or based 
+on their objectives (e.g., research purpose and quality insurance; Sparks et al., 
+2016). The most common means of classifying digital literacy instruments is the 
+use of the data collection approach, which includes knowledge-based assessment 
+(response on the manner of handling tasks), performance assessment (illustra-
+tion of the manner of performing tasks), and self-assessment (self-evaluation of 315
+1 3 Journal of Computers in Education (2024) 11(1):305–346 Table 1  Teacher digital literacy frameworks
+Framework/Model Organization/Author Country Level Component/Aspect PE DR TL A EL FLC
+DigCompEdu European Commission; 
+Redecker (2017b)International Six levels: awareness, 
+exploration, integration, 
+expertise, leadership, and 
+innovationProfessional engagement 
+(PE), digital resources 
+(DR), teaching and learn-
+ing (TL), assessment (A), 
+empowering learners (EL), 
+and facilitating learners’ 
+digital competence (FLC)O O O O O O
+ICT Competency Frame-
+work for TeachersUNESCO International Three levels: knowledge 
+acquisition, knowledge 
+deepening, and knowledge 
+creationPolicy and vision, cur -
+riculum and assessment, 
+pedagogy, ICT, organiza-
+tion and administration, 
+and teacher professional 
+developmentO O O O O O
+ISTE Crompton (2017) USA Evaluation, facilitation, 
+designation, collaboration, 
+leadership, citizenship, 
+and learningO O O O O O
+The Common Framework 
+for Digital Competence for 
+TeachersThe Spanish Ministry of 
+Education, Culture and 
+SportsSpain Three levels: basic, medium, 
+and advancedInformation and data 
+literacy communication 
+and collaboration, digital 
+content creation, safety, 
+problem-solvingO O O O O
+The British Framework of 
+Digital TeachingThe British Education and 
+Teaching FoundationBritain Pedagogical planning, peda-
+gogical approach, employ -
+ability of students, specific 
+teaching, evaluation, 
+accessibility and inclusion, 
+and self-developmentO O O O O O316 Journal of Computers in Education (2024) 11(1):305–346
+1 3Table 1  (continued)
+Framework/Model Organization/Author Country Level Component/Aspect PE DR TL A EL FLC
+Teachers’ ICT competencies Ministry of Education, 
+Chile; Enlances (2011)Chile Pedagogical, technical, 
+management, social, ethi-
+cal, legal, and professional 
+developmentO O O
+DigEuLit Martin and Grudziecki 
+(2006)Contextual Three levels: digital compe-
+tence, digital usage, and 
+digital transformationSkills/concepts, profes-
+sional application, and 
+innovationO O O
+SARM Puentedura (2006) Contextual Four levels: substitution, 
+augmentation, modifica-
+tion, and redefinitionVisualization and simula-
+tion, social computing, 
+digital storytelling, and 
+educational gamingO O O O
+TPACK Mishra and Koehler (2006) Contextual Technology, pedagogy, 
+content, and knowledgeO O O
+Teachers’ digital competence 
+modelKrumsvik (2014) Contextual Four levels: adoption, 
+adaptation, appropriation, 
+innovationBasic digital skills, elemen-
+tary skills, didactic ICT 
+competence, learning 
+strategies, and digital 
+buildingO O O O
+DECK Fisher et al. (2012) Contextual Distributed cognition and 
+knowledge, engagement 
+and motivation, commu-
+nity and communication, 
+and knowledge buildingO O O
+DigiLit Leicester Hall et al. (2014) Contextual Four levels: entry, core, 
+developer, pioneerFinding, evaluating, and 
+organizing; creating and 
+sharing; communication, 
+collaboration, and partici-
+pation; and e-safety and 
+online identityO O O O317
+1 3 Journal of Computers in Education (2024) 11(1):305–346 Table 1  (continued)
+Framework/Model Organization/Author Country Level Component/Aspect PE DR TL A EL FLC
+Digital Literacy Model Ng (2012) Contextual Technical, cognitive, and 
+socioemotionalO O O O318 Journal of Computers in Education (2024) 11(1):305–346
+1 3
+the competence of completing tasks; Carretero et al., 2017). Obtaining a large 
+number of participants is seemingly difficult for performance and knowledge 
+assessment in contrast to self-assessment. However, implementing tools for 
+self-evaluation research may result in low reliability and validity. Also, multiple 
+researchers have indicated that there is a low correlation between students’ self-
+reported digital literacy and their actual performance (Hatlevik et al., 2018), and 
+the result of this indirect assessment only reports a belief about digital literacy. 
+Therefore, when designing a digital literacy assessment tool, there has been an 
+attempt to immerse instruments in an authentic digital environment (Reichert 
+et al., 2020). However, there is also a concern that teachers or students may not 
+have the necessary technical/operational competence to use the assessment tool 
+(Chanta, 2021), and the poor result of the level of digital literacy might not be 
+a result of participants’ actual performance but their lack of digital competence 
+in using the assessment software. This means that there is no perfect digital lit-
+eracy assessment tool, and it is always a challenging task to measure teachers’ 
+or students’ digital literacy. This is why scholars need to consider a number of 
+factors when designing an instrument, such as the research context, participants, 
+facilities, and so on. Additionally, technologies are developing by the minute, so 
+digital literacy assessment instruments need updating to keep pace with the new 
+technologies.
+Instrument reliability and validity indicators
+The reliability of a measurement depends on the degree to which it provides a stable 
+and consistent result (Carmines & Zeller, 1979), whereas validity denotes the abil-
+ity to measure what one intends to measure (Field, 2005). In terms of reliability, 
+Cronbach’s alpha coefficient is the most common indicator to measure the internal 
+consistency of the assessment tool. As regards validity, scholars have reported on 
+the common types of validity in the development and validation of instruments, such 
+as face, content, construct, and so on. Face validity refers to researchers’ subjective 
+evaluation of the relevance, clarity, and rationality of the instrument (Oluwatayo, 
+2012), and Cohen’s Kappa Index (CKI) is normally used to determine the face valid-
+ity of the assessment tool. Content validity refers to the extent to which items in an 
+instrument measure how comprehensive and representative the content of the instru-
+ment is (Newman et  al., 2006). Scholars commonly use a content validity index, 
+which can be calculated with several methods to prove the validity tied to the con-
+tent of the instrument. In addition to face and content validity, construct validity, 
+which refers to the extent to which the assessment instrument really evaluates what 
+it purports to (Ginty, 2013), also needs to be reported for instrument quality assur -
+ance. The validity of the construct is guaranteed through two subsets: convergent 
+validity and discriminant validity.
+The current study investigates the extent to which an instrument for measur -
+ing digital literacy is reliable and valid by determining the types of reliability 
+and validity that researchers used to validate the instruments.319
+1 3 Journal of Computers in Education (2024) 11(1):305–346 
+Method
+Search strategies and study selection
+A search was conducted in three scientific databases (Education Resources Infor -
+mation Center (ERIC), Web of Science, and Scopus) and was based on the Pre-
+ferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 
+flow diagram (Fig.  1; Moher et al., 2009). We conducted electronic and manual 
+searches to identify target articles. Papers were selected for review on the basis of 
+five major inclusion criteria:
+Studies included for 
+review
+(n = 33)Articles screened for 
+the second time
+(n = 75)Records screened for 
+the first tim e
+(n = 253)
+Full-text articles  
+assessed for eligibilit y
+(n = 47)Abstracts excluded based 
+on inclusion criteria
+(n = 178)
+Records excluded with  
+direct reference to their  
+full texts (n = 28)
+Full-text articles excluded  
+due to irrelevance (n = 14)Identificatio n Screening Eligibilit y InclusionRecords identified 
+through database  
+searching
+(n = 1,486)
+Records after 
+omission of duplicates
+(n = 1,345)
+Fig. 1  Process of selecting articles for review (adapted from the PRISMA flow diagram)320 Journal of Computers in Education (2024) 11(1):305–346
+1 3
+• Articles were limited to peer-reviewed journals between January 2011 and Feb-
+ruary 2022.
+• Articles were published on information technology research in education.
+• The study participants were in service and pre-service teachers.
+• The study focused on digital competency assessment.
+• The articles were written in English.
+Articles were searched for with the following search terms in the title, keywords, 
+and abstracts: “ICT competency” or “ICT literacy” or “digital literacy” or “informa-
+tion literacy” or “computer literacy” or “technology literacy” and “assessment.” The 
+second to fifth listed here were included because they are subfields of ICT compe-
+tency (Tristán-López & Ylizaliturri-Salcedo, 2014).
+Following the search strategy, the study identified 1486 articles in the databases 
+noted above. After we omitted duplicates and screened the abstracts and full texts 
+based on the inclusion criteria, the articles were placed on a list for further review 
+to guarantee that the articles selected met the requirements. Moreover, they were 
+reviewed to search for answers to the research questions. Finally, 33 studies, which 
+had been published in high-quality, peer-reviewed journals to ensure the reliability 
+and validity of the research, were selected for the review.
+The coding process and data extraction
+After finalizing the studies eligible for review, we coded 33 studies for features, as 
+described in Table  2. We used the code to specify the research context and identify 
+information tied to components of digital literacy assessment tools, types of instru-
+ments, evidence for reliability and validity, and frameworks or models used to design 
+the assessment tool in each study. The authors coded the features of all the studies 
+selected, especially collating the aspects of digital literacy components which were 
+used in each assessment tool according to the DigCompEdu framework. The data 
+Table 2  Coding scheme for studies selected
+Study coding
+Research context Year, author, country, level of schools
+Sample Number of pre-service or inservice teachers in the study
+Research tools Questionnaire, interview, performance task, etc.
+Types of assessment tool Self-evaluation, objective assessment, etc.
+Framework/model Framework or model used in designing the assessment 
+tool
+Components of digital literacy assessment tool Professional engagement, digital resources, teaching 
+and learning, assessment, empowering learners, and 
+facilitating learners’ digital competence
+Evidence of reliability and validity Reliability (Cronbach’s α, kappa coefficient, McDon-
+ald’s omega, etc.)
+Validity (content validity, face validity, construct valid-
+ity, etc.)321
+1 3 Journal of Computers in Education (2024) 11(1):305–346 
+extraction was then reviewed and revised multiple times with the agreement of the 
+authors before it was synthesized and interpreted for the results and discussion.
+Results and discussion
+Characteristics of reviewed studies
+Among the selected papers, 15 (44%) were conducted to determine the level of 
+digital competence among pre-service teachers, whereas 18 (55%) explored that of 
+inservice teachers at primary and secondary schools, at universities, and in other 
+areas (e.g., vocational education and training and special education) (50%, 55%, 
+22%, 22%, and 11%, respectively). Figure  2 and Table  3 depict the distribution of 
+the selected articles per year and per peer-reviewed journal, respectively.
+RQ1: what aspects of digital literacy are presented in recent research on potential 
+ways to assess teacher digital literacy?
+The studies selected used multiple instruments to examine different aspects based 
+on various frameworks to identify the level of teacher digital competence. We 
+categorized these aspects on the basis of the six main components of the Dig-
+CompEdu framework. The result demonstrates that among the aspects of digital 
+024681012141618
+201120122013201420152016201720182019202020212022
+Number of articlesQuantity
+Year
+Fig. 2  Distribution of articles per year322 Journal of Computers in Education (2024) 11(1):305–346
+1 3
+literacy cited, the papers reviewed exhibited a trend of mainly focusing on explor -
+ing teacher competence in integrating digital resources (97%), teaching and learn-
+ing (78%), improving professional development (78%), and facilitating learner 
+digital competence (63%). The other two teacher competencies of assessment and 
+empowering learners are less investigated (33% and 48%, respectively). Figure  3 
+presents a comparison of the frequency of appearance of the six main aspects of 
+digital literacy in published articles.
+Out of the 33 selected papers, ten investigated teacher competence within the 
+six elements of digital literacy (e.g., Çebi & Reisoğlu, 2022). In other studies, 
+researchers only highlighted a few major aspects, which are considered the core 
+competencies that influence teaching and learning effectiveness. For instance, 
+Wong and Moorhouse (2021) endeavored to assess digital competence among 
+English as a foreign language (EFL) teachers in primary and secondary schools 
+in Hong Kong in terms of applying educational technologies, teaching and learn-
+ing, evaluation, and empowering students during the forced transition of schools 
+to online education due to the COVID-19 pandemic. These four interconnected 
+competencies are subcomponents of educators’ pedagogical competencies based 
+on the DigCompEdu framework (Redecker, 2017b). Meanwhile, other studies Table 3  Distribution of selected articles per journal
+Journal title Num -
+ber of 
+articles
+Computers and education 4
+Nordic journal of digital literacy 2
+Computers in human behavior 2
+British journal of educational technology 2
+Education sciences 5
+Journal of new approaches in educational research 3
+System 1
+Educacion XX1 1
+Education and information technologies 2
+Journal of education for teaching 1
+European journal of teacher education 1
+Journal of information and technology education: research 1
+International education studies 1
+Journal of educational computing research 1
+European journal of contemporary education 1
+Empirical research in vocational education and training 1
+Scandinavian journal of educational research 1
+Technology, knowledge and learning 1
+Asia pacific journal of educators and education 1
+Interactive learning environments 1323
+1 3 Journal of Computers in Education (2024) 11(1):305–346 
+were conducted to examine only one aspect of teacher digital literacy in depth. 
+For example, Potyrała and Tomczyk (2021) explored teacher knowledge and 
+skills when addressing online safety, such as the evaluation of the reliability of 
+e-information, cyberbullying, and other issues related to the application of tech-
+nology to education. A few scholars also explored teacher competence in using 
+new aspects apart from the six core components. Alarcón et al. (2020) contrib-
+uted to the DigCompEdu framework by adding two components, digital environ-
+ment and extrinsic digital engagement, which are external components that influ-
+ence digital literacy. The questionnaire thus developed proved reliable and valid 
+according to the construct validity and psychometric properties of the Spanish 
+educational context.
+RQ2: what types of instruments are used to assess digital literacy, and how are 
+instrument reliability and validity reported?
+The literature has designed, developed, or adapted various instruments to determine 
+teacher digital literacy. In the papers reviewed, the researchers used diverse assess-
+ment instruments, which can be categorized into self-evaluation, objective evalua-
+tion (knowledge- or performance-based assessment), and a combination of the two 
+(85%, 6%, and 9%, respectively).
+In total, 28 papers used only self-assessment when exploring teacher digital com-
+petence. The reason for the popularity of self-assessment is that data collection from 
+a large number of participants is convenient and economical. Additionally, self-
+assessment may be useful in eliciting teacher reflection on their knowledge, skills, 
+and attitudes toward the use of educational technologies in teaching. However, the 
+general limitation of these studies is that they only use self-assessment to evaluate 
+competencies in the use of technology in teaching because the literature has demon-
+strated that certain groups of participants tend to overestimate or underestimate their 789678334863
+Professional developmen tDigital resourcesTeaching and learning AssessmentEmpowering learnersFacilitating learners' digital competence
+02 04 06 08 01 00 120Aspects of digital literacy
+Frequency of appearance (%) 
+Fig. 3  Frequency of appearance of the main aspects of digital literacy in reviewed papers324 Journal of Computers in Education (2024) 11(1):305–346
+1 3
+competence compared with their actual level. This aspect may lead to inadequate 
+knowledge and skills in the management of technologies and media in teaching.
+Thus, the use of self-assessment questionnaires may not achieve adequate reli-
+ability and internal validity because of the limitations noted above. For this reason, 
+a few authors in recent years have tended to use more than one instrument by adding 
+other objective tools for evaluation when assessing teacher digital literacy to rein-
+force the persuasiveness of the findings. For example, Nebot et al. (2021) conducted 
+a mixed-method study and explored digital competence among university instructors 
+with a self-assessment questionnaire followed by interviews with the objective of 
+presenting rich descriptions using quantitative and qualitative data. A holistic under -
+standing of the target issue was thus achieved. Maderick et al. (2016) also included 
+objective assessment in conjunction with self-assessment to examine teacher digi-
+tal competence. This group of authors used two types of questionnaires (Likert and 
+multiple-choice scales for knowledge-based assessment) to evaluate competence 
+subjectively and objectively in parallel. A few studies only used objective assess-
+ment through knowledge tests. For example, Wang and Lu (2021) developed items 
+with multiple types of modalities, such as multiple-choice, true or false, and fill in 
+the blanks, for an objective assessment of technological competency among pre-ser -
+vice teachers in China. Additionally, the participants were supported with text, vid-
+eos, or images during the test. The majority of the studies selected did not conduct 
+performance-based assessment using performance tests but observations, such as 
+Røkenes and Krumsvik’s mixed-method research (2016). Specifically, the research-
+ers observed pre-service teachers to determine how they used technology in the 
+language classroom. They found that digital literacy has received increased schol-
+arly attention in recent years due to the emergence of hybrid educational environ-
+ments. Moreover, teacher digital literacy is considered the principal element in the 
+effectiveness of technological innovation. Thus, the results suggest that researchers 
+should use additional and other reliable and valid methods to assess digital literacy 
+objectively through the support of technology or authentic and interactive tests. In 
+this manner, pre-service and inservice teachers become aware of their actual levels 
+of competence in technology. As such, teacher training programs can be adjusted to 
+aid pre-service teachers in building the foundation of their competence and, there-
+fore, to improve it, especially in using technology applications to meet the demands 
+of the future teaching environment. Moreover, workshops, seminars, or short train-
+ing courses can be designed for inservice teachers to fill the research gap in terms of 
+the effectiveness of managing educational tools in the classroom.
+In terms of the reliability and validity of the assessment tools, critical to deter -
+mining the efficacy of the research tools, 26 out of 33 papers (78%) reported reli-
+ability, 22 (66%) presented validity values, and 21 (63%) pointed out the levels of 
+instrument reliability and validity. The results demonstrate that researchers gen-
+erally describe the level of instrument reliability with Cronbach’s alpha (α) coef-
+ficient (e.g., Lucas et  al., 2021; Quaicoe & Pata, 2020). Frequently, reliability is 
+evaluated using the omega (Rubach & Lazarides, 2021) or kappa (Cantabrana et al., 
+2019) coefficient or expected a posteriori/plausible values (Wang & Lu, 2021). A 
+few papers partially reported evidence of instrument validity (Wong & Moorhouse, 
+2021), whereas others reported that the instruments are reliable and valid for the 325
+1 3 Journal of Computers in Education (2024) 11(1):305–346 
+research context (e.g., Teo et al., 2016; Tondeur et al., 2017; Wang & Lu, 2021). In 
+the case of instrument validity, except for content, face, convergent, discriminant, 
+and construct validity, several scholars also analyzed goodness-of-fit at the item 
+level. Out of the papers reviewed, Wang and Lu (2021) confirmed item validity by 
+demonstrating the fit of an item with the participant. By analyzing the goodness-of-
+fit of various items and levels of difficulty, the researchers differentiated examinees’ 
+skills and level of knowledge. Whether a paper partially or fully describes instru-
+ment reliability and validity depends on the objective of the study. Nevertheless, the 
+basic values of reliability and validity should be reported to enhance the persuasive-
+ness of the findings.
+RQ3: what frameworks or models are used to develop the instruments?
+In the literature, various frameworks and models have been developed at the interna-
+tional, national, and contextual levels to evaluate teacher digital literacy. Among the 
+reviewed papers, instruments were designed, developed, and adapted on the basis of 
+such frameworks. Among the publications selected, seven (21%) used research tools 
+designed and developed based on the DigCompEdu framework, which includes edu-
+cators’ general and necessary competencies. Although the framework was designed 
+for the educational context of European countries, it has been applied to other envi-
+ronments (e.g., Alarcón et  al., 2020; Karunaweera & Wah, 2021). For instance, 
+Alarcón et al. (2020) extended DigCompEdu by adding two components to enable 
+the questionnaire to match the specific context of technology use. The research tool 
+was later used to collect data from participants in a European country (Spain) and 
+countries in Latin America, such as Mexico, Chile, and Peru. DigCompEdu was 
+developed on the basis of DigComp to evaluate digital competence in education; 
+however, a few researchers continue to refer to the DigComp framework when pro-
+ducing questionnaires intended to assess the competence of educators as digital citi-
+zens of the twenty-first century. In certain cases, DigComp has been combined with 
+other digital models for education, such as that of Rubach and Lazarides (2021), 
+to examine teachers’ competence in applying technology to teaching practice. Out 
+of the papers selected, only one involved UNESCO ICT-CFT, which was used as 
+a scaffold to measure e-skills among university teaching staff in Ecuador (Jorge-
+Vázquez et al., 2021). These results demonstrate that studies on digital literacy in 
+relation to infrastructure and policy are scarce, whereas the enhancement of digital 
+competence may be influenced by facilities and strategic leadership (Wastiau et al., 
+2013). Other studies have cited other international frameworks, such as the ICT-
+Enhanced Teacher Standards for Africa (Quaicoe & Pata, 2020), and other national 
+frameworks constructed on the basis of the international frameworks (e.g., Prieto-
+Ballester et al., 2021; Wang & Lu, 2021). Still other studies have used models devel-
+oped from specific contexts such that the competencies fit the educational environ-
+ment (e.g., Cantabrana et al., 2019). In total, seven studies developed research tools 
+based on the theories or definitions in the literature (e.g., Hatlevik, 2016) or focused 
+on evaluating teachers’ knowledge of digital tools (e.g., Maderick et al., 2016) or 
+competency in managing and processing various types of educational technologies 326 Journal of Computers in Education (2024) 11(1):305–346
+1 3
+(e.g., Záhorec et al., 2021). Although various frameworks are available at different 
+levels, no fixed frameworks or models that fit all contexts exist, whereas multiple 
+types of research tools have been used to measure teacher digital literacy. Thus, 
+teachers are required to achieve updated technological competence and other related 
+knowledge and skills to enable them to keep pace with society and to aid students 
+in becoming digitally competent citizens of the technology era due to the unprec-
+edented development in technology and media.
+Conclusions, limitations, and recommendations
+The literature review was conducted to enhance our understanding of how research-
+ers assess teacher digital literacy. By reviewing 33 papers published in peer-
+reviewed journals and in educational technology, we address the major aspects of 
+digital literacy generally explored by researchers, various forms of research tools 
+used to assess digital literacy, and the common frameworks and models used as a 
+scaffold to develop research tools. Various aspects of digital literacy exist in the 
+digital competence framework, models, and instruments. Thus, the researchers cat-
+egorized these aspects on the basis of the six main components of DigCompEdu, 
+which is one of the most influential frameworks. The findings show that the majority 
+of researchers emphasize the assessment of teacher digital competence from four 
+aspects in improving their digital competence: using various educational technolo-
+gies, teaching and learning, professional development, and supporting learners. 
+However, only a few studies highlighted the manner in which teachers use technol-
+ogy to assess students’ learning outcomes and how they empower learners to be in 
+charge of the e-learning process. Also, digital competence should be discussed in 
+the light of technological and educational environments with the support of lead-
+ership, facilities, and policy. Among the studies selected, only one explored these 
+issues, while leadership, facilities, and policy have considerable impacts on enhanc-
+ing digital competence. Moreover, self-evaluation instruments are relatively com-
+mon research tools in the publications selected, whereas a number of papers use 
+solely subjective assessment. A few papers addressed the weaknesses of subjec-
+tive evaluation by combining different types of instruments to assess teacher digi-
+tal literacy. Moreover, studies partially or fully reported the reliability and validity 
+of multiple instruments according to the objective of the research. Additionally, the 
+findings demonstrate that DigCompEdu and DigComp are the two most common 
+frameworks used to develop instruments to assess teacher digital competence. The 
+two frameworks also form the foundation for the design of other frameworks at the 
+national and contextual levels.
+The paper provides a picture of research tools used to assess teacher digital 
+literacy in the school context. The articles were selected after conducting a search 
+in three databases (ERIC, Web of Science, and Scopus) from 2011 to 2022. The 
+current study only includes papers that were searched for in these databases, 
+and only papers published in English were selected. Hence, other articles on the 
+topic may have been written in other languages but have been omitted. Future 
+research may expand the search areas and review publications in other languages 327
+1 3 Journal of Computers in Education (2024) 11(1):305–346 
+to depict the full picture of the assessment of teacher digital competence. The 
+findings indicate that numerous studies have assessed teacher digital literacy 
+using self-assessment tools. Thus, future research may develop and design other 
+authentic and interactive tests to reflect teachers’ actual knowledge and skills 
+in terms of technology integration. Additionally, a few papers used the mixed-
+method approach to evaluate target competencies. Therefore, further studies that 
+combine quantitative and qualitative methods should be conducted to provide a 
+comprehensive understanding of teacher digital competence in specific contexts. 
+Additionally, subjective and objective evaluations should be incorporated into 
+these tools to reflect the exact level at which teachers apply technology to edu-
+cation. Furthermore, the findings demonstrate that the percentage of papers that 
+focus on examining teacher competence in terms of using educational technology 
+for assessment and empowering learners remains low. Thus, the need emerges to 
+focus on these two aspects of digital literacy when assessing teacher digital com-
+petence. Moreover, the results show that a large number of studies concentrate on 
+evaluating teacher digital competence in primary and secondary schools. In this 
+case, the context of technology integration among teachers in high school, higher 
+education, and other educational contexts (e.g., vocational and special schools) 
+warrants further exploration.
+Appendix
+See Table 4 .328 Journal of Computers in Education (2024) 11(1):305–346
+1 3Table 4  Overview of instruments for assessing teachers’ digital literacy
+No Author (Year) Country Sample size Level of 
+schoolsMethodol-
+ogyResearch 
+ToolType Framework/
+ModelAspects Reliability 
+evidenceValidity 
+evidence
+1 Wong and 
+Moorhouse 
+(2021)Hongkong 73 Primary 
+Second-
+aryMix-meth-
+odsOpen-ended 
+question-
+naire 
+Semi-
+structured 
+interviewsSelf-evalua-
+tionDigCom-
+pEduDigital resources, 
+teaching and 
+learning, assess-
+ment, empower -
+ing learnersContent and 
+face validity
+2 Rodríguez 
+et al. (2021)Spain 144 Pre-service 
+teachers)Quantitative Likert Scale 
+question-
+naireSelf-evalua-
+tionDidactic, curricu-
+lar and method-
+ological aspects, 
+planning, 
+organization and 
+management of 
+digital techno-
+logical resources 
+and spaces, ethi-
+cal, legal and 
+security aspects, 
+personal and 
+professional 
+developmentCronbach’s 
+αContent 
+validity 
+Construct 
+validity 
+(explora-
+tory factor 
+analysis)
+3 Røkenes and 
+Krumsvik 
+(2016)Norway 270 Pre-service 
+teachers)Mix-meth-
+odsObservation 
+notes Lik -
+ert scale 
+question-
+naire 
+Semi 
+Structured 
+interviewSelf-evalua-
+tionKrumsvik 
+(2014)‘s 
+digital 
+compe-
+tence 
+modelBasic digital 
+skills, didactic 
+ICT compe-
+tence, learning 
+strategies, digi-
+tal BildungCronbach’s 
+αConstruct 
+validity 
+(explora-
+tory factor 
+analysis, 
+confirma-
+tory factor 
+analysis)329
+1 3 Journal of Computers in Education (2024) 11(1):305–346 Table 4  (continued)
+No Author (Year) Country Sample size Level of 
+schoolsMethodol-
+ogyResearch 
+ToolType Framework/
+ModelAspects Reliability 
+evidenceValidity 
+evidence
+4 Lucas et al. 
+(2021)Portugal 1071 Primary 
+school
+SecondaryQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionDigCom-
+pEduProfessional 
+Engage-
+ment, digital 
+resources, 
+teaching and 
+learning, assess-
+ment, empower -
+ing learners, 
+facilitating 
+learners’ digital 
+competenceCronbach’s 
+αContent 
+validity 
+Construct 
+validity
+5 Cattaneo 
+et al. (2022)Switzerland 1692 Vocational 
+education 
+and train-
+ingQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionDigCom-
+pEduCommunica-
+tion and 
+collaboration, 
+professional 
+development, 
+digital resources 
+selection,digital 
+resources 
+creation,data 
+protection, 
+teaching and 
+learning, assess-
+ment, learners’ 
+empowerment, 
+media educa-
+tion, learners 
+digital compe-
+tenceCronbach’s 
+αConstruct 
+validity 
+(confirma-
+tory factor 
+analysis)330 Journal of Computers in Education (2024) 11(1):305–346
+1 3Table 4  (continued)
+No Author (Year) Country Sample size Level of 
+schoolsMethodol-
+ogyResearch 
+ToolType Framework/
+ModelAspects Reliability 
+evidenceValidity 
+evidence
+6 Rubach and 
+Lazarides 
+(2021)Germany 372 Primary
+SecondaryQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionDigComp
+teachers’ 
+basic ICT 
+compe-
+tencies 
+(Tourón 
+et al., 
+2018)
+Basic ICT 
+digital 
+compe-
+tence 
+(Kul-
+tusmin-
+isterkon-
+ferenz, 
+2016)Information and 
+data literacy, 
+communi-
+cation and 
+collaboration, 
+digital content 
+creation, safety 
+and security, 
+problem-solv -
+ing, analyzing 
+and reflectingCronbach’s 
+αConstruct 
+validity 
+(explora-
+tory factor 
+analysis, 
+confirma-
+tory factor 
+analysis)
+7 Potyrała and 
+Tomczyk 
+(2021)Poland 484 Lower sec-
+ondaryQuantitative Likert scale 
+question-
+naire
+Multiple 
+choice 
+question-
+naireSelf-
+evaluation 
+Objective 
+evalua-
+tionOnline safety Cronbach’s 
+αContent valid-
+ity
+Construct 
+validity 
+(explora-
+tory factor 
+analysis)331
+1 3 Journal of Computers in Education (2024) 11(1):305–346 Table 4  (continued)
+No Author (Year) Country Sample size Level of 
+schoolsMethodol-
+ogyResearch 
+ToolType Framework/
+ModelAspects Reliability 
+evidenceValidity 
+evidence
+8 Casillas 
+Martín et al. 
+(2020)Spain 332 Pre-service 
+teachersQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionTeachers’ 
+digital 
+compe-
+tence 
+modelBasic digital com-
+petences, teach-
+ing approach 
+competence in 
+the use of learn-
+ing strategiesCronbach’s 
+αContent valid-
+ity
+9 Peled (2021) Israel 1265 Pre-service 
+teachersQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionThe seven 
+domains 
+of digital 
+literacy
+Kurtz and 
+Peled 
+(2016)Information col-
+lection, informa-
+tion evaluation, 
+information 
+management, 
+information 
+processing, 
+teamwork, 
+integrity aware-
+ness, and social 
+responsibilityCronbach’s 
+α
+10 Danner and 
+Pessu 
+(2013)Nigeria 100 Pre-service 
+teachersQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionDigital resources Cronbach’s 
+α
+11 Gutiérrez 
+Porlán and 
+Serrano 
+Sánchez 
+(2016)Spain 134 Pre-service 
+teachersQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionDigComp Information, 
+communica-
+tion, creation of 
+content, safety, 
+problem-solving332 Journal of Computers in Education (2024) 11(1):305–346
+1 3Table 4  (continued)
+No Author (Year) Country Sample size Level of 
+schoolsMethodol-
+ogyResearch 
+ToolType Framework/
+ModelAspects Reliability 
+evidenceValidity 
+evidence
+12 Al Khateeb 
+(2017)Saudi 
+Arabia108 Primary
+Secondary
+High schoolQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionDigComp Information 
+processing, 
+communica-
+tion control, 
+creation, safety, 
+problem-solvingCronbach’s 
+αConstruct 
+validity 
+(explora-
+tory factor 
+analysis)
+13 Maderick 
+et al. (2016)USA 174 Pre-service 
+teachersQuantitative Likert scale 
+question-
+naire
+Multiple 
+choice 
+question-
+naireSelf-evalua-
+tion
+Objective 
+evalua-
+tionDigital resources Cronbach’s 
+αConstruct 
+validity 
+(confirma-
+tory factor 
+analysis)
+14 Alarcón et al. 
+(2020)Spain
+Mexico
+Chile
+Peru
+Ecuador
+Venezuela
+Argentina
+Colombia509 University Quantitative Likert scale 
+question-
+naireSelf-evalua-
+tionExtended 
+DigCom-
+pEduProfessional 
+engage-
+ment, digital 
+resources, teach-
+ing and learn-
+ing, assessment, 
+empowering 
+learners, facili-
+tating learners’ 
+digital compe-
+tence digital 
+environment, 
+extrinsic digital 
+engagementCronbach’s 
+αConstruct 
+validity 
+(confirma-
+tory factor 
+analysis)333
+1 3 Journal of Computers in Education (2024) 11(1):305–346 Table 4  (continued)
+No Author (Year) Country Sample size Level of 
+schoolsMethodol-
+ogyResearch 
+ToolType Framework/
+ModelAspects Reliability 
+evidenceValidity 
+evidence
+15 Çebi and 
+Reisoglu 
+(2020)Turkey 518 Pre-service 
+teachersQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionDigComp Information and 
+data literacy, 
+communication 
+and collabora-
+tion, digital 
+content creation, 
+safety, problem-
+solving
+16 Záhorec et al. 
+(2021)Slovakia 173 Primary
+SecondaryQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionDigital resources
+17 Tondeur et al. 
+(2017)Belgium 931 Pre-service 
+teachersQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionThe ICT 
+compe-
+tence 
+frame-
+work 
+(ENW 
+AUGent, 
+2013)ICT competencies 
+to support pupils 
+for ICT use, ICT 
+competencies 
+for instructional 
+designCronbach’s 
+αContent valid-
+ity
+Construct 
+validity 
+(explora-
+tory factor 
+analysis, 
+confirma-
+tory factor 
+analysis)334 Journal of Computers in Education (2024) 11(1):305–346
+1 3Table 4  (continued)
+No Author (Year) Country Sample size Level of 
+schoolsMethodol-
+ogyResearch 
+ToolType Framework/
+ModelAspects Reliability 
+evidenceValidity 
+evidence
+18 Cantabrana 
+et al. (2019)Spain 25 Pre-service 
+teachersQuantitative Multiple 
+choice 
+question-
+naireObjective 
+assess-
+mentLazaro 
+Canta-
+brana and 
+Gisbert 
+Cervera 
+(2015)
+Teacher 
+digital 
+compe-
+tence 
+rubricDidactic, cur -
+ricular and 
+methodologi-
+cal; planning, 
+organization and 
+management of 
+digital techno-
+logical resources 
+and spaces; 
+relational, ethi-
+cal and security; 
+personal and 
+professional 
+developmentKappa coef-
+ficientContent valid-
+ity
+Construct 
+validity
+19 Quaicoe and 
+Pata (2020)Ghana 233 Primary
+Junior high 
+schoolQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionThe ICT-
+enhanced 
+teacher 
+standards 
+for AfricaInstructional 
+design, 
+facilitating 
+and inspiring 
+student learning, 
+managing learn-
+ing environ-
+ment, learner 
+assessment and 
+communicating 
+student learning, 
+professional 
+development, 
+and subject area 
+masteryCronbach’s 
+α335
+1 3 Journal of Computers in Education (2024) 11(1):305–346 Table 4  (continued)
+No Author (Year) Country Sample size Level of 
+schoolsMethodol-
+ogyResearch 
+ToolType Framework/
+ModelAspects Reliability 
+evidenceValidity 
+evidence
+20 Roll and 
+Ifenthaler 
+(2021)an Europe 
+county222 Pre-service 
+teachersMixed 
+methodLikert scale 
+question-
+naire
+Open-ended 
+question-
+naireSelf-evalua-
+tionCombina-
+tion of 
+several 
+frame-
+works 
+(e.g., 
+TPACK)Attitude towards 
+digitization, 
+handling of 
+digital devices, 
+informa-
+tion literacy, 
+application of 
+digital security, 
+collaboration 
+due to digital 
+communica-
+tion, solving 
+of digital 
+problems, and 
+reflection on the 
+interconnected 
+and digital 
+environmentCronbach’s 
+αConstruct 
+validity 
+(confirma-
+tory factor 
+analysis)
+21 Hatlevik 
+(2016)Norway 312 Primary
+SecondaryQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionSearch and 
+process, pro-
+duce, digital 
+responsibility, 
+communicationCronbach’s 
+αConstruct 
+validity 
+(confirma-
+tory factor 
+analysis)336 Journal of Computers in Education (2024) 11(1):305–346
+1 3Table 4  (continued)
+No Author (Year) Country Sample size Level of 
+schoolsMethodol-
+ogyResearch 
+ToolType Framework/
+ModelAspects Reliability 
+evidenceValidity 
+evidence
+22 Wang and Lu 
+(2021)China 182 Pre-service 
+teachersQuantitative Multiple 
+choice, 
+true/false, 
+and fill-in-
+the-blank 
+question-
+naireObjective 
+evalua-
+tionChinese 
+educa-
+tional 
+technol-
+ogy 
+standard 
+has been 
+developed 
+specifi-
+cally for 
+pre-
+service 
+teachersBasic technology 
+competency, 
+technology-sup-
+ported learning, 
+technology-sup-
+ported teachingExpected a 
+posteriori/ 
+plausible 
+valuesContent 
+validity, 
+Construct 
+validity 
+(convergent 
+validity, dis-
+criminant 
+validity, 
+confirma-
+tory factor 
+analysis)
+Item validity
+23 Ramírez-
+Montoya 
+et al. (2017)Not men-
+tioned863 Primary
+High school
+Tertiary
+OthersMixed 
+methodLikert scale 
+question-
+naire
+Open-ended 
+question-
+naireSelf-evalua-
+tion
+ReportTechnical ability 
+to use digital 
+resourcesCronbach’s 
+αContent valid-
+ity337
+1 3 Journal of Computers in Education (2024) 11(1):305–346 Table 4  (continued)
+No Author (Year) Country Sample size Level of 
+schoolsMethodol-
+ogyResearch 
+ToolType Framework/
+ModelAspects Reliability 
+evidenceValidity 
+evidence
+24 Çebi and 
+Reisoğlu 
+(2022)Turkey 697 Quantitative Likert scale 
+question-
+naireSelf-evalua-
+tionDigCom-
+pEduProfessional 
+engage-
+ment, digital 
+Resources, 
+teaching and 
+learning, assess-
+ment, empower -
+ing learners, 
+facilitating 
+learners’ digital 
+competenceCronbach’s 
+αConstruct 
+validity 
+(convergent 
+validity, 
+confirma-
+tory factor 
+analysis)
+25 Bandrés et al. 
+(2021)Spain 121 Quantitative Likert scale 
+question-
+naireSelf-evalua-
+tionProfessional 
+engage-
+ment, digital 
+resources, 
+teaching and 
+learning, assess-
+ment, empower -
+ing learners, 
+facilitating 
+learners’ digital 
+competence338 Journal of Computers in Education (2024) 11(1):305–346
+1 3Table 4  (continued)
+No Author (Year) Country Sample size Level of 
+schoolsMethodol-
+ogyResearch 
+ToolType Framework/
+ModelAspects Reliability 
+evidenceValidity 
+evidence
+26 Kotzebue 
+et al. (2021)Germany 118 Pre-service 
+teachersQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionDiKoLAN Documentation, 
+presentation, 
+communication/
+collaboration, 
+and information 
+search, data 
+acquisition, 
+data processing, 
+simulation and 
+modelingCronbach’s 
+αConstruct 
+valid-
+ity (path 
+model)
+27 Jorge-
+Vázquez 
+et al. (2021)Ecuador 216 University Quantitative Likert scale 
+question-
+naireSelf-evalua-
+tionUNESCO 
+ICT-CFTPolicy and vision, 
+curriculum and 
+assessment, 
+pedagogy, ICT, 
+organization 
+and administra-
+tion, teacher 
+professional 
+developmentCronbach’s 
+α
+28 Tomczyk 
+(2021)Poland 128 Pre-service 
+teachersQuantitative Survey 
+question-
+naire
+TestSelf-evalua-
+tion
+Objective 
+evalua-
+tionDigital resources Cronbach’s 
+αConstruct 
+validity 
+(explora-
+tory factor 
+analysis, 
+confirma-
+tory factor 
+analysis)339
+1 3 Journal of Computers in Education (2024) 11(1):305–346 Table 4  (continued)
+No Author (Year) Country Sample size Level of 
+schoolsMethodol-
+ogyResearch 
+ToolType Framework/
+ModelAspects Reliability 
+evidenceValidity 
+evidence
+29 Nebot et al. 
+(2021)Spain 61 University Mixed 
+methodLikert scale 
+question-
+naire
+InterviewSelf-evalua-
+tionDigCom-
+pEduProfessional 
+engagement, 
+pedagogical 
+competences, 
+students’ com-
+petencesCronbach’s 
+αContent valid-
+ity
+30 Karunaweera 
+and Wah 
+(2021)Sri Lanka 40 Primary
+SecondaryQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionDigCom-
+pEduProfessional 
+engage-
+ment, digital 
+resources, 
+teaching and 
+learning, assess-
+ment, empower -
+ing learners, 
+facilitating 
+learners’ digital 
+competence
+31 Krumsvik 
+et al. (2016)Norway 2477 High school Quantitative Likert scale 
+question-
+naireSelf-evalua-
+tionTeachers’ 
+digital 
+compe-
+tence 
+model 
+(Krums-
+vik, 2014)Elementary ICT, 
+basic ICT skills, 
+didactic ICT 
+competence, 
+digital learning 
+strategies, digi-
+tal BildungCronbach’s 
+α340 Journal of Computers in Education (2024) 11(1):305–346
+1 3Table 4  (continued)
+No Author (Year) Country Sample size Level of 
+schoolsMethodol-
+ogyResearch 
+ToolType Framework/
+ModelAspects Reliability 
+evidenceValidity 
+evidence
+32 Teo et al. 
+(2016)Turkey 557 Pre-service 
+teachersQuantitative Likert scale 
+question-
+naireSelf-evalua-
+tionDigital 
+native 
+assess-
+ment scale 
+(Teo, 
+2013)Grow up with 
+technology, are 
+comfortable 
+with multitask -
+ing, are reliant 
+on graphics for 
+communication, 
+and thrive on 
+instant grati-
+fications and 
+rewardsComposite 
+reliability, 
+average 
+variance 
+extractedFace validity
+Content valid-
+ity
+Construct 
+validity 
+(confirma-
+tory factor 
+analysis)
+33 Prieto-Ball-
+ester et al. 
+(2021)Spain 208 Secondary Mixed 
+methodLikert scale 
+question-
+naire
+Open-ended 
+question-
+naireSelf-evalua-
+tionINTEF Information, 
+communication, 
+content creation, 
+security, and 
+problem-solving341
+1 3 Journal of Computers in Education (2024) 11(1):305–346 
+Funding Open access funding provided by University of Szeged. This research was supported by the 
+Research Programme for Public Education Development, Hungarian Academy of Sciences (Grant 
+KOZOKT2021-16).
+Declarations 
+Conflict of interest The authors have stated no potential conflict of interest.
+Ethical statement We herby declare that this manuscript is the result of our independent creation under 
+the reviewers’ comments. This manuscript does not contain any research achievements that have been 
+published or written by other individuals or groups. We are the only authors of this manuscript. The legal 
+responsibility of this statement shall be borne by us.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, 
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as 
+you give appropriate credit to the original author(s) and the source, provide a link to the Creative Com-
+mons licence, and indicate if changes were made. The images or other third party material in this article 
+are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is 
+not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission 
+directly from the copyright holder. To view a copy of this licence, visit http:// creat iveco mmons. org/ licen 
+ses/ by/4. 0/.
+References
+Al Khateeb, A. A. M. (2017). Measuring digital competence and ICT literacy: An exploratory study of 
+in-service English language teachers in the context of Saudi Arabia. International Education Stud-
+ies, 10(12), 38. https:// doi. org/ 10. 5539/ ies. v10n1 2p38
+Ala-Mutka, K. (2011). Mapping digital competence: Towards a conceptual understanding. Institute for 
+Prospective Technological Studies. https:// doi. org/ 10. 13140/ RG.2. 2. 18046. 00322
+Alarcón, R., del Pilar Jiménez, E., & de Vicente-Yagüe, M. I. (2020). Development and validation of the 
+DIGIGLO, a tool for assessing the digital competence of educators. British Journal of Educational 
+Technology, 51(6), 2407–2421. https:// doi. org/ 10. 1111/ bjet. 12919
+Bandrés, S. C., Orús, M. L., Toledo, S. V., Cosculluela, C. L., & Oto, S. A. (2021). Digital competence 
+of university teachers of social and legal sciences from a gender perspective. Education Sciences, 
+11(12), 806. https:// doi. org/ 10. 3390/ educs ci111 20806
+Bawden, D. (2001). Information and digital literacies: A review of concepts. Journal of Documentation, 
+57(2), 218–259.
+Bawden, D. (2008). Origins and concepts of digital literacy. In C. Lankshear & M. Knobel (Eds.), Digital 
+literacies: Concepts, policies and practices (pp. 17–32). Peter Lang.
+Cantabrana, J. L. L., Rodríguez, M. U., & Cervera, M. G. (2019). Assessing teacher digital competence: 
+The construction of an instrument for measuring the knowledge of pre-service teachers. Journal 
+of New Approaches in Educational Research, 8(1), 73–78. https:// doi. org/ 10. 7821/ naer. 2019.1. 370
+Carmines, E. G., & Zeller, R. A. (1979). Reliability and validity assessment. SAGE Publications.
+Carretero, S., Vuorikari, R., & Punie, Y. (2017). DigComp 2.1: The digital competence framework for 
+citizens with eight proficiency levels and examples of use. Publications Office.
+Casillas Martín, S., Cabezas González, M., & García Peñalvo, F. J. (2020). Digital competence of early 
+childhood education teachers: Attitude, knowledge and use of ICT. European Journal of Teacher 
+Education, 43(2), 210–223. https:// doi. org/ 10. 1080/ 02619 768. 2019. 16813 93
+Cattaneo, A. A. P., Antonietti, C., & Rauseo, M. (2022). How digitalised are vocational teachers? Assess-
+ing digital competence in vocational education and looking at its underlying factors. Computers 
+and Education, 176(2021), 104358. https:// doi. org/ 10. 1016/j. compe du. 2021. 104358
+Çebi, A., & Reisoglu, I. (2020). Digital competence: A study from the perspective of pre-service teachers 
+in Turkey. Journal of New Approaches in Educational Research, 9(2), 294–308. https:// doi. org/ 10. 
+7821/ naer. 2020.7. 583342 Journal of Computers in Education (2024) 11(1):305–346
+1 3
+Çebi, A., & Reisoğlu, İ. (2022). Adaptation of self-assessment instrument for educators’ digital compe-
+tence into Turkish culture: A study on reliability and validity. Technology, Knowledge and Learn-
+ing. https:// doi. org/ 10. 1007/ s10758- 021- 09589-0
+Chanta, S. (2021). Uso de las Tecnologías de la Información y la Comunicación para la Evaluación Den-
+tro de Aulas de Clases: una Revisión de Literatura Sistematizada. Pontificia Universidad Católica 
+de Chile.
+Crompton, H. (2017). ISTE standards for educators: A guide for teachers and other professionals. Inter -
+national Society for Technology in Education.
+Danner, R. B., & Pessu, C. O. A. (2013). A survey of ICT competencies among students in teacher prepa-
+ration programmes at the university of Benin, Benin city, Niberia. Journal of Information Technol-
+ogy Education:research, 12(1), 33–49. https:// doi. org/ 10. 28945/ 1762
+Drummond, A., & Sweeney, T. (2017). Can an objective measure of technological pedagogical content 
+knowledge (TPACK) supplement existing TPACK measures? British Journal of Educational Tech-
+nology, 48(4), 928–939. https:// doi. org/ 10. 1111/ bjet. 12473
+Education & Training Foundation. (2019). Digital teaching professional framework: Taking learning 
+to the next level. Retrieved from https:// www. et- found ation. co. uk/ wp- conte nt/ uploa ds/ 2018/ 11/ 
+181101- RGB- Sprea ds- ETF- Digit  al- Teach ing- Profe ssion al- Frame  work- Full- v2. pdf.
+Educational Testing Service. (2002). Digital transformation: A framework for ICT literacy: A report of 
+ICT literacy panel. Educational Testing Service. Retrieved from https:// www. ets. org/ resea rch/ pol-
+icy_ resea rch_ repor  ts/ publi catio ns/ report/ 2002/ cjik .
+Elstad, E. (Ed.). (2016). Digital expectations and experiences in education. Sense Publishers.
+Enlaces. (2011). Competencias y estándares TIC para la profesión docente. Centro de Educación y Tec-
+nología Enlaces Ministerio de Educación, Gobierno de Chile.
+ENW AUGent. (2013). The Flemish ICT development profile for teacher educators. Retrieved from 
+http:// enwau gent. be/
+Erstad, O. (2006). A new direction? Digital literacy, student participation and curriculum reform 
+in Norway. Education and Information Technologies, 11, 415–429. https:// doi. org/ 10. 1007/ 
+s10639- 006- 9008-2
+Erstad, O. (2010). Educating the digital generation. Nordic Journal of Digital Literacy, 1, 56–70.
+Eshet, Y. (2012). Thinking in the digital era: A revised model for digital literacy. Issues in Informing Sci-
+ence and Information Technology, 9, 267–276. https:// doi. org/ 10. 28945/ 1621
+European Union. (2013). Survey of schools: ICT in education, benchmarking access and attitudes to tech-
+nology in Europe’s schools, Belgium. https:// doi. org/ 10. 2759/ 94499.
+European Commission. (2003). Elearning: Better elearning for Europe. Directorate-General for Educa-
+tion and Culture.
+European Commission. (2018). Key competences for lifelong learning. https:// op. europa. eu/ en/ publi cat-
+ion- detai l/-/ publi cation/ 297a3 3c8- a1f3- 11e9- 9d01- 01aa7 5ed71 a1/ langu age- en
+Ferrari, A., Punie, Y., & Brečko, B. N. (2013). DIGCOMP : A framework for developing and understand-
+ing digital competence in Europe. https:// doi. org/ 10. 2788/ 52966. https:// doi. org/ 10. 2788/ 52966
+Field, A. P. (2005). Discovering statistics using SPSS (2nd ed.). Sage Publications.
+Fisher, T., Denning, T., Higgins, C., & Loveless, A. (2012). Teachers’ knowing how to use technology: 
+Exploring a conceptual framework for purposeful learning activity. Curriculum Journal, 23(3), 
+307–325.
+Generalitat de Catalunya (2018). Competència digital docent del professorat de Catalunya. Departament 
+d’Ensenyament. Retrieved from https:// repos itori. educa cio. gencat. cat/ bitst ream/ handle/ 20. 500. 
+12694/ 229/ compe  tencia_ digit  al_ docent_ del_ profe ssorat_ de_ catal unya_ 2018. pdf? seque nce=1
+Gilster, P. (1997). Digital literacy. Wiley.
+Ginty, A. T. (2013). Construct validity. In M. D. Gellman & J. R. Turner (Eds.), Encyclopedia of behav -
+ioral medicine. Springer.
+Güneş, E., & Bahçivan, E. (2018). A mixed research-based model for pre-service science teachers’ digital 
+literacy: Responses to “which beliefs” and “how and why they interact” questions. Computers and 
+Education, 118(2017), 96–106. https:// doi. org/ 10. 1016/j. compe du. 2017. 11. 012
+Gutiérrez Porlán, I., & Serrano Sánchez, J. L. (2016). Evaluation and development of digital competence 
+in future primary school teachers at the University of Murcia. Journal of New Approaches in Edu-
+cational Research, 6(1), 51–56. https:// doi. org/ 10. 7821/ naer. 2016.1. 152
+Hall, R., Atkins, L., & Fraser, J. (2014). Research article: Defining a self-evaluation digital literacy 
+framework for secondary educators: The digilit leicester project. Research in Learning Technology, 
+22, 17. https:// doi. org/ 10. 3402/ rlt. v22. 21440343
+1 3 Journal of Computers in Education (2024) 11(1):305–346 
+Hanell, F. (2018). What is the ‘problem’ that digital competence in Swedish teacher education is 
+meant to solve? Nordic Journal of Digital Literacy, 13(3), 137–151. https:// doi. org/ 10. 18261/. 
+1891- 943x- 2018- 03- 02
+Harrison, C. (2017). Critical internet literacy: What is it, and how should we teach it? Journal of Adoles-
+cent & Adult Literacy, 61(4), 461–464.
+Hatlevik, O. E. (2016). Examining the relationship between teachers’ self-efficacy, their digital compe-
+tence, strategies to evaluate information, and use of ICT at school. Scandinavian Journal of Educa-
+tional Research, 61(5), 555–567. https:// doi. org/ 10. 1080/ 00313 831. 2016. 11725 01
+Hatlevik, O. E., Ottestad, G., & Throndsen, I. (2015). Predictors of digital competence in 7th grade: A 
+multilevel analysis. Journal of Computer Assisted Learning, 31(3), 220–231. https:// doi. org/ 10. 
+1111/ jcal. 12065
+Hatlevik, O. E., Throndsen, I., Loi, M., & Gudmundsdottir, G. B. (2018). Students’ ICT self-efficacy 
+and computer and information literacy: Determinants and relationships. Computers and Education, 
+118(2017), 107–119. https:// doi. org/ 10. 1016/j. compe du. 2017. 11. 011
+Haugsbakk, G. O. (2013). From Sputnik to PISA shock: New technology and educational reform in Nor -
+way and Sweden. Education Inquiry, 4(4), 607–628. https:// doi. org/ 10. 3402/ edui. v4i4. 23222
+INTEF - Instituto Nacional de Tecnologías Educativas y Formación del Profesorado (2017). Marco 
+Común de Competencia Digital Docente. Madrid: Ministerio de Educación, Cultura y Deporte 
+& Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado. Retrieved from 
+https:// bit. ly/ 2jqks sz.
+ISTE. (2018). Crosswalk: Future ready librarians framework and ISTE standards for educators. Interna-
+tional Association for Technology in Education.
+Jorge-Vázquez, J., Náñez Alonso, S. L., Fierro Saltos, W. R., & Pacheco Mendoza, S. (2021). Assessment 
+of digital competencies of university faculty and their conditioning factors: Case study in a techno-
+logical adoption context. Education Sciences, 11(10), 637. https:// doi. org/ 10. 3390/ educs ci111 00637
+Karunaweera, A. S., & Wah, L. K. (2021). Measuring digital competence: An exploratory study mapping 
+digital competence profiles of Sri Lankan English language teachers. Asia Pacific Journal of Edu-
+cators and Education, 36(1), 93–112. https:// doi. org/ 10. 21315/ apjee 2021. 36.1.6
+Knutsson, O., Blåsjö, M., Hållsten, S., & Karlström, P. (2012). Identifying different registers of digital 
+literacy in virtual learning environments. Internet and Higher Education, 15(4), 237–246. https:// 
+doi. org/ 10. 1016/j. iheduc. 2011. 11. 002
+Krumsvik, R. (2012). The digital school and teacher education in Norway. In R. Schultz-Zander, B. Eick -
+elmann, H. Mozer, H. Niesyto, and P. Grell, H. (Eds.), Jahrbuch Medienpädagogik 9 (pp. 455–
+480). VS Verlag für Sozialwissenschaften. https:// doi. org/ 10. 1007/ 978-3- 531- 94219-3_ 20.
+Krumsvik, R. J. (2014). Teacher educators’ digital competence. Scandinavian Journal of Educational 
+Research, 58(3), 269–280. https:// doi. org/ 10. 1080/ 00313 831. 2012. 726273
+Krumsvik, R. J., Jones, L. Ø., Øfstegaard, M., & Eikeland, O. J. (2016). Upper secondary school 
+teachers’ digital competence: Analysed by demographic, personal and professional charac-
+teristics. Nordic Journal of Digital Literacy, 2016(3), 143–164. https:// doi. org/ 10. 18261/ issn. 
+1891- 943x- 2016- 03- 02
+Kultusministerkonferenz. (2016). Bildung in der digitalen Welt: Strategie der Kultusministerkonferenz. 
+Kultusministerkonferenz. Retrieved from https:// www. kmk. org/ filea dmin/ pdf/ Press eUndA ktuel les/ 
+2018/ Digit  alstr ategie_ 2017_ mit_ Weite rbild ung. pdf
+Kurtz, G., & Peled, Y. (2016). Digital learning literacies – A validation study. Issues in Informing Science 
+and Information Technology, 13, 145–158. https:// doi. org/ 10. 28945/ 3479
+Lankshear, C., & Knobel, M. (2003). New literacies: Changing knowledge and classroom practice. Open 
+University Press.
+Law, N., Woo, D., de la Torre, J., & Wong, G. (2018). A global framework of reference on digital literacy 
+skills for indicator 4.4.2. Retrieved from https:// unesd oc. unesco. org/ ark:/ 48223/ pf000 02654 03.
+Lázaro Cantabrana, J. L., & Gisbert Cervera, M. (2015). Elaboració d’una rúbrica per avaluar la com-
+petència digital del docent. UTE Teaching & Technology (Universitas Tarraconensis), 1(1), 48–63. 
+https:// doi. org/ 10. 17345/ ute. 2015.1. 648
+Lindh, M., & Nolin, J. (2016). Information we collect: Surveillance and privacy in the implementation of 
+Google apps for education. European Educational Research Journal, 15(6), 644–663. https:// doi. 
+org/ 10. 1177/ 14749 04116 654917
+Lucas, M., Bem-Haja, P., Siddiq, F., Moreira, A., & Redecker, C. (2021). The relation between in-service 
+teachers’ digital competence and personal and contextual factors: What matters most? Computers 
+and Education, 160(2020), 104052. https:// doi. org/ 10. 1016/j. compe du. 2020. 104052344 Journal of Computers in Education (2024) 11(1):305–346
+1 3
+Maderick, J. A., Zhang, S., Hartley, K., & Marchand, G. (2016). Preservice teachers and self-assessing 
+digital competence. Journal of Educational Computing Research, 54(3), 326–351. https:// doi. org/ 
+10. 1177/ 07356 33115 620432
+Martin, A., & Grudziecki, J. (2006). DigEuLit: Concepts and tools for digital literacy development. Inno-
+vation in Teaching and Learning in Information and Computer Sciences, 5(4), 249–267. https:// 
+doi. org/ 10. 11120/ ital. 2006. 05040 249
+McArthur, T., Lam-McArthur, J., & Fontaine, L. (2018). Digital Literacy. In T. McArthur, J. Lam-McAr -
+thur, & L. Fontaine (Eds.), The Oxford companion to the English language (2nd ed.). Oxford Uni-
+versity Press.
+Mishra, P., & Koehler, M. J. (2006). Technological pedagogical content knowledge: A new framework for 
+teacher knowledge. Teachers College Record, 108(6), 1017–1054. https:// doi. org/ 10. 1111/j. 1467- 
+9620. 2006. 00684.x
+Moher, D., Liberati, A., Tetzlaff, J., Altman, D. G., The PRISMA group. (2009). Preferred reporting 
+items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Medicine, 6(7), 
+e1000097. https:// doi. org/ 10. 1371/ journ al. pmed. 10000 97
+Nebot, M. Á. L., Cosentino, V. V., Esteve-Mon, F. M., & Segura, J. A. (2021). Diagnostic and educational 
+self-assessment of the digital competence of university teachers. Nordic Journal of Digital Lit-
+eracy, 16(3–4), 115–131. https:// doi. org/ 10. 18261/ issn. 1891- 943x- 2021- 03- 04
+Newman, I., Newman, C., Brown, R., & McNeely, S. (2006). Conceptual statistics for beginners (3rd 
+ed.). University Press of America.
+Ng, W. (2012). Can we teach digital natives digital literacy? Computers & Education, 59(3), 1065–1078. 
+https:// doi. org/ 10. 1016/j. compe du. 2012. 04. 016
+Nguyen, T. L. A., & Habók, A. (2021). A study on Vietnamese undergraduates’ level of digital skills and 
+the frequency of using digital tools in the EFL context. In V. Tzvetomir & T. Roumen (Eds.), Inter -
+national conference on computer systems and technologies’ 21 (pp. 171–175). ACM.
+Nguyen, T. L. A., & Habók, A. (2022a). Adaptation and validation of a computer-assisted language learn-
+ing attitude questionnaire in a Vietnamese EFL context: A comparison between online and paper 
+modes of administration. Heliyon, 8(6), e09743. https:// doi. org/ 10. 1016/j. heliy  on. 2022. e09743
+Nguyen, T. L. A., & Habók, A. (2022b). Digital literacy of EFL students: An empirical study in Vietnam-
+ese universities. Libri, 72(1), 53–66. https:// doi. org/ 10. 1515/ libri- 2020- 0165
+Nivala, M. (2009). Simple answers for complex problems: Education and ICT in Finnish information 
+society strategies. Media, Culture & Society, 31(3), 433. https:// doi. org/ 10. 1177/ 01634 43709 
+102715
+Núñez-Canal, M., de Obesso, M., & de las M., & Pérez-Rivero, C. A. (2022). New challenges in higher 
+education: A study of the digital competence of educators in Covid times. Technological Forecast-
+ing and Social Change, 174(2021), 121270. https:// doi. org/ 10. 1016/j. techf  ore. 2021. 121270
+Oluwatayo, J. A. (2012). Validity and reliability issues in educational research. Journal of Educational 
+and Social Research, 2(2), 391–400.
+Pacansky-Brock, M. (2017). Best practices for teaching with emerging technologies. Routledge.
+Partnership for 21st Century Skills. (2002). A report and mile guide for 21st century skills. Retrieved 
+from http:// www. 21stc entur  yskil ls. org/.
+Peled, Y. (2021). Pre-service teacher’s self-perception of digital literacy: The case of Israel. Education 
+and Information Technologies, 26(3), 2879–2896. https:// doi. org/ 10. 1007/ s10639- 020- 10387-x
+Peromingo, M., & Pieterson, W. (2018). The New World of work and the need for digital empowerment. 
+Forced Migration Review, 58, 32–33.
+Porat, E., Blau, I., & Barak, A. (2018). Measuring digital literacies: Junior high-school students’ per -
+ceived competencies versus actual performance. Computers and Education, 126(2017), 23–36. 
+https:// doi. org/ 10. 1016/j. compe du. 2018. 06. 030
+Potyrała, K., & Tomczyk, Ł. (2021). Teachers in the lifelong learning process: Examples of digital lit-
+eracy. Journal of Education for Teaching, 47(2), 255–273. https:// doi. org/ 10. 1080/ 02607 476. 2021. 
+18764 99
+Priestley, M. (2011). Schools, teachers, and curriculum change: A balancing act? Journal of Educational 
+Change, 12(1), 1–23.
+Prieto-Ballester, J. M., Revuelta-Domínguez, F. I., & Pedrera-Rodríguez, M. I. (2021). Secondary school 
+teachers self-perception of digital teaching competence in spain following covid-19 confinement. 
+Education Sciences, 11(8), 407. https:// doi. org/ 10. 3390/ educs ci110 80407
+Puentedura, R. R. (2006). Transformation, technology and education: A model for technology and trans-
+formation. Retrieved from http:// hippa sus. com/ resou rces/ tte/ puent edura_ tte. pdf.345
+1 3 Journal of Computers in Education (2024) 11(1):305–346 
+Quaicoe, J. S., & Pata, K. (2020). Teachers’ digital literacy and digital activity as digital divide compo-
+nents among basic schools in Ghana. Education and Information Technologies, 25, 4077–4095. 
+https:// doi. org/ 10. 1007/ s10639- 020- 10158-8
+Ramírez-Montoya, M. S., Mena, J., & Rodríguez-Arroyo, J. A. (2017). In-service teachers’ self-percep-
+tions of digital competence and OER use as determined by a xMOOC training course. Computers 
+in Human Behavior, 77, 356–364. https:// doi. org/ 10. 1016/j. chb. 2017. 09. 010
+Redecker, C. (2017a). Digital Competence of Educators. https:// doi. org/ 10. 2760/ 159770
+Redecker, C. (2017b). European Framework for the Digital Competence of Educators: Digcompedu. 
+https:// doi. org/ 10. 2760/ 159770
+Reichert, F., Zhang, J., Law, N. W. Y., Wong, G. K. W., & de la Torre, J. (2020). Exploring the structure 
+of digital literacy competence assessed using authentic software applications. Educational Technol-
+ogy Research and Development, 68(6), 2991–3013. https:// doi. org/ 10. 1007/ s11423- 020- 09825-x
+Rodríguez, M. U., Cantabrana, J. L. L., & Cervera, M. G. (2021). Validation of a tool for self-evaluating 
+teacher digital competence. Educacion XX1, 24(1), 353–373. https:// doi. org/ 10. 5944/ educX X1. 27080
+Røkenes, F. M., & Krumsvik, R. J. (2016). Prepared to teach ESL with ICT? A study of digital com-
+petence in Norwegian teacher education. Computers and Education, 97, 1–20. https:// doi. org/ 10. 
+1016/j. compe du. 2016. 02. 014
+Roll, M. J. J., & Ifenthaler, D. (2021). Multidisciplinary digital competencies of pre-service vocational 
+teachers. Empirical Research in Vocational Education and Training. https:// doi. org/ 10. 1186/ 
+s40461- 021- 00112-4
+Rubach, C., & Lazarides, R. (2021). Addressing 21st-century digital skills in schools—Development 
+and validation of an instrument to measure teachers’ basic ICT competence beliefs. Computers in 
+Human Behavior, 118(2020), 106636. https:// doi. org/ 10. 1016/j. chb. 2020. 106636
+Siddiq, F., Hatlevik, O. E., Olsen, R. V., Throndsen, I., & Scherer, R. (2016). Taking a future perspective 
+by learning from the past—A systematic review of assessment instruments that aim to measure 
+primary and secondary school students’ ICT literacy. Educational Research Review, 19, 58–84. 
+https:// doi. org/ 10. 1016/j. edurev. 2016. 05. 002
+Silva-Quiroz, J., & Morales-Morgado, E. M. (2022). Assessing digital competence and its relationship 
+with the socioeconomic level of Chilean university students. International Journal of Educational 
+Technology in Higher Education, 19, 46. https:// doi. org/ 10. 1186/ s41239- 022- 00346-6
+Son, J.-B., Park, S.-S., & Park, M. (2017). Digital literacy of language learners in two different contexts. 
+JALT CALL Journal, 13(2), 77–96. https:// doi. org/ 10. 29140/ jaltc all. v13n2. 213
+Sparks, J. R., Katz, I. R., & Beile, P. M. (2016). Assessing digital information literacy in higher educa-
+tion: A review of existing frameworks and assessments with recommendations for next-generation 
+assessment. ETS Research Report Series, 2016(2), 1–33. https:// doi. org/ 10. 1002/ ets2. 12118
+Suárez-Rodríguez, J., Almerich, G., Orellana, N., & Díaz-García, I. (2018). A basic model of integra-
+tion of ICT by teachers: Competence and use. Educational Technology Research and Development, 
+66(5), 1165–1178. https:// doi. org/ 10. 1007/ s11423- 018- 9591-0
+Teo, T. (2013). An initial development and validation of a digital natives assessment scale (DNAS). Com-
+puters & Education, 67, 51–57.
+Teo, T., Kabakçı Yurdakul, I., & Ursavaş, Ö. F. (2016). Exploring the digital natives among pre-service 
+teachers in Turkey: A cross-cultural validation of the digital native assessment Scale. Interactive 
+Learning Environments, 24(6), 1231–1244. https:// doi. org/ 10. 1080/ 10494 820. 2014. 980275
+Tomczyk, Ł. (2021). Declared and real level of digital skills of future teaching staff. Education Sciences, 
+11(10), 619. https:// doi. org/ 10. 3390/ educs ci111 00619
+Tondeur, J., Aesaert, K., Pynoo, B., van Braak, J., Fraeyman, N., & Erstad, O. (2017). Developing a vali-
+dated instrument to measure preservice teachers’ ICT competencies: Meeting the demands of the 
+21st century. British Journal of Educational Technology, 48(2), 462–472. https:// doi. org/ 10. 1111/ 
+bjet. 12380
+Tourón, J., Martín, D. R., Navarro Asencio, E., Pradas, S. M., & Ínigo, V. (2018). Construct validation of 
+a questionnaire to measure teachers’ digital competence (TDC). Revista Española De Pedagogía, 
+76, 269. https:// doi. org/ 10. 22550/ rep76-1- 2018- 10
+Tristán-López, A., & Ylizaliturri-Salcedo, M. A. (2014). Evaluation of ICT competencies. In J. Spector, 
+M. Merrill, J. Elen, & M. Bishop (Eds.), Handbook of research on educational communications 
+and technology. Springer.
+UNESCO. (2013) Guidelines on adaptation of the UNESCO ICT competency framework for teachers: 
+methodological approach on localization of the UNESCO ICT-CFT. Retrieved from https:// iite. 
+unesco. org/ pics/ publi catio ns/ en/ files/ 32147 26. pdf.346 Journal of Computers in Education (2024) 11(1):305–346
+1 3
+UNESCO-IICBA. (2012). ICT-enhanced teacher standards for Africa (ICTeTSA). Retrieved from https:// 
+unesd oc. unesco. org/ ark:/ 48223/ pf000 02161 05
+van Laar, E., van Deursen, A. J. A. M., van Dijk, J. A. G. M., & de Haan, J. (2017). The relation between 
+21st-century skills and digital skills: A systematic literature review. Computers in Human Behav -
+ior, 72, 577–588. https:// doi. org/ 10. 1016/j. chb. 2017. 03. 010
+von Kotzebue, L., Meier, M., Finger, A., Kremser, E., Huwer, J., Thoms, L. J., Becker, S., Bruckermann, 
+T., & Thyssen, C. (2021). The framework DiKoLan (digital competencies for teaching in science 
+education) as basis for the self-assessment tool DiKoLan-grid. Education Sciences, 11(12), 775. 
+https:// doi. org/ 10. 3390/ educs ci111 20775
+Wang, Y., & Lu, H. (2021). Validating items of different modalities to assess the educational technology 
+competency of pre-service teachers. Computers and Education, 162(2020), 104081. https:// doi. org/ 
+10. 1016/j. compe du. 2020. 104081
+Wastiau, P., Blamire, R., Kearney, C., Quittre, V., Van de Gaer, E., & Monseur, C. (2013). The use of ICT 
+in education: A survey of schools in Europe. European Journal of Education, 48(1), 11–27. https:// 
+doi. org/ 10. 1111/ ejed. 12020
+Williamson, B., Potter, J., & Eynon, R. (2019). New research problems and agendas. Learning, Media 
+and Technology, 44(2), 87–91. https:// doi. org/ 10. 1080/ 17439 884. 2019. 16149 53
+Wilson, C., Alton, G., Ramon, T., Kwame, A., & Chi-Kim, C. (2011). Media and information literacy: 
+Curriculum for teachers. Retrieved from http:// en. unesco. kz/ media- and- infor  mation- liter  acy- curri 
+culum- for- teach ers.
+Wilson, M., Gochyyev, P., & Scalise, K. (2017). Modeling data from collaborative assessments: Learning 
+in digital interactive social networks. Journal of Educational Measurement, 54, 85–102. https:// 
+doi. org/ 10. 1111/ jedm. 12134
+Wong, K. M., & Moorhouse, B. L. (2021). Digital competence and online language teaching: Hong Kong 
+language teacher practices in primary and secondary classrooms. System, 103(2020), 102653. 
+https:// doi. org/ 10. 1016/j. system. 2021. 102653
+Záhorec, J., Hašková, A., & Munk, M. (2021). Self-reflection of digital literacy of primary and second-
+ary school teachers: Case study of Slovakia. European Journal of Contemporary Education, 10(2), 
+496–508. https:// doi. org/ 10. 13187/ ejced. 2021.2. 496
+Zhong, Z. J. (2011). From access to usage: The divide of self-reported digital skills among adolescents. 
+Computers and Education, 56(3), 736–746. https:// doi. org/ 10. 1016/j. compe du. 2010. 10. 016
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps 
+and institutional affiliations.
+Lan Anh Thuy Nguyen is a Ph.D. student at Doctoral School of Education, University of Szeged, Hun-
+gary, and she is on the Stipendium Hungaricum Scholarship program of the Hungarian government in 
+collaboration with the Vietnamese government. Her research interests cover digital language learning, 
+motivation in learning English as a foreign language, technology-based learning and assessment.
+Anita Habók is an associate professor at the Institute of Education, University of Szeged, Hungary. Her 
+research areas mainly include learning to learn, meaningful learning, concept maps, EFL language and 
+reading strategies.
+Authors and Affiliations
+Lan Anh Thuy Nguyen1  · Anita Habók2 
+ Anita Habók 
+ habok@edpsy.u-szeged.hu
+1 Doctoral School of Education, University of Szeged, Szeged, Hungary
+2 Institute of Education, MTA -SZTE Digital Learning Technologies Research Group, University 
+of Szeged, Szeged, Hungary
