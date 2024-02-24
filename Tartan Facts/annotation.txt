@@ -1,1 +1,24 @@
+Q: Who founded Carnegie Technical Schools?
+A: Andrew Carnegie founded Carnegie Technical Schools.
+D: 01.txt
+
+Q: When was Carnegie Technical Schools founded?
+A: Carnegie Technical Schools was founded in 1900.
+D: 01.txt
+
+Q: What was the original name of the Carnegie Institute of Technology?
+A: The original name was Carnegie Technical Schools.
+D: 01.txt
+
+Q: When did Carnegie Technical Schools become the Carnegie Institute of Technology?
+A: It became the Carnegie Institute of Technology twelve years later, in 1912.
+D: 01.txt
+
+Q: What did the Carnegie Institute of Technology merge with to become Carnegie Mellon University?
+A: It merged with Mellon Institute.
+D: 01.txt
+
+Q: When did the merger that formed Carnegie Mellon University occur?
+A: The merger occurred in 1967.
+D: 01.txt
 
