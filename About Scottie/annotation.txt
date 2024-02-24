@@ -1,39 +1,39 @@
-Q:
-A:
+Q: Who founded Carnegie Mellon University and what type of pet did he keep?
+A: Andrew Carnegie, the founder of Carnegie Mellon University, kept a Scottish terrier as his pet.
 D: 01.txt
 
-Q:
-A:
+Q: When did Carnegie Mellon officially start the process to select a mascot?
+A: Carnegie Mellon officially started the process to select a mascot in November 2006 by forming the Mascot Identity Task Force.
 D: 01.txt
 
-Q:
-A:
+Q: Who co-chaired the Mascot Identity Task Force at Carnegie Mellon?
+A: The Mascot Identity Task Force at Carnegie Mellon was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
 D: 01.txt
 
-Q:
-A:
+Q: How did the Carnegie Mellon community participate in the mascot selection process?
+A: The Carnegie Mellon community participated in the mascot selection process through a series of surveys and a university Town Hall meeting.
 D: 01.txt
 
-Q:
-A:
+Q: What percentage of students voted for the Scottish terrier as the mascot in the 2007 survey?
+A: Nearly 78 percent of 2,370 students surveyed in February 2007 voted for the Scottish terrier as the mascot.
 D: 01.txt
 
-Q:
-A:
+Q: What misconception did approximately 25 percent of surveyed alumni have about the Scottish terrier?
+A: Approximately 25 percent of 400 alumni surveyed thought the Scottish terrier was already the mascot of Carnegie Mellon.
 D: 01.txt
 
-Q:
-A:
+Q: Which company did Carnegie Mellon partner with to develop the graphics for the mascot?
+A: Carnegie Mellon partnered with SME Branding to develop the graphics for the mascot.
 D: 01.txt
 
-Q:
-A:
+Q: When did the official mascot of Carnegie Mellon debut?
+A: The official mascot of Carnegie Mellon debuted at the Nov. 10, 2007 home football game.
 D: 01.txt
 
-Q:
-A:
+Q: What does the graphic of Carnegie Mellon's official mascot feature?
+A: The graphic of Carnegie Mellon's official mascot features a profile of a distinguished, bold Scottish terrier sporting a plaid scarf around its neck, contained in a shield representing Carnegie Mellon's Scottish heritage.
 D: 01.txt
 
-Q:
-A:
+Q: When was the official Scotty costume unveiled?
+A: The official Scotty costume was unveiled at the 2008 Spring Carnival.
 D: 01.txt
