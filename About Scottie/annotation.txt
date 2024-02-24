@@ -1,39 +1,87 @@
 Q: Who founded Carnegie Mellon University and what type of pet did he keep?
-A: Andrew Carnegie, the founder of Carnegie Mellon University, kept a Scottish terrier as his pet.
+A: Andrew Carnegie founded Carnegie Mellon University and had a Scottish terrier.
 D: 01.txt
 
 Q: When did Carnegie Mellon officially start the process to select a mascot?
-A: Carnegie Mellon officially started the process to select a mascot in November 2006 by forming the Mascot Identity Task Force.
+A: The mascot selection process at Carnegie Mellon began in November 2006.
 D: 01.txt
 
 Q: Who co-chaired the Mascot Identity Task Force at Carnegie Mellon?
-A: The Mascot Identity Task Force at Carnegie Mellon was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+A: Susan Bassett and Jennifer Church co-chaired the Mascot Identity Task Force.
 D: 01.txt
 
 Q: How did the Carnegie Mellon community participate in the mascot selection process?
-A: The Carnegie Mellon community participated in the mascot selection process through a series of surveys and a university Town Hall meeting.
+A: The community participated in the mascot choice through surveys and a Town Hall.
 D: 01.txt
 
 Q: What percentage of students voted for the Scottish terrier as the mascot in the 2007 survey?
-A: Nearly 78 percent of 2,370 students surveyed in February 2007 voted for the Scottish terrier as the mascot.
+A: 78% of 2,370 students voted for the Scottish terrier as the mascot in 2007.
 D: 01.txt
 
 Q: What misconception did approximately 25 percent of surveyed alumni have about the Scottish terrier?
-A: Approximately 25 percent of 400 alumni surveyed thought the Scottish terrier was already the mascot of Carnegie Mellon.
+A: 25% of surveyed alumni mistakenly believed the Scottish terrier was already the mascot.
 D: 01.txt
 
 Q: Which company did Carnegie Mellon partner with to develop the graphics for the mascot?
-A: Carnegie Mellon partnered with SME Branding to develop the graphics for the mascot.
+A: Carnegie Mellon collaborated with SME Branding for mascot graphics.
 D: 01.txt
 
 Q: When did the official mascot of Carnegie Mellon debut?
-A: The official mascot of Carnegie Mellon debuted at the Nov. 10, 2007 home football game.
+A: The mascot debuted at the home football game on Nov. 10, 2007.
 D: 01.txt
 
 Q: What does the graphic of Carnegie Mellon's official mascot feature?
-A: The graphic of Carnegie Mellon's official mascot features a profile of a distinguished, bold Scottish terrier sporting a plaid scarf around its neck, contained in a shield representing Carnegie Mellon's Scottish heritage.
+A: The mascot graphic features a Scottish terrier with a plaid scarf in a shield.
 D: 01.txt
 
 Q: When was the official Scotty costume unveiled?
-A: The official Scotty costume was unveiled at the 2008 Spring Carnival.
+A: The Scotty costume was revealed at the 2008 Spring Carnival.
 D: 01.txt
+
+Q: What breed is Carnegie Mellon University's mascot?
+A: The university's mascot is a Scottish terrier.
+D: 01.txt
+
+Q: What was the role of focus groups in the mascot selection process?
+A: Focus groups with students and alumni helped select the mascot image.
+D: 01.txt
+
+Q: What are some of the temperament traits of the Scottish Terrier breed?
+A: The Scottish Terrier is known for its keen, alert, intelligence, and determined temperament.
+D: 02.txt
+
+Q: Why was the Scottish Terrier chosen as Carnegie Mellon University's mascot?
+A: It was chosen as the mascot for embodying CMU's traits like strength, agility, and determination.
+D: 02.txt
+
+Q: What physical aspects of the Scottish Terrier exemplify its representation as a mascot?
+A: Its representation includes strength, power, and agility in a compact form.
+D: 02.txt
+
+Q: How does the Scottish Terrier's temperament reflect on Carnegie Mellon University's ethos?
+A: The terrier's temperament of determination and thoughtfulness reflects CMU's ethos.
+D: 02.txt
+
+Q: What qualities make the Scottish Terrier a natural choice for a university mascot, specifically Carnegie Mellon?
+A: Its keen, alert intelligence, strength, and agility make it a fitting mascot for CMU.
+D: 02.txt
+
+Q: Can you describe the Scottish Terrier's expression and how it relates to its role as a mascot?
+A: The terrier's keen, alert, and intelligent look symbolizes CMU's valued qualities.
+D: 02.txt
+
+Q: What are the key physical traits of the Scottish Terrier that align with Carnegie Mellon University's image?
+A: Key traits include strength, power, and agility, aligning with CMU's image.
+D: 02.txt
+
+Q: How does the Scottish Terrier's agility contribute to its symbolic representation for Carnegie Mellon University?
+A: Its agility symbolizes CMU's ability to adapt and innovate.
+D: 02.txt
+
+Q: In what way does the Scottish Terrier's determined temperament mirror the characteristics of Carnegie Mellon University?
+A: The terrier's determination mirrors CMU's dedication to excellence.
+D: 02.txt
+
+Q: How does the combination of physical and temperament traits of the Scottish Terrier enhance its suitability as Carnegie Mellon University's mascot?
+A: Its physical and temperament traits together symbolize CMU's values of strength, intelligence, and determination.
+D: 02.txt
