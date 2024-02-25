@@ -129,3 +129,247 @@ D: 03.txt
 Q: How did Carnegie Tech's early curriculum adapt to societal needs?
 A: By initiating the 'Carnegie Plan' which required science and engineering students to take humanities and social sciences courses.
 D: 03.txt
+
+Q: When did Carnegie Tech get its first IBM computer?
+A: The first IBM computer arrived on campus in 1956.
+D: 04.txt
+
+Q: What major change happened at Carnegie Tech in 1973?
+A: In 1973, Margaret Morrison closed, and women joined their male peers in classrooms and dorms.
+D: 04.txt
+
+Q: What was the first new school opened by Carnegie Tech in the post-war years, and what was it later renamed?
+A: The first new school opened was the Graduate School of Industrial Administration in 1948, later renamed the David A. Tepper School of Business.
+D: 04.txt
+
+Q: What field did the David A. Tepper School of Business focus on?
+A: The David A. Tepper School of Business focused on quantitative analysis and pioneered the field of management science.
+D: 04.txt
+
+Q: When was the School of Urban and Public Affairs opened, and what is its current name?
+A: It was opened in 1968 and is currently named the H. John Heinz III College.
+D: 04.txt
+
+Q: What does the H. John Heinz III College specialize in?
+A: The H. John Heinz III College provides graduate training for work in the public sector.
+D: 04.txt
+
+Q: When was the School of Computer Science founded, and what fields did it pioneer?
+A: The School of Computer Science was founded in 1986, pioneering computing and artificial intelligence.
+D: 04.txt
+
+Q: Who were the interdisciplinary leaders of the School of Computer Science?
+A: Allen Newell and Herbert Simon were the interdisciplinary leaders of the School of Computer Science.
+D: 04.txt
+
+Q: How did the university culture at Carnegie Tech change with the arrival of the first IBM computer?
+A: The arrival of the first IBM computer initiated a culture where information technology pervaded virtually all areas of study.
+D: 04.txt
+
+Q: What was the impact of women joining male peers in classrooms and dorms in 1973?
+A: It marked a significant change in university culture, promoting gender integration in academic and residential life.
+D: 04.txt
+
+Q: What was the primary focus of the newly founded schools at Carnegie Tech in the post-war years?
+A: The focus was on management science, public sector training, and pioneering computing and artificial intelligence.
+D: 04.txt
+
+Q: How did Carnegie Tech position itself in the latter half of the 20th century?
+A: Carnegie Tech positioned itself at the forefront of educational innovation by embracing information technology and expanding its academic offerings.
+D: 04.txt
+
+Q: When did Carnegie Tech merge with the Mellon Institute to become Carnegie Mellon University?
+A: Carnegie Tech merged with the Mellon Institute to become Carnegie Mellon University in 1967.
+D: 05.txt
+
+Q: Who founded the Mellon Institute, which later merged with Carnegie Tech?
+A: The Mellon Institute was founded by the Mellon family of Pittsburgh.
+D: 05.txt
+
+Q: What was the significance of the merger between Carnegie Tech and the Mellon Institute for Carnegie Mellon University?
+A: The merger allowed Carnegie Mellon University to establish its last current pillars, including the Mellon College of Science and the College of Humanities and Social Sciences, enhancing its higher education, research, and discovery capabilities.
+D: 05.txt
+
+Q: What are the names of the two colleges established as a result of the Carnegie Tech and Mellon Institute merger?
+A: The two colleges established were the Mellon College of Science and the College of Humanities and Social Sciences, now known as Marianna Brown Dietrich College of Humanities and Social Sciences.
+D: 05.txt
+
+Q: When did Carnegie Mellon celebrate the 50th anniversary of its founding through the merger?
+A: Carnegie Mellon celebrated the 50th anniversary of the merger in 2017.
+D: 05.txt
+
+Q: What was the original name of the College of Humanities and Social Sciences at Carnegie Mellon?
+A: The original name was the College of Humanities and Social Sciences before it was renamed to Marianna Brown Dietrich College of Humanities and Social Sciences.
+D: 05.txt
+
+Q: How has the merger between Carnegie Tech and the Mellon Institute impacted the world of higher education, according to the document?
+A: The merger has had a significant impact on the world of higher education, research, and discovery.
+D: 05.txt
+
+Q: Who provided support for Carnegie Tech before its merger with the Mellon Institute?
+A: The Mellon family of Pittsburgh provided support for Carnegie Tech before the merger.
+D: 05.txt
+
+Q: What is the importance of the Mellon family in the history of Carnegie Mellon University?
+A: The Mellon family played a crucial role in the university's history through the founding of the Mellon Institute and their support for Carnegie Tech, which eventually led to the establishment of Carnegie Mellon University.
+D: 05.txt
+
+Q: What vision was revisited during the 50th anniversary celebration of Carnegie Mellon University?
+A: The shared vision of the founders was revisited during the 50th anniversary celebration.
+D: 05.txt
+
+Q: How did the merger between Carnegie Tech and the Mellon Institute contribute to the establishment of Carnegie Mellon University's current structure?
+A: The merger contributed to the establishment of the university's current structure by adding the last of its current pillars, which include the Mellon College of Science and the College of Humanities and Social Sciences.
+D: 05.txt
+
+Q: What is the future impact of the Carnegie Tech and Mellon Institute merger on Carnegie Mellon University?
+A: The impact of the merger will continue to be significant in the future of higher education, research, and discovery.
+D: 05.txt
+
+Q: How long has Carnegie Mellon been established?
+A: Carnegie Mellon has been established for 115 years.
+D: 06.txt
+
+Q: What is Carnegie Mellon known for?
+A: Carnegie Mellon is known for innovation, solving real-world problems, and interdisciplinary collaboration.
+D: 06.txt
+
+Q: Can you list some fields where Carnegie Mellon alumni have excelled?
+A: Carnegie Mellon alumni have excelled in various fields including winning Tony Awards, Nobel Prizes, Turing Awards, becoming CEOs, entrepreneurs, professors, and artists.
+D: 06.txt
+
+Q: When did Carnegie Mellon begin offering degree programs outside of Pittsburgh?
+A: Carnegie Mellon began offering degree programs outside of Pittsburgh in the 2000s.
+D: 06.txt
+
+Q: Where does Carnegie Mellon have campuses?
+A: Carnegie Mellon has campuses in Qatar and Silicon Valley, California.
+D: 06.txt
+
+Q: How many degree-granting locations does Carnegie Mellon have?
+A: Carnegie Mellon has more than a dozen degree-granting locations.
+D: 06.txt
+
+Q: How many research partnerships does Carnegie Mellon have?
+A: Carnegie Mellon has more than 20 research partnerships.
+D: 06.txt
+
+Q: Can you name a few places where Carnegie Mellon has research partnerships?
+A: Carnegie Mellon has research partnerships in places like Los Angeles, New York City, Washington, D.C., Australia, China, Portugal, and Rwanda.
+D: 06.txt
+
+Q: What was the reason for Carnegie Mellon's expansion to international educational opportunities?
+A: The expansion to international educational opportunities was in response to demand for expanded international educational opportunities.
+D: 06.txt
+
+Q: How has Carnegie Mellon contributed to innovation since its founding?
+A: Carnegie Mellon has contributed to innovation by being a birthplace of innovation, known for solving real-world problems through interdisciplinary collaboration.
+D: 06.txt
+
+Q: What accolades have Carnegie Mellon alumni achieved?
+A: Carnegie Mellon alumni have achieved accolades such as Tony Awards, Nobel Prizes, and Turing Awards.
+D: 06.txt
+
+Q: What types of professionals can be found among Carnegie Mellon's alumni?
+A: Among Carnegie Mellon's alumni, there are CEOs, entrepreneurs, professors, and artists.
+D: 06.txt
+
+Q: What significant change is happening at CMU in the coming years?
+A: CMU will see the largest expansion to the Pittsburgh campus since 1900.
+D: 07.txt
+
+Q: What are CMU's main areas of focus according to the Strategic Plan 2025?
+A: The university will focus on advancing the individual student experience, the broader Carnegie Mellon community experience, and the social impact of Carnegie Mellon throughout the world.
+D: 07.txt
+
+Q: How does CMU plan to maintain its status as a world-class university?
+A: Through research, innovation, and creativity at the intersection of technology and humanity.
+D: 07.txt
+
+Q: What is the significance of the year 1900 in the context of CMU's campus development?
+A: It marks the previous major expansion before the upcoming largest expansion.
+D: 07.txt
+
+Q: In what ways does CMU intend to impact the world?
+A: By focusing on the social impact of Carnegie Mellon throughout the world.
+D: 07.txt
+
+Q: How does CMU view the relationship between technology and humanity?
+A: CMU views technology and humanity as intersecting areas that guide its future.
+D: 07.txt
+
+Q: What does the Strategic Plan 2025 aim to advance at CMU?
+A: It aims to advance the individual student experience and the broader Carnegie Mellon community experience.
+D: 07.txt
+
+Q: What rank did CMU's Management Information Systems program receive from U.S. News & World Report in 2022?
+A: #1.
+D: 08.txt
+
+Q: How many countries do CMU students come from?
+A: 126 countries.
+D: 08.txt
+
+Q: What was the percentage of women among CMU's Computer Science first-year students?
+A: In 2019, 49.8%.
+D: 08.txt
+
+Q: What is the motto of Andrew Carnegie, the founder of Carnegie Mellon University?
+A: "My Heart is in the Work."
+D: 08.txt
+
+Q: How many living alumni does CMU have?
+A: 117,257.
+D: 08.txt
+
+Q: What significant contribution did James Gosling, a CMU alumnus, make to the field of computer programming?
+A: Invented the Java computer programming language.
+D: 08.txt
+
+Q: What was CMU's global ranking according to Times Higher Education World University Ranking in 2023?
+A: #28 in the world.
+D: 08.txt
+
+Q: How many companies has the CMU community launched to date?
+A: More than 400 startups.
+D: 08.txt
+
+Q: Who invented Duolingo, and what was its achievement in the year following its launch?
+A: Invented by professor Luis von Ahn; had 10 million downloads in 12 months and was named Apple’s 2013 app of the year.
+D: 08.txt
+
+Q: How many Turing Awards has the CMU community received?
+A: 13 Turing Awards.
+D: 08.txt
+
+Q: What was the first in the field of email innovations credited to a CMU professor?
+A: The first smile in an email, created in 1982 by professor Scott Fahlman.
+D: 08.txt
+
+Q: What percentage of CMU's undergraduate students are international?
+A: 35% international.
+D: 08.txt
+
+Q: How many Academy Awards has the CMU community won?
+A: 13 Academy Awards.
+D: 08.txt
+
+Q: What is the economic impact of CMU on Pittsburgh, specifically in terms of attracting major companies?
+A: CMU has attracted major companies like Google, Intel, Uber, and GE to locate operations and create new jobs in Pittsburgh.
+D: 08.txt
+
+Q: How many countries do CMU faculty come from?
+A: Faculty come from 56 countries.
+D: 08.txt
+
+Q: What is the rank of CMU's College of Engineering according to U.S. News & World Report in 2022?
+A: #1.
+D: 08.txt
+
+Q: Who is the President of Carnegie Mellon University?
+A: Farnam Jahanian.
+D: 08.txt
+
+Q: What groundbreaking invention related to personal safety materials was created by a CMU alumna?
+A: Kevlar Fiber, invented by alumna Stephanie Kwolek.
+D: 08.txt
