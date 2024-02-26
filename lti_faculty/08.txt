@@ -1,4 +1,0 @@
-Language Technologies Institute - Faculty
-Name: Daniel Fried
-Email: dfried@andrew.cmu.edu
-Research Areas: Natural Language Processing: Language and Code, Conversational AI, Intelligent Agents, and Dialogue, Discourse and Pragmatics, Multimodal AI

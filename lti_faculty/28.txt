@@ -1,5 +1,0 @@
-Language Technologies Institute - Faculty
-Name: Shinji Watanabe
-Email: swatanab@andrew.cmu.edu
-Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing
-Phone: 412-268-3687
