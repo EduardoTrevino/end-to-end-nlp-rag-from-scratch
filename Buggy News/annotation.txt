@@ -6,12 +6,12 @@ T: Context Question
 Q: What does "Chute" signify in the context of the Buggy Races?
 A: Chute is a section of the freeroll portion of the buggy course where buggies make a sharp right-hand turn from Schenley Drive onto Frew Street.
 D: 01.txt
-T: Context Question 
+T: Discriptive Question 
 
 Q: Who is a "Chute Flagger"?
 A: A Chute Flagger is a team member who signals buggy drivers to start the right-hand turn from Schenley Drive onto Frew Street.
 D: 01.txt
-T: Context Question 
+T: Factiod Question 
 
 Q: Define "Driver" in Sweepstakes terms.
 A: A Driver is the person who controls the buggy via steering and braking systems while traveling with it.
