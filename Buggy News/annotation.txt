@@ -21,7 +21,7 @@ T: Discriptive Question
 Q: What is a "Pushbar"?
 A: A Pushbar is a structure attached to a buggy that allows a person to push and propel the buggy forward.
 D: 01.txt
-T: Context Question 
+T: Factiod Question 
 
 Q: What role does a "Pusher" play in the Buggy Races?
 A: A Pusher propels a buggy using a pushbar along one of the five hills of the buggy course.
@@ -51,7 +51,7 @@ T: Discriptive Question
 Q: How many people does it take to navigate the current Buggy Race course?
 A: Six people.
 D: 02.txt
-T: Discpritve 
+T: Discpritve Question 
 
 Q: Where is the current Buggy Race course located?
 A: The course goes around Schenley Park's Flagstaff Hill.
@@ -86,7 +86,7 @@ T: Multi-turn Question
 Q: When are new buggy names revealed to the public?
 A: At the Buggy Showcase.
 D: 03.txt
-T: Context Question 
+T: Temporal Question 
 
 Q: Where are new buggy names revealed to the public?
 A: 2 p.m. EST in Weigand Gymnasium in the Cohon University Center.
