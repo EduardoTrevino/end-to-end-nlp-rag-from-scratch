@@ -1,0 +1,24 @@
+ 
+Types of questions annotated - 
+
+
+1. Factoid Questions: These questions typically require the model to provide a concise answer based on a single fact or piece of information. Example: "What is the capital of France?"
+
+2. Descriptive Questions: These questions require the model to provide a descriptive answer that may involve multiple facts or details. Example: "Can you describe the main events of World War II?"
+
+3. Reasoning Questions: These questions test the model's ability to perform logical reasoning or inference. Example: "If it is raining outside, what should you bring with you when you go out?"
+
+4. Opinion Questions: These questions assess the model's ability to understand and generate subjective responses. Example: "What is the best movie of all time?"
+
+5. Numeric Questions: These questions require the model to provide a numerical answer. Example: "What is the population of China?"
+
+6. List Questions: These questions ask the model to generate a list of items that meet certain criteria. Example: "Can you name three countries in South America?"
+
+7. Contextual Questions: These questions require the model to understand and incorporate context from a given passage or document. Example: "According to the passage, what was the main cause of the economic recession?"
+
+8. Multi-turn Questions: These questions involve a series of interactions where the model may need to ask for clarification or provide follow-up responses. Example: "What is the tallest building in the world?" (Model responds: "The Burj Khalifa." Follow-up: "How tall is it?")
+
+9. Comparison Questions: These questions ask the model to compare two or more entities based on certain criteria. Example: "Which is larger, the Pacific Ocean or the Atlantic Ocean?"
+
+10. Temporal Questions: These questions involve temporal reasoning and may require the model to provide information about events or time periods. Example: "When did the American Civil War end?"
+
