@@ -128,3 +128,73 @@ Q: How does the School of Computer Science at CMU maintain its founders' vision 
 A: By embracing all facets of computing, including big data and connected computing, and continuing to lead in education and research across a wide variety of computing disciplines.
 D: 00.txt
 T: 3
+
+Q: What year was the first artificial intelligence program created?
+A: 1955-56
+D: 01.txt
+T: 1
+
+Q: Can you describe the contributions of CMU to the field of computer chess?
+A: CMU researcher Hans Berliner developed Hitech, the first computer to achieve grandmaster status, and CMU alumni played key roles in developing IBM's Deep Blue, which beat chess champion Garry Kasparov in 1997.
+D: 01.txt
+T: 2
+
+Q: How did the introduction of multi-core processors at CMU impact computer performance?
+A: CMU researchers improved computer performance by linking together multiple processors, creating a pioneering computer that significantly sped up the processing of speech and graphics programs.
+D: 01.txt
+T: 3
+
+Q: What is your opinion on the lasting impact of emoticons, introduced by CMU in 1982?
+A: Emoticons have had a significant and enduring impact on digital communication by providing a simple way to convey emotions and intentions, reducing misunderstandings in text-based messages.
+D: 01.txt
+T: 4
+
+Q: How many students benefit from cognitive tutoring programs developed at CMU annually?
+A: Hundreds of thousands of students benefit annually.
+D: 00.txt
+T: 5
+
+Q: List the areas where CMU has made pioneering contributions in computer science.
+A: Artificial intelligence, multi-core processors, tutoring machines, speech recognition, emoticons, the Andrew project, autonomous robots, user interfaces, machine translation, Mach kernel, computer chess, Java, email attachments, web search engines, model checking, CAPTCHAs, robotic video cameras, self-driving vehicles, thought reading programs, kidney donor matching, RNA sequencing via videogames, language learning software, question-answering computers, encrypting online information, smart traffic signals.
+D: 01.txt
+T: 6
+
+Q: According to the document, what was a significant milestone in language translation technology achieved by CMU?
+A: CMU developed pioneering systems for handheld, portable speech-to-speech translators, moving closer to real-life universal translators.
+D: 01.txt
+T: 7
+
+Q: How did the Andrew project aim to revolutionize computer access?
+A: The Andrew project aimed to provide every student, faculty member, and employee with access to email, word processing, file-transfer services, and graphics programs, making CMU the most-wired campus in the world.
+D: 01.txt
+T: 8
+
+Q: Compare the importance of the Mach kernel with the development of Java at CMU.
+A: The Mach kernel is crucial as it underpins all modern Apple devices, while Java's significance lies in its platform independence, enabling applications to run on almost any device.
+D: 01.txt
+T: 9
+
+Q: When did CMU develop the first successful web search engine?
+A: 1994
+D: 01.txt
+T: 10
+
+Q: How did CMU's CAPTCHAs contribute to internet security?
+A: CAPTCHAs helped distinguish between humans and automated bots, mitigating spam and malicious attacks on the internet.
+D: 01.txt
+T: 1
+
+Q: What was the outcome of CMU's self-driving SUV named BOSS in 2007?
+A: BOSS won the 2007 DARPA Urban Challenge road race.
+D: 01.txt
+T: 1
+
+Q: How does Duolingo, a CMU spinoff, assist in language learning?
+A: Duolingo offers free language tutoring software through its website and mobile apps, enabling users to learn multiple languages while also helping to translate the web.
+D: 01.txt
+T: 2
+
+Q: What role did CMU play in the development of online information encryption?
+A: CMU alumna Shafi Goldwasser developed an encryption scheme that makes online data like credit card numbers safer, earning her a Turing Award.
+D: 01.txt
+T: 2
