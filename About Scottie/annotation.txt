@@ -1,3 +1,8 @@
+Q: When was The Kiltie Band founded?
+A: The Kiltie Band was founded in 1908.
+D: 01.txt
+T: Temporal Question
+
 Q: Who founded Carnegie Mellon University and what type of pet did he keep?
 A: Andrew Carnegie founded Carnegie Mellon University and had a Scottish terrier.
 D: 01.txt
