@@ -1,0 +1,119 @@
+Q: What is the term "Buggy" used to describe in Sweepstakes slang?
+A: Buggy refers to both the vehicle being raced and the competition itself.
+D: 01.txt
+T: 7
+
+Q: What does "Chute" signify in the context of the Buggy Races?
+A: Chute is a section of the freeroll portion of the buggy course where buggies make a sharp right-hand turn from Schenley Drive onto Frew Street.
+D: 01.txt
+T: 7
+
+Q: Who is a "Chute Flagger"?
+A: A Chute Flagger is a team member who signals buggy drivers to start the right-hand turn from Schenley Drive onto Frew Street.
+D: 01.txt
+T: 7
+
+Q: Define "Driver" in Sweepstakes terms.
+A: A Driver is the person who controls the buggy via steering and braking systems while traveling with it.
+D: 01.txt
+T: 7
+
+Q: What is a "Pushbar"?
+A: A Pushbar is a structure attached to a buggy that allows a person to push and propel the buggy forward.
+D: 01.txt
+T: 1
+
+Q: What role does a "Pusher" play in the Buggy Races?
+A: A Pusher propels a buggy using a pushbar along one of the five hills of the buggy course.
+D: 01.txt
+T: 2 
+
+Q: What is meant by "Shell" in the context of a buggy?
+A: Shell refers to the entire outer structure or covering of a buggy that affects its aerodynamic characteristics.
+D: 01.txt
+T: 7 
+
+Q: Explain "Transition" in Sweepstakes slang.
+A: Transition is the process where one pusher finishes pushing a buggy, and the next pusher starts to push that same buggy.
+D: 01.txt
+T: 7 
+
+Q: How long has the tradition of Sweepstakes, or Buggy Races, been running at Carnegie Mellon University?
+A: The Buggy Races tradition at Carnegie Mellon University has been running for 104 years.
+D: 02.txt
+T: 7
+
+Q: What has changed about the vehicles used in the Buggy Races since its inception?
+A: It changed froma a two-man teams changing places mid-race with simple constructions to slick, torpedo-like vessels requiring six people (five pushers and a driver) to maneuver a .84-mile course.
+D: 02.txt
+T: 2
+
+Q: How many people does it take to navigate the current Buggy Race course?
+A: Six people.
+D: 02.txt
+T: 1
+
+Q: Where is the current Buggy Race course located?
+A: The course goes around Schenley Park's Flagstaff Hill.
+D: 02.txt
+T: 7
+
+Q: What are the basic components of a buggy?
+A: A body, pushbar, wheels, a safety harness, and driving and braking mechanisms. Some also have fairings to reduce drag.
+D: 03.txt
+T: 2
+
+Q: How do teams typically approach the construction of their buggies?
+A: Teams are often secretive about their construction methods, particularly regarding brakes, steering, and the types of wheels used.
+D: 03.txt
+T: 2
+
+Q: What is the significance of fairings in buggy construction?
+A: Fairings are used to reduce drag, make the vehicle quieter, and enhance its appearance. They have been a key feature for the Fringe team.
+D: 03.txt
+T: 7 
+
+Q: Can you name a team that is known for having quiet buggies on the course?
+A: The Fringe team is known for having the quietest buggies on the course.
+D: 03.txt
+T: 7
+
+Q: How do teams name their buggies, and can you give examples?
+A: Teams name their buggies based on themes. For example, Fringe names theirs with the letter "B" (e.g., Boson, Blueshift), Apex uses names connoting fire, and SDC uses names like Vice, Bane, Avarice, and Malice.
+D: 03.txt
+T: 6 
+
+Q: When are new buggy names revealed to the public?
+A: At the Buggy Showcase.
+D: 03.txt
+T: 10 
+
+Q: Where are new buggy names revealed to the public?
+A: 2 p.m. EST in Weigand Gymnasium in the Cohon University Center.
+D: 03.txt
+T: 7
+
+Q: What is required for a driver to qualify to race in the Buggy Races?
+A: Each driver must log a number of practice runs to qualify to race.
+D: 05.txt
+T: 2
+
+Q: How do buggies accommodate their drivers?
+A: Buggies are often built around their drivers, ensuring a snug fit. Drivers are often less than 5 feet, 3 inches in height, and most are women.
+D: 05.txt
+T: 1 
+
+Q: What safety gear is required for all drivers?
+A: Drivers are required to have five pieces of safety gear: mouth guard, goggles, a harness with three points of contact to the buggy, gloves, and a helmet.
+D: 05.txt
+T: 1 
+
+Q: How does the condition of the race course impact the races?
+A: The condition of the race course, especially potholes, can significantly affect the safety and speed of the races. Poorly filled potholes make it dangerous to drive.
+D: 05.txt
+T: 1
+
+Q: What challenges are faced by drivers due to the condition of the race course?
+A: Potholes are create challenging conditions, potentially leading to most heats running just two lanes instead of three.
+D: 05.txt
+T: 2
