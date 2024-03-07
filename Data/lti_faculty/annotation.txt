@@ -1,0 +1,99 @@
+Q: What is Yonatan Bisk's research area?
+A: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+D: 00.txt
+T: 1
+
+Q: Who specializes in Machine Translation at the Language Technologies Institute?
+A: Lori Levin, Lei Li, Graham Neubig, Alexander Waibel
+D: 00.txt
+T: 6
+
+Q: What is the office number for Jamie Callan?
+A: 5419 Gates & Hillman Centers
+D: 00.txt
+T: 1
+
+Q: Describe the research interests of Bhiksha Ramakrishnan.
+A: Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy
+D: 00.txt
+T: 2
+
+Q: How many faculty members are listed with an interest in Information Retrieval?
+A: 7
+D: 00.txt
+T: 5
+
+Q: List the faculty members who have provided their phone numbers.
+A: Ralf Brown, Jamie Callan, Justine Cassell, Mona Diab, Fernando Diaz, Scott Fahlman, Robert Frederking, Anatole Gershman, Alexander Hauptmann, Daphne Ippolito, Lori Levin, Lei Li, Teruko Mitamura, Louis-Philippe Morency, David Mortensen, Eric Nyberg, Bhiksha Ramakrishnan, Carolyn Rosé, Alexander Rudnicky, Michael Shamos, Rita Singh, Alexander Waibel, Shinji Watanabe, Eric P. Xing, Chenyan Xiong, Yiming Yang
+D: 00.txt
+T: 6
+
+Q: Who is the contact for RoboNLP at the Language Technologies Institute?
+A: Yonatan Bisk
+D: 00.txt
+T: 1
+
+Q: Compare the number of faculty interested in Machine Learning to those in Natural Language Processing.
+A: The document lists 4 faculty members with a specific interest in Machine Learning and over 10 with interests in various areas of Natural Language Processing.
+D: 00.txt
+T: 9
+
+Q: Which faculty member's research includes Fairness and Ethics in Language Technology?
+A: Fernando Diaz, Maarten Sap
+D: 00.txt
+T: 6
+
+Q: What is the phone number for the faculty member specializing in Spoken Language Translation?
+A: 412-268-7676 (Alexander Waibel)
+D: 00.txt
+T: 1
+
+Q: Who has an office at the Qatar Campus?
+A: Kemal Oflazer
+D: 00.txt
+T: 1
+
+Q: Identify faculty members involved in Speech Processing.
+A: Bhiksha Ramakrishnan, Alexander Rudnicky, Shinji Watanabe, Alexander Waibel
+D: 00.txt
+T: 6
+
+Q: What research areas does Justine Cassell focus on?
+A: The document does not specify Justine Cassell's research areas.
+D: 00.txt
+T: 1
+
+Q: How can someone contact Daphne Ippolito?
+A: Email: daphnei@cmu.edu, Phone: 412-268-7250
+D: 00.txt
+T: 1
+
+Q: List the offices for all faculty members whose research includes Information Extraction.
+A: Ralf Brown: 5711 Gates & Hillman Centers, Anatole Gershman: 6415 Gates & Hillman Centers, Alexander Hauptmann: 5519 Gates & Hillman Centers, Teruko Mitamura: 6711 Gates & Hillman Centers, Eric Nyberg: 6715 Gates & Hillman Centers
+D: 00.txt
+T: 6
+
+Q: Who focuses on Embodiment in their research at the Language Technologies Institute?
+A: Yonatan Bisk
+D: 00.txt
+T: 1
+
+Q: What is the email address for the faculty member with interests in Creativity and Evaluation in NLP?
+A: diazf@cmu.edu (Fernando Diaz)
+D: 00.txt
+T: 1
+
+Q: Can you provide the phone numbers for faculty with interests in Machine Learning?
+A: Lei Li: 412-268-6355, Louis-Philippe Morency: 412-268-5508, Bhiksha Ramakrishnan: 412-268-9826, Alexander Waibel: 412-268-7676
+D: 00.txt
+T: 6
+
+Q: Which faculty member has an office located at 205 407 South Craig Street?
+A: Alexander Waibel
+D: 00.txt
+T: 1
+
+Q: How many faculty members have an interest in Spoken Interfaces and Dialogue Processing?
+A: 4
+D: 00.txt
+T: 5
