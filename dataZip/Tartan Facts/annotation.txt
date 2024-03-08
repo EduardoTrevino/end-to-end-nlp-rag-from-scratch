@@ -1,0 +1,234 @@
+Q: Who founded Carnegie Technical Schools?
+A: Andrew Carnegie founded Carnegie Technical Schools.
+D: 01.txt
+T: 1
+
+Q: When was Carnegie Technical Schools founded?
+A: Carnegie Technical Schools was founded in 1900.
+D: 01.txt
+T: 10
+
+Q: What was the original name of the Carnegie Institute of Technology?
+A: The original name was Carnegie Technical Schools.
+D: 01.txt
+T: 1
+
+Q: When did Carnegie Technical Schools become the Carnegie Institute of Technology?
+A: It became the Carnegie Institute of Technology twelve years later, in 1912.
+D: 01.txt
+T: 10
+
+Q: What did the Carnegie Institute of Technology merge with to become Carnegie Mellon University?
+A: It merged with Mellon Institute.
+D: 01.txt
+T: 7
+
+Q: When did the merger that formed Carnegie Mellon University occur?
+A: The merger occurred in 1967.
+D: 01.txt
+T: 10
+
+Q: What is a Tartan?
+A: A Tartan is a twilled woolen fabric with a plaid design, of Scottish origin, denoting a particular family lineage.
+D: 02.txt
+T: 1
+
+Q: What are common misrepresentations of a Tartan?
+A: Tartans are often misrepresented as a fierce warrior from either the Asian tundra or Scottish highlands.
+D: 02.txt
+T: 1
+
+Q: What is the actual meaning of a Tartan?
+A: The actual meaning of a Tartan refers to a type of fabric characterized by stripes of various colors and widths against a solid ground, associated with Scottish family lineages.
+D: 02.txt
+T: 1 
+
+Q: Why are Carnegie Mellon's athletic teams nicknamed the "Tartans"?
+A: The nickname "Tartans" pays homage to Andrew Carnegie's Scottish heritage.
+D: 02.txt
+T: 1 
+
+Q: Who was Andrew Carnegie's heritage?
+A: Andrew Carnegie's heritage was Scottish, as he was born in Dunfermline, Scotland.
+D: 02.txt
+T: 1
+
+Q: When did Andrew Carnegie found Carnegie Technical Schools?
+A: Andrew Carnegie founded Carnegie Technical Schools in Pittsburgh in 1900.
+D: 02.txt
+T: 10
+
+Q: What does the Scottish terrier mascot performer wear?
+A: The Scottish terrier mascot performer sports attire made from Carnegie tartan.
+D: 02.txt
+T: 1
+
+Q: What is unique about the graphic mascot's appearance?
+A: The graphic mascot is uniquely adorned with a plaid scarf around its neck.
+D: 02.txt
+T: 1
+
+Q: What defines a tartan pattern in fabric?
+A: A tartan is defined by its check or pattern of various colors in woven fabric, where bands of color are repeated in equal proportion in both the warp (lengthwise) and weft (across), resulting in solid colors at the intersections of vertical and horizontal stripes of the same color.
+D: 03.txt
+T: 1
+
+Q: How does the arrangement of colored threads in a tartan compare in the warp and the weft?
+A: The arrangement of colored threads in a tartan is identical in both the warp and the weft, ensuring that each stripe of the warp crosses every stripe of the weft at equal intervals.
+D: 03.txt
+T: 9
+
+Q: What happens when vertical and horizontal stripes of the same color cross in a tartan pattern?
+A: When vertical and horizontal stripes of the same color cross in a tartan pattern, the result is a solid color at the point of intersection.
+D: 03.txt
+T: 7
+
+Q: Where can you find items featuring the official tartan pattern?
+A: Items featuring the official tartan pattern can be found in the University Store.
+D: 03.txt
+T: 1 
+
+Q: When did Carnegie Mellon University officially adopt the Scottish terrier as its mascot?
+A: Carnegie Mellon University officially adopted the Scottish terrier as its mascot in 2007.
+D: 04.txt
+T: 10
+
+Q: What is the official mascot of Carnegie Mellon University?
+A: The official mascot of Carnegie Mellon University is the Scottish terrier, known as Scotty.
+D: 04.txt
+T: 1
+
+Q: How was the name for Carnegie Mellon University's mascot chosen?
+A: The name for Carnegie Mellon University's mascot, Scotty, was chosen through a vote by students, faculty, staff, and alumni.
+D: 04.txt
+T: 2
+
+Q: Before becoming the official mascot in 2007, how long had students dressed as a Scottish terrier?
+A: Before becoming the official mascot in 2007, students had dressed as a Scottish terrier for 50 years.
+D: 04.txt
+T: 10
+
+Q: Does the name "Scotty" refer only to the costumed mascot at Carnegie Mellon University?
+A: No, the name "Scotty" refers both to the costumed mascot and the live dog mascot at Carnegie Mellon University.
+D: 04.txt
+T: 7
+
+Q: Where is Carnegie Mellon University (CMU) located?
+A: Pittsburgh, Pennsylvania (PA) 15213.
+D: 05.txt
+T: 1
+
+Q: When was Carnegie Mellon University (CMU) founded?
+A: 1900.
+D: 05.txt
+T: 10 
+
+Q: How many undergraduate students were enrolled at Carnegie Mellon University (CMU)?
+A: As of Fall 2021, 6,982 students.
+D: 05.txt
+T: 1
+
+Q: How many graduate and doctoral students were enrolled at Carnegie Mellon University (CMU)?
+A: As of Fall 2021, 7,062 gradyate and doctoral students.
+D: 05.txt
+T: 1
+
+Q: How many alumni does Carnegie Mellon University (CMU) have?
+A: As of 2021, 102,577 alumni.
+D: 05.txt
+T: 1
+
+Q: What is the nickname for Carnegie Mellon University (CMU)?
+A: Tartans.
+D: 05.txt
+T: 1
+
+Q: What is the mascot for Carnegie Mellon University (CMU)?
+A: Scottie Dog.
+D: 05.txt
+T: 1 
+
+Q: What are the school colors for Carnegie Mellon University (CMU)?
+A: Cardinal and Gray.
+D: 05.txt
+T: 1
+
+Q: What is the name of the football stadium and/or track and field at Carnegie Mellon University (CMU)?
+A: Gesling Stadium.
+D: 05.txt
+T: 1
+
+Q: What is the capacity of Gesling Stadium?
+A: 3,500.
+D: 05.txt
+T: 1
+
+Q: What type of surface does Gesling Stadium have?
+A: FieldTurf.
+D: 05.txt
+T: 1
+
+Q: What is the name of the basketball and/or volleyball gym at Carnegie Mellon University (CMU)?
+A: Wiegand Gymnasium.
+D: 05.txt
+T: 1
+
+Q: What is the capacity of Wiegand Gymnasium?
+A: 500.
+D: 05.txt
+T: 1
+
+Q: What is the name of the soccer stadium at Carnegie Mellon University (CMU)?
+A: CMU Soccer Field.
+D: 05.txt
+T: 1
+
+Q: What is the capacity of the CMU Soccer Field?
+A: 250.
+D: 05.txt
+T: 1
+
+Q: What type of surface does the CMU Soccer Field have?
+A: FieldTurf.
+D: 05.txt
+T: 1
+
+Q: What NCAA division is Carnegie Mellon University (CMU) affiliated with?
+A: NCAA Division III.
+D: 05.txt
+T: 1
+
+Q: In which athletic conferences does Carnegie Mellon University (CMU) participate?
+A: University Athletic Association (UAA) Presidents' Athletic Conference for Football only.
+D: 05.txt
+T: 1
+
+Q: Who is the president of Carnegie Mellon University?
+A: Dr. Farnam Jahanian.
+D: 05.txt
+T: 1
+
+Q: What is the alma mater of the president of Carnegie Mellon University (CMU)?
+A: University of Texas at Austin (UT).
+D: 05.txt
+T: 1
+
+Q: Who is the athletic director at Carnegie Mellon University (CMU)?
+A: Dr. Josh Centor.
+D: 05.txt
+T: 1
+
+Q: What is the alma mater and graduation year of Carnegie Mellon University's athletic director?
+A: Brandeis, 2004.
+D: 05.txt
+T: 1
+
+Q: What is the phone number for the Athletic Department at Carnegie Mellon University?
+A: 412-268-8054.
+D: 05.txt
+T: 1
+
+Q: What is the mailing address for Carnegie Mellon University?
+A: 5000 Forbes Avenue, Pittsburgh, PA 15213.
+D: 05.txt
+T: 1

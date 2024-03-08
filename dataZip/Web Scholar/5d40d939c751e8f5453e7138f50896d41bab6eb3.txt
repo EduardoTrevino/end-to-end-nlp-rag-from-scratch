@@ -1,0 +1,1315 @@
+M-SIDH and MD-SIDH: countering SIDH
+attacks by masking information
+Tako Boris Fouotsa[0000−0003−1821−8406]1, Tomoki Moriya[0000−0002−7845−4737]2,
+and Christophe Petit[0000−0003−3482−6743]3 ,4
+1LASEC-EPFL, Switzerland
+tako.fouotsa@epfl.ch
+2The University of Tokyo, Japan
+tomoki_moriya@mist.i.u-tokyo.ac.jp
+3Université Libre de Bruxelles, Belgium
+4University of Birmingham, UK
+Christophe.Petit@ulb.be
+Abstract. The SIDH protocol is an isogeny-based key exchange proto-
+col using supersingular isogenies, designed by Jao and De Feo in 2011.
+The protocol underlies the SIKE algorithm which advanced to the fourth
+round ofNIST’s post-quantum standardizationproject in May 2022.The
+algorithm was considered very promising: indeed the most significant at-
+tacks against SIDH were meet-in-the-middle variants with exponential
+complexity, and torsion point attacks which only applied to unbalanced
+parameters (and in particular, not to SIKE).
+This security picture dramatically changed in August 2022 with new
+attacks by Castryck-Decru, Maino-Martindale and Robert. Like prior
+attacks on unbalanced versions, these new attacks exploit torsion point
+information provided in the SIDH protocol. Crucially however, the new
+attacks embed the isogeny problem into a similar isogeny problem in a
+higher dimension to also affect the balanced parameters. As a result of
+these works, the SIKE algorithm is now fully broken both in theory and
+in practice.
+Given the considerable interest attracted by SIKE and related protocols
+in recent years, it is natural to seek countermeasures to the new attacks.
+In this paper, we introduce two such countermeasures based on partially
+hiding the isogeny degrees and torsion point information in the SIDH
+protocol. We present a preliminary analysis of the resulting schemes in-
+cludingnon-trivialgeneralizationsofpriorattacks.Basedonthisanalysis
+we suggest parameters for our M-SIDH variant with public key sizes of
+4434, 7037 and 9750 bytes respectively for NIST security levels 1, 3, 5.
+Keywords: Isogenies ·SIDH attacks ·Countermeasures ·M-SIDH ·
+MD-SIDH.
+1 Introduction
+In 1994, Peter Shor [35] described a polynomial quantum algorithm to solve
+the integer factorization problem and the discrete logarithm problem. This im-2 T. B. Fouotsa, T. Moriya and C. Petit
+plies that the widely deployed cryptographic protocols we use today would be-
+come vulnerable in presence of a large-scale quantum computer. To mitigate this
+threat, research on post-quantum cryptography , namely cryptographic protocols
+that will hopefully remain secure against both classical and quantum comput-
+ers, has considerably developed in the last two decades. Several standardization
+competitions were initiated, among which the NIST PQC [29]. Many new can-
+didates for post-quantum hard problems have been suggested to date based on
+lattices, codes, isogenies , multivariate systems of equations, and other problems.
+Isogenies are maps between elliptic curves. For cryptographic applications,
+we restrict ourselves to curves defined over finite fields Fq. When there exists an
+isogeny ϕ:E→E′, we say the elliptic curves EandE′areisogenous . There
+are infinitely many isogenies connecting two isogenous elliptic curves. The pure
+isogeny problem is stated as follows.
+Problem 1. Given two isogenous elliptic curves EandE′, compute an isogeny
+from EtoE′.
+An isogeny from a curve Eto itself is called an endomorphism of E, and the set
+of all the endomorphisms of E(together with the 0map) is called the endomor-
+phism ring of E.
+Over finite fields, there are two categories of elliptic curves, namely ordinary
+elliptic curves andsupersingular elliptic curves . The endomorphism ring of any
+ordinary curve is an order in a quadratic imaginary field (hence is commutative),
+whereas the endomorphism ring of a supersingular curve is a maximal order in
+a quaternion algebra (hence is non-commutative). Isogenies connect ordinary
+curves between themselves and supersingular curves between themselves.
+There is a straightforward adaptation of the well-known Diffie-Hellman key
+exchange protocol to isogenies in the ordinary/commutative case. This is in fact
+what is done in isogeny based schemes like CRS [14,34], CSIDH [8], OSIDH [10]
+and derivatives. The high level idea is as follows: there is a starting curve E0.
+Alice selects a secret isogeny ϕA:E0→EA, and Bob selects a secret isogeny
+ϕB:E0→EB. Both parties exchange EAandEB. Each party recomputes
+their secret isogeny from the other party’s public curve. Since the isogenies ”are
+commutative”, they get the same end curve EAB(up to isomorphism) whose
+j-invariant is used as the shared secret. Note that the isogeny EA→EAB
+computed by Alice is not exactly the isogeny ϕAsince they do not have the
+same domain and codomain. This isogeny is in general denoted by ϕ′
+A. Similarly,
+Bob’s isogeny is also denoted by ϕ′
+B. This is illustrated in Figure 1 where we
+have ϕ′
+A◦ϕB=ϕ′
+B◦ϕA.
+When it comes to using supersingular curves, designing a Diffie-Hellman type
+key exchange is less straightforward because their endomorphism rings are non-
+commutative. In 2011, Jao and De Feo [24] had a brilliant idea on how to obtain
+a commutative diagram in the supersingular case. To achieve this goal:
+1. One fixes the respective degrees AandBof the isogenies ϕAandϕB, with
+AandBcoprime;
+2. Alice reveals the images of a basis of the B-torsion of E0(that is E0[B]),
+and Bob reveals the image of a basis of the A-torsion of E0(that is E0[A]).M-SIDH and MD-SIDH: countering SIDH attacks by masking information 3
+E0 EA
+EB EABϕA
+ϕ′
+BϕB
+ϕ′
+A
+Fig. 1.Generic commutative isogeny key exchange.
+This idea led to the Supersingular Isogeny Diffie-Hellman protocol (SIDH),
+which has received a lot of attention in the last decade. This protocol and other
+isogeny-based schemes are attractive for their very compact secret and public
+keys.ThishasbeenoneofthemostvaluableadvantagesofSIKE,aKeyEncapsu-
+lation Mechanism (KEM) derived from SIDH, compared to other post-quantum
+KEMs. SIKE became widely regarded as a promising post-quantum candidate
+for standardization, and in particular the algorithm made it to the 4th round of
+the NIST competition.
+With the exception of the CGL hash function [9] and GPS signatures [21],
+most isogeny-based protocols in the literature do not directly rely on the pure
+isogenyproblem,butonsomevariantsofthisproblem.InthecaseofSIDH/SIKE,
+an attacker is provided with additional non-trivial information: the degree of the
+isogeny and the images of torsion points. More precisely, the security of SIDH
+relies on the following problem.
+Problem 2. LetE0beasupersingularcurvedefinedover Fp2withp=AB−1.Set
+E0[A] =⟨P, Q⟩. Let ϕ:E0→E′be an isogeny of degree Band let P′=ϕ(P),
+Q′=ϕ(Q). Given E0,P,Q,E′,P′andQ′, compute the isogeny ϕ.
+Furthermore, in SIDH/SIKE, the starting curve E0is special: its endomor-
+phism ring is publicly available. In 2017, Petit [31] exploited the knowledge of
+the endomorphism ring of E0and the torsion point information to design attacks
+that recover the secret isogeny in polynomial time assuming that A≪B. After
+a recent improvement [32], the attack still required imbalanced AandB, hence
+it does not apply to SIDH where A≈B.
+In July 2022, Castryck and Decru [7] described devastating attacks on SIDH
+that recovered the secret key in SIDH and SIKE, instantiated with the NIST
+parameters, in a few hours. The attacks were also developed in a concurrent
+work by Maino and Martindale [26]. Various follow-up works by other authors
+quickly improved the practical runtime time to minutes and seconds, and clari-
+fied the asymptotic complexities. The best attacks on balanced SIDH parameters
+had suddenly gone from exponential time to subexponential time, with a fur-
+ther reduction to polynomial time complexity when the endomorphism ring of
+the starting curve is available (as was the case in SIKE). Things could only get
+worse for SIDH, and a few days later they did, when Robert described an im-4 T. B. Fouotsa, T. Moriya and C. Petit
+proved attack with polynomial time complexity working for arbitrary starting
+curves [33].
+We note that like Petit’s attacks before them, the Castryck-Decru-Maino-
+Martindale-Robert attacks exploit knowledge of both torsion point information
+and the degree of the secret isogeny.
+WhiletheCastryck-Decru-Maino-Martindale-Robertattacksconstituteaclear
+cryptanalysis breakthrough on a flagship isogeny-based cryptographic protocol,
+they do not apply to other isogeny-based schemes in which no torsion point
+information is revealed: CRS [14,34], CSIDH [8] and CSIDH-based signatures
+(SeaSign [15], SCI-FiSh [3], ...), CGL [9], GPS [21], SQISign [17], and many
+more. The new attacks do not imply that the whole of isogeny-based cryptogra-
+phy is insecure, but only that the field is getting mature! In particular, a natural
+question now is whether one can find countermeasures against the Castryck-
+Decru-Maino-Martindale-Robert attacks and repair the SIDH protocol.
+Contributions1. In this paper, we propose and analyze two countermeasure can-
+didates to the Castryck-Decru attack: Masked-Degree SIDH (MD-SIDH) and
+Masked torsion points SIDH (M-SIDH).
+The main idea in MD-SIDH is to mask the degree of the secret isogeny:
+the degrees AandBof the secret isogenies in SIDH are no longer fixed, but
+uniformly random divisors of AandBrespectively. To prevent the degree from
+being recovered by a pairing computation and some discrete logarithms in a
+group of smooth order, the images of the torsion points are scaled by a random
+integer.
+The main idea in M-SIDH is to keep the degrees of the secret isogenies fixed
+as in SIDH, and mask only the torsion point information: the images of the
+torsion points are scaled by a random integer. To prevent an efficient recovery
+of the secret scalar used in M-SIDH (using pairings and discrete logarithms), we
+set the isogeny degrees AandBto have t≥2λdistinct prime divisors, so that
+the scalar cannot be recovered despite the fact that its square modulo AorBis
+known.
+We perform a thorough security analysis of the two countermeasures, includ-
+ing non-trivial extensions of prior attacks. In particular, we give an expected
+polynomial time attack on the M-SIDH variant when the starting curve has a
+known small endomorphism, and a reduction from any MD-SIDH instance to
+an M-SIDH instance. We also show that isogeny degrees in the M-SIDH variant
+must have at least 2λdistinct factors, where λis the security parameter. Finally,
+we provide non-trivial variants of adaptive attacks on SIDH, including the GPST
+attack and the Fouotsa-Petit attack.
+Based on our analysis, the M-SIDH variant is the most promising one as it
+features smaller keys at identical security levels. The variant must be used with
+a randomly generated starting curve to avert the attack mentioned above (note
+that this is not an issue in a key encapsulation mechanism as the starting curve
+may be constructed by the key generation algorithm). Our analysis suggests
+1This paper is an extended merge of the preprints [18] and [27]M-SIDH and MD-SIDH: countering SIDH attacks by masking information 5
+that public key sizes of 4434, 7037 and 9750 bytes are sufficient to reach AES-
+128, AES-192 and AES-256 security levels (NIST security levels 1, 3, 5), and
+asymptotically public keys should be a factor O(logλ)larger than in SIDH.
+1.1 Outline.
+In Section 2 we briefly present the SIDH protocol and discuss attacks on SIDH.
+In Section 3 we describe our two constructions Masked-degree SIDH and Masked
+SIDH(M-SIDH).InSections4,5and6,wedoasecurityanalysisofbothschemes
+and in Section 7 we suggest parameters. We conclude the paper in Section 8.
+2 The SIDH protocol and attacks
+The Supersingular Isogeny Diffie-Hellman protocol (SIDH) is a key exchange
+protocol designed by Jao and De Feo [24], which underlies the SIKE submission
+to NIST post-quantum cryptography project [23]. Interest in the SIDH protocol
+grewsteadilysince2011,butpassivecryptanalyticsuccessremainedlimiteduntil
+new attacks fully broke it in August 2022.
+2.1 The SIDH protocol
+TheSIDHprotocolisaDiffie-Hellman-likekeyexchangeschemethatusestorsion
+point information to complete a (pseudo) commutative diagram:
+(E0, PA, QA, PB, QB)
+//(EA, ϕA(PB), ϕA(QB))
+
+(EB, ϕB(PA), ϕB(QA)) //EAB∼=EBA
+The precise scheme is as follows:
+Public parameter: LetE0betheellipticcurveof j-invariant 1728.Setaprime
+pasp= 2eA3eB−1. Let PAandQA(resp. PBandQB) be points generating
+E0[2eA]∼=(Z/2eAZ)2(resp. E0[3eB]∼=(Z/3eBZ)2).
+Public key (Alice): Alice first generates a random value kA∈(Z/2eAZ)×as
+her secret key. Let RA=PA+kAQA. Alice computes an isogeny ϕA:E0→
+EA:=E0/⟨RA⟩and image points ϕA(PB), ϕA(QB).Alice sends to Bob EA
+and these image points as a public key.
+Public key (Bob): Bob first generates a random value kB∈(Z/3eBZ)×as
+his secret key. Let RB=PB+kBQB. Bob computes an isogeny ϕB:E0→
+EB:=E0/⟨RB⟩and image points ϕA(PB), ϕA(QB).Bob sends to Alice EB
+and these image points as a public key. Let kBbe his secret key.
+Shared key: LetR′
+A=ϕB(PA)+kAϕB(QA),andlet R′
+B=ϕA(PB)+kBϕA(QB).
+Alice computes EAB:=EB/⟨R′
+A⟩, and Bob computes an isogeny EBA:=
+EA/⟨R′
+B⟩.The value j(EAB) =j(EBA)is the shared key.
+The SIDH protocol is the basis of the SIKE algorithm, which was selected
+for Round 4 of NIST post-quantum standardization project in June 2022.6 T. B. Fouotsa, T. Moriya and C. Petit
+2.2 Cryptanalysis attempts and successes
+A natural problem to consider in the cryptanalysis of SIDH is the isogeny with
+torsion problem: Problem 2 with A= 2eAandB= 3eB. One approach to solve
+this problem is to entirely ignore the torsion point information, and recover
+the isogeny with some advanced brute force strategy such as a meet-in-the-
+middle algorithm or Van Oorschot-Wiener’s algorithm [36]. These approaches
+have guided the parameter selection of SIKE submission to NIST [23].
+The first passive attacks exploiting torsion point information2were intro-
+duced by Petit [31]. The key idea in his attack is to consider an endomorphism
+ΨofE′of the form
+ψ=d+ϕ◦θ◦ˆϕ
+where d∈Zandθis a trace 0 non scalar endomorphism of E0such that
+degψ=d2+B2degθ
+divides A. Provided such parameters, one can use torsion point information on
+ϕto deduce torsion point information on ψ, then use this information to recover
+kerψvia a (smooth order hence efficient) discrete logarithm computation, and
+finally deduce ϕ. Note that this strategy requires at least partial knowledge of
+the endomorphism ring of E0(forθ) and moreover it only works if Ais large
+enoughcomparedto B.(Inparticular,itdoesnotworkwhen A≈BasinSIKE.)
+Improvementsinlaterworkincreasedtherangeofparametersvulnerabletothese
+attacks but they did not fundamentally change these limitations [5,32].
+In August 2022, Castryck and Decru [7] (and independently Maino and Mar-
+tindale [26]) introduced new powerful attacks against SIDH, with polynomial
+time complexity when the endomorphism ring of E0is known and subexpo-
+nential complexity in general. Extensions by Robert [33] further reduced the
+complexity to polynomial time in the general case. In a sense, these attacks can
+be seen as generalizations of previous torsion point attacks3, but with a key ad-
+ditional insight: they crucially embed the SIDH isogeny problem into a higher
+dimensional isogeny problem, where more endomorphisms are readily available.
+In a nutshell, Robert’s attack considers the genus 8 Abelian variety E4
+0×E′4,
+and its endomorphism
+Ψ=
+α0ˆΦ
+−Φˆα′
+,
+2Torsion point information was previously used in active attacks against SIDH [20]
+and prompted the inclusion of a CCA transform (a variant of Fujisaki-Okamoto
+transform) within SIKE.
+3The original Castryck-Decru’s paper did not initially make a connection with prior
+torsion point attacks, but this connection then rapidly emerged and is clearly de-
+scribed in [26,33]M-SIDH and MD-SIDH: countering SIDH attacks by masking information 7
+where Φis the natural extension of ϕonE4
+0,ˆΦis its dual, and α0andα′are the
+endomorphisms on E4
+0andE′4with action given by the matrix
+M=
+a0a1a2a3
+−a1a0−a4a3
+−a3a4−a1a2
+−a4−a3a2a1
+
+with a0, a1, a2, a3such that a:=a2
+0+a2
+1+a2
+2+a2
+3=A−B. We then have
+ΨˆΨ=AI8
+where ˆΨ=
+ˆα0−ˆΦ
+Φ α′
+is the dual of Ψ, i.e., Ψis an endomorphism of degree A.
+As in previous torsion point attacks, one can evaluate Ψon the Atorsion using
+torsion point information provided in the SIDH problem. One can then compute
+Ψand finally deduce ϕ.
+From now on we will refer to these attacks as “the CD-MM-R attacks”. Com-
+pared to previous torsion point attacks, these new attacks do not require any
+knowledge on the endomorphism ring of the starting curve, and work whenever
+A≥B. One can further improve this to A≥√
+Bas in the “dual isogeny variant”
+of [32]: let a:=A2−B; recover the first halves of the endomorphisms Ψand ˆΨ
+using torsion point information; and finally deduce the whole of Ψandϕ[33].
+Whiletheydonotrequireanyknowledgeof End(E0),thenewattacksstilluse
+torsion point information and general SIDH parameters, including the isogeny
+degrees. In the following section, we describe two countermeasures: the first one
+consists in making the torsion point images while the second one consists in
+masking the isogeny degrees.
+3 Masked SIDH variants
+Recall that the CD-MM-R attack requires two main ingredients:
+1. the degree Aof the secret supersingular isogeny ϕ:E0→E;
+2. the images ϕ(P),ϕ(Q)of a torsion basis (P, Q)of the B-torsion E0[B]where
+Bis an integer coprime to Asuch that B > A.
+The countermeasures we suggest here consist in masking each of the above.
+Firstly, we suggest Masked torsion points SIDH or M-SIDH for short, in which
+one masks the torsion point images by scaling them with a random scalar. Sec-
+ondly, we suggest Masked-degree SIDH or MD-SIDH for short, in which the
+isogenies computed do not have a fixed degree.
+In the rest of this paper, we will often use the following lemma.
+Lemma 3. Letϕ:E−→E′be an isogeny of unknown degree dand let Bbe a
+smooth integer coprime to dsuch that E[B]⊂E(Fp2). Set E[B] =⟨P, Q⟩. Then
+given P, Q,ϕ(P)andϕ(Q), there exists a polynomial time algorithm to recover
+dmodB.8 T. B. Fouotsa, T. Moriya and C. Petit
+Proof.One computes the Weil pairing values eB(P, Q)andeB(ϕ(P), ϕ(Q)) =
+eB(P, Q)degϕ, then one solves a discrete logarithm instance between both quan-
+tities to recover dmodB. Since E[B]⊂E(Fp2), the pairing computations run
+in polynomial time. Since Bis smooth, then using the Pohlig-Hellman algorithm
+the discrete logarithm computation runs in polynomial time as well. ⊓ ⊔
+3.1 Masked torsion points variant
+The aim here is to instantiate SIDH such that the direct images ϕ(P),ϕ(Q)of
+PandQare not available to adversaries, but the key exchange still succeeds:
+this means that when given a point R∈E0[B], one should be able to compute
+a generator of the group ϕ(⟨R⟩).
+To achieve this goal, the images ϕ(P),ϕ(Q)ofPandQare scaled by a
+random integer α∈Z/BZ×. That is instead of revealing ϕ(P),ϕ(Q), one reveals
+[α]ϕ(P),[α]ϕ(Q). Note that since the degree of the secret isogeny ϕis fixed, one
+can recover α2degϕby applying Lemma 3, from which one derives α2modB.
+Taking a square root α0ofα2, one recovers [αα−1
+0]ϕ(P)and[αα−1
+0]ϕ(Q)where
+(αα−1
+0)2= 1 mod B. Hence one can sample αdirectly from µ2(B)where
+µ2(N) ={x∈Z/NZ|x2= 1 mod N}.
+Note that for the scheme to be secure against the CD-MM-R attack, it is nec-
+essary that an attacker should not be able to recover the scalar α. The isogeny
+degrees are chosen such that there is an exponential number of square roots of
+1modulo B. This leads to the following variant of SIDH: M-SIDH.
+Public parameter: Letλbe the security parameter and let t=t(λ)∈N
+be an integer depending on λ. Let p=ABf−1be a prime such that
+A=Qt
+i=1ℓiandB=Qt
+i=1qiare coprime integers, ℓi, qiare distinct small
+primes, A≈B≈√pandfis a small cofactor. Let E0be a supersingular
+curve defined over Fp2. Set E0[A] =⟨PA, QA⟩andE0[B] =⟨PB, QB⟩. The
+public parameters are E0,p,A,B,PA,QA,PB,QB.
+Public key (Alice): Alice samples uniformly at random two integers αanda
+from µ2(B)andZ/AZrespectively. She computes the cyclic isogeny ϕA:
+E0→EA=E0/⟨PA+ [a]QA⟩. Her public key is the tuple
+pkA= (EA,[α]ϕA(PB),[α]ϕA(QB))and her secret key is skA=a. The inte-
+gerαis deleted.
+Public key (Bob): Analogously, Bob samples uniformly at random two inte-
+gersβandbfrom µ(A)andZ/BZrespectively. His public key is pkB=
+(EB,[β]ϕB(PA),[β]ϕB(QA))where ϕB:E0→EB=E0/⟨PB+ [b]QB⟩and
+his secret key is skB=b. The integer βis deleted.
+Shared key: Upon receiving Bob’s public key (EB, Ra, Sa), Alice checks that
+eA(Ra, Sa) =eA(PA, QA)B, if not she aborts. She computes the isogeny
+ϕ′
+A:EB→EBA=EB/⟨Ra+ [a]Sa⟩. Her shared key is j(EBA). Similarly,
+upon receiving (EA, Rb, Sb), Bob checks that eB(Rb, Sb) =eB(PB, QB)A, ifM-SIDH and MD-SIDH: countering SIDH attacks by masking information 9
+nothe aborts. Hecomputes theisogeny ϕ′
+B:EA→EAB=EA/⟨Rb+ [b]Sb⟩.
+His shared key is j(EAB).
+The problem underlying the security of M-SIDH is stated as follows.
+Problem 4. LetA=ℓ1···ℓtand let B=q1···qtbe two smooth coprime inte-
+gers, let fbe a small cofactor such that p=ABf−1is a prime, with A≈B.
+LetE0/Fp2be a supersingular elliptic curve such that #E0(Fp2) = ( p+ 1)2=
+(ABf )2, setE0[B] =⟨P, Q⟩. Let ϕ:E0→Ebe a uniformly random A-isogeny
+and let αbe a uniformly random element of µ2(B).
+Given E0, P, Q, E A, P′= [α]ϕ(P), Q′= [α]ϕ(Q), compute ϕ.
+It is immediate that Problem 4 is not hard for too small values of t. Recall
+that we want 1to have an exponential number of square roots modulo Aand
+modulo B. At first, one may be tempted to set t=λso that there are about 2λ
+square roots of 1modulo Aand modulo B. But, as we will see in Section 4, this
+is not secure and tneeds to be larger.
+The main difference between Problem 4 and Problem 2 is that in Problem 4
+torsion point images are only provided up to a scalar multiple (more precisely, a
+square root of unity). When trying to apply Robert’s attack, the endomorphism
+Ψappearing in this attack can no longer be evaluated exactly and its kernel
+can no longer be computed directly. The same holds for the attacks described in
+Castryck-Decru and Maino-Martindale papers.
+3.2 Masked-degree variant
+Rather than masking the torsion points as described in the previous section,
+we suggest a second countermeasure where one masks the degree of the secret
+isogeny.
+Set the prime pto be of the form p=ABf−1where AandBare two
+smooth coprime integers, and fis a small cofactor. Alice will use cyclic isogenies
+of degree A′dividing Aand Bob will use cyclic isogenies of degree B′dividing
+B. In an SIDH prime A=ℓeA
+AandB=ℓeB
+B, hence AandBhave only eA+ 1
+andeB+ 1divisors respectively. For this reason, one needs to move away from
+SIDHprimesanduseCSIDH-styleprimeswith A=ℓa1
+1···ℓat
+tandB=qb1
+1···qbt
+t
+where t, as well as the ais and the bis, depend on the security parameter λ.
+To generate her public key, Alice samples a random degree A′(divisor of
+A) for her secret isogeny, samples a random point RA∈E0[A′], computes the
+A′-isogeny ϕA:E0→EA:=E0/⟨RA⟩andϕA(PB),ϕA(QB)where E0[B] =
+⟨PB, QB⟩. But, by Lemma 3, any adversary can recover A′= deg ϕA. In order
+to avoid this, Alice also generates a uniformly random integer α∈Z/BZ×and
+outputs (EA,[α]ϕA(PB),[α]ϕA(QB))as her public key. More precisely, Masked-
+degree SIDH (MD-SIDH) is as follows:
+Public parameter: LetE0be a supersingular elliptic curve. Let t=t(λ)∈N
+be an integer depending4onλ. Let A=ℓa1
+1···ℓat
+tandB=qb1
+1···qbt
+tbe
+4Note that we use the same notation t=t(λ)for M-SIDH and MD-SIDH. It will
+always be clear from the context whether we are referring to M-SIDH or MD-SIDH.10 T. B. Fouotsa, T. Moriya and C. Petit
+two smooth coprime integers such that p=ABf−1is a prime (where fis
+a small cofactor). Set PAandQA(resp. PBandQB) be points generating
+E0[A] =⟨PA, QA⟩andE0[B] =⟨PB, QB⟩.
+Public key (Alice): Alice samples a uniformly random divisor A′ofAand a
+random point RA∈E0[A′]. Her secret key is skA=RA. She computes the
+isogeny ϕA:E0→EA:=E0/⟨RA⟩together with ϕA(PB)andϕA(QB).
+She samples a uniformly random integer5α∈Z/BZ×and her public key is
+pkA= ([α]ϕA(PB),[α]ϕA(QB)).
+Public key (Bob): Bob samples a uniformly random divisor B′ofBand a
+random point RB∈E0[B′]. His secret key is skB=RB. He computes the
+isogeny ϕB:E0→EB:=E0/⟨RB⟩together with ϕB(PA)andϕB(QA).
+He samples a uniformly random integer β∈Z/AZ×and his public key is
+pkB= ([β]ϕB(PA),[β]ϕB(QA)).
+Shared key: From [β]ϕB(PA)and[β]ϕB(QA),Alicerecovers ⟨R′
+A⟩=⟨ϕB(RA)⟩.
+From [α]ϕA(PB),[α]ϕA(QB), Bob recovers ⟨R′
+B⟩=⟨ϕA(RB)⟩. Alice com-
+putes EAB:=EB/⟨R′
+A⟩, and Bob computes EBA:=EA/⟨R′
+B⟩.The value
+j(EAB) =j(EBA)is the shared key.
+The problem underlying the security of MD-SIDH is stated as follows.
+Problem 5. LetA=ℓa1
+1···ℓat
+tand let B=qb1
+1···qbt
+tbe two smooth coprime
+integers, let fbe a small cofactor such that p=ABf−1is a prime, with A≈B.
+LetE0/Fp2be a supersingular elliptic curve such that #E0(Fp2) = ( p+ 1)2=
+(ABf )2,setE0[B] =⟨P, Q⟩.Let A′=ℓa′
+1
+1···ℓa′
+t
+tbeauniformlyrandomdivisorof
+Aandandlet αbeauniformlyrandomelementof Z/BZ×.Let ϕ:E0→EAbea
+uniformly random isogeny of degree A′. Given E0, P, Q, E A, P′= [α]ϕ(P), Q′=
+[α]ϕ(Q), compute ϕ.
+The MD-SIDH protocol can be seen as a generalization of the M-SIDH pro-
+tocol, where the degree is no longer fixed and the torsion point hidden scalars α
+andβare no longer restricted to square roots of unity. From a security point of
+view, hiding the isogeny degrees might present the attacker with an additional
+obstacle in running the CD-MM-R attacks, since these degrees are explicitly
+used to construct attack parameters.
+3.3 On the effectiveness of the countermeasures
+We provide some arguments on why we believe the CD-MM-R attacks do not
+extend to the countermeasures.
+The attacks embed the secret isogeny ϕof degree Binto a higher genus
+isogeny Ψof degree A=B+awhere a=A−BandAis the order of the torsion
+points. In M-SIDH, the degree of the secret isogeny is β2Bwhere βis a secret
+5The integers α(for Alice) and β(for Bob) can be deleted immediately after key
+generation.M-SIDH and MD-SIDH: countering SIDH attacks by masking information 11
+scalar and β2(mod A) = 1. Embedding this isogeny into a higher genus isogeny
+the same way would lead to an isogeny of degree
+β2B+a=β2B+A−B=A+B(β2−1) = A
+1 +Bβ2−1
+A
+.
+This degree is unknown to the attacker, because he does not know β. Now, since
+the degree of ΨisA(1+Bβ2−1
+A), then Ψ=Ψ2◦Ψ1where Ψ1has degree AandΨ2
+has degree 1 +Bβ2−1
+A. Evaluating Ψon the Atorsion (using the masked torsion
+point information available) gives you Ψ1. The isogeny Ψ2whose unknown degree
+1 +Bβ2−1
+Ais larger than Band probably non smooth remains unknown. Hence,
+one cannot recover Ψ. Clearly, if β=±1then β2= 1andΨ2has degree 1 and
+Ψis fully recovered.
+A similar argument applies for MD-SIDH as well. In MD-SIDH, the degree of
+the secret isogeny is β2B′where βis a secret scalar and B′is a random divisor
+ofB(sayB=B′B1). Embedding this isogeny into a higher genus isogeny the
+same way would lead to an isogeny of degree
+β2B′+a=β2B′+A−B′B1=A+B′(β2−B1).
+This degree is unknown to the attacker, because he does not know neither βnor
+B′(orB1). Let d=gcd(A, β2−B1), then Ψ=Ψ2◦Ψ1where Ψ1has degree
+dandΨ2has degreeA
+d+B′β2−B1
+d. Evaluating Ψon the Atorsion (using the
+masked torsion point information available) gives you Ψ1. The isogeny Ψ2whose
+unknown degreeA
+d+B′β2−B1
+dis larger than Band probably non smooth remains
+unknown. Hence, one cannot recover Ψ.
+Remark 6. One could try to use a different value a′instead of a=A−Bwhen
+embedding the secret isogeny into a higher genus isogeny. This would only make
+thingsmorecomplicated.Infacttheunknowndegreeof Ψisβ2B+a′forM-SIDH
+andβ2B′+a′for MD-SIDH. As before, setting dto be the greatest common
+divisor of this degree and A, then Ψ=Ψ2◦Ψ1where Ψ1has degree d. The isogeny
+Ψ1, can be recovered, but Ψ2whose unknown degree is larger than AandB, and
+is probably non smooth cannot be efficiently recovered.
+4 Security analysis of the masked torsion points variant
+Recall that the M-SIDH variant differs from SIDH in that parties send torsion
+point images only up to a constant α, which is a square root of unity.
+We first describe a general attack that simply consists of guessing enough
+exact torsion point information to run the CD-MM-R attacks. This attack has
+exponential complexity in the number of prime divisors of AandB, and it works
+for any starting curve, even when the endomorphism ring is unknown.
+We then describe a polynomial time attack when the initial curve is j= 1728,
+and we generalize it to starting curves with (known) small degree endomor-
+phisms. We argue that it appears hard to extend this attack to the case where
+the endomorphism ring of the starting curve is unknown.12 T. B. Fouotsa, T. Moriya and C. Petit
+We end this section with a suggestion of parameters with respect to our
+analysis. In what follows we consider an isogeny of degree B, with images of
+torsion points of order Arevealed up to a scalar α.
+4.1 Guessing enough exact torsion point information
+Since Bob’s isogeny has degree B≈A, then we only need the exact images of
+the√
+B≈√
+Atorsion points to run the CD-MM-R attacks. We are provided
+with the images of the A-torsion points where A=ℓ1···ℓt.
+Letn≥1be the largest index such that√
+B≤ℓn···ℓt. Set N=ℓn···ℓt.
+Then Bob’s secret isogeny ϕBcan be recovered from its action on the N-torsion
+points. From the action of [α]◦ϕBon the A-torsion points, one deduces the
+action of [α]◦ϕBon the N-torsion points. The only thing preventing us from
+applying the CD-MM-R attack is the unknown square root of unity α. Since N
+hast−n+ 1prime factors, then there are at most 2t−n+1square roots of unity
+modulo N. One can hence try all these square roots of unity till one gets one for
+which the CD-MM-R attack is successful.
+The overall complexity of this attack is ˜O(2t−n+1)using a classical computer.
+Since N≈√
+AandNis made up of the largest prime factors of A, then we
+must have t/2< n, which implies t−n+ 1≤t/2. This attack is summarized in
+Algorithm 1. We deduce Theorem 7.
+Algorithm 1 Attack by using less torsion point information
+Require: E0,PA,QA,EB,P′= [β]ϕB(PA),Q′= [β]ϕB(QA)from an M-SIDH in-
+stance.
+Ensure: ϕB.
+1: Set N=ℓn···ℓtwhere n≥1be the largest index such that√
+B≤ℓn···ℓt;
+2: Compute P1= [A
+N]P′andQ1= [A
+N]Q′;
+3:foreach square root γof unity modulo Ndo
+4: try to run the CD-MM-R attack to recover ϕBfrom E0,PA,QA,EB,[γ−1]P1,
+5: Q′= [γ−1]Q1;
+6: ifThe CD-MM-R attack is successful then
+7: return ϕB.
+Theorem 7. Algorithm 1 is correct and runs in time ˜O(2t−n+1)using a clas-
+sical computer with t−n+ 1≤t/2.
+The above discussion only considers classical security. When we use a quan-
+tum computer, the complexity of the attack can be improved because Grover al-
+gorithm [22] allows us to find the correct γin Algorithm 1 in time ˜O(2(t−n+1)/2).
+We deduce Theorem 8.
+Theorem 8. Algorithm 1 is correct and runs in time ˜O(2(t−n+1)/2)using a
+quantum computer with t−n+ 1≤t/2.M-SIDH and MD-SIDH: countering SIDH attacks by masking information 13
+Remark 9. From Theorem 7 and 8, the value tshould be greater than or equal
+to2λfor AES- λsecurity (i.e. λbits of classical security and λ/2bits of quantum
+security).
+4.2 Polynomial time attack when E0hasj-invariant = 1728
+Castryck-Decru, Maino-Martindale and Robert’s new SIDH attacks seem to re-
+quire exact knowledge of torsion point images, motivating the M-SIDH variant.
+On the other hand, older torsion point attacks only required these images up
+to a constant [2,19], though of course they also required Amuch larger than B.
+This suggests looking for an improved attack combining the best of both worlds.
+Letι∈End(E0) : (x, y)→(−x, iy)be a non-trivial automorphism of E0and
+let
+ψ:=ϕ◦ι◦ˆϕ
+be the "lollipop endomorphism" constructed in Petit’s attack and variants (see
+Section 2.2). As the images of torsion points through ϕare provided up to a
+scalar αwhere α2= 1 mod A, then we have that
+[α]ϕ◦ι◦d[α]ϕ= [α2]◦ϕ◦ι◦bϕ= [α2]◦ψ.
+Hence, from the action of [α]ϕon the A-torsion, one can recover the action of
+[α2]◦ψon the A-torsion. Since α2= 1 mod A, then the images of A−torsion
+points through ψare exact. Moreover as ψhas degree B2≈A2and images of
+torsion points of order Aare known, we can apply Robert’s attack to ψinstead
+ofϕ! After recovering ψ, one can recover φefficiently.
+Remark 10. One can recover ψfrom ϕas in [31]: compute G:= ker ϕ∩E′[B]
+and extract the largest cyclic subgroup in G. Generically this is a large subgroup
+ofkerϕ, and the remaining part of kerϕis simply guessed. Note that the pow-
+ersmooth case (as in M-SIDH) is considered a worst case in [31], but even in this
+“worst case situation” the cost is shown to be polynomial time in expectation
+(for randomly chosen ϕ).
+4.3 Generalization to other starting curves
+Moregenerally,giventheendomorphismringofthestartingcurve,onecanapply
+the LLL algorithm to compute a short non scalar endomorphism in it. One can
+then replace the endomorphism ιof degree 1 in the previous attack by another
+higher degree endomorphism θ.
+Asdegψ=B2degθand Robert’s attack requires degψ≤A2, this strategy
+would require to first guess the action of ϕon a torsion A′subgroup with A′≥√degθ, up to a scalar. This involves guessing the images of two cyclic A′-torsion
+subgroups, hence it requires O(A′2)≈degθattempts.
+The attack will be relevant for any starting curve with a small non-trivial
+endomorphism. For generic curves, we will have degθ≈√p, so the attack will
+not provide any improvement over a trivial guessing strategy.14 T. B. Fouotsa, T. Moriya and C. Petit
+4.4 Generalization attempt to unknown endomorphism rings
+When the endomorphism ring of the starting curve is unknown to the attacker,
+one may hope to generalize the previous attack in the same way as previous tor-
+sion point attacks were generalized by the Castryck-Decru’s, Maino-Martindale’s
+andRobert’sattacks:byembeddingtheisogenyproblemintoanisogenyproblem
+of higher dimension.
+In particular, one could try to achieve this is by considering the genus 3
+product A:=E0×E0×E′, and an endomorphism
+ψ: (P1, P2, P3)→(P1, P2, ϕ2θ12ˆϕ1(P3))
+where ϕi:E(i)
+0→E′fori= 1,2are two copies of the secret isogeny ϕ, and
+θ12:E(1)
+0→E(2)
+0is a small degree isogeny from one copy of E0to the other
+one. However, a closer look at this attempt reveals that ϕ2θ12ˆϕ1is just a scalar
+multiplication on E′, and it can therefore not help to recover ϕ. Other similar
+strategies we tried led to the same issue.
+5 Security analysis of the masked degree variant
+In this section, we discuss the security of our second countermeasure MD-SIDH.
+First, we prove that the square-free part of the degree of the secret isogeny can
+be recovered efficiently; this is done in Subsection 5.1 below (together with 5.2
+for a technical lemma). In Subsection 5.3 we show how to reduce any instance
+of Masked-degree SIDH into an instance of Masked torsion points SIDH when
+the square-free part of the secret isogeny is known. The latter implies that all
+the attacks presented in Section 4 can be extended to MD-SIDH through this
+reduction. Taking this into account, we suggest parameters for MD-SIDH in
+Subsection 7.3.
+Recall that in the MD-SIDH setting, A=ℓa1
+1···ℓat
+t,B=qb1
+1···qbt
+tand
+p=ABf−1where fis a small cofactor. We are targeting Bob’s secret isogeny
+ϕ:E0→EBwhosedegree B′=qb′
+1
+1···qb′
+t
+tisanunknowndivisorof B,andweare
+provided with E0, P, Q, E B, P′= [β]ϕ(P), Q′= [β]ϕ(Q)where E0[A] =⟨P, Q⟩
+andβ∈Z/AZ×is unknown.
+5.1 Recovering the degree up to squares
+From Lemma 3, one can assume that β2B′modAis known. In this section we
+show how to deduce a small set of candidates for the square-free part of B′.
+LetD(B)be the set of positive divisors of B. Given b′= (b′
+1,···, b′
+t)∈Zt,
+we write B(b′) =qb′
+1
+1···qb′
+t
+t, and similarly if B′=B(b′), we write b′=b(B′).
+These maps restrict to a one-to-one correspondence betweenQt
+i=1Z/(bi+ 1)Z
+andD(B). For simplicity, we suppose that the ℓis and the qis are odd primes6.
+6The case where ℓi= 2in general does not fit our definition of χsince there are more
+than two square roots of 1modulo 2rforr >2. Nevertheless, if the power of 2diving
+AorBis at least 4, then the security of the scheme is not affected.M-SIDH and MD-SIDH: countering SIDH attacks by masking information 15
+Letχℓai
+ibethenaturalsurjection χℓai
+i: (Z/ℓai
+iZ)×→(Z/ℓai
+iZ)×/((Z/ℓai
+iZ)×)2∼=
+{−1,1}. Consider the map
+Φ:Zt−→ {− 1,1}t
+b′7−→
+χℓa1
+1(B(b′)), . . . , χℓat
+t(B(b′)),
+where we regard B(b′)as an element in (Z/ℓbi
+iZ)×. Clearly, Φis a group mor-
+phism and (2Z)t⊂kerΦ. This implies that the following group homomorphism
+is well-defined:
+Φ: (Z/2Z)t−→ Im(Φ)⊂ {− 1,1}t
+b′7−→ Φ(b′).
+Since the cardinality of the domain of the group morphism Φis2t, then
+# ker Φ= 2tΦfor some 0≤tΦ≤t. This implies that when given Φ(b(B′)),
+we have #Φ−1(Φ(b(B′))) = 2tΦ. In other words, giving Φ(b(B′))is the same as
+giving t−tΦbits of information about b(B′) mod 2. Furthermore, when tΦ= 0,
+that is when Φis an isomorphism, then Φ(b′)uniquely determines b(B′) mod 2.
+Note that for any representative b′in the class b(B′) + 2Zt, the integers B(b′)
+andB′have the same square-free factor.
+Lemma 11. Consider the notations above. Let B′
+1be the square-free part of B′.
+Then given E0, P, Q, E B, P′andQ′, there exists a probabilistic polynomial
+time algorithm that reduces the search space for B′
+1to a set of order 2tΦwhere
+2tΦ= # ker Φ.
+Proof.From P, Q, E B, P′,andQ′, use Lemma 3 to recover d=β2B′modA.
+Compute
+Φ(b(d)) =
+χℓa1
+1(β2B′),···, χℓat
+t(β2B′)
+=
+χℓa1
+1(B′),···, χℓat
+t(B′)
+=Φ(b(B′)).
+Compute kerΦand a preimage b0ofΦ(b(d))with respect to Φ. Return the set
+{B(b)|b∈b0+ ker Φ}of square-free integers.
+Clearly, all the computational steps described above run in polynomial time.
+The correctness follows from the properties of the morphism ΦandΦdiscussed
+before the lemma. ⊓ ⊔
+In the next subsection, we show that tΦis expected to be small for most
+parameters, and the squarefree part of B′can therefore be guessed with a high
+probability.
+5.2 On the value of tΦ
+In this section we estimate tΦ. We start by observing the following.
+Lemma 12. Lettbe an integer and let Mbe a random t×tmatrix over F2.
+Then as ttends towards ∞, we have have t−2≤rank (M)with probability
+0.9947145498 .16 T. B. Fouotsa, T. Moriya and C. Petit
+Proof.Letpt(k)be the probability that a uniformly random t×t-matrix over
+F2has rank t−k. Then, from [25, p.33] and [11, Theorem 1], it holds that
+π(k) := lim
+t→∞pt(k) =
+
+∞Y
+i=1
+1−1
+2i
+, (k= 0)
+Q∞
+i=k+1(1−(1/2i))
+Qk
+i=1(1−(1/2i))1
+2k2,(k≥1).
+From[11,Table1],wehave π(0)isabout 0.2887880951 ,π(1)isabout 0.5775761902 ,
+π(2)is about 0.1283502645 , and π(k)’s for k≥3are less than 0.0052387863 .
+Therefore,
+Pr(k≤2) = π(0) + π(1) + π(2)≈0.9947145498 .
+⊓ ⊔
+Considerthematrix M∗ofthemorphism (1−¯Φ)/2(operationsaredonecom-
+ponent wise). Lemma 12 applies to random matrices and tneeds to be somehow
+large. In practice, tis relatively small, t≈O(λ)where λis the security param-
+eter, and, AandBare system parameters, which could in theory be chosen to
+maximize tϕ. However, for the sake of the scheme’s practicality, the integers A
+andBneed to be as small as possible. Also, in order to not weaken one of the
+participants, AandBneed to satisfy A≈B. With these constraints, we do not
+expect to have 2< tΦ. Intuitively, if 2< tΦ, then there are tΦsquare-free inte-
+gers that are all quadratic residues modulo all the tprime power divisors of A.
+Given a random square-free integer N,Nis a quadratic residue modulo a given
+prime power with probability1
+2, hence it is a quadratic residue modulo t"in-
+dependent" distinct prime powers with probability roughly1
+2t. Since t≈O(λ),
+then1
+2tis negligible. Hence the probability that there exists many such integers
+Nrapidly decreases below1
+2λ. For example, given t, letℓ1, q1, ℓ2, q2, . . . , ℓ t, qtbe
+the smallest 2todd primes. For t= 64,96,128,192,286,420,426,566,637,856,
+we obtained tΦ= 1,0,1,2,0,0,1,0,1,0respectively.
+In conclusion, we believe that it is computationally hard in practice to come
+up with integers AandBsuch that 2≪tΦ. Also, if ever such integers were
+computed, AandBwould be too large, which would lead to an impractical
+scheme.
+5.3 Reduction to the M-SIDH variant
+We now show how to reduce a MD-SIDH instance to an M-SIDH instance.
+RecallthatintheMD-SIDHcase(Problem5),wearegiven E0, P, Q, E B, P′=
+[β]ϕ(P), Q′= [β]ϕ(Q), where E0[A] =⟨P, Q⟩,ϕis a random isogeny of degree
+B′with B′being a random divisor of B, and βis a random integer coprime to
+A; and we are asked to recover ϕ.
+Following Subsections 5.1 and 5.2, we assume that the square-free part of the
+degree of the secret isogeny is known. Let B′
+1be the square-free part of B′. Let
+B0be the largest divisor of Bwhich is equal to B′up to squares, and let β0beM-SIDH and MD-SIDH: countering SIDH attacks by masking information 17
+the divisor of Bsuch that B0=β2
+0B′. Since Bis a smooth integer and we know
+B′
+1, we can compute B0.
+Letϕ0= [β0]◦ϕ. We then know degϕ0=β2
+0degϕ=β2
+0B′=B0≤B.
+Moreover, we have
+P′= [β]ϕ(P) = [( ββ−1
+0)·β0]ϕ(P) = [ββ−1
+0]ϕ0(P)
+Q′= [β]ϕ(Q) = [( ββ−1
+0)·β0]ϕ(Q) = [ββ−1
+0]ϕ0(Q)
+From Lemma 3, we can recover β2B′modA, and compute
+β2
+1=β2
+0B′·(β2B′)−1modA= (β0·β−1)2modA.
+We sample a random square root β′
+1ofβ2
+1mod A, namely β′
+1=µβ1where µis
+some square root of unity modulo A. We compute
+
+[β′
+1]P′= [µ·β1]P′= [µ·β0·β−1·β]ϕ(P) = [µ·β0]ϕ(P) = [µ]ϕ0(P)
+[β′
+1]Q′= [µ·β1]P′= [µ·β0·β−1·β]ϕ(Q) = [µ·β0]ϕ(Q) = [µ]ϕ0(Q)
+From here, one solves for ϕ0where E0,P,Q,EB,[µ]ϕ0(P),[µ]ϕ0(Q)and
+degϕ0=β2
+0B′are provided. This is in fact an M-SIDH instance, with the only
+difference that the secret isogeny is not cyclic. This is not a problem since the
+highergenustorsionpointsattackhasnorestrictiononthetypeofisogeny(cyclic
+or not) in play.
+5.4 Reduction impact: porting M-SIDH attacks to MD-SIDH
+In this section we revisit the attacks of Section 4 and check that they still apply
+when the secret isogeny is not cyclic. Recall that the isogeny to recover here is
+ϕ0= [β0]◦ϕwhere β0is an unknown integer such that the degree B0=β2
+0B′
+ofϕ0divides B. We are provided with the B0= deg ϕ0and the action of ϕ0on
+theAtorsion group up to a scalar (a root of unity modulo A).
+We start with Robert’s attack (see Section 2.2), and observe that neither
+the definition of the isogeny Ψnor the way ϕis deduced from this isogeny rely
+onϕbeing a cyclic isogeny. The attack of Section 4.1 simply guesses the exact
+torsion point images on the minimal amount of torsion point information needed
+for Robert’s attack. As before, allowing for non cyclic isogenies does not affect
+Robert’s attack.
+Regarding the attack of Section 4.2, one first applies Robert’s attack on
+ψ=ϕ0◦ι◦ˆϕ0= [β2
+0]◦ϕ◦ι◦ϕ, then one deduces the isogeny ϕ0using [31, §4.3].
+The first part is again an application of Robert’s attack to a non cyclic isogeny.
+The second part requires some clarification.
+When ϕ0=ϕis cyclic ( β0= 1), in [31, §4.3], the attacker computes G:=
+kerψ∩EB[B0], which clearly contains kerϕ, and is in general isomorphic to
+Z/NZ×Z/N′Zfor some N′|N|B0such that NN′=B0. When N′= 1we have
+G= ker ϕ. For a cyclic isogeny ϕ, we have N′>1exactly when ιleaves either
+kerϕ∩E0[N′]orkerˆϕ∩EB[N′]invariant: this leaves at most 2rcandidates for
+kerϕ, where ris the number of prime factors in N′. But, since ϕis uniformly18 T. B. Fouotsa, T. Moriya and C. Petit
+random (because it is the secret isogeny), then N′is relatively small and hence
+has very few prime factors.
+Let us return to the case where ϕ0= [β0]◦ϕwith ϕbeing cyclic and β0>1
+is unknown, and let us assume that ψ=ϕ0◦ι◦ˆϕ0= [β2
+0]◦ϕ◦ι◦ϕhas been
+recovered. After evaluating ψon the B0torsion, we will get a group isomorphic
+toZ/CZ×Z/C′Zwhere C′|C|B0. Since ψis divisible by β2
+0, the β2
+0-torsion is
+killed by ψand the group Z/CZ×Z/C′Zis the group one would have got if one
+was evaluating ϕ◦ι◦ϕon the B′=B0/β2
+0torsion. Hence CC′=B′= deg ϕas
+discussed in the previous paragraph and β0=p
+B0/B′. One then recovers ϕas
+in the previous paragraph.
+6 Adaptive attacks
+In this section, we show that M-SIDH and MD-SIDH, as SIDH, are vulnerable
+to adaptive attacks. We also discuss the use of B-SIDH primes in M-SIDH and
+future work. We first discuss the Fouotsa-Petit attack, then the GPST attack.
+6.1 Fouotsa-Petit adaptive attack.
+Fouotsa-Petit [19] adaptive attack consists in actively transforming a balanced
+SIDH instance ( A≈B) into an imbalanced one ( B < A∗=NAwhere N≈p),
+thenrunningPetit’storsionpointattacks[31,32]ontheimbalancedSIDH(where
+the secret isogeny has degree Band the torsion points have order A∗=NA) to
+recover the secret isogeny.
+In [19, Section 3.2], the authors show that Petit’s torsion point attacks can
+be run even when the torsion point images are scaled with an unknown scalar.
+Petit’s attacks also apply to non cyclic isogenies. In fact, to recover an isogeny
+ϕ:E−→E′from its action on large enough torsion points, Petit’s attack (see
+Section 2.2) uses the torsion point information and a suitable endomorphism θof
+Eto compute the endomorphism ψ=ϕ◦θ◦ϕofE′; then the techniques of [31,
+§4.3] (also see Section 5.4) are used to recover ϕ. As before, ϕnot being cyclic
+does not impact the first step where one recovers ψ. There are some subtleties
+when trying to recover ϕfrom ψwhen ϕis non cyclic, but they were already
+covered in Section 5.4. However, Petit’s attacks do require knowledge of the
+degree of the secret isogeny.
+The generalization of the Fouotsa-Petit [19] adaptive attack to M-SIDH is
+therefore straightforward. For MD-SIDH, one can use the techniques from Sec-
+tion 5 to reduce the MD-SIDH instance to an M-SIDH instance, and then run
+the Fouotsa-Petit attack on the M-SIDH instance.
+6.2 GPST adaptive attack.
+Recall that in the GPST attack on SIDH, Bob (the honest party) has a static
+secretkey/publickeypair( b,(EB,ϕB(PA), ϕB(QA)).Alice(thedishonestparty)
+maliciouslygeneratespublickeys (EA, R, S )withmodifiedtorsionpointsimages,M-SIDH and MD-SIDH: countering SIDH attacks by masking information 19
+and repeatedly runs the key exchange with Alice using these malicious public
+keys. The attack assumes that Alice is provided with an oracle O(EA, R, S, E′)
+that outputs 1ifE′is the shared secret computed by the honest Bob when using
+(EA, R, S )asAlice’spublickey,and 0otherwise.ThentheGPSTadaptiveattack
+recovers the secret bwith only logbqueries to the oracle O. The attack provides
+the points (Ri, Si)to be used at each query. We refer to [20] for details about
+the GPST adaptive attack.
+One thing to notice here is that
+O(EA, R, S, E′) = 1⇐⇒ EA/⟨R+ [b]S⟩=EA/⟨ϕA(PB) + [b]ϕA(QB)⟩
+⇐⇒ ⟨ R+ [b]S⟩=⟨ϕA(PB) + [b]ϕA(QB)⟩
+where the second equivalence holds except with neglible probability. Hence, as-
+suming EAis fixed, we can see Oas an oracle that when given R, S, outputs 1if
+⟨R+ [b]S⟩=⟨ϕA(PB) + [b]ϕA(QB)⟩, and 0if not. Note that the malicious points
+RandSare obtained by doing a linear combination of ϕA(PB)andϕA(QB),
+sayR= [e1]ϕA(PB) + [e2]ϕA(QB)andS= [f1]ϕA(PB) + [f2]ϕA(QB).
+WhenitcomestoM-SIDH,theimagepointsarescaledwithasecretinvertible
+scalar β. But, as the scalar is invertible and everything is linear, the attack can
+proceed in the same way.
+For MD-SIDH, the degree B′of Bob’s secret isogeny is an unknown divisor
+ofB. The torsion points RandSare first scaled by the secret integer B1=B
+B′
+beforebeingusedbyBob;thatisBobcomputestheisogeny EA→EA/⟨[B1](R+
+[b]S)⟩. Hence our new oracle here acts as follows: when given RandS, it outputs
+1if⟨[B1](R+ [b]S)⟩=⟨[B1](ϕA(PB) + [b]ϕA(QB))⟩, and 0otherwise.
+Here, blindly applying the GPST adaptive attack would not work, as the
+attacker first needs to recover the degree B′of the secret isogeny or equivalently
+the integer B1=B
+B′. Moreover unlike for the Fouotsa-Petit attack, one cannot
+simply apply our reduction from Section 4 to recover the degree and then apply
+GPST attack, because the GPST attack assumes a cyclic secret isogeny.
+To recover the integer B1, we instead use the above oracle. Let qebe a prime
+power divisor of B. We would like to recover the largest integer e′≤esuch that
+qe′divides B′. We repeatedly query the oracle with the points
+Ri=ϕA(PB) +B
+qi
+ϕA(QB), S i=ϕA(QB),1≤i≤e.
+We have the following lemma.
+Lemma 13. With the notations as above, we have
+O
+ϕB(PA) +B
+qi
+ϕA(QB), ϕA(QB)
+= 1
+if and only if qidivides B1.
+Proof.SetRi=ϕA(PB) +h
+B
+qii
+ϕA(QB)andSi=ϕA(QB). We have
+⟨[B1](Ri+ [b]Si)⟩=⟨[B1](ϕA(PB) +h
+B
+qii
+ϕA(QB) + [b]ϕA(QB))⟩
+=⟨[B1] (ϕA(PB) + [b]ϕA(QB)) + [B
+qi][B1]ϕA(QB)⟩.20 T. B. Fouotsa, T. Moriya and C. Petit
+Clearly, the points [B1](ϕA(PB) + [b]ϕA(QB))and[B1]ϕA(QB)have order B′
+and are linearly independent. Hence
+⟨[B1] (ϕA(PB) + [b]ϕA(QB))⟩=⟨[B1] (ϕA(PB) + [b]ϕA(QB))+B
+qi
+[B1]ϕA(QB)⟩
+if and only ifB
+qi= 0 mod B′, that is if and only if qidivides B1. The Lemma
+then follows from the definition of the oracle O. ⊓ ⊔
+Using Lemma 13, one recovers each prime power divisor qe′
+i
+iofB1=B
+B′with at
+most eiqueries, where B=qe1
+1···qet
+t,i= 1, . . . , t. The total maximum number
+ofqueriestorecoverthesecretdegree B′isPt
+i=1ei.Oncethedegreeisrecovered,
+one then runs the usual GPST attack.
+7 Parameter selection and efficiency
+In this section, we discuss the choice of the starting curve E0, and we use the
+analysis from the previous sections to infer parameter selections for both M-
+SIDH and MD-SIDH. We conclude that the M-SIDH variant is always more
+secure than the MD-SIDH variant at comparable parameter sizes, and discuss
+its efficiency.
+7.1 Choosing the starting curve E0
+From the attack in Section 4.2 and its generalization to MD-SIDH in Section 5.4,
+an elliptic curve with a short-degree endomorphism (e.g., the curve of j-invariant
+1728) should not be used for a starting curve in either scheme. Therefore the
+setup algorithm needs to generate E0as a curve with no short-degree endomor-
+phism. There are three possibilities here:
+1. the endomorphism ring of the curve is public,
+2. the endomorphism ring of the curve is not public, but known by one party
+(either Alice or Bob);
+3. the endomorphism ring is unknown to everyone.
+The advantage of the first possibility is that since the endomorphism ring of
+E0is public, everyone can verify that E0does not have small endomorphisms
+by determining the norm of the shortest element End(E0)(this is a dimension
+4lattice, so computing the shortest element is easy). One can use Bröker’s al-
+gorithm [6] to generate E0, or obtain E0by performing a random walk from
+a supersingular curve computed using Bröker’s algorithm. The first option is
+not secure since the supersingular curves generated using Bröker’s algorithm
+have small endomorphisms. In the second option, the party that generates the
+curve could backdoor it. In fact, they could generate a weak curve in the sense
+of [32]. Weak curves are curves for which Petit’s torsion point attack has the
+best efficiency for a given set of parameters.M-SIDH and MD-SIDH: countering SIDH attacks by masking information 21
+In the second scenario, one of the participants generates the curve and does
+not reveal its endomorphism ring. This party could hence potentially cheat and
+use a curve with small endomorphisms or a weak curve, then use it to attack the
+other party. This is not acceptable for a key exchange protocol. Nevertheless, in
+thesettingofaSIKE-typekeyencapsulationmechanismorpublickeyencryption
+scheme, we can let the key generation algorithm generate the starting curve and
+publish it together with their public key: indeed using a weak curve here would
+only make their own secret key weaker.
+Regarding the third scenario, one should note that generating a supersingu-
+lar curve with unknown endomorphism ring is a hard problem [4,28]. Instead,
+one can rely on a trusted third party (possibly simulated by a multiparty pro-
+tocol [1]) to generate a truly random supersingular E0curve by performing a
+long random walk for a known supersingular curve, and forgets (deletes) the
+walk they used. Then the obtained curve could be used as starting curve for the
+schemes suggested in this scheme.
+In conclusion, restricting E0to curves which do not have small endomor-
+phisms is sufficient when instantiating M-SIDH and MD-SIDH. Nevertheless,
+one would need to trust the party generating the curve since they could backdoor
+it (we could not find a method to generate curves with no small endomorphisms
+in the literature). Since we would need to trust them anyway, it is better to just
+ask this party to generate a curve with unknown endomorphism ring. This can
+also be done using the MPC techniques described in [1].
+7.2 Parameter selection for M-SIDH
+Recall that the M-SIDH primes are of the form p=ABf−1where A=ℓ1···ℓt
+andB=q1···qtare coprime integedo ℓi, qiare distinct small primes, A≈B≈√pandfis a small cofactor. Let λbe the security parameter. From subsection
+4.1, we need t−n+ 1≥λfor classical security and t−n+ 1≥2λfor quantum
+security, where nis the largest integer satisfying√
+B≤ℓn···ℓt, where λis a
+security parameter.
+We now explain how to generate the public parameters of M-SIDH for AES- λ
+security (i.e., classical λbits security and quantum λ/2bits security). Given λ,
+we sample the 2tsmallest primes for t≥2λ, we partition them into two sets of
+equal size, we use the first set to get Aand we use the second to get B, such
+that A≈B. We then check the value t−n+ 1described in subsection 4.1. If
+λ < t−n+ 1, we restart with a larger t. Ifλ≥t−n+ 1, find a cofactor fsuch
+thatp=ABf−1is prime.
+For AES-128 (NIST level 1), AES-192 (NIST level 3) and AES-256 (NIST
+level 5) security levels, Table 1 presents the key sizes, including secret key, public
+key and compressed public key. The suggested primes for M-SIDH are
+p128= 22·ℓ1···ℓ571·10−1,
+p192= 22·ℓ1···ℓ851·207−122 T. B. Fouotsa, T. Moriya and C. Petit
+and
+p256= 22·ℓ1···ℓ1131·13−1
+respectively; where ℓiis the ith odd prime. Alice uses A= 22·ℓ2·ℓ4···ℓt−2and
+Bob uses B=ℓ1·ℓ3···ℓt−1.
+AESNIST p(in bits) secret key public key compressed pk
+128level 1 5911 ≈369bytes 4434bytes ≈2585bytes
+192level 3 9382 ≈586bytes 7037bytes ≈4103bytes
+256level 5 13000 ≈812bytes 9750bytes ≈5687bytes
+Table 1. Suggested parameters for 128, 192 and 256 bits of security.
+7.3 Parameter selection for MD-SIDH
+We showed in previous sections that MD-SIDH can be broken by the same
+attacks as M-SIDH. Therefore, t−n+ 1must be greater than or equal to λ
+for AES- λsecurity, where nis the largest integer such that there is a subset
+S⊂ {1, . . . , t}satisfying√
+B≤Q
+i∈Sℓai
+iandn=t+1−#S. Moreover, to mask
+the degree of the secret isogeny, the size of the space of degrees needs to be 2λ+t
+since the Weil pairing will reduce it by a factor 2t.
+Given λ, we sample the 2tsmallest primes for t≥λ, we set a1=···=aλ=
+b1=···=bλ= 3and the other exponents are 1, and we partition them into two
+sets of equal size. We use the first set to get Aand the second to get B, such that
+A≈B. We check the value t−n+ 1described above. If λ < t−n+ 1, we restart
+with a larger t. Ifλ≥t−n+ 1, we find a cofactor fsuch that p=ABf−1is
+prime.
+For AES-128 (NIST level 1), AES-192 (NIST level 3) and AES-256 (NIST
+level 5) security levels, Table 2 presents the key sizes: secret key, public key and
+compressed public key. The suggested primes for M-SIDH are
+p128= 23·ℓ3
+1···ℓ3
+255ℓ256···ℓ839·537−1,
+p192= 23·ℓ3
+1···ℓ3
+383ℓ384···ℓ1273·131−1
+and
+p256= 23·ℓ3
+1···ℓ3
+511ℓ512···ℓ1711·1485−1
+respectively;where ℓiisthe ithoddprime.Aliceuses A= 23·ℓ3
+2···ℓ3
+λ−2ℓλ···ℓt−2
+and Bob uses B=ℓ3
+1···ℓ3
+λ−1ℓλ+1···ℓt−1.M-SIDH and MD-SIDH: countering SIDH attacks by masking information 23
+AESNIST p(in bits) secret key public key compressed pk
+128level 1 13810 ≈863bytes 10358bytes ≈6040bytes
+192level 3 22291 ≈1393bytes 16719bytes ≈9751bytes
+256level 5 31226 ≈1951bytes 23420bytes ≈13660bytes
+Table 2. Suggested parameters for 128, 192 and 256 bits of security.
+7.4 Preliminary efficiency analysis
+From the two subsections above, it is clear that the M-SIDH variant is more
+secure than the MD-SIDH variant for comparable parameter sizes.
+Compressed public key sizes for M-SIDH have 2585, 4103 and 5687 bytes at
+security levels 128, 192 and 256. This is roughly 6.8, 7.3 and 7.8 bigger than
+previously suggested SIKE keys for the same security levels. Asymptotically,
+Keys scale quasi-linearly in the security parameter, whereas SIKE keys scaled
+linearly.
+Computations required in M-SIDH are similar to those required in SIDH,
+with additional (comparably negligible) scalar multiplications to mask torsion
+points, individual isogeny steps of degrees O(λlogλ)instead of 2 and 3, and
+larger parameter sizes. In SIDH, we have O(λlogλ)isogeny steps with optimal
+strategies [16], with each step costing O(1)field operations. Field sizes are O(λ)
+so each field operation costs O(λlogλ)bit operations asymptotically, neglecting
+log logfactors. This leads to a total asymptotic bit complexity of O(λ2log2λ)
+bit operations. In M-SIDH, we use O(λ)primes each of size O(logλ), so the total
+prime size is O(λlogλ). There are still O(λlogλ)steps involved with optimal
+strategies. Eachsteprequires O(√λlogλ)fieldoperationsusingsquarerootVélu
+formulae. Field operations cost O(λlog2λ)bit operations asymptotically, again
+neglecting log logfactors. This gives a total of O(λ2.5log7/2λ)bit operations.
+Concrete efficiency should be determined in future work, but a slowdown com-
+pared to SIDH should be expected, with a factor in the order of O(√
+λlog3/2λ).
+Most efficiency and implementation tricks developed for SIDH should also be
+available for M-SIDH, and potentially more, but we argue in Appendix B that
+the B-SIDH approach will not be applicable.
+8 Conclusion and perspectives
+WeintroducedtwovariantsoftheSIDHprotocolsaimedatdefeatingtheCastryck-
+Decru-Maino-Martindale-Robert recent attacks. The two variants respectively
+hide the secret isogeny degree and the torsion point information to the attacker
+(more precisely they only reveal an integer multiple of the degree, and they
+reveal torsion point images only up to a scalar).
+Our thorough security analysis of both variants suggests that the M-SIDH
+variant offers the best security-efficiency tradeoff. Public key sizes are 4434, 7037
+and 9750 bytes respectively for AES-128 (NIST level 1), AES-192 (NIST level 3)
+andAES-256(NISTlevel5)security,andefficiencyisexpectedtoasymptotically
+be a factor in the order of O(√
+λlog3/2λ)slower compared to SIDH.24 T. B. Fouotsa, T. Moriya and C. Petit
+Our work suggests that it may be possible to repair the SIDH protocol,
+although at a non negligible efficiency cost, and it similarly offers a way forward
+to the numerous cryptographic schemes based on SIDH that were developed in
+recent years. Further work should aim at developing additional countermeasures
+and at improving the efficiency and security analysis of our schemes.
+Acknowledgements. We thank Castryck and Onuki for their valuable feed-
+back on a preliminary version of the results in this paper, as well as those of the
+participants at ANTS 2022 that also gave us some feedback. The first author
+thanks Andrea Basso and Luca De Feo for several discussions regarding this
+work. We thank anonymous reviewers for their valuable feedback. This research
+was in part conducted under a contract of “Research and development on new
+generation cryptography for secure wireless communication services” among “Re-
+search and Development for Expansion of Radio Wave Resources (JPJ000254)”,
+which was supported by the Ministry of Internal Affairs and Communications,
+Japan. Christophe Petit’s work is in part supported by an EPSRC fellowship
+grant (EP/V011324/1).
+References
+1. Basso, A., Codogni, G., Connolly, D., De Feo, L., Fouotsa, T.B., Lido, G.M.,
+Morrison, T., Panny, L., Patranabis, S., Wesolowski, B.: Supersingular curves
+you can trust. Cryptology ePrint Archive, Report 2022/1469 (2022), https:
+//eprint.iacr.org/2022/1469
+2. Basso, A., Kutas, P., Merz, S.P., Petit, C., Sanso, A.: Cryptanalysis of an oblivious
+PRF from supersingular isogenies. In: Tibouchi, M., Wang, H. (eds.) Advances in
+Cryptology – ASIACRYPT 2021, Part I. Lecture Notes in Computer Science, vol.
+13090, pp. 160–184. Springer, Heidelberg, Germany, Singapore (Dec 6–10, 2021).
+https://doi.org/10.1007/978-3-030-92062-3_6
+3. Beullens, W., Kleinjung, T., Vercauteren, F.: CSI-FiSh: Efficient isogeny based
+signatures through class group computations. In: Galbraith, S.D., Moriai, S. (eds.)
+Advances in Cryptology – ASIACRYPT 2019, Part I. Lecture Notes in Computer
+Science, vol. 11921, pp. 227–247. Springer, Heidelberg, Germany, Kobe, Japan
+(Dec 8–12, 2019). https://doi.org/10.1007/978-3-030-34578-5_9
+4. Booher, J., Bowden, R., Doliskani, J., Fouotsa, T.B., Galbraith, S.D., Kun-
+zweiler, S., Merz, S.P., Petit, C., Smith, B., Stange, K.E., Ti, Y.B., Vincent,
+C., Voloch, J.F., Weitkämper, C., Zobernig, L.: Failing to hash into supersingu-
+lar isogeny graphs. Cryptology ePrint Archive, Report 2022/518 (2022), https:
+//eprint.iacr.org/2022/518
+5. Bottinelli, P., de Quehen, V., Leonardi, C., Mosunov, A., Pawlega, F., Sheth, M.:
+The dark SIDH of isogenies. Cryptology ePrint Archive, Report 2019/1333 (2019),
+https://eprint.iacr.org/2019/1333
+6. Bröker, R.: Constructing supersingular elliptic curves. Journal of Combinatorics
+and Number Theory 1(3), 269–273 (2009)
+7. Castryck, W., Decru, T.: An efficient key recovery attack on SIDH (preliminary
+version). Cryptology ePrint Archive, Report 2022/975 (2022), https://eprint.
+iacr.org/2022/975M-SIDH and MD-SIDH: countering SIDH attacks by masking information 25
+8. Castryck, W., Lange, T., Martindale, C., Panny, L., Renes, J.: CSIDH: An efficient
+post-quantum commutative group action. In: Peyrin, T., Galbraith, S. (eds.) Ad-
+vances in Cryptology – ASIACRYPT 2018, Part III. Lecture Notes in Computer
+Science,vol.11274,pp.395–427.Springer,Heidelberg,Germany,Brisbane,Queens-
+land, Australia (Dec 2–6, 2018). https://doi.org/10.1007/978-3-030-03332-3_
+15
+9. Charles, D.X., Lauter, K.E., Goren, E.Z.: Cryptographic hash functions from ex-
+pander graphs. Journal of Cryptology 22(1), 93–113 (Jan 2009). https://doi.
+org/10.1007/s00145-007-9002-x
+10. Colò, L., Kohel, D.: Orienting supersingular isogeny graphs. Cryptology ePrint
+Archive, Report 2020/985 (2020), https://eprint.iacr.org/2020/985
+11. Cooper, C.: On the rank of random matrices. Random Structures & Al-
+gorithms 16(2), 209–232 (2000). https://doi.org/https://doi.org/10.1002/
+(SICI)1098-2418(200003)16:2<209::AID-RSA6>3.0.CO;2-1
+12. Costello, C.: B-SIDH: Supersingular isogeny Diffie-Hellman using twisted torsion.
+In: Moriai, S., Wang, H. (eds.) Advances in Cryptology – ASIACRYPT 2020,
+Part II. Lecture Notes in Computer Science, vol. 12492, pp. 440–463. Springer,
+Heidelberg, Germany, Daejeon, South Korea (Dec 7–11, 2020). https://doi.org/
+10.1007/978-3-030-64834-3_15
+13. Costello, C., Meyer, M., Naehrig, M.: Sieving for twin smooth integers with solu-
+tions to the prouhet-tarry-escott problem. In: Canteaut, A., Standaert, F.X. (eds.)
+Advances in Cryptology – EUROCRYPT 2021, Part I. Lecture Notes in Computer
+Science, vol. 12696, pp. 272–301. Springer, Heidelberg, Germany, Zagreb, Croatia
+(Oct 17–21, 2021). https://doi.org/10.1007/978-3-030-77870-5_10
+14. Couveignes, J.M.: Hard homogeneous spaces. Cryptology ePrint Archive, Report
+2006/291 (2006), https://eprint.iacr.org/2006/291
+15. De Feo, L., Galbraith, S.D.: SeaSign: Compact isogeny signatures from class
+group actions. In: Ishai, Y., Rijmen, V. (eds.) Advances in Cryptology – EU-
+ROCRYPT 2019, Part III. Lecture Notes in Computer Science, vol. 11478, pp.
+759–789. Springer, Heidelberg, Germany, Darmstadt, Germany (May 19–23, 2019).
+https://doi.org/10.1007/978-3-030-17659-4_26
+16. DeFeo,L.,Jao,D.,Plût,J.:Towardsquantum-resistantcryptosystemsfromsuper-
+singular elliptic curve isogenies. Journal of Mathematical Cryptology 8(3), 209–247
+(Jun 2014). https://doi.org/doi:10.1515/jmc-2012-0015
+17. De Feo, L., Kohel, D., Leroux, A., Petit, C., Wesolowski, B.: SQISign: Compact
+post-quantum signatures from quaternions and isogenies. In: Moriai, S., Wang,
+H. (eds.) Advances in Cryptology – ASIACRYPT 2020, Part I. Lecture Notes in
+Computer Science, vol. 12491, pp. 64–93. Springer, Heidelberg, Germany, Daejeon,
+South Korea (Dec 7–11, 2020). https://doi.org/10.1007/978-3-030-64837-4_3
+18. Fouotsa,T.B.:SIDHwithmaskedtorsionpointimages.CryptologyePrintArchive,
+Report 2022/1054 (2022), https://eprint.iacr.org/2022/1054
+19. Fouotsa, T.B., Petit, C.: A new adaptive attack on SIDH. In: Galbraith, S.D.
+(ed.) Topics in Cryptology – CT-RSA 2022. Lecture Notes in Computer Science,
+vol. 13161, pp. 322–344. Springer, Heidelberg, Germany, Virtual Event (Mar 1–2,
+2022). https://doi.org/10.1007/978-3-030-95312-6_14
+20. Galbraith, S.D., Petit, C., Shani, B., Ti, Y.B.: On the security of supersingular
+isogeny cryptosystems. In: Cheon, J.H., Takagi, T. (eds.) Advances in Cryptology
+– ASIACRYPT 2016, Part I. Lecture Notes in Computer Science, vol. 10031, pp.
+63–91. Springer, Heidelberg, Germany, Hanoi, Vietnam (Dec 4–8, 2016). https:
+//doi.org/10.1007/978-3-662-53887-6_326 T. B. Fouotsa, T. Moriya and C. Petit
+21. Galbraith, S.D., Petit, C., Silva, J.: Identification protocols and signature schemes
+based on supersingular isogeny problems. Journal of Cryptology 33(1), 130–175
+(Jan 2020). https://doi.org/10.1007/s00145-019-09316-0
+22. Grover, L.K.: A fast quantum mechanical algorithm for database search. In: 28th
+Annual ACM Symposium on Theory of Computing. pp. 212–219. ACM Press,
+Philadephia, PA, USA (May 22–24, 1996). https://doi.org/10.1145/237814.
+237866
+23. Jao, D., Azarderakhsh, R., Campagna, M., Costello, C., De Feo, L., Hess,
+B., Jalali, A., Koziel, B., LaMacchia, B., Longa, P., Naehrig, M., Renes,
+J., Soukharev, V., Urbanik, D., Pereira, G., Karabina, K., Hutchinson, A.:
+SIKE. Tech. rep., National Institute of Standards and Technology (2020),
+available at https://csrc.nist.gov/projects/post-quantum-cryptography/
+post-quantum-cryptography-standardization/round-3-submissions
+24. Jao, D., De Feo, L.: Towards quantum-resistant cryptosystems from supersingu-
+lar elliptic curve isogenies. In: Yang, B.Y. (ed.) Post-Quantum Cryptography -
+4th International Workshop, PQCrypto 2011. pp. 19–34. Springer, Heidelberg,
+Germany, Tapei, Taiwan (Nov 29 – Dec 2 2011). https://doi.org/10.1007/
+978-3-642-25405-5_2
+25. Kovalenko, I., Levitskaya, A., Savchuk, M.: Selected problems in probabilistic com-
+binatorics. Naukova Dumka, Kiev (1986)
+26. Maino, L., Martindale, C.: An attack on SIDH with arbitrary starting curve.
+Cryptology ePrint Archive, Report 2022/1026 (2022), https://eprint.iacr.org/
+2022/1026
+27. Moriya, T.: Masked-degree SIDH. Cryptology ePrint Archive, Report 2022/1019
+(2022), https://eprint.iacr.org/2022/1019
+28. Mula,M.,Murru,N.,Pintore,F.:Randomsamplingofsupersingularellipticcurves.
+Cryptology ePrint Archive, Report 2022/528 (2022), https://eprint.iacr.org/
+2022/528
+29. National Institute of Standards and Technology: Post–quantum cryptog-
+raphy standardization (Dec 2016), https://csrc.nist.gov/Projects/
+Post-Quantum-Cryptography/Post-Quantum-Cryptography-Standardization
+30. Oudompheng, R., Pope, G.: A note on reimplementing the castryck-decru attack
+and lessons learned for SageMath. Cryptology ePrint Archive, Report 2022/1283
+(2022), https://eprint.iacr.org/2022/1283
+31. Petit, C.: Faster algorithms for isogeny problems using torsion point images. In:
+Takagi, T., Peyrin, T. (eds.) Advances in Cryptology – ASIACRYPT 2017, Part II.
+Lecture Notes in Computer Science, vol. 10625, pp. 330–353. Springer, Heidel-
+berg, Germany, Hong Kong, China (Dec 3–7, 2017). https://doi.org/10.1007/
+978-3-319-70697-9_12
+32. deQuehen,V.,Kutas,P.,Leonardi,C.,Martindale,C.,Panny,L.,Petit,C.,Stange,
+K.E.: Improved torsion-point attacks on SIDH variants. In: Malkin, T., Peikert,
+C. (eds.) Advances in Cryptology – CRYPTO 2021, Part III. Lecture Notes in
+ComputerScience,vol.12827,pp.432–470.Springer,Heidelberg,Germany,Virtual
+Event (Aug 16–20, 2021). https://doi.org/10.1007/978-3-030-84252-9_15
+33. Robert, D.: Breaking SIDH in polynomial time. Cryptology ePrint Archive, Report
+2022/1038 (2022), https://eprint.iacr.org/2022/1038
+34. Rostovtsev, A., Stolbunov, A.: Public-Key Cryptosystem Based On Isogenies.
+Cryptology ePrint Archive, Report 2006/145 (2006), https://eprint.iacr.org/
+2006/145M-SIDH and MD-SIDH: countering SIDH attacks by masking information 27
+35. Shor, P.W.: Algorithms for quantum computation: Discrete logarithms and fac-
+toring. In: 35th Annual Symposium on Foundations of Computer Science. pp.
+124–134. IEEE Computer Society Press, Santa Fe, NM, USA (Nov 20–22, 1994).
+https://doi.org/10.1109/SFCS.1994.365700
+36. van Oorschot, P.C., Wiener, M.J.: Parallel collision search with cryptanalytic ap-
+plications. Journal of Cryptology 12(1), 1–28 (Jan 1999). https://doi.org/10.
+1007/PL00003816
+A On the claims of ePrint 2022/1667
+The ePrint 2022/1667 vaguely claims attacks on M-SIDH. Reading through it,
+it clearly does not contain any attack against M-SIDH; it is easy to see that the
+"experimental evidence" provided there only applies to SIDH parameters and
+does not generalize to the parameters we recommend.
+This ePrint paper runs the Castryck-Decru attack on Masked SIDH instan-
+tiated with SIDH primes, that is A= 2aandB= 3b. Note that using SIDH
+primes in Masked SIDH is totally insecure at the first place. Nevertheless, when
+the2atorsion points are masked, intuitively, one expects the Castryck-Decru
+attack to succeed 50%of the time. In fact, there are 4roots of unity modulo 2a,
+these are 1,−1,2a−1−1and2a−1+ 1. As precised earlier in Section 3.3, the
+attack succeeds when β= 1,−1, hence one expects the Castryck-Decru attack
+to succeed when the masking scalar βis1or−1, and fail when βis2a−1−1
+or2a−1+ 1. The ePrint 2022/1667 ran the attack and noticed that the attack
+always succeeds, then claimed that this would be the case even when the cor-
+rect parameters are used. We have already explained why we do not expect the
+attack to work on Masked degree instantiated with the correct parameters (see
+Section 3.3). Now, why does the Castryck-Decru attack works 100%of the time
+(instead of 50%) when instantiated with SIDH parameters? Well, it turns out
+it is because the Castryck-Decru attack does not fully use the torsion points
+provided in the public key, but scales them by a small power of 2first. This is
+because the implementation of the attack needs a′andb′such that c= 2a′−3b′
+is smooth and its prime factors are congruent to 1mod 4(this is required for the
+attack to be efficient, see [7]). This implies that the order of the torsion points
+actually used in the attack divides 2a−1. Therefore, the masking scalar βwhich
+liesin {1,−1,2a−1−1,2a−1+1}becomes βmod 2a−1= 1,−1 (mod 2a−1).This
+justifies why the Castryck-Decru attack always succeeds when SIDH primes are
+used.
+The attack clearly does not succeed when the torsion point images having
+order 2a′are masked with a scalar which is neither 1nor−1modulo 2a′. This
+can be verified using the sage implementation of the attack provided in [30].
+One goes to the line where the torsion point images of order 2a′are computed
+(for example, in line 57 of the file castryck _decru_shortcut.sage inhttps://
+github.com/jack4818/Castryck-Decru-SageMath ), and replaces the torsion
+points 2alp∗PBand2alp∗QBby(2ai−1−1)∗2alp∗PBand(2ai−1−1)∗2alp∗QB
+respectively.28 T. B. Fouotsa, T. Moriya and C. Petit
+Note.The non-applicability of the attacks claimed in the ePrint 2022/1667 to
+M-SIDH was also pointed out on Twitter by Luca De Feo, Steven Galbraith,
+Péter Kutas, Benjamin Wesolowski and other isogenists, and we thank them for
+that.
+B Using B-SIDH primes in M-SIDH
+B-SIDHisonevariantofSIDHproposedbyCostello[12].Themaincharacteristic
+of B-SIDH is the use of quadratic twists. This allows us to use the torsion points
+inE[p−1]andE[p+ 1]without extending the base field, while in the original
+SIDH, points which we can use must be in E[p+ 1]. Thus, the size of the prime
+for B-SIDH is at most half that for SIDH .
+If we can adapt this technique to our scheme, then the size of the prime may
+be at most halved. Since the MD-SIDH primes are larger than twice the M-SIDH
+primes, we only consider the case of M-SIDH.
+In the setting of SIDH, the size of Aneeds to be large enough for its security;
+however, in the setting of M-SIDH, the number of primes dividing Aneeds to
+large enough. Therefore, the restriction of smoothness is harder in M-SIDH than
+in SIDH.
+To use the B-SIDH method for M-SIDH, we need to find a prime psatisfying
+the following property:
+p+ 1 = ℓ1···ℓt·f,
+p−1 =q1···qt·f′,
+where t≥2λ, and ℓ1, . . . , ℓ tandq1, . . . , q tare distinct primes, respectively .
+The basic approach to find the B-SIDH prime is to construct an integer m
+such that both mandm+ 1are smooth. If 2m+ 1is prime, we set p= 2m+ 1.
+In [12] and [13], some methods to find such m’s are proposed. The current most
+useful method is the method proposed in [13]. The main idea of this method
+is to use already known solutions of the Prouhet-Tarry-Escott (PTE) problem,
+which provide pairs of integer coefficient polynomials a(x) = (x−a1)···(x−as)
+andb(x) = (x−b1)···(x−bs)whose difference is a constant value c. If we find
+an integer ℓsuch that all ℓ−ai’s and ℓ−bi’s are smooth, and a(ℓ)/candb(ℓ)/c
+are integers, then b(ℓ)/ccan be taken as m.
+The main issue with this approach is that such ℓ’s have a very small proba-
+bility to exist. For a polynomial a∈Z[x], define
+Ψa(N, M ) = #{1≤m≤N|a(m)isM-smooth }.
+Then, heuristically it holds that Ψa(N, N1/u)/N∼ρ(d1u)···ρ(dku)asN→ ∞,
+where d1, . . . , d kare degrees of distinct irreducible factors of a, and ρis the
+Dickman–de Bruijn function.
+Since t≥2λ, both mandm+ 1are divided by at least 2λdistinct primes.
+Then, we heuristically assume that the target value mism1/λ-smooth. SinceM-SIDH and MD-SIDH: countering SIDH attacks by masking information 29
+ℓ≈m1/s, the probability of target ℓ’s is
+Ψa(m1/s, m1/λ)
+m1/s∼ρ(λ/s)s.
+Note that sis less than or equal to 12for an already known solution of the
+PTE problem. With λ= 128, we have ρ(λ/s)s<2−463; with λ= 192, we have
+ρ(λ/s)s<2−835; and with λ= 256, we have ρ(λ/s)s<2−1246.

@@ -1,0 +1,701 @@
+DaphneSched : A Scheduler for
+Integrated Data Analysis Pipelines
+Ahmed Eleliemy and Florina M. Ciorba
+University of Basel, Switzerland
+Abstract
+DAPHNE is a new open-source software infrastructure designed to ad-
+dress the increasing demands of integrated data analysis (IDA) pipelines,
+comprising data management (DM), high performance computing (HPC),
+and machine learning (ML) systems. Efficiently executing IDA pipelines
+is challenging due to their diverse computing characteristics and demands.
+Therefore, IDA pipelines executed with the DAPHNE infrastructure re-
+quire an efficient and versatile scheduler to support these demands. This
+work introduces DaphneSched , the task-based scheduler at the core of
+DAPHNE [1]. DaphneSched is versatile by incorporating eleven task
+partitioning and three task assignment techniques, bringing the state-
+of-the-art closer to the state-of-the-practice task scheduling. To showcase
+DaphneSched ’s effectiveness in scheduling IDA pipelines, we evaluate its
+performance on two applications: a product recommendation system and
+training of a linear regression model. We conduct performance experi-
+ments on multicore platforms with 20 and 56 cores, respectively. The
+results show that the versatility of DaphneSched enabled combinations
+of scheduling strategies that outperform commonly used scheduling tech-
+niques by up to 13%. This work confirms the benefits of employing Daph-
+neSched for the efficient execution of applications with IDA pipelines.
+1 Introduction
+Scientific applications often combine data analysis pipelines that involve data
+management (DM) (data query processing), high-performance computing (HPC)
+(large- and multi-scale simulations), and machine learning steps [2, 3]. This di-
+versity requires convergence between DM, HPC, and ML systems. Today, we see
+full convergence at the hardware infrastructure level, i.e., data and HPC centers
+share similar computing, networking, and storage infrastructure, while conver-
+gence at the software infrastructure is still an open challenge [4, 5]. DM, HPC,
+and ML pipelines rely on various data representations, programming paradigms,
+execution frameworks, and runtime libraries. Thus, these pipelines are consid-
+ered for execution independently which leads to missing many performance opti-
+mization opportunities, e.g., zero-data copy and efficient usage of heterogeneousarXiv:2308.01607v1  [cs.DC]  3 Aug 2023computing resources [1]. Therefore, a software infrastructure for integrated data
+analysis (IDA) pipelines is highly important and required by the scientific com-
+munity.
+IDA software infrastructures are challenged by 1) deployment challenge : in-
+tegration of different systems, programming paradigms, resource managers, and
+data representations, and 2) heterogeneity challenge increase of specialization
+at the device level CPUs, GPUs, FPGAs, and computational memory and stor-
+age [1]. These challenges require efficient scheduling that is versatile enough to
+support a wide range of data representations, application characteristics, and
+target systems. In this work, we introduce DaphneSched , a task-based scheduler
+for IDA pipelines.
+DaphneSched differs from existing runtime schedulers [6] as follows. DAPHNE [7]
+is an open and extensible software infrastructure for IDA pipelines. Unlike
+existing runtime systems, such as HPX [8], StarPU [9], Charm++ [10], and
+TensorFlow [11], DAPHNE is an incubator, designed for IDA pipelines with
+DM, HPC, and ML steps rather than either of such steps from a single domain
+alone. Thus, DAPHNE gives opportunities for holistic optimization by con-
+sidering data representations and efficient execution plans, including the selec-
+tion of target devices, work partitioning, work assignment, execution ordering,
+and execution timing. DaphneSched follows two design principles: Extendability
+andCoverage .Extendability refers to the possibility of extending DaphneSched
+with user-defined scheduling schemes. This principle is important to ensure the
+suitability of DaphneSched foreseen use case. Coverage refers to considering
+the majority of all task-based scheduling schemes from the state-of-the-art and
+state-of-the-practice. This principle is also crucial, as an IDA scheduler must be
+versatile enough to cover use cases from various domains. IDA schedulers must
+adapt to different applications and target systems, and no single scheduling
+technique is universally effective.
+Therefore, a scheduler that supports a wide range of techniques has a higher
+potential to be suitable for more application-system pairs For instance, Daph-
+neSched covers and supports various scheduling strategies, in addition to the
+default static scheme (STATIC) [12]. Specifically, DaphneSched supports var-
+ious dynamic loop scheduling schemes for work partitioning, such as guided
+self-scheduling (GSS) [13], trapezoid self-scheduling (TSS) [14], fixed-size self-
+scheduling (FSC) [15], factoring (FAC) [16], trapezoid factoring self-scheduling
+(TFSS) [14], fixed-increase self-scheduling (FISS) [17], variable-increase self-
+scheduling (VISS) [17], performance loop-based self-scheduling (PLS) [18], and
+probabilistic self-scheduling (PSS) [19]. For work assignment, DaphneSched
+supports two strategies: 1) self-scheduling from a centralized work queue, and
+2) work-stealing from multiple queues (per core or per CPU). Moreover, Daph-
+neSched supports four victim selection strategies: sequential (SEQ), sequen-
+tial prioritized (SEQPRI), random (RND), and random prioritized (RNDPRI)
+work-stealing [20].
+DaphneSched enables users to combine work partitioning and assignment
+techniques in novel ways that have not been explored in previous studies, result-
+ing in improved performance in specific scenarios (shown in Sections 3 and 4).This work makes the following contributions.
+C.1 Design and implementation of an extendable and versatile task-based
+scheduler that shows performance potential for IDA pipelines compared to ex-
+isting schedulers.
+C.2Proposal to combine work stealing with self-scheduling mechanisms to
+resolve the well-known challenge of how many tasks an thief worker should steal.
+We also present a performance study that shows the advantages of Daph-
+neSched for two real test cases.
+The remainder of this paper is organized as follows. In Section 2, we briefly
+present the background including the terminology that the reader may need to
+follow this work, and also highlight the most relevant research efforts to this
+work. We introduce the proposed design of DaphneSched in Section 3. The
+experimental evaluation of the proposed scheduler is discussed in Section 4. We
+conclude this work by highlighting the performance potential and future work
+to address current limitations of DaphneSched in Section 5.
+2 Background and Related Work
+Background. DAPHNE is a scalable infrastructure system designed for inte-
+grated data analysis pipelines that encompass data management and process-
+ing, as well as high-performance computing and machine learning training and
+scoring. Figure 1 illustrates the DAPHNE’s layered system design, comprising
+four significant components: DaphneLib, DaphneDSL, MLIR-Based Compila-
+tion Chain, and DaphneRuntime. The primary access points to the DAPHNE
+infrastructure are through DaphneLib and DaphneDSL. DaphneLib provides
+users with interfaces that enable them to make calls to the DAPHNE infras-
+tructure in their Python codes, while DaphneDSL is a domain-specific language
+for ML and numerical computations that is similar to Numpy [21], R [22], Sys-
+temDS [23], and Julia [24]. The figure shows that scheduling decisions are
+taken by various components in the DAPHNE architecture. For instance, the
+DAPHNE compilation determines the execution order of the operators and type
+of target devices (CPUs, GPUs, FPGAs, computational storage) [25], while the
+runtime system determines the mapping (assignment) between work items and
+specific instances of devices (CPU, GPUs, and FPGAs).
+Terminology. The DAPHNE infrastructure is developed by a consortium
+of various communities, comprising experts in DM, HPC, and ML domains.
+One of the challenges faced by the consortium was establishing a common un-
+derstanding of the terminology, as different communities tend to use the same
+term in different ways. We clarify here the definitions and terms used within
+the context of DAPHNE. The term operator refers to a single, indivisible opera-
+tion that can be applied to input data. Examples of common operators include
+matrix operations, such as addition, subtraction, and multiplication. Operators
+and data items are the pillars of any computation in the context of DAPHNE,
+and the combination of the two forms a task. Tasks are the smallest units of
+work considered for scheduling by the DAPHNE runtime system. Task granu-DaphneLib(API)DaphneDSLMLIR-BasedCompilation ChainDaphneSchedVectorized (Tiled) Execution EngineDevice KernelsMemory ManagementDAPHNECompilationRuntimeSystemScheduling DecisionsWork orderingWork assignmentWork partitioningWork assignmentWork timingDAPHNEApplicationFigure 1: System architecture of the DAPHNE infrastructure. Scheduling
+decisions are taken by various components at different levels in the DAPHNE
+system architecture.
+larity is the size of the data item associated with the task.
+DaphneSched has two independent steps: 1) work partitioning that deter-
+mines tasks’ granularity and 2) work assignment that determines mapping be-
+tween workers and tasks. Both rely on techniques discussed in the following.
+Self-scheduling When a worker is free and idle, it will attempt to obtain
+new work items to execute on its own. The number of work items each worker
+should self-schedule can be determined using various scheduling techniques. For
+example, when the work items are loop iterations without dependencies, dy-
+namic loop self-scheduling (DLS) techniques can be utilized, each technique
+employing a unique formula to calculate the number of iterations to be self-
+scheduled each time. This amount of loop iterations is referred to as a chunk,
+and the chunk calculation formulas of the various DLS techniques generate fixed,
+increasing, decreasing, or random chunk sizes.
+InDaphneSched , we employ the following self-scheduling techniques: self-
+scheduling (SS) [26], fixed size chunk (FSC) [15], guided self-scheduling (GSS) [13],
+trapezoid self-scheduling (TSS) [14], factoring (FAC) [16], trapezoid factoring
+self-scheduling (TFSS) [27], fixed increase self-scheduling (FISS) [17], variable
+increase self-scheduling (VISS) [17], performance loop-based self-scheduling (PLS) [18],
+and probabilistic self-scheduling(PSS) [19]. A detailed description of the tech-
+niques can be found in [28, 29, 30].
+Work-stealing and victim selection. Another strategy for work assign-
+ment is work-stealing, which involves a worker attempting to acquire new work
+items from neighboring workers when it runs out of tasks to perform from its
+local queue. The worker acting as the thief must select a victim worker to
+steal from. Various victim selection strategies are possible. In DaphneSched we
+use the following SEQ, SEQPRI, RND, and RNDPRI. Sequential victim selec-tion (SEQ) denotes a worker searching for the victim in a round-robin fashion,
+starting from their current position in the system topology [20]. Sequential
+prioritized victim selection (SEQPRI) prioritizes the search for victims within
+the same NUMA domain. SEQPRI preserves data locality between NUMA do-
+mains whenever possible, and minimizes inter-socket communication [31]. Ran-
+dom victim selection (RND) involves a random selection of one victim using
+uniform random distribution over all victims. Random prioritized victim selec-
+tion (RNDPRI) is similar to RND except that victims are divided according to
+their NUMA domains, i.e., RNDPRI randomly selects from the victims within
+the same NUMA domain.
+Related work. LB4OMP is a recent load-balancing library that reduces the
+gap between the literature and practice in the context of DLS techniques [32].
+LB4OMP extends the LLVM OpenMP runtime library with thirteen DLS tech-
+niques. LB4OMP and DaphneSched overlap in terms of the DLS techniques
+they both support. As LB4OMP is an OpenMP runtime library, it only ben-
+efits OpenMP applications, with work sharing loops. For task scheduling, the
+LLVM OpenMP runtime relies on the user to define the granularity of the tasks
+(i.e., task partitioning) and then uses either RND or RNDPRI as victim selec-
+tion strategies [33]. While OpenMP is extensively used in HPC applications, it
+is less common in DB and ML systems. In contrast, DaphneSched is part of the
+DAPHNE runtime system which targets IDA pipelines, comprising HPC, DB,
+and ML steps. The distinguishing feature of DaphneSched is allowing a mix
+of self-scheduling schemes for work partitioning with work-stealing mechanisms
+for work assignment.
+Fractiling is the first strategy that combines self-scheduling and work-stealing
+schemes [34]. Fractiling determines chunk sizes globally using FAC [16] and
+chunk shapes locally using tiling, i.e., the computation space is initially di-
+vided into tiles to promote locality. Faster processors borrow decreasing size
+sub-tiles of work units from slower processors to balance loads. DaphneSched ’s
+is similar to Fractiling by separating work partitioning and work assignment.
+However, DaphneSched extends Fractiling by supporting additional work par-
+titioning schemes and victim selection strategies. Specifically, DaphneSched
+allows users to choose any self-scheduling scheme with any of the supported
+work-stealing mechanisms, i.e., tasks can be generated according to fixed, de-
+creasing, or increasing granularities. Tasks are statically distributed to workers,
+and once a worker is free and idle, it may steal tasks from neighbors. The nov-
+elty in DaphneSched is that the stolen tasks follow the chosen self-scheduling
+technique that can be any other supported technique or FAC, similar to Frac-
+tiling.
+LB4MPI [35, 36] is a research library for scheduling MPI applications. LB4MPI
+and LB4OMP [32] overlap in the set of the DLS techniques they support.
+LB4MPI and LB4OMP [32] provide the same set of DLS techniques, with
+the main distinction that LB4MPI supports loop scheduling in MPI applica-
+tions executing on distributed-memory systems. To simplify data management,
+LB4MPI currently assumes the loop data is replicated among workers. As
+LB4MPI is designed for MPI applications, DB and ML applications not us-ing MPI cannot benefit from it. Like LB4MPI, DaphneSched supports task
+scheduling on distributed-memory systems. As tasks contain both operators
+and the required data, DaphneSched relaxes LB4MPI’s current assumption of
+replicated data.
+For HPC applications, there are also multiple task-based runtime technolo-
+gies, e.g., HPX [8] and StartPU [9]. In these runtime systems, schedulers typ-
+ically support work-stealing but either use a default static amount of tasks
+to steal (usually one task) or require the user to set a fixed task granularity
+to steal throughout the execution. In contrast, DaphneSched provides a wide
+range of self-scheduling schemes for work partitioning, allowing tasks of various
+granularities: increasing, decreasing, and fixed. Thus, whenever a task-stealing
+mechanism is chosen the granularity of stolen tasks is variable and follows a
+dynamic partitioning scheme.
+3 DaphneSched: a Task-based Scheduler for In-
+tegrated Data Analysis Pipelines
+The DAPHNE infrastructure is designed to support both functional and data
+parallelism. However, the current version of the infrastructure [7] exploits data
+parallelism, meaning the input data is partitioned and the same operation (or
+small set of operations) is (are) applied to each partition simultaneously, as
+illustrated in Figure 2.
+Employing data parallelism to sparse data is challenging as the time to apply
+one operator depends on (1) the size of the partitioned data, (2) the hardware
+that executes the operator, and (3) the order of execution that respects spatial
+data locality. DaphneSched addresses these challenges as follows.
+𝑎!!⋯𝑎!"⋮⋱⋮𝑎#!⋯𝑎#"𝑏!!⋯𝑏!"⋮⋱⋮𝑏#!⋯𝑏#"ABworker1
+Workermt1𝑎!!…𝑎!"𝑏!!…𝑏!"opoptm𝑎!!…𝑎!"𝑏#!…𝑏#"op𝑐!!…𝑐!"𝑐#!…𝑐#"AssignAssignPartitionExecuteExecute𝑐!!⋯𝑐!"⋮⋱⋮𝑐#!⋯𝑐#"CCombine
+Figure 2: Data parallelism in the DAPHNE runtime system.
+From data to tasks. DaphneSched is a task-based scheduler, that converts
+inputs from the vectorized execution engine (VEE) [37], namely data and oper-
+ators, into tasks. As stated in Section 2, tasks are the smallest unit of work to
+schedule. As DAPHNE currently exploits data parallelism, the work granularity
+or task granularity is dictated by the size of the data. Since DAPHNE relies on
+dense and sparse matrix data structures [1], the smallest data size can be oneTasks of fixed sizet0tn-1c0cm-1Chunks of variable size1 Chunk ≥ 1 task+...+...++++(a) Tasks are of fixed size, with each
+chunk containing a different number
+of tasks
+c0cm-1t0tm-1Tasks of variable size+...+Chunks of fixed size1 Chunk = 1 task++(b) Tasks are of variable sizes, with
+each chunk containing one task
+Figure 3: Work granularity depends on the size of the chunk.
+row, one column, or a tile of a certain size. In fact, the proper data size should
+be considered based on the size of the lower levels of the cache of the target
+system. For simplicity, one can assume that the smallest data within a task is
+one row. The strategy of creating and executing fine-grained tasks minimizes
+load imbalance, but it comes with a high overhead that increases the execution
+time. One way to address this challenge is to still create fine-grained tasks but
+to schedule them in chunks of tasks (see Figure 3a). This approach reduces the
+overhead of scheduling individual tasks. Another approach is to create tasks of
+variable sizes (see Figure 3b). DaphneSched uses the latter approach to avoid
+the unnecessary level of abstraction (chunks of tasks). DaphneSched employs
+the self-scheduling techniques discussed in Section 2 to partition the work and
+determine the task sizes.
+Task partitioning. Figure 4 schematically illustrates the work (or task)
+partitioner that divides tasks into partitions. The task partitioner has two inter-
+face points: 1) Initialize/Update which sets the number of workers (threads),
+the partitioning scheme, and the total number of tasks. This point is also used
+to give updates regarding the runtime information to the partitioner, and 2) Get
+Task which provides a task for execution. The partitioner is intended to be used
+iteratively to support adaptive scheduling techniques. Task partitioning can
+thus be adaptive, based on runtime information. DaphneSched supports eleven
+partitioning schemes (STATIC, SS, MFSC, GSS, TFSS, FAC2, TFSS, FISS,
+VISS, PLS, PSS), discussed in Section 2. FAC2 and MFSC are two practical
+implementations of the original FAC [16] and FSC [15], respectively. Neither of
+these practical implementations requires prior application profiling data [32].
+Worker management. DaphneSched is designed to support different types
+of computing resources, e.g., CPUs, GPUs, FPGAs, and computational storage.
+The DAPHNE compiler decides the type of computing resource that executes a
+specific pipeline. The worker manager initiates workers (threads) that execute
+or interface with the corresponding devices. For instance, in the case of CPU
+workers, the worker manager creates/manages worker threads that execute the
+tasks on CPUs. It also creates worker threads that perform data transfers and
+launch kernels on target devices, such as GPUs and FPGAs.
+Queue management. The number of generated tasks is often larger than
+the number of available workers. DaphneSched offers a queuing system that
+stores tasks until workers become free to execute them. DaphneSched offersCentralized queuefor all coresPartial Distributed queues per group of cores (CPU) Centralized queuefor all GPUsCentralized queuefor all FPGAsPartial Distributed queues per group of GPUs Partial  Distributed queues per group of FPGAs Fully distributed  queue for individual coresFully distributed queue for individual GPUsFully distributed  queue for individual FGPAsWork PartitionerFPGA
+Queue managementWorkerthreads. . .
+. . .GPUCPUCPUCPUGPUGPUFPGAFPGACreate/initializeGet TaskInitialize  or Updatetx𝑎!"…𝑎!#𝑏!"…𝑏!#op#worker per type#worker#average task execution time per workerEnqueue Tasktx𝑎!"…𝑎!#𝑏!"…𝑏!#op
+Dequeue Tasktx𝑎!"…𝑎!#𝑏!"…𝑏!#opPipeline inputsA op BWorker ManagerType of workerDAPHNESchedulingLogicFigure 4: Design and internal working of DaphneSched .multiple queuing strategies, as shown in Figure 4 and described next.
+1)Centralized work queue per type of computing resource : As discussed in
+Section 2, tasks combine both data and operators to be applied to the data.
+When the DAPHNE compiler decides to map a particular operation to a specific
+device (CPU, GPU, FPGA), it generates the corresponding code that executes
+on the chosen device type. Therefore, currently, DaphneSched cannot have a
+centralized queue per multiple types of computing resources.
+2)Distributed work queues across individual workers: Each worker has a
+separate (local) work queue from which it self-obtains tasks. Once its work
+queue is empty, the worker seeks tasks from other workers. The distributed
+queues across individual workers enable work-stealing , where a free and idle
+worker (thief) steals work from other workers (victims).
+3)Distributed work queues across groups of workers: This type of queue is
+mainly to support NUMA-domains, i.e., cores that belong to the same NUMA-
+domain can share the work queue of that domain as the cost of obtaining tasks
+from this queue is much smaller compared to obtaining tasks from a queue
+residing on a different NUMA-domain.
+Extendability. The choice of work partitioning scheme has a strong impact
+on the performance of applications. For instance, when work stealing is chosen
+as a work assignment scheme, the granularity of the stolen tasks is determined by
+the chosen work partitioning scheme. Thus, the choice of the work partitioning
+scheme indirectly influences the work assignment schemes. DaphneSched is ex-
+tendable as users are allowed to modify any existing or add any new partitioning
+scheme. To accommodate custom partitioning schemes, DAPHNE developers
+need to extend the getNextChunk function.
+DaphneSched for distributed-memory systems. In Figure 5, we see
+the design extension of DaphneSched to support distributed-memory systems.
+The design reuses the DaphneSched for shared-memory systems. The dis-
+tributed DaphneSched adds a new component called coordinator that inter-
+faces with multiple instances of shared-memory DaphneScheds. The coordina-
+tor serves as an entry point that the DAPHNE runtime uses, i.e., the DAPHNE
+runtime system replies to the coordinator to divide, distribute, and collect tasks
+and results from DaphneSched instances. The DaphneSched experience minor
+modifications, i.e., they listen to incoming messages from the coordinator. The
+coordinator sends various messages/data For instance, we have 1) distributed
+pipeline inputs, 2) broadcast pipeline inputs, and 3) MLIR code. On the other
+side, the worker accepts and stores data items as they come, once the DAPHNE
+worker gets the MLIR code, it starts to generate local tasks and execute them.
+4 Experimental Evaluation and Discussion
+Applications. We evaluate DaphneSched on two IDA pipelines:
+1) Connected Components. A common product recommendation strategy
+relies on the frequency of co-purchased items, i.e., whenever product iis fre-
+quently purchased together with product j. The data of the purchased itemsCoordinator
+Local DaphneSched…DMCMBM
+Local DaphneSchedCommunication ManagerDMCMBM
+Local DaphneSchedCommunication ManagerDMCMBMBM: Broadcast MessageCM: Compute MessageDM: Distribute MessageRM: Ready MessageCommunication ManagerRMRMRMDataMLIRSyncFigure 5: DaphneSched for distributed-memory systems.
+can be stored as a sparse matrix where rows and columns are products and
+the intersection between the ithrow and the jthcolumn is 1 whenever products
+iandjare co-purchased. We use the Connected Components algorithm from
+graph theory to identify co-purchased products. The connected components al-
+gorithm is implemented in DaphneDSL as shown in Listing 1. Figure 6a shows
+the different components of the IDA in the connected components algorithm as
+realized by DaphneSched .
+1# Connected components .
+2# Arguments : - f ... adjacency matrix filename
+3# Read adjacency matrix .
+4G = readMatrix ( $f);
+5# Initializations .
+6n = nrow (G);
+7maxi = 100;
+8c = seq (1, n);
+9diff = inf ;
+10iter = 1;
+11# Iterative computation .
+12while (diff >0 & iter <= maxi ) {
+13u = max ( rowMaxs (G * t(c)), c); # Neighbor propagation
+14diff = sum (u != c); # Changed vertices .
+15c = u; # Update assignment .
+16iter = iter + 1;
+17}
+Listing 1: Connected components algorithm in DaphneDSL [1].readMatrixGseqCtransposeintermediate1EWBinaryMatMulAggRowEWBinaryMatMaxfilenamestart=1end=nmaxintermediate2U(a) Connected components
+randMatrixseqnumRowsnumColsmeanColconstants
+stddevColfillEWSubtractionEWDivisionextractColgemvsyrksolvebeta
+(b) Linear regression
+Figure 6: IDA pipelines as realized by the DAPHNE system.We use the Stanford SNAP co-purchasing products of Amazon [38, 39] as an
+input data set for the connected components algorithm. In this data set, if two
+products are frequently co-purchased, a directed edge is created between them.
+The data set has 403,394 nodes and 3,387,388 edges. A scale-up factor of 50
+was applied to the source data set, resulting in an input matrix with 20,169,700
+nodes and 244,340,800 two-directional edges [39].
+2) Linear Regression is the most well-known and widely-used type of pre-
+dictive analysis. It is used in various domains to predict the value of a variable
+based on the value of other known variables. Extracting a linear regression
+model requires solving a linear system of equations. The algorithm in Listing 2
+trains a linear regression model. A random matrix XYis generated. The last col-
+umn of XYcontains the target variable, Y, and the remaining columns represent
+the features, X. The code solves the linear system Ax=b, where the solution
+represents the coefficients of the linear regression model. Figure 6b shows the
+different components of the IDA in the linear regression model as realized by
+DaphneSched . We use a a randomly generated matrix as an input data set for
+the linear regression application.
+1# Linear regression model training on random data .
+2# Data generation (in double precision ).
+3XY = rand ( $numRows , $numCols , 0.0 , 1.0 , 1, -1);
+4# Extraction of X and y.
+5X = XY[, seq (0, as. si64 ( $numCols ) - 2, 1) ];
+6y = XY[, seq(as. si64 ( $numCols ) - 1, as. si64 ( $numCols ) - 1, 1) ];
+7# Normalization , standardization .
+8Xmeans = mean (X, 1);
+9Xstddev = stddev (X, 1);
+10X = (X - Xmeans ) / Xstddev ;
+11X = cbind (X, fill (1.0 , nrow (X), 1));
+12A = syrk (X);
+13lambda = fill (0.001 , ncol (X), 1);
+14A = A + diagMatrix ( lambda );
+15b = gemv (X, y);
+16beta = solve (A, b);
+Listing 2: Linear Regression algorithm in DaphneDSL [1].
+Target systems. We used a two-socket Intel E5-2640 v4 (Broadwell), each
+with 10 cores, and a two-socket Intel Xeon Gold 6258R (Cascade Lake), each
+with 28 cores. The Broadwell and the Cascade Lake processors have 64 GB and
+1500 GB RAM, respectively.
+Results. In the experiments herein, we compare various partitioning and as-
+signment schemes against DAPHNE’s default STATIC scheduling. In an earlier
+study, DAPHNE’s STATIC scheduling outperformed established data analysis
+ecosystems [1]. Figure 7a shows the performance of the connected components
+algorithm on the Broadwell processor. These results indicate that almost all
+scheduling techniques outperform the default STATIC , with MFSC bringing the
+largest performance gain of 13.2%. The exception is FISS , with the application
+requiring 13.6s with FISS and 13.1s with STATIC . STATIC scheduling results
+in a few but coarse-grain tasks (one per worker). Such task partitioning is notoptimal for the connected components algorithm with its highly sparse input
+data set (only 0.002% are none-zeros) [39].
+The results in Figure 7b show a similar behavior, where MFSC delivers the
+largest performance gain of 8.3% compared to the default STATIC scheduling.
+STATIC is still the least-performing scheduling technique on Cascade Lake. The
+performance differences between all DLS techniques are minor (6% difference in
+application execution times).
+The differences between the DLS techniques on Broadwell are almost double
+compared to the differences on Cascade Lake. This is because the Cascade Lake
+processor has more than double (56 cores) the number of cores on Broadwell (20
+cores), which results in a more uniform work partitioning and assignment among
+the cores. For instance, let us assume that the total number of tasks is 56. All
+DLS techniques on the Cascade Lake processor will perform similarly, indicating
+that regardless of the technique, there is a high possibility that each worker
+gets one task, and thus, resulting in a uniform task distribution. This work
+distribution does not guarantee load balancing, as if the variation in execution
+time between tasks is significant, the execution will be imbalanced regardless of
+the work distribution technique.
+We also notice that, in general, the performance of the connected compo-
+nents algorithm on the Cascade Lake processor is lower than on the Broadwell
+processor. This is because of the performance cost of having a higher number
+of threads accessing locks simultaneously and the granularity of a single task
+execution time. To confirm this observation, we conducted certain experiments
+with SS, which considers the smallest task granularity of 1 task. We observed
+that the execution time explodes (tens of orders of magnitude) as many threads
+access the locks of the work queue, simultaneously. We omitted the results of
+SSon both platforms because adding these results in Figures 7a and 7b would
+occlude any insight.
+Figure 8 shows the performance of the connected components algorithm
+when tasks are placed in multiple work queues . We observe that independent
+of the victim selection strategy, STATIC scheduling is not the lowest-performing
+technique, as in Figure 8b. In fact, for the SEQPRI strategy, STATIC is the
+highest-performing technique and even better than STATIC with a centralized
+queue (Fig. 7a). This can be justified as follows: whenever the per CPU queue
+layout is chosen, DaphneSched initially partitions the data into a number of
+blocks that equals the total number of target CPUs. This step results in im-
+proved spatial data locality, meaning threads executing on cores within one
+CPU will have tasks from the same partition. In contrast, in Figure 8a, we ob-
+serve that STATIC scheduling is the lowest-performing technique, regardless of
+the victim selection strategy. We also observe that the performance of STATIC
+here is very close to the performance of STATIC in Figure 7a (one centralized
+work queue). This is because there is no pre-partitioning in both cases, i.e.,
+workers (threads) arbitrarily obtain tasks in arbitrary order, and thus, threads
+executing on cores that share the lower level caches, or the NUMA domain may
+not have consecutive tasks (non-contiguous memory access).
+Figure 9b confirms this rationale, where STATIC is the highest-performingSTATIC GSS MFSC TSS FAC2 TFSS FISS VISS PLS PSS
+DLS techniques101214161820Application execution time(s)Connected Components
+ Centralized queue  on Intel Broadwell processor (2x10 cores)
+Best median
+Worst median(a) Connected components on Broadwell: The largest performance gain is
+byMFSC, 13 .2% faster than the default STATIC scheduling.
+STATIC GSS MFSC TSS FAC2 TFSS FISS VISS PLS PSS
+DLS techniques101214161820Application execution time(s)Connected Components
+ Centralized queue on Intel Cascade Lake processor (2x28 cores)
+Best median
+Worst median
+(b) Connected components on Cascade Lake: The largest performance gain
+is by MFSC, 8 .3% faster than the default STATIC scheduling.
+Figure 7: DAPHNE performance (execution time) of the connected components
+with one centralized work queue.technique on the Cascade Lake processor independent of the victim selection
+strategy.
+MFSC shows an interesting behaviour in Figures 8a and 8b. Regardless of the
+victim selection strategy, in Figure 8a, MFSC is among the highest-performing
+scheduling options, while in figure 8b, MFSC is among the lowest-performing
+techniques. This is due to lock contention , i.e., in the case of PERCPU , the
+pre-partitioning results in decreasing the granularity of the tasks for MFSC by
+1
+#CPU. Thus, the execution time of individual tasks becomes extremely short,
+and workers tend to simultaneously access the shared queue more often resulting
+in high contention that hinders the potential of MFSC .
+In Figure 8a, the highest performance is observed with TFSS and the RNDPRI
+victim selection strategy. In general, for the PERCORE work queue, TFSS schedul-
+ing, and SEQvictim selection yield the highest performance for the connected
+components on both processors.
+Figures 10a and 10b show the performance of the linear regression model
+executed with DAPHNE on the two systems. The highest performing schedul-
+ing technique in both cases is STATIC . All other techniques have much lower
+performance. For instance, in Figure 10a, the linear regression executed in al-
+most double the time with MFSC ,TFSS ,PLS, and PSSthan STATIC scheduling.
+This is because the input matrices to the linear regression application are dense ,
+which is the opposite of the connected components algorithm. This leads to a
+rather load balanced execution. In such cases, employing DLS techniques may
+lead to performance degradation. Moreover, the scheduling overhead can artifi-
+cially introduce load imbalance. This can happen, for instance, when a worker
+self-obtains a task and experiences contention on the work queue to retrieve
+it. Since this contention may not occur throughout the entire application ex-
+ecution to every worker, the scheduling overhead may vary and contribute to
+the overall load imbalance. In the case of linear regression, none of the DLS
+techniques achieve higher performance than STATIC due to the absence of load
+imbalance and associated scheduling overhead. Figure 10b shows similar results
+and performance observations on Cascade Lake to those of Broadwell.
+5 Conclusion and Future Work
+DAPHNE is a software infrastructure that efficiently executes integrated data
+analysis pipelines, with DaphneSched at the core of its task scheduling. Daph-
+neSched is designed to schedule IDA pipelines with both highly sparse (e.g.,
+connected components algorithm) or highly dense (e.g., linear regression model)
+input data sets. DaphneSched provides a wide range of scheduling schemes for
+task partitioning and assignment, including self-scheduling and work-stealing.
+We showed that the number of workers and the work queues layout have a sig-
+nificant impact on the performance achievable with DaphneSched . Specifically,
+when multiple workers concurrently access a single work queue, the lock con-
+tention on the queue results in notable performance penalties, which can lead
+to performance degradation. For the two applications considered, the choice ofSTATICGSSMFSCTSSFAC2 TFSS FISS VISS PLS PSS
+DLS techniquesSEQ
+SEQPRI
+RND
+RNDPRIVictim selection13.24 11.89 11.53 11.63 11.66 11.60 12.50 11.59 12.71 12.16
+13.45 11.97 11.23 11.50 11.89 11.40 12.72 11.61 11.89 11.73
+13.52 12.18 11.30 11.85 11.56 11.80 12.42 11.56 11.94 12.61
+12.70 12.02 11.23 11.99 11.51 11.22 12.37 11.33 12.37 11.80Connected Components
+ multiple work queues (one per core) (Intel Broadwell)
+11.512.012.513.013.5Application execution time (s)(a) per core
+STATICGSSMFSCTSSFAC2 TFSS FISS VISS PLS PSS
+DLS techniquesSEQ
+SEQPRI
+RND
+RNDPRIVictim selection12.63 12.32 13.24 12.71 13.45 13.20 12.56 13.27 13.53 13.15
+12.39 12.34 13.48 13.11 12.98 13.11 13.23 12.60 13.79 13.21
+12.92 12.48 13.97 12.89 12.87 12.93 13.60 13.20 13.67 13.24
+12.26 12.47 14.11 12.96 12.96 13.49 13.45 13.21 13.00 13.53Connected Components
+ multiple work queues (one per CPU) (Intel Broadwell)
+12.5012.7513.0013.2513.5013.7514.00Application execution time (s)
+(b) per CPU
+Figure 8: Execution time of the connected components with DAPHNE, using
+multiple work queues - Intel Broadwell.STATICGSSMFSCTSSFAC2 TFSS FISS VISS PLS PSS
+DLS techniquesSEQ
+SEQPRI
+RND
+RNDPRIVictim selection16.92 16.85 16.52 16.26 16.18 16.09 16.84 16.27 16.68 16.64
+17.52 16.89 16.59 16.12 16.38 16.65 16.97 16.54 16.56 16.41
+17.33 16.87 16.59 16.46 16.62 16.55 17.09 16.24 16.68 16.92
+17.28 16.45 16.41 16.45 16.31 16.41 16.57 16.33 16.75 16.63Connected Components
+ multiple work queues (one per core) (Intel Cascade Lake)
+16.216.416.616.817.017.217.4Application execution time (s)(a) per core
+STATICGSSMFSCTSSFAC2 TFSS FISS VISS PLS PSS
+DLS techniquesSEQ
+SEQPRI
+RND
+RNDPRIVictim selection17.50 19.60 21.03 18.11 19.92 21.13 17.98 18.84 19.54 20.49
+17.86 19.06 20.73 18.17 19.78 20.96 18.04 18.44 19.79 20.45
+17.93 19.41 20.95 18.35 20.46 21.18 18.09 19.15 19.66 20.84
+18.14 19.22 21.24 18.59 20.49 21.25 18.12 19.23 19.76 21.10Connected Components
+ multiple work queues (one per CPU) (Intel Cascade Lake)
+17.518.018.519.019.520.020.521.0Application execution time (s)
+(b) per CPU
+Figure 9: Execution time of the connected components with DAPHNE, using
+multiple work queues - Intel Cascade Lake.STATIC GSS MFSC TSS FAC2 TFSS FISS VISS PLS PSS
+DLS techniques101520253035404550Application execution time(s)Linear regression
+ Centralized queue on Intel Broadwell processor (2x10 cores)
+Best median
+Worst median(a) Linear regression on Broadwell: The fastest scheduling technique is the
+default STATIC scheduling. The next fastest scheduling techniques are
+TSS and FISS, which are 16% and 24% worse than STATIC, respectively.
+STATIC GSS MFSC TSS FAC2 TFSS FISS VISS PLS PSS
+DLS techniques0510152025303540Application execution time(s)Linear regression
+ Centralized queue on Intel Cascade Lake processor (2x28 cores)
+Best median
+Worst median
+(b) Linear regression on Cascade Lake: The fastest scheduling technique is
+the default STATIC scheduling. The next fastest scheduling techniques are
+TSS and FISS which are 50% and 60% worse than STATIC, respectively.
+Figure 10: Execution time of linear regression with DAPHNE, using a central-
+ized work queue.the victim selection strategy is less critical than the choice of the work queue
+layout.
+The lock contention on a single work queue seems to be a significant challenge
+that limits the potential of DaphneSched in certain cases. Further investigation
+of implementation alternatives is required to eliminate this limitation. We will
+consider atomic operations to access the queue instead of locks. Another limita-
+tion in the current version of DaphneSched is the lack of support for distributed-
+memory systems. There are ongoing efforts to support distributed scheduling
+with DaphneSched via MPI and RPC [37]. Another important aspect is the
+multitude of scheduling options available in DaphneSched that renders the of-
+fline or online selection of the right scheduling option for an application-system
+pair very challenging. We plan to extend DaphneSched to support automatic
+selection of high performing scheduling algorithms and configurations.
+Acknowledgements
+This project received funding from the European Union’s Horizon 2020 research
+and innovation programme under grant agreement No 957407 as DAPHNE. The
+authors also acknowledge Jonathan Giger and Gabrielle Poerwawinata for their
+earlier contributions to DaphneSched.
+References
+[1] P. Damme, M. Birkenbach, C. Bitsakos, M. Boehm, P. Bonnet, F. M.
+Ciorba, M. Dokter, P. Dowgiallo, A. Eleliemy, C. Faerber, G. Goumas,
+D. Habich, N. Hedam, M. Hofer, W. Huang, K. Innerebner, V. Karakostas,
+R. Kern, T. Kosar, D. Krems, A. Laber, W. Lehner, E. Mier, M. Paradies,
+B. Peischl, G. Poerwawinata, S. Psomadakis, T. Rabl, P. Ratuszniak,
+A. Starzacher, P. Silva, N. Skuppin, B. Steinwender, I. Tolovski, P. T¨ oz¨ un,
+W. Ulatowski, Y. Wang, I. Wrosz, A. Zamuda, C. Zhang, and X. Zhu,
+“DAPHNE: An Open and Extensible System Infrastructure for Integrated
+Data Analysis Pipelines,” in the 12th Annual Conference on Innovative
+Data Systems Research (CIDR 22) , 2022.
+[2] E. Deelman, K. Vahi, G. Juve, M. Rynge, S. Callaghan, P. J. Maechling,
+R. Mayani, W. Chen, R. Ferreira da Silva, M. Livny, and K. Wenger,
+“Pegasus, a workflow management system for science automation,” Future
+Generation Computer Systems , vol. 46, pp. 17–35, 2015.
+[3] J. Sevilla, L. Heim, A. Ho, T. Besiroglu, M. Hobbhahn, and P. Villalobos,
+“Compute Trends Across Three Eras of Machine Learning,” in Interna-
+tional Joint Conference on Neural Networks , 2022, pp. 1–8.
+[4] N. Ihde, P. Marten, A. Eleliemy, G. Poerwawinata, P. Silva, I. Tolovski,
+F. M. Ciorba, and T. Rabl, in Technology Conference on Performance
+Evaluation and Benchmarking . Springer, 2021, pp. 98–118.[5] P. Cheng, Y. Lu, Y. Du, and Z. Chen, “Experiences of Converging Big
+Data Analytics Frameworks with High Performance Computing Systems,”
+inAsian Conference on Supercomputing Frontiers . Springer, 2018, pp.
+90–106.
+[6] J. R. Lill, W. R. Mathews, C. M. Rose, and M. Schirle, “Proteomics in the
+Pharmaceutical and Biotechnology Industry: a Look to the Next Decade,”
+Expert Review of Proteomics , vol. 18, no. 7, pp. 503–526, 2021.
+[7] “DAPHNE,” https://daphne-eu.eu, Accessed: June 21, 2023.
+[8] H. Kaiser, T. Heller, B. Adelstein-Lelbach, A. Serio, and D. Fey, “HPX: A
+Task-based Programming Model in a Global Address Space,” in Proceedings
+of the 8th International Conference on Partitioned Global Address Space
+Programming Models , 2014, pp. 1–11.
+[9] C. Augonnet, S. Thibault, R. Namyst, and P.-A. Wacrenier, “StarPU: a
+Unified Platform for Task Scheduling on Heterogeneous Multicore Architec-
+tures,” in Euro-Par 2009 Parallel Processing: 15th International Euro-Par
+Conference, Delft, The Netherlands , 2009, pp. 863–874.
+[10] L. V. Kale and S. Krishnan, “Charm++ a Portable Concurrent Object Ori-
+ented System Based on C++,” in Proc. 8th Annual Conference on Object-
+oriented Programming Systems, Languages, and Applications , 1993, pp.
+91–108.
+[11] M. Abadi, A. Agarwal, P. Barham, E. Brevdo, Z. Chen, C. Citro, G. S. Cor-
+rado, A. Davis, J. Dean, M. Devin, S. Ghemawat, I. Goodfellow, A. Harp,
+G. Irving, M. Isard, Y. Jia, R. Jozefowicz, L. Kaiser, M. Kudlur, J. Lev-
+enberg, D. Man´ e, R. Monga, S. Moore, D. Murray, C. Olah, M. Schuster,
+J. Shlens, B. Steiner, I. Sutskever, K. Talwar, P. Tucker, V. Vanhoucke,
+V. Vasudevan, F. Vi´ egas, O. Vinyals, P. Warden, M. Wattenberg, M. Wicke,
+Y. Yu, and X. Zheng, “ TensorFlow: Large-Scale Machine Learning on Het-
+erogeneous Systems,” 2015.
+[12] H. Li, S. Tandri, M. Stumm, and K. C. Sevcik, “Locality and loop schedul-
+ing on numa multiprocessors,” in Proceedings of the International Confer-
+ence on Parallel Processing , 1993, pp. 140–147.
+[13] C. D. Polychronopoulos and D. J. Kuck, “Guided Self-Scheduling: A Prac-
+tical Scheduling Scheme for Parallel Supercomputers,” IEEE Transactions
+on Computers , vol. 100, no. 12, pp. 1425–1439, 1987.
+[14] T. H. Tzen and L. M. Ni, “Trapezoid Self-Scheduling: A Practical Schedul-
+ing Scheme for Parallel Compilers,” IEEE Transactions on Parallel and
+Distributed Systems , vol. 4, no. 1, pp. 87–98, 1993.
+[15] C. P. Kruskal and A. Weiss, “Allocating Independent Subtasks on Paral-
+lel Processors,” IEEE Transactions on Software Engineering , vol. SE-11,
+no. 10, pp. 1001–1016, 1985.[16] S. Flynn Hummel, E. Schonberg, and L. E. Flynn, “Factoring: A Method
+for Scheduling Parallel Loops,” Journal of Communications of the ACM ,
+vol. 35, no. 8, pp. 90–101, 1992.
+[17] T. Philip and C. R. Das, “Evaluation of Loop Scheduling Algorithms on
+Distributed Memory Systems,” in Proc. of the International Conference on
+Parallel and Distributed Computing Systems , 1997, pp. 76–94.
+[18] W. Shih, C. Yang, and S. Tseng, “A Performance-based Parallel Loop
+Scheduling on Grid Environments,” Journal of Supercomputing , vol. 41,
+no. 3, pp. 247–267, 2007.
+[19] M. Girkar, A. Kejariwal, X. Tian, H. Saito, A. Nicolau, A. Veidenbaum,
+and C. Polychronopoulos, “Probablistic self-scheduling,” in 2006 Parallel
+Processing: 12th Int. Euro-Par Conference , 2006, pp. 253–264.
+[20] S. Perarnau and M. Sato, “Victim Selection and Distributed Work Stealing
+Performance: A Case Study,” in 2014 IEEE 28th International Parallel and
+Distributed Processing Symposium , 2014, pp. 659–668.
+[21] C. R. Harris, K. J. Millman, S. J. Van Der Walt, R. Gommers, P. Virtanen,
+D. Cournapeau, E. Wieser, J. Taylor, S. Berg, N. J. Smith et al. , “Array
+Programming With NumPy,” Nature , vol. 585, no. 7825, pp. 357–362, 2020.
+[22] F. Morandat, B. Hill, L. Osvald, and J. Vitek, “Evaluating the Design of
+the R Language: Objects and Functions for Data Analysis,” in ECOOP
+2012–Object-Oriented Programming: 26th European Conference, Beijing,
+China, June 11-16, 2012. Proceedings 26 , 2012, pp. 104–131.
+[23] M. Boehm, I. Antonov, S. Baunsgaard, M. Dokter, R. Ginth¨ or, K. In-
+nerebner, F. Klezin, S. Lindstaedt, A. Phani, B. Rath et al. , “SystemDS:
+A Declarative Machine Learning System for the End-to-End Data Science
+Lifecycle,” arXiv preprint arXiv:1909.02976 , 2019.
+[24] J. Bezanson, S. Karpinski, V. B. Shah, and A. Edelman, “Julia:
+A Fast Dynamic Language for Technical Computing,” arXiv preprint
+arXiv:1209.5145 , 2012.
+[25] F. M. Ciorba, P. Damme, A. Eleliemy, V. Karakostas, and G. Poerwaw-
+inata, “D5.1 Scheduler Design for Pipelines and Tasks,” 2022.
+[26] T. Peiyi and Y. Pen-Chung, “Processor Self-scheduling for Multiple-nested
+Parallel Loops,” in Proceedings of the International Conference on Parallel
+Processing , 1986, pp. 528–535.
+[27] A. T. Chronopoulos, R. Andonie, M. Benche, and D. Grosu, “A Class of
+Loop Self-scheduling for Heterogeneous Clusters,” in Proceedings of Inter-
+national Conference on Cluster Computing , 2001, pp. 282–291.[28] A. Eleliemy and F. M. Ciorba, “A Distributed Chunk Calculation Ap-
+proach for Self-scheduling of Parallel Applications on Distributed-memory
+Systems,” J. of Computational Sci. , vol. 51, p. 101284, 2021.
+[29] S. Penmatsa, A. T. Chronopoulos, N. T. Karonis, and B. R. Toonen, “Im-
+plementation of Distributed Loop Scheduling Schemes on the TeraGrid,”
+inInternational Parallel and Distributed Processing Symposium , 2007.
+[30] A. T. Chronopoulos, L. M. Ni, and S. Penmatsa, “Multi-dimensional Dy-
+namic Loop Scheduling Algorithms,” in International Conference on Clus-
+ter Computing , 2007.
+[31] Q. Chen and M. Guo, Task Scheduling for Multi-core and Parallel archi-
+tectures , 1st ed. Springer Publishing Company, Incorporated, 2017.
+[32] J. H. M. Kornd¨ orfer, A. Eleliemy, A. Mohammed, and F. M. Ciorba,
+“LB4OMP: A Dynamic Load Balancing Library for Multithreaded Appli-
+cations,” IEEE Transactions on Parallel and Distributed Systems , vol. 33,
+no. 4, pp. 830–841, 2022.
+[33] J. Giger, “Task Self-Scheduling in OpenMP,” Master’s thesis, University
+of Basel, 2021.
+[34] S. F. Hummel, I. Banicescu, C.-T. Wang, and J. Wein, “Load Balancing
+and Data Locality via Fractiling: An Experimental Study,” Languages,
+Compilers and Run-Time Sys. for Scalable Computers , pp. 85–98, 1996.
+[35] A. Mohammed, A. Eleliemy, and F. M. Ciorba, “Performance Reproduc-
+tion and Prediction of Selected Dynamic Loop Scheduling Experiments,”
+inProceedings of the 2018 International Conference on High Performance
+Computing and Simulation (HPCS 2018) , July 2018.
+[36] A. Mohammed, A. Eleliemy, F. M. Ciorba, F. Kasielke, and I. Banicescu,
+“An Approach for Realistically Simulating the Performance of Scientific
+Applications on High Performance Computing Systems,” Future Genera-
+tion Computer Systems (FGCS) , 2019.
+[37] V. Karakostas, G. Goumas, S. Psomadakis, B. M. Vontzalidis, Aristotelis,
+P. Damme, M. Docker, F. M. Ciorba, A. Eleliemy, G. Poerwawinata,
+P. Tozun, A. Zamuda, J. Brest, B. Boˇ skovi´ c, M. Ojsterˇ sek, T. Kosar, and
+M. Moravec, “D4.1 DAPHNE Runtime Design,” 2022.
+[38] J. Leskovec and A. Krevl, “SNAP Datasets: Stanford Large Network
+Dataset Collection,” http://snap.stanford.edu/data, 2014.
+[39] J. Leskovec, L. A. Adamic, and B. A. Huberman, “The Dynamics of Viral
+Marketing,” ACM Transactions on the Web , vol. 1, no. 1, 2007.

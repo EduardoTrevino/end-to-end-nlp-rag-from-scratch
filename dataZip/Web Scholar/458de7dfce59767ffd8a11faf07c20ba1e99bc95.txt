@@ -1,0 +1,1454 @@
+The Levin approach to the numerical calculation of phase functions
+Murdock Aubry ·James Bremer
+Abstract When the eigenvalues of the coefficient matrix for a linear scalar ordinary differential equation are
+of large magnitude, its solutions exhibit complicated behaviour, such as high-frequency oscillations, rapid
+growth or rapid decay. The cost of representing such solutions using standard techniques typically grows
+with the magnitudes of the eigenvalues. As a consequence, the running times of standard solvers for ordinary
+differential equations also grow with these eigenvalues. It is well known, however, that a large class of scalar
+ordinary differential equations with slowly-varying coefficients admit slowly-varying phase functions that
+can be represented efficiently, regardless of the magnitudes of the eigenvalues of the corresponding coefficient
+matrix. Here, we introduce two numerical algorithms for constructing slowly-varying phase functions for
+linear scalar ordinary differential equations inspired by the classical Levin method for evaluating oscillatory
+integrals. The running times of our algorithms depend on the complexity of an equation’s coefficients, but
+are largely independent of the magnitudes of the eigenvalues of its coefficient matrix. Once these phase
+functions have been constructed, essentially any reasonable initial or boundary value problem for the scalar
+equation can be easily solved, essentially instantaneously. The results of extensive numerical experiments
+demonstrating the properties of our algorithms are presented.
+Keywords Ordinary differential equations ·Fast algorithms ·Phase functions
+1 Introduction
+The cost to represent the solutions of an nthorder linear homogeneous ordinary differential equation
+y(n)(t) +qn−1(t)y(n−1)(t) +···+q1(t)y′(t) +q0(t)y(t) = 0 (1)
+using standard techniques, such as polynomial or trigonometric expansions, increases with the magnitudes
+of the eigenvalues λ1(t), . . . , λ n(t) of the coefficient matrix
+A(t) =
+0 1 0 ··· 0 0
+0 0 1 ··· 0 0
+.........
+0 0 0 ··· 1 0
+0 0 0 ··· 0 1
+−q0(t)−q1(t)−q2(t)··· − qn−2(t)−qn−1(t)
+(2)
+obtained from (1) in the usual way. As a consequence, when conventional solvers for ordinary differential
+equations are applied to equations of this form, their running times also increase with the magnitudes of
+the eigenvalues of (2).
+It is well known, however, that many such equations admit phase functions whose cost to represent via
+standard methods depends on the complexity of the coefficients q0, . . . , q n−1, but not the magnitudes of the
+eigenvalues of (2). Indeed, if the q0, . . . , q n−1are slowly-varying on an interval Iand the coefficient matrix
+Murdock Aubry
+University of Toronto
+E-mail: murdock.aubry@mail.utoronto.ca
+James Bremer
+Department of Mathematics
+University of Toronto
+E-mail: bremer@math.toronto.eduarXiv:2308.03288v2  [math.NA]  14 Sep 20232 Murdock Aubry, James Bremer
+(2) corresponding to (1) has eigenvalues λ1(t), . . . , λ n(t) which are distinct for all tinI, then it is possible
+to find slowly-varying functions ψ1, . . . , ψ n:I→Csuch that
+exp(ψj(t)):j= 1, . . . , n	(3)
+is a basis for the space of solutions of (1) given on the interval I. This observation is the foundation of
+the WKB method, as well as many other techniques for the asymptotic analysis of ordinary differential
+equations (see, for instance, [14], [18] and [17,15,16]).
+An equation of the form (1) is said to be nondegenerate on the interval Iprovided the above condition
+holds; that is, if all of the eigenvalues λ1(t), . . . , λ n(t) of the corresponding coefficient matrix (2) are distinct
+for each t∈I. Moreover, t0is a turning point for (1) if the eigenvalues of (2) are distinct in a deleted
+neighbourhood of t0but coalesce at t0. The derivatives of the phase functions ψ1, . . . , ψ n, which we will
+denote by r1, . . . , r n, satisfy an ( n−1)storder nonlinear inhomogeneous ordinary differential equation, the
+general form of which is quite complicated. When n= 2, it is the Riccati equation
+r′(t) + (r(t))2+q1(t)r(t) +q0(t) = 0; (4)
+when n= 3, the nonlinear equation is
+r′′(t) + 3 r′(t)r(t) + (r(t))3+q2(t)r′(t) +q2(t)(r(t))2+q1(t)r(t) +q0(t) = 0; (5)
+and, for n= 4, we have
+r′′′(t) + 4 r′′(t)r(t) + 3( r′(t))2+ 6r′(t)(r(t))2+ (r(t))4+q3(t)(r(t))3+q3(t)r′′(t) + 3 q3(t)r′(t)r(t)
++q2(t)(r(t))2+q2(t)r′(t) +q1(t)r(t) +q0(t) = 0 .(6)
+By a slight abuse of terminology, we will refer to the ( n−1)storder nonlinear equation obtained by inserting
+the representation
+y(t) = expZ
+r(t)dt
+(7)
+into (1) as the ( n−1)storder Riccati equation, or, alternatively, the Riccati equation for (1).
+An obvious approach to initial and boundary value boundary problems for (1) calls for constructing a suit-
+able collection of slowly-varying phase functions by solving the corresponding Riccati equation numerically.
+Doing so is not as straightforward as it sounds, however. The principal difficulty is that most solutions of
+the Riccati equation for (1) are rapidly-varying when the eigenvalues λ1(t), . . . , λ n(t) are of large magnitude,
+and some mechanism is needed to select the slowly-varying solutions.
+The article [3] introduces such a technique for the case of second order linear ordinary differential equations,
+all of which can be put in the form
+y′′(t) +q(t)y(t) = 0 . (8)
+The eigenvalues of the corresponding coefficient matrix (2) are given by
+λ1(t) =p
+−q(t) and λ2(t) =−p
+−q(t). (9)
+In particular, (8) is nondegenerate on any interval on which qdoes not vanish, and t0is a turning point if
+and only if qhas an isolated zero there. The algorithm of [3] can only be applied on intervals Ion which
+(8) is nondegenerate. It uses a continuation scheme of sorts to compute the values of the derivatives r1
+andr2of the desired slowly-varying phase functions ψ1andψ2at a particular point cinI. The Riccati
+equation is then solved using r1(c) and r2(c) as initial conditions in order to calculate r1andr2over the
+whole interval. The slowly-varying phase functions are obtained by integration.
+A simple modification of the algorithm of [3], described in [4], extends it to the case in which qis nonzero
+on an interval [ a, b], except at a finite number of isolated zeros; that is, when (8) is nondegenerate over
+[a, b] with a finite number of turning points. The algorithm operates by introducing a partition a=ξ1<
+ξ2< . . . < ξ k=bof [a, b] such that ξ2, . . . , ξ k−1are the roots of qin the open interval ( a, b). Then, for each
+j= 1, . . . , k −1, the algorithm constructs two slowly-varying phase functions ψj
+1andψj
+2such that
+exp
+ψj
+1(t)
+and exp
+ψj
+2(t)
+(10)
+comprise a basis in the space of solutions of (8) given on the interval [ξj, ξj+1]using the approach of [3].
+It is necessary to partition [ a, b] because slowly-varying phase functions cannot always be extended across
+a turning point. It is relatively straightforward to generalize the method of [3,4] to higher order scalar
+equations. However, that is not the approach we take in this article. The authors have found that while theThe Levin approach to the numerical calculation of phase functions 3
+resulting algorithm is highly-effective in the case of a large collection of equations of the form (1), it has
+properties very similar to another approach discussed in this paper, but with slightly inferior performance.
+In this article, we describe two methods for constructing a collection ψ1, . . . , ψ nof slowly-varying phase
+functions such that (3) is a basis in the space of solutions of (1). Both are inspired by the classical Levin
+approach to the numerical evaluation of oscillatory integrals. Introduced in [10], the Levin method is based
+on the observation that inhomogeneous equations of the form
+y′(t) +p0(t)y(t) =f(t) (11)
+admit solutions whose complexity depends on that of p0andf, but not on the magnitude of p0. This
+principle extends to the case of equations of the form
+y(n)(t) +pn−1(t)y(n−1)(t) +···+p1(t)y′(y) +p0(t)y(t) =f(t). (12)
+That is, such equations admit solutions whose complexity depends on that of the right-hand side fand
+of the coefficients p0, . . . , p n−1, but not on the magnitudes of the p0, . . . , p n−1. We exploit this principle
+by applying Newton’s method to the Riccati equation for (1). Starting with a slowly-varying initial guess
+ensures that each of linearized equations which arise are of the form (12), and so admit a slowly-varying
+solution. Consequently, a slowly-varying solution of the Riccati equation can be constructed via Newton’s
+method as long as an appropriate slowly-varying initial guess is known. Conveniently enough, there is an
+obvious mechanism for generating nslowly-varying initial guesses for the solution of the ( n−1)storder
+Riccati equation. In particular, the eigenvalues λ1(t), . . . , λ n(t) of the matrix (2), which are often used as
+low-accuracy approximations of solutions of the Riccati equation in asymptotic methods, are suitable as
+initial guesses for the Newton procedure.
+Complicating matters is the fact that the differential operator
+D[y](t) =y(n)(t) +pn−1(t)y(n−1)(t) +···+p1(t)y′(y) +p0(t)y(t) (13)
+appearing on the left-hand side of (12) admits a nontrivial nullspace comprising all solutions of the homo-
+geneous equation
+y(n)(t) +pn−1(t)y(n−1)(t) +···+p1(t)y′(y) +p0(t)y(t) = 0 . (14)
+This means, of course, that (12) is not uniquely solvable. But it also implies that most solutions of (12) are
+rapidly-varying when the coefficients p0, . . . , p n−1are of large magnitude since the homogeneous equation
+(14) admits rapidly-varying solutions in such cases. It is observed in [10] that when the solutions of (14)
+are all rapidly-varying but (12) admits a slowly-varying solution y0, a simple spectral collocation method
+can be used to compute y0provided some care is taken in choosing the discretization grid. In particular,
+if the collocation grid is sufficient to resolve the slowly-varying solution y0, but not the solutions of (14),
+then the matrix discretizing (13) will be well-conditioned and inverting it will yield y0.
+We refer to the first of the algorithms introduced here as the global Levin method. It operates by subdividing
+[a, b] until, on each resulting subinterval, every one of the slowly-varying phase functions ψ1, . . . , ψ nit
+constructs is accurately represented by a Chebyshev expansion of a fixed order. The derivatives r1, . . . , r n
+of the phase functions ψ1, . . . , ψ nare calculated on each subinterval by applying Newton’s method to the
+Riccati equation and solving the resulting linearized equations via a spectral collocation method. The
+method is highly accurate and effective, as long as the eigenvalues λ1(t), . . . , λ n(t) of the coefficient matrix
+(2) are of large magnitude on the entire interval [ a, b]. In this case, each slowly-varying solution of the Riccati
+equation is isolated from the others so that the linear operators which arise during the Newton procedure
+have no slowly-varying elements in their nullspaces. Consequently, the spectral collocation method used to
+solve the linearized equations always yields a unique solution and the Newton iterates converge with no
+difficulty to a slowly-varying phase function.
+When one or more of the eigenvalues λj(t) is of small magnitude on some part of [ a, b], the global Levin
+method can fail. In this event, there are multiple slowly-varying solution of the Riccati equation near
+each initial guess. Accordingly, the Newton iterates can converge to different slowly-varying solutions of
+the Riccati equation, and because the global Levin method is an adaptive approach which subdivides the
+interval [ a, b], it can obtain different solutions on different subintervals. In particular, the functions obtained
+from the global Levin method in such cases can be discontinuous across the boundaries of the discretization
+subintervals, even though they locally satisfy the Riccati equation on each particular subinterval (this effect
+can clearly be seen in Figure 14 of Subsection 5.6.)
+The second algorithm of this paper, which we call the local Levin method, is usually slower and slightly less
+accurate than the global Levin method in cases in which both apply, but it overcomes the difficulties which
+arise when the coefficient matrix (2) admits eigenvalues of small magnitude. The local method operates in4 Murdock Aubry, James Bremer
+a manner very similar to the algorithm of [3] — it first computes the values of the derivatives r1, r2, . . . , r n
+of the desired slowly-varying phase functions ψ1, . . . , ψ nat a point cand then solves the Riccati equation
+numerically with those values used as initial conditions in order to construct r1, r2, . . . , r nover the whole
+interval [ a, b]. Rather than the continuation method of [3], however, the values of the r1, r2, . . . , r natcare
+computed by applying the Levin approach to a single small subinterval of [ a, b] containing c. Because the
+Levin approach is only used on a single subinterval of [ a, b], the nonuniqueness of the slowly-varying phase
+functions is no longer a concern — any set of slowly-varying phase functions suffices for our purposes. For
+the sake of simplicity, we describe the local Levin method in the case in which (1) is nondegenerate on the
+entire interval [ a, b] of interest. However, it can easily be extended to equations of the form (1) that are
+nondegenerate on [ a, b] except at a finite number of turning points by partitioning [ a, b] and applying it on
+each of the resulting subintervals in the manner of [4].
+Our algorithms bear some superficial similarities to Magnus expansion methods, which are another class of
+numerical solvers for systems of ordinary differential equations that rely on the exponential representation
+of solutions. Introduced in [13], Magnus expansions are certain series of the form
+∞X
+k=1Ωk(t) (15)
+such that exp P∞
+k=1Ωk(t)locally represents a fundamental matrix for a system of differential equations
+y′(t) =A(t)y(t). (16)
+The first few terms for the series around t= 0 are given by
+Ω1(t) =Zt
+0A(s)ds,
+Ω2(t) =1
+2Zt
+0Zt1
+0[A(t1), A(t2)]dt2dt1and
+Ω3(t) =1
+6Zt
+0Zt1
+0Zt2
+0[A(t1),[A(t2), A(t3)]]+[A(t3),[A(t2), A(t1)]]dt3dt2dt1.(17)
+The straightforward evaluation of the Ωjis nightmarishly expensive; however, a clever technique which
+renders the calculations manageable is introduced in [8] and it paved the way for the development of a
+class of numerical solvers which represent a fundamental matrix for (16) over an interval Ivia a collection
+of truncated Magnus expansions. While the entries of the Ωjare slowly-varying whenever the entries of
+A(t) are slowly-varying, the radius of convergence of the series in (15) depends on the magnitude of the
+coefficient matrix A(t), which is, in turn, related to the magnitudes of the eigenvalues of A(t). Of course,
+this means that the number of Magnus expansions which are needed, and hence the cost of the method,
+depends on the magnitudes of the eigenvalues of A(t). See, for instance, [7] which gives for estimates of the
+growth in the running time of Magnus expansion methods in the case of an equation of the form (8) as a
+function of the magnitude of the coefficient q.
+The algorithms of this paper, by contrast, represent a fundamental matrix for (16) with A(t) given by (2)
+in the form
+exp
+ψ1(t)
+ψ2(t)
+...
+ψn(t)
+, (18)
+where each ψjis slowly-varying and can be represented at a cost independent of the magnitudes of the
+eigenvalues of A(t). Interestingly, as a consequence of standard uniqueness results for ordinary differential
+equations, in the case in which A(t) is of the scalar form (2) and ψ1(0) = ψ2(0) = ···=ψn(0) = 1, the
+Magnus expansion
+exp ∞X
+k=1Ωk(t)!
+(19)
+for (16) around t= 0 must converge to (18). It follows that
+∞X
+k=1Ωk(t) (20)The Levin approach to the numerical calculation of phase functions 5
+is the sum of the diagonal matrix whose nonzero entries are ψ1(t), . . . , ψ n(t) and a logarithm of the identity
+matrix. In particular, Magnus expansions converge to a matrix which can be represented at a cost inde-
+pendent of the magnitudes even though the individual terms in the expansion do not have this property.
+Ostensibly, Magnus expansion methods apply to a much large class of systems of differential equations than
+the algorithms we describe here. However, since essentially any system of ordinary differential equations
+can be converted into scalar form (see, for instance, [9]), it is possible to use our methods to solve a large
+class of systems of linear ordinary differential equations in time independent of the magnitudes of their
+coefficient matrices. We give one such example in the numerical experiments of this paper (see Section 5.7)
+and leave a description of this approach to a future work. We note, however, that an approach of this type
+involves representing a fundamental matrix for a system of differential equations (16) in the form
+Φ(t) exp
+ψ1(t)
+ψ2(t)
+...
+ψn(t)
+, (21)
+where Φis an appropriately chosen slowly-varying transformation matrix and the ψ1(t), . . . , ψ n(t) are slowly-
+varying phase functions for a scalar equation.
+The remainder of this article is organized as follows. In Section 2 we detail the procedure used by the
+local and global Levin method to construct the derivatives of the slowly-varying phase functions over a
+single subinterval of the interval [ a, b] over which (1) is given. A description of the global Levin method
+appears in Section 3, while Section 4 details the local Levin method. The results of numerical experiments
+demonstrating the properties of these algorithms are discussed in Section 5. We comment on the algorithms
+of this article and give a few brief suggestions for future work in Section 6. Appendix A details a standard
+adaptive spectral solver for ordinary differential equations which is used by the local Levin method, and to
+construct reference solutions in our numerical experiments.
+2 The Levin procedure for a single subinterval
+In this section, we describe the procedure used by the local and global Levin methods to construct phase
+functions on a single subinterval [ c, d] of the domain [ a, b] over which the equation (1) is given. The procedure
+takes as input the following:
+1. the subinterval [ c, d];
+2. an external subroutine for evaluating the coefficients q0, . . . , q n−1in (1); and
+3. an integer kwhich controls the order of the Chebyshev expansions used to represent phase functions
+over [ c, d].
+For each j= 1, . . . , n , it outputs a ( k−1)storder Chebyshev expansion which represents the derivative rj
+of the phase function ψjover the interval [ c, d]. The procedure operates as follows:
+1. Construct the k-point extremal Chebyshev grid t1, . . . , t kon the interval [ c, d] and the corresponding
+k×kChebyshev spectral differentiation matrix D. The nodes are given by the formula
+tj=d−c
+2cos
+πn−j
+n−1
++d+c
+2. (22)
+The matrix Dtakes the vector of values
+f(t1)
+f(t2)
+...
+f(tk)
+(23)
+of a Chebyshev expansion of the form
+f(t) =k−1X
+j=0ajTj2
+d−ct+d+c
+d−c
+(24)6 Murdock Aubry, James Bremer
+to the vector
+f′(t1)
+f′(t2)
+...
+f′(tk)
+(25)
+of the values of its derivatives at the nodes t1, . . . , t j.
+2. Evaluate the coefficients q0, . . . , q n−1at the points t1, . . . , t nby calling the external subroutine supplied
+by the user.
+3. Calculate the values of ninitial guesses r1, . . . , r nfor the Newton procedure at the nodes t1, . . . , t nby
+computing the eigenvalues of the coefficient matrices
+Aj=
+0 1 0 ··· 0 0
+0 0 1 ··· 0 0
+.........
+0 0 0 ··· 1 0
+0 0 0 ··· 0 1
+−q0(tj)−q1(tj)−q2(tj)··· − qn−2(tj)−qn−1(tj)
+, j = 1, . . . , k. (26)
+More explicitly, the eigenvalues of Ajgive the values of r1(tj), . . . , r n(tj).
+4. Perform Newton iterations in order to refine each of the initial guesses r1, . . . , r n. Because the general
+form of the Riccati equation is quite complicated, we illustrate the procedure when n= 2, in which case
+the Riccati equation is simply
+r′(t) + (r(t))2+q1(t)r(t) +q0(t) = 0 . (27)
+In each iteration, we perform the following steps:
+(a) Compute the residual
+ξ(t) =r′(t) + (r(t))2+q1(t)r(t) +q0(t) (28)
+of the current guess at the nodes t1, . . . , t k.
+(b) Form a spectral discretization of the linearized operator
+L[δ](t) =δ′(t) + 2 r(t)δ(t) +q1(t)δ(t). (29)
+That is, form the k×kmatrix
+B=D+
+2r(t1) +q1(t1)
+2r(t2) +q1(t2)
+...
+2r(tk) +q1(tk)
+. (30)
+(c) Solve the k×klinear system
+B
+δ(t1)
+δ(t2)
+...
+δ(tk)
+=−
+ξ(t1)
+ξ(t2)
+...
+ξ(tk)
+(31)The Levin approach to the numerical calculation of phase functions 7
+and update the current guess:
+
+r(t1)
+r(t2)
+...
+r(tk)
+=
+r(t1)
+r(t2)
+...
+r(tk)
++
+δ(t1)
+δ(t2)
+...
+δ(tk)
+. (32)
+We perform a maximum of 8 Newton iterations and the procedure is terminated if the value of
+nX
+j=1δ(tj)2(33)
+is smaller than
+(100ϵ0)2nX
+j=1r(tj)2, (34)
+where ϵ0≈2.220446049250313 ×10−16denotes machine zero for the IEEE double precision number
+system.
+5. Form the Chebyshev expansions of the functions r1, . . . , r n, which constitute the outputs of this proce-
+dure.
+Standard eigensolvers often produce inaccurate results in the case of matrices of the form (26), particu-
+larly when the entries are of large magnitude. Fortunately, there are specialized techniques available for
+companion matrices, and the matrices appearing in (26) are simply the transposes of such matrices. Our
+implementation of the procedure of this section uses the stable and highly-accurate technique of [2,1] to
+compute the eigenvalues of the matrices (26).
+Care must also be taken when solving the linear system (31) since the associated operator has a nontrivial
+nullspace. Most of the time, the discretization being used is insufficient to resolve any part of that nullspace,
+with the consequence that the matrix Bis well-conditioned. However, when elements of the nullspace are
+sufficiently slowly-varying, they can be captured by the discretization, in which case the matrix Bwill have
+small singular values. Fortunately, it is known that this does not cause numerical difficulties in the solution
+of (31), provided a truncated singular value decomposition is used to invert the system. Experimental
+evidence to this effect was presented in [11,12] and a careful analysis of the phenomenon appears in [5].
+Because the truncated singular value decomposition is quite expensive, we actually use a rank-revealing
+QR decomposition to solve the linear system (31) in our implementation of the procedure of this section.
+This was found to be about five times faster, and it lead to no apparent loss in accuracy.
+Rather than computing the eigenvalues of each of the matrices (26) in order to construct initial guesses for
+the Newton procedure, one could accelerate the algorithm slightly by computing the eigenvalues of only
+oneAjand use the constant functions r1(t) =λ1(tj), . . . , r (t) =λn(tj) as initial guesses instead. We did
+not make use of this optimization in our implementation of the algorithm of this paper. Our aim was to
+produce a reference code which is as robust as possible, not to produce the fastest code possible.
+3 The global Levin method
+We now describe the global Levin method for the construction of a collection of slowly-varying phase
+functions ψ1, . . . , ψ nsuch that (3) is a basis in the space of solutions of an equation of the form (1).
+It applies in the case in which the eigenvalues λ1(t), . . . , λ n(t) of the coefficient matrix (2) are of large
+magnitude on the entire interval [ a, b] of interest. Throughout this section, we denote the derivatives of the
+phase functions ψ1, . . . , ψ nbyr1, . . . , r n.
+The algorithm takes as input the following:
+1. the interval [ a, b] over which the equation is given;
+2. an external subroutine for evaluating the coefficients q0, . . . , q n−1in (1);
+3. a point ηon the interval [ a, b] and the desired values ψ1(η), . . . , ψ n(η) for the phase functions at that
+point;8 Murdock Aubry, James Bremer
+4. an integer kwhich controls the order of the piecewise Chebyshev expansions used to represent phase
+functions; and
+5. a parameter ϵwhich specifies the desired accuracy for the phase functions.
+It outputs ( k−1)storder piecewise Chebyshev expansions representing the phase functions ψ1, . . . , ψ non
+the interval [ a, b]. By a ( k−1)storder piecewise Chebyshev expansions on the interval [ a, b], we mean a sum
+of the form
+m−1X
+i=1χ[xi−1,xi)(t)k−1X
+j=0λijTj2
+xi−xi−1t+xi+xi−1
+xi−xi−1
++χ[xm−1,xm](t)k−1X
+j=0λmjTj2
+xm−xm−1t+xm+xm−1
+xm−xm−1
+,(35)
+where a=x0< x1<···< xm=bis a partition of [ a, b],χIis the characteristic function on the interval
+IandTjis the Chebyshev polynomial of degree j. We note that terms appearing in the first line of (35)
+involve the characteristic function of a half-open interval, while that appearing in the second involves the
+characteristic function of a closed interval. This ensures that exactly one term in (35) is nonzero for each
+point tin [a, b].
+The algorithm maintains two lists of subintervals of [ a, b]: one of “accepted subintervals” and one of subin-
+tervals which need to be processed. Initially, the list of accepted subintervals is empty and the list of
+subintervals to be processed contains [ a, b]. The following steps are repeated as long as the list of subinter-
+vals to process is nonempty:
+1. Remove a subinterval [ c, d] from the list of subintervals to process.
+2. Apply the procedure of Section 2 in order to construct ( k−1)storder Chebyshev expansions
+rj(t)≈k−1X
+i=0aj
+iTi2
+d−ct+d+c
+d−c
+, j = 1, . . . , n, (36)
+which purportedly represent r1, . . . , r nover [ c, d]. The user-supplied external subroutine and integer k
+are passed as input parameters to the procedure of Section 2.
+3. For each j= 1, . . . , n , calculate the quantity
+ξj=Pk−1
+i=⌈k+1
+2⌉aj
+i2
+Pk−1
+i=0aj
+i2
+.(37)
+4. If
+ξ= max {ξ1, . . . , ξ n} (38)
+is less than the user-specified parameter ϵ, put the interval [ c, d] into the list of accepted intervals and
+use (36) as the local Chebyshev expansions of the derivatives r1, . . . , r nover the subinterval [ c, d].
+5. Otherwise, if ξ≥ϵ, put the intervals
+
+c,c+d
+2
+and
+c+d
+2, d
+(39)
+into the list of intervals to process.
+Upon termination of this procedure, we have ( k−1)storder piecewise Chebyshev expansions representing
+the derivatives r1, . . . , r nof the phase functions. The list of accepted subintervals determines the partition
+of [a, b] used by the piecewise expansions. The phase functions ψ1, . . . , ψ nthemselves are constructed via
+spectral integration with the particular choice of antiderivatives determined through the parameter ηand
+the values of ψ1(η), . . . , ψ n(η) that are specified as inputs to the algorithm.
+4 The local Levin method
+In this section, we describe the local Levin method for the construction of a collection of slowly-varying
+phase functions ψ1, . . . , ψ nsuch that (3) is a basis in the space of solutions of an equation of the form
+(1). We describe it in the case in which the equation is nondegenerate on an interval ( a, b) of interest. InThe Levin approach to the numerical calculation of phase functions 9
+contrast to the global Levin method, which requires that the eigenvalues λ1(t), . . . , λ n(t) of the coefficient
+matrix (2) are all of large magnitudes across the whole interval [ a, b], it functions perfectly when one or
+more of the eigenvalues is of small magnitude.
+The algorithm takes as input the following:
+1. the interval [ a, b] over which the equation is given;
+2. an external subroutine for evaluating the coefficients q0, . . . , q n−1in (1);
+3. a point ηon the interval [ a, b] and the desired values ψ1(η), . . . , ψ n(η) for the phase functions at that
+point;
+4. an integer kwhich controls the order of the piecewise Chebyshev expansions used to represent phase
+functions;
+5. a parameter ϵwhich specifies the desired accuracy for the phase functions; and
+6. a subinterval [ a0, b0] of [ a, b] over which the Levin procedure is to be applied and a point σin that
+interval.
+The algorithm proceeds by first applying the procedure of Section 2 on the subinterval [ a0, b0] of [ a, b] in
+order to approximate the values of the derivatives r1, . . . , r nof the slowly-varying phase functions at the
+point σ∈[a0, b0]. The parameter kand the user-supplied external subroutine are passed to that procedure.
+Next, for each j= 1, . . . , n , the Riccati equation is solved using the value of rj(σ) to specify the desired
+solution. These calculations are performed via the adaptive spectral method described in Appendix A. The
+parameters kandϵare passed to that procedure. Since most solutions of the Riccati equation are rapidly-
+varying and we are seeking a slowly-varying solution, these problems are extremely stiff. The solver of
+Appendix A is well-adapted to such problems; however, essentially any solver for stiff ordinary differential
+equations would serve in its place. The result is a collection of ( k−1)storder piecewise Chebyshev expansions
+representing the derivatives r1, . . . , r nof the phase functions ψ1, . . . , ψ n.
+Finally, spectral integration is used to construct the phase functions ψ1, . . . , ψ nfrom their derivatives
+r1, . . . , r n. The particular antiderivatives are determined by the values ψ1(η), . . . , ψ n(η) specified as inputs
+to the algorithm.
+5 Numerical experiments
+In this section, we present the results of numerical experiments which were conducted to illustrate the
+properties of the algorithms of this paper. The code for these experiments was written in Fortran and
+compiled with version 13.1.1 of the GNU Fortran compiler. They were performed on a desktop computer
+equipped with an AMD 3900X processor and 32GB of memory. No attempt was made to parallelize our
+code.
+Our algorithms call for computing the eigenvalues of matrices of the form (2). Unfortunately, standard
+eigensolvers lose significant accuracy when applied to many matrices of this type. However, because the
+transpose of (2) is a companion matrix, we were able to use the backward stable algorithm of [2,1] for
+computing the eigenvalues of companion matrices to perform these calculations.
+We employed two different methods to assess the accuracy of the slowly-varying phase functions obtained
+by our algorithms. When possible, we used them to solve an initial or boundary value problem for an
+equation of the form (1) and measured the absolute accuracy of the result by comparison with the output
+of the standard solver described in Appendix A. Absolute accuracy was measured rather than relative
+accuracy because all of the solutions we calculated were oscillatory on at least some part of their domain
+of definition. This first approach is not viable when the real parts of the eigenvalues are too large since
+initial and boundary value problems for (1) are highly ill-conditioned in this event. Moreover, the solver of
+Appendix A becomes prohibitively expensive when the sizes of the eigenvalues are excessive, regardless of
+whether it is their real parts, their imaginary parts or both which are of large magnitude.
+Because of these limitations, with few exceptions, we restricted our use of this approach to cases in which
+the parameter ωused to control the frequency of oscillation of solutions was no larger than 216, and we
+never applied it to a problem in which the eigenvalues of the coefficient matrix have real parts of large
+magnitude. Moreover, because the condition numbers of initial and boundary value problems for (1) grow
+with the magnitude of the eigenvalues of (2), it is expected that the accuracy of the solutions obtained via
+any numerical approach will deteriorate as the eigenvalues of the coefficient matrix increase. In particular,10 Murdock Aubry, James Bremer
+the absolute error in the solutions of (1) obtained by our method are limited principally by the conditioning
+of the problem and not by the accuracy with which phase functions are constructed.
+Our second method consisted of constructing slowly-varying phase functions by running one of our algo-
+rithms using IEEE quadruple precision arithmetic and comparing the results to those obtained by running
+our algorithms using standard double precision arithmetic. This is a highly unsatisfying approach, but the
+authors are not aware of another algorithm for the high-accuracy approximation of slowly-varying phase
+functions and standard solvers for ordinary differential equations perform quite poorly when applied to
+most of the problems we consider here.
+In all of our experiments, the input parameters for the algorithms of Sections 3 and 4 were set as follows. The
+value of k, which determines the order of the Chebyshev expansions used to represent phase functions, was
+taken to be 16 and the parameter ϵ, which specifies the desired precision for the phase functions, was taken
+to be 10−12. The domain for each equation we considered was [ −1,1], and the particular antiderivatives
+ψ1, . . . , ψ nof the functions r1, . . . , r nwere chosen through the requirement that ψ1(0) = ψ2(0) = ···=
+ψn(0) = 0. In the case of the local Levin method, the procedure of Section 2 used to determine the initial
+conditions for the functions r1, . . . , r nwas performed on the subinterval [ −0.1,−0.0].
+5.1 An initial value problem for a second order equation
+The experiments described in this section concern the equation
+y′′(t)−iω
+1 +t4y′(t) +ω31 + cos2(t)
+2 +ωexp(t)
+y(t) = 0 . (40)
+To give a sense of the dependence of the eigenvalues of the coefficient matrix for (40) on the parameter ω,
+we note that
+λ1(0) =iω
+2−ip
+ω2(ω+ 2)(9 ω+ 2)
+2(ω+ 2)∼ −iω+4i
+3+O1
+ω
+asω→ ∞ and
+λ2(0) =iω
+2+ip
+ω2(ω+ 2)(9 ω+ 2)
+2(ω+ 2)∼2iω−4i
+3+O1
+ω
+asω→ ∞ .(41)
+Moreover, Figure 2(b) contains plots of the eigenvalues of the coefficient matrix for (40) when ω= 216.
+Our first experiment proceeded as follows. For each ω= 28,29, . . . , 216, we used both the global and local
+Levin methods to solve (40) over the interval [ −1,1] subject to the condition
+y(0) = 1 and y′(0) = iω. (42)
+We then measured the absolute errors in each obtained solution at 10 ,000 equispaced points in the in-
+terval [ −1,1] via comparison with a reference solution constructed using the standard solver described in
+Appendix A. The second experiment was conducted as follows. For each ω= 28,29, . . . , 220, we constructed
+slowly-varying phase functions for (40) over the interval [ −1,1] by running both the global and local Levin
+methods using double precision arithmetic (as usual). We then measured the relative errors in each obtained
+phase function at 10 ,000 equispaced points in the interval [ −1,1] by comparison with phase functions con-
+structed by applying the global Levin method to (40), but this time using extended precision arithmetic to
+perform the calculations. Figure 1 gives the results of these experiments. Figure 2(a) contains plots of the
+derivatives of the slowly-varying phase functions produced by global Levin method when ω= 216.
+5.2 An initial value problem for a third order equation
+In this experiments, we considered the equation
+y′′′(t) +q2(ω, t)y′′(t) +q1(ω, t)y′(t) +q0(ω, t)y(t) = 0 , (43)The Levin approach to the numerical calculation of phase functions 11
+28210212214216218220
+01234Time (in milliseconds)global Levin method
+local Levin method
+28211214217220
+0100200300400Chebyshev Coefficientsglobal Levin method
+local Levin method
+28210212214216
+1016
+1014
+1012
+1010
+108
+106
+104
+Max Absolute Error Solutionglobal Levin method
+local Levin method
+28211214217220
+1016
+1014
+1012
+1010
+108
+106
+104
+Max Relative Error Phasesglobal Levin method
+local Levin method
+Fig. 1: The results of the experiments of Subsection 5.1. The upper-left plot gives the time required by each
+of our methods as a function of the parameter ω. The upper-right plot reports the number of Chebyshev
+coefficients required to represent the slowly-varying phase functions as a function of ω. The lower-left plot
+reports the largest observed absolute error in the solutions of the initial value problem for (40) obtained
+using each of our methods. The plot on the lower right gives the largest observed relative error in the
+slowly-varying phase functions constructed by our algorithms. The plots in the upper-right and lower-left
+appear to have only one line because the solutions obtained by the local and global Levin methods closely
+coincide.
+where
+q0(ω, t) =4ω3 
+iωsin2(t) +iω+ sin( t)
+(t2+ 1) (ωet+ 1),
+q1(ω, t) =ω 
+ω 4ωt2+ωet+ 1+ 
+ω 4t2+et+ 4+ 1sin(t)(ωsin(t)−i)
+(t2+ 1) (ωet+ 1)and
+q2(ω, t) =iω4ω
+ωet+ 1+1
+t2+ 1−1
+−iωsin2(t)−sin(t).(44)
+At the point 0, the eigenvalues of the coefficient matrix for (43) are given by the formulas
+λ1(0) = −4iω2
+1 +ω, λ 2(0) = −iωand λ1(0) = iω. (45)
+Plots of the eigenvalues λ1(t), λ2(t), λ3(t) of the coefficient matrix for (43) when ω= 216can be found in
+Figure 4 .
+In the first experiment, for each ω= 28,29, . . . , 216, we we used the local Levin method and the global Levin
+method to compute solutions of (43). We then measured the errors in each obtained solution at 10 ,000
+equispaced points in the interval [ −1,1] by comparison with a reference solution constructed via the standard
+solver described in Appendix A. In the second experiment, for each ω= 28,29, . . . , 220, we constructed
+slowly-varying phase functions for (43) over the interval [ −1,1] by running both the global and local Levin
+methods using double precision arithmetic. We then measured the relative errors in each obtained phase
+function at 10 ,000 equispaced points in the interval [ −1,1] by comparison with phase functions constructed
+by applying the global Levin method to (43), but this time using extended precision arithmetic to perform
+the calculations. Figure 3 gives the results of these two experiments. Figure 5 contains plots of the derivatives
+of the slowly-varying phase functions produced by global Levin method when ω= 216.12 Murdock Aubry, James Bremer
+1.0
+ 0.5
+ 0.0 0.5 1.00.160.180.200.220.240.26
+1.0
+ 0.5
+ 0.0 0.5 1.00.00.20.40.60.8
+1.0
+ 0.5
+ 0.0 0.5 1.0100000
+90000
+80000
+70000
+60000
+50000
+40000
+1.0
+ 0.5
+ 0.0 0.5 1.080000100000120000140000
+(a) The derivatives of the two slowly-varying phase
+functions produced by applying the global Levin
+method to Problem (40) of Subsection 5.1 when ω=
+216. Each column corresponds to one of the phase func-
+tions, with the real part appearing in the first row and
+the imaginary part in the second.
+1.0
+ 0.5
+ 0.0 0.5 1.00.04
+0.02
+0.000.020.04
+1.0
+ 0.5
+ 0.0 0.5 1.00.04
+0.02
+0.000.020.04
+1.0
+ 0.5
+ 0.0 0.5 1.0100000
+90000
+80000
+70000
+60000
+50000
+40000
+1.0
+ 0.5
+ 0.0 0.5 1.080000100000120000140000(b) The eigenvalues λ1(t), λ2(t) of the coefficient matrix
+corresponding to Equation (40) of Subsection 5.1 when
+ω= 216. Each column corresponds to one of the eigen-
+values, with the real part appearing in the first row and
+the imaginary part in the second.
+Fig. 2: Plots of some of the phase functions and eigenvalues which arose in the course of the experiments
+of Subsection 5.1.
+28210212214216218220
+0246810Time (in milliseconds)global Levin method
+local Levin method
+28211214217220
+0100200300400Chebyshev Coefficientsglobal Levin method
+local Levin method
+28210212214216
+1016
+1014
+1012
+1010
+108
+106
+104
+Max Absolute Error Solutionglobal Levin method
+local Levin method
+28211214217220
+1016
+1014
+1012
+1010
+108
+106
+104
+Max Relative Error Phasesglobal Levin method
+local Levin method
+Fig. 3: The results of the experiments of Subsection 5.2. The upper-left plot gives the time required by each
+of our methods as a function of the parameter ω. The upper-right plot reports the number of Chebyshev
+coefficients required to represent the slowly-varying phase functions as a function of ω. The lower-left plot
+reports the largest observed absolute error in the solution of the initial value problem for (43), again as a
+function of ω. Finally, the plot on the lower right gives the largest observed relative error in the slowly-
+varying phase functions constructed by our algorithms.
+5.3 A boundary value problem for a third order equation
+In the experiments described in this section, we considered the equation
+y′′′(t)−(1 + 2 iω)(1 + sin2(2t))y′′(t) + (3 iω+ω2)1
+1−t
+2y′(t) + (2 ω2−2iω3)exp(t)
+1 +t4y(t) = 0 .(46)The Levin approach to the numerical calculation of phase functions 13
+1.0
+ 0.5
+ 0.0 0.5 1.00.75
+0.50
+0.25
+0.000.250.500.75
+1.0
+ 0.5
+ 0.0 0.5 1.00.04
+0.02
+0.000.020.04
+1.0
+ 0.5
+ 0.0 0.5 1.00.04
+0.02
+0.000.020.04
+1.0
+ 0.5
+ 0.0 0.5 1.0700008000090000100000110000
+1.0
+ 0.5
+ 0.0 0.5 1.0700000
+600000
+500000
+400000
+300000
+200000
+100000
+1.0
+ 0.5
+ 0.0 0.5 1.065000
+60000
+55000
+50000
+45000
+40000
+35000
+Fig. 4: The eigenvalues λ1(t), λ2(t), λ3(t) of the coefficient matrix corresponding to Equation (43) of Sub-
+section 5.2 when the parameter ωis equal to 216. Each column corresponds to one of the eigenvalues, with
+the real part appearing in the first row and the imaginary part in the second.
+1.0
+ 0.5
+ 0.0 0.5 1.00.25
+0.20
+0.15
+0.10
+0.05
+0.00
+1.0
+ 0.5
+ 0.0 0.5 1.01.901.952.002.052.102.152.20
+1.0
+ 0.5
+ 0.0 0.5 1.00.3
+0.2
+0.1
+0.00.1
+1.0
+ 0.5
+ 0.0 0.5 1.065000
+60000
+55000
+50000
+45000
+40000
+35000
+1.0
+ 0.5
+ 0.0 0.5 1.0700000
+600000
+500000
+400000
+300000
+200000
+100000
+1.0
+ 0.5
+ 0.0 0.5 1.0700008000090000100000110000
+Fig. 5: The derivatives of the three slowly-varying phase functions produced by applying the global Levin
+method to Equation (43) of Subsection 5.2 when the parameter ωis equal to 216. Each column corresponds
+to one of the phase functions, with the real part appearing in the first row and the imaginary part in the
+second.
+The eigenvalues of the coefficient matrix for (46) at the point 0 are
+λ1(0) = iω, λ 2(0) = 2 iωand λ3(0) = 1 −iω. (47)
+Plots of the eigenvalues λ1(t), λ2(t), λ3(t) of the coefficient matrix for (46) when ω= 216can be found in
+Figure 8 .
+In the first experiment, for each ω= 28,29, . . . , 216, we we used the local Levin method and the global
+Levin method to compute solutions of (46) over the interval [ −1,1] subject to the conditions
+y(−1) = y(1) = 1 and y′(−1) = 0 . (48)
+We then measured the errors in each obtained solution at 10 ,000 equispaced points in the interval [ −1,1] by
+comparison with a reference solution constructed via the standard solver described in Appendix A. In the
+second experiment, for each ω= 28,29, . . . , 220, we constructed slowly-varying phase functions for (46) over
+the interval [ −1,1] by running both the global and local Levin methods using double precision arithmetic
+(as usual). We then measured the relative errors in each obtained phase function at 10 ,000 equispaced
+points in the interval [ −1,1] by comparison with phase functions constructed by applying the global Levin14 Murdock Aubry, James Bremer
+28210212214216218220
+0246810Time (in milliseconds)global Levin method
+local Levin method
+28211214217220
+0200400600800Chebyshev Coefficientsglobal Levin method
+local Levin method
+28210212214216
+1016
+1014
+1012
+1010
+108
+106
+104
+Max Absolute Error Solutionglobal Levin method
+local Levin method
+28211214217220
+1016
+1014
+1012
+1010
+108
+106
+104
+Max Relative Error Phasesglobal Levin method
+local Levin method
+Fig. 6: The results of the experiments of Subsection 5.3. The upper-left plot gives the time required by each
+of our methods as a function of the parameter ω. The upper-right plot reports the number of Chebyshev
+coefficients required to represent the slowly-varying phase functions as a function of ω. The lower-left plot
+reports the largest observed absolute error in the solution of a boundary value problem for (46), again
+as a function of ω. Finally, the plot on the lower right gives the largest observed relative error in the
+slowly-varying phase functions constructed by our algorithms.
+method to (46), but this time using extended precision arithmetic to perform the calculations. Figure 6
+gives the results of these two experiments. Figure 7 contains plots of the derivatives of the slowly-varying
+phase functions produced by global Levin method when ω= 216.
+5.4 An initial value problem for a fourth order equation
+In the experiments described in this section, we considered the equation
+y′′′′(t) +
+−5iω(1 + t2) + 5 ω28 + cos4(3t)
+2 +t4
+y′′(t) + 4 ω42 + sin(3 t)
+2 +ty(t) = 0 . (49)
+We have the following formulas for the eigenvalues of the coefficient matrix at the point 0:
+λ1(0) =r
+5iω−5ω2+ω√
+−25−50iω+ 9ω2
+2∼ −iω+5
+6+O1
+ω
+λ2(0) = −r
+5iω−5ω2+ω√
+−25−50iω+ 9ω2
+2∼iω−5
+6+O1
+ω
+λ3(0) =r
+5iω−5ω2−ω√
+−25−50iω+ 9ω2
+2∼2iω+5
+3+O1
+ω
+λ4(0) = −r
+5iω−5ω2−ω√
+−25−50iω+ 9ω2
+2∼ −2iω−5
+3+O1
+ω
+.
+In the first experiment, for ω= 28,29, . . . , 216, we used both the global Levin method and the local Levin
+method to solve (49) over the interval [ −1,1] subject to the conditions
+y(0) = 1 , y′(0) = iω, y′′(0) = −ω2and y′′′(0) = −iω3. (50)The Levin approach to the numerical calculation of phase functions 15
+1.0
+ 0.5
+ 0.0 0.5 1.00.4
+0.2
+0.00.20.4
+1.0
+ 0.5
+ 0.0 0.5 1.03
+2
+1
+0123
+1.0
+ 0.5
+ 0.0 0.5 1.00.00.20.40.60.81.0
+1.0
+ 0.5
+ 0.0 0.5 1.02000030000400005000060000
+1.0
+ 0.5
+ 0.0 0.5 1.0140000160000180000200000220000240000260000280000
+1.0
+ 0.5
+ 0.0 0.5 1.060000
+50000
+40000
+30000
+Fig. 7: The derivatives of the three slowly-varying phase functions produced by applying the global Levin
+method to Equation (46) of Subsection 5.3 when the parameter ωis equal to 216. Each column corresponds
+to one of the phase functions, with the real part appearing in the first row and the imaginary part in the
+second.
+1.0
+ 0.5
+ 0.0 0.5 1.00.15
+0.10
+0.05
+0.000.05
+1.0
+ 0.5
+ 0.0 0.5 1.00.00.20.40.60.81.01.21.4
+1.0
+ 0.5
+ 0.0 0.5 1.00.60.70.80.91.01.11.2
+1.0
+ 0.5
+ 0.0 0.5 1.02000030000400005000060000
+1.0
+ 0.5
+ 0.0 0.5 1.0140000160000180000200000220000240000260000280000
+1.0
+ 0.5
+ 0.0 0.5 1.060000
+50000
+40000
+30000
+Fig. 8: The eigenvalues λ1(t), λ2(t), λ3(t) of the coefficient matrix corresponding to Equation (46) of Sub-
+section 5.3 when the parameter ωis equal to 216. Each column corresponds to one of the eigenvalues, with
+the real part appearing in the first row and the imaginary part in the second.
+Then we measured the errors in each obtained solution at 10 ,000 equispaced points in the interval [ −1,1]
+by comparison with reference solutions constructed via the standard solver described in Appendix A. In the
+second experiment, for each ω= 28,29, . . . , 220, we constructed slowly-varying phase functions for (49) over
+the interval [ −1,1] by running both the global and local Levin methods using double precision arithmetic
+(as usual). We then measured the relative errors in each obtained phase function at 10 ,000 equispaced
+points in the interval [ −1,1] by comparison with phase functions constructed by applying the global Levin
+method to (49), but this time using extended precision arithmetic to perform the calculations. Figure 9
+gives the results of these two experiments. Figure 10 contains plots of the derivatives of the slowly-varying
+phase functions produced by global Levin method when ω= 216.
+5.5 An equation whose coefficient matrix has eigenvalues with large real parts
+The experiment of this section concerns the fourth order differential equation
+y′′′′(t) +ω42 + cos(7 t)2
+1 +t4
+y(t) = 0 . (51)16 Murdock Aubry, James Bremer
+28210212214216218220
+0510152025Time (in milliseconds)global Levin method
+local Levin method
+28211214217220
+020040060080010001200Chebyshev Coefficientsglobal Levin method
+local Levin method
+28210212214216
+1016
+1014
+1012
+1010
+108
+106
+104
+Max Absolute Error Solutionglobal Levin method
+local Levin method
+28211214217220
+1016
+1014
+1012
+1010
+108
+106
+104
+Max Relative Error Phasesglobal Levin method
+local Levin method
+Fig. 9: The results of the experiment of Subsection 5.4. The upper-left plot gives the time required by each
+of our methods as a function of the parameter ω. The upper-right plot reports the number of Chebyshev
+coefficients required to represent the slowly-varying phase functions as a function of ω. The lower-left plot
+reports the largest observed absolute error in the solution of the initial value problem for (49), again as
+a function of ω. The plot on the lower right gives the largest observed relative error in the slowly-varying
+phase functions constructed by our algorithms. The plot on the lower left appears to have only one line
+because the solutions generated by the local and global Levin methods closely coincide.
+1.0
+ 0.5
+ 0.0 0.5 1.00.00.51.01.52.02.5
+1.0
+ 0.5
+ 0.0 0.5 1.03.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+1.0
+ 0.5
+ 0.0 0.5 1.00.2
+0.00.20.40.6
+1.0
+ 0.5
+ 0.0 0.5 1.00.2
+0.00.20.40.60.81.0
+1.0
+ 0.5
+ 0.0 0.5 1.0250000260000270000280000290000300000310000
+1.0
+ 0.5
+ 0.0 0.5 1.0310000
+300000
+290000
+280000
+270000
+260000
+250000
+1.0
+ 0.5
+ 0.0 0.5 1.02500030000350004000045000
+1.0
+ 0.5
+ 0.0 0.5 1.045000
+40000
+35000
+30000
+25000
+Fig. 10: The derivatives of the four slowly-varying phase functions produced by applying the global Levin
+method to Equation (49) of Subsection 5.4 when the parameter ωis equal to 216. Each column corresponds
+to one of the phase functions, with the real part appearing in the first row and the imaginary part in the
+second.
+When ωis large, some of the eigenvalues of the corresponding coefficient matrix have real parts of large
+magnitude, with the consequence that almost all initial and boundary value problems for (51) are highly
+ill-conditioned. This makes testing the accuracy of the obtained phase functions by using them to construct
+solutions of (51) and comparing the results to reference solutions virtually impossible. Instead, we assess the
+accuracy of the phase functions using our second approach, via comparison with phase functions constructed
+by our algorithms using extended precision arithmetic.
+More explicitly, for each ω= 28,29, . . . , 220, we constructed slowly-varying phase functions for (51) over
+the interval [ −1,1] by running the global method using double precision arithmetic. We then measuredThe Levin approach to the numerical calculation of phase functions 17
+the relative errors in each obtained phase function at 10 ,000 equispaced points in the interval [ −1,1]
+by comparison with phase functions constructed by applying the global Levin method to (51), but this
+time using extended precision arithmetic to perform the calculations. Figure 11 gives the results of these
+experiments. Plots of the eigenvalues λ1(t), λ2(t), λ3(t), λ4(t) of the coefficient matrix for (51) when ω= 216
+can be found in Figure 12 .
+28210212214216218220
+05101520Time (in milliseconds)
+28211214217220
+1016
+1014
+1012
+1010
+108
+106
+104
+Max Relative Error Phases
+28211214217220
+0200400600800100012001400Chebyshev Coefficients
+Fig. 11: The results of the experiment of Subsection 5.5. The leftmost plot gives the time required by the
+global Levin method as a function of the parameter ω. The middle plot reports the maximum relative error
+in the slowly-varying phase functions. The plot on the right shows the number of Chebyshev coefficients
+required to represent the slowly-varying phase functions, again as a function of ω.
+1.0
+ 0.5
+ 0.0 0.5 1.070000
+68000
+66000
+64000
+62000
+60000
+58000
+56000
+1.0
+ 0.5
+ 0.0 0.5 1.05600058000600006200064000660006800070000
+1.0
+ 0.5
+ 0.0 0.5 1.070000
+68000
+66000
+64000
+62000
+60000
+58000
+56000
+1.0
+ 0.5
+ 0.0 0.5 1.05600058000600006200064000660006800070000
+1.0
+ 0.5
+ 0.0 0.5 1.05600058000600006200064000660006800070000
+1.0
+ 0.5
+ 0.0 0.5 1.05600058000600006200064000660006800070000
+1.0
+ 0.5
+ 0.0 0.5 1.070000
+68000
+66000
+64000
+62000
+60000
+58000
+56000
+1.0
+ 0.5
+ 0.0 0.5 1.070000
+68000
+66000
+64000
+62000
+60000
+58000
+56000
+Fig. 12: The eigenvalues λ1(t), λ2(t), λ3(t), λ4(t) of the coefficient matrix for (51) when the parameter ωis
+equal to 216. Each column corresponds to one of the eigenvalues, with the real part appearing in the first
+row and the imaginary part in the second.
+5.6 An equation whose coefficient matrix has eigenvalues of small magnitude
+In the experiment described in this section, we solved the equation
+y′′′(t)−iω
+1 +t2
+y′′(t) +2 +t
+1 +t2y′(t) +iωlog3
+2+t
+y(t) = 0 (52)
+over the interval [ −1,1] subject to the conditions
+y(0) = 1 , y′(0) = −iω, y′′(0) = −ω2. (53)
+The coefficient matrix corresponding to (52) has eigenvalues of small magnitude, and, as discussed in the
+introduction, the global Levin method encounters difficulties in such cases. In particular, the obtained
+functions can be discontinuous across the boundaries of the subintervals set by the adaptive discretization
+scheme. This is readily apparent in Figure 14, which contains plots of the functions that result when the
+global Levin method is applied to (52) with ω= 216. Fortunately, the local Levin method has no difficulties
+in this case; Figure 15 contains plots of the functions obtained when it is applied to (52) with ω= 216.18 Murdock Aubry, James Bremer
+For each ω= 28,29, . . . , 220, we used the local Levin method to solve (52) subject to (53). The error in
+each obtained solution was measured at 10 ,000 equispaced points on the interval [ −1,1]. Figure 13 gives
+the results. Plots of the eigenvalues λ1(t), λ2(t), λ3(t), λ4(t) of the coefficient matrix for (52) when ω= 216
+can be found in Figure 15 .
+28210212214216
+01234Time (in milliseconds)
+28210212214216
+1016
+1014
+1012
+1010
+108
+106
+104
+Maximum Absolute Error
+28210212214216
+0100200300400Chebyshev Coefficients
+Fig. 13: The results of the experiment of Subsection 5.6. The leftmost plot gives the time required by the
+local Levin method as a function of the parameter ω. The plot in the middle reports the largest observed
+absolute error in the solution of the initial value problem for (52) as a function of ω. The rightmost plot
+shows the total number of Chebyshev coefficients required to represent the slowly-varying phase functions,
+again as a function of ω.
+1.0
+ 0.5
+ 0.0 0.5 1.02
+1
+012
+1.0
+ 0.5
+ 0.0 0.5 1.00.00.10.20.30.40.5
+1.0
+ 0.5
+ 0.0 0.5 1.00.00.10.20.30.40.5
+1.0
+ 0.5
+ 0.0 0.5 1.0700008000090000100000110000120000130000
+1.0
+ 0.5
+ 0.0 0.5 1.00.60
+0.55
+0.50
+0.45
+0.40
+0.35
+1.0
+ 0.5
+ 0.0 0.5 1.00.350.400.450.500.550.60
+Fig. 14: The degenerate results obtained when the global Levin method is applied to Equation (52) of
+Subsection 5.6 with ω= 216. In this case, the coefficient matrix admits eigenvalues of small magnitude and
+the functions obtained by the global Levin method are contaminated by elements of the nullspaces of the
+linearized operators which arise in the course of the Newton procedure. Each column corresponds to one of
+the phase functions, with the real part appearing in the first row and the imaginary part in the second.
+5.7 A system of two differential equations in two unknowns
+It is well known that essentially any system of nlinear ordinary differential equations in nunknowns can be
+transformed into an nthorder linear scalar differential equation (see, for instance, [9]). As a consequence,
+the algorithms of this paper can be used to solve many such systems in time independent of the magnitudes
+of the eigenvalues of their coefficient matrices. In the experiment of this section, we solved the system ofThe Levin approach to the numerical calculation of phase functions 19
+1.0
+ 0.5
+ 0.0 0.5 1.02
+1
+012
+1.0
+ 0.5
+ 0.0 0.5 1.00.00.10.20.30.40.50.6
+1.0
+ 0.5
+ 0.0 0.5 1.00.00.10.20.30.40.50.6
+1.0
+ 0.5
+ 0.0 0.5 1.0700008000090000100000110000120000130000
+1.0
+ 0.5
+ 0.0 0.5 1.00.50
+0.45
+0.40
+0.35
+0.30
+0.25
+0.20
+1.0
+ 0.5
+ 0.0 0.5 1.00.200.250.300.350.400.450.50
+Fig. 15: The derivatives of the slowly-varying phase functions obtained when the local Levin method is
+applied to Equation (52) of Subsection 5.6 with ω= 216. Even though the coefficient matrix admits
+eigenvalues of small magnitude, the local Levin method is still able to construct the desired slowly-varying
+phase functions. Each column corresponds to one of the phase functions, with the real part appearing in
+the first row and the imaginary part in the second.
+differential equations
+y′(t) =
+1 +t2 1
+1+t4
+−ω
+1+t2−iω(2+t)
+5+t
+y(t) (54)
+on the interval [ −1,1] subject to the condition
+y(0) =
+1
+1
+. (55)
+We found that letting
+w(t) =Φ(t)y(t) (56)
+with
+Φ(t) =
+0 1
+−ω
+1+t2−iω(2+t)
+5+t
+ (57)
+transforms (54) into the system
+w′(t) =
+0 1
+−q0(t)−q1(t)
+w(t), (58)
+where
+q0(t) =1
+(t+ 5)2(t2+ 1) (t4+ 1)
+−iωt10−7iωt9−12iωt8−12iωt7−5iωt6+
+6iωt5−19iωt4−12iωt3+ (1−4i)ωt2+ (10 + 13 i)ωt+ (25 −7i)ω
+and
+q1(t) =iω(t+ 2)
+t+ 5−t2+2t
+t2+ 1−1.
+Of course, (58) is equivalent to the scalar equation
+z′′(t) +q1(t)z′(t) +q0(t)z(t) = 0 (59)20 Murdock Aubry, James Bremer
+with zrelated to w=
+w1(t)w2(t)
+via the formulas
+z(t) =w1(t) and z′(t) =w2(t). (60)
+28210212214216218220
+k01234Time (in milliseconds)
+28211214217220
+k1016
+1014
+1012
+1010
+108
+106
+104
+Maximum Absolute Error
+28211214217220
+k0100200300400Chebyshev Coefficients
+Fig. 16: The results of the experiment of Subsection 5.7. The leftmost plot gives the time required by each
+of our methods as a function of the parameter ω. The plot in the middle reports the largest observed error
+in the solution as a function of ω. The plot on the right shows the total number of Chebyshev coefficients
+required to represent the slowly-varying phase functions, again as a function of ω.
+1.0
+ 0.5
+ 0.0 0.5 1.00.000060.000080.000100.000120.00014
+1.0
+ 0.5
+ 0.0 0.5 1.00.51.01.52.0
+1.0
+ 0.5
+ 0.0 0.5 1.032500
+30000
+27500
+25000
+22500
+20000
+17500
+1.0
+ 0.5
+ 0.0 0.5 1.00.51.01.52.02.5
+(a) The derivatives of the two slowly-varying phase
+functions produced by applying the global Levin
+method to the scalar equation (59) obtained from the
+system (54) when ω= 216. Each column corresponds to
+one of the phase functions, with the real part appearing
+in the first row and the imaginary part in the second.
+1.0
+ 0.5
+ 0.0 0.5 1.00.000040.000060.000080.000100.00012
+1.0
+ 0.5
+ 0.0 0.5 1.01.01.21.41.61.82.0
+1.0
+ 0.5
+ 0.0 0.5 1.032500
+30000
+27500
+25000
+22500
+20000
+17500
+1.0
+ 0.5
+ 0.0 0.5 1.00.51.01.52.02.5(b) The eigenvalues λ1(t), λ2(t) of the coefficient matrix
+of the system (54) when ω= 216. Each column corre-
+sponds to one of the eigenvalues, with the real part ap-
+pearing in the first row and the imaginary part in the
+second.
+Fig. 17: Plots of some of the phase functions and eigenvalues which arose in the course of the experiments
+of Subsection 5.7.
+For each ω= 28,29, . . . , 220, we followed the following procedure. First, we used the local Levin method to
+construct slowly-varying phase functions ψ1, ψ2such that
+z1(t) = exp( ψ1(t)) and z2(t) = exp( ψ2(t)) (61)
+form a basis in the space of solutions of (59) over the interval [ −1,1]. Next, we let formed the two corre-
+sponding solutions
+y1(t) =Φ−1(t)
+z1(t)
+z′
+1(t)
+and y2(t) =Φ−1(t)
+z2(t)
+z′
+2(t)
+ (62)
+of (54) and found constants c1andc2such that
+c1y1(0) + c2y2(0) =
+1
+1
+ (63)
+by solving the obvious system of linear algebraic equations. Finally, we constructed a reference solution for
+the problem using the standard solver of Appendix A and compared its value with that of c1y1(t) +c2y2(t)The Levin approach to the numerical calculation of phase functions 21
+at 10 ,000 equispaced points on the interval [ −1,1]. Figure 16 gives the results. Figure 17(a) contains plots
+of the slowly-varying phase functions for (59) which were constructed when ω= 216. Figure 17(b) contains
+plots of the eigenvalues of the matrix (54) when ω= 216.
+6 Conclusions
+We have introduced two related approaches for solving initial and boundary value problems for a large
+class of scalar ordinary differential equations. They are both based on the principle which underpins the
+classical Levin method for calculating oscillatory integrals, namely, that inhomogeneous linear ordinary
+differential equations with slowly-varying coefficients and a slowly-varying right-hand side admit slowly-
+varying solutions regardless of the magnitudes of the coefficients. Using Newton’s method, we were able
+to apply this principle to the nonlinear Riccati equation in order to rapidly compute slowly-varying phase
+functions for scalar ordinary differential equations.
+Both of our methods for computing phase functions achieve high-accuracy and high order convergence, and
+run in time independent of the magnitude of the equation’s coefficients. One of the approaches, the global
+Levin method, fails when the coefficient matrix has eigenvalues of small magnitude. The other approach,
+the local Levin method, is slightly less accurate and slightly slower than the global method in most cases
+in which both apply, but it does not suffer from this defect.
+As is clear from our plots, the solutions of the Riccati equation possess various symmetries. We have
+made no attempt to exploit them to accelerate our algorithm, or to make a number of other obvious
+speed improvements. Indeed, our implementations are reference codes are meant to demonstrate the basic
+properties of our algorithms and are not designed to achieve the greatest possible speed.
+We encountered difficulties in testing the accuracy of our algorithms. For the most part, we did so by
+using the obtained phase functions to solve an initial or boundary value problem for a differential equation
+and comparing the result to that obtained by a standard solver. This approach has serious limitations,
+however, due to the poor performance exhibited by standard methods when applied to most of the problems
+discussed here. The problems were so severe, in fact, that we resorted to also measuring the accuracy of our
+phase functions by comparison with results obtained by running our algorithms using extended precision
+arithmetic.
+There are many obvious applications of this work to evaluation of special functions, calculation of special
+function transforms and the solution of physical problems which should be explored. Moreover, because
+essentially any system of nordinary differential equations in nunknowns can be transformed into an nth
+order scalar equation, it should be possible to use the algorithm of this paper to solve a large class of
+systems of differential equations in time time independent of the magnitudes of the eigenvalues of their
+coefficient matrices. We have given one such example in this paper, but further development of this approach
+is required in order to obtain a solver which can be applied to a large class of equations.
+7 Acknowledgments
+JB was supported in part by NSERC Discovery grant RGPIN-2021-02613.
+8 Data availability statement
+The datasets generated during and/or analysed during the current study are available from the correspond-
+ing author on reasonable request.
+References
+1.Aurentz, J., Mach, T., Robol, L., Vanderbril, R., and Watkins, D. S. Fast and backward stable computation of
+roots of polynomials, part II: Backward error analysis; companion matrix and companion pencil. SIAM Journal on
+Matrix Analysis and Applications 39 (2018), 1245–1269.
+2.Aurentz, J., Mach, T., Vanderbril, R., and Watkins, D. S. Fast and backward stable computation of roots of
+polynomials. SIAM Journal on Matrix Analysis and Applications 36 (2015), 942–973.
+3.Bremer, J. On the numerical solution of second order differential equations in the high-frequency regime. Applied
+and Computational Harmonic Analysis 44 (2018), 312–349.
+4.Bremer, J. Phase function methods for second order linear ordinary differential equations with turning points. Applied
+and Computational Harmonic Analysis 65 (2023), 137–169.
+5.Chen, S., Serkh, K., and Bremer, J. The adaptive Levin method. arXiv 2209.14561 (2022).22 Murdock Aubry, James Bremer
+6.Greengard, L. Spectral integration and two-point boundary value problems. SIAM Journal of Numerical Analysis
+28(1991), 1071–1080.
+7.Iserles, A. On the global error of discretization methods for highly-oscillatory ordinary differential equations. BIT
+32(2002), 561–599.
+8.Iserles, A., and Nørsett, S. P. On the solution of linear differential equations in Lie groups. Philosophical Trans-
+actions: Mathematical, Physical and Engineering Sciences 357 , 1754 (1999), 983–1019.
+9.Kolchin, E. Differential Algebraic Groups . Academic Press, Orlando, Florida, 1985.
+10.Levin, D. Procedures for computing one- and two-dimensional integrals of functions with rapid irregular oscillations.
+Mathematics of Computation 38 (1982), 531–5538.
+11.Li, J., Wang, X., and Wang, T. A universal solution to one-dimensional oscillatory integrals. Science in China Series
+F: Information Sciences 51 (2008), 1614–1622.
+12.Li, J., Wang, X., Wang, T., and Xiao, S. An improved Levin quadrature method for highly oscillatory integrals.
+Applied Numerical Mathematics 60 , 8 (2010), 833–842.
+13.Magnus, W. On the exponential solution of differential equations for a linear operator. Communications on Pure and
+Applied Mathematics 7 (1954), 649–673.
+14.Miller, P. D. Applied Asymptotic Analysis . American Mathematical Society, Providence, Rhode Island, 2006.
+15.Spigler, R. Asymptotic-numerical approximations for highly oscillatory second-order differential equations by the
+phase function method. Journal of Mathematical Analysis and Applications 463 (2018), 318–344.
+16.Spigler, R., and Vianello, M. A numerical method for evaluating the zeros of solutions of second-order linear
+differential equations. Mathematics of Computation 55 (1990), 591–612.
+17.Spigler, R., and Vianello, M. The phase function method to solve second-order asymptotically polynomial differ-
+ential equations. Numerische Mathematik 121 (2012), 565–586.
+18.Wasow, W. Asymptotic expansions for ordinary differential equations . Dover, 1965.
+A An adaptive spectral solver for ordinary differential equations
+In this appendix, we detail a standard adaptive spectral method for solving ordinary differential equations. It is used by
+the local Levin method, and to calculate reference solutions in our numerical experiments. We describe its operation in the
+case of the initial value problem(
+y′(t) =F(t,y(t)), a < t < b,
+y(a) =v(64)
+where F:Rn+1→Cnis smooth and v∈Cn. However, the solver can be easily modified to produce a solution with a
+specified value at any point ηin [a, b].
+The solver takes as input a positive integer k, a tolerance parameter ϵ, an interval ( a, b), the vector vand a subroutine for
+evaluating the function F. It outputs npiecewise ( k−1)storder Chebyshev expansions, one for each of the components
+yi(t) of the solution yof (64).
+The solver maintains two lists of subintervals of ( a, b): one consisting of what we term “accepted subintervals” and the
+other of subintervals which have yet to be processed. A subinterval is accepted if the solution is deemed to be adequately
+represented by a ( k−1)storder Chebyhev expansion on that subinterval. Initially, the list of accepted subintervals is
+empty and the list of subintervals to process contains the single interval ( a, b). It then operates as follows until the list of
+subintervals to process is empty:
+1. Find, in the list of subinterval to process, the interval ( c, d) such that cis as small as possible and remove this subinterval
+from the list.
+2. Solve the initial value problem(
+u′(t) =F(t,u(t)), c < t < d,
+u(c) =w(65)
+If (c, d) = (a, b), then we take w=v. Otherwise, the value of the solution at the point chas already been approximated,
+and we use that estimate for win (65).
+If the problem is linear, a straightforward Chebyshev integral equation method (see, for instance, [6]) is used to solve
+(65). Otherwise, the trapezoidal method is first used to produce an initial approximation y0of the solution and then
+Newton’s method is applied to refine it. The linearized problems are solved using a Chebyshev integral equation method.
+In any event, the result is a set of ( k−1)storder Chebyshev expansions
+ui(t)≈k−1X
+j=0λijTj2
+d−ct+c+d
+c−d
+, i= 1, . . . , n, (66)
+approximating the components u1, . . . , u nof the solution of (65).
+3. Compute the quantitiesqPk−1
+j=⌊k/2⌋+1|λij|2
+qPk−1
+j=0|λij|2, i= 1, . . . , n, (67)
+where the λijare the coefficients in the expansions (66). If any of the resulting values is larger than ϵ, then we split the
+subinterval into two halves
+c,c+d
+2
+and
+c+d
+2, d
+and place them on the list of subintervals to process. Otherwise, we
+place the subinterval ( c, d) on the list of accepted subintervals.
+At the conclusion of this procedure, we have ( k−1)storder piecewise Chebyshev expansions for each component of the
+solution, with the list of accepted subintervals determining the partition for each expansion.

@@ -1,0 +1,1257 @@
+Variational Inference for Neyman-Scott Processes
+Chengkuan Hong Christian R. Shelton
+Tsinghua University
+chong009@ucr.eduUniversity of California, Riverside
+cshelton@cs.ucr.edu
+Abstract
+Neyman-Scott processes (NSPs) have been ap-
+plied across a range of ﬁelds to model points
+or temporal events with a hierarchy of clusters.
+Markov chain Monte Carlo (MCMC) is typically
+used for posterior sampling in the model. How-
+ever, MCMC’s mixing time can cause the re-
+sulting inference to be slow, and thereby slow
+down model learning and prediction. We de-
+velop the ﬁrst variational inference (VI) algo-
+rithm for NSPs, and give two examples of suit-
+able variational posterior point process distri-
+butions. Our method minimizes the inclusive
+Kullback-Leibler (KL) divergence for VI to ob-
+tain the variational parameters. We generate
+samples from the approximate posterior point
+processes much faster than MCMC, as we can
+directly estimate the approximate posterior point
+processes without any MCMC steps or gradient
+descent. We include synthetic and real-world
+data experiments that demonstrate our VI al-
+gorithm achieves better prediction performance
+than MCMC when computational time is limited.
+1 INTRODUCTION
+Neyman-Scott processes (Neyman and Scott, 1958) have
+achieved great success in many ﬁelds, e.g., pandemic
+modeling (Park et al., 2022), neuroscience (Williams
+et al., 2020), and seismology (Hong and Shelton, 2022),
+where posterior sampling plays an important role. Many
+MCMC algorithms ( e.g., Møller and Waagepetersen, 2003;
+Williams et al., 2020; Hong and Shelton, 2022) have been
+proposed for the posterior sampling. However, a large
+number of mixing steps is generally required for MCMC,
+which makes it inefﬁcient to generate samples from the
+posterior point process.
+Proceedings of the 26thInternational Conference on Artiﬁcial
+Intelligence and Statistics (AISTATS) 2023, Valencia, Spain.
+PMLR: V olume 206. Copyright 2023 by the author(s).To accelerate the approximate posterior inference of the
+hidden points, we propose a variational inference (VI) al-
+gorithm. We employ an autoencoder to construct two vari-
+ational posterior point processes. One of these has the same
+functional form as the virtual point processes, which work
+as auxiliary variables for MCMC, in Hong and Shelton
+(2022), and the other uses self-attention (Vaswani et al.,
+2017) to construct a more general approximation. We
+can sample from our approximation much faster than from
+MCMC because mixing is not needed for the approxima-
+tion. With faster sampling from our approximate posterior
+point processes, we are able to achieve better prediction re-
+sults when there is a time constraint.
+We brieﬂy review VI and Neyman-Scott processes in
+Sec. 2. Sec. 3 gives a general formula for our approximate
+posterior point processes, and Sec. 4 gives two speciﬁc ex-
+amples for the approximation. Sec. 5 gives details about
+the inference procedure. Sec. 6 explains how to do pre-
+diction and discusses why our approximate posterior point
+processes can behave better than MCMC when there is a
+constraint for the time. Finally, we use experiments to sup-
+port our claim in Sec. 7 and conclude this paper in Sec. 8.
+While our experiments are only for temporal point pro-
+cesses, our algorithms can be applied to a general spatio-
+temporal point process as explained in Remark 1.
+2 BACKGROUND
+2.1 Variational Inference
+VI transforms a posterior inference problem into an opti-
+mization problem, and it has already been very successful
+for probabilistic modeling. Usually, VI ﬁrst constructs a
+family of approximate distributions q, and then adjusts the
+parameters of qto approach the true posterior distribution p
+by minimizing a divergence metric. Most VI algorithms try
+to minimize the exclusive KL divergence, KL (q∥p)(e.g.,
+Jordan et al., 1999; Kingma and Welling, 2014; Ranganath
+et al., 2014; Blei et al., 2017). While it is computationally
+efﬁcient to optimize the exclusive KL divergence, it can
+lead to underestimation of the uncertainty of the posterior
+(Naesseth et al., 2020). To mitigate the underestimation is-
+sue, Naesseth et al. (2020) proposed a VI algorithm, calledarXiv:2303.03701v1  [stat.ML]  7 Mar 2023Variational Inference for Neyman-Scott Processes
+Markovian score climbing (MSC), that minimizes the in-
+clusive KL divergence, KL (p∥q). MSC uses MCMC to
+get an unbiased estimate of the gradient of the inclusive KL
+divergence. Naesseth et al. (2020) also shows that MSC can
+be combined with maximum likelihood estimation (MLE)
+to jointly learn variational parameters and model parame-
+ters.
+In a similar fashion, we design a VI algorithm for NSPs
+that minimizes inclusive KL divergence. Different from
+MSC, whose variational parameters are for Markov ker-
+nels, our variational parameters are for auxiliary variables
+of MCMC. Moreover, the number of dimensions is ﬁxed in
+Naesseth et al. (2020), and our MCMC has an unbounded
+number of dimensions. To the best of our knowledge, we
+are the ﬁrst to design a VI algorithm for NSPs and there
+does not exist any pre-existing work for minimizing the ex-
+clusive KL divergence. While we only focus on the VI
+for minimizing inclusive KL divergence in this paper, the
+minimization of exclusive KL divergence could also be in-
+teresting and we leave it for future research.
+2.2 Neyman-Scott Processes
+The Neyman-Scott process (NSP) was ﬁrst proposed by
+Neyman and Scott (1958). NSPs are a class of hierarchical
+point process models built by stacking Poisson processes
+into a network. NSPs were originally univariate, i.e., can
+only be applied to events with one type or mark. Hong
+and Shelton (2022) introduce multivariate NSPs with hi-
+erarchical structures, called deep Neyman-Scott processes
+(DNSPs). We use “deep” to differentiate our work from
+other work that only has one hidden layer ( e.g., Møller and
+Waagepetersen, 2003; Linderman et al., 2017; Williams
+et al., 2020). While Hong and Shelton (2022) only have
+experiments for temporal point processes (TPPs), their al-
+gorithms can be used for spatio-temporal NSPs with multi-
+ple dimensions.
+The major assumption of DNSPs is that the observed events
+(points) are triggered by the hidden events (points). For ex-
+ample, earthquakes are usually triggered by sudden energy
+releases of the Earth. The times and locations of energy
+releases are hidden (not directly observed) points. We can
+leverage the power of DNSPs to infer the potential times
+and locations of energy releases given the times, locations,
+and magnitudes of the observed earthquakes. Then, based
+on the inferred hidden information, we can predict the time
+and the magnitude of the next future earthquake conditional
+on the observed earthquakes.
+More generally, the hierarchical systems of DNSPs are
+formed by the iterative generation procedures of the hid-
+den points. Each hidden point (parent) can trigger a set of
+hidden points as its children. The generated child points
+can also work as parent points and trigger their own sets of
+children. This iterative process continues until the observedpoints are generated. With this hierarchical structure, we
+are able to infer more hidden information. For example,
+we can infer the hidden triggers of the energy releases of
+earthquakes. The experiments in Hong and Shelton (2022)
+and our experiments in Sec. 7.2 also show that more hidden
+point processes can bring better prediction performance.
+We typically use conditional intensity functions (CIFs) to
+describe TPPs.
+Deﬁnition 1 (conditional intensity function) .The condi-
+tional intensity function (CIF) of a TPP is deﬁned as
+λ(t) = lim
+∆t→0Pr(One event in [t,t+ ∆t]| Ht)
+∆t,
+whereHtrepresents the events that happened before t.
+The log-likelihood function for a TPP deﬁned on (0,T]is
+n∑
+i=1logλ(ti)−∫T
+0λ(t)dt,
+whereλ(t)is the CIF and t1≤t2≤t3≤···≤tnare the
+times of observations.
+Figs. 1 and 2 in Hong and Shelton (2022) provide good il-
+lustrations for deep Neyman-Scott processes, where each
+observed sequence of events has Lhidden layers of (multi-
+ple) Poisson processes. The CIF for each Poisson process
+of layerlis determined by the events from the layer im-
+mediately above layer l+ 1. For simplicity, we omit the
+data indexnin the following formal description of the gen-
+erative process for DNSPs, and only consider TPPs in this
+paper. LetZℓ,krepresent the k-th hidden Poisson process
+at layerℓ,Kℓbe the number of point processes at layer
+ℓ,φθ(ℓ+1,i)→(ℓ,k)be the kernel function that connects Zℓ,k
+andZℓ+1,i,zℓ,i={tℓ,i,j}mℓ,i
+j=1be a realization for Zℓ,i,
+zℓ={zℓ,i}Kℓ
+i=1, andz0=x. To generate the events for the
+bottom layer, we ﬁrst need to generate random events from
+the top layer. The CIF for ZL,kis
+λL,k(t) =µk, whereµk>0.
+Then, we can draw samples for each hidden Poisson pro-
+cess conditional on the Poisson processes that are from the
+layers immediately above. The CIF for Zℓ,kis
+λℓ,k(t) =Kℓ+1∑
+i=1∑
+tℓ+1,i,jφθ(ℓ+1,i)→(ℓ,k)(t−tℓ+1,i,j).(1)
+We denote this point process as the real point process
+(RPP), to make a distinction with the virtual point process
+(VPP), below, used to add auxiliary variables to a Markov
+chain.Chengkuan Hong, Christian R. Shelton
+2.3 Kernel Function
+We choose the kernel function to be a Weibull kernel,
+φθ(x) ={
+p·k
+λ(x
+λ)k−1e−(x/λ)kforx>0, k,λ> 0,
+0 forx≤0,
+whereθ={p,k,λ}. Here, we omit the subscripts of θ
+in the deﬁnition for simplicity as it is the general form.
+Similar to the gamma kernel used in previous work, the
+Weibull kernel converges to 0 when xgoes to inﬁnity as
+the inﬂuence of the events from the past will fade even-
+tually. The shape of a Weibull kernel is very similar to
+a gamma kernel, and, with different combinations of the
+parameters, the Weibull kernel can also monotonically de-
+crease or behave like a Gaussian function. But, the Weibull
+kernel has the advantage over the gamma kernel that the
+gradients of the Weibull kernel function itself and the in-
+tegral of the Weibull kernel function are both analytically
+available. The only restriction for the kernel function is that
+Eqs. 1, 2, 5, and 6 are non-negative.
+2.4 Monte Carlo Expectation-Maximization
+Hong and Shelton (2022) introduced a Monte Carlo
+expectation-maximization (MCEM) algorithm for infer-
+ence.
+Virtual events work as auxiliary variables to accelerate the
+mixing of MCMC chains, and are candidate events for real
+events. When searching for the positions of the real events,
+we only need to search where the virtual events appear in-
+stead of in the whole space. Because of this, the virtual
+point processes (VPPs) ˜Zare designed to be as close as
+possible to the true posterior point processes of the real
+point processes Z. For the same reason, the CIFs for VPPs
+evolve in the reverse directions (temporally backward and
+“up” the layers) relative to the real point processes (tempo-
+rally forward and “down” the layers).
+Similar to the RPPs, ˜Zℓ,krepresents the k-th hidden Pois-
+son process on layer ℓ,˜φ˜θ(ℓ−1,i)→(ℓ,k)is the kernel function
+connectsZℓ−1,iand˜Zℓ,k, and ˜µℓ,k≥0is the base rate. In
+this case, the history Htin Deﬁnition 1 becomes the events
+that happened after t. Then, the CIF for ˜Zℓ,kconditioned
+onZℓ−1is
+˜λℓ,k(˜t) = ˜µℓ,k+Kℓ−1∑
+i=1∑
+tℓ−1,i,j˜φ˜θ(ℓ−1,i)→(ℓ,k)(tℓ−1,i,j−˜t).(2)
+We brieﬂy outline the MCEM algorithm (Hong and Shel-
+ton, 2022) in Alg. 1. logp(x,z)in line 3 is the joint
+log-likelihood of the hidden RPPs and the observation
+x.logq(z)in line 4 represents the log-likelihood for the
+VPPs. There is a slight difference between Alg. 1 and the
+employed MCEM algorithm: We directly maximize theAlgorithm 1 MCEM for DNSPs
+Input : data x, modelM
+Initialization : parameters for RPPs Θ0, parameters for
+VPPs ˜Θ0, initial sample for RPPs z0, and iterations N.
+Output :ΘN≈Θ∗,˜ΘN≈˜Θ∗
+1:forn= 1toNdo
+2: sample zn∼p(z|x;Θn−1,zn−1)
+3: Θn←Θn−1+ηn∇Θlogp(x,z;Θn−1)
+4: ˜Θn←˜Θn−1+ ˜ηn∇˜Θlogq(z;x,˜Θn−1)
+5:end for
+constant rates µinstead of doing gradient ascent. Line 2
+does posterior sampling via MCMC, and the previous sam-
+plezn−1serves as the initial state of the next MCMC step.
+Line 3 is used to maximize the marginal likelihood. Line
+4 adjusts the parameters for VPPs to make VPPs closer to
+the posterior RPPs. ηnand˜ηnare step sizes for gradient
+ascent.
+Hong and Shelton (2022) only use Alg. 1 to learn the model
+parameters for DNSPs, without any discussion of the vari-
+ational inference. However, we can directly use Alg. 1 to
+learn the parameters for our approximate point processes,
+which is one of our main contributions.
+3 APPROXIMATE POSTERIOR POINT
+PROCESSES
+We denote our variational approximate point processes as
+ZI, and we assume they have hierarchical structures like
+DNSPs. However, the approximate point processes are
+generated from bottom to top (upward), instead of from top
+to bottom (downward). The upward approximation mecha-
+nism allows us to infer the approximate posterior distribu-
+tions of the point processes directly from the observation,
+which can help accelerate the sampling process for the pos-
+terior point processes. Moreover, the events from the layers
+immediately below can give heuristics for the positions of
+the posterior events from the layers immediately above.
+Generative Semantics for ZIThe approximate poste-
+rior point processes are generative models, and they are
+denoted as ZI={ZI
+1,···,ZI
+L}, with ZI
+ℓ={ZI
+ℓ,k}Kℓ
+k=1.
+ZI
+1is assumed to be Poisson processes, and the CIF for
+ZI
+1,kis
+λI
+1,k(t) =qI
+1,k(t;zI
+0=x,θI
+1,k(t)), (3)
+whereqI
+1,k(t;x,θI
+1,k(t))is a function of twith some pa-
+rameters determined by the events from the observation x,
+and other parameters θI
+1,k(t)that can depend on time t.
+Next, we draw samples for each ZI
+ℓconditional on the sam-
+pleszI
+ℓ−1fromZI
+ℓ−1. The CIF for ZI
+ℓ,kconditional on ZI
+ℓ−1Variational Inference for Neyman-Scott Processes
+0.0 2.5 5.0 7.5 10.0 12.5 15.0 17.5 20.0
+Time0.00.51.0IntensityLayer 2
+0.0 2.5 5.0 7.5 10.0 12.5 15.0 17.5 20.0
+Time012IntensityLayer 1
+(a) UNSP vs. MCMC
+0.0 2.5 5.0 7.5 10.0 12.5 15.0 17.5 20.0
+Time0.00.51.0IntensityLayer 2
+0.0 2.5 5.0 7.5 10.0 12.5 15.0 17.5 20.0
+Time0123IntensityLayer 1
+(b) USAP vs. MCMC
+Figure 1: Comparison Between UNSP and USAP
+is
+λI
+ℓ,k(t) =qI
+ℓ,k(t;zI
+ℓ−1,θI
+ℓ,k(t)), (4)
+whereqI
+ℓ,k(t;zI
+ℓ−1,θI
+ℓ,k(t))is a function of twith some pa-
+rameters determined by the events from zI
+ℓ−1, and other
+parameters can also depend on time t.
+4 EXAMPLES FOR V ARIATIONAL
+POINT PROCESSES
+As explained above, there are two major goals when
+constructing the approximations: (1) the approximations
+should be able to propagate the information from the ob-
+servations to the top, and (2) the approximate posterior
+point processes should be close to the true posterior point
+processes. For these purposes, we consider the following
+two examples of functional forms for qI
+ℓ,k(·)in this paper:
+upward Neyman-Scott processes and upward self-attention
+processes.
+Upward Neyman-Scott Processes (UNSPs) Like the
+virtual point processes, we can assume the approximate
+point processes are NSPs evolving in an upward direction.In this case, the CIF is
+λI
+ℓ,k(t)=qI
+ℓ,k(
+t;zI
+ℓ−1,θI
+ℓ,k)
+=µI
+ℓ,k+Kℓ−1∑
+i=1∑
+tℓ−1,i,jφθI
+(ℓ−1,i)→(ℓ,k)(tℓ−1,i,j−t),(5)
+where ΘI
+ℓ,k={
+µI
+ℓ,k,{
+θI
+(ℓ−1,i)→(ℓ,k)}Kℓ−1
+i=1}
+andµI
+ℓ,k≥
+0. We see that Eq. 5 has the same functional form as Eq. 2.
+Upward Self-Attention Processes (USAPs) Self-
+attention has been widely used in the modeling for point
+processes ( e.g., Zuo et al., 2020; Zhang et al., 2020; Chen
+et al., 2021). Here, we use self-attention to encode the event
+information from a layer below to a layer above. Each
+eventtℓ−1,i,jis encoded into a hidden vector hℓ−1,i,j=
+fAttn(tℓ−1,i,j,zI
+ℓ−1={{tℓ−1,i,j}mℓ−1,i
+j=1}Kℓ−1
+i=1})through
+self-attention. The CIF for tℓ−1,i,j−1< t≤tℓ−1,i,j
+becomes
+λI
+ℓ,k(t) =qI
+ℓ,k(
+t;zI
+ℓ−1,θI
+ℓ,k)
+=µI
+ℓ,k+φθI
+ℓ−1,i,j(tℓ−1,i,j−t), (6)
+where ΘI
+ℓ,k={
+µI
+ℓ,k,{{
+θI
+ℓ−1,i,j}Kℓ−1
+i=1}mℓ−1,i
+j=1}
+,µI
+ℓ,k≥
+0, andθI
+ℓ,kis the output of a linear transformation of
+the hidden vector hℓ−1,i,j. More details can be found in
+Appx. A.
+Comparison We plot the intensity functions estimated
+by using UNSPs, USAPs, and MCMC in Fig. 1 to com-
+pare the approximation abilities of UNSPs and USAPs. We
+choose 3 events by hand in the observation (times at 6, 10,
+and 20) to illustrate the VI effects in a clean and typical
+example, and we use MCMC, UNSPs, and USAPs to infer
+the posterior point processes.
+The model parameters for the underlying DNSP are ﬁxed.
+We only adjust the variational parameters to let the vari-
+ational point processes (USAPs and UNSPs) approximate
+the posterior point processes. Layer 2 is further away from
+the observation than layer 1. The yellow lines with many
+spikes are the approximate intensity functions estimated by
+using the samples from MCMC. We divide the time inter-
+val into many small subintervals, and for each small subin-
+terval, the approximate intensity function is the number of
+events in that small subinterval divided by the length of that
+small subinterval. The blue solid lines are approximate in-
+tensity functions for VI. We obtain the intensity function
+for layer 1 directly from qI
+1,0(·). For the approximate in-
+tensity function for layer 2, we ﬁrst generate many samples
+fromqI
+1,0(·)which induce samples of qI
+2,0(·). Then the ap-
+proximate intensity function for layer 2 is the mean of all
+the samples for qI
+2,0(·). We see that USAP ﬁts the approx-
+imate intensity functions estimated by the MCMC better
+than UNSP.Chengkuan Hong, Christian R. Shelton
+The better approximation of USAPs in Fig. 1 comes from
+the fact that the kernel function can adjust its parameters at
+each interval independently. While for UNSPs, the CIF at
+each interval is affected by all the kernel functions that are
+triggered by the events which happen after that interval and
+are from the layer immediately below.
+In addition, for the CIFs of the approximate posterior point
+processes at time t, USAPs can capture the information
+from both the events happening before tand the events hap-
+pening after t, while UNSPs can only propagate the infor-
+mation from the future to the past. Both the events hap-
+pening before tand the events happening after thave an
+inﬂuence on the posterior point processes at time t(Hong
+and Shelton, 2022, Proposition 1). Therefore, USAPs are
+better than UNSPs, since UNSPs only include the informa-
+tion of the events happening after t.
+Algorithm 2 Prediction with MCMC or approximation
+Input: observed data x={e1,e2,···,en}, where
+ei= (ti,ki), samplerG(x,ΘG), and modelM.
+Initialization: Θ,˜Θ, and sample sizeS.
+Output: time prediction ˆtn+1, type prediction ˆkn+1
+⊿If we are predicting using MCMC,
+G(x,ΘG) =p(z|x;Θ), where ΘG=Θ.
+⊿If we are predicting using approximation,
+G(x,ΘG) =q(z;x,ΘI), where ΘG=ΘI.
+1:fors=1toSdo
+2: sample zs∼G(x,ΘG)
+3:end for
+4:estimate the CIFs for the top layer based on {zs}S
+s=1
+(MLE)
+5:fors=1toSdo
+6: sample zs∼G(x,ΘG)
+7: sample the future time ˆts
+n+1based on zs
+8: sample the future type ˆks
+n+1based on zs
+9:end for
+10:ˆtn+1=1
+SS∑
+s=1ˆts
+n+1
+11:ˆkn+1= arg max
+k∈{1,...,K 0}S∑
+s=11k(ˆks
+n+1)
+Remark 1. Similar to Hong and Shelton (2022), we can
+simply replace the kernel function with a non-causal kernel
+(i.e., a kernel function that has positive values for all inputs
+with any dimensionality) to apply UNSPs in general Eu-
+clidean space (not just a timeline). It is not as straightfor-
+ward to apply USAPs to spatial point processes (SPPs) with
+multiple dimensions, as we need to identify the “bounding”
+events for any point in space.5 INFERENCE
+5.1 Inference for the Model Parameters
+While Hong and Shelton (2022) view the line 3 in Alg. 1
+as a part of ascent-based MCEM, we can also view it as
+an unbiased estimator of the gradient of the marginal like-
+lihood logp(x;Θ)based on the Fisher identity (Ou and
+Song, 2020; Naesseth et al., 2020),
+∇Θlogp(x;Θ) =Ep(z|x;Θ)[∇Θlogp(z,x;Θ)].(7)
+Based on Eq. 7, we can update the model parameters by
+stochastic gradient ascent. The full convergence analysis
+for the model parameters has not been well-established,
+and it is still an active research area (Neath et al., 2013;
+Hong and Shelton, 2022).
+5.2 Inference for the Variational Parameters
+Variational inference with the inclusive KL divergence and
+unbiased gradient has demonstrated the ability to help mit-
+igate the issue of the underestimation of the variance of the
+posterior (Naesseth et al., 2020). The inclusive KL diver-
+gence between the true posterior point processes and the
+approximate point processes KL (p∥qI)is
+Ep(z|x;Θ)[
+logp(z|x;Θ)−logq(z;x,ΘI)]
+,
+where ΘI={{
+ΘI
+ℓ,k}L
+ℓ=1}Kℓ
+k=1,logq(z;x,ΘI)is the
+log-likelihood of the approximate point processes, and
+logq(z;x,ΘI)=L∑
+ℓ=1logq(zℓ;zℓ−1,ΘI
+ℓ)
+=L∑
+ℓ=1Kℓ∑
+k=1
+∑
+tℓ,k,jlogλI
+ℓ,k(tℓ,k,j)−∫T
+0λI
+ℓ,k(t)dt
+.
+The gradient of the KL divergence w.r.t the variational pa-
+rameters ΘIis
+Ep(z|x;Θ)[−∇ΘIlogq(z;x,ΘI)], (8)
+becausep(z|x;Θ)does not depend on ΘI.
+Naesseth et al. (2020) prove the convergence of the vari-
+ational parameters under some regularity conditions for
+MCMC with a ﬁxed number of dimensions. However, our
+Markov chains have an unbounded number of dimensions.
+We leave the research for the convergence of our variational
+parameters for future work.
+According to Eq. 8 and line 4 in Alg. 1, we can see that
+the gradient of the inclusive KL divergence is identical to
+the gradient of the log-likelihood of the virtual point pro-
+cesses if we let the virtual point processes be our approx-
+imate point processes ( i.e., let ˜Θ=ΘI). Therefore, weVariational Inference for Neyman-Scott Processes
+can use Alg. 1 to train our approximate point processes
+and the parameters for the virtual point processes would
+just be the parameters for our approximate point processes.
+Then, when doing sampling for the approximate posterior
+point processes, we can directly sample from it using the
+inversion sampling without involving any gradient ascent
+or MCMC steps. This is especially helpful when doing pre-
+diction because we can avoid the time-consuming mixing
+steps of MCMC for the prediction of each event. We will
+explain more about this in Sec. 6.
+We use Adam (Kingma and Ba, 2015) to optimize both the
+model parameters and variational parameters.
+6 PREDICTION
+We follow the prediction procedures with MCMC devel-
+oped by Hong and Shelton (2022) in Alg. 2. Suppose
+we are given a sequence of events {e1,e2,···,en}, where
+ei= (ti,ki),tiandkirepresent the time and the type for
+thei-th event respectively, and t1≤t2≤t3≤···≤tn.
+We initialize RPPs with parameters Θ, VPPs with param-
+eters ˜Θ. These parameters were obtained by MCEM run-
+ning on the training data. We ﬁrst generate posterior sam-
+ples to estimate the constant rates for the top layer. Sup-
+pose the number of events for the s-th sample of ZL,k
+isms
+L,kand the time period is [0,T], then the MLE for
+the constant rate is µk=1
+S∑S
+s=1ms
+L,k
+T. After getting
+new constant rates for the top layer, we can generate a
+new set of posterior samples, starting the initial state of
+the Markov chain to be the last sample of the previous
+MCMC sampling. Conditional on the generated poste-
+rior sample z, we can extend the CIFs of RPPs to the fu-
+ture ( i.e., the CIFs at the time period (tn,∞)), because
+the CIFs only depend on the history of the events. Then,
+we can sample the time and the type for the next fu-
+ture event. Suppose the samples for the next future event
+(en+1) are (t1
+n+1,k1
+n+1),(t2
+n+1,k2
+n+1),..., (tS
+n+1,kS
+n+1),
+where (ts
+n+1,ks
+n+1)represents the s-th sample of the time
+and the type for the (n+ 1) -th event, then the time pre-
+diction is ˆtn+1=1
+S∑S
+s=1ts
+n+1and the type prediction
+isˆkn+1= arg maxk∈{1,...,K 0}∑S
+s=11k(ks
+n+1), where
+1k(ks
+n+1)is equal to 1 iffk=ks
+n+1. After each predic-
+tion, we record the last posterior sample as the initial state
+of the next MCMC step, and we also update the constant
+rates for the top layer using MLE.
+In Alg. 2, we can replace the MCMC sampling with the
+sampling from our approximate posterior point processes
+to get our proposed method for prediction. Sampling from
+q(z;x,ΘI)is much faster than sampling from MCMC, be-
+cause we can directly use the inversion method (C ¸ inlar,
+2013) to sample instead of performing many MCMC steps.
+Faster sampling can help us achieve better prediction per-
+formance when only a limited amount of time is allowed,which we will use experiments to demonstrate in Sec. 7.
+7 EXPERIMENTS
+The code is available online at https://github.com/
+hongchengkuan/Inclusive_VI_NSPs . We implement
+all the algorithms on the same code base using Pytorch,
+so the implementation has little inﬂuence on the time com-
+parison.
+Following Hong and Shelton (2022), we use root mean
+square error (RMSE) to compare the time prediction and
+use accuracy to compare the type prediction. The models
+we use for DNSPs are 1-hidden and 2-hidden as explained
+in Hong and Shelton (2022). Each dataset is split into
+training, validation, and test sets. We use training sets to
+train our model parameters and variational parameters, use
+validation sets to stop early, and use test sets to calculate
+the metrics used to compare the performance. When per-
+forming prediction, we use different numbers of samples
+to measure the performance. Different numbers of sam-
+ples correspond to different computational time budgets, as
+more time is needed for a larger sample size. We add a tiny
+background base rate (1×10−10)to the intensity for the
+observation to prevent NaN and Inf issues. More details
+about the experiments can be found in Appx. B.
+In Figs. 2, 3, 4 and 5, we use different line styles with dif-
+ferent colors to represent the results from different mod-
+els or algorithms, where DNSP-MCMC represents the re-
+sults obtained by performing prediction using MCMC for
+DNSPs, DNSP-UNSP represents the results obtained by
+performing prediction using approximation with UNSPs
+for DNSPs, DNSP-USAP represents the results obtained
+by performing prediction using approximation with US-
+APs, THP represents transformer Hawkes process (Zuo
+et al., 2020), SAHP represents self-attentive Hawkes pro-
+cess (Zhang et al., 2020), NHP represents neural Hawkes
+process (Mei and Eisner, 2017), and MTPP is a multitask
+point process model (Lian et al., 2015). The vertical axes
+represent the RMSE or accuracy. The horizontal axes rep-
+resent the time used to do sampling with various sample
+sizes for the predictions for all events from all sequences.
+Among UNSPs, USAPs, and MCMC, UNSPs are the best
+in the areas ﬁlled with light orange, and USAPs are the best
+in the areas ﬁlled with light green. A table of results with
+performance compared at ﬁxed time-points is presented in
+Appx. B.3, where “/” means there is no result for that entry.
+Our experiments show that when only a limited amount of
+time is available, UNSPs and USAPs perform better than
+MCMC for both time prediction and type prediction. US-
+APs are clearly better than UNSPs in terms of time pre-
+diction, and the type predictions of USAPs and UNSPs are
+similar, although USAPs require more computational re-
+sources than UNSPs. Moreover, DNSPs-based methods areChengkuan Hong, Christian R. Shelton
+DNSP-MCMC
+ DNSP-UNSP
+ DNSP-USAP THP SAHP NHP MTPP
+5×1081×109RMSE
+0150 300 450
+Time (s)010
+(a) 1-hidden RMSE
+0150 300 450
+Time (s)0.560.580.60Accuracy
+ (b) 1-hidden accuracy
+2×1084×108RMSE
+0 4000 8000 12000
+Time (s)010
+ (c) 2-hidden RMSE
+0 4000 8000 12000
+Time (s)0.800.820.840.86Accuracy
+ (d) 2-hidden accuracy
+Figure 2: Synthetic Dataset
+2×10114×10116×1011RMSE
+02×105
+4×105
+Time (s)4×1031×104
+(a) 1-hidden RMSE
+02×105
+4×105
+Time (s)0.200.300.400.500.60Accuracy
+ (b) 1-hidden accuracy
+5×10101×10112×1011RMSE
+0 2×105
+4×105
+Time (s)5×1032×104
+ (c) 2-hidden RMSE
+0 2×105
+4×105
+Time (s)0.200.400.600.80Accuracy
+ (d) 2-hidden accuracy
+Figure 3: Retweet Dataset
+5×10111×1012RMSE
+02×104
+4×104
+Time (s)1×1032×103
+(a) 1-hidden RMSE
+02×104
+4×104
+Time (s)0.400.450.500.550.60Accuracy
+ (b) 1-hidden accuracy
+2×10104×10106×1010RMSE
+0 1×105
+2×105
+Time (s)1×1032×103
+ (c) 2-hidden RMSE
+0 1×105
+2×105
+Time (s)0.400.500.600.70Accuracy
+ (d) 2-hidden accuracy
+Figure 4: Earthquake Dataset
+0 2×104
+3×104
+Time (s)1×1051×1051×1052×1052×1052×105RMSE
+(a) 1-hidden RMSE
+0 2×104
+3×104
+Time (s)0.100.150.200.250.30Accuracy
+ (b) 1-hidden accuracy
+0 8×104
+2×105
+Time (s)1×1051×1051×1052×1052×1052×105RMSE
+ (c) 2-hidden RMSE
+0 8×104
+2×105
+Time (s)0.200.400.600.80Accuracy
+ (d) 2-hidden accuracy
+Figure 5: Homicide DatasetVariational Inference for Neyman-Scott Processes
+better than non-DNSPs-based methods for all these real-
+world datasets.
+7.1 Synthetic Data Experiments
+We construct 2 synthetic datasets. One dataset is generated
+from a 1-hidden model and the other is generated from a 2-
+hidden model. We use the 1-hidden DNSP to learn from the
+dataset generated from 1-hidden, and the 2-hidden DNSP
+to learn from the dataset generated from 2-hidden. For sim-
+plicity,kis set to be 1 and ﬁxed for the Weibull kernel, so
+that it becomes an exponential function.
+Fig. 2 summarizes the results for our synthetic datasets.
+It shows that when we increase the sample size, the pre-
+diction performance of UNSPs, USAPs, and MCMC be-
+come better, at a cost of running time. The improvement
+of MCMC is more signiﬁcant, as MCMC becomes closer
+to the true posterior point processes when we sample more
+from MCMC, while USAPs and UNSPs will never con-
+verge to the true posterior point processes. It also demon-
+strates that USAPs and UNSPs can achieve better predic-
+tion results for both the time and the type than MCMC
+when only a small period of time is allowed. When we
+can run our programs long enough, MCMC achieves the
+best results for all these experiments, which is reasonable
+because MCMC converges to the true posterior distribution
+when the sample size goes to inﬁnity and the synthetic data
+is generated from DNSPs.
+USAPs are better than UNSPs with regards to RMSE for
+both 1-hidden and 2-hidden datasets (Figs. 2a and 2c).
+There is a signiﬁcant drop for the RMSE when we increase
+the sample size; it is because we may have no or very few
+hidden events in our posterior samples when the sample
+size is too small, causing the CIFs for the top layer or for
+the future to be very small. With a small CIF, the sample
+for the next future event would be very far away from the
+next true future event.
+For accuracy, USAPs are clearly better than UNSPs for the
+2-hidden synthetic dataset (Fig. 2d) and they have similar
+performance for the 1-hidden synthetic dataset (Fig. 2b).
+7.2 Real-World Data Experiments
+Similar to Hong and Shelton (2022), the datasets we use
+are of retweets (Zhao et al., 2015), earthquakes (NCEDC,
+2014; BDSN, 2014; HRSN, 2014; BARD, 2014), and
+homicides (COC, 2022). More details of the datasets can be
+found in Appx. B. We compare MCMC, UNSPs, and US-
+APs for DNSPs with other state-of-the-art methods: trans-
+former Hawkes process (THP) (Zuo et al., 2020), self-
+attentive Hawkes process (SAHP) (Zhang et al., 2020),
+neural Hawkes process (NHP) (Mei and Eisner, 2017),
+and MTPP (Lian et al., 2015). THP, SAHP, and NHP are
+neural-network-based Hawkes processes. MTPP is a Cox-process-based model. We split each real-world dataset into
+training, validation, and test sets. We train, validate and test
+for all these models using the same split. For retweets, we
+use mini-batch gradient ascent, and we use batch gradient
+ascent for other datasets. The training and prediction pro-
+cedures of the methods are the same as in Hong and Shelton
+(2022). We do not ﬁx kfor the Weibull kernel as we did in
+the synthetic data experiments.
+Figs. 3, 4 and 5 summarize the experimental results for
+retweets, earthquakes, and homicides respectively. Similar
+to the experimental results for the synthetic dataset, UNSPs
+and USAPs are better than MCMC for both the time pre-
+diction and the type prediction when we only have a small
+number of samples from the approximate posterior distri-
+bution. As we increase the sample size, UNSPs, USAPs,
+and MCMC all gain some improvement to various degrees.
+For the time prediction, DNSPs with MCMC or approxi-
+mate posterior point processes achieve the best prediction
+results in all these experiments (Figs. 3a, 3c, 4a, 4c, 5a, and
+5c). UNSPs or USAPs are better than other non-DNSPs
+baselines for all these experiments (Figs. 3a, 3c, 4a, 4c, 5a,
+and 5c). USAPs are better than UNSPs for all of these ex-
+periments in the end (Figs. 3a, 3c, 4a, 4c, 5a, and 5c). UN-
+SPs are better than USAPs for retweets and earthquakes
+when we only have a small number of samples (Figs. 3a,
+3c, 4a, and 4c). USAPs are always better than UNSPs for
+homicides in terms of time prediction (Figs. 5a and 5c).
+For the type prediction, DNSPs with MCMC or approxi-
+mate posterior point processes achieve the best prediction
+results for all these datasets (Fig. 3d for retweets, 4d for
+earthquakes, Fig. 5d for homicides). UNSPs or USAPs are
+better than other non-DNSPs baselines for all these datasets
+(Fig. 3d for retweets, 4d for earthquakes, Fig. 5d for homi-
+cides). In Figs. 3b and 5d, USAPs are better than UNSPs,
+while UNSPs are better than USAPs in Figs. 3d and 4d.
+USAPs and UNSPs have similar performance in Figs. 4b
+and 5b.
+Compared with the results in Hong and Shelton (2022),
+DNSP-MCMC in this paper is better in terms of accuracy
+and RMSE. The performance of MCMC differs because we
+use a Weibull kernel in this paper, while Hong and Shelton
+(2022) adopt a gamma kernel, as explained in Sec. 2.3.
+7.3 Computational Complexity
+The full analysis requires the bound for the mixing steps of
+MCMC. The analysis is not trivial and we do not have this
+bound (see Hong and Shelton, 2022, Appx. G.5).
+8 CONCLUSION
+VI and point processes have both attracted great attention
+due to their excellent performance. However, little atten-Chengkuan Hong, Christian R. Shelton
+tion has been given to developing VI algorithms for point
+processes with hierarchical structures. We develop the ﬁrst
+VI algorithm for NSPs (a class of point processes with hi-
+erarchical structures) in this paper.
+Typically, posterior inference for NSPs is considered a very
+hard problem, and MCMC is required, as it involves an un-
+bounded number of points in the posterior point processes.
+We incorporate MCMC into our VI algorithm, treating the
+samples from our approximate posterior point processes
+as the candidates for the posterior point processes. Dur-
+ing training processes, we gradually update our approxi-
+mations to make our approximations become closer and
+closer to the posterior point processes through the mini-
+mization of the inclusive KL divergence. Our experiments
+show that our approximate posterior point processes (US-
+APs and UNSPs) can ﬁt the true posterior point processes
+very well. When time constraint is a concern, USAPs and
+UNSPs provide a very good alternative to MCMC.
+In our VI algorithm, we bring 4 active research areas
+(MCMC, VI, neural networks, and point processes) to-
+gether, and we have found many research topics that we
+believe will be of interest to many researchers in these ar-
+eas, e.g., analysis of the mixing time of MCMC, conver-
+gence analysis of variational parameters, efﬁcient and well-
+behaved architectures of neural networks, and the construc-
+tion of spatio-temporal point processes with hierarchies.
+Acknowledgements
+Computational resources were provided through Ofﬁce of
+Naval Research grant N00014-18-1-2252.
+Data for this study came from the Berkeley Digital Seis-
+mic Network (BDSN), doi:10/7932/BDSN; the High Reso-
+lution Seismic Network (HRSN), doi:10.7932/HRSN; and
+the Bay Area Regional Deformation Network (BARD),
+doi:10.7932/BARD, all operated by the UC Berkeley
+Seismological Laboratory and archived at the North-
+ern California Earthquake Data center (NCEDC), doi:
+10/7932/NCEDC.
+References
+Ba, J. L., Kiros, J. R., and Hinton, G. E. (2016). Layer
+normalization.
+BARD (2014). Bay area regional deformation network. UC
+Berkeley Seismological Laboratory. dataset.
+BDSN (2014). Berkeley digital seismic network. UC
+Berkeley Seismological Laboratory. dataset.
+Blei, D. M., Kucukelbir, A., and McAuliffe, J. D. (2017).
+Variational inference: A review for statisticians. Journal
+of the American statistical Association , 112(518):859–
+877.
+C ¸ inlar, E. (2013). Introduction to stochastic processes .
+Dover Publications.Chen, R. T. Q., Amos, B., and Nickel, M. (2021). Neural
+spatio-temporal point processes. In International Con-
+ference on Learning Representations .
+COC (2022). City of Chicago, Crimes - 2001 to
+present. https://data.cityofchicago.org/
+Public-Safety/Crimes-2001-to-Present/
+ijzp-q8t2 . Accessed: 2022-08-14.
+Hendrycks, D. and Gimpel, K. (2016). Gaussian error lin-
+ear units (GELUs).
+Hong, C. and Shelton, C. (2022). Deep Neyman-Scott pro-
+cesses. In Camps-Valls, G., Ruiz, F. J. R., and Valera, I.,
+editors, Proceedings of The 25th International Confer-
+ence on Artiﬁcial Intelligence and Statistics , volume 151
+ofProceedings of Machine Learning Research , pages
+3627–3646. PMLR.
+HRSN (2014). High resolution seismic network. UC
+Berkeley Seismological Laboratory. dataset.
+Jordan, M. I., Ghahramani, Z., Jaakkola, T. S., and Saul,
+L. K. (1999). An introduction to variational methods for
+graphical models. Machine learning , 37(2):183–233.
+Kingma, D. P. and Ba, J. (2015). Adam: A method for
+stochastic optimization. In Bengio, Y . and LeCun, Y .,
+editors, 3rd International Conference on Learning Rep-
+resentations, ICLR 2015, San Diego, CA, USA, May 7-9,
+2015, Conference Track Proceedings .
+Kingma, D. P. and Welling, M. (2014). Auto-encoding vari-
+ational bayes. In Bengio, Y . and LeCun, Y ., editors, 2nd
+International Conference on Learning Representations,
+ICLR 2014, Banff, AB, Canada, April 14-16, 2014, Con-
+ference Track Proceedings .
+Lian, W., Henao, R., Rao, V ., Lucas, J., and Carin, L.
+(2015). A multitask point process predictive model. In
+Bach, F. and Blei, D., editors, Proceedings of the 32nd
+International Conference on Machine Learning , vol-
+ume 37 of Proceedings of Machine Learning Research ,
+pages 2030–2038, Lille, France. PMLR.
+Linderman, S. W., Wang, Y ., and Blei, D. M. (2017).
+Bayesian inference for latent Hawkes processes. In Ad-
+vances in Approximate Bayesian Inference .
+Mei, H. and Eisner, J. M. (2017). The neural Hawkes pro-
+cess: A neurally self-modulating multivariate point pro-
+cess. In Guyon, I., Luxburg, U. V ., Bengio, S., Wallach,
+H., Fergus, R., Vishwanathan, S., and Garnett, R., ed-
+itors, Advances in Neural Information Processing Sys-
+tems, volume 30. Curran Associates, Inc.
+Møller, J. and Waagepetersen, R. P. (2003). Statistical in-
+ference and simulation for spatial point processes . CRC
+Press.
+Naesseth, C., Lindsten, F., and Blei, D. (2020). Marko-
+vian score climbing: Variational inference with KL(p ||Variational Inference for Neyman-Scott Processes
+q). In Larochelle, H., Ranzato, M., Hadsell, R., Bal-
+can, M., and Lin, H., editors, Advances in Neural Infor-
+mation Processing Systems , volume 33, pages 15499–
+15510. Curran Associates, Inc.
+NCEDC (2014). Northern California earthquake data cen-
+ter. UC Berkeley Seismological Laboratory. dataset.
+Neath, R. C. et al. (2013). On convergence properties of the
+Monte Carlo EM algorithm. In Advances in modern sta-
+tistical theory and applications: a Festschrift in Honor
+of Morris L. Eaton , pages 43–62. Institute of Mathemat-
+ical Statistics.
+Neyman, J. and Scott, E. L. (1958). Statistical approach to
+problems of cosmology. Journal of the Royal Statistical
+Society: Series B (Methodological) , 20(1):1–29.
+Ou, Z. and Song, Y . (2020). Joint stochastic approxima-
+tion and its application to learning discrete latent vari-
+able models. In Peters, J. and Sontag, D., editors, Pro-
+ceedings of the 36th Conference on Uncertainty in Arti-
+ﬁcial Intelligence (UAI) , volume 124 of Proceedings of
+Machine Learning Research , pages 929–938. PMLR.
+Park, J., Chang, W., and Choi, B. (2022). An interac-
+tion Neyman–Scott point process model for coronavirus
+disease-19. Spatial Statistics , 47:100561.
+Ranganath, R., Gerrish, S., and Blei, D. (2014). Black
+box variational inference. In Kaski, S. and Corander,
+J., editors, Proceedings of the Seventeenth International
+Conference on Artiﬁcial Intelligence and Statistics , vol-
+ume 33 of Proceedings of Machine Learning Research ,
+pages 814–822, Reykjavik, Iceland. PMLR.
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones,
+L., Gomez, A. N., Kaiser, Ł., and Polosukhin, I. (2017).
+Attention is all you need. In Guyon, I., Luxburg, U. V .,
+Bengio, S., Wallach, H., Fergus, R., Vishwanathan, S.,
+and Garnett, R., editors, Advances in Neural Information
+Processing Systems , volume 30. Curran Associates, Inc.
+Williams, A., Degleris, A., Wang, Y ., and Linderman, S.
+(2020). Point process models for sequence detection in
+high-dimensional neural spike trains. In Larochelle, H.,
+Ranzato, M., Hadsell, R., Balcan, M., and Lin, H., ed-
+itors, Advances in Neural Information Processing Sys-
+tems, volume 33, pages 14350–14361. Curran Asso-
+ciates, Inc.
+Zhang, Q., Lipani, A., Kirnap, O., and Yilmaz, E. (2020).
+Self-attentive Hawkes process. In III, H. D. and Singh,
+A., editors, Proceedings of the 37th International Con-
+ference on Machine Learning , volume 119 of Pro-
+ceedings of Machine Learning Research , pages 11183–
+11193. PMLR.
+Zhao, Q., Erdogdu, M. A., He, H. Y ., Rajaraman, A., and
+Leskovec, J. (2015). Seismic: A self-exciting point pro-
+cess model for predicting tweet popularity. In Proceed-
+ings of the 21th ACM SIGKDD international conferenceon knowledge discovery and data mining , pages 1513–
+1522.
+Zuo, S., Jiang, H., Li, Z., Zhao, T., and Zha, H. (2020).
+Transformer Hawkes process. In III, H. D. and Singh, A.,
+editors, Proceedings of the 37th International Confer-
+ence on Machine Learning , volume 119 of Proceedings
+of Machine Learning Research , pages 11692–11702.
+PMLR.Chengkuan Hong, Christian R. Shelton
+A NETWORK STRUCTURES FOR USAPS
+Event Embedding Each eventeℓ,i,j= (tℓ,i,j,ppidℓ,i=∑ℓ−1
+w=0Kw+i)consists of the time tℓ,i,jand the identiﬁer
+ppidℓ,i. Similar to Vaswani et al. (2017); Zuo et al. (2020); Zhang et al. (2020), we ﬁrst encode the event time into a
+dM-dimensional vector peℓ,i,jthough positional encoding,
+pek
+ℓ,i,j={
+cos(tℓ,i,j/10000k−1
+dM), ifkis odd,
+sin(tℓ,i,j/10000k
+dM), ifkis even,
+wherepek
+ℓ,i,jis thek-th dimension of peℓ,i,j.
+We also train an embedding matrix Weid∈RdM×npp, wherenpp=∑L
+w=0Kw, for the identiﬁers. For each event
+with identiﬁer ppidℓ,i, the embedding for the identiﬁer is Weid·pℓ,i, where pℓ,i∈Rnpp×1is a one-hot vector. The
+(∑ℓ−1
+w=0Kw+i)-th entry of pℓ,iis 1, and the other entries are all 0.
+To incorporate the information from both the time and the identiﬁer, the embedding xe
+ℓ,i,j of each event eℓ,i,j can be
+represented as
+xe
+ℓ,i,j=peℓ,i,j+Weid·pℓ,i.
+Self-Attention The parameters of the intensity function λI
+ℓ,k(t)are determined by all the events from the point processes
+which are connected to the point process Zℓ−1,i. For each interval (tℓ−1,i,j−1,tℓ−1,i,j], we use self-attention (Vaswani
+et al., 2017; Zhang et al., 2020; Zuo et al., 2020) to encode the events in the layer immediately below to a hidden vector,
+ha
+ℓ−1,i,j=(mℓ−1,i∑
+t=1f(
+Wq·LayerNorm (xe
+ℓ−1,i,j),Wk·xe
+ℓ−1,i,t)
+·(
+Wv·xe
+ℓ−1,i,t))
+/mℓ−1,i∑
+t=1f(
+Wq·LayerNorm (xe
+ℓ−1,i,j),Wk·xe
+ℓ−1,i,t)
+, (9)
+where LayerNorm( ·) is a layer normalization (Ba et al., 2016) operation, Wq∈Rdk×dM,Wk∈Rdk×dM, and
+Wv∈Rdv×dMare all linear transformation matrices that transfer the event embedding vectors to queries, keys and values
+respectively, and f(x1,x2) = exp(xT
+1x2)is a similarity function to capture the relationship between a query and a key.
+Notice that unlike the self-attention adopted in (Zhang et al., 2020; Zuo et al., 2020), we not only consider the inﬂuence
+of the events that happened before the query, but the events that happened after the query. Because for each hidden point
+process, the posterior distribution of the hidden events can be inﬂuenced by all the events from the point processes that are
+connected to this hidden point process (Hong and Shelton, 2022, Proposition 1).
+Eq. 9 works as a single-head self-attention, we can also concatenate multiple single-head attentions together to build a
+multi-head attention (Vaswani et al., 2017). We can rewrite Eq. 9 as
+ha
+ℓ−1,i,j=Self-Attention (xe
+ℓ−1,i,j,Wq,Wk,Wv),
+then the multi-head attention version for ha
+ℓ−1,i,jwould be
+ha
+ℓ−1,i,j=Multi-Head-Self-Attention (xe
+ℓ−1,i,j)
+=Concat (head 1,···,headh)·Wo, (10)
+where head d=Self-Attention (xe
+ℓ−1,i,j,Wd
+q,Wd
+k,Wd
+v),Wd
+q∈Rdk×dM,Wd
+k∈Rdk×dM,Wd
+v∈Rdv×dM, andWo∈
+Rhdv×dM.
+Multi-head self-attention can also be stacked into a deep structure, but we do not have this deep structure in our experiment.
+Position-Wise Feed-Forward Layer The hidden vector ha
+ℓ−1,i,jand the residual xe
+ℓ−1,i,jare then fed into a position-
+wise feed-forward layer with the number of neurons in the hidden layer as dH, generating the ﬁnal output for the hidden
+vector,
+hℓ−1,i,j=(
+WF
+2(GELU (WF
+1(LayerNorm (input)) +bF
+1)) +bF
+2)
++input, (11)
+where input =ha
+ℓ−1,i,j+xe
+ℓ−1,i,j,WF
+1∈RdH×dM,bF
+1∈RdH×1,WF
+2∈RdM×dH,bF
+2∈RdM×1, and GELU is the
+Gaussian Error Linear Unit (Hendrycks and Gimpel, 2016).Variational Inference for Neyman-Scott Processes
+Output for the Parameters We apply a linear transformation to the ﬁnal hidden vector hℓ−1,i,jto get the kernel param-
+eters,
+θI
+ℓ,k=Wθ
+ℓ,khℓ−1,i,j+bθ
+ℓ,k,
+whereWθ
+ℓ,k∈Rnθ×dM,bθ
+ℓ,k∈Rnθ×1, andnθis the number of parameters for θI
+ℓ,k.
+B EXPERIMENT DETAILS
+B.1 Datasets
+Synthetic Datasets The point processes are deﬁned in the interval (0,20]. The constant rate for the top layer is set to
+be 0.15. We ﬁx the kernel parameters and kis set to be 1 for the Weibull kernel functions. The sampling procedure is the
+same as the generative process, and we do this for both the 1-hidden and 2-hidden models.
+Retweets (Zhao et al., 2015) The retweet dataset consists of a set of tweet streams. The original tweet of a tweet stream
+has time 0, and the times of the other tweets are the retweet times relative to the original tweet. We have 3 types of events
+(small, medium, and large) for different numbers of followers. The “small” group consists of users with fewer than 120
+users, the “medium” group consists of users with greater than 120 users but fewer than 1363 users, and the “large” group
+consists of the rest of the users.
+Earthquakes (NCEDC, 2014; BDSN, 2014; HRSN, 2014; BARD, 2014) The earthquake dataset contains the times and
+magnitudes of the earthquakes collected from northern California earthquake catalog. The times of the earthquakes are
+constrained to be from 01/01/2014 00:00:00 to 01/01/2020 00:00:00. The region is spanning between 34.5◦and43.2◦
+latitude and between −126.00◦and−117.76◦longitude. We divide the earthquakes into 2 types. The earthquakes with a
+magnitude smaller than 1 are small earthquakes, and the others are big earthquakes.
+Homicides (COC, 2022) The homicide dataset includes the information of homicides that happened in Chicago. We
+choose 5 contiguous regions in Chicago with the most homicides. The time for the homicides is from 01/01/2001 00:00:00
+to 01/01/2020 00:00:00. 5 types of this dataset correspond to 5 different regions in Chicago. The terms of use can be found
+inhttps://www.chicago.gov/city/en/narr/foia/data_disclaimer.html .
+The statistics of the datasets are shown in Table 1.
+Table 1: Datasets Statistics
+DATASETS #OF TYPES #OF PREDICTIONS#OF SEQUENCES
+TRAINING VALIDATION TEST
+1-HIDDEN SYNTHETIC 2 1563 1000 100 100
+2-HIDDEN SYNTHETIC 2 4664 1000 100 100
+RETWEETS 3 216465 20000 2000 2000
+EARTHQUAKES 2 25646 209 53 53
+HOMICIDES 5 997 6 2 2
+B.2 Self-Attention Training Details
+For all our experiments, we use 1 layer of multi-head self-attention block with 4 heads. The number of dimensions can be
+found in Table 2, where dk,dv,dM, anddHappear in Eqs. 10 and 11, MPSS stands for model parameters step size, and
+SASS stands for self-attention step size.Chengkuan Hong, Christian R. Shelton
+Table 2: Self-Attention Dimensions
+DATASETS MODEL dkdvdM dH MPSS SASS
+1-HIDDEN SYNTHETIC USAP(1- HIDDEN ) 8 8 32 64 0.01 0.010
+2-HIDDEN SYNTHETIC USAP(2- HIDDEN ) 8 8 32 64 0.01 0.010
+RETWEETSUSAP(1- HIDDEN ) 16 16 64 128 1.00 0.001
+USAP(2- HIDDEN ) 16 16 64 128 1.00 0.001
+EARTHQUAKESUSAP(1- HIDDEN ) 16 16 64 128 1.00 0.001
+USAP(2- HIDDEN ) 16 16 64 128 1.00 0.010
+HOMICIDESUSAP(1- HIDDEN ) 8 8 32 64 1.00 0.010
+USAP(2- HIDDEN ) 16 16 64 128 1.00 0.010
+B.3 Experiments
+Table 3: 1-Hidden RMSE For Synthetic Dataset
+MODELTIME(S)
+16 32 64 128 256
+DNSP-MCMC 1.24 E+09 1.79 E+00 1.54 E+00 1.37 E+00 1.33 E+00
+DNSP-UNSP 1.63 E+08 1.12 E+01 1.03 E+01 8.46 E+00 8.43 E+00
+DNSP-USAP 4.28 E+00 4.30 E+00 4.21 E+00 4.09 E+00 4.06 E+00
+Table 4: 1-Hidden Accuracy For Synthetic Dataset
+MODELTIME(S)
+16 32 64 128 256
+DNSP-MCMC 5.56 E-01 5.77 E-01 5.78 E-01 5.98 E-01 6.02 E-01
+DNSP-UNSP 5.82 E-01 5.92 E-01 5.94 E-01 5.98 E-01 5.98 E-01
+DNSP-USAP 5.94 E-01 5.94 E-01 5.93 E-01 5.93 E-01 5.91 E-01
+Table 5: 2-Hidden RMSE For Synthetic Dataset
+MODELTIME(S)
+500 900 2000 4000 8000
+DNSP-MCMC 3.91 E+08 2.38 E+08 7.33 E-01 6.95 E-01 6.64 E-01
+DNSP-UNSP \ 1.02 E+01 9.44 E+00 9.04 E+00 8.97 E+00
+DNSP-USAP 3.44 E+00 3.43 E+00 3.30 E+00 3.28 E+00 3.28 E+00
+Table 6: 2-Hidden Accuracy For Synthetic Dataset
+MODELTIME(S)
+500 900 2000 4000 8000
+DNSP-MCMC 8.08 E-01 8.26 E-01 8.48 E-01 8.55 E-01 8.68 E-01
+DNSP-UNSP \ 8.30 E-01 8.32 E-01 8.36 E-01 8.36 E-01
+DNSP-USAP 8.40 E-01 8.40 E-01 8.52 E-01 8.60 E-01 8.59 E-01Variational Inference for Neyman-Scott Processes
+Table 7: Results Of Baselines For Retweet Dataset
+MODEL RMSE A CCURACY
+THP 1.56 E+04 6.1 E-01
+SAHP 1.67 E+04 4.5 E-01
+NHP 1.66 E+04 4.9 E-01
+MTPP 1.66+ E04 3.6 E-01
+Table 8: 1-Hidden RMSE For Retweet Dataset
+MODELTIME(S)
+21500 43000 86000 172000 250000
+DNSP-MCMC 1.45 E+12 9.07 E+11 4.52 E+11 1.22 E+11 5.05 E+03
+DNSP-UNSP 5.80 E+10 9.65 E+09 9.42 E+03 9.40 E+03 9.39 E+03
+DNSP-USAP 6.72 E+10 1.76 E+10 7.05 E+03 7.05 E+03 7.04 E+03
+Table 9: 1-Hidden Accuracy For Retweet Dataset
+MODELTIME(S)
+21500 43000 86000 172000 250000
+DNSP-MCMC 5.01 E-01 5.33 E-01 5.55 E-01 5.71 E-01 5.79 E-01
+DNSP-UNSP 5.11 E-01 5.14 E-01 5.15 E-01 5.17 E-01 5.17 E-01
+DNSP-USAP 5.30 E-01 5.36 E-01 5.41 E-01 5.43 E-01 5.43 E-01
+Table 10: 2-Hidden RMSE For Retweet Dataset
+MODELTIME(S)
+10300 20600 41200 82400 200000
+DNSP-MCMC 9.93 E+10 7.08 E+10 4.84 E+10 2.17 E+10 3.98 E+09
+DNSP-UNSP 6.58 E+10 1.24 E+10 1.44 E+09 9.42 E+03 \
+DNSP-USAP 2.66 E+10 1.29 E+10 4.76 E+09 2.49 E+09 6.28 E+03
+Table 11: 2-Hidden Accuracy For Retweet Dataset
+MODELTIME(S)
+10300 20600 41200 82400 200000
+DNSP-MCMC 6.36 E-01 6.90 E-01 7.30 E-01 7.69 E-01 7.87 E-01
+DNSP-UNSP 7.16 E-01 7.20 E-01 7.20 E-01 7.21 E-01 \
+DNSP-USAP 6.89 E-01 6.92 E-01 6.95 E-01 6.95 E-01 6.97 E-01Chengkuan Hong, Christian R. Shelton
+Table 12: Results Of Baselines For Earthquake Dataset
+MODEL RMSE A CCURACY
+THP 1.93 E+03 6.0 E-01
+SAHP 1.79 E+03 5.5 E-01
+NHP 1.95 E+03 4.0 E-01
+MTPP 1.93 E+03 5.1 E-01
+Table 13: 1-Hidden RMSE For Earthquake Dataset
+MODELTIME(S)
+2900 6200 11100 36200 60000
+DNSP-MCMC 1.27 E+12 7.56 E+11 5.10 E+09 1.26 E+03 1.25 E+03
+DNSP-UNSP 2.03 E+03 2.02 E+03 2.02 E+03 2.01 E+03 \
+DNSP-USAP 4.83 E+09 1.74 E+03 1.73 E+03 1.73 E+03 1.73 E+03
+Table 14: 1-Hidden Accuracy For Earthquake Dataset
+MODELTIME(S)
+2900 6200 11100 36200 60000
+DNSP-MCMC 5.82 E-01 5.90 E-01 5.99 E-01 6.02 E-01 6.02 E-01
+DNSP-UNSP 6.02 E-01 6.02 E-01 6.02 E-01 6.02 E-01 \
+DNSP-USAP 6.00 E-01 6.01 E-01 6.01 E-01 6.02 E-01 6.02 E-01
+Table 15: 2-Hidden RMSE For Earthquake Dataset
+MODELTIME(S)
+7200 14400 28800 57600 116016
+DNSP-MCMC 4.92 E+10 3.83 E+10 2.55 E+10 1.78 E+10 1.44 E+10
+DNSP-UNSP 2.09 E+03 2.09 E+03 2.08 E+03 2.08 E+03 \
+DNSP-USAP 2.16 E+10 1.54 E+10 1.53 E+10 1.21 E+09 1.42 E+03
+Table 16: 2-Hidden Accuracy For Earthquake Dataset
+MODELTIME(S)
+7200 14400 28800 57600 116016
+DNSP-MCMC 6.05 E-01 6.14 E-01 6.22 E-01 6.30 E-01 6.48 E-01
+DNSP-UNSP 6.87 E-01 6.87 E-01 6.87 E-01 6.87 E-01 \
+DNSP-USAP 6.04 E-01 6.06 E-01 6.06 E-01 6.07 E-01 6.07 E-01Variational Inference for Neyman-Scott Processes
+Table 17: Results Of Baselines For Homicide Dataset
+MODEL RMSE A CCURACY
+THP 1.80 E+05 2.96 E-01
+SAHP 1.80 E+05 2.10 E-01
+NHP 1.80 E+05 1.57 E-01
+MTPP 1.80 E+05 2.05 E-01
+Table 18: 1-Hidden RMSE For Homicide Dataset
+MODELTIME(S)
+483 966 1932 3864 5800
+DNSP-MCMC 1.72 E+05 1.47 E+05 1.31 E+05 1.21 E+05 1.17 E+05
+DNSP-UNSP 1.56 E+05 1.56 E+05 1.55 E+05 1.55 E+05 1.55 E+05
+DNSP-USAP 1.43 E+05 1.40 E+05 1.40 E+05 1.39 E+05 1.40 E+05
+Table 19: 1-Hidden Accuracy For Homicide Dataset
+MODELTIME(S)
+483 966 1932 3864 5800
+DNSP-MCMC 2.02 E-01 2.11 E-01 2.11 E-01 2.40 E-01 2.55 E-01
+DNSP-UNSP 2.25 E-01 2.42 E-01 2.40 E-01 2.49 E-01 2.64 E-01
+DNSP-USAP 2.21 E-01 2.44 E-01 2.45 E-01 2.56 E-01 2.57 E-01
+Table 20: 2-Hidden RMSE For Homicide Dataset
+MODELTIME(S)
+8300 16000 27000
+DNSP-MCMC 1.77 E+05 1.50 E+05 1.37 E+05
+DNSP-UNSP 1.61 E+05 1.60 E+05 1.60 E+05
+DNSP-USAP 1.58 E+05 1.58 E+05 1.58 E+05
+Table 21: 2-Hidden Accuracy For Homicide Dataset
+MODELTIME(S)
+8300 16000 27000
+DNSP-MCMC 3.32 E-01 3.92 E-01 4.44 E-01
+DNSP-UNSP 6.64 E-01 6.72 E-01 6.93 E-01
+DNSP-USAP 7.65 E-01 8.17 E-01 8.50 E-01
+B.4 Hardware and Software
+We run the experiments for synthetic datasets, retweets, and earthquakes in a cluster. For each job, we use two cores from
+a Intel® Xeon® Silver 4214 CPUs running at 2.20GHz and 1 GeForce® RTX 2080 Ti.Chengkuan Hong, Christian R. Shelton
+We run each experiment for homicides in a machine with a core from Intel® i7-5930K CPU and 1 GeForce® GTX 1080
+Ti.
+We use Pytorch to implement our algorithms.
+B.5 Implementation of MCMC for GPUs
+We re-implemented the MCMC algorithm to use GPUs. We do not randomly select a move from resampling, ﬂip, and
+swap, instead, we have a deterministic order for these moves. We choose this setting to minimize the number of dimension
+changes of the tensors used to store the events.
+We store the real events and the virtual events in the same tensor. The only move that changes the dimension of this tensor
+is to re-sample the virtual events. For each MCMC sampling step, we ﬁrst do a re-sampling, then followed by 3 ﬂips, 1
+swap, 3 ﬂips, and 1 swap.
+C SOCIETAL IMPACT
+Our proposed inference algorithm can be used to predict future earthquakes, violent crimes, and severe medical complica-
+tions when speed is the top concern. The successful application of our method can help save a lot of lives.
+The misuse of our algorithm may also cause some problems. For example, some companies may use our algorithm to
+predict the customers’ behavior and manipulate their buying activity, so customers may tend to buy more than what they
+need and then can cause some waste.

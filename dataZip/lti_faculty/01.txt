@@ -1,0 +1,204 @@
+Language Technologies Institute - Faculty
+Name: Yonatan Bisk
+Email: ybisk@cs.cmu.edu
+Office: Gates & Hillman Centers
+Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+
+Language Technologies Institute - Faculty
+Name: Ralf Brown
+Email: ralf@andrew.cmu.edu
+Office: 5711 Gates & Hillman Centers
+Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Translation, Natural Language Processing and Computational Linguistics
+Phone: 412-268-8298
+
+Language Technologies Institute - Faculty
+Name: Jamie Callan
+Email: callan@cs.cmu.edu
+Office: 5419 Gates & Hillman Centers
+Research Areas: Information Retrieval, Text Mining and Analytics
+Phone: 412-268-4525
+
+Language Technologies Institute - Faculty
+Name: Justine Cassell
+Email: jcassell@andrew.cmu.edu
+Office: 5107 Gates & Hillman Centers
+Phone: 412-204-6268
+
+Language Technologies Institute - Faculty
+Name: Mona Diab
+Email: mdiab@andrew.cmu.edu
+Phone: 412-268-3669
+
+Language Technologies Institute - Faculty
+Name: Fernando Diaz
+Email: diazf@cmu.edu
+Research Areas: Information Retrieval: Recommender Systems, Retrieval and Ranking Models, Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation
+Phone: 412-268-4229
+
+Language Technologies Institute - Faculty
+Name: Scott Fahlman
+Email: sef@cs.cmu.edu
+Office: 6417 Gates & Hillman Centers
+Research Areas: AI, Knowledge Representation and Reasoning, Natural Language Understanding
+Phone: 412-268-2575
+
+Language Technologies Institute - Faculty
+Name: Robert Frederking
+Email: ref@cs.cmu.edu
+Office: 6515 Gates & Hillman Centers
+Phone: 412-268-6656
+
+Language Technologies Institute - Faculty
+Name: Daniel Fried
+Email: dfried@andrew.cmu.edu
+Research Areas: Natural Language Processing: Language and Code, Conversational AI, Intelligent Agents, and Dialogue, Discourse and Pragmatics, Multimodal AI
+
+Language Technologies Institute - Faculty
+Name: Anatole Gershman
+Email: anatole.gershman@cs.cmu.edu
+Office: 6415 Gates & Hillman Centers
+Research Areas: Information Extraction, Summarization and Question Answering
+Phone: 412-268-8259
+
+Language Technologies Institute - Faculty
+Name: Alexander Hauptmann
+Email: alex@cs.cmu.edu
+Office: 5519 Gates & Hillman Centers
+Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Learning, Multimodal Computing and Interaction
+Phone: 412-268-1448
+
+Language Technologies Institute - Faculty
+Name: Daphne Ippolito
+Email: daphnei@cmu.edu
+Research Areas: Natural Language Generation, Privacy and Security, Language Technology Application Areas/Issues, Creativity
+Phone: 412-268-7250
+
+Language Technologies Institute - Faculty
+Name: Lori Levin
+Email: lsl@cs.cmu.edu
+Office: 5717 Gates & Hillman Centers
+Research Areas: Machine Translation, Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources
+Phone: 412-268-6193
+
+Language Technologies Institute - Faculty
+Name: Lei Li
+Email: leili@andrew.cmu.edu
+Research Areas: Machine Learning, Machine Translation, Large Language Models, AI Drug Discovery
+Phone: 412-268-6355
+
+Language Technologies Institute - Faculty
+Name: Teruko Mitamura
+Email: teruko@cs.cmu.edu
+Office: 6711 Gates & Hillman Centers
+Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics
+Phone: 412-268-6596
+
+Language Technologies Institute - Faculty
+Name: Louis-Philippe Morency
+Email: morency@cs.cmu.edu
+Office: 5411 Gates & Hillman Centers
+Research Areas: Machine Learning, Multimodal Computing and Interaction, Spoken Interfaces and Dialogue Processing
+Phone: 412-268-5508
+
+Language Technologies Institute - Faculty
+Name: David Mortensen
+Email: dmortens@cs.cmu.edu
+Office: 5707 Gates & Hillman Centers
+Research Areas: Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources
+Phone: 412-268-2894
+
+Language Technologies Institute - Faculty
+Name: Graham Neubig
+Email: gneubig@cs.cmu.edu
+Office: 5409 Gates & Hillman Centers
+Research Areas: Machine Translation, Natural Language Processing, Spoken Language Processing, Machine Learning
+
+Language Technologies Institute - Faculty
+Name: Eric Nyberg
+Email: ehn@cs.cmu.edu
+Office: 6715 Gates & Hillman Centers
+Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education
+Phone: 412-268-7281
+
+Language Technologies Institute - Faculty
+Name: Kemal Oflazer
+Email: ko@qatar.cmu.edu
+Office: 1009 Carnegie Mellon - Qatar Campus
+Phone:
+
+Language Technologies Institute - Faculty
+Name: Bhiksha Ramakrishnan
+Email: bhiksha@cs.cmu.edu
+Office: 6705 Gates & Hillman Centers
+Research Areas: Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy
+Phone: 412-268-9826
+
+Language Technologies Institute - Faculty
+Name: Carolyn Rosé
+Email: cprose@cs.cmu.edu
+Office: 5415 Gates & Hillman Centers
+Research Areas: Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics, Computer Supported Collaborative Learning/MOOCs
+Phone: 412-268-7130
+
+Language Technologies Institute - Faculty
+Name: Alexander Rudnicky
+Email: alex.rudnicky@cs.cmu.edu
+Office: 6511 Gates & Hillman Centers
+Research Areas: Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing
+Phone: 412-268-2622
+
+Language Technologies Institute - Faculty
+Name: Maarten Sap
+Email: msap2@andrew.cmu.edu
+Research Areas: Fairness and Ethics in Language Technology, Computational Social Science, Discourse and Pragmatics, Conversational AI, Intelligent Agents, and Dialogue
+
+Language Technologies Institute - Faculty
+Name: Michael Shamos
+Email: shamos@cs.cmu.edu
+Office: 6707 Gates & Hillman Centers
+Phone: 412-268-8193
+
+Language Technologies Institute - Faculty
+Name: Rita Singh
+Email: rsingh@cs.cmu.edu
+Office: 6703 Gates & Hillman Centers
+Phone: 412-268-9859
+
+Language Technologies Institute - Faculty
+Name: Emma Strubell
+Email: estrubel@andrew.cmu.edu
+Office: Gates & Hillman Centers
+
+Language Technologies Institute - Faculty
+Name: Alexander Waibel
+Email: waibel@cs.cmu.edu
+Office: 205 407 South Craig Street
+Research Areas: Spoken Language Translation, Machine Translation, Speech Processing, Neural Networks, Machine Learning, Multimodal Interaction, Dialog Processing
+Phone: 412-268-7676
+
+Language Technologies Institute - Faculty
+Name: Shinji Watanabe
+Email: swatanab@andrew.cmu.edu
+Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing
+Phone: 412-268-3687
+
+Language Technologies Institute - Faculty
+Name: Sean Welleck
+Email: swelleck@andrew.cmu.edu
+
+Language Technologies Institute - Faculty
+Name: Eric P. Xing
+Email: epxing@andrew.cmu.edu
+Office: 8101 Gates & Hillman Centers
+Phone: 412-268-2559
+
+Language Technologies Institute - Faculty
+Name: Chenyan Xiong
+Email: cx@andrew.cmu.edu
+Phone: 412-268-7641
+
+Language Technologies Institute - Faculty
+Name: Yiming Yang
+Email: yiming@cs.cmu.edu
+Office: 6717 Gates & Hillman Centers
+Phone: 412-268-1364
