@@ -63,7 +63,6 @@ A: He donated $1 million for the creation of a technical institute for the city 
 D: 02.txt
 T: 7
 
-
 Q: What was Carnegie's vision for the technical institute in Pittsburgh?
 A: His vision was to establish a school where working-class men and women could learn practical skills, trades, and crafts to enhance their careers, lives, and communities.
 D: 02.txt
@@ -333,7 +332,6 @@ Q: How has Carnegie Mellon contributed to innovation since its founding?
 A: Carnegie Mellon has contributed to innovation by being a birthplace of innovation, known for solving real-world problems through interdisciplinary collaboration.
 D: 06.txt
 T: 7
-
 
 Q: What accolades have Carnegie Mellon alumni achieved?
 A: Carnegie Mellon alumni have achieved accolades such as Tony Awards, Nobel Prizes, and Turing Awards.
