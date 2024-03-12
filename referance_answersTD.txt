@@ -392,89 +392,89 @@ Which professors at LTI are on leave?
 Which LTI faculty member is an author on "Aligning Large Multimodal Models with Factually Augmented RLHF"?
 What does CodeBERTScore encode in addition to the generated tokens?
 In which month and year the Mascot Identity Task Force was formed?
-What's the URL for the code and data of InPars-light
-Is a valid CMU ID needed to use the tennis court?
-What city is CMU LTI located in?
-When did independent organizations, other than fraternities, enter Buggy for the first time?
-What is Mona Diab's phone number according to the MCDS handbook?
-When was the department of Computer Science (CSD) established at CMU?
-In spring 2024, Who is the instructor for course 10403?
+https://github.com/searchivarius/inpars_light/
+Yes a Valid CMU ID is needed 
+Pittsburgh, Pennsylvania 
+1928
+(412) 268 6656
+1965 
+Fragkiadaki, Katerina
 According the OUTDOOR paper, what is one of the challenges of navigating in outdoor environments compared to indoor environments?
-Who are the authors of the book "The Last Lecture"?
-Which LTI faculty member focuses on embodiment?
-What is the full name of the workshop where the paper Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation, got published?
-Who was the first director of the Robotics Institute?
-What are the two courses that are prerequisities for the undergraduate concentration termed the LT concentration? Include the title and course number in parentheses.
-What is the publicly available website for WebArena
-In spring 2024, Who are the instructors for course 15112?
-In summer 2024, When do Mini-5 Final Exams take place?
+Randy Pausch and Jeffrey Zaslow 
+Yonatan Bisk 
+Proceedings of the 20th SIGMORPHON workshop on Computational Research in Phonetics, Phonology, and Morphology
+Raj Reddy
+Principles of Functional Programming (15-150), Principles of Imperative Computation (15-122)
+https://webarena.dev/
+Taylor, Michael and Kosbie, David
+June 21st 
 Where should robots ideally exist according to the OUTDOOR paper?
-What number do all of the Chemical Engineering classes start with?
-In fall 2024, What is the deadline for Mini-1 add, audit & tuition adjustment drop (deadline 1)?
-The first authors of the paper NLPositionality: Characterizing Design Biases of Datasets and Models, are from which university/institute?
-How many people co-authored the paper Learning to Ask Questions for Zero-shot Dialogue State Tracking?
-What are the number of credits MCDS students must complete to graduate?
-Where will the The President’s Reception in honor of CMU’s Doctoral Candidates be held?
-How many Emmy Awards have alumni and current/former faculty won so far?
-What are the three concentrations in the MCDS program?
+06
+September 9th 
+University of Washington 
+4 people 
+144 units 
+Tepper Building Atrium 
+142 Emmy Awards
+Systems, Analytics, and Human Centered Data Science 
 How many de-biased training examples were used for fine-tuning the pre-trained model to significantly reduce the tendency to favor any gender?
 What is the full name of the conference where the paper NLPositionality: Characterizing Design Biases of Datasets and Models, got published?
-What is the office number for Joan Axelson?
-What sort of credentials are required to print something from an LTI printer?
-Which LTI faculty are involved in the framework tax paper?
+Office 5405 Gates and Hillman Centers
+CMU ID or plain cash card 
+Yonatan Bisk and Emma Strubell
 What is the full name of the metric used to evaluate the performance of the models on the Squad test set in the paper PROMPT2MODEL: Generating Deployable Models from Natural Language Instructions?
 Which conference is DIFFERENCE-MASKING published in?
 What is the name of the proposed recommendation model in the paper "Text Matching Improves Sequential Recommendation by Reducing Popularity Biases"?
-In spring 2024, What is the title of course 17416?
+AI Governance: Identifying and Mitigating Risks in Design and Development of AI Solutions 
 For the MCDS degree do you need to do a capstone project? Yes/no
-How many turing awards recipients have been from Carnegie Mellon University?
-In summer 2024, When is the deadline for withdrawing from a Mini-5 course and receiving a withdrawal grade?
-What does SenteCon do to a given passage of text?
-What year was Exploration on HuBERT with Multiple Resolutions published?
-How many Chemical Engineering courses are going to be held in Summer 2024?
-When was the deadline for the MLT program applications?
-In spring 2025, Is there class on Martin Luther King Day?
-Which LTI prof co-authored the paper titled "Self-Refine: Iterative Refinement with Self-Feedback"?
+13
+June 10 
+SenteCon encodes the text as a layer of interpretable categories in which each dimension corresponds to the relevance of a specific category
+2023
+8 Courses 
+December 10 
+No
+Yiming Yang 
 How many candidate documents were re-ranked using InPars-light compared to InPars?
-What is the room number for the Advanced Natural Language Processing course?
+1403
 How much increase in throughput (multi GPU setup) does SAMA showcase in large-scale meta learning benchmarks?
 What is the location of the courses that will be taught by Affara in Summer 2024?
 When should the guests be seated for the start of the student procession on May 12?
-Which year did The Kiltie Band began?
-In what year did Carnegie Tech became Carnegie Mellon University?
-What are the four common domains of websites in the WebArena environment?
+1908
+1967
+e-commerce, social forum discussions, collaborative software development, and content management
 Which LLMs were used for validation of the SPAE method?
 What do the KALE vocabulary semantic concepts perform better than?
 In fall 2024, When is the Semester drop deadline and withdrawal grade assigned after this date?
 What does SHAP mean in SHAP-based Prediction of Mother's History of Depression to Understand the Influence on Child Behavior?
 When did amusing buggies like Delta Upsilon's "Fish" and Printing Management's Bathtub disappear?
 What type of requests will aligned text models refuse to answer?
-What is Yonatan Bisk's job title?
-Who taught human language for AI in the fall of 2023?
+Assistant professor
+Levin, Lorraine
 How does CSurF address sparse lexicon-based retrieval?
 What does SPAE convert between?
-In the IWSLT 2023 paper titled "Evaluating Multilingual Speech Translation Under Realistic Conditions with Resegmentation and Terminology", authors provided a speech translation dataset covering ACL technical presentations. How many target languages were included in the final dataset?
-How many system submissions does GlobalBench currently cover?
-When was the Center for Machine Translation established at CMU?
+10 target languages 
+1128
+1996
 In the paper titled "WebArena: A Realistic Web Environment for Building Autonomous Agents", what is the success rate of the best performing GPT-3.5 model?
 At what conference was "The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features" published at?
 What is the code URL for the case studies presented in the framework tax paper?
 In Prof. Fernando Diaz's paper on best-case retrieval evaluation, what is the name of the proposed metric for preference-based evaluation?
 Where was "End-to-End Speech Recognition: A Survey" published?
-In spring 2024, What is the title of course 17437?
-What number do all of the CFA Interdisciplinary classes start with?
-What are the names of the people from CMU who contributed to the paper RIVETER Measuring Power and Social Dynamics Between Entities?
+Web Application Development	
+76 
+Maarten Sap and Jimin Mun
 In which two task families does the document demonstrate MOSAIC's versatility?
-Who is the Office Manager for LTI who is listed in the LTI handbook?
-In spring 2024, What is the day and time of course 17445-A?
+Joan Axelson
+Friday 09:30AM to 10:50AM
 What does SYNTACC stand for from Alexander Waibel's paper?
-In spring 2024, What is the title of course 15210?
+Parallel and Sequential Data Structures and Algorithms
 What does FACTORCL mean?
 What is the title for 11737?
 In fall 2024, When are Mid-Semester & Mini-1 grades due by 4 pm?
 Which paper proposed style radiance fields?
 What professor was the final author on the paper titled "Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models"?
-Which invention by Professor Luis von Ahn was named Apple’s 2013 app of the year? 
+Dueling
 When is the semester drop deadline for the Fall 2024 semester?
 What number do all of the Biological Sciences classes start with?
 According to the paper PWESUITE: Phonetic Word Embeddings and Tasks They Facilitate, what is the percentage accuracy for analogies, achieved by the count-based model on the evaluation suite?
