@@ -1,0 +1,24 @@
+# Ignore the entire sfr-mistralDB folder
+sfr-mistralDB/
+
+# Ignore everything in any .ragatouille directory, regardless of its location
+**/.ragatouille/
+
+# It seems you might also want to ignore .git_ignore files that might be mistakenly created
+.git_ignore
+
+# Ignore Jupyter notebook checkpoints universally
+.ipynb_checkpoints/
+
+# You can add other patterns here based on the rest of your project's needs
+# Ignore the entire sfr-mistralDB folder
+sfr-mistralDB/*
+
+sfr-mistral.zip
+# If "ratatouille colbert" is a specific file, include it directly
+# Adjust the path as necessary if it's located within a folder
+# ratatouille colbert
+
+# If "ratatouille colbert" is a folder, ignore the entire folder
+# ratatouille colbert/
+
