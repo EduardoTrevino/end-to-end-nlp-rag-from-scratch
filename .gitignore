@@ -14,7 +14,7 @@ sfr-mistralDB/
 # Ignore the entire sfr-mistralDB folder
 sfr-mistralDB/*
 
-sfr-mistral.zip
+sfr-mistralDB.zip
 # If "ratatouille colbert" is a specific file, include it directly
 # Adjust the path as necessary if it's located within a folder
 # ratatouille colbert
