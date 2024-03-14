@@ -21,6 +21,10 @@ sfr-mistralDB.zip
 # Adjust the path as necessary if it's located within a folder
 # ratatouille colbert
 
+touilleIndex/*
+
+touilleIndex.zip
+
 llama-2-7b-chat.Q6_K.gguf
 # If "ratatouille colbert" is a folder, ignore the entire folder
 # ratatouille colbert/
