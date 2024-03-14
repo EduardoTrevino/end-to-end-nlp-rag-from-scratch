@@ -1,5 +1,6 @@
 # Ignore the entire sfr-mistralDB folder
 sfr-mistralDB/
+all-MiniLM-L6-v2DB/
 
 # Ignore everything in any .ragatouille directory, regardless of its location
 **/.ragatouille/
@@ -13,6 +14,7 @@ sfr-mistralDB/
 # You can add other patterns here based on the rest of your project's needs
 # Ignore the entire sfr-mistralDB folder
 sfr-mistralDB/*
+all-MiniLM-L6-v2DB/*
 
 sfr-mistralDB.zip
 # If "ratatouille colbert" is a specific file, include it directly
