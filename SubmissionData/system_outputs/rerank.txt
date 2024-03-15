@@ -1,0 +1,79 @@
+ The MSAII program is a successor to its predecessor in that it improves upon the previous algorithm by providing a more efficient and robust approach to machine learning. Specifically, MSAII uses a new scoring function that takes into account the relationship between mentions and events, allowing it to better handle ambiguity and uncertainty in the data. Additionally, MSAII incorporates a unique identifiability proof that ensures the algorithm is able to accurately recover the underlying structure of the data.
+ Carnegie Mellon alumni have achieved numerous accolades, including Tony Award winners, Nobel Prize and Turing Award winners, CEOs, entrepreneurs, professors, and artists.
+ Andrew Carnegie is known for founding Carnegie Technical Schools in Pittsburgh in 1900, which later became Carnegie Mellon University.
+ With the arrival of the IBM 650 computer in 1962, Carnegie Tech's culture shifted towards a more technologically advanced and connected academic environment, with the Computation Center established to support the university's computing needs.
+ The MIIS-16 degree option at LTI focuses on providing students with a solid foundation in machine learning, data science, and AI fundamentals, while the MIIS-21 degree option is designed for students who want to specialize in a particular area of AI, such as computer vision or natural language processing.
+ Andrew Carnegie founded Carnegie Technical Schools in 1900.
+ Yes, LaMDA was published in 2022 in a paper titled "LaMDA: Language Models for Dialog Applications" by a team of researchers including Ray Kurzweil, Blaise Aguera-Arcas, Claire Cui, Marian Croak, Ed H. Chi, and Quoc Le. The paper was published in the proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022).
+ The LTI does not allow direct transfers from its master’s programs into its Ph.D. program. However, students who are already enrolled in an LTI degree program are not required to retake GRE and TOEFL exams or produce new transcripts from other universities.
+ 4 people
+ Carnegie Mellon University participates in the NCAA Division III and the University Athletic Association (UAA) for athletic conferences.
+ The athletic director at Carnegie Mellon University (CMU) is not specified in the provided context.
+ Andrew Carnegie worked as a telegrapher before becoming a successful entrepreneur.
+ Since its inception, SCS has expanded in terms of departments and areas of study by incorporating the Robotics Institute, the Center for Machine Translation, and researchers from the Information Technology Center, which had developed Andrew.
+ A driver in Sweepstakes terms refers to the person who is responsible for selecting the winner(s) of a Sweepstakes or contest. 
+ I cannot provide information on Bhiksha Ramakrishnan's research interests as it is not specified in the given context.
+ I don't know the alma mater of the president of Carnegie Mellon University.
+ I don't know the current president of Carnegie Mellon University.
+ I don't know the percentage of students who voted for the Scottish terrier as the mascot in 2007.
+ Carnegie Mellon University was formed as a result of the merger between Carnegie Technical Schools and Mellon Institute in 1967.
+ The Scottish Terrier does not have any direct symbolic representation for Carnegie Mellon University as its mascot.
+ I don't know the answer to your question as it is not mentioned in the provided context.
+ According to the provided context, the Scottish Terrier breed is known for having a bold, confident, and stubborn temperament.
+ I don't know how to get kicked out from The Kiltie Band.
+ I don't know.
+ The MSAII program prepares its graduates by requiring them to complete courses in the Core Curriculum, Knowledge Requirements, and Electives. The program also conducts academic progress reviews to monitor individual student progress towards graduation, and provides training and educational sessions to help students improve their skills. Additionally, students will gain practical skills through internships and present their experiences to current MSAII students.
+ The official Scotty costume was unveiled in 2007.
+ The Scottish terrier's keen, alert, and intelligent expression exemplifies its representation as a mascot.
+ The options for elective courses in the Language Technologies Concentration include Natural Language Processing (11-411), Machine Learning for Text and Graph-based Mining (11-441), Search Engines (11-442), Speech Processing (11-492), Machine Learning in Practice (11-344), Advanced Natural Language Processing (11-711), Machine Translation and Sequence-to-Sequence Models (11-731), Multilingual Natural Language Processing (11-737), Neural Networks for NLP (11-747), Speech Recognition and Understanding (11-751), and Language and Statistics (11-792).
+ Systems and Communications Sciences interdisciplinary Ph.D. program was created in 1961 by Carnegie Tech.
+ The Kiltie Band was not founded until 1925, 24 years after Carnegie Mellon University was founded. 
+ Yes
+ The creation of the School of Computer Science at CMU was led by A. Nico Habermann and then-CMU provost Angel Jordan in 1986, in response to concerns from faculty that the change might be taking place too quickly, the university first established a free-floating Department of Computer Science.
+ I don't know the author of the paper "Improving Multitask Retrieval by Promoting Task Specialization".
+ The hallmark of Carnegie Mellon research is the pursuit of advancing knowledge and creating new expressions of knowledge through research and artistic expression, with a commitment to serving society with integrity.
+ The merger that formed Carnegie Mellon University occurred in 1967.
+ 1979
+ The cost of applying to the Dual-Degree Ph.D. program in Language and Information Technologies is not specified in the provided context.
+ The Carnegie Technical Schools primarily aimed to serve the local community in Pittsburgh, Pennsylvania.
+ Yes, ST-MoE was published in 2023.
+ I don't know the answer to your question.
+ The combination of physical and temperament traits of the Scottish Terrier enhances its suitability as Carnegie Mellon University's mascot by providing a consistent and easily recognizable representation of the university's identity.
+ A "Pushbar" is a control that allows you to move forward in a specific direction, such as turning left or right, or moving forward in a straight line.
+ The faculty at CMU come from over 60 countries.
+ A buggy typically has a body, pushbar, wheels, and driving/braking mechanisms.
+ The MCDS curriculum requirements include passing the undergraduate course 15-513 Introduction to Computer Systems with a grade of B- or better, as well as completing a total of 144 eligible units of study split among required core courses, electives, data science seminar, and capstone courses specifically defined for each major. Students must also construct their own course of study in consultation with their academic advisor, tailoring it to satisfy broad guidelines.
+ Carnegie Technical Schools became known as Carnegie Institute of Technology (CIT) in 1912.
+ The Logic Theorist program developed by Simon, Newell, and Shaw (1956) was a significant milestone in the field of artificial intelligence as it demonstrated the ability of a computer program to reason logically and solve complex problems using logical deduction.
+ The MIIS degree program at LTI is offered in two options: Standard MIIS degree (MIIS-16) and MIIS: Advanced Study degree (MIIS-21). The program is a professional degree that can be completed in 16 months (MIIS-16) or 21 months (MIIS-21) through a combination of academic semesters and a summer internship. The program offers in-depth concentration in one of four areas of language technologies.
+ The creation of the first freshman-level computer programming course in 1958 by Perlis had a significant impact on the field of computer science education by establishing programming as a fundamental skill for computer science majors and setting a foundation for future computer programming courses.
+ CMU is planning to expand its Pittsburgh campus in the coming years, which will allow for more research, innovation, and creativity.
+ A Pusher plays a role in the Buggy Races by influencing the query vectors of the mover heads.
+ The name for Carnegie Mellon University's mascot was chosen because Andrew Carnegie, the university's founder, kept a Scottish terrier as his pet.
+ The determined temperament of the Scottish Terrier mirrors the characteristics of Carnegie Mellon University in its boldness and resilience, reflecting the university's long history and heritage.
+ Yes, Scaling Instruction-Finetuned Language Models ('Flan2') was published in 2022 by Hyung Won Chung et al.
+ Andrew Carnegie educated himself through self-study.
+ The creators of the Logic Theorist are not explicitly mentioned in the provided context.
+ MIIS students at LTI must complete at least 108 units (typically 9 12-unit courses) of qualifying and elective courses and 66 practice units to satisfy their degree requirements, making it a total of 174 units to attain the MIIS degree.
+ No, On the Interactions of Structural Constraints and Data Resources for Structured Prediction is not a publication venue for International Conference on Learning Representations (ICLR).
+ A safety helmet is required for all drivers.
+ CMU has made pioneering contributions in artificial intelligence (1955-56), robotics (founded in 1979), and economic impact (attracting major companies and creating new jobs).
+ The MCDS program offers several concentrations in addition to the core curriculum, including Machine Learning, Cloud Computing, Interactive Data Science, Data Science Seminar, Capstone Planning Seminar, Capstone Research, and Data Science Capstone.
+ A tartan is a specific type of pattern in fabric characterized by bands of color repeated in equal proportion in both the warp (lengthwise) and weft (across) directions.
+ I cannot provide information on Yonatan Bisk's current research area as the abstract provided does not mention it explicitly.
+ The first artificial intelligence program was created in 1955-1956 by Herb Simon, Allen Newell, and Cliff Shaw at Carnegie Mellon University.
+ Chute doesn't signify anything in the context of Buggy Races.
+ Neha Sengupta is not the author of Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models.
+ The interdisciplinary leaders of the School of Computer Science were A. Nico Habermann and Angel Jordan.
+ Yes, ML-SUPERB: Multilingual Speech Universal PERformance Benchmark was published.
+ I don't know when "When to generate hedges in peer-tutoring interactions" was published.
+ The IBM 650 computer arrived at Carnegie Tech in 1956.
+ Carnegie Mellon has campuses in Pittsburgh, Pennsylvania.
+ There was no specific college for women at Carnegie Technical Schools.
+ Yes, DIFUSCO is published in Annual International ACM SIGIR Conference on Research and Development in Information Retrieval.
+ Carnegie Tech's campus evolved architecturally in the early 20th century with support from Andrew Carnegie and other funders, laying the foundation for a school on the cutting edge. Some key developments were: offering bachelor's degrees through its College of Engineering and College of Fine Arts, becoming the Carnegie Institute of Technology, or "Carnegie Tech."
+ I don't know when The Kiltie Band was founded as the information provided in the context does not mention it.
+ Andrew Carnegie emigrated from Scotland in 1848.
+ The official mascot of Carnegie Mellon debuted in 2007 at a football game.
+ Yes, the paper "Training Language Models to Follow Instructions with Human Feedback" was published in 2022.
+ The merger between Carnegie Tech and the Mellon Institute allowed Carnegie Mellon University to establish the last of its current pillars: the Mellon College of Science and the College of Humanities and Social Sciences. 
