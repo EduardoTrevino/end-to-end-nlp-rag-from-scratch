@@ -15,7 +15,6 @@ class ReRankRetriever(BaseRetriever):
     def _get_relevant_documents(self, query: str, *, run_manager: CallbackManagerForRetrieverRun) -> List[Document]:
 
         docs = self.vectorstore.get_relevant_documents(query, k=10)
-        print(docs)
 
         queries = [query]
         sentences = []
