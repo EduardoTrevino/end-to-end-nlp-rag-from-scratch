@@ -24,7 +24,7 @@ class ReRankRetriever(BaseRetriever):
         embeddings_1 = self.model.encode(sentences, normalize_embeddings=True)
         embeddings_2 = self.model.encode(queries, normalize_embeddings=True)
         similarity = embeddings_1 @ embeddings_2.T
-        results = [(similarity[0][count], i) for count, i in enumerate(docs)]
+        results = [(similarity[count][0], i) for count, i in enumerate(docs)]
         results = sorted(results, key=lambda x:x[0])
 
         return [i for _,i in results][0:4]
