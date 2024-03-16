@@ -17,7 +17,6 @@ pip install -r requirements.txt
 python RAG.py --model_type rerank --vector_db llm_embed --rerank_model bge --test_set_path questions.txt --system_out_path rerank_system_out.txt
 ```
 
-
 For more details on all the args run
 
 ```python
