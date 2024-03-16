@@ -754,17 +754,17 @@ In the paper "Accelerating Diffusion-based Combinatorial Optimization Solvers by
 In fall 2023, Who is the instructor for course 05432?
 When will the Spring Break start in 2024?
 In fall 2023, What is the course title for unit 02801?
-What does the MLT program prepare students for?
-How many authors does the WebArena paper have?
-How many modalities does the MultiBench benchmark include?
-How many datasets does the MultiBench benchmark include?
-What computation is offloaded to a k-nearest-neighbor (kNN) index in the Unlimiformer approach?
-Is chalk permitted in the Fitness Centre at the Jared L. Cohon University Center?
-What is the novel architecture introduced in the paper "Efficient Sequence Transduction by Jointly Predicting Tokens and Durations"?
+Prepares students for a research career in academia or industry
+12 authors
+10 modalities 
+15 datasets 
+cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores
+No chalk permitted 
+Token-and-Duration Transducer (TDT) 
 What is the effect of training speakers with a highly weighted ToM listener component?
 When are the Spring 2024 grades due for graduating students?
-What dataset does the BASS paper by Bhiksha Raj's group evaluate on?
+How-2 
 What are the three aspects assessed by the holistic evaluation in MultiZoo & MultiBench?
-What LTI professor was on "SYNTACC : Synthesizing Multi-Accent Speech By Weight Factorization"?
-What is the contact number of the Director of Sports Medicine?
-When were Simon and Newell of CMU awarded the Turing award?
+Alexander Waibel 
+(412) 268-2222
+1975 
