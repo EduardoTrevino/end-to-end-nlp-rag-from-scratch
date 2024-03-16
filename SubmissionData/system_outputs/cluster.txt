@@ -1,0 +1,79 @@
+ The MSAII program is a successor to the MSAI program, which was a predecessor to MSAII. The MSAI program was replaced by MSAII in 2023-2024 academic year.
+ Carnegie Mellon alumni have achieved many accolades in various fields, including computer science, engineering, business, and the arts. Some notable alumni include: Andrew Carnegie, Steve jobs, Alan Michelson, Ken Koyen, John Maloney, William Redington Hewlett, David Darnell, David Blyth, Robert Langer, Jaron Lanier, Tom Kalil, John Seely Brown, Ramez Naam, Nate Silver
+ Andrew Carnegie is known for being a successful businessman and philanthropist. He was born in Scotland in 1835 and later moved to the United States where he built a fortune in the steel industry through his company, Carnegie Steel. He is also known for his philanthropic efforts, particularly in the field of education, through his organization, the Carnegie Corporation of New York.
+ The arrival of the first IBM computer at Carnegie Tech (now Carnegie Mellon University) in 1951 revolutionized the university culture by introducing automated data processing and computational capabilities, which transformed the way students were registered, grades were recorded, and classes were managed. 
+ The MIIS-16 degree option at LTI is focused on machine translation and natural language processing, while the MIIS-21 degree option offers a broader range of areas of study, including human-computer interaction, software engineering, machine learning, and computational biology.
+ Andrew Carnegie founded Carnegie Technical Schools in 1900.
+ Yes, LaMDA: Language Model for Dialog Applications was published in 2023 or 2024, based on the provided context.
+ The Dual-Degree Ph.D. program at CMU requires a bachelor's degree in computer science or a related field from an accredited institution, as well as a strong academic record in computer science coursework. Additionally, applicants must submit GRE scores and letters of recommendation, and go through a competitive application process.
+ 65
+ Carnegie Mellon University participates in the NCAA Division III athletic conference. 
+ I don't know the athletic director at Carnegie Mellon University (CMU).
+ Andrew Carnegie's job before he became a successful entrepreneur was a telegrapher.
+ Since its inception in 2016, SCS has expanded to include 24 departments and areas of study, with a total of 40 courses offered across various fields.
+ A "Driver" in Sweepstakes terms refers to a student who has officially withdrawn from all their courses by the designated deadline, typically by submitting a withdrawal form to the Registrar's Office.
+ Bhiksha Ramakrishnan's research interests include machine learning, data mining, and natural language processing.
+ I don't know
+ I don’t know the answer to your question about the president of Carnegie Mellon University. According to the provided context, there is no mention of a president or any information about the leadership structure of the university.
+ 65
+ I don't know the names of the two colleges established as a result of the Carnegie Tech and Mellon Institute merger.
+ I don't know how the Scottish Terrier's agility contributes to Carnegie Mellon University's symbolic representation. 
+ 65
+ The Scottish Terrier breed is known for being loyal, brave, and independent. They are also intelligent, curious, and energetic.
+  The Kiltie Band has not provided any information on how to get kicked out.
+
+ I don't know
+ The MSAII program prepares its graduates by providing them with hands-on experience through practicum courses, offering opportunities for collaboration with industry partners, and fostering a culture of innovation and creativity.
+ I don't know the answer to your question about when the official Scotty costume was unveiled.
+ The Scottish Terrier's short, dense coat and distinctive beard or "topknot" represent it as a mascot due to their resemblance to a traditional Scottish hat or tam o'shanter.
+ According to the provided context, the options for elective courses in the Language Technologies Concentration at Carnegie Mellon University include courses such as "Introduction to Natural Language Processing," "Machine Learning for NLP," "Computational Linguistics," and "Text Analytics."
+ Carnegie Tech created a Doctor of Philosophy in Computer Science program in 1961. I do not have information on interdisciplinary Ph.D. programs beyond this date.
+ I don't know when The Kiltie Band was founded.
+ I don't know the answer to your question.
+ The School of Computer Science at CMU was created in response to growing demand for computer science education and research in the 1960s.
+ I am not able to confirm whether Sean Welleck is the author of "Improving Multitask Retrieval by Promoting Task Specialization" as the context provided does not include any information about the authorship of this text.
+ Carnegie Mellon research is characterized by a strong emphasis on collaboration and openness, as reflected in its commitment to shared tools and reproducibility.
+ I don’t know the exact date of the merger that formed Carnegie Mellon University.
+ The Robotics Institute at CMU was created in 1979.
+ The cost of applying to the Dual-Degree Ph.D. program in Language and Information Technologies is not specified in the provided context.
+ The Carnegie Technical Schools primarily aimed to serve students in the Doctoral program.
+ I don't know whether ST-MoE: Designing Stable and Transferable Sparse Expert Models was published or not.
+ I don't know the author of "Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision".
+ The Scottish Terrier is suitable as Carnegie Mellon University's mascot due to its unique combination of physical and temperament traits. Its small size and muscular build make it a formidable protector, while its friendly and curious nature make it an excellent ambassador for the university. The Scottish Terrier is also a popular breed with a long history as a beloved companion animal, which aligns with Carnegie Mellon's commitment to providing a welcoming and inclusive community for all students.
+ A "Pushbar" is a feature in the Carnegie Mellon University course registration system that allows students to "push" courses from their shopping cart to their cart.
+ I don't know the exact number of countries CMU faculty come from, as the provided context does not provide this information.
+ A buggy typically consists of a chassis, wheels, suspension, and a body or cabin.
+ The curriculum requirements for an MCDS (Master of Computer Science) student at Carnegie Mellon University typically include coursework in computer science, mathematics, and statistics, as well as a research project or thesis.
+ Carnegie Technical Schools underwent a transformation into Carnegie Mellon University in 1967.
+ The Logic Theorist program developed by Simon, Newell, and Shaw in 1956 was significant because it was one of the first attempts at creating an artificial intelligence (AI) system capable of reasoning and problem-solving using logical rules. It was a groundbreaking work that laid the foundation for modern AI research and development.
+ MIIS degree program at LTI is a Master of International Business and Sustainability program that provides students with a comprehensive education in international business and sustainability principles, practices, and strategies. The program is designed to equip students with the knowledge and skills necessary to succeed in today's global business environment and contribute to sustainable development.
+ The creation of the first freshman-level computer programming course had a significant impact on the field of computer science education by providing a foundational curriculum for students who were previously lacking in programming skills. This course helped to bridge the gap between high school computer science education and the more advanced coursework typically taken in college. By offering a comprehensive introduction to programming concepts, this course allowed more students to pursue computer science as a major and prepared them for further study in the field.
+ According to the provided context, a significant change happening at CMU in the coming years is the development of a new method for estimating the Conditional Mutual Information (CMI) objective using a Conditional InfoNCE objective, which has shown promising results in experiments presented in Table 9 and Table 10. Additionally, it is mentioned in the context that there will be consistent CMI lower and upper bounds that are empirically comparable to existing CMI estimators, and alternative interpretations of the objective based on viewing CL as kernel learning will be explored.
+ A "Pusher" in the Buggy Races is responsible for assisting and guiding the buggies during the races.
+ I don't know the answer to your question as the context provided does not mention anything about the Scottish Terrier or Carnegie Mellon University.
+ Yes, Scaling Instruction-Finetuned Language Models was published. 
+ Based on the provided context, Andrew Carnegie likely educated himself through various means such as reading books, attending lectures, and engaging in discussions with others. However, I couldn't find any specific information on how he educated himself.
+ The creators of the Logic Theorist are not specified in the provided context.
+ The practical experiences required for MIIS students at LTI include courses (6-weeks) and final exams scheduled by the University Registrar's Office.
+ Yes, On the Interactions of Structural Constraints and Data Resources for Structured Prediction is a publication venue for International Conference on Learning Representations.
+ All drivers must wear seatbelts to ensure their safety while driving.
+ Carnegie Mellon University has made pioneering contributions in computer science in areas such as artificial intelligence, machine learning, human-computer interaction, programming languages, software engineering, and robotics.
+ The MCDS program offers various majors, including Artificial Intelligence, Computational Biology, Data Science, Human-Computer Interaction, Information Networking, Machine Learning, Software Engineering, and more. However, I couldn't find the specific information about the majors offered in the MCDS program on the provided website. Therefore, I don't know the answer to your question.
+ A tartan pattern in fabric refers to a repeating design or plaid pattern made up of stripes in different colors, usually woven in a specific repeating sequence.
+ Yonatan Bisk's research area is computer science.
+ The first artificial intelligence program was created in 1956.
+ I apologize, but I don't know the meaning of "Chute" in the context of Buggy Races. It is not provided in the given context. Can you provide more information or clarify the question?
+ I don't know the author Neha Sengupta.
+ I don't know the interdisciplinary leaders of the School of Computer Science at Carnegie Mellon University. According to the provided context, the information is not available on the specified dates or in the provided sources.
+ Yes, ML-SUPERB: Multilingual Speech Universal PERformance Benchmark was published in 2023.
+ Yes, the article "When to Generate Hedges in Peer-Tutoring Interactions" was published in 2023 or 2024.
+ The significant computing device that arrived at Carnegie Tech in 1956 was the UNIVAC 1.
+ Carnegie Mellon has campuses in Pittsburgh, Pennsylvania and Silicon Valley, California.
+ I don't know.
+ Yes, DIFUSCO is published in the Annual International ACM SIGIR Conference on Research and Development in Information Retrieval.
+ I don't know the answer to your question as it seems to be beyond my training data or I couldn't find any relevant information in the provided context.
+ The Kiltie Band was founded in 1914. 
+ I don't know when Andrew Carnegie emigrated from Scotland.
+ I don't know when the official mascot of Carnegie Mellon debuted.
+ Yes, Training Language Models to Follow Instructions with Human Feedback was published in June 2022.
+ The merger between Carnegie Tech and the Mellon Institute was significant because it created Carnegie Mellon University, a top-ranked institution in the US and globally.
