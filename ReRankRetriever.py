@@ -15,7 +15,7 @@ class ReRankRetriever(BaseRetriever):
     def _get_relevant_documents(self, query: str, *, run_manager: CallbackManagerForRetrieverRun) -> List[Document]:
 
         docs = self.vectorstore.get_relevant_documents(query, k=10)
-
+ 
         queries = [query]
         sentences = []
         for i in docs:
@@ -24,7 +24,7 @@ class ReRankRetriever(BaseRetriever):
         embeddings_1 = self.model.encode(sentences, normalize_embeddings=True)
         embeddings_2 = self.model.encode(queries, normalize_embeddings=True)
         similarity = embeddings_1 @ embeddings_2.T
+        results = [(similarity[0][count], i) for count, i in enumerate(docs)]
+        results = sorted(results, key=lambda x:x[0])
 
-        sim = [i[0] for i in similarity]
-
-        return [x for _, x in sorted(zip(sim, docs), reverse=True)][0:4]
+        return [i for _,i in results][0:4]

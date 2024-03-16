@@ -61,7 +61,7 @@ def get_retriever(retriever_type, dbname, rerank_model=None):
 
         if dbname == "llm_embed":
             model_name = "BAAI/llm-embedder"
-            model_kwargs = {"device": "cpu"}
+            model_kwargs = {"device": "cuda"}
             embedding_function = HuggingFaceEmbeddings(model_name=model_name, model_kwargs=model_kwargs)
         
         
