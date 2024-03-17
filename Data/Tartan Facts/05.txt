@@ -18,21 +18,11 @@ Mascot: Scottie Dog
 
 School Colors: Cardinal and Gray
 
-Football Stadium and Track and Field: Gesling Stadium
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
 
-Capacity: 3,500
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500 
 
-Surface: FieldTurf
-
-Basketball/Volleyball Gym: Wiegand Gymnasium
-
-Capacity: 500
-
-Soccer Stadium: CMU Soccer Field
-
-Capacity: 250
-
-Surface: FieldTurf
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf 
 
 Affiliation: NCAA Division III
 
