@@ -134,7 +134,7 @@ Research Areas: Machine Learning, Multimodal Computing and Interaction, Speech P
 Phone: 412-268-9826
 
 Language Technologies Institute - Faculty
-Name: Carolyn Rosé
+Name: Carolyn Penstein Rose
 Email: cprose@cs.cmu.edu
 Office: 5415 Gates & Hillman Centers
 Research Areas: Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics, Computer Supported Collaborative Learning/MOOCs
