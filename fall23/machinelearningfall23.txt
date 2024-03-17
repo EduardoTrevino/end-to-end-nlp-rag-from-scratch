@@ -1,0 +1,317 @@
+
+*** Machine Learning for Fall 2023 **************
+
+
+Course: 10301
+Course_Title: Introduction to Machine Learning (Undergrad)
+Units: 12
+Sec: A
+Days: MWF
+Begin: 09:30AM
+End: 10:50AM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: CUC MCCNMY
+Delivery_Mode: In-person Expectation
+Instructor: Gormley, Matthew Chai, Henry
+------------------------------------------------------------
+Course: 10315
+Course_Title: Introduction to Machine Learning (SCS Majors)
+Units: 12
+Sec: A
+Days: MWF
+Begin: 09:30AM
+End: 10:50AM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: TEP 1308
+Delivery_Mode: In-person Expectation
+Instructor: Balcan, Maria
+------------------------------------------------------------
+Course: 10414
+Course_Title: Deep Learning Systems: Algorithms and Implementation
+Units: 12
+Sec: A
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: TEP 1403
+Delivery_Mode: In-person Expectation
+Instructor: Chen, Tianqi
+Kolter, Zico
+------------------------------------------------------------
+Course: 10417
+Course_Title: Intermediate Deep Learning
+Units: 12
+Sec: A
+Days: MWF
+Begin: 12:30PM
+End: 01:50PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: DH 2210
+Delivery_Mode: In-person Expectation
+Instructor: Salakhutdinov, Rusland
+Li, Yuanzhi
+------------------------------------------------------------
+Course: 10425
+Course_Title: Introduction to Convex Optimization
+Units: 12
+Sec: A
+Days: MWF
+Begin: 02:00PM
+End: 03:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: WEH 7500
+Delivery_Mode: In-person Expectation
+Instructor: Gormley, Matthew
+------------------------------------------------------------
+Course: 10500
+Course_Title: Senior Research Project
+Units: 	6 12
+Sec: A
+Days: TBA
+Begin: TBA 
+End:TBA
+Location: Pittsburgh, Pennsylvania
+Room: DNM
+Delivery Mode: 	In-person Expectation
+Instructors: Gormley, Matthew
+------------------------------------------------------------
+Course: 10520 
+Course Title: Independent Study
+Sec: A 
+Days: TBA 
+Begin: TBA 
+End: TBA
+Location: Pittsburgh 
+Delivery Mode: In person 
+Professor: Gormley, Matthew 
+
+------------------------------------------------------------
+
+Course: 10601 
+Course Title: Introduction to Machine Learning (Master's)
+Units: 12
+Sec: A
+Days: MWF
+Begin: 09:30AM
+End: 10:50AM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: CUC MCCNMY
+Delivery_Mode: In-person Expectation
+Instructor: Gormley, Matthew Chai, Henry
+------------------------------------------------------------
+Course: 10605
+Course_Title: Machine Learning with Large Datasets
+Units: 12
+Sec: A
+Days: MWF
+Begin: 11:00AM
+End: 12:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: GHC 4401
+Delivery_Mode: In-person Expectation
+Instructor: Talwalkar, Ameet
+Gordon, Geoffrey
+------------------------------------------------------------
+Course: 10606
+Course_Title: Mathematical Foundations for Machine Learning
+Units: 6 
+Sec: A1
+Days: MWF 
+Begin: 02:00PM 
+End: 03:20PM 
+Location: Pittsburgh 
+Room: WEH 2302 
+Mode: In person 
+Instructor: Wilder, Bryan
+------------------------------------------------------------
+Course: 10607
+Course Title: Computational Foundations for Machine Learning
+Unit: 	6
+Sec:	A2
+Days:	MWF	from 02:00PM to	03:20PM
+Location: Pittsburgh 
+Room WEH 2302 
+Mode: In person 
+Instructor: Wilder Bryan 
+Wilder, Bryan]
+------------------------------------------------------------
+Course: 10617 
+Course Title: Intermediate Deep Learning 
+Unit: 12 
+Sec: A 
+Days: MWF 
+Begin: 12:30PM to 1:50pm 
+Location: Pittsburgh 
+Room: DH 2210 
+Mode: In person 
+Instructors: Salakhutdinov, Rusland Li, Yuanzhi
+------------------------------------------------------------
+
+Course: 10620
+Course Title: 	Independent Study: Research
+Units: 	6,12
+Sec: 	A
+Days, Begin, End time: TBA 
+Location: Pittsburgh 
+Mode: In person 
+Instructor: Shah, Nihar
+------------------------------------------------------------
+
+
+Course: 10625
+Course Title: Introduction to Convex Optimization
+Units: 12
+Sec: A
+Days: MWF
+Begin: 02:00PM
+End: 03:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: WEH 7500
+Delivery_Mode: In-person Expectation
+Instructor: Gormley, Matthew
+------------------------------------------------------------
+Course: 10680
+Course_Title: Mathematical Foundations for Machine Learning
+Units: 	6
+Sec:	A1
+Dates: MW	
+Begin: 07:30PM
+End: 08:20PM
+Location: 	Pittsburgh, Pennsylvania
+Mode: 	CMU REMOTE	
+Instructor: Wilder, Bryan
+------------------------------------------------------------
+
+Course: 10681
+Course Title: Computational Foundations for Machine Learning
+Units: 	6
+Sec:	A2
+Day:	MW
+Begin: 	07:30PM
+End: 	08:20PM
+Location:	Pittsburgh, Pennsylvania
+Mode: 	CMU REMOTE
+Instructor: Wilder, Bryan
+------------------------------------------------------------
+Course: 10697
+Course Title: 	Reading and Research
+Units:	1-48
+Sec:	A
+Day, Begin, End: TBA
+Location: Pittsburgh
+Mode: In person 
+Instructor: Shah Nihar
+------------------------------------------------------------
+
+Course: 10701
+Course Title: Introduction to Machine Learning (PhD)
+Units: 12
+Sec: A
+Days: MWF
+Begin: 02:00PM
+End: 03:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: DH 2210
+Delivery_Mode: In-person Expectation
+Instructor: Chai, Henry
+Lipton, Zachary
+------------------------------------------------------------
+Course: 10703
+Course_Title: Deep Reinforcement Learning & Control
+Units: 12
+Sec: A
+Days: MWF
+Begin: 02:00PM
+End: 03:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: GHC 4401
+Delivery_Mode: In-person Expectation
+Instructor: Fragkiadaki, Katerina
+------------------------------------------------------------
+Course: 10708
+Course_Title: Probabilistic Graphical Models
+Units: 12
+Sec: A
+Days: TR
+Begin: 12:30PM
+End: 01:50PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: POS 153
+Delivery_Mode: In-person Expectation
+Instructor: Risteski, Andrej
+------------------------------------------------------------
+Course: 10714
+Course_Title: Deep Learning Systems: Algorithms and Implementation
+Units: 12
+Sec: A
+Days: TR
+Begin: 11:00AM
+End: 12:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: TEP 1403
+Delivery_Mode: In-person Expectation
+Instructor: Kolter, Zico
+Chen, Tianqi
+------------------------------------------------------------
+Course: 10715
+Course_Title: Advanced Introduction to Machine Learning
+Units: 12
+Sec: A
+Days: MWF
+Begin: 02:00PM
+End: 03:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: POS 152
+Delivery_Mode: In-person Expectation
+Instructor: Shah, Nihar
+------------------------------------------------------------
+Course: 10718
+Course_Title: Machine Learning in Practice
+Units: 12
+Sec: A
+Days: TR
+Begin: 03:30PM
+End: 04:50PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: HOA 160
+Delivery_Mode: In-person Expectation
+Instructor: Ghani, Rayid
+------------------------------------------------------------
+Course: 10719
+Course_Title: Federated and Collaborative Learning
+Units: 12
+Sec: A
+Days: TR
+Begin: 02:00PM
+End: 03:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: WEH 2302
+Delivery_Mode: In-person Expectation
+Instructor: Smith, Virginia
+------------------------------------------------------------
+Course: 10725
+Course_Title: Convex Optimization
+Units: 12
+Sec: A
+Days: MWF
+Begin: 03:30PM
+End: 04:50PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: BH A51
+Delivery_Mode: In-person Expectation
+Instructor: Poczos, Barnabas
+------------------------------------------------------------
+Course: 10805
+Course_Title: Machine Learning with Large Datasets
+Units: 12
+Sec: A
+Days: MWF
+Begin: 11:00AM
+End: 12:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: GHC 4401
+Delivery_Mode: In-person Expectation
+Instructor: Talwalkar, Ameet
+Gordon, Geoffrey
+------------------------------------------------------------

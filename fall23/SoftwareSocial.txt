@@ -1,0 +1,248 @@
+Course: 17200
+Course_Title: Ethics and Policy Issues in Computing
+Units: 9
+Sec: A
+Days: TR
+Begin: 02:00PM
+End: 03:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: SH 236
+Delivery_Mode: In-person Expectation
+Instructor: Skirpan, Michael
+
+Course: 17213
+Course_Title: Network Analysis: The Hidden Structures behind the Webs We Weave
+Units: 12
+Sec: A
+Days: TR
+Begin: 02:00PM
+End: 03:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: PH A18B
+Delivery_Mode: In-person
+Instructor: Park, Patrick Vasilescu, Bogdan
+
+
+Course: 17214
+Course_Title: Principles of Software Construction: Objects, Design, and Concurrency
+Units: 12
+Sec: Lec1
+Days: TR
+Begin: 02:00PM
+End: 03:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: TEP 1403
+Delivery_Mode: In-person
+Instructor: Kaestner, Christian and Lacomis, Jeremy
+
+Course: 17301
+Course_Title: Special Topics in Societal Computing: Understanding Cyber Teams
+Units: 9
+Sec: A
+Days: MW
+Begin: 02:00PM
+End: 03:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: SH 238
+Delivery_Mode: In-person Expectation
+Instructor: Dobson, Geoffrey
+
+Course: 17303
+Course_Title: Cryptocurrencies, Blockchains and Applications
+Units: 9
+Sec: A
+Days: MW
+Begin: 11:00AM
+End: 12:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: WEH 5403
+Delivery_Mode: In-person Expectation
+Instructor: Christin, Nicolas
+
+Course: 17313
+Course_Title: Foundations of Software Engineering
+Units: 12
+Sec: Lec1
+Days: TR
+Begin: 03:30PM
+End: 04:50PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: PH 100
+Delivery_Mode: In-person Expectation
+Instructor: Padhye, Rohan and Begel, Andrew
+
+
+Course: 17331
+Course_Title: Information Security, Privacy, and Policy
+Units: 12
+Sec: A
+Days: TR
+Begin: 09:30AM
+End: 10:50AM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: WEH 2302
+Delivery_Mode: In-person Expectation
+Instructor: Habib, Hana Sadeh, Norman
+
+Course: 17333
+Course_Title: Privacy Policy, Law, and Technology
+Units: 9
+Sec: A
+Days: MW
+Begin: 09:30AM
+End: 10:50AM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: SH 236
+Delivery_Mode: In-person Expectation
+Instructor: Bauer, Lujo
+
+Course: 17363
+Course_Title: Programming Language Pragmatics
+Units: 12
+Sec: Lec1
+Days: TR
+Begin: 12:30PM
+End: 01:50PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: DH 2105
+Delivery_Mode: In-person Expectation
+Instructor: Aldrich, Jonathan
+Titzer, Benjamin
+
+Course: 17413
+Course_Title: Software Engineering Practicum
+Units: 12
+Sec: A
+Days: TR
+Begin: 02:00PM
+End: 03:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: GHC 4101
+Delivery_Mode: In-person Expectation
+Instructor: Schmerl, Bradley Bloch, Joshua
+
+Course: 17415
+Course_Title: Software Engineering Reflection
+Units: 6
+Sec: A
+Days: F
+Begin: 11:00AM
+End: 12:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: PH 125D
+Delivery_Mode: In-person Expectation
+Instructor: Sunshine, Joshua
+Schmerl, Bradley
+
+
+
+Course: 17480
+Course_Title: API Design and Implementation: API Design and Implementation
+Units: 12
+Sec: A
+Days: TR
+Begin: 12:30PM
+End: 01:50PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: GHC 4102
+Delivery_Mode: In-person
+Instructor: Bloch, Joshua
+
+Course: 17514
+Course_Title: Principles of Software Construction: Objects, Design, and Concurrency
+Units: 12
+Sec: Lec1
+Days: TR
+Begin: 02:00PM
+End: 03:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: TEP 1403
+Delivery_Mode: In-person Expectation
+Instructor: Kaestner, Christian
+Lacomis, Jeremy
+
+
+Course: 17562
+Course_Title: Law of Computer Technology
+Units: 9
+Sec: A
+Days: TR
+Begin: 08:00AM
+End: 09:20AM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: DH A302
+Delivery_Mode: In-person Expectation
+Instructor: Shamos, Michael
+
+Course: 17599
+Course_Title: Advanced Topics in Machine Learning and Game Theory Advanced Topics in Machine Learning and Game Theory
+Units: 12
+Sec: A
+Days: MW
+Begin: 09:30AM
+End: 10:50AM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: WEH 4708
+Delivery_Mode: In-person Expectation
+Instructor: Fang, Fei
+
+Course: 17603
+Course_Title: Communications for Software Leaders I
+Units: 3
+Sec: A
+Days: T
+Begin: 09:30AM
+End: 10:50AM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: 3SC 265
+Delivery_Mode: In-person Expectation
+Instructor: Frollini, Dominick
+
+Course: 17606
+Course_Title: Privacy by Design Project Workshop
+Units: 6
+Sec: A
+Days: T
+Begin: 11:00AM
+End: 12:20PM
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: POS 147
+Delivery_Mode: In-person Expectation
+Instructor: Habib, Hana
+
+Course: 17607
+Course_Title: Privacy by Design Practicum
+Units: 0
+Sec: A
+Days: TBA
+Begin: TBA
+End: TBA
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: DNM
+Delivery_Mode: In-person Expectation
+Instructor: Habib, Hana
+
+Course: 17608
+Course_Title: Privacy Engineering Independent Study
+Units: 0
+Sec: A
+Days: TBA
+Begin: TBA
+End: TBA
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: DNM
+Delivery_Mode: In-person Expectation
+Instructor: Habib, Hana
+Sadeh, Norman
+
+Course: 17609
+Course_Title: Internship for Privacy Engineering
+Units: 3
+Sec: A
+Days: TBA
+Begin: TBA
+End: TBA
+Location: Pittsburgh, Pennsylvania
+BLDG_Room: DNM
+Delivery_Mode: In-person Expectation
+Instructor: Habib, Hana
