@@ -24,8 +24,12 @@ preciseSplitDB/*
 nonPrecise/*
 gpt4allDB/*
 
-
-
+sfr-embedder/*
+__pycache__/ReRankRetriever.cpython-312.pyc
+llm-embedder-20240316T011826Z-001.zip
+unlimiformer/*
+FlagEmbed/*
+MistralEmbed/*
 sfr-mistralDB.zip
 # If "ratatouille colbert" is a specific file, include it directly
 # Adjust the path as necessary if it's located within a folder
