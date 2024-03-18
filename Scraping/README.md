@@ -34,7 +34,7 @@ Navigate to the **'cleaning_webscholar_data'** directory.
 Run the **'validating_unique_authors.py'** script to process the serialized data:
 ```
 python validating_unique_authors.py
-``
+```
 This step cleans the data, formats it appropriately, and filters out records to ensure each author ID is unique and correctly associated with the corresponding paper.
 
 ### Data Format
