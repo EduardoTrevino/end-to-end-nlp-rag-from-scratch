@@ -1,0 +1,1167 @@
+Geosci. Model Dev., 16, 5035–5048, 2023
+https://doi.org/10.5194/gmd-16-5035-2023
+© Author(s) 2023. This work is distributed under
+the Creative Commons Attribution 4.0 License.
+Model description paper
+NEOPRENE v1.0.1: a Python library for generating spatial rainfall
+based on the Neyman–Scott process
+Javier Diez-Sierra1,2,3, Salvador Navas1, and Manuel del Jesus1
+1IHCantabria – Instituto de Hidráulica Ambiental, Universidad de Cantabria, Santander, Spain
+2Instituto de Física de Cantabria (IFCA), Universidad de Cantabria-CSIC, Santander, Spain
+3Dept. of Applied Mathematics and Computer Science (MACC), Universidad de Cantabria, Santander, Spain
+Correspondence: Manuel del Jesus (manuel.deljesus@unican.es)
+Received: 14 October 2022 – Discussion started: 27 February 2023
+Revised: 9 May 2023 – Accepted: 17 July 2023 – Published: 1 September 2023
+Abstract. Long time series of rainfall at different levels of
+aggregation (daily or hourly in most cases) constitute the
+basic input for hydrological, hydraulic and climate studies.
+However, oftentimes the length, completeness, time resolu-
+tion or spatial coverage of the available records falls short of
+the minimum requirements to build robust estimations. Here,
+we introduce NEOPRENE, a Python library to generate syn-
+thetic time series of rainfall. NEOPRENE simulates multi-
+site synthetic rainfall that reproduces observed statistics at
+different time aggregations. Three case studies exemplify the
+use of the library, focusing on extreme rainfall, as well as on
+disaggregating daily rainfall observations into hourly rain-
+fall records. NEOPRENE is distributed from GitHub with an
+open license (GPLv3), free for research and commercial pur-
+poses alike. We also provide Jupyter notebooks with the ex-
+ample use cases to promote its adoption by researchers and
+practitioners involved in vulnerability, impact and adaptation
+studies.
+1 Introduction
+Stochastic rainfall models are used in hydrological, hydraulic
+and climate studies because rainfall records at ground sta-
+tions are often inadequate for applications in terms of their
+length, completeness, time resolution or spatial coverage.
+These models are able to generate arbitrarily long time series
+of synthetic rainfall that reproduce different observed rain-
+fall statistics (means, variances and covariances, frequencies,
+extremes, spatial and temporal correlation, etc.) at differ-
+ent levels of aggregation (Cowpertwait, 2006; Cowpertwaitet al., 2013). Stochastic rainfall models and weather genera-
+tors have also been used in water resource assessments (Alo-
+dah and Seidou, 2019; Kiem et al., 2021; Fowler et al., 2000),
+landslide analysis (Thomas et al., 2018) and urban ﬂooding
+assessment (Park et al., 2021).
+A number of stochastic rainfall models have been devel-
+oped in the last decades based on different statistical tech-
+niques such as Poisson–gamma models, Markov models,
+Monte Carlo models and Bayesian networks models (Legasa
+and Gutiérrez, 2020; Kleiber et al., 2012; Wilks and Wilby,
+1999). Poisson clustered models are among the most com-
+monly used due to their ﬂexibility and the high degree of ac-
+curacy they provide (Rodriguez-Iturbe and Eagleson, 1987;
+Cowpertwait et al., 2013; Burton et al., 2010; Fowler et al.,
+2005; Leonard et al., 2008). These models are based on a
+Poisson process of storm origins which have a random num-
+ber of rectangular pulses (“rain cells”) associated with them,
+with heights corresponding to rain intensity and widths to
+cell duration. Different cells and storms may overlap so that
+the total rain intensity at any time is the sum of the intensities
+of all cells active at that time (Cowpertwait et al., 2002).
+Considerable research on the modeling of rainfall has
+been undertaken using two different Poisson clustered ap-
+proaches: Neyman–Scott and Bartlett–Lewis. Several stud-
+ies have demonstrated that both approaches, which differ in
+the displacement of cell origins relative to storm origins,
+are able to reproduce observed rainfall statistics, including
+second-order properties (see Islam et al., 1990; Cowpert-
+wait, 1991, 1995; Cowpertwait et al., 1996b, a; Cowpertwait,
+1998; Kaczmarska et al., 2014; Onof and Wang, 2020; Park
+et al., 2019; Kim and Onof, 2020).
+Published by Copernicus Publications on behalf of the European Geosciences Union.5036 J. Diez-Sierra et al.: NEOPRENE: a rainfall generation library
+Poisson clustered models are useful for many purposes,
+specially in engineering practice (e.g., return period estima-
+tion for ﬂood analysis), have been used for applications in hy-
+drology (Puente et al., 1993) and have been tested to evaluate
+their suitability to represent extreme events (Verhoest et al.,
+2010). However, their main use so far has been related to
+analyzing rainfall itself (Onof and Wheater, 1994; Cowpert-
+wait and O’Connell, 1997; Diez-Sierra and del Jesus, 2019)
+probably due to the difﬁculty of properly implementing these
+models ex novo.
+Indeed, there is a lack of readily available software solu-
+tions implementing this kind of model, which severely limits
+its usefulness to the general scientiﬁc and technical commu-
+nity. To our knowledge, only three software tools have been
+developed to date: RainSim (Burton et al., 2008); HyetosR
+(Kossieris et al., 2012); and Let-It-Rain, which has a web ver-
+sion (Kim et al., 2017) as well as a desktop version (Kim and
+Onof, 2020). RainSim is based on the Neyman–Scott process
+and HyetosR and Let-It-Rain on the Bartlett–Lewis one.
+RainSim is able to simulate multi-site stochastic rainfall at
+different temporal aggregations and uses the shufﬂed com-
+plex evolution (SCE-UA; Duan et al., 1992) optimization
+algorithm for calibration. Its major limitation, in our opin-
+ion, is its availability (upon demand from the authors, only
+for research purposes and for one speciﬁc operating system).
+HyetosR, implemented in R, may simulate stochastic time
+series of rainfall that reproduce several observed statistics
+at daily and hourly temporal aggregation (mean, variance,
+covariance and probability of a dry period). In contrast to
+RainSim, it is readily available since it is distributed with an
+open-source library. However, HyetosR only deals with point
+precipitation, so it cannot be used to generate rainfall ﬁelds.
+The web version of Let-It-Rain can be used to simulate
+synthetic point rainfall time series at hourly resolution for
+the United States and the Republic of Korea, using a modi-
+ﬁed Bartlett–Lewis rectangular pulse model. It also presents
+a regionalization that allows the user to generate synthetic
+time series even at ungauged locations. The desktop version
+is a later development that allows the user to reproduce rain-
+fall characteristics from very short timescales (5 min) to very
+long ones (decades). The software is provided as a compiled
+executable for the MS Windows operating system.
+The NEOPRENE library constitutes – to the best of our
+knowledge – the ﬁrst open-source library for stochastic rain-
+fall generation based on the spatiotemporal Neyman–Scott
+process. The open-source GPLv3 ensures that the code can
+be freely used for research and commercial purposes. NEO-
+PRENE is readily available for all major operating systems
+from its GitHub repository (Diez-Sierra et al., 2021a) and
+from Zenodo (Diez-Sierra et al., 2021b), which enable long-
+term archival of repository snapshots. NEOPRENE simu-
+lates synthetic multi-site rainfall at different temporal ag-
+gregations that reproduce different observed rainfall statis-
+tics. NEOPRENE can be used for multiple purposes such
+as extreme rainfall analysis or rainfall disaggregation. NEO-
+Figure 1. Model scheme showing the meaning of the main param-
+eters.
+PRENE is designed to reproduce second-order moments (see
+Cowpertwait, 1998) and allows several storm systems to be
+simulated simultaneously – each system with its own set of
+parameters (see Leonard et al., 2008) – to capture different
+rainfall generation processes (i.e., frontal and convective pre-
+cipitation), making NEOPRENE a powerful tool for rainfall
+extreme analysis and for vulnerability, impact and adaptation
+(VIA) studies.
+2 Methods
+2.1 Mathematical model description
+Point processes based on clustered Poisson models for rain-
+fall modeling have been widely presented in the scientiﬁc
+literature. A good introduction to Neyman–Scott models can
+be found in Cox and Isham (1988). A detailed description
+of the mathematical model behind the NEOPRENE library
+can be consulted in Cowpertwait et al. (2013), although ad-
+ditional details can be found in Cowpertwait (1995) and
+Leonard et al. (2008). In del Jesus et al. (2015) some interest-
+ing derivations are also presented, mainly related to parame-
+ter ﬁtting from satellite observations and the characterization
+of dry periods. Diez-Sierra and del Jesus (2019) present a
+methodology for subdaily rainfall estimation through daily
+rainfall downscaling using Neyman–Scott models.
+In this subsection, a brief description of the mathemati-
+cal model is provided – enough to understand which are the
+model parameters, their effects and the results generated by
+the library. Readers interested in a more exhaustive inspec-
+tion of the mathematical innards of the library are invited to
+consult the references provided above and the documentation
+section available on the GitHub repository (Diez-Sierra et al.,
+2021a).
+The model used for the NEOPRENE library assumes that
+rainfall at a given region occurs by the superposition of dif-
+ferent types of storms ( Si); each storm is represented by an
+independent point process. The NEOPRENE library allows
+a maximum of two storm types (or independent point pro-
+cesses), which tends to be sufﬁcient for most applications.
+For instance, in many places this decomposition may serve to
+Geosci. Model Dev., 16, 5035–5048, 2023 https://doi.org/10.5194/gmd-16-5035-2023J. Diez-Sierra et al.: NEOPRENE: a rainfall generation library 5037
+capture frontal ( S1) and convective ( S2) precipitation. Each
+type of superposed process ( Si) would represent some pro-
+portion (αi) of the total number of storms.
+The interarrival time between the origins of storms of type
+ifollows an exponential distribution with parameter λi. Each
+storm is composed of several rainfall cells which form a
+marked point process. Each rainfall cell is assumed to be cir-
+cular and to contain a random amount of water that produces
+rainfall at a random rate (cell intensity) during the lifetime of
+the rainfall cell (cell duration). The superposition of all these
+cells and their combined intensities produces the total rainfall
+intensity of the model. The marked point process generated
+by the rainfall cells is characterized by
+–UiandVi, the 2D coordinates of the cell center that fol-
+low a 2D Poisson process with rate 3ci(per unit area);
+–Rci, the radius of the cell that follows an exponential
+distribution with parameter ρci;
+–Li, the lag from the storm origin to the origin of the cell
+that follows an exponential distribution with parameter
+βi;
+–Di, the duration of the rainfall cell, the time during
+which the storm produces rainfall, that follows an ex-
+ponential distribution with parameter ηi;
+–Ii, the rainfall intensity of the cell that may follow dif-
+ferent distributions but that is usually taken to follow
+an exponential distribution of average θi(or parameter
+1/θi).
+Rainfall occurs at any give location and time if, and only
+if, a rain cell covers that point during that time. The total
+rainfall intensity at any given time and location is the sum of
+the rainfall intensities induced by all the rain cells active at
+that point at that time. The total number of rain cells covering
+a point follows a Poisson distribution with parameter νi=
+2π3 ci/ρ2
+ci.
+As some relations exist among all the above-mentioned
+parameters, a set of six parameters – λi,νi,βi,ηi,ρci,θi– is
+sufﬁcient to represent any storm type. When using two differ-
+ent storm types, all the characteristics of the rainfall process
+are captured by a set of 12 parameters – 6 for each storm
+type.
+Note that in the case of the spatiotemporal model, we work
+with normalized statistics, making it necessary to introduce
+an additional parameter, ξi, which is estimated for each pe-
+riod using the observed average rainfall. ξiacts as a scale
+parameter that captures the differences in average precipita-
+tion at different locations (gauge location). ξiserves to re-
+produce the gradients of average rainfall in the area of inter-
+est. This parameter is adjusted on a site-by-site basis once
+the rest of the parameters have been estimated (Cowpertwait
+et al., 2013).2.2 Aggregated properties
+The Neyman–Scott model represents a continuous process
+in space and time. However, any rainfall measurement – rain
+gauge or satellite observations – aggregates information: in
+time for the former and in time and space for the latter. There-
+fore, the properties of the aggregated process are necessary
+to compare the model and the observations. There is also the
+need to derive some aggregated properties because the model
+is a simpliﬁed conceptualization of the rainfall process, and
+some of the properties deﬁned – e.g., the cell radius or the
+cell intensity – cannot be measured independently; only their
+effects can be measured.
+The integrated properties of the model are presented in the
+references provided at the beginning of the section (Cox and
+Isham, 1988; Cowpertwait et al., 2013; Cowpertwait, 1995;
+del Jesus et al., 2015). The properties of the aggregated pro-
+cess can be derived using the theory of random ﬁelds (Van-
+marcke, 2010). Integration over space and time would result
+in a process similar to satellite rainfall observations, while
+integration over time only would result in the equivalent of
+rain gauge observations.
+The library allows us to ﬁt the aggregated average (mean),
+variance, temporal autocorrelation, probability of no rain-
+fall, transition probabilities between two successive wet pe-
+riods or two successive dry periods, skewness, and cross-
+correlation. The formulas for these aggregated statistics, as
+well as their derivation process, were obtained from three
+references (Cowpertwait, 2006; Cowpertwait et al., 2013; del
+Jesus et al., 2015), and they are available in the documenta-
+tion section available on the GitHub repository (Diez-Sierra
+et al., 2021a).
+2.3 Parameter ﬁtting and rainfall simulation
+NEOPRENE ﬁts the model parameters by minimizing the
+weighted Euclidean distance between the observed statistics
+and the modeled ones. Any subset of all the possible ag-
+gregated statistics (multiple of a daily or an hourly tempo-
+ral aggregation) may be used for ﬁtting. It is important to
+remember here that observations do not belong to the con-
+tinuous point process but to the aggregated one, so the ob-
+served statistics cannot be directly equated to the point pro-
+cess statistics.
+The weights for the weighted Euclidean distance can be
+freely chosen by the user. Particle swarm optimization (PSO;
+Kennedy, 2011) is used for ﬁtting (which is a minimization
+process). The result of the ﬁtting procedure is the set of opti-
+mal parameters.
+Once the model parameters are deﬁned, time series gen-
+eration is a straightforward process. Storm arrivals are sim-
+ulated following a Poisson process with parameter λi. The
+number of cells corresponding to the storm is simulated also
+with a Poisson process, this time with parameter νi. Then,
+for each cell, four values are obtained from four exponential
+https://doi.org/10.5194/gmd-16-5035-2023 Geosci. Model Dev., 16, 5035–5048, 20235038 J. Diez-Sierra et al.: NEOPRENE: a rainfall generation library
+distributions with parameters βi,ηi,ρiandθi, corresponding
+to the cell lag (with respect to the storm origin), its duration,
+its radius and its average intensity.
+Repeating this process in time, a time series of total pre-
+cipitation intensity can be generated for all the points in a
+given domain or for any given isolated point.
+Seasonality is included in the model accounting for differ-
+ent sets of model parameters and observed statistics. For in-
+stance, a single set of parameters will be used to calibrate and
+generate from a model without seasonality, where the year is
+assumed to be a stationary period. However, in regions where
+two well-differentiated periods may be observed – a wet and
+a dry season, for instance – two different sets of parameters
+will be used: one for the dry season and another one for the
+wet season; i.e., seasonality is accounted for by decomposing
+the complete time series into subseries that only contain the
+information related to the desired season or time period.
+3 The NEOPRENE library
+The NEOPRENE library implements the Neyman–Scott pro-
+cess for the analysis of spatiotemporal rainfall; i.e., spatial
+ﬁelds of rainfall can be captured or simulated as they change
+over time. The model can also be used to reproduce rainfall
+at a speciﬁc point without taking into consideration the be-
+havior of rainfall in the surroundings.
+Rainfall generation can be decomposed into two steps: a
+calibration step and a simulation step (as shown in Fig. 2).
+The calibration step serves to ﬁnd the set of parameters that
+best reproduces the statistical properties of the series given
+as an input or that best match the provided rainfall statistics.
+The simulation step takes a set of parameters as input and
+reproduces a time series of the process (punctual or spatial)
+that follows the supplied parameters. Additionally, the NEO-
+PRENE library provides several functions for validation and
+for daily-to-hourly rainfall disaggregation.
+The disaggregate_rainfall function (see
+Sect. 3.1.3) performs the disaggregation process. This
+function scans the observed daily time series. For each day,
+the function looks in the synthetic time series for the most
+similar day to the one being disaggregated – the one being
+selected in the observed time series. To improve the quality
+of the disaggregation, previous days are also used in the
+search. The series of days that minimizes the Euclidean
+distance between the observations and the aggregated
+synthetic time series is selected, and the hours that constitute
+that day are used for the disaggregated time series. The
+process is then repeated for each day until the complete
+observed time series has been disaggregated. This function is
+also implemented for the multi-site model. A more detailed
+explanation of the disaggregation process can be found in
+Cowpertwait (2006).
+The normal use case for the library would be to conﬁg-
+ure the calibration process – setting the hyperparameters ofthe calibration process – and then provide the observed data
+to the calibrator. The calibrator would look for the optimal
+set of parameters, where the deﬁnition of “optimum” can be
+tweaked through the hyperparameters. Once ﬁnished, the cal-
+ibrator would provide a set of optimal parameters.
+Hyperparameters are all those parameters that do not be-
+long to the Neyman–Scott process but that are required to
+conﬁgure either the calibration or the simulation steps. Such
+parameters may be the maximum number of calibration iter-
+ations or the starting and ending dates for a simulation.
+Then, a simulation should be conﬁgured, again through the
+use of hyperparameters. The simulation step also requires the
+time coverage of the simulated time series to be deﬁned. The
+simulator receives, in addition to the hyperparameters, the set
+of optimal parameters and uses them to generate a time series
+of rainfall.
+In some cases, the same set of optimal parameters may
+be used to generate different time series, either with varying
+hyperparameters or with small modiﬁcations of the optimal
+parameters, for instance for a sensibility analysis. The library
+is ﬂexible enough to adapt to many possible use cases.
+It is important to note that the underlying mathematical
+model is, in our own experience, ﬂexible enough to adapt to
+different combinations of the rainfall statistics. Therefore, it
+should be able to properly model rainfall for different cli-
+mates, the main limitation being in locations where more
+than two types of precipitation occur. In this case, the model
+may struggle to provide optimal performance.
+3.1 Library implementation
+The library has been implemented following the two-step op-
+eration described so far: there is a “calibration” sublibrary
+and a “simulation” one. In general, both steps will be fol-
+lowed sequentially, but in some cases (the evaluation of sev-
+eral life cycles of a given infrastructure, for instance) several
+simulation steps may be carried out connected to only one
+calibration step. A third sublibrary, “analysis”, contains sev-
+eral functions to extend the functionality of the library and to
+simplify its use, like a function to compare the simulated se-
+ries with the observed ones and a function for daily-to-hourly
+rainfall disaggregation, for instance.
+The library contains two main Python classes, NSRP and
+STNSRP , which allow us to simulate single-site and multi-
+site synthetic rainfall series, respectively. The ﬁrst Python
+class calculates the observed rainfall statistics from a single
+time series and simulates an arbitrarily long time series of
+synthetic rainfall which reproduces the observed statistics.
+This class is able to reproduce the following statistics for any
+daily or hourly temporal aggregation: mean, variance, tempo-
+ral autocorrelation, probability of no rainfall, transition prob-
+abilities between two successive wet periods or two succes-
+sive dry periods, and the skewness. The second Python class
+calculates the average rainfall statistics from a list of series
+and simulates a synthetic list of rainfall series which repro-
+Geosci. Model Dev., 16, 5035–5048, 2023 https://doi.org/10.5194/gmd-16-5035-2023J. Diez-Sierra et al.: NEOPRENE: a rainfall generation library 5039
+Figure 2. Schematic representation of the three main modules implemented in the NEOPRENE library: calibration, simulation and analysis.
+Observed time series (daily or hourly) or observed statistics need to be provided by the user to the calibration module, which returns the
+optimal set of parameters. The simulation module uses the optimal parameters to generate arbitrarily long time series of synthetic rainfall
+data that reproduce different observed rainfall statistics. Daily and hourly time series, as well as their statistics, are returned in all cases by
+the simulation module. Observed and simulated rainfall time series can be compared with the analysis module which also contains some
+functions for daily-to-hourly rainfall disaggregation. Calibration and simulation hyperparameters are required to deﬁne, for instance, the
+maximum number of calibration iterations, the statistics and aggregation levels that have to be ﬁtted and simulated, or the starting and ending
+dates for a simulation.
+duce observed statistics averaged over all the series (except
+for the mean statistic which varies in space to mimic rain-
+fall intensity ﬁelds). In addition to the above statistics, the
+STNSRP is able to reproduce the cross-correlation.
+Figure 2 shows a schematic representation of the three
+main classes implemented for the NEOPRENE library: cali-
+bration, simulation and analysis. These classes are described
+in depth in the following subsections.
+3.1.1 Calibration
+The calibration step is implemented within the calibration
+sublibrary, speciﬁcally in the Calibration Python class
+(one within NSRP for the point model and another within
+STNSRP for the multi-site model). It requires as input a sin-
+gle time series or multiple ones or the observed statistics. It
+outputs the calibrated optimal parameters needed for the sim-
+ulation.
+It is important to note that, internally, the library calibrates
+against the speciﬁed statistics. Therefore, in order to ensure
+a good calibration and representation of the areal rainfall, the
+length of the time series as well as its completeness should
+allow a robust computation of any of the selected statistics.
+In general terms, the amount of information required for cal-
+ibration will depend on the ﬁnal applications of the data. If
+rainfall extremes are desired, then at least 30 years of datashould be collected. If missing data are below an acceptable
+threshold (20 % of the overall length of the time series), no
+data ﬁlling should be required.
+The calibration process is controlled by a set of parameters
+– that we will call hyperparameters – that should be set by the
+Calibration Python class of the hyperparameter subli-
+brary ( HiperParams , again one within NSRP and another
+within STNSRP ). The following calibration hyperparameters
+can be set:
+–data – a Pandas DataFrame containing the original time
+series;
+–seasonality – a Python list that conﬁgures the desired
+seasonality;
+–temporal resolution – a string that deﬁnes the temporal
+resolution of the provided time series (hourly and daily
+temporal resolution can be provided);
+–process – a string conﬁguring whether one or two storm
+systems should be considered;
+–statistics – a Python list of strings that contain the statis-
+tics that have to be considered during the ﬁtting process;
+–weights – a list that contains the weight for computing
+the total error – Euclidean distance – between the ob-
+served statistics and the generated ones;
+https://doi.org/10.5194/gmd-16-5035-2023 Geosci. Model Dev., 16, 5035–5048, 20235040 J. Diez-Sierra et al.: NEOPRENE: a rainfall generation library
+–number of iterations – an integer that deﬁnes the maxi-
+mum number of iterations of the calibration process;
+–number of bees – an integer that deﬁnes the number of
+particles to use in the PSO algorithm;
+–number of initializations – an integer that deﬁnes the
+number of initializations to be performed during the cal-
+ibration procedure;
+–time between storms – a range of acceptable values of
+storm interarrival times (in hours);
+–storm cell displacement – a range of acceptable values
+of cell lags (in hours);
+–number of storm cells – a range of acceptable values for
+the number of cells per storm;
+–cell duration – a range of acceptable values for the du-
+ration of a storm cell (in hours);
+–cell intensity – a range of acceptable values for the in-
+tensity of a storm cell (in mm h−1);
+–coordinates – a string deﬁning the type of coordinates,
+either geographical (in degrees) or UTM (in meters);
+–cell_radius – a range of acceptable values of the cell
+radius (in km).
+The “coordinates” and “cell_radius” hyperparameters are
+only required for the multi-site model ( STNSRP ).
+The “number of iterations” and “number of bees” hyper-
+parameters control how exhaustive the search is in the pa-
+rameter space for the optimal solution. In our experience 100
+iterations and 1000 bees are a good minimal value set to get
+good results. Additional advice may be found in speciﬁc lit-
+erature (Kennedy, 2011).
+The “number of initializations” hyperparameters allow the
+library to restart the search multiple times to ensure that the
+search did not get trapped in a local minimum. This is al-
+most never the case, but the number of initializations may
+be increased in cases where the initial results seem subopti-
+mal. Indeed, we recommend increasing this hyperparameter
+before increasing the number of bees or iterations.
+The hyperparameters that refer to physical properties of
+the storm itself (time between storms, storm cell displace-
+ment, number of storm cells, cell duration, cell intensity and
+cell radius) should be used to ensure that reasonable values
+are obtained. To set these parameters, a minimum knowledge
+of the properties of the rainfall process in the speciﬁc loca-
+tion being analyzed is required. The “time between storms”
+normally represents the time lag that separates independent
+storms, while “storm cell displacement” captures the time lag
+between rain cells belonging to the same storm. Similarly,
+“cell duration” captures the time lag during which rainfall
+intensity is constant, “cell intensity” captures the range ofpossible intensities at a site and “cell radius” represents the
+maximum length that may be affected by a given storm. The
+reader is advised to consult some of the included references
+(Isham et al., 2005, for instance) to obtain a deeper grasp of
+the selection of these hyperparameters.
+3.1.2 Simulation
+The simulation step is implemented within the simula-
+tion sublibrary ( Simulation , one for the point model
+and another for the multi-site one), speciﬁcally in the
+Simulation Python class. It requires as input the cali-
+brated parameters and returns the simulated rainfall series at
+both daily and hourly temporal aggregations.
+The simulation process is controlled by a set of hyperpa-
+rameters that should be set by the Simulation Python
+class of the hyperparameter sublibrary ( HiperParams ,
+again one for the point model and another for the multi-site
+one). The following simulation hyperparameters can be set:
+–parameters_simulation – the values of the parameters,
+usually the calibrated ones;
+–year_ini and year_ﬁn – the initial and ﬁnal years of the
+simulation;
+–seasonality, temporal resolution, process, statistics –
+fully independent simulation and calibration subli-
+braries, thus several hyperparameters being necessarily
+repeated.
+3.1.3 Analysis
+The analysis module is not required for either rainfall calibra-
+tion or simulation, but it is helpful for many tasks such as to
+check the performance of the model or for rainfall disaggre-
+gation. This functionality is implemented within the analysis
+sublibrary ( Analysis , one for the point model and another
+one for the multi-site one), speciﬁcally in the Analysis
+Python class.
+To evaluate the quality of the ﬁt, the user should deter-
+mine which statistical test may be appropriate in every case.
+A Kolmogorov–Smirnov test could be suitable to test if the
+generated rainfall and the observed one come from the same
+distribution, while a ttest could serve to analyze if the differ-
+ence in mean precipitation is signiﬁcant. The number of pos-
+sible hypothesis tests that may be carried out over the model
+results is huge, since different applications may require dif-
+ferent quality evaluations. Therefore, we do not provide any
+goodness-of-ﬁt routine or speciﬁc hypothesis testing within
+theAnalysis module. However, we do provide functions
+to help to inspect the quality of the ﬁts.
+TheAnalysis Python class contains several functions
+for validation and for daily-to-hourly rainfall disaggregation.
+So far the functions implemented are as follows.
+Geosci. Model Dev., 16, 5035–5048, 2023 https://doi.org/10.5194/gmd-16-5035-2023J. Diez-Sierra et al.: NEOPRENE: a rainfall generation library 5041
+–compare_statistics_fig() . This function re-
+turns an image with the observed (Obs), ﬁtted (Fitted)
+and simulated (Sim) statistics (see Fig. 3).
+–exceedance_probability_fig() . This func-
+tion returns an image comparing the exceedance proba-
+bility for the observed and simulated series (see Fig. 4).
+–correlation_fig() . This function returns an im-
+age with the observed (Obs), ﬁtted (Fitted) and simu-
+lated (Sim) cross-correlation (see Fig. 7).
+–disaggregate_rainfall and
+disaggregation_fig . The ﬁrst function is used
+for daily-to-hourly rainfall disaggregation (see Cow-
+pertwait, 2006). The second function returns an image
+comparing the observed rainfall time series and the dis-
+aggregated ones (see Fig. 5).
+–save_figures . This function allows us to save the
+ﬁgures in a folder.
+4 Use cases
+In this section three use cases for the library are introduced.
+The code and a detailed application for these use cases can
+be found in the Jupyter notebooks NSRP_test.ipynb and
+STNSRP_test.ipynb on the GitHub repository (Diez-
+Sierra et al., 2021a). The objectives and main steps are brieﬂy
+described here, but we recommend that the reader executes
+the interactive code from the Jupyter notebooks while read-
+ing this section for a more complete and easier understanding
+of the applications presented. A small executable is provided
+to run the examples without having to install the library.
+The ﬁle NSRP_test.ipynb contains a single-site rain-
+fall simulation at hourly and daily scale (although only
+the latter is presented here) and a disaggregation from
+daily-to-hourly rainfall (rainfall downscaling). The ﬁle
+STNSRP_test.ipynb contains a multi-site rainfall sim-
+ulation (commented below) and a multi-site rainfall down-
+scaling example (not included below).
+4.1 Single-site synthetic rainfall simulation
+4.1.1 Objective
+The library is used here to calibrate the model to reproduce
+the rainfall characteristics at a speciﬁc rainfall station. Once
+the model is calibrated, it can be used to generate synthetic
+time series of precipitation showing the same statistical prop-
+erties as the observations. Such a model would be useful to
+explore alternative rainfall realizations at the location of in-
+terest, i.e., to explore plausible time series of rainfall that may
+not have been observed due to the limited duration of the ob-
+servation period. A rainfall station in northern Spain has been
+selected.4.1.2 Use case conﬁguration
+A monthly analysis is carried out, which means that we as-
+sume that the model parameters can be considered homoge-
+neous for any month of the year, but they change from month
+to month. Hyperparameters for the calibration and for the
+simulation are reported in the ﬁles Input_Cal_PD.yml
+andInput_Sim_PD.yml , respectively, on the GitHub
+repository. In this case, only one storm system is considered.
+The average rainfall is given 100 times more importance (rel-
+ative weight in the weighted Euclidean distance) in the cal-
+ibration process than any other statistic. All of the possible
+statistics included in the NEOPRENE library are used for
+calibration to obtain a model that reproduces as well as pos-
+sible the statistical behavior of the observations. Multi-daily
+temporal aggregations are selected for some of the statistics
+in order to simulate longer aggregations which are necessary
+for hydrological applications. Synthetic rainfall data span-
+ning a total of 80 years are simulated at daily and hourly
+temporal aggregations, although here we focus on the for-
+mer.
+4.1.3 Main results
+Figure 3 shows the validation of the ﬁrst use case. The ob-
+served, ﬁtted and simulated values for the selected statistics
+are compared to evaluate the performance of the model. Ob-
+served and simulated statistics are very close to each other,
+except for the variance ( σnd) and skewness ( µ31d) for August.
+For this month, the ﬁtted and observed statistics differ indi-
+cating that the model parameters ﬁtted are not able to repro-
+duce the observed statistics. In these cases, we recommend
+increasing the number of calibration iterations or extending
+the range of acceptable values for the parameters. If after this
+modiﬁcation results do not improve, further analysis should
+be carried out to test if the model is not able to capture the
+rainfall properties. As mentioned before, very complex loca-
+tions, where more than two physical processes are responsi-
+ble for rainfall, may not be correctly captured by the under-
+lying mathematical model.
+The calibrated model can then be used to explore different
+properties of the rainfall process. For instance, Fig. 4 shows
+an exceedance probability plot, comparing the observed and
+simulated time series. For high exceedance probability val-
+ues, these plots can be used as another validation tool. For
+the local exceedance probability values, however, it can be
+seen that the simulated values provide a much ﬁner descrip-
+tion of the process so that synthetic generation can be used to
+better explore the space of extremes, i.e., to explore plausible
+extremes that are never observed but are likely to happen.
+https://doi.org/10.5194/gmd-16-5035-2023 Geosci. Model Dev., 16, 5035–5048, 20235042 J. Diez-Sierra et al.: NEOPRENE: a rainfall generation library
+Figure 3. Validation plot comparing the observations (dashed line) and the ﬁtted (blue squares) and the simulated (red triangles and red
+shading) statistics, where µrefers to rainfall average, σto the variance, ACF-lag1 to the autocorrelation of lag one, 8to the probability of
+dry period,8WWto the probability of having two consecutive wet periods, 8DDto the probability of having to consecutive dry periods and
+µ3to the skewness. The subscripts (1d, 2d, etc.) represent the level of aggregation (in days) at which the statistic was computed. The shading
+shows the range between the 5th and the 95th percentiles. This ﬁgure is generated with the Analysis Python class.
+Geosci. Model Dev., 16, 5035–5048, 2023 https://doi.org/10.5194/gmd-16-5035-2023J. Diez-Sierra et al.: NEOPRENE: a rainfall generation library 5043
+Figure 4. Exceedance probability of daily rainfall values for use
+case no. 1. Exceedance probabilities of observed (black dots) and
+simulated (red line) rainfall values are shown. This ﬁgure is gener-
+ated with the Analysis Python class implemented for the NEO-
+PRENE library.
+4.2 Rainfall disaggregation
+4.2.1 Objective
+The objective is to disaggregate a time series of daily precip-
+itation, producing the most likely hourly time series to have
+generated the observed daily one, i.e., to produce an hourly
+time series such that when aggregated produces a daily time
+series as similar as possible to the observed record. Rainfall
+disaggregation may be an important procedure in the foren-
+sics analysis of storms, where having a plausible hourly dis-
+tribution of rainfall may help in understanding the observed
+impact of an event for which only an aggregated observation
+was collected.
+4.2.2 Use case conﬁguration
+Rainfall disaggregation requires ﬁrst generating a synthetic
+time series of rainfall that reproduces the statistics observed
+– what we did in the ﬁrst use case. In this case, the simulation
+must be at the hourly scale, even when the objective is to
+reproduce the observed daily statistics.
+4.2.3 Main results
+Figure 4 shows an example of the disaggregation results
+for February 2000. Observed and simulated lines are equal,
+meaning that the model is able to perfectly reproduce the
+daily observed precipitation. Black lines show the hourly dis-
+aggregation created with the model.
+4.3 Multi-site synthetic rainfall simulation
+4.3.1 Objective
+The library is used here to calibrate the model to reproduce
+the average rainfall characteristics for a collection of rain-
+fall time series. Once the model is calibrated, it can be used
+to generate multi-site synthetic time series of precipitationthat follow the same statistical properties of the input time
+series. Note that simulated series reproduce the average rain-
+fall statistics calculated with the entire collection of observed
+rainfall time series except for the mean which ﬁts to each lo-
+cation. Several gauges from a basin located in northern Spain
+were selected.
+4.3.2 Use case conﬁguration
+A seasonal analysis is carried out, which means that we as-
+sume that the model parameters can be considered homoge-
+neous for any given season (winter, spring, summer and fall),
+but they change from season to season. Hyperparameters for
+the calibration and for the simulation are reported in the ﬁles
+Input_Cal_SPD.yml andInput_Sim_SPD.yml , re-
+spectively, on the GitHub repository. Similarly to the ﬁrst
+use case, only one storm system is considered. The cross-
+correlation is given 10 times more importance (relative
+weight in the weighted Euclidean distance) in the calibra-
+tion process than any other statistic. Synthetic rainfall data
+spanning a total of 100 years are simulated for each one of
+the gauges at both daily and hourly temporal aggregations.
+4.3.3 Main results
+Figure 6 shows an exceedance probability plot, comparing
+the exceedance probability of observed and simulated rain-
+fall values aggregated for the collection of rainfall time se-
+ries. The results for the observed and simulated time series
+are very similar, proving the capabilities of NEOPRENE to
+reproduce maximum observed aggregated rainfall events and
+thus that it is a useful tool for ﬂood analysis.
+Finally, Fig. 7 shows a comparison of the observed, ﬁtted
+and simulated results for the cross-correlation. The observed
+and simulated cross-correlations are empirically computed
+from the time series, while the calibrated cross-correlation
+is computed using analytic expressions. While some exact
+analytic expressions exist (for the mean and the variance,
+for instance), they do not exist for all the statistics. Indeed,
+some statistics require some approximations and series ex-
+pansions that induce the behavior shown in the ﬁgure: the
+calibration values approximate the observed ones quite well,
+but the simulated ones present a small bias. For most practi-
+cal purposes, the simulated series adequately reproduce the
+observed cross-correlation, but the ﬁt should be analyzed to
+verify that differences are kept below acceptable thresholds.
+5 Discussion
+NEOPRENE constitutes a user-friendly tool for spatiotem-
+poral synthetic rainfall generation based on the Neyman–
+Scott process. Compared with other statistical approaches for
+synthetic rainfall generation such as probability distribution
+models or Markov chain models (Wilks, 1998), point pro-
+cesses, like the Neyman–Scott, are more efﬁcient at captur-
+https://doi.org/10.5194/gmd-16-5035-2023 Geosci. Model Dev., 16, 5035–5048, 20235044 J. Diez-Sierra et al.: NEOPRENE: a rainfall generation library
+Figure 5. Disaggregation plot for the rainfall of the month of February 2000. Blue (observation) and red (simulated) lines correspond to
+the observed and simulated series at daily scale, respectively. Black lines show the hourly disaggregation simulated with the model for odd
+(square) and even (asterisk) days. This ﬁgure is generated with the Analysis Python class.
+Figure 6. Exceedance probability of daily rainfall values for use
+case no. 3. Exceedance probability of observed (black dots) and
+simulated (red line) rainfall values are shown. Note that the ﬁgure
+shows the exceedance probability averaged over all the rainfall se-
+ries. This ﬁgure is generated with the Analysis Python class.
+ing the temporal and spatial dependence of rainfall and re-
+producing different rainfall regimes, particularly the extreme
+events’ one. However, it has the disadvantage of requiring
+more computational resources and some knowledge of its
+internals. Compared with artiﬁcial neural networks (ANNs)
+(Welten et al., 2022), point processes may be less ﬂexible
+in terms of incorporating nonlinear relationships or exter-
+nal information. However, ANNs are still not widely used
+as rainfall synthetic generators, being more commonly used
+for rainfall–runoff prediction.
+Particularly, NEOPRENE has been validated to reproduce
+hourly and daily return periods in hundreds of gauges in
+Spain. Furthermore, its implementation removes the main
+hindrance to the practical application of the model, which
+is related to the complexity of model parameter estimation
+(Onof et al., 2000). It is important to point out that the prop-
+erties of the spatial model present some limitations: ﬁrst be-
+cause it requires some supervision in order to ﬁnd a suitable
+model adjustment and second because it is based on a num-
+ber of assumptions, such as on homogeneity, which makes it
+not appropriate for locations where statistics other than the
+mean are not homogeneous.
+Figure 7. Validation plot comparing the observations (blue), ﬁtted
+(black) and the simulated (red) cross-correlation. This ﬁgure is gen-
+erated with the Analysis Python class implemented for the NEO-
+PRENE library.
+6 Future challenges
+Although the current implementation of NEOPRENE al-
+ready provides useful tools for research and hydraulic en-
+gineering practice, we plan on improving the functionality of
+the library. The main points to improve in the near future are
+as follows.
+–Parameter smoothing across months . Currently, the
+time decomposition makes all the ﬁts independent of
+one another. We are planning to implement a hierarchi-
+cal scheme that properly weighs the inﬂuence of other
+close-in-time decomposition units.
+Geosci. Model Dev., 16, 5035–5048, 2023 https://doi.org/10.5194/gmd-16-5035-2023J. Diez-Sierra et al.: NEOPRENE: a rainfall generation library 5045
+–Storm radius parameter . NEOPRENE does not yet con-
+sider a reduction in distant correlations due to the lim-
+ited size of the storm. This is only a limitation when
+huge domains are involved.
+–Sub-hourly implementation . The hourly timescale is de-
+tailed enough for most applications. However, we plan
+on exploring the generation of sub-hourly time series.
+–Virtual gauges . We will implement an interpolation
+technique based on the underlying mathematical model,
+allowing us to incorporate the ﬁtted structure of the rain-
+fall ﬁeld into the interpolation procedure.
+–Raster input/output . Currently, NEOPRENE only works
+with rainfall gauges. However, a next step would be to
+allow it to ingest rainfall raster data (satellite or radar)
+and to also produce them.
+We expect that the GPLv3 license of the library and the
+fact that it is readily available on GitHub will attract external
+collaborators that will help to improve the functionality of
+the library even further.
+7 Conclusions
+We have presented NEOPRENE, an open-source Python
+library for generating synthetic rainfall ﬁelds using the
+Neyman–Scott process. The library allows us to generate
+rainfall at different temporal scales of aggregation to match
+rainfall observations. The library is available on GitHub
+(Diez-Sierra et al., 2021a) and Zenodo (Diez-Sierra et al.,
+2021b) under a free license (GPLv3). Therefore, it can be
+freely used for research and commercial purposes.
+NEOPRENE can be used for multiple purposes such as
+water resource assessment, extreme rainfall analysis or rain-
+fall disaggregation. NEOPRENE is designed to reproduce
+second-order moments and allow two storm systems to be
+simulated simultaneously to capture different rainfall gener-
+ation processes (i.e., frontal and convective precipitation).
+Jupyter notebooks provide an easy entry point to the li-
+brary, presenting its most important functionality and con-
+verting it in an accessible tool for many sector professionals
+(hydrologists, hydraulic engineers and climate practitioners).
+Special attention has been placed on demonstrating the abil-
+ity of NEOPRENE to reproduce observed extreme events be-
+cause it makes NEOPRENE specially useful in engineering
+practice (e.g., return period estimation for ﬂood analysis).
+Appendix A: Some statistical properties of the model
+In model ﬁtting, it is usually necessary to use equations for
+aggregated properties because rainfall data are usually sam-
+pled over discrete time intervals. Let Yh
+ij(x)be the aggre-
+gated time series of rainfall due to type istorms at pointx=(x,y)∈R2in thejth time interval of width h, and let
+Yh
+j(x)be the total rainfall in the jth interval due to the su-
+perposition of the nstorm types (Cowpertwait et al., 2013).
+Then,
+Yh
+j(x)=n∑
+i=1jh∫
+(j−1)/hYi(x,t)dt, (A1)
+whereYi(x,t)is the rainfall intensity at point xand time
+tdue to typeistorms(i=1,...,n) . Since the superposed
+processes are independent, statistical properties of the aggre-
+gated time series follow just by summing the various proper-
+ties given below.
+The mean (Cowpertwait, 1991, their Eq. 12) is
+µ(h)=n∑
+i=1E{Yh
+ij(x)}=hn∑
+i=1λiνi
+χiηi(A2)
+in the STNSRP model, andχimust be changed by χ−1
+i.
+Covariance (Cowpertwait, 1991, their Eq. 14) is
+γ(x,x,l,h)=n∑
+i=1Cov{Yh
+ij,Yh
+i,j+l}
+=λi(ν2
+i−1)[β3
+iAi(h,l)−η3
+iBi(h,l)]
+βiξ2η3
+i(β2
+i−η2
+i)
+−4λiχiAi(h,l)
+ξ2
+iη3
+i. (A3)
+Whenl=0,
+Ai(h,l)=Ai(h)=ηih−1+e−ηih, (A4)
+Bi(h,l)=Bi(h)=βih−1+e−βih. (A5)
+Whenl>0,
+Ai(h,l)=0.5(1−e−ηih)2exp−ηih(l−1), (A6)
+Bi(h,l)=0.5(1−e−βih)2exp−βih(l−1). (A7)
+For the probability of no rain in an arbitrary time of length
+h(Cowpertwait et al., 1996b, their Eq. 6), the probability that
+an arbitrary time interval [(j−1)h,jh]is dry at a point is
+obtained by multiplying the probabilities of the independent
+processes and is given by the following:
+φ(h)=n∑
+i=1Pr{Y(h)
+ij(x)=0}=exp(−λih+λiβ−1
+i(νi−1)−1
+×{1−exp[1−νi+(νi−1)e−βih]}
+−λi∞∫
+0[1−ph(t)]dt). (A8)
+We use the approximation shown in Cowpertwait (1991,
+their Eq. 17) to avoid having to solve the following integral:
+∞∫
+0[1−ph(t)]dt=β−1
+i[γ+ln(ανi−1)], (A9)
+https://doi.org/10.5194/gmd-16-5035-2023 Geosci. Model Dev., 16, 5035–5048, 20235046 J. Diez-Sierra et al.: NEOPRENE: a rainfall generation library
+whereγ=0.5771 andαi=ηi/(ηi−βi)−e−βih.
+The transition probabilities, pr {Y(h)
+i,j+1(x)> 0|Y(h)
+ij(x)>
+0}and pr{Y(h)
+i,j+1(x)=0|Y(h)
+i(x)=0}, denoted as φWW(h)
+andφDD(h), respectively, can be expressed in terms of φ(h)
+following Cowpertwait et al. (1996b, their Eqs. 7, 8 and 9):
+φDD(h)=φ(2h)/φ(h), (A10)
+φ(h)=φDD(h)+{1−φWW(h)}{(1−φ(h))}, (A11)
+φWW(h)={1−2φ(h)+φ(2h)}{1−φ(h)}. (A12)
+The third moment function (Cowpertwait, 1998, their
+Eq. 10) is
+ξh=E{Y(h)
+j(x)−µ(h)}3=n∑
+i=1[6λiνiE(X3) (A13)
+×(ηih−2+ηihe−ηih+2e−ηih)/η4
+i
++3λiχiE(X2)ν2
+if(ηi,βi,h)/{2η4
+iβi(β2
+i−η2
+i)2}
++λiχ3
+iν3
+ig(ηi,βi,h)/{eη4
+iβi(eη2
+i−β2
+i)(ηi−βi)
+×(2βi+ηi)(βi+2ηi)}].
+In the STNSRP model,Cfollows a Poisson random vari-
+able so thatE{C(C−1)}=ν2andE{C(C−1)(C−2)}=ν3.
+If it follows a geometric one, then E{C(C−1)}=2ν2(ν−1)
+andE{C(C−1)(C−2)}=6ν2(ν−1)2.
+For exponential cell intensities, E(Xijk)andE(Xk
+ijk)are
+replaced by 2 χ2
+iand 6χ3
+i, respectively. f(ηi,βi,h) and
+g(ηi,βi,h)are derived below:
+f(ηi,βi,h)=− 2η3β2exp(−ηh)−2η3η2exp(−βh) (A14)
++η2β3exp(−2ηh)+2η4βexp(−ηh)
++2η4βexp(−βh)
++2η3β2exp(−(η+β)h)
+−2η4βexp(−(η+β)h)−8η3β3h
++11η2β3−2η4β+2η3η2+4ηβ5h
++4η5βh−7β5−4η5+8β5exp(−ηh)
+−β5exp(−2ηh)−2hη3β3exp(−ηh)
+−12η2β3exp(−ηh)+2hηβ5exp(−ηh)
++4η5exp(−βh),
+g(ηi,βi,h)=12η5βexp(−βh)+9η4β2(A15)
++12ηβ5exp(−ηh)+9η2β4
++12η3β3exp(−(η+β)h)
+−η2β4exp(−2ηh)
+−12η3β3exp(−βh)−9η5β−9ηβ5
+−3ηβ5exp(−2ηh)−η4β2exp(−2βh)
+−12η3β3exp(−ηh)
++6η5β2h−10β4η3h+6β5η2h−10β3η4h+4β6ηh−8β2η4exp(−βh)
++4βη6h+12β3η3
+−8β4η2exp(−ηh)−6η6−6β6
+−2η6exp(−2βh)−2β6exp(−2ηh)
++8η6exp(−βh)
++8β6exp(−ηh)−3βη5exp(−2βh).
+For each storm, the number of cells νthat overlap a point
+inR2is a Poisson random variable with a mean (Cowpertwait
+et al., 2002, their Eq. 3):
+νC=νφ2
+c/(2π), (A16)
+whereνCdenotes the 2D Poisson process (cells per km2).
+The probability that a cell overlaps a point xgiven that it
+overlapped a point ya distancedfromx(Cowpertwait et al.,
+2002, their Eq. 9) is
+P(φ,d)≈1
+304∑
+i=1{
+2f(2πi
+20)
++4f(2πi+π
+20)}
+−1
+30f(0),
+(A17)
+where
+f(y)=(φd
+2cosy+1)
+exp(−φd
+2cosy)
+,0≤y<π/ 2,f(π/ 2).(A18)
+Cross-correlation (Cowpertwait et al., 2002, their Eq. 6) is
+γ(x,y,l,h)=n∑
+i=1Cov{Yh
+ij(x),Yh
+i,j+l(y)}
+=n∑
+i=1[γi(x,x,l,h)−2λi
+×{1−P(φi,d)}νCiE(X2)Ai(h,l)/η3
+i].(A19)
+Code and data availability. The NEOPRENE Python library
+code is available on GitHub (https://github.com/IHCantabria/
+NEOPRENE, last access: 29 August 2023) and Zenodo
+(https://doi.org/10.5281/zenodo.6349377, Diez-Sierra et al.,
+2021b) under the GNU General Public License version 3.0. Data
+used in this work are also available from the same sources.
+Author contributions. JDS contributed to the conceptualization, in-
+vestigation, formal analysis, software development, validation and
+writing. SN contributed to the software development and valida-
+tion. MdJ contributed to the conceptualization, software develop-
+ment, writing, supervision and funding acquisition.
+Competing interests. The contact author has declared that none of
+the authors has any competing interests.
+Geosci. Model Dev., 16, 5035–5048, 2023 https://doi.org/10.5194/gmd-16-5035-2023J. Diez-Sierra et al.: NEOPRENE: a rainfall generation library 5047
+Disclaimer. Publisher’s note: Copernicus Publications remains
+neutral with regard to jurisdictional claims in published maps and
+institutional afﬁliations.
+Acknowledgements. Salvador Navas acknowledges the ﬁ-
+nancial support from the Government of Cantabria through
+the Fénix Programme. Manuel del Jesus acknowledges the
+funding provided by grant RTI2018-096449-B-I00 funded by
+MCIN/AEI/10.13039/501100011033 and by the ERDF, “A way of
+making Europe”.
+Financial support. This research has been partially supported
+by the Government of Cantabria (Fénix Programme), by
+MCIN/AEI10.13039/501100011033 and by the ERDF: “A way of
+making Europe” (grant no. RTI2018-096449-B-I00).
+Review statement. This paper was edited by Taesam Lee and re-
+viewed by Dongkyun Kim and one anonymous referee.
+References
+Alodah, A. and Seidou, O.: The Adequacy of Stochastically Gener-
+ated Climate Time Series for Water Resources Systems Risk and
+Performance Assessment, Stoch. Env. Res. Risk A., 33, 253–269,
+https://doi.org/10.1007/s00477-018-1613-2, 2019.
+Burton, A., Kilsby, C. G., Fowler, H. J., Cowpertwait, P. S. P., and
+O’Connell, P. E.: RainSim: A Spatial–Temporal Stochastic Rain-
+fall Modelling System, Environ. Modell. Softw., 23, 1356–1369,
+https://doi.org/10/b8532z, 2008.
+Burton, A., Fowler, H. J., Blenkinsop, S., and Kilsby, C. G.: Down-
+scaling Transient Climate Change Using a Neyman–Scott Rect-
+angular Pulses Stochastic Rainfall Model, J. Hydrol., 381, 18–32,
+https://doi.org/10.1016/j.jhydrol.2009.10.031, 2010.
+Cowpertwait, P., Ocio, D., Collazos, G., de Cos, O., and Stocker,
+C.: Regionalised spatiotemporal rainfall and temperature mod-
+els for ﬂood studies in the Basque Country, Spain, Hydrol.
+Earth Syst. Sci., 17, 479–494, https://doi.org/10.5194/hess-17-
+479-2013, 2013.
+Cowpertwait, P. S. P.: Further Developments of the Neyman-
+scott Clustered Point Process for Modeling Rainfall, Water Re-
+sour. Res., 27, 1431–1438, https://doi.org/10.1029/91WR00479,
+1991.
+Cowpertwait, P. S. P.: A Generalized Spatial-Temporal
+Model of Rainfall Based on a Clustered Point Pro-
+cess, P. Roy. Soc. A-Math. Phy., 450, 163–175,
+https://doi.org/10.1098/rspa.1995.0077, 1995.
+Cowpertwait, P. S. P.: A Poisson-cluster Model of Rainfall: High-
+Order Moments and Extreme Values, P. Roy. Soc. A-Math. Phy.,
+454, 885–898, https://doi.org/10.1098/rspa.1998.0191, 1998.
+Cowpertwait, P. S. P.: A Spatial–Temporal Point Process Model of
+Rainfall for the Thames Catchment, UK, J. Hydrol., 330, 586–
+595, https://doi.org/10.1016/j.jhydrol.2006.04.043, 2006.
+Cowpertwait, P. S. P. and O’Connell, P. E.: A Regionalised Neyman-
+Scott Model of Rainfall with Convective and Stratiform Cells,Hydrol. Earth Syst. Sci., 1, 71–80, https://doi.org/10.5194/hess-
+1-71-1997, 1997.
+Cowpertwait, P. S. P., O’Connell, P. E., and Metcalfe, A. V .:
+Stochastic Point Process Modelling of Rainfall. II. Re-
+gionalisation and Disaggregation, J. Hydrol., 175, 47–65,
+https://doi.org/10.1016/S0022-1694(96)80005-9, 1996a.
+Cowpertwait, P. S. P., O’Connell, P. E., Metcalfe, A. V ., and
+Mawdsley, J. A.: Stochastic Point Process Modelling of Rain-
+fall. I. Single-site Fitting and Validation, J. Hydrol., 175, 17–46,
+https://doi.org/10.1016/S0022-1694(96)80004-7, 1996b.
+Cowpertwait, P. S. P., Kilsby, C. G., and O’Connell, P. E.:
+A Space-Time Neyman-Scott Model of Rainfall: Empirical
+Analysis of Extremes, Water Resour. Res., 38, 6-1–6-14,
+https://doi.org/10.1029/2001WR000709, 2002.
+Cox, D. R. and Isham, V .: A Simple Spatial-Temporal Model
+of Rainfall, P. Roy. Soc. A-Math. Phy., 415, 317–328,
+https://doi.org/10.1098/rspa.1988.0016, 1988.
+del Jesus, M., Rinaldo, A., and Rodríguez-Iturbe, I.: Point Rain-
+fall Statistics for Ecohydrological Analyses Derived from Satel-
+lite Integrated Rainfall Measurements, Water Resour. Res., 51,
+2974–2985, https://doi.org/10/f7c6k2, 2015.
+Diez-Sierra, J. and del Jesus, M.: Subdaily Rainfall Estimation
+through Daily Rainfall Downscaling Using Random Forests in
+Spain, Water, 11, 125, https://doi.org/10/gg9m6r, 2019.
+Diez-Sierra, J., Navas, S., and del Jesus, M.: NEOPRENE:
+Neyman-Scott Process Rainfall Emulator, https://github.com/
+IHCantabria/NEOPRENE (last access: 29 August 2023), 2021a.
+Diez-Sierra, J., Navas, S., and del Jesus, M.: NEOPRENE: Neyman-
+Scott Process Rainfall Emulator, Zenodo [code and data set],
+https://doi.org/10.5281/zenodo.6349377, 2021b.
+Duan, Q., Sorooshian, S., and Gupta, V .: Effective and Efﬁcient
+Global Optimization for Conceptual Rainfall-Runoff Models,
+Water Resour. Res., 28, 1015–1031, https://doi.org/10/cd4wdd,
+1992.
+Fowler, H. J., Kilsby, C. G., and O’Connell, P. E.: A stochastic rain-
+fall model for the assessment of regional water resource systems
+under changed climatic condition, Hydrol. Earth Syst. Sci., 4,
+263–281, https://doi.org/10.5194/hess-4-263-2000, 2000.
+Fowler, H. J., Kilsby, C. G., O’Connell, P. E., and Bur-
+ton, A.: A Weather-Type Conditioned Multi-Site Stochas-
+tic Rainfall Model for the Generation of Scenarios of
+Climatic Variability and Change, J. Hydrol., 308, 50–66,
+https://doi.org/10.1016/j.jhydrol.2004.10.021, 2005.
+Isham, V ., Cox, D. R., Rodríguez-Iturbe, I., Porporato, A., and
+Manfreda, S.: Representation of Space–Time Variability of
+Soil Moisture, P. Roy. Soc. A-Math. Phy., 461, 4035–4055,
+https://doi.org/10.1098/rspa.2005.1568, 2005.
+Islam, S., Entekhabi, D., Bras, R. L., and Rodriguez-Iturbe, I.: Pa-
+rameter Estimation and Sensitivity Analysis for the Modiﬁed
+Bartlett-Lewis Rectangular Pulses Model of Rainfall, J. Geo-
+phys. Res.-Atmos., 95, 2093–2100, https://doi.org/10/fp228n,
+1990.
+Kaczmarska, J., Isham, V ., and Onof, C.: Point Process Models
+for Fine-Resolution Rainfall, Hydrolog. Sci. J., 59, 1972–1991,
+https://doi.org/10.1080/02626667.2014.925558, 2014.
+Kennedy, J.: Particle Swarm Optimization, in: Encyclopedia
+of Machine Learning, Springer US, Boston, MA, 760–766,
+https://doi.org/10.1007/978-0-387-30164-8_630, 2011.
+https://doi.org/10.5194/gmd-16-5035-2023 Geosci. Model Dev., 16, 5035–5048, 20235048 J. Diez-Sierra et al.: NEOPRENE: a rainfall generation library
+Kiem, A. S., Kuczera, G., Kozarovski, P., Zhang, L., and Willgoose,
+G.: Stochastic Generation of Future Hydroclimate Using Tem-
+perature as a Climate Change Covariate, Water Resour. Res.,
+57, 2020WR027331, https://doi.org/10.1029/2020WR027331,
+2021.
+Kim, D. and Onof, C.: A Stochastic Rainfall Model That Can
+Reproduce Important Rainfall Properties across the Timescales
+from Several Minutes to a Decade, J. Hydrol., 589, 125150,
+https://doi.org/10.1016/j.jhydrol.2020.125150, 2020.
+Kim, D., Cho, H., Onof, C., and Choi, M.: Let-It-Rain: A
+Web Application for Stochastic Point Rainfall Generation
+at Ungaged Basins and Its Applicability in Runoff and
+Flood Modeling, Stoch. Env. Res. Risk A., 31, 1023–1043,
+https://doi.org/10.1007/s00477-016-1234-6, 2017.
+Kleiber, W., Katz, R. W., and Rajagopalan, B.: Daily Spa-
+tiotemporal Precipitation Simulation Using Latent and
+Transformed Gaussian Processes, Water Resour. Res., 48,
+https://doi.org/10/fgkvjh, 2012.
+Kossieris, P., Koutsoyiannis, D., Onof, C., Tyralis, H., and Efs-
+tratiadis, A.: HyetosR: An R Package for Temporal Stochas-
+tic Simulation of Rainfall at Fine Time Scales, in: Euro-
+pean Geosciences Union General Assembly, 22–27 April 2012,
+Vienna, Austria, p. 11788, https://ui.adsabs.harvard.edu/abs/
+2012EGUGA..1411788K (last access: 29 August 2023), 2012.
+Legasa, M. N. and Gutiérrez, J. M.: Multisite Weather Generators
+Using Bayesian Networks: An Illustrative Case Study for Pre-
+cipitation Occurrence, Water Resour. Res., 56, e2019WR026416,
+https://doi.org/10/gm5zzq, 2020.
+Leonard, M., Lambert, M. F., Metcalfe, A. V ., and Cowpertwait, P.
+S. P.: A Space-Time Neyman–Scott Rainfall Model with Deﬁned
+Storm Extent, Water Resour. Res., 44, https://doi.org/10/d7ms5k,
+2008.
+Onof, C. and Wang, L.-P.: Modelling rainfall with a Bartlett–Lewis
+process: new developments, Hydrol. Earth Syst. Sci., 24, 2791–
+2815, https://doi.org/10.5194/hess-24-2791-2020, 2020.
+Onof, C. and Wheater, H. S.: Improvements to the Modelling of
+British Rainfall Using a Modiﬁed Random Parameter Bartlett-
+Lewis Rectangular Pulse Model, J. Hydrol., 157, 177–195,
+https://doi.org/10/dpw564, 1994.
+Onof, C., Chandler, R. E., Kakou, A., Northrop, P., Wheater, H. S.,
+and Isham, V .: Rainfall Modelling Using Poisson-cluster Pro-
+cesses: A Review of Developments, Stoch. Env. Res. Risk A.,
+14, 384–411, https://doi.org/10.1007/s004770000043, 2000.Park, J., Onof, C., and Kim, D.: A hybrid stochastic rainfall model
+that reproduces some important rainfall characteristics at hourly
+to yearly timescales, Hydrol. Earth Syst. Sci., 23, 989–1014,
+https://doi.org/10.5194/hess-23-989-2019, 2019.
+Park, J., Cross, D., Onof, C., Chen, Y ., and Kim, D.: A
+Simple Scheme to Adjust Poisson Cluster Rectangu-
+lar Pulse Rainfall Models for Improved Performance
+at Sub-Hourly Timescales, J. Hydrol., 598, 126296,
+https://doi.org/10.1016/j.jhydrol.2021.126296, 2021.
+Puente, C. E., Bierkens, M. F. P., Diaz-Granados, M. A., Dik, P. E.,
+and López, M. M.: Practical Use of Analytically Derived Runoff
+Models Based on Rainfall Point Processes, Water Resour. Res.,
+29, 3551–3560, https://doi.org/10/b5gqdf, 1993.
+Rodriguez-Iturbe, I. and Eagleson, P. S.: Mathematical Models of
+Rainstorm Events in Space and Time, Water Resour. Res., 23,
+181–190, https://doi.org/10/c9w426, 1987.
+Thomas, M. A., Mirus, B. B., and Collins, B. D.: Iden-
+tifying Physics-Based Thresholds for Rainfall-Induced
+Landsliding, Geophys. Res. Lett., 45, 9651–9661,
+https://doi.org/10.1029/2018GL079662, 2018.
+Vanmarcke, E.: Random Fields: Analysis and Synthesis, World Sci-
+entiﬁc, 350 pp., ISBN 9812562974, 9789812562975, 2010.
+Verhoest, N. E. C., Vandenberghe, S., Cabus, P., Onof, C., Meca-
+Figueras, T., and Jameleddine, S.: Are Stochastic Point Rainfall
+Models Able to Preserve Extreme Flood Statistics?, Hydrol. Pro-
+cess., 24, 3439–3445, https://doi.org/10/db28s2, 2010.
+Welten, S., Holt, A., Hofmann, J., Schelter, L., Klopries, E.-M.,
+Wintgens, T., and Decker, S.: Synthetic Rainfall Data Generator
+Development through Decentralised Model Training, J. Hydrol.,
+612, 128210, https://doi.org/10.1016/j.jhydrol.2022.128210,
+2022.
+Wilks, D. S.: Multisite Generalization of a Daily Stochastic
+Precipitation Generation Model, J. Hydrol., 210, 178–191,
+https://doi.org/10.1016/S0022-1694(98)00186-3, 1998.
+Wilks, D. S. and Wilby, R. L.: The Weather Generation Game: A
+Review of Stochastic Weather Models, Prog. Phys. Geog., 23,
+329–357, https://doi.org/10.1177/030913339902300302, 1999.
+Geosci. Model Dev., 16, 5035–5048, 2023 https://doi.org/10.5194/gmd-16-5035-2023

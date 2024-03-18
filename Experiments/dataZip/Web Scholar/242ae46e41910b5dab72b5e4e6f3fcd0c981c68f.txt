@@ -1,0 +1,1210 @@
+TYPEOriginal Research
+PUBLISHED /two.tnum/two.tnum May /two.tnum/zero.tnum/two.tnum/three.tnum
+DOI/one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fcomp./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum
+OPENACCESS
+EDITEDBY
+Carmen Llorente Cejudo,
+University of Seville, Spain
+REVIEWEDBY
+Daisuke Saito,
+Waseda University, Japan
+Radoslava Stankova Kraleva,
+South-West University “Neoﬁt Rilski”, Bulgaria
+*CORRESPONDENCE
+Hector Belmar
+hector.belmar@hotmail.com
+RECEIVED /three.tnum/one.tnum October /two.tnum/zero.tnum/two.tnum/two.tnum
+ACCEPTED /zero.tnum/two.tnum May /two.tnum/zero.tnum/two.tnum/three.tnum
+PUBLISHED /two.tnum/two.tnum May /two.tnum/zero.tnum/two.tnum/three.tnum
+CITATION
+Belmar H (/two.tnum/zero.tnum/two.tnum/three.tnum) Teaching computer
+programming: impact of Brown and Wilson’s
+didactical principles.
+Front. Comput. Sci. /five.tnum:/one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum.
+doi: /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fcomp./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum
+COPYRIGHT
+©/two.tnum/zero.tnum/two.tnum/three.tnum Belmar. This is an open-access article
+distributed under the terms of the Creative
+Commons AttributionLicense (CC BY) . Theuse,
+distribution or reproduction in other forums is
+permitted, provided the original author(s) and
+the copyright owner(s) are credited and that
+the original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with these
+terms.Teaching computer
+programming: impact of Brown
+and Wilson’s didactical principles
+Hector Belmar/one.tnum,/two.tnum*
+/one.tnumSchool of Computer Engineering, Ñuñoa Campus, INACAP (National Pro fessional Training Institute),
+Santiago, Chile,/two.tnumUMCE (Metropolitan University of Education Sciences), Santiago, C hile
+This research studies the eﬀects of the application of didactics t o the teaching of
+computerprogramming,focusingonprogrammingskillsintheP ythoncomputer
+language. The problem arises from the failure and dropout rat es of students
+in computer programming in computer science careers in INACAP and the
+consequent interest in promoting better learning. The gener al objective is to
+study the eﬀects of an innovative methodology, based on Brown and Wilson’s
+didactic principles, on the teaching process of Python programm ing in computer
+science students at INACAP. The theoretical framework is based on t he didactics
+of teaching computer programming and the concepts of computation al thinking
+skillsofvarioustheoreticalreferences,andinparticularont hedidacticprinciplesof
+BrownandWilson.Thisresearchiscarriedoutwithaquantitative methodologyof
+explanatoryscopeandwithaquasi-experimentaldesign,withap urposivesample,
+for the experimental stage the sample will consist of /one.tnum/zero.tnum/zero.tnum ﬁrst y ear undergraduate
+students of Computer Science, of which /five.tnum/zero.tnum will be the experimental gr oup and
+/five.tnum/zero.tnum will be the control group. The hypothesis proposed is that “T he students in
+the experimental group obtain a higher performance when applyin g Brown and
+Wilson’sdidacticprinciplesthanthestudentsinthecontrolg roupwhoaretaught
+in a traditional way.” The data collection technique used will be a /four.tnum/five.tnum-question
+multiple-choice test. The data analysis will be performed by app lying statistical
+criteria, comparison of means and variances, among others.
+KEYWORDS
+computerprogramming,algorithm,didactics,evaluationinst rument,didacticalprinciples
+/one.tnum. Introduction
+Since its beginnings in the 20th century with the theoretical conceptualization by Alan
+Turing of a machine capable of making calculations and with memory to store data,
+computinghasledusinaspiraloftechnologicaladvances,whichhasevolvedexponentially.
+TheEnglishmanAlanTuringwasthefounderofComputerScience,hewasamathematician,
+philosopherandcryptographer,avisionaryofhistime.Turinglivedfrom(1912to1954).It
+shouldbenotedthat,withoutthatinitialideaandtheconstructionoftheﬁrstcomputersas
+electromechanicalmachines,computingwouldnotbewhatweknowtoday( Kulkarni,2015 ).
+Inthiscontext,computersciencehasevolvedduringthesecondhalfofthe20thcentury,
+starting with computer programming in assembler through procedural languages to focus
+atthebeginningofthe21stcenturyonObjectOrientedprogrammingandcodegenerators.
+Currently there are several initiatives in the world to incorporate programming in schools,
+oneofthemistheBebraschallenge,whichisaimedatmotivating,practicingandevaluating
+the skill levels of students at an extracurricular level. Along with the Bebras challenge is
+the initiative called https://code.org/ , which provides free material to anyone who requests
+Frontiersin ComputerScience /zero.tnum/one.tnum frontiersin.orgBelmar /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fcomp./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum
+it, in order to facilitate access to computer programming teaching
+material. There is also the NGO https://www.ideodigital.cl/ , which
+provides free curriculum materials for schools, including teaching
+materialsandassociatedassessmenttools.Butlet’sseewhateachof
+theseinitiativesis.
+The Bebras Challenge ( https://www.bebras.org/ ) is a
+community computer education network that was born in
+Lithuania in 2005 and has been consolidated in more than
+40 countries to discuss computer science concepts for school
+computer education. The Bebras algorithm development
+workshops, which have been organized annually since their
+inception, bring together representatives from all these countries
+for rigorous work and decision making on good tasks to promote
+computer education in schools. On the one hand, the Bebras
+challenge is an international assembly driven to respond to
+the needs of computer education worldwide, and on the other
+hand, almost all activities are nationally based, organized by
+communities in the participating countries. Bebras is an attractive
+way to promote computer science learning worldwide. It has a
+community-based, distributed organization, which makes it a
+democraticorganization,aseverythingcomesfromthebottomup.
+Theworkshopsworkasextracurricularactivitiessoparticipantsdo
+it voluntarily and based on their motivation to learn ( Dagiene and
+Stupuriene,2016 ;Araujoetal.,2019 ).
+Regarding the NGO Code.org is a non-proﬁt organization
+dedicated to expanding access to computer programming in
+schools and increasing the participation of all who need and want
+to learn to program computers. Code.org’s vision ( www.code.org )
+isthateverystudentineveryschoolcanlearntoprogramandthat
+this learning is free for those still in school. Code.org, the leading
+distributorofschoolcomputingcurriculumtoschoolcommunities
+in the United States, also established the annual “Hour of Code”
+crusade, which has reached more than 15% of all school children
+worldwide( KaleandYuan,2021 ).
+Ideodigital is a national initiative originated thanks to a
+strategic alliance between the Kodea Foundation ( www.kodea.org )
+and the BHP Foundation ( www.bhp.com ), which seeks to create
+thenecessaryconditionsforthousandsofchildrenandadolescents
+to become protagonists of the digital society of the 21st century,
+incorporating computer science in the Chilean public school
+system. The purpose is to create awareness in the actors of the
+educational community about the beneﬁts and feasibility of the
+application of computer science in the public school system. It
+also promotes the implementation of computer science in the
+classroom, for which it develops curricular courses from the
+ﬁrst year of primary education to the fourth year of secondary
+education, which are available as a public good for the entire
+school system, articulating an ecosystem to train and accompany
+teachers and develop a network of leading schools in the
+teaching of computer science, which by July 2022 there were
+more than 80 schools that have already joined the ideodigital
+system(www.ideodigital.cl ).
+At present, there are several problems for the implementation
+of the teaching of computer programming in schools, which begin
+in the political discussion of the countries and the suﬃcient
+budgetallocationtoequiptheeducationalsystemwithanadequate
+number of computers in laboratories suitable for teaching. Afterovercoming the issue of computer infrastructure, an additional
+problem arises, which is the availability of a suﬃcient number of
+teachers properly trained to teach programming. In this sense, the
+political discussion will begin when a diagnosis is made about the
+implicationsoftheadvanceoftechnologyandhowitcoulddisplace
+asigniﬁcantpercentageofworkers(duetotheautomationofwork)
+and with it an increase in unemployment that will imply socio-
+politicalinstability,whichwillshaketheeconomyandgovernments
+that are not properly prepared for these changes. Once the ﬁrst
+barrier is overcome, the implementation will come, which would
+imply an operational diagnosis, how many trained teachers exist,
+how they are distributed in the country, also regarding digital
+infrastructure,laboratories,software,etc.( Belmar,2022 ).
+/one.tnum./one.tnum. Context of programming teaching
+Already at the beginning of the 21st century, computing
+is ubiquitous, ﬁlling every space, ranging from a system that
+allows programming a microwave oven to a complex Artiﬁcial
+Intelligencesystemthatiscapableofdrivingmotorvehicleswithout
+endangering the safety of people, animals and property. In this
+context, in developed countries it has been deﬁned that the XXI
+century is where work, economy and social relations are and will
+be guided by a new type of skills of people, which has been called
+computationalthinking,whichisconstitutedbythecognitiveskills
+of; abstraction, decomposition, algorithmic thinking, debugging
+and problem solving. In addition, it has been proposed by several
+researchers that these skills are transferable to other areas of
+knowledge, such as natural sciences, mathematics and history
+(Wing,2006 ).
+It should be noted that the present research is oriented
+to implement a didactic strategy in the teaching process of
+computerprogramming,sinceuntilnowtheapplicationofdidactic
+strategies in the teaching of programming is unknown, which
+occurs for several reasons; on the one hand, the area of teaching
+programming (in schools) is incipient, so didactic theories for
+teaching programming have not been developed, or because the
+teacherswhoteachprogrammingdonothavepedagogicaltraining,
+whichinsomecasesareprofessionaldisciplinessuchasComputer
+EngineersorElectronicEngineersorotherequivalentprofessionals
+with training in some computer programming language, so it has
+been naturalized that each teacher teaches the way he or she has
+learned in his or her own professional training. The following
+are some references on the teaching of programming in computer
+sciencecoursesintheﬁrstyearofstudyinhighereducation.
+/one.tnum./two.tnum. A case from the University of TI West,
+Denmark
+Bennedsen and Caspersen (2007) conducted a survey in 63
+universities in various countries to estimate the failure rate of the
+subject“introductiontoprogramming.”Inthisregard,theresearch
+states that a common conception of students is that computer
+programming is a diﬃcult course and that failure rates are high.
+Frontiersin ComputerScience /zero.tnum/two.tnum frontiersin.orgBelmar /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fcomp./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum
+The average failure rate for diﬀerent types of initial programming
+courses was around 30%. Therefore, it is suggested that ACM
+Education (Association Computing Machinery Education) and
+other participants in the study done by TI West University, may
+conduct further studies with a larger sample in order to postulate
+morerepresentativeresults( BennedsenandCaspersen,2007 ).
+/one.tnum./three.tnum. A view from Durham University in the
+UK
+Watson and Li (2014) researchers at Durham University
+in the United Kingdom, calculated a high failure rate in the
+achievement level of students in the subject of introduction to
+computer programming. The study describes the results of 161
+introductorycomputerprogrammingcoursesthatwereconducted
+in 15 diﬀerent countries, in which the average pass rate was found
+to be 67.7%, therefore, the average failure rate is 32.3%. However,
+despite several studies conducted on the topic of achievement
+level in novice ﬁrst-year computer programming students, which
+cite a motivation for research on pass/fail rate, in introductory
+programming courses, most of the available evidence is still not
+suﬃciently representative. In addition, it was found that the pass
+rate has been maintained over time, and that it does not depend
+ontheprogramminglanguagetaught,norontheprofessor,noron
+theUniversityInstitutionthatteachesitandthattheperceptionof
+students isthat learning toprogramisa diﬃculttask ( Watsonand
+Li,2014).
+The objective of this study is to study the eﬀects of Brown
+and Wilson’s didactic principles on the teaching process of Python
+programmingincomputersciencestudentsatINACAP.Toachieve
+this objective, it was necessary to work hand in hand with the
+institution in order to involve the computer science area to
+carry out the experimentation, which was carried out during two
+semesters,ﬁrstthevalidationofthetestpublishedin Belmar(2023),
+and then with that validated test, work with the teachers of the
+controlandexperimentalgroup,sothattheywouldtakepartinthe
+research,takingthestudentsthepreandpost-test,necessaryforthe
+datacollectionandstatisticalanalysisdescribedinthisreport.
+/two.tnum. Theoretical framework
+/two.tnum./one.tnum. Generalities
+While it is true that this research aims to study the eﬀects
+of a didactic strategy for teaching computer programming, it is
+also true that the concept of “Computational Thinking” has taken
+some prominence whenever the topic of computer programming
+is addressed. What is happening is that the teaching of computer
+programming is being added for all students in school, with the
+idea of generating broad skills, which go beyond being educated
+in programming. Thus, learning computer programming is used
+as a scaﬀold for the development of computational thinking skills,
+which are transferable to other areas of knowledge, since they
+also radiate to the whole area of science and technology (STEM),
+includingart(STEAM)( RojasandGarcia,2020 ).According to Wing(2006), Computer Science is the study of
+computation, what is computable and what is not, and what is
+computable, how to do it? But to appropriate the concept, we will
+see other researches that consider studies based on computational
+sciences,whichbroadentheirmeaningsbasedontheirapplication.
+Someapplicationsofcomputingcanbenamed,suchas;Internetof
+Things, social networks, big data, Artiﬁcial Intelligence, Robotics,
+VideoGames,Communications,smartphones,augmentedreality,
+virtualreality,amongothers.Thetruthisthatcomputingispresent
+ineverything( Psycharisetal.,2020 ).
+ForGarcía(2018), the digitization of information is the
+beginning in the digital ediﬁcation that will energize the world
+of the 21st century. Given this, from which we cannot dissociate,
+schools must carry out activities with students to act in a virtual
+world, for which they must learn the language of this century,
+without which they will be catechized into digital illiterates.
+Therefore, schools must teach students the skills of computational
+thinking.Inthissense,ICTtrainingisabsolutelyinsuﬃcient,since
+what this century requires is to get the skills in computation, to
+adapt to a new way of solving problems and thinking. Therefore,
+the present challenge is to train young people to succeed in a
+digitalizedworld.Thatis,theymustbetrainedinthenewparadigm
+ofcomputationalthinkingskills( García,2018 ).
+Complementingtheabove,fromLithuaniain2018,researchers
+Juškeviˇciene and Dagiene from Vilnius University, published the
+article “relationship between computational thinking and digital
+competence,” which investigates both concepts, starting with
+computationalthinking.Itshouldbenoted,theresearchersreport,
+thattheEuropeanCommission’sscientiﬁccenterhasbeenguiding
+member countries in the sense that computational thinking is
+the most important skill of the 21st century. But, despite the
+interest in implementing computational thinking in schools and
+public and private investment, there are a number of challenges
+to the integration of computational thinking into school curricula
+(JuškeviˇcieneandDagiene,2018 ).
+It should be noted that the teaching of programming should
+considerstudents’abilitytodevelopalgorithmsthatsolveconcrete
+problems. Regarding algorithms, these are ﬁnite sequences of
+instructions written in some language according to its syntax,
+whoseinstructionsinvolve:simplestep-by-stepsequences,aswhen
+guiding a student on the steps to follow to solve a second-degree
+equation; sequences that consider cycles, as when elaborating an
+algorithm that allows calculating powers by multiplying the base
+n-times by itself; conditional sequences as when implementing a
+Taylor series of a trigonometric function such as sine or cosine.
+Thus when assessing students learning to program, it is key to
+consider branching instructions (if statement condition then ...
+else), deﬁned cycles (for {sentence 1... sentence k}), and conditional
+cycles (while condition {sentence 1... sentence k}), being control
+structures a prominent part of the learning that students must
+acquire(Mühlingetal.,2015 ).
+Of the articles read, the contribution of Belmar(2022)
+is important in his publication “Review on the teaching
+of programming and computational thinking in the world,”
+research in which he integrates modeling and simulation as
+basic skills of computational thinking, so that it incorporates
+designing problems, categorizing and studying data logically,
+Frontiersin ComputerScience /zero.tnum/three.tnum frontiersin.orgBelmar /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fcomp./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum
+symbolizing data through models and mechanizing procedures.
+In this way, taking a look at teaching in schools, these skills
+enhance qualities such as: freedom to deal with complexity,
+perseverance in working with complex projects, tolerance of
+the fuzzy, and readiness for teamwork to achieve a common
+goal and report on it. Which is complemented by Grgurina
+(2021) who relates computational thinking in its main concepts,
+such as: “data collection, data analysis, data representation,
+problem decomposition, abstraction, algorithms and procedures,
+automation,modelingandsimulation.”
+When confronting the achievements of countries in the
+teaching of computational thinking in schools, it is convenient
+to look at the development of nations in public policies that
+incorporate the subject in the mandatory curriculum, such as the
+case of England in 2013 and European countries since 2016, or
+otherAsian statessuchas Japan,SouthKorea and China, inwhich
+computational thinking is understood as the skills of the XXI
+century and that will move investments in technology. However,
+in underdeveloped countries, whether in Latin America or Africa,
+the states have other priorities, so the issue is not the subject of
+political discussion, in this sense the teaching of programming
+remains in the hands of the initiative of individuals and lacks
+institutionalizationandinvolvementinpublicpoliciesthatcement
+thecreationofthenecessaryconditionsforstudentstoincorporate
+the skills of computational thinking in their knowledge ( Belmar,
+2022).
+/two.tnum./two.tnum. Didactics in programming education
+/two.tnum./two.tnum./one.tnum. Gamiﬁcation: teaching through the use of
+games
+The didactics based on the use of games helps in the students’
+willingness to learn, which in the ﬁeld of computational thinking
+covers a larger area, ranging from the conception of the design
+idea, the construction and use of games. Gamiﬁcation is also
+transversal to many areas of knowledge. Thus there are practices
+of the use of digital games in storytelling, in the practice in
+mathematics, in history, etc. Thus, de Paula et al. (2018)) in his
+work “Playing Beowulf: linking computational thinking, arts and
+literaturethroughthecreationofgames,”readingwiththatopensa
+gameprogrammedbytwo14-year-oldstudents,“PlayingBeowulf,”
+which in collaboration with students from the British Library, a
+programinwhich13–14yearoldsfromaLondonschoollearn,has
+managed to expand the scope of programming beyond the STEM
+area. The games are based on their unique understandings of the
+Anglo-SaxonpoemBeowulf( dePaulaetal.,2018 ).
+In the USA, researchers from Carnegie Mellon University
+and Notre Dame, published in 2017 the article entitled “A
+computer game that promotes mathematics learning more than
+a conventional approach,” which unveils a practical work that
+generates evidence that a mathematical educational game can
+help with learning alternatives, which manages to make learning
+mathematics more entertaining. The program “Decimal Point”
+is a single-player game that recreates the amusement park and
+is oriented to young teenagers. The program called “Decimal
+Point: the fantastic and fabulous world of fractional fun.” The
+program is set up so that youngsters can jump in sequence todiﬀerent themes (Haunted House, Wild West, Space Adventure,
+Amusement Park), playing a variety of small games in each
+theme area predestined to learn decimals. The youngster’s
+progress is made through a sequence of steps in the park and
+players are graphically shown the next game ( McLaren et al.,
+2017).
+Similarly, a paper whose objective was to incorporate the
+computational thinking board game with robots so that students
+practice computational thinking skills as they complete the board
+game activities by controlling the action of the robots. The game
+teams are joined by two students in one team helping each other,
+those who played with the other team composed of two students.
+The work used Robots City board games to allow young people to
+learn the concept of computational thinking through game-based
+learning and use cell phone programs to command the actions of
+therobots( ZhouandHsu,2020 ).
+/two.tnum./two.tnum./two.tnum. Educational robotics
+In teaching, the multimedia environment helps to lower
+learners’anxietyandprovidesastress-freeclassroomenvironment.
+Also, multimedia materials collaborate with English instructors to
+promote students to perfect their English learning and decrease
+their language stress ( Huang and Hwang, 2013 inKong et al.,
+2020). As soon as students feel conﬁdent in the foreign language
+classroom, they lose inhibition and start speaking in the second
+language, the target language. The experiments reveal that, in the
+learning process, with the incorporation of robots, students speak
+English as a matter of course to command the robot. In addition,
+theresearchanalyzedthebehavioramongthestudentsandrevealed
+thatwhenthestudentispracticingoralEnglish,therewillalwaysbe
+otherstudentstohelphim/herinhis/herlanguagepractice,soifthe
+student makes a mistake, there will always be someone to correct
+andguidehim/her( Kongetal.,2020 ).
+In another work at the Norwegian University of Science and
+Technology, children’s teamwork and their creative disposition in
+programming games and educational robotics was investigated.
+The objective of the work was to investigate the teamwork driving
+qualities of children in programming activities. For this purpose,
+an experiment was designed with 44 students between 8 and
+17 years old, who were programming for a whole day. Their
+programmingworkwasguidedanddatawasrecordedsuchas;their
+look and attitudes in relation to their achievements, well-being,
+collaborative work, with post-activity tests. In the analysis of the
+dataitwasrevealedthatthebehaviorhelpstherelationshipbetween
+willingness to learn, openness to teamwork, compliance - joy and
+learningachieved( Sharmaetal.,2019 ).
+In Taiwan researchers Jen and Hsu (2020), from National
+Taiwan University, in an investigation entitled “The impact of
+usingmobileblock-basedprogrammingtocontrolrobotswithﬁfth
+gradestudentslearningcomputationalthinkinginSingapore.”The
+robotswereconﬁguredinChineselanguagetoactwithblock-based
+programming.Theexperimentrevealedthatthestudentsachieved
+signiﬁcant improvement in both computational thinking learning
+and also inhandling conditional sentencesthroughtheknowledge
+trainingtasksbasedonrobotgames( JenandHsu,2020 ).
+Finally, the authors Lee and Low (2020), implemented a
+computational thinking curriculum with robot programming
+Frontiersin ComputerScience /zero.tnum/four.tnum frontiersin.orgBelmar /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fcomp./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum
+tasks. Also, Cheng et al. (2018) worked on an investigation
+regarding the fundamental applications of the educational robot,
+through a requirements analysis, seen from the eyes of experts
+and researchers. On SRA (Sence, Reasoning, Action) coding the
+authorsFanchamps et al. (2020,2021), worked regarding the
+implicationofSRAcodingonalgorithmicthinking.Inaddition,the
+implications of using cell phone applications to command robots
+with elementary school students in school was investigated ( Yi
+and Ting, 2020 inKong et al., 2020 ). Finally, researchers Souza
+et al.(2019), studied the implication of computational thinking in
+mathematicsthroughrobotics.
+/two.tnum./two.tnum./three.tnum. Metaphors and blocks for teaching
+programming
+Pérez et al. (2018), propose using metaphors, such as;
+pantry/memoryandboxes/variables.Thus,itshowsthealternative
+of employing such metaphors to diverse resources that the teacher
+has access to. Four step-by-step guidelines are provided on the
+recommended way to use metaphors in class. In this sense,
+an opinion study was carried out among students, for which
+the opinions of 62 students from 9 to 11 years old and their
+teacher were collected. The study revealed that 65% of the
+respondents found metaphors useful. The children were proﬁcient
+in understanding metaphors, and <10% of the children preferred
+direct language without using metaphors. In a conversation with
+him as a teacher, he reported, “I think it is correct, because the
+students are not only working with instructions in the recipes, but
+theyareabletoseethemselvesonthescreenorontheboard”( Pérez
+etal.,2018 ,2020).
+In another case, the AgentSheets program exchanged four
+alternatives to generate a block programming way. After initially
+locatingonsyntaxalternatives,ithasbeentestedwithperspectives
+to go to the next step, semantics, to resolve meaning and
+practical conﬂicts. Three considerations are reported there: (1)
+Contextualized explanations to aid understanding, (2) Traditional
+programming to proactively encourage possible outcomes, and
+(3) Color palettes to make programming easier. The block
+programming community has been on the lookout for syntactic
+coverageofcoding( Repenning,2017 ).
+/two.tnum./two.tnum./four.tnum. Learning programming like learning a
+second language
+Learning to code computers is undoubtedly a linguistic
+learning, since it is a way of communicating to the computer what
+todoandhowtodoit,andonceithasﬁnishedhowtoelaboratethe
+resultsandwheretosendthem.Thusthelackofgrammaticalrules
+togetstartedincodingleavesstudentswithapedagogicalﬁssureto
+achieve by their own means, although teachers expect to solve the
+exercises using concepts of logic mediated by a language in which
+manycomplicatehimtosaytheelementary.Somuchso,thatsome
+more talented as to get their codings to work correctly stagnate in
+their learning during their ﬁrst year. The exact complications of
+learning a programming language are similar with the complexity
+ofspeakingasecondlanguage( Portnoﬀ,2018 ).
+Portnoﬀ(2018) says that the 10 years he has been a teacher
+in an introductory computer programming course, he has useda diversity of programming languages, such as; Scratch, Alice,
+minecraft and others. However, the promising signiﬁcance of
+software tools, what everyone remembered was the explicit
+language model. In recent years, it has become increasingly clear
+that implicit language strategies are critical. This is not to say
+that the explicit language model is ineﬀective: there are evidently
+talented learners who go on to train as expert programmers
+(Portnoﬀ,2018 ).
+/two.tnum./two.tnum./five.tnum. Other didactic initiatives in computer
+programming
+InGermanyin2018,thebook“ContentandSkillsofComputer
+Science” was published by the University Press of the University
+of Potsdam. In the ﬁrst paper that is part of the publication,
+entitled “What everyone should learn about computer science: an
+analysis of University courses for students of other disciplines,”
+professors Stefan Seegerer and Ralf Romeike from Friedrich-
+Alexander University propose a didactic way to be prepared for
+life in the digital society, this is not only because computer science
+is present in our lives in the productive area and in education,
+but also in all aspects of our daily lives. In their work they
+analyzed 70 modules on computer education for students from
+other disciplines; syllabi and lesson plans, identifying some key
+issuesandtypesoftoolsused( Bergneretal.,2018 ).
+/two.tnum./two.tnum./six.tnum. Pedagogical models and didactics
+For the purposes of this work, didactics is a science, so
+it has an object of study, since its purpose is to transpose
+academic knowledge into suﬃcient actions and nurtured holistic
+components coming from teachers, so that it makes sense to
+learners and allows students to appropriate new knowledge.
+There are didactics generated by areas and sub-areas of subjects;
+for example, there is a didactics of language, a didactics of
+geometry, a didactics of algebra, a didactics of chemistry, a
+didactics of physics, etc., Thus, what best generalizes didactics
+is what Shulman proposes about the didactic knowledge of
+content, as a methodology capable of making the teacher an
+architect of himself in his creations and practices rich in ways of
+teaching that allow students to move toward new knowledge in
+a pleasant, motivated and participatory way. Thus, the teaching
+of computer programming, as an emerging area still navigates
+on some postulates of didactics that have not been experimented
+and proof of this is that those who teach programming, are
+disciplinary professionals without pedagogical studies ( Belmar,
+2022).
+ForOrtiz et al. (2015) and his team, all researchers from the
+UniversityofMagdalenainColombia,publishedaresearchentitled
+“Pedagogical models from a psychological-spiritual dimension,” in
+whichtheyanalyzepedagogicalmodels,makingabriefdescription
+of the behaviorist pedagogical model (Skinner), the constructivist
+pedagogical model (Piaget) and the sociohistorical-cultural theory
+(Vygotsky)asapedagogicalmodel.Inaddition,variousholisticand
+ecological pedagogical proposals derived from new epistemologies
+are analyzed, such as Maturana’s bio-pedagogical model, which
+proposes a biology of love as the ontological and epistemological
+basisofpedagogy.Everyeducationalprocesshasamethod,anaxis,
+Frontiersin ComputerScience /zero.tnum/five.tnum frontiersin.orgBelmar /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fcomp./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum
+whichdirectsandcontributestothedevelopmentoftheexerciseof
+training,whichwecallpedagogicalmodel( Ortizetal.,2015 ).
+Precisely, pedagogy is a science whose boundaries show its
+dynamics between society and human thought. A pedagogical
+model is a theoretical and practical plan of strategies that teachers
+andeducationalinstitutionspossesstodevelopthetrainingprocess
+of their students. The pedagogical model is characterized by the
+articulation of notions such as: curriculum, pedagogy, didactics,
+training, education, teaching, learning and evaluation; but it also
+contributes to the conﬁguration of practice and theory. For the
+conﬁguration and identiﬁcation of a pedagogical model it is
+important, according to Coll(1991inOrtiz et al., 2015 ), to answer
+ﬁve essential questions: why teach, what to teach, how to teach,
+when to teach, and what, how and when to evaluate ( Ortiz et al.,
+2015).
+Forhispart, Zipitría(2018),aresearchscholarattheComputer
+ScienceInstituteoftheUniversityoftheRepublicofMontevideoin
+Uruguay published a research entitled “Piaget and computational
+thinking,” a perspective that points in the same direction of
+the construction of computational thinking skills, both as a
+cognitive skill and the means by which this skill is built, which
+is computational programming. The publication discusses the
+conceptof“computationalthinking.”Computationalthinkingisin
+a higher category than algorithmic thinking, however, the latter is
+the key piece from where computational thinking skills begin to
+be acquired, since the way of thinking when solving algorithmic
+problems and representing their solutions as algorithms, are
+characteristicofComputerScience( Zipitría,2018 ).
+The most relevant aspects of Piaget’s theory is to look at
+and analyze the construction of knowledge as a process and to
+unveil how the transition from a lower level of knowledge to
+a more complex level takes place. In this expanded sense, the
+learningofcomputationalthinkingcanbeexplained.Theresearch
+methodology is supported by Piaget’s application of Piaget to
+have students solve problems by sorting, counting and searching
+elements of data and reﬂecting on the method they employ and
+the reasons for their success (or failure), as a ﬁrst step toward
+the conceptualization of algorithms and data structures. From
+this perspective, the author developed the extension of Piaget’s
+postulates as the need to describe cases where the subject must
+instructanactiontoacomputer( Zipitría,2018 ).
+Researchers from Japan, investigated regarding pedagogical
+transformation based on student-led design and computational
+thinking. In current times that technology is everywhere it is
+appropriate to discuss transformative teaching where technology
+is part of who we are. We do not believe, say the authors, that
+we have any basis for claiming that the uniﬁcation of technology
+happens by itself, for students performing complex robot coding
+activities, it was the redesign of didactics and learning by doing
+that made the real diﬀerence. The authors’ current thesis points
+out that the idea of uniﬁcation of information technologies, is
+slowlydisappearing,andinitsreplacementisgraduallyintegrating
+computational thinking with its associated skills ( Vallance and
+Towndrow,2016 ).
+Grgurina’s (2008) work is oriented toward the teaching of
+ICT(InformationandCommunicationTechnology),anddevelops
+experiences in the teaching of computing at a general level
+without pointing out didactics as the basis of teaching actionto achieve student learning, and does not contain a didactic
+formulation of the teaching of computer programming in initial
+teacher training. It should be noted that Grgurina (2021), 13
+years later, describes computational thinking in terms of its
+main concepts, such as: data collection, data analysis, data
+representation, problem decomposition, abstraction, algorithms
+and procedures, automation, simulation, and parallelization
+(Grgurina,2021 ).
+Also, Chinese researchers inquired about a mixed didactic
+method and fostering innovative aptitude, whose methodology
+of action is based on computational thinking. Computational
+thinking incorporates computational thinking and uniﬁcation
+with the natural environment, which considers progressive
+thinkingincomputingenvironments.Inthefuture,non-computer
+professionals can use computing to create and shape new ideas for
+multiple professions. In addition, they would be able to support
+otherareasofresearchintonewelectronicequipmentandsoftware.
+Computational thinking can signiﬁcantly collaborate diverse non-
+computing professionals to bridge the gap between knowledge
+constructionandtoolcreation( Zhangetal.,2019 ).
+Finally, the teaching of computer programming requires the
+use of computers, however, when there are no resources for it,
+it is possible to work in an unplugged way, which in reality is
+learning through a series of board games that seek to replace the
+use of a computer (plugged) in the teaching of programming.
+Thus, for example, the assignment of a variable is represented by
+the movement of a ﬁgure on a board, the conditional if is also
+represented by some diﬀerent ﬁgure, and so on for the diﬀerent
+operations and control statements of a programming language,
+such as the conditional while loop {condition }, therepeat until
+{condition } or the unconditional for loop. Once novices have
+achieved some learning in a unplagged way (without computer)
+then they are already moderately prepared to start learning
+programmingonthecomputer,i.e.,plugged( Grgurina,2021 ).
+/three.tnum. Materials and methodology
+/three.tnum./one.tnum. Materials
+Thematerialstocarryoutthepresentworkconsiderhavingan
+oﬃceequippedwithadeskwithapersonalcomputerwithInternet
+connection, which is at least equipped with Oﬃce software and
+SPSSsoftware(StatisticalPackagefortheSocialSciences).
+/three.tnum./two.tnum. Methodology
+The methodology of the study corresponds to a quasi-
+experimental design with pretest, posttest, and control group,
+and comprises a didactic intervention in 12 classes of Unit III
+of the subject “Introduction to Programming.” The test data
+collection, data analysis and presentation of the results. The test
+consists of 45 multiple-choice questions, scored 0 or 1, depending
+on whether the answer is correct or incorrect, is attached in
+SupplementaryAnnex1 .Thetestwastakenduringclasstime,soit
+wascarriedoutsynchronously.Seeresultsofthepre-andpost-test
+inSupplementaryAnnex2 .
+Frontiersin ComputerScience /zero.tnum/six.tnum frontiersin.orgBelmar /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fcomp./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum
+/three.tnum./three.tnum. Design guidelines and principles
+- Objective:Theobjectiveistodeterminetheeﬀectsofapplyingthe
+didacticprinciplesof BrownandWilson (2018)ontheteaching-
+learning process of Python programming in computer science
+students of INACAP (National Professional Training Institute)
+inChile.
+- Constructdeﬁnition:ProgramminginPython,impliestheability
+to solve problems based on computer science concepts and
+using the logical syntax of the programming language: basic
+sequences,loops,iteration,conditionals,functions,variables,and
+datastructuressuchasarrays,tuplesanddictionaries.
+- Population: In the year 2021, 32,802 ﬁrst year students of the
+computersciencedegreeprogramatINACAP.
+- Sample:Theexperimentwascarriedoutwith100studentsofthe
+course “Introduction to Programming” in professional technical
+education,INACAPÑuñoabranch.
+- Type of test: multiple-choice test of 45 items with four answer
+options(onlyonecorrect)( Belmar,2023 ).
+- Estimatedcompletiontime:90min.
+Didactics :TenprinciplesforteachingprogrammingbyBrown
+andWilson.
+Principle 1: Remember that there is no such thing as a
+programminggene. The ﬁrst and most important tip is that there
+is no innate knowledge in computer programming. Computer
+programming skills are not innate, but rather a learned skill that
+canbeacquiredandimprovedwithpractice.
+Principle2:UsePeerSupport. One-on-onetutoringisperhaps
+the ideal form of teaching; a teacher’s full attention can be focused
+ononestudent,andtheycanfullycustomizetheirteachingforthat
+person and tailor individual feedback and corrections based on a
+two-waydialoguewiththem.
+Principle3:Uselivecoding. Insteadofusingslides,instructors
+shouldcreateprogramsinfrontoftheirstudents.
+Principle 4: Have students make predictions. When
+instructors use live coding, they usually run the program several
+times during its development to show what it does. The key to
+making demonstrations more eﬀective is to have students predict
+theoutcomeofthedemonstrationbeforerunningit.
+Principle 5: Use pair programming. Pair programming is a
+software development practice in which two programmers share
+acomputer.
+Principle 6: Use solved examples with labeled subgoals.
+Learning to program involves learning the syntax and semantics
+of a programming language, but it also involves learning to build
+programs.Agoodwaytoguidestudentsinbuildingprogramsisto
+usesolvedexamples:step-by-stepguidesthatshowhowtosolvean
+existingproblem.
+Principle 7: Stick to one language. A principle that applies in
+all areas of education is that transfer only comes with mastery of
+a programming language. Therefore, courses should stick to one
+language until students have made enough progress with it to be
+abletodistinguishtheforestfromthetrees.
+Principle8:Useauthentictasks. Learners ﬁndauthentictasks
+moreengagingthanabstractexamples.Onecaveataboutthechoice
+ofcontextisthatthechosentopicmayinadvertentlyexcludesome
+peoplewhileappealingtoothers.Principle 9: Remember that novices are not experts. This
+principleistautological,butitiseasilyforgotten.Novicesprogram
+diﬀerentlyfromexpertsandneeddiﬀerentapproachesortools.
+Principle10 :Don’tjustcode.Designbeforecoding.
+Finally, for details on the 10 principles, go to the source found
+atBrownandWilson’spublication( BrownandWilson,2018 ).
+/four.tnum. Discussion
+/four.tnum./one.tnum. Global context of computer
+programming education
+The teaching of computer programming involves resources
+ranging from the implementation of digital infrastructure
+(computers and software), the availability of suﬃcient human
+resources to cover the entire primary and secondary education,
+to the lack of didactics to guide the delivery of computer
+programmingknowledge.Inthiscontext,thequestionsarise:what
+toteachandatwhatlevel?Whichprogramminglanguagestoteach;
+Python, Scratch, Alice or Java? In which subjects to incorporate
+programming? Only to teach in the STEM area or to extend to the
+humanisticarea?Inaddition,thereistheaspectofhowtomeasure
+learning, how to know that what is done pays oﬀ in new learning
+for students and that this learning truly constitutes the acquisition
+ofcomputationalthinkingskills( Belmar,2022 ).
+At the 21st edition of the “International Conference on
+Interactive Collaborative Learning” and the “47th edition of the
+International Conference on Engineering-Pedagogy” held in 2018
+at the “Aristotle University of Thessaloniki of Greece,” they
+publishedatextwiththepaperspresentedentitled“TheChallenges
+of the Digital Transformation in Education,” in which among
+the many papers presented, a section on research conducted on
+preschool, primary and secondary education stands out. Some of
+the titles observed are: “Cyber and Internet Module Using Python
+in Junior-High School,” “Children’s Reﬂection-in-Action During
+Collaborative Design-Based Learning,” “Internet Addiction and
+AnxietyAmongGreekAdolescents:AnOnlineSurvey,”“Intelligent
+RoboticsinHighSchool:AnEducationalParadigmfortheIndustry
+4.0 Era,” “Design and Use of Digitally Controlled Electric Motors
+forPurposeofEngineeringEducation,”amongothers.Itshouldbe
+notedthat,fromtheobservedtitles,didacticteachingstrategiesdo
+notappearandneitherareobservedvalidationsofteststomeasure
+learning( AuerandTsiatsos,2019 ).
+For its part, UNESCO proposes a master plan for the
+development of digital skills, in which in one of the sections
+it highlights some important points in which it points out that
+the plan should have described aspects on the technological
+infrastructure in the school, as a necessary prerequisite, teachers
+trained in the area of digital technologies, and the integration
+of digital technology within the curriculum, not only in speciﬁc
+courses but within the goals or objectives ( Fau and Moreau,
+2018). These aspects must be supported by public policies that
+guide in teaching methodologies and didactics, beyond providing
+digital infrastructure and human resources. It should be noted
+that implementing the teaching of computational thinking is an
+enormous task, which should start in universities by preparing
+teachers for such a gigantic task, who after the curricular policies
+Frontiersin ComputerScience /zero.tnum/seven.tnum frontiersin.orgBelmar /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fcomp./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum
+have been dictated by governments and the economic resources
+have been allocated, will be able to implement the new teaching in
+schools(Lawetal.,2018 ).
+This is complemented by the European Commission, which
+published in 2016a paper entitled “Developing Computational
+Thinking in Compulsory Education,” in which it makes various
+diagnoses and the state of progress in this area in the member
+countries. The research points out, among other things, that the
+states have the obligation to train the next generations to operate
+the new digitalized world that is approaching, however, the states
+that have implemented the changes in education have revealed
+the lack of teachers trained in Computer Science, and where they
+have them, although few, there is the problem that there are
+no pedagogical and didactic models for teaching the new skills.
+The report analyzes the most signiﬁcant of the development of
+computational thinking for formal education in Europe and in
+sum shows the implications in the classroom and in the academy
+(Bocconietal.,2016 ).
+/four.tnum./two.tnum. Results
+A statistical test that validates the analysis of the results is
+the repeated measures factorial ANOVA (pre- and post-test), with
+the pre- and post-test treatment as an intra-subject factor and
+teaching method (traditional and innovated) as between-group
+factors.Thepre-andpost-test,beingevaluatedinthesamesubjects,
+is a repeated measure so it should be treated as an intra-subject
+factor, since these observations are not independent. Statistical
+analysis was performed with SPSS (Statistical Package for the
+Social Sciences) software version 29.0.1.1 under license from IBM
+(InternationalBusinessMachines).
+The repeated measures ANOVA procedure performs the
+analysis of groups of related dependent variables corresponding to
+diﬀerent measurements of the same property at diﬀerent times. In
+such an experimental design, the dependent variables correspond
+to measurements of more than one variable for diﬀerent levels of
+within-subjectsfactors.Forexample,thescoreachievementandthe
+time taken to respond may have been measured for each subject
+at two or three diﬀerent times. The repeated measures ANOVA
+procedure provides multivariate analyses for repeated measures
+data.Inadditiontotestinghypotheses,repeatedmeasuresANOVA
+generatesparameterestimates( Camacho,2019 ).
+In the tables below it can be seen that the tests of inter-subject
+eﬀects give us a signiﬁcance of 0.01, a value that is <0.05, a
+threshold that conﬁrms that the results are statistically signiﬁcant.
+In addition, the multivariate tests ratify the signiﬁcance of the
+experiment and show a statistical power of 100%, that is, an
+observedpowerof1.00.Asshownin Table1.
+According to Camacho (2019) the statistics for multivariate
+tests with repeated factors are mainly; the Pillai trace which is
+a test statistic produced by a Multivariate Analysis of Variance
+(MANOVA), which is a value ranging from 0 to 1. The meaning is
+that when the Pillai trace approaches 1, the more signiﬁcant is the
+evidence that the explanatory variable has a statistically signiﬁcant
+eﬀect on the values of the response variables. Another indicator is
+Wilks’ Lambda which is the product of the unexplained variancesin each of the discriminant variants, and the lower its value, the
+greater the disparity between the groups being compared, and the
+greater Roy’s root which corresponds to the increasing values of
+thestatisticindicatingincreasingcontributionsoftheeﬀectstothe
+modelinquestion.Forthecaseunderstudy,thePillaitraceis0.623
+value closer to 1, thus showing that the explanatory variable has a
+signiﬁcanteﬀectonthevaluesoftheresponsevariables,whichisthe
+scoreobtainedbythestudents,inadditiontheWilks’Lambdaindex
+resultedin0,377,whichtheloweritsvalue,thegreaterthedisparity
+between the groups being compared, i.e., it makes a signiﬁcant
+diﬀerencebetweenthecontrolgroupwiththeexperimentalgroup,
+andﬁnallythegreaterRoy’sroot(1.654)whichindicatesincreasing
+contributionsoftheeﬀectstotheexperiment.SeetableMultivariate
+tests.Asshownin Table2.
+In addition, we have the graph of marginal measures, which
+compares the average scores obtained in each test, both for the
+control group and for the experimental group, in which we can
+appreciate and ratify what the table of statistical indexes indicates;
+means and variances with their maximum and minimum scores.
+Here it is shown that the control and experimental group that
+started with similar averages in the pretest, in the experimental
+group is slightly higher than the control group, but in the post-
+test, the experimental group is observed to be much higher
+than the control group, which makes it clear that the hypothesis
+isconﬁrmed.
+Finally, when observing the ANOVA table, it is seen that for
+the pretest score there is no signiﬁcant diﬀerence between means
+between the control group and the experimental group since p
+=0.541, a value >0.05, so the researcher’s hypothesis is rejected,
+which is evident, since the new teaching method has not yet been
+applied, However, at the post-test level, p=0.001, a value much
+lower than 0.05, so the researcher’s hypothesis is accepted that the
+students who receive the teaching with the Brown and Wilson
+methodology have higher achievements than the students of the
+controlgroupwhoreceivetheteachinginthetraditionalway.
+/five.tnum. Conclusions
+Undoubtedly, the teaching of computer programming
+has become an essential skill for today’s society in constant
+technological evolution. Programming not only involves learning
+a new language, but also developing problem-solving skills, logical
+thinking and creativity. That’s why programming is becoming an
+essential skill in every ﬁeld, from data science to web development
+toartiﬁcialintelligence.Oneofthebestwaystoteachprogramming
+is through the use of hands-on examples and projects. Students
+learn best when they are involved in hands-on projects and
+applications, and this helps them understand how programming
+can be applied in real-world situations. In addition, projects
+also allow them to work in teams and collaborate on solutions,
+importantskillsforanycareerintechnology.
+It is worth remembering that the teaching of programming
+aims to develop computational thinking skills in children and
+youngpeople,whichhasbecomeanessentialskillfortoday’sdigital
+society, as it involves problem-solving and logical thinking skills
+that are necessary for the development of innovative technologies
+and solutions. Computational thinking can also help people
+Frontiersin ComputerScience /zero.tnum/eight.tnum frontiersin.orgBelmar /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fcomp./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum
+TABLE/one.tnum Inter-subjecteﬀectstest.
+Origen Sum of
+squaresdfRoot mean
+squareF Sig. Partial Eta
+squaredNon-centrality
+parameterObserved
+power
+Intersection 105,248.40 1 105,248.4 3,147.288 <0.001 0.972 3,147.288 1.000
+Group 614.20 1 614.203 18.367 <0.001 0.171 18.367 0.989
+Error 2,976.24 89 33.441
+Hasbeencalculatedusingalpha =0.05.
+TABLE/two.tnum Multivariatetests.
+Value F Df of
+hypothesisError de Sig. Partial Eta
+squaredNon-centrality
+parameterObserved
+power
+Pillaitrace 0.623 147.2 1.000 89.000 <0.001 0.623 147.203 1.000
+Wilkslambda 0.377 147.2 1.000 89.000 <0.001 0.623 147.203 1.000
+Hotellingtrace 1.654 147.2 1.000 89.000 <0.001 0.623 147.203 1.000
+Roy’smayor
+root1.654 147.2 1.000 89.000 <0.001 0.623 147.203 1.000
+EachF-teststheeﬀectofTEST.Thesetestsarebasedonlinearlyind ependentpairwisecomparisonsbetweentheestimatedmarginalme asures.
+Hasbeencalculatedusingalpha =0.05.
+understand how technologies work and how they can use them
+to improve their daily lives. Countries that have implemented
+computational thinking in their educational programs have a
+competitive advantage in the digital age, as their citizens have
+advanced skills and knowledge in technology and programming.
+These countries can develop advanced technological solutions and
+be at the forefront of innovation, allowing them to be more
+competitive in the global marketplace. In addition, computational
+thinking can also have a positive impact on a country’s economy
+andemployment.Jobsintechnologyandprogrammingareinhigh
+demandaroundtheworld,andcompaniesareincreasinglylooking
+foremployeeswithadvancedprogrammingandtechnologyskills.
+In the study that is the subject of this report, there was
+undoubtedly an improvement in the students’ learning, which is
+ratiﬁed in the increase of the mean and average, but even more
+signiﬁcant was that the experimental group that was dispersed in
+the results tended to become more uniform in their learning, as
+shown by the results of the post-test. There is a positive eﬀect of
+greater camaraderie and collaboration, which explains the certain
+uniformity of the post-test results of the experimental group,
+which did not occur in the control group, where the dispersion of
+results increased signiﬁcantly. In the following graph, the pretest
+of the control group (PRETEST-COTROL) corresponds to the
+ﬁrst scheme, followed by the pretest of the experimental group
+(PRETEST-EXPERIMENTAL),andinthirdpositionisthepost-test
+ofthecontrolgroup(POSTEST-CONTROL)inwhichtheincrease
+indispersioncanbeseen,Finally,furthertotherightisthescheme
+oftheexperimentalgroup(POSTEST-EXPERIMENTAL),inwhich
+agreateruniformityintheresultsisobserved.
+Table3, which shows the indicators of the control and
+experimental groups, clearly shows that the experimental group
+achieved better results than the control group, which are more
+signiﬁcantintermsoftheminimumvalueobservedinthepost-test
+andtheuniformityofachievements,whichtendtolevelout,which
+meansthatallstudentslearned,approachingthetotalachievement
+score,however,nonemanagedtoreach100%ofthetest.Undoubtedly,havingexperimentedwiththedidacticprinciples
+of Brown and Wilson, the lack of didactic tools for teaching
+programming and the lack of instruments to measure the skills
+achieved by the students are discussed. This report intends to be
+a pioneer contribution in this matter, and as the culmination of
+a project that took 2 and a half years of work, in which works
+from all over the world were analyzed, from the most diverse
+countries, such as China, South Korea, Japan, several European
+countries, Brazil and Argentina, among others, which allowed
+placing computational thinking as an essential skill for the 21st
+century,andwhichisprojectedasoneoftheeducationaltaskswith
+thegreatestimpactinthiscenturythatisbeginning.
+/six.tnum. Projections and limitations of the
+study
+/six.tnum./one.tnum. Limitations
+The limitations of the study are in the experimental part in
+which it would be convenient to include a larger sample and
+from several institutions, which could show in a reliable way the
+goodness of the didactic principles of Brown and Wilson for the
+teachingofcomputerprogramming.Theresearchworkedwithone
+courseastheexperimentalgroupandanothercourseasthecontrol
+group, and each course with diﬀerent professors, which could
+already pose a possible bias in the application of the methodology.
+One way in which the Brown and Wilson methodology could be
+applied that would allow eliminating one of the teacher biases
+wouldbetohavethesameteacherteachclassesintheexperimental
+group and in the control group, which could be replicated with
+several pairs of courses as control and experimental with the
+sameteacher.
+The general objective was to determine the eﬀects of
+applying the didactic principles of Brown and Wilson (2018)
+on the teaching—learning process of programming in Python
+Frontiersin ComputerScience /zero.tnum/nine.tnum frontiersin.orgBelmar /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fcomp./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum
+TABLE/three.tnum Indicatorsandresults.
+GroupIndexPretest control Pretest experimental Post-test control Post-test experimental
+Median 16.5 16 31 34
+Average 17.02 17.80 27.62 34.22
+Minimum 8 8 9 28
+Maximum 27 39 39 42
+StandardDeviation 4.98 7.19 9.10 3.90
+Variance 28.80 51.7 82.81 15.21
+Conﬁdenceinterval(95%) 15.60–18.44 15.53–20.08 25.04–30.2 32.99–35.45
+Source:Ownelaboration.
+FIGURE/one.tnum
+Estimated marginal averages by group.
+with students of computer science careers of INACAP, an
+objective that is observed to be fully met, since the results were
+satisfactory, and project new scenarios to conduct new studies
+where the set of didactic principles of Brown and Wilson can be
+testedagain(see Figure1).
+/six.tnum./two.tnum. Projections
+In the future there should be many investigations that test
+diﬀerent didactic strategies for teaching programming. It should
+be noted that the didactics for primary and secondary students
+should be diﬀerent from the one applied in tertiary education,
+since the latter works with adult students who have a speciﬁc
+purposeforwhichtheycarryoutthestudyandnotgeneralaswhen
+they are in primary and secondary education. Thus emerges the
+conceptofandragogy,whichistheanalogofpedagogy,butforadult
+education. Moreover, in the future it will not only be necessary toevaluate algorithms with conceptual or quantitative results, but it
+will be necessary to evaluate actions such as those performed by a
+robotoranautomatedmachine( Carrillo,2018 ).
+The educational systems of the future, should incorporate not
+only the teaching of computational thinking, but also elements of
+neuroscience, so that once the basis of knowledge in computer
+programming, educational robotics and gamiﬁcation is laid, it
+can go further, making the connection between computational
+processes and brain processes, in order to understand and create
+applications that are able to take advantage of brain waves in
+the activation of electronic devices that perform actions as an
+extension of the body, as there are already developments in the
+war industry, but with peaceful motivations and focused on the
+physical disabilities of human beings and also on brain disabilities
+in order to correct diseases such as deafness, blindness or go
+beyond,correctingAlzheimer’sdisease.
+The teaching of computational thinking should permeate all
+knowledgeformationintheeducationalsystem,integratingSTEM
+Frontiersin ComputerScience /one.tnum/zero.tnum frontiersin.orgBelmar /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fcomp./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum
+and non-STEM areas or better known as STEAM. Currently there
+are lost subjects such as technology education in Latin American
+countrieswhenstudentsaremadetodocraftsrelatedtohandicrafts
+or issues that contribute very little to the formation of knowledge.
+The subject of technology education should change its content
+from craft to technology, and should be composed of electronics,
+integrating electronic devices with the management of programs
+thatallowstudentstobetruegeneratorsofnewdigitaltechnologies.
+The formation of knowledge in schools should cut across
+all areas of knowledge, starting with mathematics and natural
+sciences, where one could experiment with the creation of virtual
+reality and/or augmented reality applications for chemistry and
+biology, passing through history and geography where one could
+teach through the creation of games and stories located in certain
+territories and eras, such as the Age of Empires game where
+diﬀerent versions of the game show the ancient civilizations
+of Europe until about 1,700, and could create applications for
+schoolchildren onothercontinents, such as Africa, LatinAmerica,
+Asia andOceania.In language,talesand storiescouldberecreated
+to give life to letters, and in art, it could be integrated with
+virtual reality developments, so that students can navigate within
+technology, building the diﬀerent educational knowledge, all of
+whichwouldbedoneinaprogressiveandinteractiveway,training
+students in programming and gradually incorporating the skills of
+computationalthinking.
+Some of the computer science topics that could be studied
+and evaluated in the future would be computer security, computer
+programming in education, disconnected activities in learning
+computational thinking, didactic strategies in the teaching and
+learning process of programming, internet of things, data science
+and big data, artiﬁcial intelligence, students with special needs and
+studies on psychological aspects of technology and humans, in
+addition to deepening on gamiﬁcation and educational robotics
+in primary school and robotics and industrial automation in
+secondary school, so that learning by projects, learning by doing,
+is practiced. It should be noted that all this should be properly
+distributedinthe12yearsofprimaryandsecondaryeducation.
+In addition to the above, there are emerging technologies such
+as nanotechnology and quantum computing, topics that should be
+part of the educational system in research phases and emerging
+technology topics. It should be noted that companies such as
+IBM already have prototypes of quantum computers that are fully
+operational. It is important to keep in mind that a quantum
+computer can decode all existing computer security systems in
+the world in just minutes, which will leave governments and
+organizationsaroundtheworldunprotected.Thishappensbecause
+of the processing speed of this type of computers, since they
+are based on the parallelism of the binary system. While in the
+current electronic system, the bits (1 and 0) manifest themselves
+sequentially,inthequantumsystemtheydosoinparallel.
+Finally, I would like to make a reﬂection on the diﬀerence
+in priorities between countries, which occurs on multiple levels;
+cultural, economic, technological, political and social, which leads
+us to think, where should we start from, should we promote the
+teachingofcomputationalthinkingasawaytotransferknowledge
+and thus in the medium and long term countries solve their socialproblems, or should we categorize where to start from, in addition
+tothefactthateachcountryisindependent.Forexample,inHaitiin
+Central America, with more than 200 years of independence, they
+still have not managed to have a stable political system that allows
+them to overcome extreme poverty and hunger. In this situation
+there are several countries in Africa and Latin America, while the
+world, represented by the developed countries, is faced with the
+dilemma of climate change, which is just around the corner and
+which will aﬀect us all. I ﬁrmly believe that, in order of priority,
+the teaching of computational thinking is second only to climate
+changeandworldhunger.
+Data availability statement
+The original contributions presented in the study are included
+in the article/ Supplementarymaterial , further inquiries can be
+directedtothecorrespondingauthor.
+Ethics statement
+The studies involving human participants were
+reviewed and approved by Institutional Ethics Committee -
+Universidad de Santiago de Chile. The patients/participants
+provided their written informed consent to participate in
+thisstudy.
+Author contributions
+Theauthorconﬁrmsbeingthesolecontributorofthisworkand
+hasapproveditforpublication.
+Conﬂict of interest
+The author declares that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be
+construedasapotentialconﬂictofinterest.
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their aﬃliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsedbythepublisher.
+Supplementary material
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.3389/fcomp.
+2023.1085507/full#supplementary-material
+Frontiersin ComputerScience /one.tnum/one.tnum frontiersin.orgBelmar /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fcomp./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/five.tnum/five.tnum/zero.tnum/seven.tnum
+References
+Araujo, A. L. S. O., Andrade, W. L., Guerrero, D. D. S., and Melo, M. R.
+A. (2019). “How many abilities can we measure in computational thinking? A
+study on Bebras challenge,” in Proceedings of the 50th ACM Technical Symposium
+on Computer Science Education (Universidad Federal de Paraíba, Paraíba, Brasil),
+545–551.doi:10.1145/3287324.3287405
+Auer, M. E., and Tsiatsos, T. (eds) (2019). “The challenges of t he digital
+transformation in education,” in Proceedings of the 21st International Conference on
+Interactive Collaborative Learning (ICL2018) -Volume 1 (Vol. 916) (Cham: Springer),
+215–226.doi:10.1007/978-3-030-11935-5
+Belmar, H. M. (2022), Review on the teaching of programming and computational
+thinking in the world. Front. Comput. Sci. 4, 997222. doi: 10.3389/fcomp.2022.
+997222
+Belmar, H. M. (2023), Expert validation of a Python test, reliabi lity, diﬃculty and
+discriminationindices. J.Educ.Dev. 7,52.doi:10.20849/jed.v7i1.1320
+Bennedsen, J., and Caspersen, M. (2007). Failure rates in intr oductory
+programming. AcMSIGcSEBull. 39,32–36.doi:10.1145/1272848.1272879
+Bergner, N., Röpke, R., Schroeder, U., and Krömker, D. (2018) .Hochschuldidaktik
+derInformatikHDI .Berlin:UniversityPress.
+Bocconi, S., Chioccariello, A., Dettori, G., Ferrari, A., Enge lhardt, K. (2016).
+Developing Computational Thinking in compulsory education – impli cations for policy
+andpractice ;EUR28295EN.Luxembourg:PublicationsOﬃceoftheEuropeanU nion.
+doi:10.2791/792158
+Brown,N., and Wilson, G. (2018). Ten quicktips for teaching progr amming. PLoS
+Comput.Biol. 14,e1006023.doi:10.1371/journal.pcbi.1006023
+Camacho, C. (2019). Análisis de la Varianza Para Medidas Repetidas . Sevilla:
+UniversidaddeSevilla.
+Carrillo,F.(2018). FormacióndeCompetenciasparaelTrabajoenChile. Tech.Rep.,
+ComisiónNacionaldeProductividad.UniversidaddeChile,S antiago,Chile.
+Cheng, Y., Sun, P., and Chen, N. (2018). The essential applicati ons of educational
+robot: requirement analysis from the perspectives of experts, re searchers and
+instructors. Comput.Educ. 126,399–416.doi:10.1016/j.compedu.2018.07.020
+Coll, C. (1991). Reforma Al Sistema Educativo Español, la . Libresa. Universidad de
+Chile,Santiago,Chile.
+Dagiene, V., and Stupuriene, G. (2016). Bebras–a sustainable c ommunity building
+model for the concept based learning of informatics and computa tional thinking.
+Inform.Educ. 15,25–44.doi:10.15388/infedu.2016.02
+de Paula, B., Burn, A., Noss, R., and Valente, J. (2018). Playing Beowulf: Bridging
+computational thinking, arts and literature through game-ma king.Int. J. Child-
+Comput.Interact. 16,39–46.doi:10.1016/j.ijcci.2017.11.003
+Fanchamps, N., Slangen, L., Hennissen, P., and Specht, M. (2021 ). The
+inﬂuence of SRA programming on algorithmic thinking and self-eﬃ cacy using
+Lego robotics in two types of instruction. Int. J. Technol. Des. Educ . 31, 203–222.
+doi:10.1007/s10798-019-09559-9
+Fanchamps, N., Specht, M., Hennissen, P., and Slangen, L. (2020 ).The
+Eﬀect of Teacher Interventions and SRA Robot Programming on the Dev elopment
+of Computational Thinking . Fontys University of Applied Science, Eindhoven,
+Netherlands.
+Fau, S., and Moreau, Y. (2018). Managing Tomorrow’s Digital Skills-What
+Conclusions can we Draw from International Comparative Indicator s?Education 2030
+–UNESCO.MinisteriodeEducación,Lima,Perú.
+García, F. (2018). Editorial computational thinking. IEEE Ibero-Am. J. Learn.
+Technol.13,17–19.doi:10.1109/RITA.2018.2809939
+Grgurina, N. (2008). “Computer science teacher training at th e University of
+Groningen,”in InternationalConferenceonInformaticsinSecondarySchools-Evoluti on
+andPerspectives (Berlin:Springer),272–281.doi:10.1007/978-3-540-69924 -8_25
+Grgurina, N. (2021). Getting the Picture: Modeling and Simulation in Secondary
+ComputerScienceEducation. Naples:UniversityPress.
+Huang, P., and Hwang, Y. (2013). An exploration of EFL learners’ anxiety
+and e-learning environments. J. Lang. Teach. Res. 4, 27–35. doi: 10.4304/jltr.4.
+1.27-35
+Jen,T.,andHsu,T.(2020). TheImpactofUsingMobileBlock-basedProgrammingto
+ControlRobotsonthePerformanceoftheFifthGraderStudentsLearnin gComputational
+ThinkinginSingapore .NationalTaiwanNormalUniversity,Taipei,Taiwan.
+Juškeviˇciene,A.,andDagiene,V.(2018).Computationalthinkingre lationshipwith
+digitalcompetence. Infor.Educ. 17,265–284.doi:10.15388/infedu.2018.14
+Kale, U., and Yuan, J. (2021). Still a new kid on the block? Computa tional
+thinking as problem solving in Code. org. J. Educ. Comput. Res. 59, 620–644.
+doi:10.1177/0735633120972050Kong, S., Hoppe, H., Hsu, T., Huang, R., Kuo, B., Li, K., et al. (ed s) (2020).
+Proceedings of International Conference on Computational Thinking Educ ation 2020 .
+HongKong:TheEducationUniversityofHongKong.
+Kulkarni,V.(2015). LookingBack:AlanTuring-TheFatherofComputerScience .CSI
+Communications,India.
+Law, N., Woo, D., de la Torre, J., and Wong, G. (2018). A Global Framework
+of Reference on Digital Literacy Skills for Indicator 4.4. 2 . Montreal, QC: UNESCO -
+InstituteforStatistics.
+Lee, P., and Low, C. (2020). Implementing a Computational Think ing Curriculum
+with Robotic Coding Activities through Non-formal Learnin g.CoolThink@ JC , 150.
+BukitViewSecondarySchool,Singapore.
+McLaren, B., Adams, D., Mayer, R., and Forlizzi, J. (2017). A c omputer-based
+game that promotes mathematics learning more than a conventio nal approach. Int.
+J.Game-BasedLearn. 7,36–56.doi:10.4018/IJGBL.2017010103
+Mühling, A., Ruf, A., and Hubwieser, P. (2015). “Design and ﬁr st results of a
+psychometric test for measuring basic programming abilities, ” inProceedings of the
+Workshop in Primary and Secondary Computing Education, TUM School Universität
+München,Germany.2–10.doi:10.1145/2818314.2818320
+Ortiz, A., Sánchez, J., and Sánchez, I. (2015). Los modelos ped agógicos desde una
+dimensión psicológica-espiritual. Rev. Cient. Gen. José María Córdova 13, 183–194.
+doi:10.21830/19006586.22
+Pérez, D., Hijón, R., Bacelo, A., and Pizarro, C. (2020). Can c omputational
+thinking be improved by using a methodology based on metaphors a nd scratch
+to teach computer programming to children?. Comput. Hum. Behav. 105, 105849.
+doi:10.1016/j.chb.2018.12.027
+Pérez, D., Hijón, R., and Martín, M. (2018). A methodology propo sal based on
+metaphors to teach programming to children. IEEE Rev. Iberoam. Tecnol. Aprendiz.
+13,46–53.doi:10.1109/RITA.2018.2809944
+Portnoﬀ, S. (2018). The introductory computer programming co urse is ﬁrst and
+foremostalanguagecourse. ACMInroads 9,34–52.doi:10.1145/3152433
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A con ceptual framework for
+computationalpedagogyinSTEAMeducation:determinantsand perspectives. Hell.J.
+STEMEduc. 1,17–32.doi:10.51724/hjstemed.v1i1.4
+Repenning, A. (2017). Moving beyond syntax: lessons from 20 ye ars
+of blocks programing in AgentSheets. J. Vis. Lang. Sentient Syst. 3, 68–91.
+doi:10.18293/VLSS2017-010
+Rojas,A.,andGarcia,F.J.(2020).Evaluationofcomputation althinkingforlearning
+computerprogramminginhighereducation. DistanceEducationMagazine(RED) ,20.
+TechnologicalUniversityofPueblaPuebla,México.
+Sharma, K., Papavlasopoulou, S., and Giannakos, M. (2019). Codin g
+games and robots to enhance computational thinking: how collab oration and
+engagement moderate children’s attitudes? Int. J. Child-Comput. Interact. 21, 65–76.
+doi:10.1016/j.ijcci.2019.04.004
+Souza, I., Andrade, W., and Sampaio, M. (2019). “Analyzing the eﬀect of
+computational thinking on mathematics through educational robotics,” in 2019 IEEE
+FrontiersinEducationConference(FIE) (Covington,KY:IEEE),1–7.
+Vallance, M., and Towndrow, P. (2016). Pedagogic transformat ion, student-
+directed design and computational thinking. Pedagog. Int. J. 11, 218–234.
+doi:10.1080/1554480X.2016.1182437
+Watson, C., and Li, F. (2014). “Failure rates in introductory programming
+revisited,” in Proceedings of the 2014 Conference on Innovation and Technology in
+Computer Science Education (Durham University Library, United Kingdom), 39–44.
+doi:10.1145/2591708.2591749
+Wing, J. (2006). Computational thinking. Commun. ACM 49, 33–35.
+doi:10.1145/1118178.1118215
+Yi, L., and Ting, H. (2020). “Eﬀects of using mobile phone progra ms to control
+educational robots on the programming self-eﬃcacy of the thir d grade students,”
+inProceedings of International Conference on Computational Thinking Educ ation
+(NationalTaiwanNormalUniversity,Taiwan),31–35.
+Zhang,K.,Chen,X.,andWang,H.(2019).“Researchonthemix ed-learningmodel
+andtheinnovativetalentcultivationmechanismbasedoncompu tationalthinking,”in
+RecentDevelopmentsinIntelligentComputing,CommunicationandDevices (Singapore:
+Springer),59–65.doi:10.1007/978-981-10-8944-2_8
+Zhou,T.,andHsu,T.(2020). LearningBehaviorsAnalysisoftheSixGraderStudents
+IntegratingEducationalRobotswiththeComputationalThinkin gBoardGame .National
+TaiwanNormalUniversity,Taipei,Taiwan.
+Zipitría, S. (2018). “Piaget and computational thinking,” in Proceedings of the
+7th Computer Science Education Research Conference (Universidad de la República
+Montevideo,Uruguay),44–50.doi:10.1145/3289406.32894 12
+Frontiersin ComputerScience /one.tnum/two.tnum frontiersin.org

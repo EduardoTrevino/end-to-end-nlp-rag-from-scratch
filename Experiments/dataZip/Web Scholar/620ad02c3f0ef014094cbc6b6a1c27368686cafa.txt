@@ -1,0 +1,239 @@
+Translating Christopher Alexander’s Patterns for 
+Immersive Virtual Reality  
+A rule-based approach to behavior testing in VR 
+Keerthana Govindarazan1, Heather Ligler2, Yasmine Abbas1, José P. Duarte1 
+1Pennsylvania State University 2Florida Atlantic University 
+1{kmg6763| yxa54|jxp400}@psu.edu 2hligler@fau.edu 
+Architecture has a profound impac t on the behavior, emotions , and well-being of its 
+occupants. Christopher Alexander's 'A Patt ern Language' provides design solutions to 
+create adaptive humanistic buildings. However,  the lack of empiri cal support for these 
+patterns is one of the reasons that hinder th eir widespread adoption that can result in the 
+design of positive environments . It is imperative to test these patterns more rigorously. 
+Immersive virtual reality can be used in this effort to simulate various architectural conditions based on recommendations from the pa tterns that can be tested with diverse 
+groups of people. This paper proposes a method that dem onstrates the use of shape 
+grammar formalism to translate patterns pr esented textually into three dimensional 
+architectural features. An initial/pilot test of this propos ed method in a VR scene brought 
+forward strengths and weaknesses in this appr oach that will aid in the development of 
+future and more rigorous experiments. 
+Keywords:  Christopher Alexander, Pattern Language , Design patterns, Virtual Reality, 
+Shape Grammar, Environment-behavior Experiments, Behavior Testing.
+INTRODUCTION 
+Architecture is the design discipline responsible for 
+shaping and structuring ou r environment. In doing 
+so, architecture directs human behavior, and invokes people’s emotions. There is growing evidence that the built environment has profound psychological impact on its occupants in ways yet undetermined and elusive to mankind (Nanda et al, 2013; Sussman and Hollander, 2021). Architects use various methods, and tools, to enhance creativity in the design process, improve co llaboration and technical 
+efficiency; however, design decisions to regulate behavior and emotions in buildings are majorly driven by an architect’s intuition, professional experience and learned design theories. 
+Over time, architects and theorists record 
+peoples’ behavioral pattern s, and their response to spaces. Design theories originate from formal and 
+informal observations of everyday activities and from an empathetic understanding of architectural experience. Results from years of such studies are the major contributors to architectural theory that guide designers to date. 
+Christopher Alexander is one such architect who 
+has systematically organi zed human perception and 
+actions in the built environment as design patterns in his ‘ A Pattern Language ’ (Alexander et al, 1977). 
+These patterns, derived empirically, act as design solutions to problems commonly encountered when creating an environment.  Alexander prescribes 
+patterns to achieve adapti ve humanistic buildings 
+that generate profound positive environments, in contrast to modern, sterile, and homogeneous buildings, by doing away with general feelings of 
+Volume 2 – Digital Design Reconsidered –  eCAADe 41 | 399malaise and enhancing the well-being of dwellers 
+(Salingaros, 2021). 
+Christopher Alexander’s patterns, though 
+rooted in human behavior and movement, are not adopted widely (Salingaros, 2021). In A pattern 
+Language , Alexander presents 253 patterns as 
+scientific hypotheses (Alexander et al, 1977). However, researchers discuss that these patterns have never truly been tested (Dawes and Ostwald, 2017), meaning they lack the rigor of scientific testing, that the patterns apply to very few contexts and hence lack generalizability to design everywhere (Samalavičius, 2023). 
+Although in choreographing spaces and user 
+movements, an architect can affect the experience, perception, emotion, feelin gs, and meanings of the 
+built world (Pallasmaa, 2015) , the primary focus of 
+architectural design process has been, in recent times, the visual appeal of  buildings and its technical 
+and financial efficiency. In this context, there is a need for a human-centric design process that results in buildings that positively enrich the lives and well-
+being of people. This research aims to test the patterns from A Pattern Language  in various 
+simulated conditions with diverse set of people to provide rigorous empirical support. The authors propose a method using sh ape grammar to translate 
+Alexander’s textual instructions into environments that can eventually be experienced in VR. In this paper, authors give emphasis to the first step in the process of testing Alexande r’s patterns, which is the 
+translation of the patterns using shape grammar to create a VR scene. 
+METHOD 
+To test Christopher Alexan der’s spatial prescriptions 
+using a VR environment and record behavioral response, three phases of steps are proposed. To set up the VR experiment, the authors incorporated the 
+patterns into a 3D design environment by systematically interpreting and transforming the patterns using shape grammar formalism. The authors recorded these patterns as shape rules to aid in the process of experiment construction (phase 1); combined the patterns to form the VR experiment 
+(phase 2); created shapes rules to aid the design of virtual environment; conducted a pilot VR experiment (phase 3). Figure 1 shows the steps taken to set up the experiment. 
+Phase 1: Shape Rules 
+Alexander et al (1977) present the patterns textually elaborating on the different aspects of a design solution (for example see Figure 1 Part a). Shape grammar is a formal approach that is utilized to codify a design vocabulary into its constituent geometric/spatial relations (shape rules) to facilitate the generation of similar designs retaining the essence of the visual language (Stiny, 1980). It also helps capture one’s own thoughts and design ideas as shape rules and synthesize in design generation. Authors employ the formalism of shape grammar to translate / transform a select set of patterns from text to 3D design objects following a rule-based approach. Given that 253 patterns are listed in A 
+Pattern Language , this study, considered as a proof-
+of-concept, includes only four patterns. 
+More specifically, thes e patterns include: (1) 
+Pattern 112: Entrance tran sition, (2) Pattern 159: 
+Light on two sides of every room pattern, (3) Pattern 115: Courtyards which live and (4) Pattern 119: Arcades. These patterns were selected because Alexander et al (1977) mark ed these patterns as well-
+tested design solutions that have been empirically observed as the consistent design preference for occupants living in the studied spaces. Verified patterns are chosen to be tested first to gain confidence in the proposed method and feedback to improve the research development. 
+Each pattern is treated as a design variable and 
+is interpreted in two different ways (T1 = test condition 1, T2 = test condition 2) and a third controlled way which is the absence of what the design suggests doing (C = control condition). The use case of C is mentioned in phase 2. All shape rules are presented in ‘plan’ view as shown in Figures 2 and 3. 
+ 
+400 | eCAADe 41 – Volume 2 – Digital Design Reconsidered 
+                                           Pattern 112.  In Pattern 112 about ‘entrance 
+transition’ Alexander suggests highlighting the entrance transition spaces to facilitate mental accommodation when going from outdoors to indoor spaces. He provides evidence showing that people found such entrances make a house feel warmer and more approachable. This led Alexander and his team to formulate the following design solution: “Make a transition space between the street and the front door…. with a change of light, sound, change of direction, surface, level, perhaps by gateways which make a change of enclosure […]” (Alexander, 1977, p. 548). Entrance design patterns are converted to shape rules with changing levels of enclosure spaces following the guidance in the pattern. (Note: not all suggestions are included in the analysis of the pattern at this stage of conceptualization). T1 shows an enclosure manipulation by addition of a porch and T2 shows an alcove added to the entrance. C has no defined transition other than a framed hole in the wall (see Figure 2). 
+Based on Pattern 112, the authors hypothesize 
+that  Given a choice, the participants will migrate 
+towards/approach entrances with visible transition 
+spaces and avoid entrances without such transition spaces  (H1) . 
+ 
+Pattern 159. Pattern 159 about ‘light in a room’ 
+states that when given a choice, people will gravitate to rooms with light on two sides than rooms lit on one side (Alexander et al 1977, p. 746). Natural light 
+from two sides of a room ma kes a room feel pleasant 
+and friendly. This pattern states to “...place windows…so that natural light falls into every room from more than one direct ion” (Alexander, 1977, p. 
+746). Analyzing this rule, three rooms were defined in the shape rules each with different number of windows (see Figure 2). T1 is the condition with two windows on the opposite sides of the room. T2 had 3 windows and C has one window in the room.
+ 
+Based on our understanding of Pattern 159, the 
+authors hypothesize that Given a choice, the 
+participants will approach rooms with light coming Figure 1 
+The image summarizes the steps taken to test Alexander's pattern in virtual reality. 
+Volume 2 – Digital Design Reconsidered –  eCAADe 41 | 401from two opposite window s of the room and avoid 
+rooms limited to one window on one side of the room (H2) . 
+               
+              
+ 
+Pattern 115.  Pattern 115 about ‘courtyards’ 
+suggests placing a “[…] a roofed verandah or a porch which is continuous with both the inside and the courtyard” beside the courtyard entrance (Alexander et al 1977, p. 561). This is interpreted as presence of an alcove (T1) or a porch (T2) next to the courtyard as shown in the shape rules (Figure 3). C has no defined courtyard entrance other than a framed doorway. Alexander suggests reducing the ambiguity between the inside and outside by providing a verandah or a porch to create a sense of 
+continuity between indoor  spaces and a courtyard. 
+Based on Pattern 115, the authors hypothesize 
+that Given a choice, the participants will approach 
+courtyards with transiti ons spaces to enter the 
+courtyard and avoid direct entry to courtyards (H3) . 
+ 
+Pattern 119.  Pattern 119 about ‘arcades’ states that 
+“wherever paths run along the edge of buildings, build arcades and use the arcades…to connect up the buildings to another.” (Alexander et al 1977, p. 580). The arcades are interpreted as colonnaded arcades that are either present (T1 and T2) or absent (C) in the test environment (see Figure 3). 
+Based on Pattern 119 about arcades, the authors 
+hypothesize that Given a choice, the participants will 
+approach colonnaded arcades and avoid spaces without arcades (H4) . 
+Phase 2: Combining patterns to create 
+the virtual 3D environment 
+The authors compare the solution offered by 
+Alexander’s patterns (named as test condition T) to a solution that does not incorporate the directives from the patterns (named control condition C). Participants in the virtual environment will be presented with both test (T) and control (C) conditions at the same time and they must choose between the two to navigate a series of rooms designed for the experiment . The authors observed 
+the “approach-avoidance behavior” (Elliot, 2006) towards or away from patterns in each choice condition, that is the unconscious preference of participants where one chooses to approach or avoid the design feature that follows the patterns. The experiment attempts to observe if the solutions that follow the pattern guide the users’ movement in space. 
+The primary task of the user in the virtual 
+environment will be to observe various objects of interest. This task is designed to provide participants with a goal to guide their movement in the environment. In our pilot experiment, we placed chandeliers in each room in the center for this Figure 2 
+T1 = Test condition, T2 = Test condition 2, C = Control Condition, Rules 1 depict test and control conditions for Pattern 112 Entrance Transi-tion, Rules 2 do the same for Pattern 159 Light on two sides of a room. 
+ 
+ Figure 3  T1 = Test condition, T2 = Test condition 2, C = Control Condition, Rules 3 depict test and control conditions for Pattern 119 Arcades, Rules 4 do the same for Pattern 115 Courtyards which live.  
+402 | eCAADe 41 – Volume 2 – Digital Design Reconsideredpurpose. After looking at a chandelier in one room, 
+the user will have to choose between two rooms: test and control condition (see Figure 4). This way the user, in navigating a series of rooms focused on a main task, will make a series of decisions by selecting the next room to enter. This decision is designed as a secondary task to limit the time to reflect on the decision. The user will be informed that the contents of the two rooms presented are identical. 
+Since the two design choices/rooms need to be 
+equidistant from the user location to keep the distance one needs to traverse to reach a room equal, all rooms are designed as hexagonal rooms. A user entering from side 1 will have the design choices visually equidistant from the user and from each other on sides 3 and 5 of a hexagon. See Figure 5 for the shape rules that guide the design of the VR environment. 
+A family of designs can be generated using the 
+shape rules defined above. The first test environment generated presents the conditions T1 and C (Figure 6). Another test environment can present the conditions T2, and C and another test environment (control condition) can include conditions T1 and T2. The shape rules applied to generate the first environment step-by-step is shown in Figure 6. 
+The environment is modelled in Rhino 3D. In the 
+future it will be exported to Unity game engine to program a VR experience capable of recording user movement, position, and head rotation data along with video of experience. For quick prototyping purposes, Twinmotion, a visu alization software with 
+VR capabilities, was used to view the VR scene. 
+Phase 3: Testing behavior in VR 
+The authors translated patterns to shape rules in 
+Phase 1 and combined these shape rules to generate a VR environment in Phase 2. This section explains Phase 3 which deals with behavior testing Alexander’s patterns in VR. 
+People experience architecture through 
+movement in space and time allowing one to perceive richer spatial information and understand  
+                              
+ 
+          Figure 4 
+View of the exhibit on the roof and the two entrances the participant needs to choose from to enter.  
+Figure 5 
+General Shape rules (5 to 10) and initial shape. 
+Volume 2 – Digital Design Reconsidered –  eCAADe 41 | 403 
+                               
+ 
+ 
+intangible spatial aspects. Unlike traditional architectural visualizations viewed on a flat screen, immersive virtual reality (VR) simulates navigable architectural spaces in an immersive format by wrapping one’s field of vi ew with a head-mounted 
+display (HMD), thus altering the reality people experience (Greengard, 2019).  Hence, the authors explore the use of immersive virtual reality to test the hypotheses mentioned in A Pattern Language . More 
+than just a tool for design communication, researchers have identified that VR can be a site for 
+controlled experiments to assess a building’s psychological consequences (Jelic et al, 2016). The authors envision that architectural scenarios derived from A Pattern Language  can be created in VR to 
+measure the behavioral and psychological response of people. Alexander talks about gravitating towards certain spaces in the built enviro nment. The authors have 
+set up an experiment with the intent to  Figure 6 
+Generation of first test environment with T1 and C conditions using the shape rules defined in Figures 1,2 and 3. 
+404 | eCAADe 41 – Volume 2 – Digital Design Reconsidered 
+                               
+ 
+ measure these unconscious choices. Restating the four hypotheses from Phase 1, an expected behavioral outcome can be visualized as shown in Figure 7. The users are expected to choose T1 more when pitted against the C (control) condition.  
+The first author pilot tested a VR scene with T1 vs 
+C condition with three colleagues in a VR lab using HTC Vive Pro HMD. The experimenter prompted the participants to move through an exhibition by choosing between two rooms which housed identical displays and re corded the participants‘ 
+movement path by video capturing the desktop screen that showed what they saw in VR. 
+The data observed is shown in Figure 8. The 
+participants could not see the difference in lighting in rooms with different window configurations or the transition spaces clearl y. Architectural elements 
+in the low-fidelity prototype were not visually perceived enough to elic it a consistent approach-
+avoidance behavior. Moreover, it was noted that the VR environment has a narrow  field of view and hence 
+the rooms need to be bigger to facilitate a simultaneous view of the exhibit and the two doors to the adjacent rooms. While the sample is too small to demonstrate hypothesis testing, these preliminary observations provide vital feedback to improve future experiment setup for a more substantial case study. 
+CONCLUSION AND WAY FORWARD 
+Alexander's A Pattern Language  and the spatial 
+theories formalized as h is design patterns, despite 
+being a valuable resource for designing human-centric buildings, lack em pirical support which is 
+essential for their generalizability and adoption. Virtual reality can be used to simulate various architectural conditions based on recommendations from A Pattern Language  and can be tested with 
+diverse groups of people which could in turn stimulate the use of Alexander’s patterns. 
+This paper demonstrated the use of shape 
+grammar formalism to translate and combine patterns to create a VR environment. Authors  
+ 
+identified strengths and weaknesses in the proposed method, and these are discussed below. 
+Firstly, the pilot study immediately showed that 
+significant design changes need to be made to the VR environment. This suggests revisions of the shape rules to better reflect the pattern. In creating shape grammar in combination wi th VR, the shape rules 
+can be iteratively improved to account for the perception of design feature. This can lead to a more robust translation of patterns to visual grammar.  Figure 7 
+Predicted behavior according to Alexander's patterns. 
+Volume 2 – Digital Design Reconsidered –  eCAADe 41 | 405Secondly, in encoding the patterns as design rules, 
+the authors anticipate using other tools/techniques like color grammars (Knight, 1993) to encode the patterns with textures, color, lighting, and other environmental factors that can influence how people perceive and respond to architectural designs. Moreover, shape grammar’s potential to translate multisensorial design elements like odor, sounds, etc., through description rules or sensorial grammars, remains an area to be explored in future works as it is possible to create an immersive virtual multisensorial architectural experience. In addition to visual and auditory stimuli, technological advancements like haptic feedback gloves and smell synthesizers enable the simulation of aspects of real-world conditions. These advancements make VR a viable option to test Alexander’s patterns. Researchers theorize that future shape rules could capture the “atmospheric grammar” of a space to help compute their ambiance (Abbas, 2019). The combination of shape gra mmar analysis and virtual 
+reality testing of these patterns can result in a rigorously and immersively user-tested compendium of architectural principles that can aid in the design process. Moreover, physiological sensors like heart rate monitors, skin conductance sensors and electroencephalogram (EEG) along with eye tracking can enrich the data collected in the VR experiment.  
+Thirdly, behavioral measures that can validate 
+the underlying quality of A Pattern Language  should 
+be better identified. People visually process information and make dec isions pre-reflectively 
+when navigating architectural spaces (Albright et al, 2020). Researchers are recognizing and establishing that architecture is experienced as a whole, subliminally (below consciousness), through the imagination of possible affordances that a place brings and execution of ac tions when in movement 
+through a space (Johnson , 2015; Djebbara et al, 
+2019). When entering a room, the participants first see the two rooms on the opposite side before looking at the chandelier centrally located on the ceiling. Once the novel geometry of the chandelier is   
+                      
+         
+ 
+ 
+viewed satisfactorily, the participant will decide 
+between two rooms to move to. What amount of visual information and affordance perception entered the awareness of these participants? Did this affect their behavior? An entrance, for instance, can 
+be a framed door or an alcove providing a sense of enclosure. Do people process these subtle changes in architectural affordances? Do these design features have an emotional valence eliciting Figure 8 
+The dotted lines in the image depict the observed behavior of 3 participants.  
+406 | eCAADe 41 – Volume 2 – Digital Design Reconsideredapproach/avoidance beha vior? Will Alexander’s 
+pattern be chosen? These are  the kind of questions 
+that guide the experiment set up. Future work can address the task design of the experiment that yield better behavioral measures to validate the patterns used in the environment.  
+Finally, the above observations led the authors 
+to identify that they can draw from fields like environmental psychology, neuroarchitecture and space syntax to further develop the experiment.
+ In 
+this paper, this experience is operationalized as series of decisions people take when moving through an exhibit with multiple rooms. Future studies can experiment with other ways to study the experience of spaces by designing other tasks that capture the real-world experience. The authors reasoned that the architectural experience is complex in nature and the whole is more than the sum of its parts, and hence presented the 4 patterns one after the other in the VR  setup to the participant. 
+Perhaps, future work can identify the merits and demerits of testing each pattern separately and thoroughly. 
+Overall, this paper sheds lights on how 
+computational methods can allow us to experiment with architectural theories in new ways extending the applications of shape computation in 
+architectural research (Ligler and Economou, 2019). Formalisms like shape grammar provide a method for spatializing theories, and immersive environments can simulate and test those interpretations. These techniques and methods can have implications on the process of design that can help actualize more sensitive and positive spatial conditions in the real world! 
+REFERENCES 
+Abbas, Y. (2019). ‘Architecture as Landscape’ in SHS 
+Web of Conferences , 64, article no: 02002. 
+Albright, T. D., Gepshtein,  S., & Macagno, E. (2020). 
+‘Visual neuroscience for architecture: Seeking a new evidence -based approach to design’, 
+Architectural Design , 90(6), pp. 110-117. Alexander, C., Ishikawa, S., and Silverstein, M. (1977). 
+A pattern language: towns, buildings, construction. New York: Oxford University Press.  
+Dawes, M.J. and Ostwald, M.J. (2017). ‘Christopher 
+Alexander’s A Pattern Language: analysing, mapping and classifying the critical response’, City, Territory and Architecture , 4(1), pp. 1-14. 
+Djebbara, Z., Fich, L.B. an d Gramann, K. (2021). ‘The 
+brain dynamics of architectural affordances during transition’, Scientific reports , 11(1), pp. 1-
+15. 
+Elliot, A.J. (2006). ‘The hierarchical model of 
+approach-avoidance motivation’, Motivation 
+and emotion , 30, pp. 111-116. 
+Jelić, A., Tieri, G., De Matteis, F., Babiloni, F. and 
+Vecchiato, G. (2016). ‘The enactive approach to architectural experience: A neurophysiological perspective on embodiment, motivation, and affordances’, Frontiers in psychology , 7, pp. 481. 
+Johnson, M. (2015). ‘The embodied meaning of 
+architecture’ in Robinson, S. and Juhani P. (eds) Mind in architecture: Neuroscience, embodiment, and the future of design , MIT Press, pp. 33-50. 
+Knight, T.W. (1993). ‘Color grammars: the 
+representation of form and color in designs’, Leonardo , pp. 117-124. 
+Ligler, H. and Economou, A. (2019, April). ‘From 
+drawing shapes to scripting shapes: 
+Architectural theory mediated by shape machine’ in Conference Proceedings of the Symposium on Simulation  for Architecture and 
+Urban Design (SimAUD) , pp. 278-286. 
+Nanda, U., Pati, D., Ghamari, H., and Bajema, R. 
+(2013). ‘Lessons from neuroscience: form follows function, emotions follow form’, Intelligent Buildings International , 5(1), pp. 61-78. 
+Pallasmaa, J. (2015). ‘Spatial choreography and 
+geometry of movement as the genesis of form: the material and immaterial in architecture’ in Kanaani, M. and Kopec, D. (eds) The Routledge 
+companion for architecture design and practice , 
+New York, NY: Routledge, pp. 67-76.  
+Salingaros, N.A. (2021). Why Christopher Alexander 
+failed to humanize architecture  [Online]. 
+Volume 2 – Digital Design Reconsidered –  eCAADe 41 | 407Available at:  
+https://thesideview.co/journal/why-christopher-alexander-failed-to-humanize-architecture/ 
+Samalavičius, A. (2023). ‘Christopher Alexander As 
+An Architectural Thinker’, Urban Planning , 8(3). 
+DOI: https://doi.org/10.17645/up.v8i3.6682 
+Stiny, G. (1980). ‘Introduction to shape and shape 
+grammars’, Environment and planning B: 
+planning and design , 7(3), pp. 343-351.  
+Sussman, A., and Hollander, J. B. (2021). Cognitive 
+architecture: Designing for how we respond to the built environment. Routledge. 
+408 | eCAADe 41 – Volume 2 – Digital Design Reconsidered

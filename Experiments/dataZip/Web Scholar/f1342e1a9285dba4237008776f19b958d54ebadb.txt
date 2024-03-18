@@ -1,0 +1,16 @@
+ 
+Retraction  
+Retraction of: Pan, Liurong, Alshalabi, Riyad, Li, Pingfen, Naminse, Eric Yaw and 
+Tan, Fuqiang . "Analysis of digital humanistic knowledge production based on 
+natural language processing" Applied Mathematics and Nonlinear Sciences, 
+vol.0, no.0, 2023, pp. -. https://doi.org/10.2478/amns.2022.1.00029  
+ 
+DOI: https://doi.org/10.2478/amns.2022.1.00029  
+ 
+ 
+Reasons for retraction: Due to strong technical reasons, the code we used could not 
+reproduce the current results. And there are also many bugs after code debugging. In 
+addition, our paper data also showed a strong lag. For the above technical reasons, we 
+ask the journal to reject this paper and publish a rejection notice.  
+ 
+ DOI:  10.2478/amns.2023.1.00403  
