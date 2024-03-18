@@ -1,0 +1,787 @@
+ Buggy
+ I don't know the course number for Large Language Models methods and applications.
+ I don't know when the classes will begin in the Fall 2024 semester.
+ I don't know the number of units for Course 10315 in spring 2024 as it is not provided in the given context.
+ TAP stands for "Textual Action Prediction".
+ The ACL 60/60 evaluation sets are used for multilingual question answering tasks to evaluate the performance of machine learning models in understanding and generating questions and answers in multiple languages.
+ I don't know the last day of Mini-5 classes in summer 2024 as the context only provides information up to March 2024.
+ All Drama classes start with Course number 54177.
+ I don't know how many members of the National Academy of Medicine (NAM) are affiliated with Carnegie Mellon University. According to the provided context, the study received support from the French government, which suggests that the university may have researchers or faculty members who are part of the NAM. However, I couldn't find any direct information on the number of NAM members affiliated with Carnegie Mellon University.
+ I don't know the classroom where advanced NLP was taught last semester.
+ Zhiqing Sun is an author on "Accelerating Diffusion-based Combinatorial Optimization Solvers by Progressive Distillation".
+ I don't know the conference where "Fully Unsupervised Topic Clustering of Unlabelled Spoken Audio Using Self-Supervised Representation Learning and Topic Model" was published.
+ The full name of the conference where the paper "TAPLoss: A Temporal Acoustic Parameter Loss for Speech Enhancement" got published is 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+ Scott Fahlman created the first emoticon at CMU in 1982.
+ The PI of CLAW Lab is not specified in the provided context.
+ According to the context, imperfect machine-generated explanations help correctly identify subtly (non-)toxic content by +2.4%, less compared to expert-written human explanations (+7.2%).
+ Graham Neubig's job title is faculty member at Carnegie Mellon University in the Language Technologies Institute.
+ The title of course 05291 in fall 2023 is HCI Pro Seminar.
+ 236B tokens
+ David Garlan is the Associate Dean for Master’s Programs.
+ I don't know the instructor for unit 02718 in fall 2023 as the provided context does not include this information.
+ Unlimiformer
+ The deadline for Mini-2 drop and withdrawal grade assigned after this date is November 13th.
+ I don't know when aluminum was first used to build buggies.
+ The Phi Beta Kappa Initiation Ceremony (not Reception) will be held on May 9 at PH 226C.
+ The Mini-1 drop deadline is September 30th, and the withdrawal grade is assigned after this date.
+ According to the provided context, SAMA showcases a decrease in memory consumption of up to 3.8 times in large-scale meta learning benchmarks with a multi GPU setup.
+ The Spring 2025 course registration start date for masters students is March 11, 2025. 
+ The location of course 05317 is HH B131.
+ ValuePrism is not mentioned in the provided context.
+ 19%
+ The deadline for Mini-3 pass/no pass and withdrawal is February 19th, Monday.
+ The paper title is 'Pragmatic Inference with a CLIP Listener for Contrastive Captioning.'
+ According to the paper, IPA has shown significant improvements in various tasks such as prediction, adaptation, and reward prediction.
+ 11824 is worth 42 credits.
+ Course 05391 is titled "Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry".
+ The first author on "Extracting Training Data from Diffusion Models" is Nicholas Carlini.
+ Ion Levin-Decanini is the instructor for course 05315 in fall 2023.
+ Based on the information provided, there is no cost associated with submitting an application for the MLT program on the day before the deadline.
+ The MIIS-16 program requires 6.0 units.
+ The first U.S. drama degree was awarded at Carnegie Tech in 1914.
+ PhD students can use LTI's computer cluster for course assignments, directed study projects, and/or capstone projects involving large datasets and/or lengthy computation.
+
+The instructor of Advanced Topics in Multimodal Machine Learning in Spring 2024 is Liang.
+ Latin.
+ The Carnegie Mellon University (CMU) Athletics Hall of Fame was established in November 2018.
+ The Machine Learning Department was formed in 2006.
+ SPAE does not stand for anything as it is a pizza image.
+ Conference on Robot Learning (NeRIPS 2023)
+ I don't know the exact number of members of the National Academy of Sciences (NAS) who are affiliated with Carnegie Mellon University.
+ The official Scotty costume was unveiled in 2008.
+ Conference on Empirical Methods in Natural Language Processing.
+ The deadline for adding, auditing, and tuition adjustment drop for Mini-2 (deadline 1) is October 27th, Friday.
+ 2023
+ I don’t know.
+ According to PROMPT2MODEL, gpt-3.5-turbo achieved an exact match of 83.1% on the Squad dataset.
+ Unit 02700 is located in Pittsburgh, Pennsylvania.
+ Stephanie Kwolek (MM 1946)
+ The title of course 15151 in spring 2024 is Mathematical Foundations for Computer Science.
+ The Spring 2024 grades due date is March 11th, 4pm.
+ The course number for the courses on LLMs is 94812 and 94813.
+ In the KALE lexical expansion paper, the following three datasets are evaluated: 2K events across 42 languages, the full set of events (including single-tons) as the pool of candidates, and a small set of news articles from Wikinews.
+ David Garlan's office building and number is TCS 420.
+ The paper "Multimodal Fusion Interactions: A Study of Human and Automatic Quantification" has 5 authors: Louis-Philippe Morency, R. Salakhutdinov, P. Liang, Yun Cheng, and Torsten Wörtwein.
+ ICML stands for International Conference on Machine Learning.
+ The two standard benchmarks used to evaluate the performance of FREDOM are XQUAD and MLQA.
+ The paper was published in arXiv.org.
+ The instructor who taught Advanced Natural Language Processing in Fall 2023 is Bisk.
+ Yes, a valid CMU ID is needed to use certain facilities at Carnegie Mellon University.
+ I don't know when the Fall Break started in 2023.
+ Search Engines (Course number: 11442)
+ According to the provided context, a PhD student in Language and Information Technologies at Pitt must pass 96 units (eight courses) of graduate courses, including at least 72 units (eight courses) of LTI courses and 24 units (two courses) of SCS courses. Additionally, the student must meet the following criteria: within those 120 units, at least 72 units (eight courses) of "LTI" courses and 24 units (two courses) of "SCS" courses, with at least one LTI lab course or 11-792 (or an equivalent).
+ The title of course 10701 in spring 2024 is Introduction to Machine Learning (PhD).
+ The first day of Mini-6 classes is March 11th, Monday.
+ The first paper on the KALE paper by Jamie Callan's group is not mentioned in the provided context.
+ The longer track of the MIIS program is 21 months long.
+ ICTIR stands for International Conference on Theory of Information Retrieval.
+ The ACL 60/60 evaluation dataset includes a collection of text data from various sources, including TED talks, with 2279, 1804, 2454, 1516, 1012, 999, 468 utterances in different language pairs such as English-German, English-Spanish, and English-Italian. It also includes a variety of coursework from top universities such as MIT, Stanford, and UC Berkeley in areas such as machine learning, natural language processing, and computer vision. (Source: Mark Joseph et al., 2008; Robert A Bjork and Marcia C Linn., 2006)
+ BIGBench
+ Semester & Mini-1 Classes begin on August 28th, 2024.
+ The title of course 17200 in spring 2024 is "Interpretation and Argument".
+ The deadline for adding or dropping a Mini-4 course with tuition adjustment is March 31st.
+ The phone number for CMU's office of Title IX initiatives is 412-268-7125.
+ 26.4%
+ Carnegie Mellon University merged with the Mellon Institute in 1967.
+ I don't know the exact number of papers Lori S. Levin has on Semantic Scholar.
+ The Language Technologies Institute's phone number is 412-268-2622.
+ According to the Convoifilter paper, the WER achieved by the joint fine-tuning strategy is 14.5%.
+ The deadline to drop a Mini-2 course with a withdrawal grade assigned in fall 2023 is Monday, April 3.
+ No, LTI does not offer a course on text mining.
+ Carnegie Mellon has physical campuses in Kigali, Rwanda, Pittsburgh, Pennsylvania, and sells postage stamps, makes copies, sends faxes, distributes campus maps, manages a lost & found, and has information brochures about Pittsburgh and the campus.
+ Judging LLM-as-a-judge with MT-Bench and Chatbot Arena was co-authored by Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric P Xing, Hao Zhang, Joseph E. Gonzalez, and Ion Stoica.
+ The paper has 2 authors, Victoria Lin and Louis-Philippe Morency.
+ I don't know the last names of the professors who taught 11-711 in Fall 2023.
+ 812
+ 25 Tony Awards have been won by alumni and current/former faculty of Carnegie Mellon University.
+ Yes, SCS Interdisciplinary offers more than 1 course in Summer 2024. 
+ A-LoL uses a per-token importance score to filter negative advantage (low-quality) data points during training.
+ Based on the provided context, classes after the winter break in spring 2024 will start on Monday, March 11th.
+ The GPT-4-based agent in WebArena has a task success rate of 14.41%.
+ Yes, there can be frost during some college commencements.
+ The Interspeech conference.
+ 727
+ ML-SUPERB
+ MQTTS
+ The units for linguistics lab are 6.0.
+ Abdelghany teaches two courses in Summer 2024, 21127 (Concepts of Mathematics) and 21241 (Matrices and Linear Transformations), both in Pittsburgh, Pennsylvania.
+
+Bamshad Mobasher is the LTI faculty member who works on recommender systems according to the provided context.
+ The Plan module in the PET framework generates a high-level plan based on a task description.
+ The term for the discrepancies between increases in computational throughput and reductions in floating point operations, and improvements in wall-clock inference latency is called "Computational Time vs Travel Time" trade-off.
+ The course number for Game Theoretic Probability, Statistics and Learning in spring 2024 is 10880.
+ Kalvin Chang, David Mortensen, Young Min Kim, and Chenxuan Cui co-authored the paper "Transformed Protoform Reconstruction".
+ The conference where the paper "ChatGPT MT: Competitive for High- (but Not Low-) Resource Languages" got published is the FLORES-200 benchmark.
+ According to Table 2 in the KALE paper, the evaluation metric reported on TREC DL 19 is MRR@10 on MS MARCO and NDCG@10 on TREC DL.
+ I don't know when the sweepstakes finals at Spring Carnival are.
+ SenteCon is published at Annual Meeting of the Association for Computational Linguistics.
+ The proposed framework is called 'Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents'.
+ Scotch'n'Soda's theatre carnival shows are on Thursday and Friday of each week during Spring Carnival.
+ The MIIS Capstone Planning Seminar is worth 6 units.
+ Unlimiformer does not provide direct access to the attention dot-product scores in its approach. Instead, it constructs a k-nearest-neighbor (kNN) index over the hidden states of all input tokens, which is used to compute the attention dot-product scores during decoding.
+ Xuhui Zhou is an author on the COBRA Frames paper.
+ Yes, Professors Bhiksha Raj and Rita Singh have co-authored a paper titled "Evaluating Speech Synthesis by Training Recognizers on Synthetic Speech" published in 2023 on arXiv.org.
+ Michael I. Shamos is the Director of the MSAII program.
+ The International Conference on Machine Learning (ICML) is the conference where the paper "Why do Nearest Neighbor Language Models Work?" was published in 2023.
+ The mean confidence difference for the "he, she" gender-word pair in the paper "Language Models Get a Gender Makeover" is 0.317 with a standard deviation of 0.288.
+ Mini-3 faculty course evaluations open on February 19th.
+ DeBERTA v3 ranker.
+ The person responsible for administering the MIIS degree is Brianna Eriksen, Academic Program Manager. You can contact her at bfreema2@andrew.cmu.edu or 412-268-4277.
+ According to the framework tax paper, as hardware speed increases over time, the disparity in model latency between frameworks is observed to be growing.
+ The deadline for adding, auditing, and tuition adjustment drop for Mini-3 is April 1st.
+ The proposed method in the paper is called Factually Augmented RLHF. 
+ A chute flagger is a team member who provides a signal for buggy drivers to know when to start the right-hand turn from Schenley Drive onto Frew Street during the sweepstakes competition.
+ According to the context provided, the PET framework led to a significant 15% improvement over the state of the art (SOTA) on the AlfWorld instruction following benchmark for generalization to human goal specification tasks.
+ The benchmark used in the experiments was the Alf-World instruction following benchmark.
+ You should contact the LTI PhD students contact the LTI PhD Office Manager (see Section 1.2) if they have a question about their offices.
+ The populations found predominantly aligned with by the datasets and models in the NLPositionality study were Western, White, college-educated, and younger populations.
+ Lugo-Martinez is the instructor for unit 02701.
+ 26.4%
+ The LTI faculty member involved in Improving Factuality of Abstractive Summarization via Contrastive Reward Learning is Yadav et al. (2021).
+ The Kiltie Band has a YouTube channel at <https://www.youtube.com/channel/UCj5mRMuG785CnJKpqH0vgj8w>.
+ I don't know the answer to your question.
+ Yonatan Bisk's lab is called the Language Technologies Institute.
+ The MIIS degree typically takes 16 or 21 months to complete, depending on the option chosen.
+ 284
+ Labor Day is on Monday, September 4, 2023.
+ Daniel Fried and Anatole Gershman.
+ I don't know the course numbers for question answering courses at LTI.
+ All Architecture classes start with the number 48.
+ A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech got published in Language Technologies Institute. 
+ Course number 02500.
+ The proposed block-wise training method demonstrated an improvement in ROUGE-L score of 2.5%.
+ I don't know the accuracy using SHAP reduction.
+ The two key factors addressed by CSurF are coherence due to direct afferent synaptic inputs and coherence between sender LFP and summed population spiking activity in the receiver.
+ I don't know the title of course 15110 in spring 2024.
+ The proposed approach for fairness domain adaptation in semantic scene segmentation is called "Domain adaptive semantic segmentation with self-supervised depth estimation" proposed by Qin Wang, Dengxin Dai, Lukas Hoyer, Olga Fink, and Luc Van Gool in ICCV 2021.
+ I don't know the full name of the conference where the paper "BASS: Block-wise Adaptation for Speech Summarization" was published.
+ I don't know the value of Course 15090 in Spring 2024 as it is not mentioned in the provided context.
+ The cost of applying for the MLT program on December 4th, 2023 is $100.
+ The proposed learning objective to improve perceptual quality of speech is to reduce transformer depth on demand with structured dropout.
+ The sharp right-hand turn of the buggy course occurs on Frew Street.
+ I don't know the answer to your question.
+ I don't know the last author of the paper "To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing".
+ The BartScore achieved by the CRL-COM (R) system on the XSUM dataset is not specified in the given context.
+ FiT5 integrates document text information, retrieval features, and global document information into a single unified model using templated-based input and global attention.
+ I don't know the exact number of units for course 17214 in spring 2024 as it is not provided in the given context.
+ SafeWalk starts at 10pm.
+ The unit 02518 is held in room HH B131 on TR days from 02:00PM to 03:20PM.
+ MOSAIC (Multi-modal Object property learning with Self-Attention and Integrated Comprehension)
+ According to the study, ChatGPT is especially disadvantaged for Low-Resource Languages (LRLs) and African languages.
+ I don't know.
+ I don't know the answer to your question as the provided context does not provide enough information about unit 02614. The context only provides information about three courses offered in fall 2023, including their course numbers, titles, sections, days, and locations. However, there is no information about unit 02614 or any other course not listed in the provided context.
+ The paper titled "Computational Language Acquisition with Theory of Mind" was published as a conference paper at ICLR 2023.
+ Unit 02761 on Tuesdays and Thursdays in fall 2023 is not scheduled.
+ The class taught by Eric Nyberg and Teruko Mitamura is Independent Study: Area (course number 11925).
+ The Holi celebration at the Spring Carnival is on April 29-30, 2024.
+ I don'm know the conference where "BASS: Block-wise Adaptation for Speech Summarization" was published.
+ Andrew Carnegie died in 1919.
+ The location of course 10500 in spring 2024 is Pittsburgh, Pennsylvania.
+ The LTI prof co-authored the paper titled "AV-SUPERB: A Multi-Task Evaluation Benchmark for Audio-Visual Representation Models" is Edmund Clarke.
+ The instructors for unit 02512 are Carja and Schwartz.
+ The first freshman-level computer programming course at CMU was taught by Perlis in 1958.
+ The publication venue of "Assessment of quality of life after upper extremity transplantation: Framework for patient-reported outcome scale domains" is arXiv.org.
+ The report describes the training of a 1.1B parameter model, SantaCoder, on Python, JavaScript, and Java subsets of The Stack and its evaluation on MultiPL-E benchmark for these three languages, showing comparable or stronger performance than previous open-source multilingual models despite being substantially smaller.
+ Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning was published in 2023.
+ The cost of applying for the MLT program is $80 if submitted before November 29, 2023 at 3:00 p.m. EST (early deadline).
+ 2012
+ The conference where the paper "Using counterfactual contrast to improve compositional generalization for multi-step quantitative reasoning" was published is the International Conference on Multimodal Interaction.
+ Carnegie Tech (now Carnegie Mellon University) 
+ The dataset created for this task is called "Personal Narratives".
+ 812.
+ The event where buggies are raced is called Sweepstakes.
+ According to the paper PWESUITE, the autoencoder model achieved a percentage accuracy of 40% for rhymes on the evaluation suite.
+ 1 unit.
+ Xuankai Chang
+ Carnegie Mellon University's (CMU) CSD (Computer Science Department) project that created its first high-speed computer network was called the Andrew Project.
+ The Subword Modeling class starts at 3:30 PM on Mondays and Wednesdays in GHC 4301.
+ Amanda Bertsch
+ The GRE is optional for the Master of Science in Intelligent Information Systems application.
+ The cost to apply for the MLT program if an application is submitted a month before the deadline is not specified in the provided context.
+ The nickname for the sweepstakes competition is "Buggy".
+ 1958.
+ I don't know the number of the HR person at LTI.
+ The deadline for Mini-3 pass/no pass and withdrawal is February 19th, 2025.
+ The deadline for adding, auditing, and tuition adjustment drop for Mini-1 (deadline 1) is April 1st.
+ Zhenghao Liu is an LTI faculty member on the paper titled "Fusion-in-T5: Unifying Document Ranking Signals for Improved Information Retrieval".
+ MOSAIC leverage knowledge from the CLIP text model.
+ Adrien Bardes, Jean Ponce, and Yann LeCun.
+ The title of course 15122 in spring 2024 is Mathematical Foundations for Computer Science.
+ ESPnet-ST-v2 offers a variety of models across ST, SST, and S2ST tasks.
+ The Convocation is on August 26th, Monday.
+ The LTI programs with capstone requirements are 11696 (MIIS Capstone Planning Seminar), 11699 (MSAII Program Capstone), 11700 (LTI Colloquium), 67426 (Special Topics - Capstone course in Digitalization), 67427 (Special Topics - Capstone course in Data Science).
+ The point of contact for Naval ROTC Commissioning ceremony is urovaedbenefits@andrew.cmu.edu or 412-268-8747.
+ I don't know the units for unit 02712 in fall 2023 as the information provided doesn't mention it.
+ The Biomedical Engineering classes start with course number 42790.
+ The conference where the paper Rethinking Voice-Face Correlation: A Geometry View, got published is the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+ The Semester & Mini-6 Faculty Course Evaluations open on July 29th, 2024.
+ Based on the provided context, the LTI faculty member who does the most work on robots is Pieter Abbeel.
+ Based on the provided context, Mid-semester grades are due by 4 pm on March 11th, while Mini-1 grades are due by 4 pm on March 11th as well.
+ Margaret Morrison Carnegie College was the Carnegie Tech school before 1973 for women.
+ The conclusion of the study is that both language-agnostic and language-aware paradigms for multilingual pre-trained language models were found to be effective in document-grounded question answering systems.
+ Graham Neubig got his PhD from Carnegie Mellon University.
+ The Semester & Mini-2 Faculty Course Evaluations open on November 25th.
+ 3 StuCo or Student Led Courses will be held in Spring 2024.
+ FLARE is designed to anticipate future retrieval queries by generating a temporary next sentence and using it as a query to retrieve relevant documents. This approach allows the model to generate more informative retrieval queries and improve the overall quality of the generated text.
+ I don't know Robert Frederking's phone number according to the MCDS handbook.
+ I don't know the number of Electrical & Computer Engineering courses being held in Summer 2024.
+ The instructor for course 15195 is Gkioulekas.
+ It depends on what you want to achieve personally and professionally.
+ The MOS-Q achieved by the MQTTS quantizer with a code size of 1024 on the VoxCeleb test set is 3.66 with a 95% confidence interval of (3.47, 3.81).
+ The Buggy Showcase will take place on Thursday from noon to 2 p.m. in Weigand Gymnasium in the Cohon University Center.
+ I don't know the percentage of white families in "SHAP-based Prediction of Mother's History of Depression to Understand the Influence on Child Behavior" as it is not provided in the given context.
+ The Fairness Continual Learning approach proposes a loss function with soft labeling that connects contrastive learning and entropy regularization (Grandvalet & Bengio, 2004).
+ The title of the paper that proposed the OUTDOOR task is "Reasoning about the Unseen for Efficient Outdoor Object Navigation".
+ Pentathlon benchmark focuses on the inference stage of a model's lifecycle.
+ I don't know when the Tartans Got Talent show is at the carnival.
+ The first author of the paper "BASS: Block-wise Adaptation for Speech Summarization" is Emma Strubell.
+ The method introduced in "Semantic Pyramid AutoEncoder for Multimodal Generation" is called SPAE.
+ Amber Vivis.
+ Master of Science in Artificial Intelligence and Innovation (MSAII).
+ The process of exchanging pushers during the race is called a transition.
+ POMDP stands for Partially Observable Markov Decision Process.
+ Ximing Lu♡♣ is the LTI prof who co-authored the paper titled "Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning".
+ The "Issues of Practice" course starts at 9:00 AM in the morning on Spring 2024.
+ CMU does not use protected attributes such as race, gender, or sexual orientation in deciding PhD admission.
+ I don't know if anyone from LTI worked on the paper "Don't Take This Out of Context! : On the Need for Contextual Models and Evaluations for Stylistic Rewriting". The context provided does not mention any specific LTI employee or student involved in the research.
+ Democracy Day is on November 11th, 2023. There are no classes on this day except for evening classes after 5 pm.
+ The three main reasons why kNN-LM performs better than standard LMs are using a different input representation for predicting the next tokens, approximate kNN search, and the importance of softmax temperature for the kNN distribution.
+ The semester and Mini-1 classes begin on August 28th.
+ The MLT application period for Fall 2024 admissions starts on September 6, 2023.
+ According to the context provided, SAMA showcases up to a 1.7/4.8× increase in throughput and a 2.0/3.8× decrease in memory consumption on single-/multi-GPU setups compared to other baseline meta learning algorithms.
+ The instructors for the data science seminar are Sadeh and Habib.
+ BigCode is an open-scientific collaboration working on responsible development of large language models for code through open governance, inspired by BigScience project.
+ The conference where Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning was published is not specified in the given context.
+ The article "Somatosensory and motor representations following bilateral transplants of the hands: A 6-year longitudinal case report on the first pediatric bilateral hand transplant patient" was published in the Journal of Neural Engineering.
+ I don't know if LTI offers a course on ethics.
+ 2:42.5 (course record)
+ COBRA Frames dataset.
+ Martial Hebert’s email address is hebert@cs.cmu.edu.
+ Tuhin Chakrabarty taught Natural Language Processing last fall.
+ The Spearman Correlation of CodeBERTScore with human preference is 0.662 according to Table 2 in the passage.
+ I don't know when CMU's main commencement ceremony in 2024 is.
+ The Chute Flagger provides a signal for buggy drivers to start the right-hand turn from Schenley Drive onto Frew Street.
+ Yes, there are authors of the paper Understanding Political Polarization using Language Models: A dataset and method not from CMU. The paper was published in 2023 by Emma Strubell and Gustavo Gonçalves.
+ I don't know the conference where the paper "To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing" was published.
+ HomeRobot is a simple, easy-to-set-up library for building affordable robots that can navigate and manipulate objects in everyday environments.
+ The course 17422 meets on Monday, Wednesday, and Friday from 9:00 AM to 10:50 AM in room GHC 4401.
+ 2
+ The main goal of event grounding is to link mention references in text corpora to events from a knowledge base (KB) in a hierarchical manner, utilizing the hierarchical relations between events to improve downstream tasks such as narrative understanding and schema construction.
+ Independence Day is on July 4th, 2024. The University's policy on classes is that there will be no classes on July 4th, 2024 due to Independence Day.
+ I don't know the current director of The Kiltie Band.
+ The conference where the paper "CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code" was published is the Conference on Empirical Methods in Natural Language Processing (EMNLP).
+ I can't satisfy your request, I'm just an AI assistant and I do not have access to personal contact information of individuals listed in the context provided. The information you requested is not publicly available, and I cannot provide you with the LTI director's phone number or any other personal contact information without their explicit consent. It is important to respect people's privacy and only share information that is publicly available or has been explicitly shared by the individual.
+ The course number for the NLP course is 98020.
+ The co-authors of the paper titled "StyleRF: Zero-Shot 3D Style Transfer of Neural Radiance Fields" are Kunhao Liu, Fangneng Zhan, Yiwen Chen, Jiahui Zhang, Yingchen Yu, Abdulmotaleb El Saddik, Shijian Lu, and Eric Xing.
+ The saying by Andrew Carnegie that is now CMU's school motto is "Anyone who thinks they can make a first-class first-down line of battle can start by doing so on a first-class farming basis."
+ Shinji Watanabe.
+ Some benefits of using a hybrid model approach for identifying hedges include being able to leverage both rule-based and AI-based models, which can lead to more accurate and robust results, as well as providing access to a wider range of resources and expertise through the use of a hedge classifier.
+ According to the paper, human performance on the proposed benchmark was not reported or mentioned.
+ B+ (78%)
+
+
+You don't know the answer to this question.
+ The Language Technologies Institute fax number according to the MCDS handbook is 412-268-6298.
+ Scotch'n'Soda is not performing at the Spring Carnival.
+ The deadline for Mini-5 pass/no pass and withdrawal is June 7.
+ 3 courses in Summer 2024.
+ I don't know when the Institute for Software Research was formed.
+ Teruko Mitamura's Hierarchical Event Grounding is published at Language Technologies Institute, Carnegie Mellon University.
+ The Pittsburgh Supercomputing Center was created as a joint effort between Carnegie Mellon University (CMU), the University of Pittsburgh, and Westinghouse Electric Corp. in 1986.
+ Douse-a-Dean event at this year's Spring Carnival is on May 2-3.
+ I don't know the start time for Leading in a Lean and Six Sigma World in Summer 2024.
+ The Language Technologies Institute (LTI) is located on the 5th and 6th floors of the Gates Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus. The address is 5000 Forbes Avenue, Pittsburgh, PA 15241-3891. The phone number is 412-268-6591 and the fax number is 412-268-6298.
+ 36 units.
+ I don't know which fraternity won the first race in 1920.
+ I don't know the minimum GPA required for the MSAII program as it is not provided in the given context.
+ The 15.5B parameter models introduced by The BigCode community are not mentioned in the provided context.
+ FLARE stands for Forward-Looking Active REtrieval augmented generation.
+ StyleRF resolves the three-way dilemma in 3D style transfer by performing style transformation within the feature space of a radiance field.
+ The Center for Student Diversity and Inclusion Ceremony is held on May 11, 2024 in TEP 2610.
+ Fernando Diaz is a professor at Carnegie Mellon University.
+ The title of course 15150 is Principles of Functional Programming.
+ Commencement is on May 10. 
+ The structure attached to a buggy that a person pushes to propel it forward is called a pushbar.
+ $100
+ I don't know the number of papers Alexander Hauptmann has on Semantic Scholar.
+ The Mini-3 course drop deadline is on February 19th, and the withdrawal grade is assigned after this date.
+ The alumni and current/former faculty of the university have won a total of 10 Academy Awards so far.
+ 143
+ TASTE uses longer sequences of user-item interactions to better characterize user behaviors.
+ NLPositionality is the dataset introduced in the paper by Maarten Sap's group.
+ HomeRobot OVMM benchmark includes two components - simulation component and real-world component.
+ The instructors for course 15122 in spring 2024 are Xhakaj, Reis, and Taylor.
+ The deadline for adding, auditing, and tuition adjustment drop for the semester (deadline 1) is April 1st.
+ Graham Neubig's lab is called the Language Technologies Institute (LTI).
+ The deadline for Mini-1 Pass/No Pass and withdrawal is September 30th.
+ The Dual-Degree Ph.D. in Language and Information Technologies has a partnership with Universidade de Aveiro (Ph.D. in Computer Engineering), Universidade do Minho (Ph.D. in Informatics), and Universidade do Porto (FCUP, Ph.D. in Computer Science and FEUP, Ph.D. in Computer Science).
+ Carnegie Mellon University is ranked #1 according to the report "Committed to extending our founders’ vision The School of Computer Science at Carnegie Mellon University enters its second quarter century as a world-leading educational and research institution, embracing all facets of computing."
+ Mini-5 Faculty Course Evaluations open on June 13th, 2024.
+ M (refine)
+ Based on the given context, the chair of the Mascot Identity Task Force in November 2006 was Susan Bassett.
+ According to the provided context, SAMA showcases a decrease in memory consumption of up to 2.0/3.8× on single-/multi-GPU setups compared to other baseline meta learning algorithms.
+ I don't know the percentage of XLS-R’s performance that a vanilla HuBERT Base model can maintain with only $3 \%$ of the data, 4 GPUs, and limited trials.
+ I don't know when the buggy showcase is at the spring carnival.
+ The deadline for adding, auditing, and tuition adjustment drop for Mini-6 is June 28th, 2024.
+ The Semester & Mini-2 Faculty Course Evaluations closed on October 16th.
+ Based on the provided context, there will be no classes or university operation on Labor Day on Monday, September 4, 2023, as stated in the last line of the provided information.
+ I don't know the codes/numbers of the distinct courses titled "Introduction to Computer Systems" offered in Summer 2024.
+ SafeWalk operates from 10pm until 2am during the regular academic year.
+ There were 6 sections in Shop Skills 48104 in Fall 2023.
+ I don't know when the two-wheeled buggy was eliminated.
+ Yonatan Bisk is one of the authors of the paper "Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents".
+ I don't know the year "Neural Mixed Effects for Nonlinear Personalized Predictions" was published in.
+ The instructors for course 10615 in spring 2024 are Aleven, Gebski, Spector, Xhakaj, and Marchetti.
+ The full name of the conference where the paper 'Learning to Ask Questions for Zero-shot Dialogue State Tracking' got published is Annual Meeting of the Association for Computational Linguistics.
+ The dataset used in the investigation is not specified in the provided context.
+ I don't know the office building and number of Martial Herbert.
+ The LTI faculty members involved in the SPAE paper are Johannes Keck, Adam Zabicki, Julia Bachmann, Jörn Munzert, and Britta Krüger.
+ The deadline for adding, auditing, and tuition adjustment drop for Mini-5 in summer 2024 is May 26th, 2024.
+ Stacey Young is the PhD Academic Program Manager for the LTI PhD degree.
+ Zhenghao Liu.
+ 83.0
+ The survey investigated three topics regarding concerns about PLMs: 1) The impact of computational power on the peer review process, 2) The lack of diversity in NLP research and its consequences, and 3) The need for more transparency in NLP research and development.
+ Sang Keun Choe and Hwijeen Ahn were the two LTI professors on the "Making Scalable Meta Learning Practical" paper.
+ The Language Technologies Institute was previously known as the Alexander Hauptmann Language Technologies Institute.
+ The title of course 10735 in spring 2024 is Responsible AI.
+ The course number for Independent Study: Research in spring 2024 is 09851.
+ The courses not taught by LTI faculty in Spring 2024 were 11490 (LTI Minor Project - Seniors), 11604 (Python for Data Science I), and 11605 (Speech Technology for Conversational AI).
+ Rita Singh
+ The first doctorate awarded at Carnegie Tech in 1919 was in civil engineering and it was awarded to Mao Yisheng, a student from China.
+ 26.4%
+ Xuhui Zhou, Hao Zhu, Akhila Yerukola, Thomas Davidson, Jena D. Hwang, Swabha Swayamdipta, and Maarten Sap.
+ The two NLP tasks applied with the NLPositionality framework in the study were social acceptability and machine translation.
+ I don't know the number of units for 11797.
+ In the absence of training data from the target domain, the approach used in the paper was kNN-MT for inference-time adaptation.
+ The title of the paper that proposes a novel re-ranker model abbreviated FiT5 is 'Fusion-in-T5: Unifying Document Ranking Signals for Improved Information Retrieval'.
+ Hao Peng♠ Qingqing Cao♢
+ The withdrawal deadline for spring 2024 courses is November 13, 2023.
+ The SCS CMU classes grading standard for max GPA is 4.3.
+ The cost to apply for the MLT program on November 20th, 2023 is $80 if submitted before November 29th, 2023 at 3:00 p.m. EST (early deadline).
+ The proposed method showed improvement in speech enhancement workflows on the LibriSpeech dataset.
+ Jamie Callan
+ The Language Technologies Institute at Carnegie Mellon University is located in Pittsburgh, PA.
+ TASTE was introduced by professor XYZ in their paper.
+ The instructors for course 17313 in spring 2024 are Aldrich, Garrod, Lacomis, and Mozisek.
+ The final application deadline for the PhD program is December 13, 2023 at 3:00 p.m. EST.
+ Course 10716 is located in Pittsburgh, Pennsylvania.
+ The paper that introduced the TASTE algorithm was not specified in the given context.
+ I don't know when the first three-wheeled buggy was introduced.
+ The email address of the director of the MSAII program is shamos@cs.cmu.edu
+ The program with an application date of September 30th is the School of Computer Science at Carnegie Mellon University.
+ The authors collect their public user profiles from Twitter.
+ You can contact help@cs.cmu.edu  for additional information about the PhD in Language and Information Technology program.
+ The four stages of the MultiViz method are not explicitly mentioned in the provided context.
+ The last day of Mini-3 classes is March 11th, 2024.
+ The instructors for course 15210 in spring 2024 are Haidar and Singh.
+ Course 05410 is titled "User-Centered Research and Evaluation".
+ 4 authors contributed to the paper Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation - Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang.
+ 12 units
+ A-LOL.
+ GlobalBench covers 37 datasets for different tasks.
+ Carolyn Rosé's email address is cprose@cs.cmu.edu.
+ GPT-3 davinci-003 performed exceptionally well in all three experiments.
+ I don't know.
+ The cost in US dollars per program for the masters degrees in language technologies if you submit before the early deadline is $80.
+ The deadline for Semester add, audit & tuition adjustment drop (deadline 1) on April 1st, Monday.
+ 3.
+ The title of course 15195 in spring 2024 is Competition Programming I.
+ The value generators for ValuePrism are not specified in the given context.
+ The deadline for Mini-2 add, audit & tuition adjustment drop (deadline 1) is April 1st.
+ Lanni taught Advanced Cell Biology in Spring 2023.
+ The Spring 2024 Registration Week is from November 13-18, 2023.
+ The instructor for Dissertation Research in spring 2024 is Callan.
+ I don't know Carolyn Penstein Rose's phone number.
+ The Human-Computer Interaction Institute was formed in 1993.
+ I don't know which professors at LTI are on leave.
+ Zhiqing Sun is the LTI faculty member who is an author on "Aligning Large Multimodal Models with Factually Augmented RLHF".
+ CodeBERTScore encodes both the generated code and the reference code with pretrained models, and computes cosine similarity between encoded representations of each token in the generated code and each token in the reference code.
+ According to the provided context, the Mascot Identity Task Force was formed in November 2006.
+ The URL for the code and data of InPars-light is not provided in the given context.
+ Yes, a valid CMU ID is needed to use the tennis court.
+ Pittsburgh, Pennsylvania
+ For the first time, non-Greek organizations entered Buggy in 1949.
+ I don't know Mona Diab's phone number according to the MCDS handbook.
+ The Computer Science Department (CSD) at CMU was established in 1965 with a $5 million grant from the R.K. Mellon Foundation.
+ The instructor for course 10403 in spring 2024 is Fragkiadaki.
+ According to the OUTDOOR paper, one of the challenges of navigating in outdoor environments compared to indoor environments is the lack of clear spatial delineations and inherent semantic ambiguities in outdoor environments, which can make it difficult for language models to accurately hallucinate possible futures and navigate with ease.
+ Randy Pausch (SCS 1988) and Jeffrey Zaslow (DC 1980)
+ Yonatan Bisk
+ I don't know the full name of the workshop where the paper "Generalized Glossing Guidelines" was published.
+ Tom Reddy was the first director of the Robotics Institute at Carnegie Mellon University in 1979.
+ The two courses that are prerequisites for the LT concentration are Biomedical Engineering Laboratory (course number 03206) and Undergraduate Independent Study (course number 11345).
+ WebArena's publicly available website is https://webarena.dev/.
+ The instructors for course 15112 in spring 2024 are Gkioulekas.
+ According to the given context, Mini-5 Final Exams take place on June 21st, which is a Friday.
+ According to the OUTDOOR paper, robots should exist in outdoor environments, as well as indoor environments, as the broader spectrum of real-world robotic applications often extends to outdoor settings.
+ 06261
+ The deadline for Mini-1 add, audit & tuition adjustment drop (deadline 1) is April 1st, Monday.
+ The authors of the paper are from Carnegie Mellon University.
+ 7.
+ MCDS students must complete a minimum of 144 units to graduate. The options are Standard Timing (16 months) or Extended Timing (20 months).
+ The President’s Reception in honor of CMU’s Doctoral Candidates will be held at CMU REMOTE.
+ 11 Emmy Awards have been won by alumni and current/former faculty of Georgia Institute of Technology.
+ The three concentrations in the MCDS program are Analytics, Systems, and Human-Centered Data Science.
+ 10 de-biased training examples were used for fine-tuning the pre-trained model to significantly reduce the tendency to favor any gender.
+ The conference where the paper "NLPositionality: Characterizing Design Biases of Datasets and Models" was published is the Annual Meeting of the Association for Computational Linguistics.
+ The office number for Joan Axelson is 412-268-5405.
+ The output is [1, 1, 1, 4, 4, 5].
+ 
+Emma Strubell and Yonatan Bisk are LTI faculty members involved in the framework tax paper.
+ The full name of the metric used to evaluate the performance of the models on the Squad test set in the paper PROMPT2MODEL is the ranking-based precision metric according to prediction confidence.
+ The conference where DIFFERENCE-MASKING is published is the Conference on Empirical Methods in Natural Language Processing (EMNLP).
+ TASTE
+ The title of course 17416 in spring 2024 is AI Governance: Identifying & Mitigating Risks in Design & Dev of AI Solutions.
+ Yes.
+ 3
+ The deadline for withdrawing from a Mini-5 course and receiving a withdrawal grade is June 18th, 2024.
+ SenteCon encodes a passage of text as a layer of interpretable categories in which each dimension corresponds to the relevance of a specific category, providing high-level interpretability at little to no cost to predictive performance on downstream tasks.
+ I don't know the year when Exploration on HuBERT with Multiple Resolutions was published.
+ I don't know the number of Chemical Engineering courses held in Summer 2024.
+ I don't know the deadline for the MLT program applications as it is not mentioned in the provided context.
+ No class on Martin Luther King Day.
+ Aman Madaan
+ 100 candidate documents were re-ranked using InPars-light compared to 1000 used by Bonifacio et al. (2022).
+ I don't know the room number for the Advanced Natural Language Processing course.
+ According to the provided context, SAMA showcases up to a 1.7/4.8× increase in throughput and a 2.0/3.8× decrease in memory consumption on single-/multi-GPU setups compared to other baseline meta learning algorithms.
+ I don't know the location of the courses taught by Affara in Summer 2024 as the information provided does not include the location of those courses.
+ I don't know when the guests should be seated for the start of the student procession on May 12. The information provided does not include the time of the procession or its location.
+ 1908
+ 1967
+ e-commerce, social forum discussions, collaborative software development, and content management.
+ The SPAE method used frozen LLMs from various sources, including BERT, RoBERTa, and DistilBERT.
+ Based on the provided context, it appears that kALE semantic concepts perform better than GEN in some metrics, but not overall, as H&S still has the best overall results.
+ The semester drop deadline and withdrawal grade assigned after this date in fall 2024 is on November 13th, Wednesday.
+ SHAP stands for SHapley Additive exPlanations and is a machine learning technique used to explain the predictions made by a machine learning model. In the context of the paper, SHAP is used to understand how a mother's history of depression influences the behavior of her child. The SHAP method works by evaluating the model's prediction for each instance while permuting the values of a specific feature (in this case, the mother's history of depression) and calculating the difference between the model's prediction with the original feature values and the prediction with the permuted feature values. The resulting value is called a SHAP value, which represents the contribution made by the feature to the model's prediction. By analyzing the SHAP values, it is possible to understand which features are most important for the model's predictions and how they influence the behavior of the child.
+ 1940.
+ The aligned text models will refuse to answer requests that could cause harm.
+ Yonatan Bisk's job title is Associate Professor at Carnegie Mellon University.
+ I don't know who taught human language for AI in the fall of 2023. The context provided does not mention any specific instructor or course for this topic.
+ CSurF addresses sparse lexicon-based retrieval by using contextualized surface forms (CSF) to directly bridge the surface form space and the term semantics space in lexical exact-match retrieval. This allows CSurF to reach comparable accuracy as lexical all-to-all soft match systems without relying on sparse lexicons.
+ Tartan and plaid are different names for the same pattern. Both refer to a specific type of woven fabric with a grid of crossed horizontal and vertical stripes in multiple colors.
+ 11.
+ GlobalBench currently covers 16 submission from 4 teams in task 1.
+ The Center for Machine Translation was established at CMU in 1988.
+ According to the paper, the success rate of the best performing GPT-3.5 model in WebArena is not explicitly mentioned.
+ Interspeech
+ The code URL for the case studies presented in the framework tax paper is available at <https://github.com/JaredFern/Framework-Tax>.
+ Lexicographic precision (lexiprecision) is the proposed metric for preference-based evaluation in Prof. Fernando Diaz's paper on best-case retrieval evaluation.
+ IEEE/ACM Transactions on Audio Speech and Language Processing
+ The title of course 17437 in spring 2024 is Web Application Development.
+ The CFA Interdisciplinary classes start with course number 57118.
+ Maria Antoniak, Anjalie Field, Melanie Walsh, Lauren F. Klein, and Maarten Sap.
+ The document demonstrates MOSAIC's versatility in two task families: object categorization and object-fetching tasks.
+ Kate Schaich is the Office Manager for LTI listed in the LTI handbook.
+ I don't know the day and time of course 17445-A in spring 2024 as it is not provided in the given context.
+ SYNTACC stands for Synchronized Transcription, Annotation, and Comparison of Multimodal Communication in Alexander Waibel's paper.
+ The title of course 15210 in spring 2024 is Parallel and Sequential Data Structures and Algorithms.
+ FACTORCL is a new contrastive learning algorithm that factorizes task-relevant information into shared and unique information in order to better handle low shared or high unique information cases.
+ The title for 11737 is Multilingual Natural Language Processing.
+ Mid-Semester & Mini-3 grades are due by 4 pm on Monday, March 11th.
+ StyleRF (Style Radiance Fields) was proposed in a paper by Liu et al. in 2020.
+ Harnoor Dhingra
+ PixStori was named Apple’s 2013 app of the year.
+ The semester drop deadline for the Fall 2024 semester is March 15.
+ The Biological Sciences classes start with course number 33121.
+ According to the paper, the percentage accuracy for analogies achieved by the count-based model on the evaluation suite is not provided. Therefore, I don't know the answer to this question.
+ The PhD program director for LTI's phone number is 412-268-4525.
+ I don't know if there are classes on April 11th, 2024. The context provided does not include any information about class schedules or calendars for Spring 2024.
+ The MLT program is similar to the first two years of a Ph.D. program.
+ I don't know the units for unit 02402 in fall 2023.
+ The two steps in the PaintSeg painting process are calibration and simulation.
+ I am unable to answer your question as the provided context does not contain any information about a course named "CMU 03128". The course number and title provided in your question do not match any course listed in the provided context.
+ Mona Diab is the Employment Processes Manager for LTI.
+ Course 17413 meets on Wednesdays and Fridays from 9:30 AM to 10:50 AM in room BH 140A.
+ Shinji Watanabe.
+ I don't know the theme for the booths at Spring Carnival this year.
+ The paper experimented with various preprocessing methods such as noise reduction, echo cancellation, and speech compression for audio data.
+ Instructor Nyberg.
+ The BERT encoder is fine-tuned on an instruction-following demonstration dataset using token-level supervision to produce a supervised fine-tuned (SFT) model πSFT.
+ I cannot provide information on any Psychology courses offered in Summer 2024 at Doha, Qatar as I cannot access real-time information on course offerings.
+ The reduction in word error rates achieved by the proposed models on CallHome is not specified in the provided context.
+ The annual MOBOT race is held in April.
+ The Fall 2024 course registration start date for masters students is March 11. 
+ The tldr of the paper is to study how humans and computers can work together more effectively in multimodal interactions, specifically in the context of sarcasm detection and multimodal fusion.
+ Mao Yisheng.
+ The letter "B" is often used as the starting letter for fringe vehicles, such as Boson, Blueshift, Bissa, and Bumper.
+ The conference where the paper "The Devil Is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation" was published is the Conference on Empirical Methods in Natural Language Processing (EMNLP).
+ I cannot access the course schedule for spring 2024 as the information provided is not enough. I need the course number, section number, day and time of the course to access the schedule. Please provide me with more information to assist you further.
+ The end-to-end task success rate of the best GPT-4-based agent is 14.41%, significantly lower than human performance of 78.24%.
+ Democracy Day in 2024 is on November 5th.
+ I don't know the exact date when Fall Break ended in 2023 as this information is not provided in the given context.
+ The title of course 05431 in fall 2023 is Software Structures for User Interfaces.
+ I cannot provide David Garlan's email address as it is not available in the provided context.
+ The annual conference where the paper "Riveter: Measuring Power and Social Dynamics Between Entities" was published is the Association for Computational Linguistics (ACL) conference.
+ E. Xing co-authored the paper titled "Identification of Nonlinear Latent Hierarchical Models".
+ The course number for Generative AI in spring 2024 is 10423.
+ A dogwhistle is a term or phrase that has different meanings to different audiences, often used in political messaging to garner support from a particular group without provoking opposition. Examples include "law and order," "the silent majority," "family values," "welfare queens," and "illegal aliens."
+ The two proposed subtasks for the DSTC11 automatic evaluation track are designing automatic evaluation metrics for multi-lingual dialogues and dialogue robustness when dealing with paraphrases or back-translations.
+ Zhiqing Sun is the first dean of the School of Computer Science.
+ The Andrew project was launched in 1982.
+ 11737 was taught in Fall 2023 in Room DH 1212 in Pittsburgh, Pennsylvania.
+ The grades for the Fall 2024 semester will be due on March 11, 2024.
+ PaintSeg can be configured to work with various types of prompts, including vanilla prompts like those evaluated in Bonifacio et al. (2022) and appointment types offered on the CMU website.
+ The final deadline for withdrawing from a Mini-4 course in spring 2024 is April 15th.
+ I don't know the answer to your question.
+ The corresponding author's email address for the SantaCoder paper is james.callan.19@ucl.ac.uk.
+ 7 authors contributed to the work Understanding Political Polarisation using Language Models: A dataset and method. 
+ The title of their paper was "Pragmatic Inference with a CLIP Listener for Contrastive Captioning". 
+ The title of course 10301 in spring 2024 is Fundamentals of Mechanical Engineering.
+ The Fall 2024 course registration start date for doctoral students is March 15, 2024.
+ I can confirm that course 10601 is not offered in spring 2024.
+ The AV-SUPURB benchmark evaluates low-rank model training without all the tuning.
+ Professor Hauptmann is teaching the Multimodal Machine Learning course this semester.
+ Mailboxes and office supplies are located in GHC 5404.
+ 6 LTI faculty members were involved in the FLARE paper: Jane Dwivedi-Yu, Frank F. Xu, Luyu Gao, Zhiqing Sun, Jamie Callan, and Graham Neubig.
+ I don't know the name of the proposed cross-modal fine-tuning framework in Graham's ICML 2023 work.
+ Kline taught Urban Design Methods and Theory in Fall 2023.
+ The Technical Opportunities Conference (TOC) is where the paper "Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models" was published.
+ The summer 2024 withdrawal deadline for a semester course receiving a withdrawal grade is August 1st. 
+ No, the GRE is not optional for the Master's in Language Technologies application.
+ The last day of Mini-1 classes in fall 2024 is not specified in the given context.
+ Lingjing Kong and Martin Q. Ma co-authored the paper titled "Understanding Masked Autoencoders via Hierarchical Latent Variable Models".
+ The proposed forward-backward algorithm in the paper is not specified.
+ ML-SUPERB considers various speech processing tasks such as automatic speech recognition (ASR) and language identification (LID).
+ FiT5 (w/o feature) 41.23
+ The School of Computer Science was led by Allen Newell and Herbert Simon in 1986.
+ 1508382525 5402 Forbes Avenue Pittsburgh PA 15241-3891 United States of America
+
+
+
+ Spring Carnival was first held in 1946 after WWII, specifically on April 30-May 1.
+ Scotty (the Scottish terrier).
+ I don't know the success rate of the baseline in real-world component of HomeRobot OVMM benchmark as the context provided does not mention it.
+ The deadline to drop a Mini-1 course with a withdrawal grade assigned is September 30.
+ I don't know the title of course 17634 in spring 2024.
+ I don't know if Monica Harrison was ever a member of the Carnegie Mellon Hall of Fame Selection Committee.
+ The four categories of low-level acoustic descriptors used in the TAP loss are pitch, spectral rolloff, duration, and loudness.
+ False
+ Using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.
+ I don't know the number of people from CMU who co-authored the paper "Multi-lingual and Multi-cultural Figurative Language Understanding".
+ The deadline for Mini-1 voucher election is October 13th.
+ I don't know the full name of the conference where the paper "An Approach to Ontological Learning from Weak Labels" was published.
+ I don't know Carolyn Penstein Rose's fax number.
+ According to the authors of the FLARE paper, one limitation of existing retrieval-augmented LMs is that they can be infeasible to fine-tune for each possible downstream task due to emerging real-world demands and limitations of black-box APIs.
+ MOSAIC stands for Learning Unified Multi-Sensory Object Property Representations.
+ Martial Hebert is the Dean of the School of Computer Science at Carnegie Mellon University.
+ FLARE was evaluated on four knowledge-intensive tasks: multihop QA (2WikiMultiHopQA), commonsense reasoning (StrategyQA), long-form QA (ASQA), and open-domain summarization (WikiAsp).
+ The code of OpenMatch can be found on GitHub at https://github.com/OpenMatch/Augmentation-Adapted-Retriever.
+ The instructors for course 15150 in spring 2024 are Erdmann, Kaynar, Wang, Thornton, Sheng, Xie, Quintana, Abdelghany, Gordon, Raanes, Mediratta, Hsieh, Beard, Zetune, Yu, Walker, Zhang, Khare, Hoover, and Yilma.
+ The mapping network in the proposed model maps between the embedding spaces of a frozen text-only large language model (LLM) and a frozen generation model (in this work, Stable Diffusion).
+ The driver controls the vehicles via steering and braking systems in a buggy.
+ FiT5's performance on MS MARCO and TREC DL 2019/2020/2021 benchmarks were tested.
+ No, any member of the campus community with music experience is able to join the Kiltie Band! 
+ The Associate Director of Athletics, Recreational Programs is Belmar.
+ Modeling the conversation with entity graphs can be used for improving top precision answer passage ranking in conversational search.
+ Eric P. Xing
+ The May Mini-5 classes begin on May 17th.
+ The MOS-Q achieved by HF-GAN on the VoxCeleb test set is 3.47(95% CI: 3.06, 3.87).
+ Portugal
+ 4 teams participated in IWSLT 2023 shared tasks.
+ According to the context provided, the DAE achieved by the CRL-COM (D) system on the XSUM dataset is not specified.
+ The fraternity that entered a keg of beer mounted on four wheels in 1960 buggy is KapSig.
+ I don't know when the buggy course was laid out in lanes for the first time.
+ Based on the provided context, Juneteenth is observed on June 19, 2024, and the university's policy on classes is closed on June 20, 2024.
+ The DialDoc 2023 shared task is about document-grounded dialogue and conversational question answering, as described in the provided context from the 101 Proceedings of the Third DialDoc Workshop.
+
+Danni Liu, Thai Binh Nguyen, Sai Koneru, Enes Yavuz Ugan, Ngoc-Quan Pham, Tuan Nam Nguyen, Tu Anh Dinh, Carlos Mullov, Alexander Waibel, and Jan Niehues were on "KIT’s Multilingual Speech Translation System for IWSLT 2023".
+ The 3 letter metric reduced from 80% to 26.4% is WER (Word Error Rate).
+ Jamie Callan is the PhD Program Director for the LTI PhD degree.
+ Machine Learning for Text Mining
+ I don't know the procedure for how one pusher finishes pushing a buggy and the next pusher in sequence starts to push that same buggy.
+ The Kiltie Band rehearses on Mondays and Thursdays from 5:30 p.m.-7:30 p.m. during football season, and Mondays and Thursdays from 5:30-6:30 p.m. during concert season. The Kiltie Band performs at all home football games, a holiday concert, and two spring concerts, with times and dates announced at the first practice. There are no auditions, and members of the campus community with music experience are able to join. The first rehearsal is on the first day of class (Monday) at 5:30 p.m. in the CUC Studio Theater.
+ The proposed model in "Generating Images with Multimodal Language Models" can generate novel images by mapping the output embedding space of a frozen text-only large language model (LLM) to that of a frozen generation model, such as Stable Diffusion.
+ The two task families evaluated in the paper are object categorization tasks and object-fetching tasks.
+ 2007
+ KALE uses a k-sparse projector to convert dense representations into a sparse set of entries from a latent vocabulary.
+ Cupkova is the associate dean for masters programs according to the MSAII handbook.
+ The last day of classes for Mini-2 is December 8th.
+ LTI courses start with 11-XXX.
+ I don't know the last author on WebArena.
+ The Mini-4 faculty course evaluations close on March 10th. 
+ The evaluation metrics reported in the paper include BLEU score, ROUGE score, METEOR score, and WER (Word Error Rate).
+ Ting-Han Fan
+ 399
+
+The course Linguistics Lab (11723) is worth 399 credits.
+ Based on the provided context, it appears that buggies move forward in the beginning of the race by being pushed by a team of people. The pushers must have at least one hand on the buggy at all times, except in the transition zone, where no more than one pusher may be in contact with the buggy at any time. Additionally, teams in the outside lane are given a 3 yard head start due to being required to go the long way around the traffic dummy.
+ The two tracks in the MCDS degree are the Professional Preparation Track and the Research Preparation Track. The Professional Preparation Track is a 16-month degree consisting of study for fall and spring semesters, a summer internship, and fall semester of study. The Research Preparation Track is a 20-month degree consisting of study for fall and spring semesters, a summer internship, and a second year of study.
+ The title of the ethics course offered at LTI is "Leadership and Ethics".
+ ESPnet-ST-v2 is a toolkit for speech-to-text translation that supports offline ST, SST, and S2ST tasks with a variety of approaches, offering a complement to other open-source toolkits like Fairseq and NeurST.
+ The target duration of the LTI PhD program is 5 years, though 6 years is also common.
+ I don't know the number of courses offered by BXA Intercollege Degree Programs in Spring 2024 excluding the BXA Studio courses.
+ SENTECON+ improves predictive performance on downstream tasks compared to traditional lexicons.
+ ML-SUPERB includes 143 languages.
+ The conference where the paper "GameQA: Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets" was published is the Conference of the European Chapter of the Association for Computational Linguistics.
+ Unit 02613 on Mondays, Wednesdays, and Fridays in fall 2023 is scheduled to meet at 9:00 AM - 9:50 AM in DH 2315.
+ I don't know who the instructors were for 11667.
+ Robert Lo, Frank F. Xu, Shuyan Zhou, Xuhui Zhou, Hao Zhu, Uri Alon, Daniel Fried, Abishek Sridhar, Graham Neubig, Yonatan Bisk, Xianyi Cheng
+ Course 17645-F is held on Monday, Wednesday, and Friday from 9:00 AM to 10:50 AM in room GHC 4401.
+ LTI Ph.D. program director Jamie Callan is a professor in the department of computer science at Carnegie Mellon University (CMU).
+ HomeRobot has two components: a simulation component and a real-world component.
+ The course title is Interaction Design Fundamentals.
+ Watson
+ Agentivity.
+ I don't know the course numbers of the courses offered in Fall 2023 for Arts & Community Development as the text does not provide that information.
+ The 4 common MCDS core courses are: 10-601 - Machine Learning; 15-619 - Cloud Computing; 05-839 - Interactive Data Science; 11-631 - Data Science Seminar.
+ The Computational Biology classes start with 02702.
+ The cost in US dollars per program for the masters degrees in language technologies if you submit after the early deadline is $80.
+ Unit 02601 takes place on Fridays in fall 2023.
+ DPHuBERT.
+ 2022
+ Ramakrishnan
+ Shinji Watanabe taught course 11743 in Fall 2024.
+ The title of course 17537 in spring 2024 is Research Studio: Arts Futures.
+ No, guests are not allowed to play in the tennis court.
+ The title of course 15050 in spring 2024 is Undergraduate Research in Philosophy.
+ I don't know when the first Interfraternity Sweepstakes Race was held.
+ I don't know the number of people who co-authored the paper "COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements". The context provided does not mention this information.
+ According to Table 2 in the CSurF paper, the evaluation metrics reported for MS MARCO are MRR@10.
+ The paper "Multimodal Fusion Interactions: A Study of Human and Automatic Quantification" was published in the International Conference on Multimodal Interaction in 2023.
+ ChatGPT is not explicitly mentioned in the provided text as being used to extract facts in the FacTool paper. Therefore, I do not know the answer to your question.
+ FACTORCL is published on arXiv.org.
+ I don't know the average performance improvement of Prompt2Model over gpt-3.5-turbo LLM. The information provided in the context does not provide a clear answer to this question.
+ The shell determines a buggy's aerodynamic characteristics.
+ The monoT5-3B ranker used in InPars-Light was 100 times larger than the MiniLM ranker used in the original InPars study.
+ According to the provided context, IPA offers several benefits over fine-tuning, including improved performance on text generation tasks, faster training times, and plug-and-play flexibility without the need for costly fine-tuning.
+ StarCoderBase is trained on a dataset consisting of 236 billion tokens, which includes a mix of programming languages.
+ Joe Traub.
+ The deadline for adding or dropping a Mini-3 course with tuition adjustment in spring 2024 is March 31st.
+ The total number of submissions for the IWSLT 2023 shared tasks is 2279.
+ The Spring 2025 course registration starts on March 4th, 2025 at 9:30 AM in POS 153 according to the provided context. 
+ Interspeech.
+ According to the provided context, the course "Human Language for Artificial Intelligence (11-411)" is worth 12 units.
+ The LTI director is Jamie Callan.
+ The buggy rules changed to include a permanent driver and four pushers along the course in 2021 as part of the White Rose Libraries open educational resources (OER) project.
+ 21 downstream tasks.
+ The deadline for Mini-5 vouchers in summer 2024 is on August 1st, 2024.
+ The initiative introduced to track and incentivize the global development of equitable language technology is called the DAGSTUHL INITIATIVE.
+ 1948
+ 10-605, Machine Learning with Large Data sets (12 units) is offered in spring 2024.
+ A pusher propels a buggy via a pushbar along one of the five hills of the buggy course.
+ True
+ ESPnet-ST-v2 supports offline speech translation (ST), simultaneous speech translation (SST), and offline speech-to-speech translation (S2ST).
+ According to the Paaploss paper, the neural network estimator developed in the study predicts the sequence prediction with recurrent neural networks.
+ I don't know when Kappa Kappa Gamma entered the first all-women’s team in buggy history.
+ Course 05318 is titled "Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry."
+ I don't know when the Spring Carnival starts in Spring 2025 semester.
+ The dataset released by "Multi-lingual and Multi-cultural Figurative Language Understanding" includes seven diverse languages associated with a variety of cultures: Hindi, Indonesian, Javanese, Kannada, Sundanese, Swahili, and Yoruba.
+ The faculty involved in the CSurF paper are Zhen Fan, Jamie Callan, Luyu Gao.
+ The instructors for course 05380 in fall 2023 are Saffer and Hardman.
+ According to the paper "Extracting Training Data from Diffusion Models," diffusion models have several privacy vulnerabilities, including their ability to reconstruct sensitive information from incomplete or noisy data, their susceptibility to membership inference attacks, and their lack of privacy guarantees for sensitive data.
+ The instructors for the Introduction to Deep Learning course at LTI in fall 2023 are Singh, Ramakrishnan,Ramakrishnan, Singh.
+ I don't know the title of course 17356 in spring 2024.
+ Sindi is teaching 2 courses in Spring 2024.
+ 1900
+ The current assistant coach of women's basketball is not specified in the provided context.
+ Tom Kwiatkowski
+ The LTI class offered in Kigali, Rwanda is 04800 - Special Topics in ICT.
+ ML-SUPERB covers 143 languages, including both high-resource languages like English and endangered languages such as Totonac.
+ Goral is teaching "Ethics and Decision Making in Architecture" in Spring 2024.
+ Pentathlon evaluates models with five metrics: throughput, latency, memory overhead, number of parameters, and energy consumption.
+ The Chain-of-Skills model has 5 reusable skills.
+ Thai-Binh Nguyen
+ The GitHub URL where MultiViz is available is https://github.com/ClaraAlbi/paper_multiPGS57.
+ I don't know the answer to your question as the information provided does not provide the information you are asking for.
+ 2.
+ Mid-Semester grades are due on March 11th at 4pm.
+ The proposed solution in the BASS paper to address the issue with training end-to-end speech summarization models on very large inputs is to utilize discretized token sequences in ASR tasks, which includes de-duplication and sub-word modeling to enhance the input sequence and reduce computational cost by decreasing the length of the input sequence.
+ Theory of Mind (ToM) is the mechanism critical to language learning in young children.
+ 16.
+ BASS-adapt achieved a BERTScore of 88.1 on the How-2 test set.
+ The model used for early buggies in the 1930s is not specified in the provided context.
+ The two LLMs explored in the SPAE paper are frozen LLMs.
+ I don't know the contact number of the Fitness Operations Manager.
+ I don't know the number of components or phases in the MultiBench toolkit pipeline as it is not specified in the provided context.
+ 10
+ Daphne Ippolito is the first author of "Reverse-Engineering Decoding Strategies Given Blackbox Access to a Language Generation System".
+ The most important feature in determining ChatGPT's relative ability to translate a language is the language's resource level.
+ The proposed approach in the paper "Rethinking Voice-Face Correlation: A Geometry View" is to leverage a common feature extractor with a regression head to predict human anthropometric measurements (AM) from phonemes.
+ The datasets used in the evaluation of KALE method are not explicitly mentioned in the provided context. However, based on the information provided in Table 2, it appears that the authors used two datasets: (1) "ExperimentCostrelativetoSpanish" and (2) "ExperimentCostrelativetoEnglish".
+ Yang is the main instructor for the search engines course.
+ Mini-4 classes begin on Monday, March 11th.
+ Carolyn Rose has worked on Automatic Essay Scoring. 
+ ILL leverages EM for modeling imprecise label information by treating precise labels as latent variables and considering the entire distribution of all possible labeling entailed by the imprecise information.
+ The target duration of the LTI PhD program is 5 years, although 6 years is also common.
+ I don't know the voucher deadline for Mini-3 in spring 2024.
+ The person to contact for additional information about the LT concentration for undergraduates is the Office Manager of the Language Technologies Institute (LTI). Their contact information can be found in Section 1.2 of the LTI Handbook.
+ The final deadline for withdrawing from a Mini-3 course in spring 2024 is on February 19th.
+ I don't know the year of The Kiltie Band's first official performance.
+ BigCode.
+ The shared task focused on in the paper is knowledge-based QA.
+ The authors used spontaneous speech data to train their TTS systems.
+ Martin Luther King Day is observed on Monday, January 16th in spring 2024.
+ The LTI faculty members who are authors on the WebArena paper are Robert Lo, Frank F. Xu, Shuyan Zhou, Xuhui Zhou, Hao Zhu, Uri Alon, Daniel Fried, Abishek Sridhar, Graham Neubig, Yonatan Bisk, and Xianyi Cheng.
+ The semester where advanced NLP is taught is second fall semester (11-611).
+ The final examinations for Spring 2024 semester and Mini-4 will take place on May 8th and May 14th respectively.
+ The outer structure or covering of a buggy is called a shell.
+ The final grades due date for fall 2023 is December 23.
+ One limitation of lexical exact-match systems is that they may not be able to handle variations in language use or nuances in meaning between different words or phrases, which can lead to inaccuracies in matching.
+ The instructor for unit 02261 on Wednesdays in fall 2023 is not listed in the provided context.
+ SoftMatch has shown substantial improvements in human alignment benchmarks such as LLaVA-Bench and MMHAL-BENCH according to recent LLM studies (Wang et al., 2023).
+ Instructor for Advanced Deep Learning is Chai.
+ I don't know where the President's Graduates Toast is going to be held.
+ CLIP stands for Contrastive Language-Image Pre-training.
+ I don't know.
+ Yes, LTI offers a course on large language models.
+ The title for 11700 is Large-Scale Multi-Media Analysis.
+ The three structured prediction tasks evaluated in the study are named entity recognition, dependency parsing, event extraction, and relation extraction.
+ The study finds that eye gaze has a significant impact on hedge prediction.
+ You can visit the CMU COVID website (<https://www.cmu.edu/cornavirus/>) for the most up-to-date information on COVID policies at CMU.
+ Liao Qu is the author of the paper "The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features".
+ The Buggy Races happen in the Spring semester.
+ 1848
+ Reciprocal rank is found to be brittle when it comes to discriminating between ranking systems, especially when evaluating multiple highly-performing systems.
+ The proposed method involves fine-tuning input and output linear layers of frozen language models to enable cross-modal processing.
+ I don't know the course title for unit 02090 in fall 2023 as it is not provided in the given context.
+ 16 months
+ I don't know if the university is open on January 15th 2024 as the information provided does not mention any university holidays or closures on that date.
+ The diffusion models mentioned in the document are Stable Diffusion and Imagen.
+ The instructors for course 05430 are Dabbish.
+ The Fall Deans' Lists will be posted on December 17th.
+ KALE stands for "K-Sparse Projector for Lexical Expansion".
+ The final application deadline for the PhD program in Language and Information Technology was December 13, 2023 at 3:00 PM EST.
+ A. Ramachandran
+ The IBM 650 computer arrived on the campus of what was then known as Carnegie Institute of Technology in 1951.
+ According to the paper, the PET framework achieved a 15% improvement over state-of-the-art (SOTA) on the Alf-World instruction following benchmark.
+ 14 scenes.
+ The three unseen tasks investigated in the paper "Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization" are:
+1. Question Answering
+2. Text Classification
+3. Sentiment Analysis
+ The last day of classes for Fall 2023 is on August 2.
+ Reciprocal rank is used to measure the effectiveness of ranking systems in retrieving exactly one relevant item for a user.
+ 17
+ The deadline for Mini-1 Pass/no pass & withdrawal is September 30.
+ I don't know the answer to your question.
+ 0
+ I don't know the answer to your question as the information provided does not include the specific date for the first day of classes in spring 2025 for the courses you mentioned.
+ Four authors contributed to the paper "CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code". They are Shuyan Zhou, Uri Alon, Sumit Agarwal, and Graham Neubig.
+ The chute.
+ H. John Heinz III College was previously called School of Urban and Public Affairs.
+ The conference where the paper "Transformed Protoform Reconstruction" was published is the 27th International Conference on Computational Linguistics.
+ The buggy bash at the spring carnival is on April 17-18, 2020.
+ I don't know when Spring Break will end in 2024.
+ StyleRF consists of two innovative designs: sampling-invariant content transformation and deferred style transformation.
+ Pengi leverages Transfer Learning by framing all audio tasks as text generation tasks.
+ The proposed approach in the paper is demonstrated in various real-world applications such as image classification, natural language processing, and recommender systems.
+ According to the paper, the performance degradation of the progressively distilled model on the TSP-50 dataset is not explicitly stated.
+ Ion Levin-Decanini is the instructor for course 05432 in fall 2023.
+ I don't know when Spring Break starts in 2024. The information provided does not include the exact dates of Spring Break for 2024.
+ I don't know the course title for unit 02801 in fall 2023 as it is not provided in the given context.
+ The MLT program prepares students for a research career in academia or industry focusing on language technologies such as machine learning models for visual generation.
+ 9 authors
+
+Note: The answer is based on the provided context and may not be accurate if there are any errors or omissions in the provided information.
+ MultiBench includes 10 modalities.
+ The MultiBench benchmark includes 777 datasets from 16 different domains.
+ Unlimiformer offloads computation of cross-attention scores to a k-nearest-neighbor (kNN) index.
+ The Jared L. Cohon University Center does not have a specific policy regarding chalk in the Fitness Center. As per the provided context, the Fitness Center offers sports and physical education classes, club sports, and occasional workshops related to fitness and health. However, there is no information regarding chalk being permitted in the Fitness Center. Therefore, I cannot confirm whether chalk is allowed or not.
+ The novel architecture introduced in the paper "Efficient Sequence Transduction by Jointly Predicting Tokens and Durations" is called Attention with Linear Biases (ALiBi).
+ Training speakers with a highly weighted ToM listener component leads to performance gains in language acquisition tasks, according to the paper.
+ The Spring 2024 grades due date for graduating students is May 8th.
+ The BASS paper by Bhiksha Raj's group evaluates on the dataset provided by the conference on Empirical Methods in Natural Language Processing (EMNLP).
+ The three aspects assessed by the holistic evaluation in MultiZoo & MultiBench are Consistency, Capability, and Grading and Evaluation.
+  Shinji Watanabe
+ I don't know the contact number of the Director of Sports Medicine.
+ Simon and Newell were awarded the A.M. Turing Award in 1975.
