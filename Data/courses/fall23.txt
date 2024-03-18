@@ -1,3 +1,4 @@
+@ -1,37560 +0,0 @@
 Fall 2023
 Course number: 48050
 Title: Study Abroad
@@ -37557,4 +37558,3 @@ End:  ,08:20PM
 Room: PH A18A, 
 Locations:  ,Pittsburgh, Pennsylvania
 Instructors: Wang
-

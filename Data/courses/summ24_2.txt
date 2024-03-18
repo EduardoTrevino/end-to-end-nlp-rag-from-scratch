@@ -1,0 +1,948 @@
+@ -1,948 +0,0 @@
+Summer 2024
+Course number: 48731
+Title: Sustainable Design Synthesis Prep
+Units: 1-18
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Summer 2024
+Course number: 60590
+Title: Internship
+Units: 1-9
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Summer 2024
+Course number: 03124
+Title: Modern Biology Laboratory
+Units: 9.0
+Section: U
+Days: MW
+Start: 12:00PM
+End: 02:50PM
+Room: MI SOCIAL
+Locations: Pittsburgh, Pennsylvania
+Instructors: Doonan
+
+Summer 2024
+Course number: 03132
+Title: Basic Science to Modern Medicine
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 02:00PM
+End: 03:20PM
+Room: WEH 5202
+Locations: Pittsburgh, Pennsylvania
+Instructors: Mccartney
+
+Summer 2024
+Course number: 03133
+Title: Neurobiology of Disease
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 11:00AM
+End: 12:20PM
+Room: DH 1211
+Locations: Pittsburgh, Pennsylvania
+Instructors: Brasier
+
+Summer 2024
+Course number: 03210
+Title: Independent Study
+Units: 1-12
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Willard
+
+Summer 2024
+Course number: 03232
+Title: Biochemistry I
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 12:30PM
+End: 01:50PM
+Room: WEH 4709
+Locations: Pittsburgh, Pennsylvania
+Instructors: Rule
+
+Summer 2024
+Course number: 03445
+Title: Undergraduate Research
+Units: 1-18
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Willard
+
+Summer 2024
+Course number: 47995
+Title: Graduate Reading & Research
+Units: 12,36
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Rapp
+
+Summer 2024
+Course number: 47998
+Title: Tepper PhD Internship
+Units: 3-36
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Summer 2024
+Course number: 70122
+Title: Introduction to Accounting:
+Units: 9.0
+Section:  ,U
+Days:  ,MTWRF
+Start: 09:30AM, 
+End: 10:50AM, 
+Room:  ,TEP 2612
+Locations:  ,Pittsburgh, Pennsylvania
+Instructors: Wang
+
+Summer 2024
+Course number: 09050
+Title: Study Abroad
+Units: 0.0
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Stump
+
+Summer 2024
+Course number: 09105
+Title: Introduction to Modern Chemistry I
+Units: 10.0
+Section: U
+Days: MTWRF
+Start: 11:00AM
+End: 12:20PM
+Room: DH 2302
+Locations: Pittsburgh, Pennsylvania
+Instructors: Sherwood
+
+Summer 2024
+Course number: 09218
+Title: Organic Chemistry II
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 11:00AM
+End: 12:20PM
+Room: DH 1112
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Summer 2024
+Course number: 09435
+Title: Independent Study Chemistry
+Units: 1.0 - 12.0
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Stump
+
+Summer 2024
+Course number: 09445
+Title: Undergraduate Research
+Units: 3-18
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Stump
+
+Summer 2024
+Course number: 09861
+Title: Chemical Research
+Units: 0-99
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Noonan
+
+Summer 2024
+Course number: 09871
+Title: Doctoral Dissertation
+Units: 5.0
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Noonan
+
+Summer 2024
+Course number: 09990
+Title: Internship:
+Units: 0-99
+Section:  ,U
+Days: TBA, 
+Start: , 
+End: , 
+Room: TBA, 
+Locations:  ,Pittsburgh, Pennsylvania
+Instructors: Instructor TBA,Noonan
+
+Summer 2024
+Course number: 15112
+Title: Fundamentals of Programming and Computer Science
+Units: 12.0
+Section: U
+Days: MTWRF
+Start: 11:00AM
+End: 12:20PM
+Room: SH 105
+Locations: Pittsburgh, Pennsylvania
+Instructors: Sands
+
+Summer 2024
+Course number: 15122
+Title: Principles of Imperative Computation
+Units: 12.0
+Section: V,U
+Days: MTWRF
+Start: 09:30AM
+End: 10:50AM
+Room: TEP 1403
+Locations: Pittsburgh, Pennsylvania
+Instructors: Kohlbrenner
+
+Summer 2024
+Course number: 54495
+Title: Internship
+Units: 9-36
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Summer 2024
+Course number: 18990
+Title: Reading and Research
+Units: 0-48
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Bain
+
+Summer 2024
+Course number: 19798
+Title: Reading and Research: Thesis Research
+Units: 5,18,36
+Section: U
+Days: TBA,MTWRF
+Start: ,09:30AM
+End: ,10:50AM
+Room: TBA,PH A18A
+Locations: Pittsburgh, Pennsylvania
+Instructors: Dieterich,Matthews, Muller
+
+Summer 2024
+Course number: 76221
+Title: Books You Should Have Read By Now
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 09:30AM
+End: 10:50AM
+Room: PH 126A
+Locations: Pittsburgh, Pennsylvania
+Instructors: Jo
+
+Summer 2024
+Course number: 76245
+Title: Shakespeare: Tragedies & Histories
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 03:30PM
+End: 04:50PM
+Room: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+Instructors: Wittek
+
+Summer 2024
+Course number: 76270
+Title: Writing for the Professions
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 12:30PM
+End: 01:50PM
+Room: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+Instructors: George
+
+Summer 2024
+Course number: 76706
+Title: Editing and Publishing
+Units: 9-12
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Summer 2024
+Course number: 76707
+Title: Independent Study in Professional Writing
+Units: 3-18
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Summer 2024
+Course number: 79150
+Title: Medieval Science, Magic, and Wonders of Nature
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 09:30AM
+End: 10:50AM
+Room: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+Instructors: Garnhart-bushakra
+
+Summer 2024
+Course number: 79155
+Title: Introduction to African American Studies
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 12:30PM
+End: 01:50PM
+Room: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+Instructors: Hingorani
+
+Summer 2024
+Course number: 79172
+Title: Race, Caste, Class, and Difference in the United States and India
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 03:30PM
+End: 04:50PM
+Room: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+Instructors: Hingorani
+
+Summer 2024
+Course number: 79491
+Title: Independent Study
+Units: 3-18
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Summer 2024
+Course number: 05684
+Title: METALS Capstone II Part II
+Units: 24.0
+Section: U
+Days: W
+Start: 03:30PM
+End: 05:20PM
+Room: CMU REMOTE
+Locations: Pittsburgh, Pennsylvania
+Instructors: McLaren, Koedinger
+
+Summer 2024
+Course number: 11936
+Title: PhD Internship
+Units: VAR
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Summer 2024
+Course number: 21127
+Title: Concepts of Mathematics
+Units: 12.0
+Section: U
+Days: MTWRF
+Start: 11:00AM
+End: 12:20PM
+Room: DH 1212
+Locations: Pittsburgh, Pennsylvania
+Instructors: Resende
+
+Summer 2024
+Course number: 21241
+Title: Matrices and Linear Transformations
+Units: 12.0
+Section: U
+Days: MTWRF
+Start: 12:30PM
+End: 01:50PM
+Room: HH B103
+Locations: Pittsburgh, Pennsylvania
+Instructors: Koganemaru
+
+Summer 2024
+Course number: 21599
+Title: Undergraduate Reading and Research
+Units: 0-99
+Section: V,U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Summer 2024
+Course number: 24392
+Title: Mechancial Engineering Project
+Units: 3-18
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Hertz
+
+Summer 2024
+Course number: 24491
+Title: Department Research Honors
+Units: 3-24
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Hertz
+
+Summer 2024
+Course number: 24492
+Title: Department Research Honors
+Units: 3-24
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Hertz
+
+Summer 2024
+Course number: 24796
+Title: Graduate Reading and Research
+Units: 0-99
+Section: R
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Hertz
+
+Summer 2024
+Course number: 82114
+Title: Arabic for Global Exchange Online
+Units: 6.0
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Al Masaeed
+
+Summer 2024
+Course number: 82133
+Title: Elementary Chinese Online I
+Units: 12.0
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Wu
+
+Summer 2024
+Course number: 82134
+Title: Elementary Chinese Online II
+Units: 12.0
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Wu
+
+Summer 2024
+Course number: 82139
+Title: Chinese Language, Culture and Society
+Units: 9.0
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Wu
+
+Summer 2024
+Course number: 82143
+Title: Elementary Spanish I Online
+Units: 12.0
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Tardio
+
+Summer 2024
+Course number: 82144
+Title: Elementary Spanish II Online
+Units: 12.0
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Tardio
+
+Summer 2024
+Course number: 82171
+Title: Elementary Japanese I
+Units: 12.0
+Section: U
+Days: MTWRF
+Start: 09:30AM
+End: 10:50AM
+Room: PH A19A
+Locations: Pittsburgh, Pennsylvania
+Instructors: Yasuhara
+
+Summer 2024
+Course number: 82183
+Title: AI for Humanities: The Multi-dimensions of World Languages, Arts, and Cultures
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 09:30AM
+End: 10:50AM
+Room: PH 225B
+Locations: Pittsburgh, Pennsylvania
+Instructors: Su, Zhao
+
+Summer 2024
+Course number: 82269
+Title: Immersive Digital Storytelling:Using VR/AR to Explore, Language Culture Identity
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 11:00AM
+End: 12:20PM
+Room: TEP 1024
+Locations: Pittsburgh, Pennsylvania
+Instructors: DeYoung, Liu, Caspar
+
+Summer 2024
+Course number: 82278
+Title: Japanese Film and Literature: The Art of Storytelling
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 11:00AM
+End: 12:20PM
+Room: PH A21
+Locations: Pittsburgh, Pennsylvania
+Instructors: Yasuhara
+
+Summer 2024
+Course number: 82279
+Title: Anime - Visual Interplay between Japan and the World
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 12:30PM
+End: 01:50PM
+Room: PH A21
+Locations: Pittsburgh, Pennsylvania
+Instructors: Yasuhara
+
+Summer 2024
+Course number: 82789
+Title: Guided Research
+Units: 3-36
+Section:  ,U
+Days: TBA,MW
+Start: ,06:30PM
+End: ,07:50PM
+Room: CFA A6,DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA, 
+
+Summer 2024
+Course number: 57342
+Title: Sound Recording Workshop
+Units: 6.0
+Section: U
+Days: MW
+Start: 06:30PM
+End: 07:50PM
+Room: CFA A6
+Locations: Pittsburgh, Pennsylvania
+Instructors: Sullivan, Tchetchko
+
+Summer 2024
+Course number: 57857
+Title: Dalcroze Eurhythmics Workshop
+Units: 3-36
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Young, Shields, Neely
+
+Summer 2024
+Course number: 57858
+Title: Dalcroze Eurhythmics Workshop
+Units: 3-36
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Young, Neely
+
+Summer 2024
+Course number: 57859
+Title: Dalcroze Eurhythmics Workshop
+Units: 3-36
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Neely, Young
+
+Summer 2024
+Course number: 57878
+Title: Dalcroze Eurhythmics Workshop
+Units: 3-36
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Young, Neely, Shields
+
+Summer 2024
+Course number: 57879
+Title: Dalcroze Eurhythmics Workshop
+Units: 3-36
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Young, Neely, Shields
+
+Summer 2024
+Course number: 57880
+Title: Dalcroze Eurhythmics Workshop
+Units: 3-36
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Neely, Young, Shields
+
+Summer 2024
+Course number: 57939
+Title: Dalcroze Eurhythmics Workshop
+Units: 3-36
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Summer 2024
+Course number: 80130
+Title: Introduction to Ethics
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 11:00AM
+End: 12:20PM
+Room: PH A19A
+Locations: Pittsburgh, Pennsylvania
+Instructors: Pasetes
+
+Summer 2024
+Course number: 80211
+Title: Logic and Mathematical Inquiry
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 02:00PM
+End: 03:20PM
+Room: PH A21
+Locations: Pittsburgh, Pennsylvania
+Instructors: Hua
+
+Summer 2024
+Course number: 80212
+Title: Arguments and Logical Analysis
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 03:30PM
+End: 04:50PM
+Room: PH 126A
+Locations: Pittsburgh, Pennsylvania
+Instructors: Sink
+
+Summer 2024
+Course number: 80495
+Title: Independent Study
+Units: 3,6,9,12
+Section: U
+Days: TBA,MTWRF
+Start: ,02:00PM
+End: ,03:20PM
+Room: TBA,HH B103
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA,Turnshek
+
+Summer 2024
+Course number: 33141
+Title: Physics I for Engineering Students:
+Units: 12.0
+Section:  ,U
+Days:  ,MTWRF
+Start: 12:30PM, 
+End:  ,02:50PM
+Room:  ,WEH 4623
+Locations:  ,Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Summer 2024
+Course number: 33142
+Title: Physics II for Engineering and Physics Students:
+Units: 12.0
+Section:  ,U
+Days:  ,MTWRF
+Start:  ,02:00PM
+End:  ,04:20PM
+Room:  ,CMU REMOTE
+Locations:  ,Pittsburgh, Pennsylvania
+Instructors: Klein
+
+Summer 2024
+Course number: 33997
+Title: Graduate Laboratory
+Units: 1-36
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Deserno
+
+Summer 2024
+Course number: 85241
+Title: Social Psychology:
+Units: 9.0
+Section:  ,U
+Days:  ,MTWRF
+Start:  ,02:00PM
+End:  ,03:20PM
+Room:  ,BH A36
+Locations:  ,Pittsburgh, Pennsylvania
+Instructors: Cox-Boyd
+
+Summer 2024
+Course number: 85482
+Title: Internship in Psychology
+Units: 3-12
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Thiessen
+
+Summer 2024
+Course number: 85505
+Title: Readings In Psychology
+Units: 3-12
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Oppenheimer
+
+Summer 2024
+Course number: 85781
+Title: Graduate Reading and Research
+Units: 0-99
+Section: W,V,U
+Days: TBA
+Start: 
+End: 
+Room: TBA,DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Downs,Instructor TBA
+
+Summer 2024
+Course number: 88505
+Title: Undergraduate Internship
+Units: 1-9
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Angermeier
+
+Summer 2024
+Course number: 17993
+Title: Societal Computing Graduate Reading and Research:
+Units: VAR
+Section:  ,U
+Days: TBA, 
+Start: , 
+End: , 
+Room:  ,DNM DNM
+Locations:  ,Pittsburgh, Pennsylvania
+Instructors: Christin
+
+Summer 2024
+Course number: 17997
+Title: Graduate Reading and Research
+Units: 1-48
+Section: U
+Days: TBA
+Start: 
+End: 
+Room: TBA
+Locations: Pittsburgh, Pennsylvania
+Instructors: Kaestner
+
+Summer 2024
+Course number: 36202
+Title: Methods for Statistics & Data Science
+Units: 9.0
+Section: U
+Days: MWF
+Start: 11:00AM
+End: 12:20PM
+Room: BH A36
+Locations: Pittsburgh, Pennsylvania
+Instructors: Weinberg
+
+Summer 2024
+Course number: 36226
+Title: Introduction to Statistical Inference
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 11:00AM
+End: 12:20PM
+Room: WEH 5415
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Summer 2024
+Course number: 36350
+Title: Statistical Computing
+Units: 9.0
+Section: U
+Days: MTWRF
+Start: 02:00PM
+End: 03:20PM
+Room: PH 226C
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA

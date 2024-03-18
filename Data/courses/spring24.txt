@@ -1,3 +1,4 @@
+@ -1,37908 +0,0 @@
 Spring 2024
 Course number: 48105
 Title: Architecture Design Studio: Poiesis Studio 2
@@ -37905,4 +37906,3 @@ End: 08:20PM
 Room: WEH 5320
 Locations: Pittsburgh, Pennsylvania
 Instructors: Moker
-

@@ -1,8 +1,0 @@
-rank_bm25
-langchain
-langchain-community 
-langchainhub
-gpt4all
-chromadb
-llama-cpp-python
-sentence-transformers
