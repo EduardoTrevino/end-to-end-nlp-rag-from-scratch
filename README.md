@@ -20,6 +20,8 @@ Most files were run in colab or locally (a mix). So the dependencies may be scat
 ## Link to our vectordbs
 
 
+
+
 <!-- Upload only 3 files to colab (or whatever setup you are using)
 
 1. RAG.py
