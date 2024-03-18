@@ -479,8 +479,10 @@ def main():
 
 
     docs = os.listdir("docs/")
-
-
+    vals = [int(i[1:-4]) for i in docs]
+    together = [(vals[i], docs[i]) for i in range(len(docs))]
+    together = sorted(together, key=lambda x:x[0])
+    docs = [i for _, i in together]
     
 
 
