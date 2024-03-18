@@ -530,6 +530,12 @@ def main():
     #                 prompt_text = f.read()
     #                 prompts.append(prompt_text)
     # finalPrompts = prompts
+
+
+    out_file = "output.txt"
+    f = open(out_file, "w")
+    f.close()
+
     for x in range(len(docs)//20):
 
         prompts = []
@@ -581,9 +587,6 @@ def main():
 
 
 
-        out_file = "output.txt"
-        f = open(out_file, "w")
-        f.close()
 
 
         for i in encoded_prompts:
