@@ -1,3 +1,4 @@
+@ -1,948 +0,0 @@
 Summer 2024
 Course number: 48731
 Title: Sustainable Design Synthesis Prep
@@ -945,4 +946,3 @@ End: 03:20PM
 Room: PH 226C
 Locations: Pittsburgh, Pennsylvania
 Instructors: Instructor TBA
-
