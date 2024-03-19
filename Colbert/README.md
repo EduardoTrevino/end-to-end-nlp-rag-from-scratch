@@ -56,7 +56,7 @@ Before you begin, ensure you have the following:
     ```python
     from ragatouille import RAGPretrainedModel
 
-    path_to_index = "Ed/PretrainedColbertV2"
+    path_to_index = ".ragatouille/colbert/indexes/PretrainedColbertV2"
     RAG = RAGPretrainedModel.from_index(path_to_index)
     ```
     Or Upload innex to HF and from huggingface (This example is pulling a colbert fine-tune we made and available but not the one used in the report.)
