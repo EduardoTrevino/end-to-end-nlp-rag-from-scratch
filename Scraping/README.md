@@ -1,4 +1,4 @@
-# **WebScholar Scraper for CMU Faculty Papers**
+# **All of our Scrapers for CMU Data**
 ## **Overview**
 This project comprises a Python script (**'webScholar_scraper.ipynb'** or .py) designed to scrape open-access papers from CMU faculty members affiliated with the Language Technologies Institute (LTI) for the year 2023. The scraper fetches metadata including the title, abstract, authors, publication venue, year, and a brief summary (TLDR) of each paper.
 
