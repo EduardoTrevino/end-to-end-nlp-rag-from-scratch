@@ -1,0 +1,27 @@
+Question: In which conference was HomeRobot published?
+
+Context: Paper title: 'HomeRobot: Open-Vocabulary Mobile Manipulation' Published year: 2023 Publication venue or conference: Conference on Robot Learning Authors: Théophile Gervet, Sriram Yenamandra, Alexander Clegg, John Turner, M. Savva, Devendra Singh Chaplot, Chris Paxton, Mukul Khanna, A. Ramachandran, Roozbeh Mottaghi, Austin S. Wang, Angel X. Chang, Vidhi Jain, Z. Kira, Yonatan Bisk, Dhruv Batra, Tsung-Yen Yang, Karmesh Yadav Summary: The HomeRobot OVMM benchmark is introduced, where an agent
+yearly to assess progress on this challenging problem. Real-world benchmarking will be run as a part of the NeurIPS 2023 HomeRobot OVMM competition [23].
+4 The HomeRobot Library
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+6.3 Conference Travel Funding  ........................................................................................... 28
+
+6.4 Office of the Dean of Students Emergency Support Funding  ....................................... 28
+
+6.5 Health Insurance  .......................................................................................................... 28
+
+6.6 Emergency Loans  .......................................................................................................... 29
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+
+
+Answer: 

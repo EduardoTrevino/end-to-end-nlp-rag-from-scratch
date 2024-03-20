@@ -1,0 +1,23 @@
+Question: What do the KALE vocabulary semantic concepts perform better than?
+
+Context: Results show GEN performs overall better than D&A, but without surpassing H&S, which has the best overall results. Some conﬁgurations of GEN surpass H&S in some metrics (highlighted), but all together GEN does not surpass H&S. We can also observe that semantic metrics are less prone to distinguish the systems as lexical ones.
+
+14
+
+Running Title for Header
+next-word prediction. In this paper, we set out to understand why retrieval-augmented language models, and speciﬁcally why k-nearest neighbor language models (kNN-LMs) perform better than standard parametric LMs, even when the k-nearest neighbor component retrieves examples from the same training set that the LM was originally trained on. To this end, we perform a careful analysis of the various dimensions over which kNN-LM diverges from standard LMs, and investigate these dimensions one by
+We observe that when using only RGB-segments (with- out depth) for object-region estimates, there exists an inter- mediate value along the range of ks ∈ {25, 50, 100} where the semantic segmentation performance peaks. This trend empirically validates our intuition for choosing the best ks as discussed in Section 3.1. In fact, too small a value can be highly undesirable as it can lead to worse results (52.1 mIoU) than even the base method (52.8 mIoU). It is how- ever, interesting to note that
+Requirements: Students interested in the language technologies minor must complete our prerequisite courses with an average grade of B (3.0) or better before applying to the program. (Students who do not meet this average must submit a letter of explanation along with their application.) Prerequisites include: - Principles of Imperative Computation (15-122) - Principles of Functional Programming (15-150)
+22. Language learning software, 2010 Learning a second language has always been challenging, but a CMU spinoff called Duolingo is proving that it doesn’t have to be expensive. Duolingo has developed language tutoring software that enables users to learn Spanish, English, Italian, German, Portuguese or French for free through its website and mobile apps. In the process, Duolingo users are helping to translate the Web.
+not be supported by our other services. Weekly appointments give students the
+
+opportunity to interact regularly with the s ame tutor to facilitate  deeper understanding 47
+
+of concepts. Students can register online thro ugh the Student Academic Success website.
+
+Academic Coaching: Academic Coaching provides holistic one-on-one peer support and
+
+group workshops to help stu dents find and implement their conditions for success. We
+
+
+Answer: 

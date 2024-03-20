@@ -1,0 +1,172 @@
+Question: According to the paper PROMPT2MODEL: Generating Deployable Models from Natural Language Instructions, what is the exact match achieved by gpt-3.5-turbo on the Squad dataset?
+
+Context: the alignment-based matching to relevant labels may not be sufﬁciently effective. A natural rem- edy is to elaborate the input with a pre-trained GPT model to generate multiple pieces of texts. Speciﬁcally, we use a simple human instruction, "Elaborate the text with a few sentences," to guide the instruction-tuned GPT model, such as Alpaca- 7B (Taori et al., 2023), in generating probable ex- pansions and continuations of the text. Our sys- tem treats the concatenation of the input text and each
+2 GPT-3 is one of most famous autoregressive English language models released. It was released by OpenAI in June 2020, after 355 compute years of training (on a V100). It consists of 175 billion param- eters and is particularly good at generating coherent and creative text. 3 Note how this is orthogonal to Gold (1967), arguing that grammar cannot be acquired from raw text: Even if language was subregular and learnable in the limit, meaning would not necessarily be learnable. Similarly, Gold
+[40] L. Ouyang, J. Wu, X. Jiang, D. Almeida, C. L. Wainwright, P. Mishkin, C. Zhang, S. Agarwal, K. Slama, A. Ray, J. Schulman, J. Hilton, et al., “Training language models to follow instructions with human feedback,” in Int. Conf. Neural Inf. Process. Syst., vol. 35, 2022, pp. 27 730–27 744. [41] A. Madaan, N. Tandon, P. Clark, and Y. Yang, “Memory-assisted prompt editing to improve GPT-3 after deployment,” in Conf. Emp. Meth. Nat. Lang. Proc., 2022, pp. 2833–2861.
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Fall 2023
+
+Course number: 94886
+
+Title: Advances in Robotic Process Automation
+
+Units: 6.0
+
+Section: A2
+
+Days: R
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Morrow, Honig
+
+Fall 2023
+
+Course number: 94889
+
+Title: Machine Learning for Public Policy Lab
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: W,TR
+
+Start: 05:00PM,06:30PM
+
+End: 08:10PM,06:20PM
+
+Room: HBH 1006,HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ghani
+
+Fall 2023
+Course number: 17445
+
+Title: Machine Learning in Production:
+
+Units: 12.0
+
+Section: A,E,B,F,G,C,D,Lec,
+
+Days:  ,F,MW
+
+Start: 09:30AM, ,11:00AM,02:00PM
+
+End: 10:50AM, ,12:20PM,03:20PM
+
+Room: WEH 5310,PH 226C,PH A22,GHC 4215,CMU REMOTE, ,PH 100,WEH 4709
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Kaestner, Le Goues,Le Goues, Kaestner
+
+Spring 2024
+
+Course number: 17514
+
+Title: Principles of Software Construction: Objects, Design, and Concurrency
+
+Units: 12.0
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+10-708, Probabilistic Graphical Models
+
+16-720, Computer Vision
+
+17-631 Information Security, Privacy & Policy
+
+17-781, Mobile and IoT Computing Services
+
+4.4.1 Breadth Courses:  Human Language
+
+11-611, Natural Language Processing
+
+11-624, Human Language for Artificial Intelligence
+
+11-711, Advanced NLP
+
+11-722, Grammar Formalisms
+
+11-724, Human Language for Artificial Intelligence
+
+11-727, Computational Semantics for NLP
+
+11-737, Multilingual NLP
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+
+
+Answer: 

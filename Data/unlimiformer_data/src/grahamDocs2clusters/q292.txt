@@ -1,0 +1,11 @@
+Question: What does FLARE stand for?
+
+Context: FLARE is applicable to any existing LMs at inference time without additional training. Con-
+long texts, where continually gathering in- formation throughout generation is essential. In this work, we provide a generalized view of ac- tive retrieval augmented generation, methods that actively decide when and what to retrieve across the course of the generation. We propose Forward-Looking Active REtrieval augmented generation (FLARE), a generic method which iteratively uses a prediction of the upcoming sentence to anticipate future content, which is then utilized as a query to retrieve
+Figure 1: An illustration of forward-looking active retrieval augmented generation (FLARE). Starting with the user input x and initial retrieval results Dx, FLARE iteratively generates a temporary next sentence (shown in gray italic) and check whether it contains low-probability tokens (indicated with underline). If so (step 2 and 3), the system retrieves relevant documents and regenerates the sentence.
+retaliation any individual who makes a good faith report of a suspected violation of any applicable law or regulation, university Policy or procedure, any contractual obligation of the university, and any report made pursuant to the Carnegie Mellon University Code of Business Ethics and Conduct.
+might look like.
+that program.
+
+
+Answer: 

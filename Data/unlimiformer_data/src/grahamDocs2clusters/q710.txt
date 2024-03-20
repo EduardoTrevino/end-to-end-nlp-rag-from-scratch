@@ -1,0 +1,111 @@
+Question: Where is the President's Graduates Toast for bachelor's students going to be held?
+
+Context: Generate a yes or no answer to the following question. Question: Is it common to see frost during some college commencements? Answer: College commencement ceremonies can happen in December, May, and June. December is in the winter, so there can be frost. Thus, there could be frost at some commencements. So the final answer is yes.
+Course number: 57897
+
+Title: Graduate Recital (Voice)
+
+Units: 1.0
+
+Section: B4,D4,A4,C4,E4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Spring 2024
+
+Course number: 57898
+
+Title: Graduate Recital:
+
+Units: 1.0
+
+Section: E,IA,AC,OA,VD,NA,JA, ,FB,PB,VA,C,DD,AB,S,FA,KA,B,MC,T,MA,OB,VE,H,JB,L,NB,PC,IB,AA,PA,Q,R,DC,G,KB,VC,DB,VB,DA,MB
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+End:  ,06:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Moura
+
+Fall 2023
+
+Course number: 18980
+
+Title: M.S. Graduate Project, Course Option I or Project Option Phase I
+
+Units: 0-48
+
+Section: A,RB,SV,RW
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Fall 2023
+
+Course number: 18981
+
+Title: M.S. Graduate Project, Course Option II
+
+Units: VAR
+
+Section: A,SV,RW
+
+Days: TBA
+
+Start:
+
+End:
+LTI Ph.D.  Graduate Student Handbook  Page 38
+
+6.13 Dining
+
+www.cmu.edu/dining/
+
+Dining services and operations are offered through the Office of Housing and Dining Services. The
+
+office operates dining locations open in and around campus. These  locations offer flexible hours
+
+with options from the early morning through late night. The Dining Service website contains
+
+information about dining locations, hours of operation, graduate student dining plans forms,
+6.14 Dining Dining services and operations are offered through the Office of Housing and Dining Services. The office operates dining locations open around campus in academic buildings, Hunt Library and the University Center. These locations offer flexible hours with options from the early morning through late night. The Dining Service website contains information about dining locations, hours of operation, graduate student dining plans forms, nutritional information, and weekly menus for dining
+The office operates  dining locations open around campus  in academic buildings, Hunt Library ,
+
+and the University Center. These locations offer flexible hours with options from the ear ly
+
+morning through late night. The Dining Service website contains information about dining locations, hours of operation, graduate student dining plans forms, nutritional information, and weekly menus for dining locations.
+
+7.15 Parking and Transportation
+
+www.cmu.edu/parking/
+
+
+Answer: 

@@ -1,0 +1,41 @@
+Question: Which LTI faculty is involved in the work Improving Factuality of Abstractive Summarization via Contrastive Reward Learning?
+
+Context: 3.4. Policy gradient reinforcement with similarity rewards As the second major contribution of this work, we have trained an abstractive summarization model using the reinforcement learning framework, where the proposed similarity metric is used as the reward signal. In this model, we ﬁne-tuned the mT5 model, which is a multilingual vari- ant of the text-to-text-transfer-transformer (T5) (Raffel et al. 2020), that was pre-trained for 101
+(2020) proposed an unsupervised abstractive summarization model that generates summaries directly from source documents by optimizing coverage, ﬂuency, and brevity using reinforcement learning (RL)-based rewards. Yadav et al. (2021) introduced two novel question-aware semantic rewards for abstractive question summarization: (1) question-type identiﬁcation and (2) question-focus recognition. They integrated these rewards into an encoder- decoder-based ProphetNet transformer model (Qi et al.
+Cite this article: Beken Fikri F, Oﬂazer K and Yanıko˘glu B. Abstractive summarization with deep reinforcement learning using semantic similarity rewards. Natural Language Engineering https://doi.org/10.1017/S1351324923000505
+
+https://doi.org/10.1017/S1351324923000505 Published online by Cambridge University Press
+
+23
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+the necessary faculty mentoring. The advisor also provides the student with career advice.
+
+How and when the advisor is selected:  Advisors are selected during the first month of the
+
+program. Students are expected to attend the LTI Orientation Faculty Research Talks in which faculty describe their interests and areas of expertise, and to be proactive about meeting
+
+individually with potential advisors. Typically, if a student and faculty member agree to enter
+above still applies (“ B-” is the minimu m for PhD, “ C” for MLT).
+
+MLT Graduate Student Handbook  Page 18
+
+4.6 LTI Orientation
+
+At the beginning of each  Fall semester, the LTI provides a set  of lectures and talks to help
+
+students learn about the work done by CMU faculty and to provide an opportunity for advisors
+
+to recruit new students. Students are expected to attend them and treat them  seriously,
+
+because they provide a good introduction to the broad range of research done at the LTI.
+
+
+Answer: 

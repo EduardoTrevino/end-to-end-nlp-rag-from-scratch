@@ -1,0 +1,57 @@
+Question: At what conference was Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning published?
+
+Context: 3 2 0 2 c e D 6
+
+] L C . s c [
+
+2 v 5 6 0 5 1 . 5 0 3 2 : v i X r a
+
+Inference-Time Policy Adapters (IPA):
+
+Tailoring Extreme-Scale LMs without Fine-tuning Ximing Lu♡♣ Faeze Brahman♡♣ Peter West ♡♣ Jaehun Jung ♡ Khyathi Chandu ♣ Abhilasha Ravichander ♣ Lianhui Qin ♡ Prithviraj Ammanabrolu ♡♣ Liwei Jiang ♡♣ Sahana Ramnath ♢ Nouha Dziri ♣ Jillian Fisher ♡ Bill Yuchen Lin ♣ Skyler Hallinan ♡ Xiang Ren ♢♣ Sean Welleck ♡♣ Yejin Choi♡♣ ♣Allen Institute for Artificial Intelligence
+We propose Inference-time Policy Adapters (IPA), which efficiently tailors a language model such as GPT-3 without fine-tuning it. IPA guides a large base model during decod- ing time through a lightweight policy adapter trained to optimize an arbitrary user objective with reinforcement learning.
+
+❄ Frozen ParametersApproximate PolicyBase Policy (Extreme-Scale LM)
+
+⊕Policy
+
+IPA
+
+PredictionR
+
+AdaptionPredictionˆy
+
+RewardPredictionPrediction
+
+" Learning
+
+Tailored PolicyPolicy Adapter
+
+⊕ˆy
+Drawing inspiration from RL and inference- time techniques, we propose Inference-time Pol- icy Adapters ( IPA), an efficient and general- izable algorithm, which tailors a large language model at decoding-time toward desired objectives without fine-tuning it. To do so, IPA combines a large base LM’s output distribution with that of a smaller-sized model (a lightweight adapter pol- icy), and optimizes the combined distribution to- wards a given objective with RL (Figure 1). IPA uses two key
+Employment Eligibility Verification  34 5.2 Conference Travel Funding .................................................................................... 34 5.3 Expenses .................................................................................................................. 34 5.4 Health Insurance ..................................................................................................... 35 5.5 Emergency Loans
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+The following steps are recommended to ensure a successful internship outcome. Many of the
+
+events below have been modified due to COVID.
+
+September/October
+
+Meet with your advisor to discuss your in terests and plan your internship search. 19
+
+Review the internships of previous students. We also encourage you to speak informally
+
+with second-year students who can offer firs t-hand information about their internships.
+
+
+Answer: 

@@ -1,0 +1,17 @@
+Question: Where do the rehearsals for The Kiltie Band take place?
+
+Context: In this section, we explore if the multi-task training of AAR can endow the retriever with better gener- alization to the target task. Specifically, we choose KILT (Petroni et al.) as our multi-task data source, which consists of 5 categories (Fact Checking, En- tity Linking, Slot Filling, Open Domain QA, and Dialogue). We take one representative subtask per category to form a mixture of multiple source tasks. Figure 7 illustrates that ANCE trained with multi-task KILT can consistently
+Fabio Petroni, Aleksandra Piktus, Angela Fan, Patrick Lewis, Majid Yazdani, Nicola De Cao, James Thorne, Yacine Jernite, Vladimir Karpukhin, Jean Mail- lard, et al. 2020. Kilt: a benchmark for knowl- arXiv preprint edge intensive language tasks. arXiv:2009.02252.
+Figure 7: Comparison between single-task (MS- MARCO QA) and multi-task (KILT) trained AAR. TART (Asai et al., 2022) is a multi-task instruction- finetuned retriever that has not been finetuned with LM- preferred signals.
+Q: When are rehearsals? A: Football season: Mondays and Thursdays from 5:30 p.m.-7:30 p.m. and Game Day 9:30-11:00a.m. Concert Season: Mondays and Thursdays from 5:30-6:30 p.m. Location is the CUC Studio Theater.
+
+Q: When are performances? A: The Kiltie Band performs at all home football games, a holiday concert, and two spring concerts. Times and dates for all performances are announced at the first practice.
+Q: Are there auditions? A: No, any member of the campus community with music experience is able to join the Kiltie Band!
+
+Q: Do I have to memorize music? A: No, the music is changed for every show. You should invest in a good and trusty lyre.
+
+Q: When is the first rehearsal? A: On the first day of class (Monday) at 5:30 p.m. in the CUC Studio Theater. If you have questions, please email the Direcator at jolisar@andrew.cmu.edu.
+The Kiltie Band is a campus organization recognized by Student Senate and administered by the Department of Athletics, Physical Education and Recreation. Membership is open to all members of the campus/community without audition. Participants must do their best to promote the success of the ensemble through attendance, attitude, and dependability.
+
+
+Answer: 

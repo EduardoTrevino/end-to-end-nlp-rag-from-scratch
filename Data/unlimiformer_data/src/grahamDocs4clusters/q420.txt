@@ -1,0 +1,209 @@
+Question: What is the full name of the conference where the paper NLPositionality: Characterizing Design Biases of Datasets and Models, got published?
+
+Context: Paper title: 'NLPositionality: Characterizing Design Biases of Datasets and Models' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Katharina Reinecke, Sebastin Santy, Ronan Le Bras, Jenny T Liang, Maarten Sap Summary: NLPositionality, a framework for characterizing design biases and quantifying the positionality of NLP datasets and models, is introduced and it is found that dataset and models align predominantly
+3 2 0 2
+
+n u J
+
+2
+
+] L C . s c [
+
+1 v 3 4 9 1 0 . 6 0 3 2 : v i X r a
+
+NLPositionality: Characterizing Design Biases of Datasets and Models
+
+Sebastin Santy†∗ Jenny T. Liang‡∗ Ronan Le Bras⋄ Katharina Reinecke† Maarten Sap‡⋄ ‡Carnegie Mellon University †University of Washington
+
+⋄Allen Institute for AI {ssanty,reinecke}@cs.washington.edu,
+
+Hate Speech Database
+
+1 2 3 4 5 6 7
+
+1 2 3 4 5 6 7
+We introduce NLPositionality, a framework for characterizing design biases and positionality of NLP datasets and models. For a given dataset and task, we obtain a wide set of new annotations for a data sample, from a diverse pool of volunteers from various countries and of different backgrounds (re- cruited through LabintheWild; Reinecke and Gajos, 2015). We then quantify design biases by compar- ing which identities and backgrounds have higher agreement with the original dataset labels or
+Title: Design Center: Methodology of Visualization
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:50PM
+
+Room: MM 107
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zywica
+
+Spring 2024
+
+Course number: 51850
+
+Title: Design Thesis Project
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Twigg
+
+Spring 2024
+
+Course number: 51861
+
+Title: HyperSENSE: Augmenting Human Experience in Environments
+
+Units: 12.0
+
+Section: A
+End:  ,07:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Xing, Zhang
+
+Spring 2024
+
+Course number: 98097
+
+Title: Student Taught Courses (StuCo): Intro to 3D Modeling- Character Design Pipeline
+
+Units: 3.0
+
+Section: A
+
+Days: R
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: CYH 100A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Diel
+
+Spring 2024
+
+Course number: 98123
+
+Title: Student Taught Courses (StuCo): Introduction to Hand Lettering
+
+Units: 3.0
+
+Section: A
+
+Days: R
+Title: Seminar: Multimodal Foundational Models
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ramanan
+
+Fall 2023
+
+Course number: 16895
+
+Title: Understanding and Critiquing Generative Computer Vision
+
+Units: 12.0
+
+Section: A
+
+Days: F
+
+Start: 12:30PM
+
+End: 02:50PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gupta
+
+Fall 2023
+
+Course number: 16897
+
+Title: Seminar on Robotics
+
+Units: 0.0
+If you can ID any of the unknown buggies, let us know.
+
+1949 – Design Competition (from the 1966 Buggy Book). Buggies are KapSig (far left), SAE’s design winner (#4, 2nd from the left), Men’s Dorms (#7, 3rd from the left), and DU (#11, far right).
+
+1949 – SAE’s Design-winning buggy getting worked on (from the November 1949 issue of The Record, the SAE National Publication)
+
+1949 – Citcom Clan Buggy (#9) (from the 1950 Thistle).
+1946 – PiKA’s Buggy (from the 1947 Thistle). It didn’t win Design Competition, but it had the best aesthetic design. Prelim Heats and Results. The Prelims were run in 3 heats, with 3 teams in each. The rules initially stated that the winner of each heat would compete in the finals, but it seems that the rules changed to be the three fastest times instead, as the Prelim results printed in the May 7, 1946 Tartan indicate that the Finals was just a rematch of Prelim Heat 1. According to the May 7
+1946 Raceday: Prelims on Friday, May 3 at 4:30pm; Finals on Saturday, May 11* at 2:00pm
+
+Sweepstakes Committee: John H. Siepel (Chair)
+
+Race Results: (1) DTD (3:49? ); (2) KapSig; (DQ) PiKA
+
+Design Comp: (1) Beta
+
+Weather: Cloudy, High 66/Low 47 on Friday; Rain on Saturday, May 4; Overcast, High 67/Low 49 on Saturday, May 11
+
+1946 saw the return of Buggy, though not all of the Fraternities were back yet. It also saw a rain delay and a very controversial result.
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+thesis defense. The pre sentation must communicate the research work done, similar to
+
+a conference paper presentation. The committee will observe the presentation, and then decide whether the thesis and presentation were acceptable, or whether further
+
+work is required. Unlike a P hD defense, only a simple majority vote of the committee is
+
+required for approval.
+5.2 Conference Travel Funding  LTI Ph.D.  Graduate Student Handbook  Page 33
+
+Students funded by research projects receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to p resent a refereed conference paper . There is an LTI
+
+form that must be filled out in advance.
+
+5.3 Research Funding
+
+
+Answer: 

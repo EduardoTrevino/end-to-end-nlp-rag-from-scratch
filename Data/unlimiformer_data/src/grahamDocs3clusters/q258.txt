@@ -1,0 +1,164 @@
+Question: What is the Spearman Correlation of CodeBERTScore with human preference?
+
+Context: .662
+
+5 Analysis
+
+Table 2: The Kendall-Tau (τ ), Pearson (rp) and Spear- man (rs) correlation with human preference. The best performance is bold. The correlation coefficients are reported as the average across three runs. Standard de- viations are provided in Table 4.
+
+We conducted a series of additional experiments to understand the importance of different design decisions, and to gain insights on applying Code- BERTScore to new datasets and scenarios.
+Table 4: The Kendall-Tau (τ ), Pearson (rp) and Spearman (rs) correlation with human preference. The best performance is bold. The correlation coefficients are reported as the average across three runs. Numbers inside parentheses indicate the standard deviations.
+
+Metric
+
+BLEU CodeBLEU CrystalBLEU
+
+Java
+
+2.36 1.44 5.96
+
+C++
+
+2.51 1.42 6.94
+and human preference. CodeBERTScore achieves the highest correlation with human preference, across all correlation metrics. While Evtikhiev et al. (2022) suggested that chrF and ROUGE-L are the most suitable metrics for evaluating code generation models in CoNaLa, CodeBERTScore outperforms these metrics by a significant mar- gin. For example, CodeBERTScore achieves Kendall-Tau correlation of 0.517 compared to 0.470 of chrF and 0.420 of ROUGE-L. These re- sults show that generated code that is
+Instructors: Martelaro, Saffer,Zimmerman, Musuraca
+
+Fall 2023
+
+Course number: 05618
+
+Title: Human AI Interaction
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: SH 234
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhu
+
+Fall 2023
+
+Course number: 05630
+
+Title: Programming Usable Interfaces:
+
+Units: 15.0
+
+Section: A,E,B,C,D,Lec,
+
+Days: M, ,W,MW
+
+Start: 08:00AM, ,09:30AM
+
+End: 10:50AM,09:20AM,
+
+Room: WEH 5310,TEP 1403,PH 226B,WEH 6403, ,PH 125B
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Singh
+
+Spring 2024
+
+Course number: 47954
+
+Title: Human and Algorithmic Bias
+
+Units: 6.0
+
+Section: A4
+
+Days: T
+
+Start: 12:00PM
+
+End: 02:50PM
+
+Room: TEP 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Huang
+
+Spring 2024
+
+Course number: 47990
+
+Title: Sem. in Strategic Mgmt:Core Strategy Research/Implications for Teaching Strategy
+
+Units: 6.0
+
+Section: A3
+
+Days: R
+
+Start: 12:25PM
+
+End: 04:15PM
+
+Room: TEP 5222
+Instructors: Musuraca, Hardman
+
+Spring 2024
+
+Course number: 05660
+
+Title: Interaction Design Fundamentals:
+
+Units: 12.0
+
+Section: A, ,B
+
+Days:  ,MW
+
+Start: 08:00AM, ,12:30PM
+
+End: 10:20AM, ,02:50PM
+
+Room:  ,3SC 172,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Matthews, Saunders,Fox, Saunders
+
+Spring 2024
+
+Course number: 05661
+
+Title: Advanced Interaction Design:
+
+Units: 12.0
+
+Section: A,C, ,B
+
+Days:  ,TR
+
+Start: 08:00AM, ,05:00PM,02:00PM
+
+End: 10:20AM, ,07:20PM,04:20PM
+8. User interfaces, 1983 Why should humans adapt to fit computers? Shouldn’t computers adapt to fit humans? That was the attitude of CMU researchers, who applied design principles to computer science to develop better, easier-to-use interfaces. They called the new field “human-computer interaction.”
+potential advisors determine how many new students they can take and  indicate their
+
+preferences. Finally, the entire LTI faculty meets as a " Matching  Committee" to determine the best
+
+set of matches.
+
+Until a student finds a specific advisor, the Progr am Director  of the LTI graduate programs serves
+
+as the advisor.
+
+How to change advisors:  The initial advisor selection should be made carefully. However, it is
+Turing Awards and a Nobel Prize In 1975, Simon and Newell were awarded the A.M. Turing Award for their work in artificial intelligence. (As of 2014, 12 CMU alumni or faculty have been awarded Turings, sometimes considered the Nobel Prize of computing.) Three years later, Simon received the Nobel Prize in Economics for his work on decision-making theory. As the 1970s progressed, Newell became interested in human-computer interaction, and began a long relationship with Xerox’s Palo Alto Research
+
+
+Answer: 

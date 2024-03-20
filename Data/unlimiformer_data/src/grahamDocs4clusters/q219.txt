@@ -1,0 +1,171 @@
+Question: Where did Graham Neubig get his PhD?
+
+Context: Groningen, The Netherlands (online). Association for Computational Linguistics.
+
+Graham Neubig and Shinsuke Mori. 2010. Word-based partial annotation for efficient corpus construction. In Proceedings of the Seventh International Conference on Language Resources and Evaluation (LREC’10), Valletta, Malta. European Language Resources Asso- ciation (ELRA).
+Pengcheng Yin and Graham Neubig. 2017. A syntactic neural model for general-purpose code generation. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 440–450, Vancouver, Canada. Association for Computational Linguistics.
+Hao Zhu, Graham Neubig, and Yonatan Bisk. Few-shot language coordination by modeling theory of mind. In International Conference on Machine Learning, pp. 12901–12911. PMLR, 2021.
+
+Hao Zhu, Yonatan Bisk, and Graham Neubig. Simulated language learning through communicative goals and linguistic input. Proceedings of the Annual Meeting of the Cognitive Science Society, 44:1351–1358, 2022.
+
+A APPENDIX
+
+A.1 FULL EFFECTS OF DISTRACTOR DIFFICULTY
+Title: Tepper PhD Internship
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Montgomery
+
+Spring 2024
+
+Course number: 70050
+
+Title: Study Abroad
+
+Units: VAR
+
+Section: W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Doha, Qatar
+
+Instructors: Farooqi
+
+Spring 2024
+
+Course number: 70051
+
+Title: Study Abroad
+
+Units: 0.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Wu,Bisk,Mortensen,Instructor TBA,Strubell,Fried,Watanabe,Xiong,Neubig,Morency
+
+Fall 2023
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+
+Section: E,I,AC,AD,F,AM,D,AH,AN,U,PP,BB,AP,A0,AL,P,C,EE,DD,J,AB,A,S,K,Y,SS,W,B,T,AI,H,L,M,R,AA,O,Q,X,Z,G,AJ,N,V,AK
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+Room: SH 105,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Bisk, Diaz
+
+Spring 2024
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: TEP 1403,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Neubig
+
+Spring 2024
+
+Course number: 11712
+
+Title: Lab in Natural Language Processing: Self-Paced
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+This year Fringe is planning to roll four different vehicles, built and maintained in the Fringe workshop in the basement of the East Campus Garage, known as the "Froom."
+
+"We're used to saying everything with 'fr' in front of it but when we say something in front of other people, it gets them confused," said Fringe head mechanic Dave Singh, who will graduate in May with a bachelor's degree in mechanical engineering and biomedical engineering.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+Language Technologies Institute - Faculty Name: David Mortensen Email: dmortens@cs.cmu.edu Office: 5707 Gates & Hillman Centers Research Areas: Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources Phone: 412-268-2894
+
+Language Technologies Institute - Faculty Name: Graham Neubig Email: gneubig@cs.cmu.edu Office: 5409 Gates & Hillman Centers Research Areas: Machine Translation, Natural Language Processing, Spoken Language Processing, Machine Learning
+areas include speech processing, information retrieval, machine translation, natural language
+
+processing, machine learning, and computational biology. Many MLT graduates continue on to PhD programs in the LTI or other leading universities. Other graduates  go on to work in the
+
+computer industry, many at major corporate research laboratories.
+The university offers a Parental Accommodation for qualifying doctoral student parents to include
+
+up to four (4) weeks of time away from academic responsibilities with continued stipend support. This accommodation can be utilized within six months of the birth or placement of a child
+
+through adoption, foster care or legal guardianship. Gestational parents may utilize both the
+
+Short- Term Accommodation  for Gestational Parents and the parental accommodation.
+
+
+Answer: 

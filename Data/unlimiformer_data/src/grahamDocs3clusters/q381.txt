@@ -1,0 +1,174 @@
+Question: How many authors are on the paper "Pragmatic Inference with a CLIP Listener for Contrastive Captioning"?
+
+Context: Paper title: 'Pragmatic Inference with a CLIP Listener for Contrastive Captioning' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Benno Krojer, Daniel Fried, Jiefu Ou Summary: This work proposes a simple yet effective and robust method for contrastive captioning: generating discriminative captions that distinguish target images from very similar alternative distractor images by leveraging an off-the-shelf CLIP model
+3 2 0 2
+
+n u J
+
+5 1
+
+] L C . s c [
+
+1 v 8 1 8 8 0 . 6 0 3 2 : v i X r a
+
+Pragmatic Inference with a CLIP Listener for Contrastive Captioning
+
+Jiefu Ou1 Benno Krojer2 Daniel Fried1 Carnegie Mellon University1 Mila/McGill University2 jiefuo@andrew.cmu.edu
+
+Abstract
+We propose an incremental pragmatic inference ap- proach with a CLIP listener, which combines the strengths of previous approaches that conduct in- cremental pragmatic reasoning with a separately modeled listener. We identify strengths and weak- nesses of automatic model-based evaluation of dis- criminative captioning systems, and suggest that future work 1) control for the disfluency of gener- ated captions and not solely optimize for predicted informativity and 2) use human evaluations. In
+Course number: 36226
+
+Title: Introduction to Statistical Inference
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: DH 2210
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Branson
+
+Spring 2024
+
+Course number: 36236
+
+Title: Probability and Statistical Inference II
+
+Units: 9.0
+
+Section: A,E,B,C,D,Lec
+
+Days: MWF,M,T
+
+Start: 09:00AM,07:00PM
+
+End: 07:50PM,09:50AM
+
+Room: BH 237B,PH 100,BH 235A,BH 235B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Freeman
+
+Spring 2024
+Course number: 36226
+
+Title: Introduction to Statistical Inference
+
+Units: 9.0
+
+Section: U
+
+Days: MTWRF
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5415
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 36350
+
+Title: Statistical Computing
+
+Units: 9.0
+
+Section: U
+
+Days: MTWRF
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH 226C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+Title: Categorical Logic
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: BH 150
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Awodey
+
+Spring 2024
+
+Course number: 80816
+
+Title: Causality and Machine Learning
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: BH 255A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Spirtes
+
+Spring 2024
+
+Course number: 80827
+
+Title: Seminar on the History of Causal Inference
+
+Units: 12.0
+
+Section: A
+
+Days: T
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+16. CAPTCHAs, 2000 “Spam” and malicious attacks were a growing problem on the Internet when hackers developed automated “bots” that could sign up for email and other Web services without human intervention. Luis von Ahn (CS’03,’05), Nick Hopper (CS’04), John Langford (CS’02) and CMU professor Manuel Blum invented a “Completely Automated Public Turing Test to tell Computers and Humans Apart,” or CAPTCHA, to help foil the bots. A later variation, reCAPTCHA, is helping digitize old books and
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+
+
+Answer: 

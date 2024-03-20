@@ -1,0 +1,156 @@
+Question: How many turing awards recipients have been from Carnegie Mellon University?
+
+Context: [18] B. M. Elizalde. Never-ending learning of sounds. Carnegie Mellon University, 2020. [19] J. Engel, C. Resnick, A. Roberts, S. Dieleman, M. Norouzi, D. Eck, and K. Simonyan. Neural audio synthesis of musical notes with wavenet autoencoders. In International Conference on Machine Learning, pages 1068–1077. PMLR, 2017.
+Searle, the Chuchlands, and Turing provide our backdrop. I will show how recent work in artificial intelligence is starting to fill the empirical gap identified by the Churchlands, providing evidence that at least some semantics may fall out of syntax, vindicating Turing’s agnostic stance (Fig. 1).
+
+In one of the most cited artificial intelligence papers of 2020, which also won the ACL 2020 Best Theme Paper Award, Emily Bender and Alexander Koller (2020)
+Aman Madaan1, Niket Tandon2, Prakhar Gupta1, Skyler Hallinan3, Luyu Gao1, Sarah Wiegreffe2, Uri Alon1, Nouha Dziri2, Shrimai Prabhumoye4, Yiming Yang1, Shashank Gupta2, Bodhisattwa Prasad Majumder5, Katherine Hermann6, Sean Welleck2,3, Amir Yazdanbakhsh6, Peter Clark2 1Language Technologies Institute, Carnegie Mellon University 2Allen Institute for Artificial Intelligence 3University of Washington 4NVIDIA 5UC San Diego 6Google Research, Brain Team amadaan@cs.cmu.edu, nikett@allenai.org
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Spring 2024
+
+Course number: 24781
+
+Title: Engineering Computation Project
+
+Units: 0-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hertz, Brown, Shimada
+
+Spring 2024
+
+Course number: 24782
+
+Title: Machine Learning and Artificial Intelligence for Engineers - Project
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: GHC 4211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kang
+
+Spring 2024
+
+Course number: 24783
+Course number: 11663
+
+Title: Applied Machine Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 7500
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11671
+
+Title: Foundations of Computational Data I:
+
+Units: 6.0
+
+Section:  ,A3
+
+Days: R,
+
+Start:  ,07:30PM
+
+End:  ,08:50PM
+
+Room:  ,CMU REMOTE
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11672
+In its 115 years, Carnegie Mellon has soared to national and international leadership in higher education and research. A birthplace of innovation since its founding, it continues to be known for innovation, for solving real-world problems and for interdisciplinary collaboration. Its alumni can be found across the globe — from Tony Award winners to Nobel Prize and Turing Award winners, from CEOs to entrepreneurs, from professors to artists. In the 2000s, in response to demand for expanded
+Inductees will be selected by a committee comprised of Carnegie Mellon University staff, faculty, a board of trustee member, coaches and a student representative. The Athletics Hall of Fame will endeavor to induct not less than 15 individuals for induction in its first year and not less than 6 in any year thereafter, subject to the discretion of the Nominating Committee. The below will set forth the criteria for selection to the Athletics Hall of Fame.
+Turing Awards and a Nobel Prize In 1975, Simon and Newell were awarded the A.M. Turing Award for their work in artificial intelligence. (As of 2014, 12 CMU alumni or faculty have been awarded Turings, sometimes considered the Nobel Prize of computing.) Three years later, Simon received the Nobel Prize in Economics for his work on decision-making theory. As the 1970s progressed, Newell became interested in human-computer interaction, and began a long relationship with Xerox’s Palo Alto Research
+
+
+Answer: 

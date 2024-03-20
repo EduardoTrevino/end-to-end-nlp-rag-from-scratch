@@ -1,0 +1,39 @@
+Question: What are the components of HomeRobot?
+
+Context: drive research in this area, we introduce the HomeRobot OVMM benchmark, where an agent navigates household environments to grasp novel objects and place them on target receptacles. HomeRobot has two components: a simulation component, which uses a large and diverse curated object set in new, high-quality multi-room home environments; and a real-world component, providing a software stack for the low-cost Hello Robot Stretch to encourage replication of real-world experiments across labs. We
+may not benefit from those changes. The HomeRobot stack enables end-to-end benchmarking of individual components by providing a full robotics stack, with multiple implementations of different sub-modules. The simplicity helps move beyond standardized sets of objects (e.g., [50–52]) to a common set of robots, objects, and environments. Ours is the only benchmark to provide a broadly capable robotics stack for implementing and sharing robotics code; this is similar to projects like PyRobot [53],
+HomeRobot is a simple, easy-to-set-up library that works in multiple environments and Figure 4: requires only relatively affordable hardware. Computationally intensive operations are performed on a desktop PC with a GPU, and a dedicated consumer-grade router provides a network interface to a robot running low-level control and SLAM.
+There are two course components required for students who elect to complete the M.S. Thesis: 11 -928 – Masters ’ Thesis I (with the chosen thesis advisor, typically for 12 units,
+
+typically in the Fall of their second year) and 11 -929 – Masters ’ Thesis II in the following
+
+Spring.
+
+Each of these two courses counts towards 6 units of MLT -level LTI course credit; if the
+
+student goes on to an LTI PhD, the second course (11 -929) counts towards one PhD lab
+
+requirement.
+Driver: Person who travels with a buggy and controls the vehicles via steering and braking systems.
+
+Pushbar: Structure attached to a buggy that a person pushes to propel that buggy forward.
+
+Pusher: Person who propels a buggy via a pushbar along one of the five hills of the buggy course.
+
+Shell: Entire outer structure or covering of a buggy that determines that buggy's aerodynamic characteristics.
+See also the “ Statute of Lim itations” policy.
+
+5.1.2 Double-Dipping
+
+A Masters student who uses courses taken as part of another degree program (at Carnegie
+
+Mellon or elsewhere) toward their program requirements cannot use those same courses MLT Graduate Student Handbook  Page 21
+
+toward any other M.S. degree offered by the School of Computer Science without prior
+
+approval. This is an SCS- wide policy.
+
+5.1.3 Pass/Fail Grades
+
+
+Answer: 

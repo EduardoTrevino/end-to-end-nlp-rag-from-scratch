@@ -1,0 +1,49 @@
+Question: What is the full name of the workshop where the paper Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation, got published?
+
+Context: Yvette Graham, Timothy Baldwin, Alistair Mof- fat, and Justin Zobel. 2013. Continuous mea- surement scales in human evaluation of machine translation. In Proceedings of the 7th Linguistic Annotation Workshop and Interoperability with Discourse, pages 33–41, Sofia, Bulgaria. Asso- ciation for Computational Linguistics.
+Adam Fisch, Alon Talmor, Robin Jia, Minjoon Seo, Eunsol Choi, and Danqi Chen. Mrqa 2019 shared task: Evaluating generalization in reading comprehension. In Proceedings of the 2nd Workshop on Machine Reading for Question Answering, pages 1–13, 2019.
+
+Paul Friedl. Dis/similarities in the design and development of legal and algorithmic normative systems: the
+
+case of perspective api. Law, Innovation and Technology, pages 1–35, 2023.
+GeneralizedGlossingGuidelines:AnExplicit,Human-andMachine-Readable,Item-and-ProcessConventionforMorphologicalAnnotationDavidR.Mortensen∗†ElaGulsen∗†TaiqiHe†NathanielRobinson†JonathanD.Amith‡LindiaTjuatja†LoriLevin††CarnegieMellonUniversity‡GettysburgCollege†{dmortens,egulsen,taiqih,nrrobins,lindiat,levin}@andrew.cmu.edu‡jonamith@gmail.comAbstractWeintroduceaYAMLnotationformulti-lineinterlinearglossedtext(IGT)thatrepresentsnon-concatentativeprocessessuchasinfixa-tion,reduplication,mutation,trunc
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Machine Translation
+
+Spring 2:
+
+Comp Semantics for NLP
+
+Neural Networks for NLP
+
+Elective
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in deepening their expertise in Human Language area of concentration
+
+Fall 1:
+
+Natural Language Processing
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+Information retrieval, machine translation and speech technology are used daily by the general public, while text mining, natural language processing and language-based tutoring are common within more specialized professional or educational environments. The LTI prepares students for this world by offering a minor that gives you the opportunity to not only learn about language technologies, but to also apply that knowledge through a directed project.
+
+
+Answer: 

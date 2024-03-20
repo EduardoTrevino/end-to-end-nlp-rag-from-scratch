@@ -1,0 +1,171 @@
+Question: What is the title of Scotch'n'Soda's performance at the Spring Carnival?
+
+Context: Title: Puccini's Operas:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room:  ,HOA 225
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Sciannameo
+
+Spring 2024
+
+Course number: 57417
+
+Title: Major Vocal Performance Ensemble
+
+Units: 6.0
+
+Section: A, ,B
+
+Days: WF,TR
+
+Start: 04:00PM
+
+End: 05:50PM,05:20PM
+
+Room: MM 119
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors:  ,Douglas, Rissinger,Douglas
+
+Spring 2024
+
+Course number: 57418
+
+Title: Major Instrumental Ensemble
+Course number: 57234
+
+Title: Performance for Composers
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Galbraith, Whipple
+
+Spring 2024
+
+Course number: 57236
+
+Title: Performance for Composers
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Galbraith, Whipple
+
+Spring 2024
+
+Course number: 57241
+
+Title: Acting II
+
+Units: 3.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+Title: Viola Studio Performance Class
+
+Units: 1.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: CFA KRESGE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Harding
+
+Spring 2024
+
+Course number: 57018
+
+Title: Double Bass Studio Performance Class
+
+Units: 1.0
+
+Section: A
+
+Days: M
+
+Start: 07:30PM
+
+End: 09:20PM
+
+Room: CFA ACH
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Howard
+
+Spring 2024
+
+Course number: 57020
+
+Title: Flute Studio Performance Class:
+
+Units: 1.0
+
+Section: A,
+The Kiltie Marching Band consists of musicians and colorguard and plays at all Carnegie Mellon home football games. There is a new show every week with music ranging from traditional marches and oldies to current pop tunes and jazz standards.
+
+After football season, the Kiltie Concert Band plays a holiday concert and two spring concerts, including a performance at Carnegie Mellon’s Spring Carnival. Additionally, a part of the band gets together and acts as a pep band for the basketball teams.
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+
+
+Answer: 

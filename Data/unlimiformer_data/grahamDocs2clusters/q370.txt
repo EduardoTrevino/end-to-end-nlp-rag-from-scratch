@@ -1,0 +1,153 @@
+Question: In spring 2024, Who are the instructors for course 15210?
+
+Context: Spring 2024
+
+Course number: 24101
+
+Title: Fundamentals of Mechanical Engineering
+
+Units: 12.0
+
+Section: A,C,B,Lec
+
+Days: R,MW
+
+Start: 04:00PM,12:00PM,02:00PM
+
+End: 05:50PM,01:50PM,03:50PM,03:20PM
+
+Room: BH 140B,POS 152,BH 140A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Haidar, Singh,Singh, Haidar
+
+Spring 2024
+
+Course number: 24104
+
+Title: Maker Series: Intro to Modern Making
+
+Units: 3.0
+
+Section: K4,K3
+
+Days: F
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: ANS B10
+Spring 2024
+
+Course number: 24789
+
+Title: Intermediate Deep Learning for Engineers
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Barati Farimani
+
+Spring 2024
+
+Course number: 24790
+
+Title: Thesis Research
+
+Units: 3-36
+
+Section: A3
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hertz
+
+Spring 2024
+
+Course number: 24791
+
+Title: Graduate Seminar I
+
+Units: 0.0
+
+Section: A
+Instructors: Heard
+
+Spring 2024
+
+Course number: 27515
+
+Title: Introduction to Computational Materials Science
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: O'Connor
+
+Spring 2024
+
+Course number: 27537
+
+Title: Data Analytics for Materials Science
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 5207
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Taheri-Mousavi
+
+Spring 2024
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+(2) Date -  July 22 ; Day - Friday ; Event - Mini-6 pass/no pass & withdrawal deadline (3) Date -  July 29 ; Day - Monday ; Event - Semester & Mini-6 Faculty Course Evalutations open Date -  August 1 ; Event - Semester & Mini-6 Last Day of ClassesSummer Semester 2024 (M24) Date - August 1 ; Day - Thursday ; Event - Semester & Mini-6 voucher deadline (4) Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Final Exams*** Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Faculty
+
+
+Answer: 

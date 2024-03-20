@@ -1,0 +1,215 @@
+Question: In the IWSLT 2023 paper titled "Evaluating Multilingual Speech Translation Under Realistic Conditions with Resegmentation and Terminology", authors provided a speech translation dataset covering ACL technical presentations. How many target languages were included in the final dataset?
+
+Context: Elizabeth Salesky, Kareem Darwish, Mohamed Al- Badrashiny, Mona Diab, and Jan Niehues. 2023. Evaluating Multilingual Speech Translation Under
+
+Realistic Conditions with Resegmentation and Ter- minology. In Proceedings of the 20th International Conference on Spoken Language Translation (IWSLT 2023). Association for Computational Linguistics.
+Elizabeth Salesky, Kareem Darwish, Mohamed Al- Badrashiny, Mona Diab, and Jan Niehues. 2023. Evaluating Multilingual Speech Translation Under Realistic Conditions with Resegmentation and Ter- minology. In Proceedings of the 20th International Conference on Spoken Language Translation (IWSLT 2023). Association for Computational Linguistics.
+Many existing speech translation benchmarks focus on native-English speech in high-quality recording conditions, which often do not match In this the conditions in real-life use-cases. paper, we describe our speech translation sys- tem for the multilingual track of IWSLT 2023, which evaluates translation quality on scientific conference talks. The test condition features accented input speech and terminology-dense contents. The task requires translation into 10 languages of varying amounts of
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Fall 2023
+
+Course number: 11726
+
+Title: Meaning in Language Lab (Self Paced)
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11737
+
+Title: Multilingual Natural Language Processing.
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Course number: 80788
+
+Title: Acoustics of Human Speech: Theory, Data, and Analysis
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bjorndahl
+
+Spring 2024
+
+Course number: 80811
+
+Title: Professional Development Seminar
+
+Units: 6.0
+
+Section: A,C,B
+
+Days: M
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: BH 145C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zaffora Blando
+
+Spring 2024
+
+Course number: 80814
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+If you can ID any of the unknown buggies, let us know.
+
+1949 – Design Competition (from the 1966 Buggy Book). Buggies are KapSig (far left), SAE’s design winner (#4, 2nd from the left), Men’s Dorms (#7, 3rd from the left), and DU (#11, far right).
+
+1949 – SAE’s Design-winning buggy getting worked on (from the November 1949 issue of The Record, the SAE National Publication)
+
+1949 – Citcom Clan Buggy (#9) (from the 1950 Thistle).
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

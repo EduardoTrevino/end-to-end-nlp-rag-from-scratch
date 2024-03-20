@@ -1,0 +1,209 @@
+Question: In fall 2023, What is the title of course 05291?
+
+Context: Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+Portnoﬀ (2018) says that the 10 years he has been a teacher in an introductory computer programming course, he has used
+
+Frontiers in Computer Science
+
+05
+
+10.3389/fcomp.2023.1085507
+Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong. 2023a. Compositional ex- emplars for in-context learning. arXiv preprint arXiv:2302.05698.
+
+Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. 2023b. In-context instruction learning. arXiv preprint arXiv:2302.14691.
+
+Yiming Zhang, Shi Feng, and Chenhao Tan. 2022a. Active example selection for in-context learning. CoRR, abs/2211.04486.
+Fall 2023
+
+Course number: 05600
+
+Title: HCI Pro Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: W
+
+Start: 05:00PM
+
+End: 07:20PM
+
+Room: 3SC 172
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Willis
+
+Fall 2023
+
+Course number: 05610
+
+Title: User-Centered Research and Evaluation:
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec,
+
+Days:  ,MW
+
+Start: 12:30PM, ,02:00PM
+
+End:  ,01:50PM,03:20PM
+
+Room: DH 2315,WEH 8427,PH 225B, ,GHC 4101,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+Instructors: Gomez
+
+Fall 2023
+
+Course number: 82287
+
+Title: Multicultural Immersion - Relating Your World in Virtual Reality
+
+Units: 6.0
+
+Section: W1
+
+Days: TR
+
+Start: 04:00PM
+
+End: 05:15PM
+
+Room: TBA
+
+Locations: Doha, Qatar
+
+Instructors: Caspar, Usova
+
+Fall 2023
+
+Course number: 82291
+
+Title: Intermediate Russian I
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PH 125C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kats
+
+Fall 2023
+
+Course number: 82293
+Fall 2023
+
+Course number: 09344
+
+Title: Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,W
+
+Start: 11:00AM,07:00PM
+
+End: 11:50AM,07:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hendrich
+
+Fall 2023
+
+Course number: 09381
+
+Title: Environmental Systems on a Changing Planet: Science & Engineering Addendum
+
+Units: 12.0
+
+Section: A
+
+Days: F
+
+Start: 12:00PM
+
+End: 12:50PM
+
+Room: DH 1112
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Elective course For more information on the MSAII program curriculum and requirements, see the program website. Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+
+
+Answer: 

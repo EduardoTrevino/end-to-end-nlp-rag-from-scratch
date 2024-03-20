@@ -1,0 +1,185 @@
+Question: How many months is the longer track of the MIIS program?
+
+Context: We estimate the total GPU time for results presented in this paper did not exceed approximately 116 days of time on a single 48-GB A6000. The longest-training models, SLED and retrieval training for GovReport, took approximately 10 days to train.
+>360 times speedup, from ∼6.5 months to ∼13 hours.
+In order to evaluate the applicability of our approach, we analyze its cost. Figure 8 shows a boxplot of the time taken in hours for our experiments. We find that the time taken varies a lot between different benchmarks and in some cases even across different runs on the same benchmark. We find that MO-GI takes between 0.1 hours and 20.6 hours, with a median time across the benchmarks of 2.6 hours. The main source of variation across the benchmarks is the difference in time taken by the test
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 11699
+
+Title: MSAII Program Capstone
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11700
+
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,P
+
+Days: TBA,F
+
+Start: ,02:00PM
+
+End: ,03:20PM
+Instructors: Callan, Frederking
+
+Summer 2024
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 11927
+
+Title: MIIS Capstone Project
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 11930
+
+Title: Dissertation Research
+Section: A,B,SV,Lec 1,Lec 3,RW
+
+Days: TBA,F,MW
+
+Start: ,08:00AM
+
+End: ,09:20AM,08:20AM
+
+Room: BH A51,DNM DNM,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11690
+
+Title: MIIS Directed Study
+
+Units: 1-48
+
+Section: C
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mitamura
+
+Spring 2024
+
+Course number: 11692
+cross the finish line in the Finals. So is it possible that DTD rolled 35 seconds faster during the Finals? Sure. But I think I buy that they were 25 seconds slower a little more. 1947 Raceday: Prelims on Friday, May 2 at 1:00pm; Finals on Saturday, May 3 at 2:30pm
+After an hour-long argument with the judges (and presumably the Sweepstakes committee), the decision to DQ PiKA was upheld and DTD was awarded the victory. Final Time. The Tartan reported that DTD’s winning time was 3:49, but our database has the time as 2:49. 3:49 would be significantly slower than any other race on this course, but I also think it’s possible. Bleak skies threatened the race (meaning it may have been bad weather), the best Prelim time was 3:24.5, and DTD was the 2nd buggy to
+Fight Over Carnival Schedule. Now that Spring Carnival was back on, the students had to decide how they wanted it – As 2 days in May (losing a day of vacation) or one day in April (not sacrificing any other off days). Buggy was going to happen either way, but ultimately the students voted on a 2 day Carnival, keeping the tradition intact and putting Raceday on the schedule for May 2-3. Time Trials. It looks like this post-war period was when the race changed from a head-to-head to a time trial.
+Option 1. Standard MIIS degree (MIIS-16) - A 16-month track that is completed in three academic semesters (fall, spring, fall) and a summer internship. Option 2. MIIS: Advanced Study degree (MIIS-21) - A 21-month track that is completed in four academic semesters (fall, spring, fall, spring) and a summer internship. MIIS: Advanced Study track offers indepth degree in one of the following areas of concentration: Human Language for Language Technologies Language Technology Application Machine
+The MIIS degree is offered in  two options:
+
+Option 1. Standard MIIS degree  (MIIS -16) - A 16 -month track that is completed in three
+
+academic semesters (fall, spring, fall) and a summer internship.
+
+Option 2. MIIS: Advanced Study degree  (MIIS -21) - A 21 -month track that is completed in
+
+four academic semesters (fall, spring, fall, spring) and a summer internship.
+
+MIIS: Advanced Study track offers in depth  degree in one of the following areas of
+
+concentration:
+semesters of academic study and one summer internship (21 months total).
+
+MIIS -16 students enrolled for part -time study are expected to complete the program in six
+
+semesters of academic stu dy and  one summer internship (27  months  total ).
+
+MIIS -21 students enrolled for part -time study are expected to complete the program in seven
+
+semesters of academic study and one summer internship (31 months total).
+
+See also the ‘Statute of Limitations’ policy.
+
+6.1.3 Deferral
+
+
+Answer: 

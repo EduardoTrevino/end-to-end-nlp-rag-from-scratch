@@ -1,0 +1,79 @@
+Question: What is the target duration of the LTI PhD program in months?
+
+Context: Units: 1-48
+
+Section: PP,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Summer 2024
+
+Course number: 11935
+
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: P,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking,Callan
+
+Summer 2024
+
+Course number: 11936
+
+Title: PhD Internship
+
+Units: VAR
+
+Section: P,S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+>360 times speedup, from ∼6.5 months to ∼13 hours.
+000 problems each, with the same initial budget (2000 node expansions for Sokoban and The Witness, 7000 for STP) and stop as soon as the training set is entirely solved. Training LTS+CM for these domains took less than 2 hours each. Harder Sokoban. Additionally, we compare algorithms on the Boxoban ‘hard’ set of 3332 problems. Guez et al. [2019] trained a convLSTM network on the medium- difficulty dataset (450k problems) with a standard actor-critic setup — not the LTS loss — and used LTS
+4.1 Duration of Study
+
+The target duration of the LTI Ph.D.  is five years, although six years is also common.
+
+Carnegie Mellon graduate students are expected to complete their degree requirements within the standard length of time for their program of study as outlined in this Graduate Student Handbook. Upon completion of the graduate program degree requirements, the degree will be certified by the student’s academic program in the semester in which the student completes the
+
+requirements.
+typically a 16-month program consisting of courses, seminars, a required Capstone Project and a required summer internship or practical training. While some MCDS graduates continue on to PhD programs in the LTI or other leading universities, most graduates go on to jobs in 7corporate research and development laboratories.
+Accommodation for Gestational Parents or during a Formal Leave of Absence. Continued LTI Ph.D.  Graduate Student Handbook  Page 32
+
+academic stipend funding may be extended by two (2) weeks, for a total of eight (8) weeks, if an
+
+absence longer than six weeks is medically necessary.
+
+Doctoral Sti pend Continuation (Non- gestational Parents) – Doctoral students who receive an
+
+
+Answer: 

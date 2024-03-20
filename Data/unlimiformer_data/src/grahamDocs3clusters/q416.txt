@@ -1,0 +1,186 @@
+Question: Where will the The President’s Reception in honor of CMU’s Doctoral Candidates be held?
+
+Context: Hi, thanks for taking the time to talk with me! My collaborators on this project and I work for CMU. We can be reached at [emails] should you have any questions for us during the study or after.
+
+This interview will take between 45 minutes and an hour. There will be no compensation for participation.
+
+Participation is always voluntary, and you may refuse to participate in the research study or stop participation at any time.
+3 2 0 2
+
+b e F 8
+
+] L C . s c [
+
+1 v 7 9 1 4 0 . 2 0 3 2 : v i X r a
+
+Hierarchical Event Grounding
+
+Jiefu Ou, Adithya Pratapa, Rishubh Gupta, Teruko Mitamura
+
+Language Technologies Institute, Carnegie Mellon University {jiefuo, vpratapa, rishubhg, teruko}@andrew.cmu.edu
+
+Abstract
+
+three events (Q602744, Q8641370, Q216184) themselves constitute a hierarchical event structure.
+Karen Mazidi and Rodney D. Nielsen. Leveraging multiple views of text for automatic question generation. In Artiﬁcial Intelligence in Education - 17th International Conference, AIED 2015, Madrid, Spain, June 22-26, 2015. Proceedings, pages 257–266, 2015.
+
+Ana Cristina Mendes. When the Answer comes into Question in Question-Answering. PhD thesis, Instituto Superior
+
+Técnico, Universidade de Lisboa, Lisbon, Portugal, 2013.
+End: 08:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Barati Farimani
+
+Spring 2024
+
+Course number: 24892
+
+Title: Locomotion Seminar
+
+Units: 0.0
+
+Section: A
+
+Days: F
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4623
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Johnson
+
+Spring 2024
+
+Course number: 24992
+
+Title: Professional Development for PhD students II
+
+Units: 2.0
+
+Section: A
+
+Days: F
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: SH 234
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 05684
+
+Title: METALS Capstone II Part II
+
+Units: 24.0
+
+Section: U
+
+Days: W
+
+Start: 03:30PM
+
+End: 05:20PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McLaren, Koedinger
+
+Summer 2024
+
+Course number: 11936
+
+Title: PhD Internship
+
+Units: VAR
+
+Section: U
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 21127
+Title: The American Experiment: Unravelling the US Electoral System
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH 226C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kliewer
+
+Spring 2024
+
+Course number: 84360
+
+Title: CMU/WSP Internship Seminar
+
+Units: 24.0
+
+Section: A
+
+Days: M
+
+Start: 06:00PM
+
+End: 07:20PM
+
+Room: MDC 522
+
+Locations: Washington, District of Columbia:Dulles
+
+Instructors: Crowell
+
+Spring 2024
+
+Course number: 84365
+Computer Science, effective Dec. 1, and that the School of Computer Science would soon begin operations. SCS made its formal debut on Dec. 22, 1988, with a reception in the Wherrett Room of Skibo Hall, CMU’s student union. The official announcement of CMU’s new “graduate School of Computer Science” was made Jan. 3, 1989.
+At least two CMU faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the chair of graduate programs (the form for this is available on the LTI website). This feedback will help the student refine speaking skills with respect to talk structure, content, and delivery.
+
+4.1.3 Withdrawal of a Degree
+Students must begin their study at CMU in the program that admitted them; this  is a university
+
+policy.
+
+Students may request to transfer into the MLT program after completing their first semester. The student must make the request in writing (or email) to the MLT/PhD Admissions Chair. The
+
+MLT/PhD Admissions Chair will inform the student about what application materials are
+
+required;  for example, an explanation of why a transfer is desired, a proposed plan of study, a
+
+
+Answer: 

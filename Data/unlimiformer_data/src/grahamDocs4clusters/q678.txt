@@ -1,0 +1,171 @@
+Question: What is the BERTScore achieved by BASS-adapt on the How-2 test set?
+
+Context: ﬁne-tuned BERTurk model using either the cross-encoder or a bi-encoder architecture. The ﬁne-tuning is done on the Turkish Natural Language Inference and Semantic Textual Similarity benchmark datasets. We show that these measures have better correlations with human evaluations compared to Recall-Oriented Understudy for Gisting Evaluation (ROUGE) scores and BERTScore. We then introduce a deep reinforcement learning algorithm that uses the proposed semantic similarity measures as rewards,
+BERTScore (Zhang et al., 2020a) embeds the generated utterances and the reference with word vectors using the BERT model and computes pair- wise cosine similarity for each generated word vec- tor and each word in the reference, then the recall of the generated sequences is calculated. BERTScore is distinct from the previous two metrics in that it computes similarity across semantic space and has been shown to have a strong correlation with human judgment at the segment level.
+story to be predicted. There are 90,000 samples in the train set, and 4081 samples in the validation and test sets. The generation quality is evaluated based on ROUGE (Lin, 2004) and BERTScore metrics. A vocabulary of 25,000 BPE units is used in this task.
+Units: 12.0
+
+Section: A, ,B
+
+Days: TBA, ,TR
+
+Start: ,09:30AM,
+
+End: ,10:50AM,
+
+Room:  ,DNM DNM,WEH 2302
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Sadeh, Habib
+
+Fall 2023
+
+Course number: 17636
+
+Title: Applied Distributed Systems
+
+Units: 12.0
+
+Section: A1
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasar, Bass
+
+Fall 2023
+
+Course number: 17637
+
+Title: Web Application Development
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+Title: Viola Studio Performance Class
+
+Units: 1.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: CFA KRESGE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Harding
+
+Spring 2024
+
+Course number: 57018
+
+Title: Double Bass Studio Performance Class
+
+Units: 1.0
+
+Section: A
+
+Days: M
+
+Start: 07:30PM
+
+End: 09:20PM
+
+Room: CFA ACH
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Howard
+
+Spring 2024
+
+Course number: 57020
+
+Title: Flute Studio Performance Class:
+
+Units: 1.0
+
+Section: A,
+Course number: 57133
+
+Title: Elective Studio (Bassoon)
+
+Units: 3-9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Whipple,Instructor TBA
+
+Spring 2024
+
+Course number: 57134
+
+Title: Elective Studio (Saxophone)
+
+Units: 3-9
+
+Section: A,C,D,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kush,Defade,Marcus,Houlik
+
+Spring 2024
+
+Course number: 57135
+
+Title: Elective Studio (Horn)
+
+Units: 3-9
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+1946 – PiKA’s Buggy (from the 1947 Thistle). It didn’t win Design Competition, but it had the best aesthetic design. Prelim Heats and Results. The Prelims were run in 3 heats, with 3 teams in each. The rules initially stated that the winner of each heat would compete in the finals, but it seems that the rules changed to be the three fastest times instead, as the Prelim results printed in the May 7, 1946 Tartan indicate that the Finals was just a rematch of Prelim Heat 1. According to the May 7
+Event - Mini-1 Exams Date -  October 14 ; Event - Mini-1 Faculty Course Evaluations close Date -  October 16 ; Event - 20 M-F Fall Break; No Classes Date -  October 23 ; Day - Monday ; Event - Mini-2 Classes Begin Date -  October 23 ; Day - Monday ; Event - Mid-Semester & Mini-1 grades due by 4 pm Date -  October 27 ; Day - Friday ; Event - Mini-2 add, audit & tuition adjustment drop deadline (1) Date -  November 7 ; Day - Tuesday ; Event
+AI Innovation (11-654) – Prereq uisite is the completion of 11- 695 with a grade of “B” or
+
+better.
+
+Capstone (11-699) – Prerequisite is the completion of 11-654 with a grade of “B” or better.
+
+Students are required to repeat any required cour se that they have completed with a grade less
+
+than the required minimum, preferably at the nex t offering. (Please note that Core courses and
+
+Knowledge courses are only offered once per year.) Students will be  allowed to retake a required
+8. User interfaces, 1983 Why should humans adapt to fit computers? Shouldn’t computers adapt to fit humans? That was the attitude of CMU researchers, who applied design principles to computer science to develop better, easier-to-use interfaces. They called the new field “human-computer interaction.”
+
+
+Answer: 

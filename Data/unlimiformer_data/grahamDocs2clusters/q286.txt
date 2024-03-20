@@ -1,0 +1,161 @@
+Question: What time does Leading in a Lean and Six Sigma World start in Summer 2024?
+
+Context: Section: A3
+
+Days: T
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1007
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Apple
+
+Spring 2024
+
+Course number: 94491
+
+Title: Lean Innovation Lab
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 03:30PM
+
+End: 04:20PM
+
+Room: HBH 1004
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Riel
+
+Spring 2024
+
+Course number: 94700
+
+Title: Organizational Design & Implementation
+
+Units: 6.0
+
+Section: Z4,A3,B3
+
+Days: MW
+
+Start: 09:30AM,03:30PM,06:30PM
+Instructors: Sudbury
+
+Spring 2024
+
+Course number: 45803
+
+Title: Strategy, Performance Measurement and Corporate Governance:
+
+Units: 6.0
+
+Section:  ,A3
+
+Days:  ,MW
+
+Start:  ,04:00PM
+
+End:  ,05:45PM
+
+Room:  ,TEP 2112
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Sudbury
+
+Spring 2024
+
+Course number: 45805
+
+Title: Lean Entrepreneurship:
+
+Units: 6.0
+
+Section:  ,A3,B3
+
+Days:  ,MW
+
+Start:  ,10:00AM,02:00PM
+
+End: 03:45PM, ,11:45AM
+
+Room:  ,TEP 2112
+
+Locations:  ,Pittsburgh, Pennsylvania
+Start: 02:00PM
+
+End: 03:45PM
+
+Room: TEP 2202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bonaldi
+
+Fall 2023
+
+Course number: 45805
+
+Title: Lean Entrepreneurship
+
+Units: 6.0
+
+Section: A1,M1
+
+Days: M,MW
+
+Start: 08:30PM,10:00AM
+
+End: 11:45AM,09:45PM
+
+Room: TBA,TEP 2111
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bollinger,Kaigler
+
+Fall 2023
+
+Course number: 45807
+
+Title: Commercialization and Innovation: Strategy
+
+Units: 6.0
+
+Section: B1,A1
+
+Days: MW
+
+Start: 04:00PM,02:00PM
+Summer All, Two & Mini-6 Final Exams Date -  August 1 ; Day - Friday ; Event - Summer All, Two & Mini-6 Faculty Course Evaluations close Date -  August 5 ; Event - Summer All, Two & Mini-6 Final Grades Due by 4 pm
+Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Final Exams***
+
+Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Faculty Course Evaluations close
+
+Date -  August 6 ; Event - Semester & Mini-6 Final Grades Due by 4 pm
+
+Semester (6 weeks): (M-6, Tu-6, W-6, Th-5, F-5) Total=28
+
+Date Day Event
+
+Date -  June 24 ; Day - Monday ; Event - Summer Semester Two Classes Begin
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+
+
+Answer: 

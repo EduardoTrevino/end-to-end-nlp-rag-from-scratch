@@ -1,0 +1,79 @@
+Question: Which country does LTI have a special PhD program with?
+
+Context: Units: 1-48
+
+Section: PP,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Summer 2024
+
+Course number: 11935
+
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: P,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking,Callan
+
+Summer 2024
+
+Course number: 11936
+
+Title: PhD Internship
+
+Units: VAR
+
+Section: P,S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+We would like to thank our workers on MTurk for their responses. We are also grateful to the anonymous reviewers for their helpful comments. Special thanks to Saadia Gabriel, Jocelyn Shen, Ashutosh Baheti, and the members of the CMU LTI COMEDY group for their feedback, and Ope- nAI for providing access to the GPT-3.5 API. This research was supported in part by the Meta Fun- damental AI Research Laboratories (FAIR) “Dyn- abench Data Collection and Benchmarking Plat- form” award “ContExTox:
+Lan Anh Thuy Nguyen is a Ph.D. student at Doctoral School of Education, University of Szeged, Hun- gary, and she is on the Stipendium Hungaricum Scholarship program of the Hungarian government in collaboration with the Vietnamese government. Her research interests cover digital language learning, motivation in learning English as a foreign language, technology-based learning and assessment.
+areas include speech processing, information retrieval, machine translation, natural language
+
+processing, machine learning, and computational biology. Many MLT graduates continue on to PhD programs in the LTI or other leading universities. Other graduates  go on to work in the
+
+computer industry, many at major corporate research laboratories.
+An LTI Ph.D.  student who uses courses taken as a M aster ’s degree student (at Carnegie Mellon
+
+or elsewhere) toward their program requirements cannot use those same courses toward any
+
+other Master’s degree offered by the school . The LTI (like other SCS units) allows its Ph.D.
+
+students who have passed the requirements for an LTI Master’s degree to receive the master’s
+
+degree without any additional work. Any other sharing of coursework by an LTI student between
+Engineering, Ph.D. in Information Security) Universidade Nova de Lisboa, Faculdade de Ciências e Tecnologia – FCTUNL (Ph.D. in Computer Science) Universidade de Coimbra, Faculdade de Ciências e Tecnologia – FCTUC (Ph.D. in Information Science and Technology) Students jointly enrolled in the LTI Ph.D program spend a year in Portugal, then two years at Carnegie Mellon taking classes in linguistics, computer science, statistical learning and task orientation.
+
+
+Answer: 

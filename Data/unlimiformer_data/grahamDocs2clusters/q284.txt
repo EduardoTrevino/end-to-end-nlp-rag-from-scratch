@@ -1,0 +1,19 @@
+Question: Pittsburgh Supercomputing Center was created as a joint effort between which entities?
+
+Context: 7. ACKNOWLEDGEMENTS
+
+This work used the Bridges2 system [49], supported by NSF award number ACI-1445606, at the Pittsburgh Supercomputing Center.
+
+8. REFERENCES
+
+[1]
+
+S. Watanabe, T. Hori, and J. R. Hershey, “Language independent end-to-end architecture for joint language identiﬁcation and speech recognition,” in Proc. ASRU, 2017, pp. 265–271.
+Brian Yan and Shinji Watanabe are supported by the Human Language Technology Center of Excellence. This work also used the Extreme Science and Engineering Discovery Environment (XSEDE) (Towns et al., 2014), which is supported by National Science Foundation grant number ACI- 1548562; specifically, the Bridges system (Nys- trom et al., 2015), as part of project cis210027p, which is supported by NSF award number ACI- 1445606, at the Pittsburgh Supercomputing Center. This work also used GPUs
+All training, hyper-parameter tuning, and instruction-tuning experiments were executed on the Condor Galaxy 1 (CG-1) 24 AI supercomputer from Cerebras, built in partnership with G42. The final training and fine-tuning runs for Jais were performed on 16 CS-2 systems within CG-1. CG-1 is a Cerebras Wafer-Scale Cluster com- posed of Cerebras CS-2 systems, MemoryX, SwarmX, management, and input worker nodes. The foundation of the CG-1 cluster is the Cerebras Wafer Scale Engine (WSE) within the CS-2
+Separately, and also in 1986, the Pittsburgh Supercomputing Center was created as a joint effort between CMU, the University of Pittsburgh and Westinghouse Electric Corp.
+Launching a Robotics Institute In 1979, an executive at Pittsburgh’s Westinghouse Electric Corp., Tom Murrin, collaborated with Jordan and Reddy to create the Robotics Institute, with Reddy as its first director. By 1982, the Computer Science Department included more than 30 faculty members and 100 graduate students.
+In 1967, Carnegie Tech merged with the Mellon Institute, a science research center founded by the Mellon family of Pittsburgh, to become known as Carnegie Mellon University. The merger built upon a long history of support from the Mellons. It allowed Carnegie Mellon to establish the last of its current pillars: the Mellon College of Science and the College of Humanities and Social Sciences, now known as Marianna Brown Dietrich College of Humanities and Social Sciences. In 2017, Carnegie Mellon
+
+
+Answer: 

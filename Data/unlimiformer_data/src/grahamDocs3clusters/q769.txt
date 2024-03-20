@@ -1,0 +1,150 @@
+Question: When were Simon and Newell of CMU awarded the Turing award?
+
+Context: Searle, the Chuchlands, and Turing provide our backdrop. I will show how recent work in artificial intelligence is starting to fill the empirical gap identified by the Churchlands, providing evidence that at least some semantics may fall out of syntax, vindicating Turing’s agnostic stance (Fig. 1).
+
+In one of the most cited artificial intelligence papers of 2020, which also won the ACL 2020 Best Theme Paper Award, Emily Bender and Alexander Koller (2020)
+Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3, 417–424. Searle, J. R. (1992). The rediscovery of the mind. MIT Press. Shieber, S. M. (2004). The Turing Test: Verbal behavior as the hallmark of intelligence. Computational
+
+Linguistics, 31, 407–412.
+
+Signorelli, C. M. (2018). Can computers become conscious and overcome humans? Frontiers in Robotics
+
+and AI, 5, 121.
+(DARPA) Young Faculty Award and DARPA Director Award under Grant No. N66001-17-1-4044, an Intel faculty award, the Okawa Foundation award, a Northrop Grumman grant, and Google cloud program. A part of this work used the Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant number ACI-1548562. R.B. has been supported in part by a NSF award under grant DMS-2108900 and by the Simons Foundation. The views, opinions, and/or findings
+Room: PH A18A,PH A19,PH A19A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gray
+
+Fall 2023
+
+Course number: 80180
+
+Title: Nature of Language
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 12:00PM
+
+End: 12:50PM
+
+Room: MM 103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Simons
+
+Fall 2023
+
+Course number: 80210
+
+Title: Logic and Proofs
+
+Units: 9.0
+
+Section: A,C,B,W
+
+Days: R,F
+
+Start: 04:00PM,01:00PM,10:00AM,11:00AM
+
+End: 11:50AM,10:50AM,01:50PM,04:50PM
+
+Room: BH 150,CMB 1202,WEH 4707
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: PH 226A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Simons
+
+Spring 2024
+
+Course number: 80306
+
+Title: Decision Theory
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zollman
+
+Spring 2024
+
+Course number: 80311
+
+Title: Undecidability and Incompleteness
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH 125B
+
+Locations: Pittsburgh, Pennsylvania
+Section: 44,D4,A4
+
+Days: R,MW
+
+Start: 12:30PM,05:00PM
+
+End: 01:50PM,06:20PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gennari
+
+Spring 2024
+
+Course number: 17645
+
+Title: Machine Learning in Production:
+
+Units: 12.0
+
+Section: A,E,B,F,G,C,D,Lec,
+
+Days:  ,F,MW
+
+Start: 09:30AM, ,11:00AM,02:00PM
+
+End: 10:50AM, ,12:20PM,03:20PM
+
+Room: WEH 5310,PH 226C,PH A22,GHC 4215,CMU REMOTE, ,PH 100,WEH 4709
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Kaestner, Le Goues
+Turing Awards and a Nobel Prize In 1975, Simon and Newell were awarded the A.M. Turing Award for their work in artificial intelligence. (As of 2014, 12 CMU alumni or faculty have been awarded Turings, sometimes considered the Nobel Prize of computing.) Three years later, Simon received the Nobel Prize in Economics for his work on decision-making theory. As the 1970s progressed, Newell became interested in human-computer interaction, and began a long relationship with Xerox’s Palo Alto Research
+First freshman-level computer science course In 1956 and 1957, Simon, Allen Newell (IA’57) and Cliff Shaw of RAND designed the Logic Theorist, a computer program that could develop proofs for theorems in much the same way a human would work. They also developed linked-list data structures, the foundation of computer programming. Perlis, Simon and Newell are credited with defining the term “computer science” as “the theory and design of computers,” as well as (in Newell’s words) “the study of
+15. Model checking, 1994 CMU professor Edmund Clarke had long stressed the importance of verifying computer hardware and software through a formal problem-solving technique called “model checking.” In 1994, his arguments gained new weight with the discovery that Intel’s amazing new Pentium chip made errors on certain math problems. Clarke would go on to receive the Turing Award for his role in the development of model checking.
+
+
+Answer: 

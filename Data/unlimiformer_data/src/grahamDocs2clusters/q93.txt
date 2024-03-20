@@ -1,0 +1,41 @@
+Question: How many test examples are included in the WebArena benchmark?
+
+Context: We provide a benchmark with 812 test examples on grounding high-level natural language instructions to interactions in WebArena. Each example has a metric to evaluate the functional correctness of the task execution. In this section, we first formally define the task of controlling an autonomous agent through natural language. Then we introduce the annotation process of our benchmark.
+
+3.1
+
+INTENT COLLECTION
+We present WebArena, a highly-realistic, standalone, and reproducible web environment designed for the development and testing of autonomous agents. WebArena includes fully functional web applications and genuine data from four major categories, providing a realistic platform for agent interaction. It further supports a wide range of tools and external knowledge bases, fostering a focus on human-like problem-solving. Additionally, we curate a comprehensive benchmark consisting of 812 examples
+Along with WebArena, we release a ready-to-use benchmark with 812 long-horizon web-based tasks (§3). Each task is described as a high-level natural language intent, emulating the abstract language usage patterns typically employed by humans (Bisk et al., 2019). Two example intents are shown in the upper left of Figure 1. We focus on evaluating the functional correctness of these tasks, i.e., does the result of the execution actually achieve the desired goal (§3.2). For instance, to evaluate the
+example, Dig ital Signal Processing in ECE. Please see the Program Director for approval
+
+of electives as “SCS .”
+
+“LTI Focus Areas” are sets of courses defined on the LTI course webpage under “Course Categories .” If a student believes a new course should be added to a Focus Area, they
+Example 3: Human-Centered Data Science Major, 16 Months Example Schedule
+
+Empirical Analysis of Interactive Systems: - Fall: ML, Econometrics, Social Web, Network Science, Business Analytics - Spring: Interactive Data Science, Psych Found for Design Impact, Econometrics, DHCS
+
+Social Web Analytics & Design: - Fall: ML, ARM, Social Web, Network Science - Spring: Crowd Programming, Data Pipeline, ML for Text Analytics, DHCS
+Fall 2:
+
+Conversational Interfaces
+
+MIIS Capstone Project
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems who has petitioned to have the summer internship waived.
+
+Fall 1: - Search Engines - Analysis of Social Media - Design and Engineering of Intelligent Systems - Directed Study
+
+Spring:
+
+Machine Learning
+
+Natural Language Processing
+
+Question Answering
+
+Directed Study
+
+
+Answer: 

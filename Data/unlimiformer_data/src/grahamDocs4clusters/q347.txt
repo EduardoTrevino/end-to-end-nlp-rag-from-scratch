@@ -1,0 +1,227 @@
+Question: Which two NLP tasks were applied with the NLPositionality framework in the study?
+
+Context: results generalize to the entire group; further, it may risk tokenizing already marginalized communities. As part of our study, we apply NLPositionality to only two tasks which have relatively straightfor- ward annotation schemes. It may be difficult to generalize to other NLP tasks which have harder annotation schemes, especially ones that require a lot of explanation to the annotators, for example, natural language inference (NLI) tasks.
+We apply NLPositionality to two case studies of NLP tasks—social acceptability and hate speech detection—which are known to exhibit design bi- ases (Talat et al., 2022; Sap et al., 2022; Ghosh et al., 2021). We examine datasets and supervised models related to these tasks as well as general- purpose large language models (i.e., GPT-4). As of May 25 2023, a total of 16, 299 annotations were collected from 1, 096 annotators from 87 countries, with an average of 38 annotations per day. We dis-
+In this paper, we characterized design biases and the positionality of datasets and models in NLP. We introduced the NLPositionality framework for identifying design biases in NLP datasets and models. NLPositionality consists of a two-step process of collecting annotations from diverse an- notators for a specific task and then computing the alignment of the annotations to dataset labels and model predictions using Pearson’s r. We applied NLPositionality to two tasks: social acceptability and
+End: 08:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: John
+
+Spring 2024
+
+Course number: 98020
+
+Title: Student Taught Courses (StuCo): Deconstructing the Barbie Cinematic Universe:
+
+Units: 3.0
+
+Section: A,
+
+Days: W,
+
+Start:  ,07:00PM
+
+End:  ,08:20PM
+
+Room:  ,GHC 4211
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Thai-Tang
+
+Spring 2024
+
+Course number: 98031
+
+Title: Student Taught Courses (StuCo): NLP Ethics in a Nutshell
+
+Units: 3.0
+
+Section: W3
+
+Days: UT
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Synnott
+
+Spring 2024
+
+Course number: 94812
+
+Title: Applications of NL(X) and LLM
+
+Units: 6.0
+
+Section: A3
+
+Days: TRF
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 1007
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rao
+
+Spring 2024
+
+Course number: 94813
+
+Title: Project Management
+
+Units: 6.0
+
+Section: A3,B3
+
+Days: MW
+
+Start: 03:30PM,02:00PM
+
+End: 04:50PM,03:20PM
+
+Room: HBH 2009
+Course number: 05680
+
+Title: Independent Study in HCI - METALS
+
+Units: VAR
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bodnar, Bett,Bett, Bodnar
+
+Summer 2024
+
+Course number: 05682
+
+Title: METALS Project 2
+
+Units: 48.0
+
+Section: A
+
+Days: W
+
+Start: 03:30PM
+
+End: 05:20PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McLaren, Koedinger
+
+Summer 2024
+
+Course number: 05683
+
+Title: METALS Capstone II Part I
+
+Units: 24.0
+In the spring, the Task Force partnered with SME Branding — a firm with more than 17 years of experience creating mascots for professional sports teams and universities — to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.
+Tartan, Heat 1 saw a very tight race between KapSig, DTD, and PiKA, with KapSig winning in 3:24.5, DTD finishing in 3:25.1, and PiKA finishing in 3:26.3. Those were the top 3 times and they advanced to the finals. Prelim Heat 2 paired Beta, SAE, and DU, and SAE won the heat by default, as Beta was DQ’d for a pushbar violation and DU was DQ’d for a Hill 4-5 transition violation (the Tartan reports that they “shoved the buggy into the last zone instead of pushing it”). Prelims Heat 3 was a battle
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Machine Translation
+
+Spring 2:
+
+Comp Semantics for NLP
+
+Neural Networks for NLP
+
+Elective
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in deepening their expertise in Human Language area of concentration
+
+Fall 1:
+
+Natural Language Processing
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+
+
+Answer: 

@@ -1,0 +1,173 @@
+Question: In the Convoifilter paper, what is the WER achieved by the joint fine-tuning strategy?
+
+Context: However, speech enhancement can create anomalies that decrease ASR efficiency. By imple- menting a joint fine-tuning strategy, the model can reduce the WER from 26.4% in separate tuning to 14.5% in joint tun- ing. We openly share our pre-trained model to foster further research hf.co/nguyenvulebinh/voice-filter.
+2.3. Joint fine-tuning strategy
+multi-task pretrained retriever achieves superior zero-shot performance compared to re- cent state-of-the-art (SOTA) self-supervised dense retrievers and BM25 (Robertson and Zaragoza, 2009). When fine-tuned using multiple datasets jointly, COS can further benefit from high-quality supervision effectively, leading to new SOTA re- trieval results across the board. Further analy- ses show the benefits of our modularization pa- rameterization for multi-task pretraining and fine- tuning, as well as
+Room: HBH 2009
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Branstetter
+
+Fall 2023
+
+Course number: 88418
+
+Title: Negotiation: Strategies and Behavioral Insights
+
+Units: 9.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: WEH 5421
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Saccardo
+
+Fall 2023
+
+Course number: 88452
+
+Title: Policy Analysis Senior Project
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 05:20PM
+
+Room: PH A18B
+
+Locations: Pittsburgh, Pennsylvania
+Title: AI for Manipulation:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,NSH 3002
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Kroemer
+
+Fall 2023
+
+Course number: 16741
+
+Title: Mechanics of Manipulation
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Erickson
+
+Fall 2023
+
+Course number: 16782
+
+Title: Planning and Decision-making in Robotics
+
+Units: 12.0
+
+Section: A
+End: 01:50PM
+
+Room: WEH 4708
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Coulson
+
+Spring 2024
+
+Course number: 76774
+
+Title: Software Documentation
+
+Units: 9.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: WEH 5202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Houser
+
+Spring 2024
+
+Course number: 76790
+
+Title: Style
+
+Units: 9,12
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 5328
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Idzik
+
+Spring 2024
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+Goals: The goals of the Club are as follows:
+and the organizations snuck out at midnight to get some practice on the course. Avoiding Controversies. After the controversy of 1947 (which, sadly and as noted above, we don’t have details of), Sweepstakes decided to tighten up the rules to avoid any confusion for Raceday. Of course, we don’t have the rules that were tightened either. We’ll keep digging, and if we find it out, we’ll update this post. On the plus side, 1948 didn’t appear to have any controversies. Prelim Results. Raceday itself
+Important Note: MCDS implements the above policy’s option of “conven[ing] a disciplinary hearing according to the procedures of the department/program”. We have adopted the following hearing procedure and “two strikes” rule:  If an instructor determines that an academic integrity violation has occurred, both the instructor and students are given the opportunity to explain the situation to the MCDS program committee. A written hearing by email suffices for this purpose.  The program committee
+source for either written or oral use must be  fully acknowledged in academic work to be
+
+graded.”
+
+It is a violation of academic integrity for you to assist anyone else in violating the policy or to
+
+provide your work to others to assist them. Be cause team deliverables are the product of joint
+
+work, it is the responsibility of each member of  a team to ensure that all team materials have
+
+been produced in conformance with CMU policies. Credit cannot be given fo r work that is not a
+Separately, and also in 1986, the Pittsburgh Supercomputing Center was created as a joint effort between CMU, the University of Pittsburgh and Westinghouse Electric Corp.
+
+
+Answer: 

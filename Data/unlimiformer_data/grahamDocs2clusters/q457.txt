@@ -1,0 +1,31 @@
+Question: When was the Center for Machine Translation established at CMU?
+
+Context: 3 2 0 2
+
+b e F 4
+
+] L C . s c [
+
+1 v 8 7 1 2 0 . 2 0 3 2 : v i X r a
+
+Construction Grammar Provides Unique Insight into Neural Language Models Leonie Weissweiler*(cid:5), Taiqi He†, Naoki Otani†, David R. Mortensen†, Lori Levin†, Hinrich Schütze*(cid:5) *Center for Information and Language Processing, LMU Munich (cid:5)Munich Center of Machine Learning †Language Technologies Institute, Carnegie Mellon University weissweiler@cis.lmu.de {taiqih,notani,dmortens,lsl}@cs.cmu.edu
+
+Abstract
+
+the
+Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. Bleu: a method for automatic evaluation of machine translation. In Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics, pages 311–318, Philadelphia, Pennsylvania, USA, July 2002. Association for Computational Linguistics. doi: 10.3115/1073083.1073135.
+
+Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang. Squad: 100, 000+ questions for machine
+Jörg Tiedemann and Santhosh Thottingal. OPUS-MT — Building open translation services for the World. In Proceedings of the 22nd Annual Conferenec of the European Association for Machine Translation (EAMT), Lisbon, Portugal, 2020.
+
+Chau Tran, Shruti Bhosale, James Cross, Philipp Koehn, Sergey Edunov, and Angela Fan. Facebook
+
+ai’s wmt21 news translation task submission. In Proc. of WMT, 2021.
+
+13
+SCS is officially formed CMU’s Faculty Senate in the fall of 1988 agreed to President Richard Cyert’s plan to elevate the Department of Computer Science to college status. In addition to the Computer Science Department, SCS also incorporated the Robotics Institute, the Center for Machine Translation, and researchers from the Information Technology Center, which had developed Andrew. On Dec. 13, 1988, Cyert (H’89) told faculty and staff that Habermann had been appointed CMU’s first Dean of
+New departments, new areas of study Along the way, the Center for Machine Translation became the Language Technologies Institute, and other new departments were formed, including the Human-Computer Interaction Institute (1993), the Institute for Software Research (1999), the Machine Learning Department (2006) and the Ray and Stephanie Lane Center for Computational Biology (2009). SCS’s seven degree-granting departments draw faculty and students from a wide variety of disciplines, including
+Separately, and also in 1986, the Pittsburgh Supercomputing Center was created as a joint effort between CMU, the University of Pittsburgh and Westinghouse Electric Corp.
+
+
+Answer: 

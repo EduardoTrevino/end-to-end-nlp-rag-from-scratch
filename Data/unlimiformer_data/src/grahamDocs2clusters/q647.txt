@@ -1,0 +1,187 @@
+Question: In spring 2024, How many units is course 10605?
+
+Context: Spring 2024
+
+Course number: 10635
+
+Title: Practicum
+
+Units: VAR
+
+Section: I
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shah
+
+Spring 2024
+
+Course number: 10697
+
+Title: Reading and Research
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shah
+
+Spring 2024
+
+Course number: 10701
+
+Title: Introduction to Machine Learning (PhD)
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:30AM
+Spring 2024
+
+Course number: 53723
+
+Title: Digital Art Studio A (Entertainment Design Studio)
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: PTC 5208
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Washington
+
+Spring 2024
+
+Course number: 53730
+
+Title: Programming for Game Designers
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HL 106B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Light
+
+Spring 2024
+
+Course number: 53735
+Start: 12:30PM,11:00AM
+
+End: 01:50PM,12:20PM
+
+Room: TEP 1403,GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chai, Gormley, Heidari
+
+Spring 2024
+
+Course number: 10605
+
+Title: Machine Learning with Large Datasets
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: DH 2210
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gordon, Talwalkar
+
+Spring 2024
+
+Course number: 10615
+
+Title: Art and Machine Learning
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 07:00PM
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+Classes can be found at https://enr-apps.as.cmu.edu/o pen/SOC/SOCServlet/search .
+
+Students are then required to take and su ccessfully complete the courses below:
+
+2) The Core Courses (87 units) - Must be taken in THIS SEQUENCE:
+
+11-651 – AI & Future Markets – (12 units). First  Fall semester. Only open to MSAII.
+
+17-762 – Law of Computer Technolo gy (12 units). First Fall semester
+
+11-695 – AI Engineering (12 un its). First Spring semester
+
+
+Answer: 

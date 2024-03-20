@@ -1,0 +1,31 @@
+Question: What is another name for the vehicle being raced in sweepstakes?
+
+Context: As an example of what capabilities we want our rule engine to have, suppose we are using Score to plan a trip, which can be represented as an event type. If we know that the vehicle used in the trip is an airplane, then the trip involves ﬂying, whereas if the vehicle used is a car, then the trip involves driving. These inferences can be phrased informally as rules saying “if there is a trip event and the vehicle used is an airplane, then the trip is a ﬂying event” and similarly for the other
+(new-indv {my trip} {traveling event}) (new-indv {my vehicle} {airplane}) (x-is-a-y-of-z {my vehicle} {travel vehicle} {my trip}) (assert (simple-is-x-a-y? {my trip} {flying event}))
+
+This code creates a new individual trip, a new individual vehicle that is an airplane, and sets {my vehicle} as the {travel vehicle} of the trip. The assertion succeeds, indicating that the rule succesfully ﬁred and added the link “my trip is a ﬂying event” to the knowledge base.
+car/vehicle/SUV/tractor/etc. drives nicely, This jet/plane/aircraft/etc. flies smoothly). In fact, the examples that davinci-003 gets the “most wrong” (higher LLincorrect − LLcorrect) are sen- tences with these verb-noun combinations.
+Sweepstakes Slang
+
+Buggy: Vehicle being raced and also a nickname for the competition.
+
+Chute: A section of the freeroll portion of the buggy course (near the southwestern end of Frew Street at its intersection with Schenley Drive) where buggies make the sharp righthand turn from Schenley Drive onto Frew Street.
+
+Chute Flagger: Team member who provides a signal for buggy drivers to know when to start the right-hand turn from Schenley Drive onto Frew Street.
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+
+
+Answer: 

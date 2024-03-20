@@ -1,0 +1,140 @@
+Question: What does CodeBERTScore encode in addition to the generated tokens?
+
+Context: First, CodeBERTScore encodes et al., 2020). the generated code and the reference code inde- pendently with pretrained models, with the inclu- sion of natural language instructions or comments. Then, we compute the cosine similarity between the encoded representations of each token in the generated code and each token in the reference code. Finally, the best matching token vector pairs are used to compute precision and recall. Code- BERTScore allows comparing code pairs that are lexically
+Since the rise of neural natural-language-to- code models (NL→Code) that can generate long expressions and statements rather than a single next-token, one of the major prob- lems has been reliably evaluating their gen- In this paper, we propose erated output. CodeBERTScore: an evaluation metric for code generation, which builds on BERTScore (Zhang et al., 2020). Instead of encoding only the generated tokens as in BERTScore, CodeBERTScore also encodes the natural lan- guage input preceding the
+Figure 2: A diagram illustrating CodeBERTScore: We use a language-specific CodeBERT model to encode each of ⟨natural_language, reference_code⟩ and ⟨natural_language, generated_code⟩. We then compute the pairwise cosine similarity between every encoded token in the reference and every encoded token in the generated code, ignoring the encoded natural language context tokens and encoded punctuation tokens; finally, we take the max across the rows of the resulting matrix to compute Precision and
+Title: Coding & Control for Theatrical Sound
+
+Units: 9.0
+
+Section: A
+
+Days: W
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: PCA 103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Blackwood
+
+Fall 2023
+
+Course number: 54841
+
+Title: Costume Design for Dance
+
+Units: 5.0
+
+Section: A2
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PCA 305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eshelman
+
+Fall 2023
+
+Course number: 54848
+
+Title: Patterning Fundamentals
+
+Units: 6.0
+
+Section: A1
+
+Days: T
+Course number: 17445
+
+Title: Machine Learning in Production:
+
+Units: 12.0
+
+Section: A,E,B,F,G,C,D,Lec,
+
+Days:  ,F,MW
+
+Start: 09:30AM, ,11:00AM,02:00PM
+
+End: 10:50AM, ,12:20PM,03:20PM
+
+Room: WEH 5310,PH 226C,PH A22,GHC 4215,CMU REMOTE, ,PH 100,WEH 4709
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Kaestner, Le Goues,Le Goues, Kaestner
+
+Spring 2024
+
+Course number: 17514
+
+Title: Principles of Software Construction: Objects, Design, and Concurrency
+
+Units: 12.0
+Title: Coding & Control for Theatrical Sound
+
+Units: 5.0
+
+Section: A
+
+Days: W
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: PCA 103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Blackwood
+
+Fall 2023
+
+Course number: 54341
+
+Title: Fundamentals of Costume Design
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PCA 305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gajic
+
+Fall 2023
+
+Course number: 54350
+
+Title: Scenic Design Forum
+
+Units: 1.0
+
+Section: A
+
+Days: R
+The Carnegie Mellon Code can also be found on-line at: https://www.cmu.edu/student-affairs/theword/ . 2 The Language Technologies Institute 2.1 Main Office The Gates Hillman Complex: Mailboxes, printers, copiers, and other departmental resources are in GHC 5404. 112.2 Photocopies and Printers The use of a printer/copier requires a CS user id (see the ‘Computers’ section). The School of Computer Science provides several black-and-white and color printers for use by students. SCS Computing
+Successful applicants will have a minimum TOEFL score of 100 (Reading, Listening, Speaking, Writing scores all 25 or above), IELTS score of 7.5 (Reading 7 or above, Listening 7 or above, Speaking 7.5 or above, Writing 6.5 or above), or DuoLingo score of 120 (Literacy 115 or above, Comprehension 125 or above, Production 100 or above, Conversation 105 or above). Our Institution Code is 4256; the Department Code is 78. Additional details about English proficiency requirements are provided on the
+21. RNA sequencing via videogames, 2010 Thanks to crowdsourcing, science isn’t just for scientists any more. People without formal training in molecular biology are producing new insights into genetic encoding through a videogame called EteRNA, developed by researchers at CMU and Stanford, that allows players to fold and shift RNA molecules to solve on-screen puzzles.
+
+
+Answer: 

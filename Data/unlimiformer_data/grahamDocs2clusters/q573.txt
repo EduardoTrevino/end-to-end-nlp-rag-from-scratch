@@ -1,0 +1,33 @@
+Question: When was the buggy course laid out in lanes for the first time?
+
+Context: participants recalled the rise of bench- marks in the late 1990s and early 2000s, coinciding with a major expansion in the NLP community in the wake of the “statistical revolution,” where participants described statistical models displacing more traditional rules-based work (see Figure 2). In the words of one participant, the field became of “such a big snowballing size that nobody owned the first evers anymore.” (26). Instead, after the release of the Penn Treebank in 1993 and the reporting of
+Azim T, Neamtiu I (2013) Targeted and depth-first exploration for systematic testing
+
+of android apps. In: OOPSLA. ACM, pp 641–660
+
+Bach T, Andrzejak A, Pannemans R, et al (2017) The impact of coverage on bug
+
+density in a large industrial software project. In: ESEM. IEEE, pp 307–313
+
+Baek YM, Bae D (2016) Automated model-based Android GUI testing using multi-
+
+level GUI comparison criteria. In: ASE. ACM, pp 238–249
+
+27
+
+context.
+
+guide.
+
+guide.
+
+tool.
+[CHM+23] Mike Conover, Matt Hayes, Ankit Mathur, Jianwei Xie, Jun Wan, Sam Shah, Ali Ghodsi, Patrick Wendell, Matei Zaharia, and Reynold Xin. Free Dolly: Introducing the world’s first truly open instruction-tuned LLM. https://www.databricks.com/blog/2023/04/12/ dolly-first-open-commercially-viable-instruction-tuned-llm, 2023.
+seen it yet! And On New Roads! This is the first record we have of the roads being paved! 2 weeks before Raceday, the City of Pittsburgh re-paved the Buggy course, allowing the buggies to race on fresh roadways. Pittsburgh Police were also out in full force on Raceday to assist with course control…Though as you’ll see, this was probably only during the Prelims. New Rules in Place. The April 9, 1946 Tartan printed the 12 rules for Buggy, our first look at the rules in several years. A lot of the
+The starting line from the inaugural race in June 1920 was outside what is now known as the College of Fine Arts building. Racers then traveled toward Margaret Morrison Carnegie Hall, went up Tech Street, down through Schenley Park and then turned back to campus. Buggies would then take pit stops and have their rear wheels swapped before heading back toward the starting line.
+
+Alpha Kappa Psi, the first sorority to enter a Buggy on race day, in 1922.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+
+
+Answer: 

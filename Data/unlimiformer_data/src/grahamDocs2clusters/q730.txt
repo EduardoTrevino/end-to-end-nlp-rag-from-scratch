@@ -1,0 +1,135 @@
+Question: What time in eastern time was the final application deadline for the PhD program in language and information technology? Give your answer in 12h time format with either an am or pm label.
+
+Context: Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Title: Applied Microeconomics Seminar
+
+Units: 0.0
+
+Section: A
+
+Days: T
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 2003
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Jha
+
+Spring 2024
+
+Course number: 90989
+
+Title: Phd Internship
+
+Units: VAR
+
+Section: A,M4
+
+Days: TBA,MW
+
+Start: ,02:00PM
+
+End: ,03:20PM
+
+Room: DNM DNM,WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chen,Kantor
+
+Spring 2024
+
+Course number: 16224
+
+Title: IDeATe: Re-Crafting Computational Thinking with Soft Technologies
+Title: Topics in Second Language Acquisition:
+
+Units: 9.0
+
+Section: A,B,C,D,
+
+Days: M, ,MW,TR
+
+Start: 12:30PM, ,04:00PM,02:00PM
+
+End:  ,01:50PM,06:50PM,03:20PM
+
+Room: DH 1209,WEH 5304, ,PH A21,PH A19D
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Van Compernolle,Al Masaeed,Amgott,Wiener
+
+Fall 2023
+
+Course number: 82989
+
+Title: Second Language Acquisition Dissertation Research
+
+Units: 3-36
+
+Section: A,E,B,F,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+29, 2023 at 3 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship. For more information, please refer to the School of Computer Science Fee Waiver page. Requirements The School of Computer Science requires the following for all Ph.D. applications. GRE scores: GREs are now optional, but if you want to submit GRE scores:These must be less than five years old. The GRE Subject Test is not required, but is recommended. Our Institution Code is 2074;
+be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application Deadline December 13, 2023 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted by November 29, 2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select programs. For more information, please refer to the School of Computer Science Fee Waiver page. Requirements The School of Computer Science
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29, 2023 at 3PM EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science Fee Waiver
+
+
+Answer: 

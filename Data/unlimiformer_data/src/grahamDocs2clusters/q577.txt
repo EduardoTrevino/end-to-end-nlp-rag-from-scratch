@@ -1,0 +1,57 @@
+Question: In "CONVOIFILTER: A CASE STUDY OF DOING COCKTAIL PARTY SPEECH RECOGNITION" what 3 letter metric was reduced from 80% to 26.4%?
+
+Context: 4 2 0 2
+
+n a J
+
+8
+
+]
+
+D S . s c [
+
+2 v 0 8 3 1 1 . 8 0 3 2 : v i X r a
+
+CONVOIFILTER: A CASE STUDY OF DOING COCKTAIL PARTY SPEECH RECOGNITION
+
+Thai-Binh Nguyen1, Alexander Waibel1,2
+
+1Karlsruhe Institute of Technology 2Carnegie Mellon University thai-binh.nguyen@kit.edu
+
+ABSTRACT
+This paper presents an end-to-end model designed to im- prove automatic speech recognition (ASR) for a particular speaker in a crowded, noisy environment. The model utilizes a single-channel speech enhancement module that isolates the speaker’s voice from background noise (ConVoiFilter) and an ASR module. The model can decrease ASR’s word error rate (WER) from 80% to 26.4% through this approach. Typically, these two components are adjusted independently due to vari- ations in data requirements.
+This paper details a case study on cocktail party speech recog- nition. Instead of recognizing all speakers, our system focuses on enhancing the target speaker’s voice before conducting speech recognition. Through rigorous experiments, we show- cased the effectiveness of our improved end-to-end model. Noteworthy enhancements include a cross-extraction speaker encoder, an improved mask estimation model, and an opti- mized loss function. We also publicly share our pre-trained ConVoiFilter to
+5.3.2  Summary of Graduate Student Appeal and Grievance Procedures  ....................... 25
+
+5.3.3  Process for Appealing Final Grades  ....................................................................... 25
+
+5.3.4  Safeguarding Educational Equity: Sexual Misconduct Policy  .................................  26
+
+5.3.5  Gestational and Parental Accommodation  ........................................................... 26 MLT Graduate Student Handbook  Page 4
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

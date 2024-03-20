@@ -1,0 +1,59 @@
+Question: What type of models does the AV-SUPURB benchmark evaluate?
+
+Context: CUTTLEFISH: Low-rank Model Training without All The Tuning
+
+Table 4. Vanilla BERTBASE, Distill BERT, Tiny BERT6, as well as CUTTLEFISH BERTBASE are evaluated on the GLUE benchmark. F1 scores are used as the metric for QQP and MRPC, while Spearman correlations are reported for STS-B, and accuracy scores are reported for the remaining tasks.
+
+Model
+
+# Params. (M )
+
+MNLI
+
+QNLI QQP
+
+RTE
+
+SST-2 MRPC CoLA STS-B Avg.
+
+BERTBASE Distill BERT
+
+108.3
+
+65.8
+
+83.9/84.4
+
+81.1/82.0
+
+90.9
+
+89.1
+
+87.6
+
+86.2
+Speech processing Universal PERformance Benchmark (SU- PERB) is a leaderboard to benchmark the performance of Self- Supervised Learning (SSL) models on various speech process- ing tasks. However, SUPERB largely considers English speech in its evaluation. This paper presents multilingual SUPERB (ML-SUPERB), covering 143 languages (ranging from high- resource to endangered), and considering both automatic speech recognition and language identification. Following the concept of SUPERB, ML-SUPERB
+We use LLaVA-Bench (Liu et al., 2023a) and our MMHAL-BENCH as our main evaluation met- rics for their high alignment with human preferences. In addition, we conducted tests on widely- recognized Large Multimodal Model benchmarks. We employed MMBench (Liu et al., 2023b), a multi-modal benchmark offering an objective evaluation framework comprising 2,974 multiple- choice questions spanning 20 ability dimensions. This benchmark utilizes ChatGPT to juxtapose model predictions against desired
+The Office of the Assistant Vice Provost for Graduate Education (AVPGE) offers a robust schedule of professional development opportunities. Some are geared towards a specific population (master’s students, PhD students at the beginning of their program, graduate students seeking tenure track positions, etc.) and others are open to all graduate students (time management, balancing, staying healthy). A full schedule of programs can be found at: http://www.cmu.edu/graduate/.
+The Office of the Assistant Vice Provost for Graduate Education (AVPGE) offers a robust schedule of professional development opportunities. Some are geared towards a specific
+
+population (master’s students, Ph.D.  students at the beginning of their program, graduate
+
+students seeking tenure track positions, etc.) and others are open to all graduate students (time management, balancing, staying healthy) . A full schedule of programs can be found at:
+
+http://www.cmu.edu/graduate/
+
+.
+Analytics. Students electing to complete the Analytics concentration will also learn to:
+
+Design, implement and evaluate a software system and machine
+
+learning model on real world datasets at real world scale.
+
+Analyze and document data science requirements in different application domains and survey as well as critique state of the art solutions for those requirements.
+
+Systems. Students electing to complete the Systems concentration will also learn to:
+
+
+Answer: 

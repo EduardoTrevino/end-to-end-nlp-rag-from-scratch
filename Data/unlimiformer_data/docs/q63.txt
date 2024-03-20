@@ -1,0 +1,145 @@
+Question: What year was the first artificial intelligence program created?
+
+Context: [59] Z. Yu, D. Xu, J. Yu, T. Yu, Z. Zhao, Y. Zhuang, and D. Tao. Activitynet-qa: A dataset for understanding complex web videos via question answering. In The Thirty-Third AAAI Conference on Artificial Intelligence, AAAI 2019, The Thirty-First Innovative Applications of Artificial Intelligence Conference, IAAI 2019, The Ninth AAAI Symposium on Educational Advances in Artificial Intelligence, EAAI 2019, Honolulu, Hawaii, USA, January 27 - February 1, 2019, pages 9127–9134, 2019.
+Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, and Yejin Choi. ATOMIC: an atlas of machine com- monsense for if-then reasoning. In The Thirty-Third AAAI Conference on Artificial Intelligence, AAAI 2019, The Thirty-First Innovative Applications of Artificial Intelligence Conference, IAAI 2019, The Ninth AAAI Symposium on Educational Advances in Artificial Intelligence, EAAI 2019, Honolulu, Hawaii, USA, January 27 -
+Maarten Sap, Ronan Le Bras, Emily Allaway, Chan- dra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, and Yejin Choi. 2019a. ATOMIC: an atlas of machine commonsense for if-then reasoning. In The Thirty-Third AAAI Con- ference on Artificial Intelligence, AAAI 2019, The Thirty-First Innovative Applications of Artificial In- telligence Conference, IAAI 2019, The Ninth AAAI
+Title: Applied AI (Artificial Intelligence):
+
+Units: 6.0
+
+Section:  ,A3,R3
+
+Days: R,
+
+Start:  ,05:30PM
+
+End:  ,07:20PM
+
+Room: TBA, ,B23 118
+
+Locations:  ,San Jose, California
+
+Instructors: Dai
+
+Spring 2024
+
+Course number: 49780
+
+Title: Human Computer Interaction & User Experience:
+
+Units: 6.0
+
+Section: B4, ,R4
+
+Days: R,
+
+Start:  ,07:30PM
+
+End:  ,09:20PM
+
+Room: TBA, ,B23 109
+
+Locations:  ,San Jose, California
+
+Instructors: Prayaga
+
+Spring 2024
+
+Course number: 49781
+Instructors: Kaufman
+
+Spring 2024
+
+Course number: 05617
+
+Title: Design of Artificial Intelligence Products:
+
+Units: 12.0
+
+Section: A, ,B
+
+Days:  ,MW,TR
+
+Start:  ,11:00AM,03:30PM
+
+End:  ,12:20PM,04:50PM
+
+Room:  ,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Forlizzi, Saffer,Zimmerman, Yildirim
+
+Spring 2024
+
+Course number: 05618
+
+Title: Human AI Interaction:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room:  ,GHC 4211
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 146,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Habib
+
+Spring 2024
+
+Course number: 17737
+
+Title: Artificial Intelligence Methods for Social Good
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: SH 236
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Fang
+
+Spring 2024
+
+Course number: 17745
+
+Title: Machine Learning in Production
+
+Units: 12.0
+
+Section: E,F,G,C,Lec
+
+Days: F,MW
+
+Start: 11:00AM,02:00PM
+1948 saw the first independent orgs and the start of DTD’s run of greatness, but it wasn’t easy, as they barely held off KapSig for the championship.
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+11. Computer chess, 1990 Could a computer play chess at the level of the world’s best players? For many years, it was considered the “holy grail” of artificial intelligence. Hitech, developed by CMU researcher Hans Berliner (CS’74), was the first computer to achieve grandmaster status. CMU alumni played key roles in developing “Deep Blue,” the IBM machine that beat human chess champion Garry Kasparov in 1997.
+25 Great Things About SCS What’s so great about computer science at Carnegie Mellon? We're glad you asked! Here are 25 great ideas from CMU computer scientists to think about as we celebrate the birthday of the School of Computer Science. 1. Artificial intelligence, 1955-56 Can you write a working computer program without a computer? Herb Simon (H’90), at left, Allen Newell (IA’57), at right, and Cliff Shaw did. The team created the first artificial intelligence program, Logic Theorist, which
+1948: The Graduate School of Industrial Administration, later renamed the David A. Tepper School of Business, focusing on quantitative analysis and pioneering the field of management science. 1968: School of Urban and Public Affairs, later renamed the H. John Heinz III College, providing graduate training for work in the public sector. 1986: School of Computer Science, pioneering computing and artificial intelligence, led by interdisciplinary efforts of Allen Newell and Herbert Simon.
+
+
+Answer: 

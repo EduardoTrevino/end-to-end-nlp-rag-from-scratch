@@ -1,0 +1,172 @@
+Question: Tartan Athletics Club was launched in which year?
+
+Context: ChemProt HyperPartisan ACL-ARC
+
+SciERC
+
+Average
+
+Baseline DAPT [24] TARTAN-MT [11] SAMA (ours)
+
+82.70 (0.45) 84.17 (0.50) 84.18 (0.30) 84.49 (0.13)
+
+89.03 (2.25) 87.23 (3.65) 94.64 (0.91) 95.18 (0.03)
+
+68.17 (2.52) 71.84 (4.78) 72.41 (1.94) 71.63 (1.68)
+
+79.83 (0.89) 80.42 (1.57) 80.83 (0.71) 81.84 (0.08)
+
+79.93 80.92 83.02 83.29
+where Lf t/Lf t are finetuning/pretraining loss functions, Df t/Dpt are finetuning/pretraining datasets, and w(·; λ) is the data reweighting network. Following the experiment setup in TARTAN [11], we use task-specific data and a masked language modeling loss in our auxiliary task and perform experiments with RoBERTa-base on 4 datasets from the original DAPT/TAPT paper. We compare our SAMA- based data optimization against DAPT and TARTAN-MT. We exclude TAPT and TARTAN-Meta respectively because
+At this point, the project group arranged to embed links to the toolkit in each institution’s web pages and to actively promote the resource at every available opportunity. The toolkit had a ‘soft’ launch in September 2022 at an OpenFest event run by Sheffield, before being formally launched during Open Access Week in October 2022 at an event led by the University of Leeds.
+
+Discovery of OER
+
+The aims of this element of the project were to:
+Section: A,
+
+Days:  ,MW
+
+Start:  ,07:00PM
+
+End:  ,08:20PM
+
+Room: WEH 5312,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Tardio
+
+Fall 2023
+
+Course number: 82250
+
+Title: Digital Realities: Introducing Immersive Technologies for Arts and Culture
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1024
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Caspar
+
+Fall 2023
+
+Course number: 82267
+
+Title: Beyond the Mafia and Michelangelo
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Tardio
+
+Summer 2024
+
+Course number: 82171
+
+Title: Elementary Japanese I
+
+Units: 12.0
+
+Section: U
+
+Days: MTWRF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PH A19A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasuhara
+
+Summer 2024
+
+Course number: 82183
+
+Title: AI for Humanities: The Multi-dimensions of World Languages, Arts, and Cultures
+
+Units: 9.0
+
+Section: U
+
+Days: MTWRF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PH 225B
+Summer 2024
+
+Course number: 82146
+
+Title: Intensive Spanish Language and Culture: Elementary Level
+
+Units: 3-18
+
+Section: S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Tardio
+
+Summer 2024
+
+Course number: 82171
+
+Title: Elementary Japanese I
+
+Units: 12.0
+
+Section: S
+
+Days: MTWRF
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhan
+
+Summer 2024
+
+Course number: 82172
+
+Title: Elementary Japanese II
+In August 2012, the Carnegie Mellon Department of Athletics, Physical Education and Recreation launched the Tartan Athletics Club. Developed by a group of passionate alums and friends of Carnegie Mellon Athletics, the Tartan Athletics Club mission and goals are as follows:
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+
+
+Answer: 

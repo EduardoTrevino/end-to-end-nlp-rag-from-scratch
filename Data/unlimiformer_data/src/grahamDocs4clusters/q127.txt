@@ -1,0 +1,153 @@
+Question: According to the framework tax paper, what is observed to be growing as hardware speed increases over time?
+
+Context: this phenomenon as the framework tax, and ob- serve that the disparity is growing as hard- ware speed increases over time. In this work, we examine this phenomenon through a se- ries of case studies analyzing the effects of model design decisions, framework paradigms, and hardware platforms on total model latency. Code is available at https://github.com/ JaredFern/Framework-Tax.
+We introduce the concept of the framework tax to describe when improvements in hardware speed and reductions in required computation fail to trans- late to speedups in model latency and throughput due to bottlenecks incurred by deep learning frame- works. We hope that these observations raise aware- ness of the impact and limitations created by choice of deep learning frameworks on model develop- ment and deployment.
+
+7 Limitations
+In this work, we conduct a systematic investiga- tion in which we show that improvements to neural network architectures and hardware have not trans- lated into reductions in inference latency. We show that this breakdown is largely due to overhead in- troduced by deep learning frameworks. We refer to this phenomenon as the framework tax, and show that it exists across all deep learning framework paradigms (e.g. eager execution, just-in-time, and ahead-of-time compilation).
+Title: Special Topics: Engineering a Startup: How to Start and Grow a Hardware Company
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 4625
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Morris, Formica
+
+Fall 2023
+
+Course number: 24693
+
+Title: Special Topics:  Leadership and Communication
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: PH A18C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Leduc
+
+Fall 2023
+
+Course number: 24695
+Title: Special Topics: Engineering a Startup: How to Start and Grow a Hardware Company
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: GHC 4211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Morris, Formica
+
+Spring 2024
+
+Course number: 24694
+
+Title: Special Topics: Creativity and Its Practice
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH 226B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stol
+
+Spring 2024
+
+Course number: 24696
+Title: Hardware Arithmetic for Machine Learning
+
+Units: 12.0
+
+Section: TA
+
+Days: WF
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Blanton
+
+Fall 2023
+
+Course number: 18341
+
+Title: Logic Design and Verification
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: BH A36
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nace
+
+Fall 2023
+
+Course number: 18344
+
+Title: Computer Systems and the Hardware-Software Interface
+The Machine
+
+Under this section there are YouTube videos with the following captions underneath them.
+
+"Members of Fringe, celebrating their 50th year of Buggy racing, allowed a rare visit into its shop for a behind-the-scenes tour."
+
+"Dave Singh explains how Fringe builds its buggies. Each team keeps its actual processes a secret, but each buggy has certain features such as a body, pushbar, wheels and driving and braking mechanisms. Behind Singh are other buggies built by Fringe."
+But a few of the specific rules changed slightly, or are worth noting again: All drivers, pushers, designers and builders were required to members of the organization they’re competing for All team members (including designers and builders) must be “eligible” under the Executive Board’s requirements, which include a minimum of 36 units and being in good academic standing (with a minimum GPA requirement). The buggy/driver combo must weigh a minimum of 180 pounds (up from the previous 160 lbs)
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+15. Model checking, 1994 CMU professor Edmund Clarke had long stressed the importance of verifying computer hardware and software through a formal problem-solving technique called “model checking.” In 1994, his arguments gained new weight with the discovery that Intel’s amazing new Pentium chip made errors on certain math problems. Clarke would go on to receive the Turing Award for his role in the development of model checking.
+2. Multi-core processors, 1971 Multi-core processors are common in today’s computers, but they were still science fiction in the early 1970s. But when CMU researchers found their existing machines too slow to keep pace with the advance of speech and graphics programs, they knew they had to do something. They solved the problem by ganging together 16 processors to build a pioneering computer called C.mmp—then topped the feat by linking 50 processors into Cm*.
+16. CAPTCHAs, 2000 “Spam” and malicious attacks were a growing problem on the Internet when hackers developed automated “bots” that could sign up for email and other Web services without human intervention. Luis von Ahn (CS’03,’05), Nick Hopper (CS’04), John Langford (CS’02) and CMU professor Manuel Blum invented a “Completely Automated Public Turing Test to tell Computers and Humans Apart,” or CAPTCHA, to help foil the bots. A later variation, reCAPTCHA, is helping digitize old books and
+
+
+Answer: 

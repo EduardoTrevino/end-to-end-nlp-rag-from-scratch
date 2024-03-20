@@ -1,0 +1,145 @@
+Question: In spring 2024, What is the title of course 15150?
+
+Context: Spring 2024
+
+Course number: 15151
+
+Title: Mathematical Foundations for Computer Science
+
+Units: 12.0
+
+Section: A,B,Lec
+
+Days: MWF,TR
+
+Start: 01:00PM,10:00AM,02:00PM
+
+End: 10:50AM,01:50PM,02:50PM
+
+Room: GHC 4307,GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Peng
+
+Spring 2024
+
+Course number: 15195
+
+Title: Competition Programming I
+
+Units: 5.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: GHC 4307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sleator
+
+Spring 2024
+Instructors:  ,Cervesato, Kohlbrenner,Hammoud
+
+Spring 2024
+
+Course number: 15150
+
+Title: Principles of Functional Programming
+
+Units: 12.0
+
+Section: E,I,F,D,U,P,C,J,S,A,K,B,T,Lec 1,Lec 2,H,L,M,R,O,Q,G,N
+
+Days: W,TR
+
+Start: 08:00AM,09:30AM,05:00PM,02:00PM,11:00AM,03:30PM,07:00PM,12:30PM
+
+End: 08:20PM,01:50PM,03:20PM,12:20PM,04:50PM,06:20PM,10:50AM,09:20AM
+
+Room: DH 2315,GHC 5208,GHC 5207,GHC 5210,DH 2210
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Erdmann, Kaynar,Kaynar, Erdmann
+Course number: 15642
+
+Title: Machine Learning Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chen, Jia
+
+Spring 2024
+
+Course number: 15645
+
+Title: Database Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: PH 100
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Patel
+
+Spring 2024
+
+Course number: 15650
+
+Title: Algorithms and Advanced Data Structures
+
+Units: 12.0
+
+Section: A
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+
+
+Answer: 

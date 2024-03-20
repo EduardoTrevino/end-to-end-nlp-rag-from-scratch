@@ -1,0 +1,166 @@
+Question: Where is the Senior Leadership Recognition Ceremony held on May 10 2024?
+
+Context: Stephen Mayhew, Snigdha Chaturvedi, Chen-Tse Tsai, and Dan Roth. 2019. Named entity recognition with In Proceedings partially annotated training data. of the 23rd Conference on Computational Natural Language Learning (CoNLL), pages 645–655, Hong Kong, China. Association for Computational Linguis- tics.
+Michael Chang, Abhishek Gupta, Sergey Levine, and Thomas L. Griffiths. 2019. Automatically compos- ing representation transformations as a means for generalization. In 7th International Conference on Learning Representations, ICLR 2019, New Orleans, LA, USA, May 6-9, 2019. OpenReview.net.
+
+Howard Chen, Huihan Li, Danqi Chen, and Karthik Controllable text genera- arXiv preprint
+
+Narasimhan. 2022. tion with language constraints. arXiv:2212.10466.
+In Yoshua Bengio and Yann LeCun (eds.), 3rd International Conference on Learning Representations, ICLR 2015, San Diego, CA, USA, May 7-9, 2015, Conference Track Proceedings, 2015. URL http: //arxiv.org/abs/1412.6980.
+
+Denis Kocetkov, Raymond Li, Loubna Ben Allal, Jia Li, Chenghao Mou, Carlos Mu˜noz Ferrandis, Yacine Jernite, Margaret Mitchell, Sean Hughes, Thomas Wolf, Dzmitry Bahdanau, Leandro von Werra, and Harm de Vries. The Stack: 3 TB of permissively licensed source code. Preprint, 2022.
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Devine
+
+Fall 2023
+
+Course number: 66400
+
+Title: Dietrich College Senior Honors Colloquium
+
+Units: 1.0
+
+Section: B2,A2
+
+Days: M,R
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH 225B,PH A19A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Devine
+
+Fall 2023
+
+Course number: 66402
+
+Title: Dietrich Leadership Development Seminar
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WW 123
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Braun, Whitworth
+
+Fall 2023
+
+Course number: 99530
+
+Title: Senior Preparation Seminar
+
+Units: 6.0
+
+Section: A2
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: BH 342F
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Smith, Schaldenbrand
+
+Fall 2023
+
+Course number: 99735
+
+Title: Proseminar in Entrepreneurial Leadership:
+
+Units: 1.0
+
+Section: A,
+
+Days:  ,F
+
+Start:  ,01:00PM
+
+End:  ,01:50PM
+
+Room: TBA,
+
+Locations:  ,Pittsburgh, Pennsylvania
+Days:  ,TR
+
+Start: 04:00PM, ,10:00AM,02:00PM
+
+End: 03:45PM, ,05:45PM,11:45AM
+
+Room:  ,TEP 2112
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Aven
+
+Spring 2024
+
+Course number: 45749
+
+Title: Leadership Immersion Workshop:
+
+Units: 0.0
+
+Section:  ,A3,A4
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room: TBA,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Hermann
+
+Spring 2024
+
+Course number: 45751
+
+Title: Optimization:
+
+Units: 6.0
+
+Section: M3,B3,A3,P3,O3, ,C3
+
+Days: R, ,MW
+May 5 ; Day - Monday ; Event - Semester & Mini-4 Faculty Course Evaluations close Date -  May 6 ; Event - Make-Up Final Examinations Date -  May 8 ; Day - Wednesday ; Event - Graduating Students' Final Grades Due by 4 pm Date -  May 11 ; Event - Commencement Date -  May 13 ; Event - Final Grades Due by 4 pm Date -  May 20 ; Event - Spring Deans' Lists Posted
+; Event - Semester & Mini-4 Faculty Course Evaluations close Date -  May 7 ; Event - Make-Up Final Examinations Date -  May 8 ; Day - Wednesday ; Event - Graduating Final Grades Due by 4 pm Date -  May 12 ; Event - Commencement Date -  May 14 ; Event - Final Grades Due by 4 pm Date -  May 21 ; Event - Spring Deans' Lists Posted
+Date -  May 2 ; Event - 3 Th-F Final Examinations
+
+Date -  May 4 ; Event - 5 Sa-Su Reading Days
+
+Date -  May 6 ; Day - Monday ; Event - Final Examinations
+
+Date -  May 6 ; Day - Monday ; Event - Semester & Mini-4 Faculty Course Evaluations close
+
+Date -  May 7 ; Event - Make-Up Final Examinations
+
+Date -  May 8 ; Day - Wednesday ; Event - Graduating Final Grades Due by 4 pm
+
+Date -  May 12 ; Event - Commencement
+
+Date -  May 14 ; Event - Final Grades Due by 4 pm
+
+
+Answer: 

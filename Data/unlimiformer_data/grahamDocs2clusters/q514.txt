@@ -1,0 +1,163 @@
+Question: In Fall 2023, where was 11737 taught?
+
+Context: Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Fall 2023
+
+Course number: 11726
+
+Title: Meaning in Language Lab (Self Paced)
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11737
+
+Title: Multilingual Natural Language Processing.
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Li
+
+Fall 2023
+
+Course number: 11741
+
+Title: Machine Learning for Text and Graph-based Mining
+
+Units: 12.0
+
+Section: A,PP
+
+Days: TBA,TR
+
+Start: ,11:00AM
+
+End: ,12:20PM
+
+Room: TBA,HH B131
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 11742
+
+Title: Search Engines:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room:  ,MI 348
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11641
+
+Title: Machine Learning for Text and Graph-based Mining
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 11642
+
+Title: Search Engines
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+Elective course For more information on the MSAII program curriculum and requirements, see the program website. Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail
+
+
+Answer: 

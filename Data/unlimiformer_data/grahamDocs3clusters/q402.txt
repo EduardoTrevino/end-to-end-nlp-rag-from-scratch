@@ -1,0 +1,210 @@
+Question: Who are the authors of the book "The Last Lecture"?
+
+Context: Librarians tend to look askance at commentators on their work and pro- fession from outside the guild. Henry Petroski, an engineer, wrote Book on the Bookshelf (1999), looking at the practical construction principles of bookshelves through history, and was never taken seriously by librar- ians—perhaps also in light of his (joking?) recommendations to arrange books on bookshelves by the author’s first name, or by the first letter of the second-to-last word of the title. Umberto Eco’s Name of the
+Lecture Notes in Computer Science Founding Editors Gerhard Goos Juris Hartmanis
+
+Editorial Board Members Elisa Bertino, Purdue University, West Lafayette, IN, USA Wen Gao, Peking University, Beijing, China Bernhard Steffen , TU Dortmund University, Dortmund, Germany Moti Yung , Columbia University, New York, NY, USA
+
+14415
+Eunah Cho, Christian Fügen, Teresa Hermann, Kevin Kilgour, Mohammed Mediani, Christian Mohr, Jan Niehues, Kay Rottmann, Christian Saam, Sebastian Stüker, and Alex Waibel. 2013. A real-world system for simultaneous translation of German lectures. In Proc. Interspeech 2013, pages 3473–3477.
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Raponi
+
+Fall 2023
+
+Course number: 57983
+
+Title: Music Education Performance Lecture/Recital
+
+Units: 3-15
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Raponi
+
+Fall 2023
+
+Course number: 57984
+
+Title: Music Education Composition Concert
+
+Units: 3-6
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Kelly
+
+Fall 2023
+
+Course number: 80851
+
+Title: Seminar on History in Philosophy: Smith and Hume
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 10:00AM
+
+End: 12:50PM
+
+Room: BH 150
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zollman
+
+Fall 2023
+
+Course number: 80900
+
+Title: Graduate Student Internship
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bjorndahl
+
+Fall 2023
+
+Course number: 80990
+
+Title: Directed Reading
+Instructors: Spirtes,Wu,Bjorndahl,Zollman,Sieg,Kelly,Avigad,London,Instructor TBA,Seidenfeld,Awodey,Simons,Smith,Werner,Wenner,Zaffora Blando
+
+Spring 2024
+
+Course number: 80602
+
+Title: Philosophy Core Seminar II
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 04:00PM
+
+End: 06:50PM
+
+Room: BH 145C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Simons
+
+Spring 2024
+
+Course number: 80606
+
+Title: Decision Theory
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS A35
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+April 14 ; Day - Monday ; Event - Semester & Mini-4 Faculty Course Evaluations open Date -  April 25 ; Day - Friday ; Event - Last Day of Classes Date -  April 25 ; Day - Friday ; Event - Semester & Mini-4 voucher deadline (4) Date -  April 28 ; Event - 29 M-Tu Final Examinations Date -  April 30 ; Day - Wednesday ; Event - Reading Day Date -  May 1 ; Event - 2 Th-F Final Examinations Date -  May 3 ; Event - 4 Sa-Su Reading Days Date -  May 5 ; Day - Monday ; Event - Final Examinations Date -
+
+
+Answer: 

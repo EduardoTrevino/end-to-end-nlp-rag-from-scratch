@@ -1,0 +1,121 @@
+Question: What are the course number(s) for the courses on LLMs?
+
+Context: Start: 11:00AM
+
+End: 12:20PM
+
+Room: HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Synnott
+
+Spring 2024
+
+Course number: 94812
+
+Title: Applications of NL(X) and LLM
+
+Units: 6.0
+
+Section: A3
+
+Days: TRF
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 1007
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rao
+
+Spring 2024
+
+Course number: 94813
+
+Title: Project Management
+
+Units: 6.0
+
+Section: A3,B3
+
+Days: MW
+
+Start: 03:30PM,02:00PM
+
+End: 04:50PM,03:20PM
+
+Room: HBH 2009
+Spring 2024
+
+Course number: 76101
+
+Title: Interpretation and Argument
+
+Units: 9.0
+
+Section: E,I,AC,LL,FF,AD,F,HH,CC,D,WW,GG,BB,II,C,EE,DD,J,AB,A,K,W,B,KK,JJ,YY,M,O,X,Z,MM,N,XX
+
+Days: MWF,UTR,TR
+
+Start: 08:45AM,08:00AM,04:00PM,09:30AM,03:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM,03:30PM,12:30PM
+
+End: 12:50PM,01:50PM,09:50AM,03:20PM,03:50PM,09:35AM,02:50PM,04:50PM,12:20PM,11:50AM,10:50AM,09:20AM,08:50AM
+Instructors: Cochran,Byrne, Sawyer,Rehman, Yang,Cardoso Llach,Rehman,Instructor TBA,Lee,Bard,Loftness,Sawyer
+
+Fall 2023
+
+Course number: 48793
+
+Title: Ph.D. Thesis
+
+Units: 0-99
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cardoso Llach, Cochran, Hartkopf, Krishnamurti, Lam, Lee, Lee, Loftness, Sawyer
+
+Fall 2023
+
+Course number: 48797
+
+Title: PhD Dissertation Defense
+
+Units: 5.0,36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+An “SCS course” is any 12 -unit course with a course number indicating a unit of the
+
+School of Computer Science (including LTI); a 6 -unit course with such a number counts
+
+as 1/2 of an SCS course. Unless otherwise specified, "course" means an actual classroom
+
+course, not credit given for research or independent study. Note: Recommended
+
+electives that are technically outside  of the SCS now count towards this requirement; for
+also complete at least one concentration, consisting of three courses in one of three areas: Analytics, Systems, or Human-Centered Data Science. The remaining elective course can be any course with number 600 or above chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.  To maintain full-time enrollment status, a student must enroll in a minimum of 36 course units per semester.
+
+
+Answer: 

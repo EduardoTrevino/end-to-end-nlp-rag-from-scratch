@@ -1,0 +1,159 @@
+Question: What does CodeBERTScore encode in addition to the generated tokens?
+
+Context: First, CodeBERTScore encodes et al., 2020). the generated code and the reference code inde- pendently with pretrained models, with the inclu- sion of natural language instructions or comments. Then, we compute the cosine similarity between the encoded representations of each token in the generated code and each token in the reference code. Finally, the best matching token vector pairs are used to compute precision and recall. Code- BERTScore allows comparing code pairs that are lexically
+Since the rise of neural natural-language-to- code models (NL→Code) that can generate long expressions and statements rather than a single next-token, one of the major prob- lems has been reliably evaluating their gen- In this paper, we propose erated output. CodeBERTScore: an evaluation metric for code generation, which builds on BERTScore (Zhang et al., 2020). Instead of encoding only the generated tokens as in BERTScore, CodeBERTScore also encodes the natural lan- guage input preceding the
+Figure 2: A diagram illustrating CodeBERTScore: We use a language-specific CodeBERT model to encode each of ⟨natural_language, reference_code⟩ and ⟨natural_language, generated_code⟩. We then compute the pairwise cosine similarity between every encoded token in the reference and every encoded token in the generated code, ignoring the encoded natural language context tokens and encoded punctuation tokens; finally, we take the max across the rows of the resulting matrix to compute Precision and
+Title: Coding & Control for Theatrical Sound
+
+Units: 9.0
+
+Section: A
+
+Days: W
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: PCA 103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Blackwood
+
+Fall 2023
+
+Course number: 54841
+
+Title: Costume Design for Dance
+
+Units: 5.0
+
+Section: A2
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PCA 305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eshelman
+
+Fall 2023
+
+Course number: 54848
+
+Title: Patterning Fundamentals
+
+Units: 6.0
+
+Section: A1
+
+Days: T
+Course number: 17445
+
+Title: Machine Learning in Production:
+
+Units: 12.0
+
+Section: A,E,B,F,G,C,D,Lec,
+
+Days:  ,F,MW
+
+Start: 09:30AM, ,11:00AM,02:00PM
+
+End: 10:50AM, ,12:20PM,03:20PM
+
+Room: WEH 5310,PH 226C,PH A22,GHC 4215,CMU REMOTE, ,PH 100,WEH 4709
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Kaestner, Le Goues,Le Goues, Kaestner
+
+Spring 2024
+
+Course number: 17514
+
+Title: Principles of Software Construction: Objects, Design, and Concurrency
+
+Units: 12.0
+Title: Coding & Control for Theatrical Sound
+
+Units: 5.0
+
+Section: A
+
+Days: W
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: PCA 103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Blackwood
+
+Fall 2023
+
+Course number: 54341
+
+Title: Fundamentals of Costume Design
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PCA 305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gajic
+
+Fall 2023
+
+Course number: 54350
+
+Title: Scenic Design Forum
+
+Units: 1.0
+
+Section: A
+
+Days: R
+front hills, causing more congestion for spectators on those hills. A police tow truck was present, but it was not permitted to clear the street. Up the front hills, DTD was in the lead, followed by PiKA and KapSig. DTD went into the freerolls first, but the drama was behind them. As PiKA entered the freeroll, PiKA’s buggy crowded KapSig’s buggy and forced KapSig wide, causing KapSig to swerve and hit at least 1 spectator (the Tartan says that KapSig “got out pencil and paper to try to figure
+1947 – DU’s Flying Pork Barrel (with cowboy hat-adorning driver) being pushed on the Back Hills (from the 1948 Thistle). DU would go on to earn their first and only Buggy championship. The three wheeled buggy trailing appears to be DTD. This might be the Finals.
+
+1947 – KapSig’s Buggy (from the 1948 Thistle)
+
+1947 – PiKA’s buggy (from the 1948 Thistle).
+
+1947 – SigNu buggy, driven by Keith Thomas (photo from the BAA Gallery, submitted by Michael Serebrennikov)
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+The Carnegie Mellon Code can also be found on-line at: https://www.cmu.edu/student-affairs/theword/ . 2 The Language Technologies Institute 2.1 Main Office The Gates Hillman Complex: Mailboxes, printers, copiers, and other departmental resources are in GHC 5404. 112.2 Photocopies and Printers The use of a printer/copier requires a CS user id (see the ‘Computers’ section). The School of Computer Science provides several black-and-white and color printers for use by students. SCS Computing
+Successful applicants will have a minimum TOEFL score of 100 (Reading, Listening, Speaking, Writing scores all 25 or above), IELTS score of 7.5 (Reading 7 or above, Listening 7 or above, Speaking 7.5 or above, Writing 6.5 or above), or DuoLingo score of 120 (Literacy 115 or above, Comprehension 125 or above, Production 100 or above, Conversation 105 or above). Our Institution Code is 4256; the Department Code is 78. Additional details about English proficiency requirements are provided on the
+4 Carnegie Mellon Code
+
+Students at Carnegie Mellon, because they are members of an academic community dedicated to
+
+the achievement of excellence, are expected to m eet the highest standards of personal, ethical
+
+and moral conduct possible.
+
+These standards require personal  integrity, a commitment to honesty without compromise, as
+
+well as truth without equivocation and a willingne ss to place the good of the community above
+
+
+Answer: 

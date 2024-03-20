@@ -1,0 +1,125 @@
+Question: In the ICTIR paper, what does KALE stand for?
+
+Context: Paper title: 'KALE: Using a K-Sparse Projector for Lexical Expansion' Published year: 2023 Publication venue or conference: International Conference on the Theory of Information Retrieval Authors: Bruno Martins, Jamie Callan, Luís Borges Summary: KALE is a new lightweight method that uses a small model with a k-sparse projector to convert dense representations into a sparse set of entries from a latent vocabulary, which can replace the original lexical vocabulary with gains in accuracy and
+[10] L. V. Kale and S. Krishnan, “Charm++ a Portable Concurrent Object Ori- ented System Based on C++,” in Proc. 8th Annual Conference on Object- oriented Programming Systems, Languages, and Applications, 1993, pp. 91–108.
+Xue L., Constant N., Roberts A., Kale M., Al-Rfou R., Siddhant A., Barua A. and Raffel C. (2021). mT5: A massively multilingual pre-trained text-to-text transformer. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL): Human Language Technologies, pp. 483–498.
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Kaestner
+
+Fall 2023
+
+Course number: 17998
+
+Title: Software Engineering Practicum Internship
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kaestner
+
+Fall 2023
+
+Course number: 36200
+
+Title: Reasoning with Data:
+
+Units: 9.0
+
+Section: A,E,B,F,G,C,D,Lec, ,H
+
+Days: MWF,R, ,F
+
+Start:  ,01:00PM,10:00AM,11:00AM
+
+End: 11:50AM,10:50AM, ,01:50PM
+Units: 12.0
+
+Section: A,E,W,B,F,G,C,D,Lec 1,Lec 2
+
+Days: UR,MW,F,TR
+
+Start: 02:30PM,03:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM
+
+End: 03:45PM,12:50PM,01:50PM,09:50AM,03:50PM,03:20PM,12:20PM,02:50PM,11:50AM,10:50AM
+
+Room: GHC 4307,GHC 4215,WEH 5312,TBA,HH B103,PH 100,CMB 2052,BH A53
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Anderson, Sleator,Kapoutsis
+
+Fall 2023
+
+Course number: 15459
+
+Title: Undergraduate Quantum Computation:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+Section: E,I,F,D, ,P,C,J,A,K,W,B,Lec 1,Lec 2,H,L,M,O,G,N
+
+Days: UTR,W,F,MW,TR
+
+Start: 09:30AM,04:00PM,03:00PM,02:00PM,01:00PM,10:00AM,11:00AM,07:00PM,11:30AM
+
+End: 08:20PM,01:50PM,03:50PM,02:50PM,04:50PM,12:20PM,11:50AM,10:50AM,12:45PM
+
+Room: WEH 4708,DH 1209,PH A19,PH 125C,GHC 4401,WEH 5304,PH A20,WEH 4707,DH 1117,CMB 2152,PH A19C,WEH 6403,WEH 5316,GHC 4101,DH 2210
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Saad, Ada, ,Ada, Saad,Kapoutsis
+
+Spring 2024
+
+Course number: 15259
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+1948 – Design Competition (from the 1949 Thistle). Identified buggies: KapSig (3rd from the left, back row); PiKA (4th from the left, back row); Beta Sigma Rho (far left, back row). We also believe that the bottom buggy in the front row (3 wheels, no shell) belongs to Citcom Clan.
+
+1948 – Hill 1 of the Finals (from the 1949 Thistle). KapSig in Lane 1 (left), DTD in Lane 2 (middle), PiKA in Lane 3 (right)
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+Parking and Transportation coordinates the Shut tle Service and Escort Service provided for
+
+CMU students, faculty, and community. The Shuttle & Escort website has full information
+
+about these services, stops, routes, tracking and schedules.
+
+14.4 The WORD 51
+
+http://www.cmu.edu/student-affairs/theword//
+
+The WORD is Carnegie Mellon University’s stud ent on-line handbook and is considered a
+
+supplement to the department (and someti mes college) handbook. The WORD contains
+Language Technologies Institute - Faculty Name: Daniel Fried Email: dfried@andrew.cmu.edu Research Areas: Natural Language Processing: Language and Code, Conversational AI, Intelligent Agents, and Dialogue, Discourse and Pragmatics, Multimodal AI
+
+Language Technologies Institute - Faculty Name: Anatole Gershman Email: anatole.gershman@cs.cmu.edu Office: 6415 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering Phone: 412-268-8259
+consent to disclosure of personally identifia ble information from their education records,
+
+except to the extent that FERPA authorizes disclosure without consent;
+
+file a complaint with the U.S. Department of Education Family Policy Compliance Office
+
+if they believe their rights under FERPA have been violated. 37
+
+For questions about Student Privacy Rights, FE RPA or filing a complaint, contact John
+
+Papinchak, University Registrar, jp7p@andrew.cmu.edu , in Enrollment Services.
+
+
+Answer: 

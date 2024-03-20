@@ -1,0 +1,164 @@
+Question: In Fall 2023, how many sections did Shop Skills 48104 have?
+
+Context: find top 100 tables using the single retrieval skill following (Ma et al., 2022a). Then we break down tables into rows and use the reranking skill to keep only top 200 rows. Then for each row, expanded query retrieval and linking skills are used to find the second-hop passages, where we keep top 10 pas- sages from every expanded query retrieval and top 1 passage from every linked entity. Finally, we ap- ply the same heuristics, as done in Ma et al. (2022a) to construct the final top 100
+[34] C. Li, R. Zhang, J. Wong, C. Gokmen, S. Srivastava, R. Martín-Martín, C. Wang, G. Levine, M. Lingelbach, J. Sun, et al. Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation. In CoRL, 2023.
+
+[35] T. Mu, Z. Ling, F. Xiang, D. C. Yang, X. Li, S. Tao, Z. Huang, Z. Jia, and H. Su. Maniskill: Generalizable manipulation skill benchmark with large-scale demonstrations. In NeurIPS Datasets and Benchmarks Track, 2021.
+Jing Xu, Megan Ung, Mojtaba Komeili, Kushal Arora, Y-Lan Boureau, and Jason Weston. 2022. Learning New Skills after Deployment: Improv- ing open-domain internet-driven dialogue with human feedback.
+
+Taku Yamagata, Ryan McConville, and Raul Santos-Rodriguez. 2021. Reinforcement learn- ing with feedback from multiple humans with diverse skills.
+Units: 15.0
+
+Section: A,E,B,F,G,C,D,Lec
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 200,MM A14
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rafson,Wood-Sternburgh,Instructor TBA,Markiewicz,Tarannum,McFarland
+
+Fall 2023
+
+Course number: 48104
+
+Title: Shop Skills
+
+Units: VAR
+
+Section: B1,C1,D1,E2,A1,B2,D2,C2,A2
+
+Days: MW,TR
+
+Start: 06:00PM,03:00PM,10:00AM,11:00AM,07:30PM
+
+End: 08:20PM,03:50PM,11:50AM,10:50AM,06:50PM
+
+Room: CFA A9
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Holmes,Sontag
+
+Fall 2023
+
+Course number: 48116
+
+Title: Introduction to Building Performance
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: MM 303
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sawyer
+
+Fall 2023
+
+Course number: 48200
+
+Title: Architecture Design Studio: POIESIS STUDIO 3
+
+Units: 18.0
+
+Section: A,E,B,C,D,Lec
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 200,MM A14
+
+Locations: Pittsburgh, Pennsylvania
+Course number: 48112
+
+Title: Digital Fabrication Skills
+
+Units: 2.0
+
+Section: A3,A4
+
+Days: T
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sontag
+
+Spring 2024
+
+Course number: 48205
+
+Title: Architecture Options Studios
+
+Units: 18.0
+
+Section: A,E,B,C,D,Lec
+
+Days: MWF,TR
+
+Start: 01:00PM,02:00PM
+
+End: 04:50PM
+
+Room: MM 103,CFA 200
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Patel,Arscott,Anklesaria,Issaias,Lee,Sindi
+
+Spring 2024
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+
+
+Answer: 

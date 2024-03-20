@@ -1,0 +1,193 @@
+Question: Who is the PhD Program Director for the LTI PhD degree?
+
+Context: We would like to thank our workers on MTurk for their responses. We are also grateful to the anonymous reviewers for their helpful comments. Special thanks to Saadia Gabriel, Jocelyn Shen, Ashutosh Baheti, and the members of the CMU LTI COMEDY group for their feedback, and Ope- nAI for providing access to the GPT-3.5 API. This research was supported in part by the Meta Fun- damental AI Research Laboratories (FAIR) “Dyn- abench Data Collection and Benchmarking Plat- form” award “ContExTox:
+Delaram Talaashrafi. Advances in the Automatic Detection of Optimization Opportunities in Computer
+
+Programs. PhD thesis, Western University, 2022.
+
+Lewis Tunstall, Leandro Von Werra, and Thomas Wolf. Natural Language Processing with Transformers.
+
+"O’Reilly Media, Inc.", 2022.
+Acknowledgements
+
+This work was supported in part by a grant from the Singapore Defence Science and Technology Agency and the IBM PhD Fellowship. We thank Chunting Zhou, Amanda Bertsch, Uri Alon, Hi- roaki Hayashi, Harsh Trivedi, Patrick Lewis, Timo Schick, Kaixin Ma, Shuyan Zhou, and Songwei Ge for their insightful discussions and help with the experiments.
+
+References
+Units: 1-48
+
+Section: PP,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Summer 2024
+
+Course number: 11935
+
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: P,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking,Callan
+
+Summer 2024
+
+Course number: 11936
+
+Title: PhD Internship
+
+Units: VAR
+
+Section: P,S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11929
+
+Title: Masters Thesis II
+
+Units: 5-36
+
+Section: BC,TT
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: TBA,Instructor TBA
+
+Fall 2023
+
+Course number: 11930
+
+Title: Dissertation Research
+
+Units: 1-48
+
+Section: A,PP
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+
+Course number: 11935
+
+Title: LTI Practicum
+
+Units: 1-36
+Instructors: Cummings,Slepcev,Conley,Iyer,Leoni,Frick,Jeffs,Instructor TBA,Bukh,Bohman,Larsson,Tice,Tkocz,Gheorghiciuc
+
+Spring 2024
+
+Course number: 21902
+
+Title: Doctoral Thesis Research
+
+Units: 0-99
+
+Section: E,I,FF,F,HH,CC,D,U,GG,BB,P,C,EE,DD,J,S,A,K,Y,W,B,T,H,L,M,R,AA,O,Q,X,Z,G,N,V
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+potential advisors determine how many new students they can take and  indicate their
+
+preferences. Finally, the entire LTI faculty meets as a " Matching  Committee" to determine the best
+
+set of matches.
+
+Until a student finds a specific advisor, the Progr am Director  of the LTI graduate programs serves
+
+as the advisor.
+
+How to change advisors:  The initial advisor selection should be made carefully. However, it is
+Internships are typically scheduled during the summer. In certain cases,  it is possible to schedule
+
+an internship during the fall or spring semester; the details are complex, especially for international students, so the student should discuss this as early as possible with the Ph.D.
+
+Program Director . International students must coordinate carefully with the LTI in any event, due
+
+to visa restrictions. LTI Ph.D.  Graduate Student Handbook  Page 25
+
+
+Answer: 

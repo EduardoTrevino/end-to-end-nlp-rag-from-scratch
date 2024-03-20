@@ -1,0 +1,151 @@
+Question: In spring 2024, What is the location of course 10716?
+
+Context: Instructors: Risteski, Gu
+
+Spring 2024
+
+Course number: 10716
+
+Title: Advanced Machine Learning: Theory and Methods
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ravikumar
+
+Spring 2024
+
+Course number: 10718
+
+Title: Machine Learning in Practice
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: GHC 4307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Smith
+
+Spring 2024
+Spring 2024
+
+Course number: 12234
+
+Title: Sensing and Data Acquisition for Engineering Systems
+
+Units: 4.0
+
+Section: A,C,B,Lec
+
+Days: T
+
+Start: 09:30AM,12:30PM,11:00AM
+
+End: 10:50AM,01:50PM,12:20PM
+
+Room: PH 107E
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Christian
+
+Spring 2024
+
+Course number: 12271
+
+Title: Computation and Data Science for Civil & Environmental Engineering
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: M,WF
+
+Start: 03:00PM
+
+End: 03:50PM
+
+Room: BH A51,CYH 100A
+End: 03:20PM
+
+Room: PCA 304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Boevers
+
+Spring 2024
+
+Course number: 54159
+
+Title: Production Practicum:
+
+Units: 6.0
+
+Section: A,C, ,B
+
+Days:  ,MTWRF,S
+
+Start:  ,11:00AM,06:30PM
+
+End:  ,10:30PM,03:00PM
+
+Room: PCA 107,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Holcomb, Sahoo, ,Sahoo, Holcomb
+
+Spring 2024
+
+Course number: 54162
+
+Title: Introduction to Costume Design
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 01:30PM
+
+End: 04:20PM
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+
+
+Answer: 

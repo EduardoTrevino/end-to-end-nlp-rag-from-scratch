@@ -1,0 +1,174 @@
+Question: In fall 2024, What is the deadline for Mini-1 drop and withdrawal grade assigned after this date?
+
+Context: repositories from The Stack v1.1. After the cut-off date (31 October 2022), we have received more requests for requests and we will remove these repositories prior to releasing The Stack v1.2.
+↓2.2062.08
+
+↓3.9262.40
+
+↓3.2956.99
+
+↑1.1665.44
+
+↓0.0666.26
+
+↓1.3760.30
+
+↑0.5166.83
+
+↓0.9159.37
+
+↓0.4063.88
+
+↑0.2459.94
+
+ModelGENDERbiasRACEbiasRELIGIONbiasLMScore
+
+↓1.0983.08+DROPOUT(Websteretal.,2020)
+
+↓0.7088.23+SELF-DEBIAS(Schicketal.,2021)
+
+↓3.1558.52
+
+↓3.7455.96
+
+↓30.3053.87
+
+↑0.3860.66
+
+↓2.8958.78
+
+↓9.5749.87
+
+↓0.8259.46
+
+↓0.1083.83+DROPOUT(Websteretal.,2020)
+
+↓1.4462.84
+
+↑0.2489.19
+
+↓0.0884.09+SENTENCEDEBIAS(Liangetal.,2020)
+Developers who do not wish their source code to be used for training code LLMs are given the op- portunity to opt-out of The Stack (Kocetkov et al., 2022). We received 9 opt-out requests before the cut-off date for removing data (31 October 2022). These individuals accounted for 299 repositories. Of these, 161 were already excluded from The Stack v1.0 (because they did not have a permissive license), and 138 were in The Stack v1.0. We honored the requests to opt-out and removed these
+Title: Special Topics in ICT Mini:
+
+Units: 6.0
+
+Section:  ,A1,N1
+
+Days:  ,MW,TR
+
+Start: 08:00AM, ,04:00PM
+
+End:  ,05:50PM,09:50AM
+
+Room: CMR F305, ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Rodriguez-Perez,Ostheimer
+
+Fall 2023
+
+Course number: 04900
+
+Title: MSIT Practicum
+
+Units: 24.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:20PM
+
+Room: CMR F305
+
+Locations: Kigali, Rwanda
+
+Instructors: Okeyo
+
+Fall 2023
+
+Course number: 04910
+
+Title: Entrepreneurship Project
+
+Units: VAR
+
+Section: A
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A1
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33224
+
+Title: Stars, Galaxies and the Universe
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,T
+
+Start: 03:00PM,07:00PM
+
+End: 07:50PM,03:50PM
+
+Room: HH B103,POS 151
+Instructors: Bjorndahl,Glymour,Spirtes,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Seidenfeld,Awodey,Simons,Werner,Ramsey,Avigad
+
+Fall 2023
+
+Course number: 80992
+
+Title: Directed Reading Mini
+
+Units: 3,6,12,15
+
+Section: I2,S2,E2,O2,Q2,P2,C2,R2,L2,G2,B2,J2,N2,F2,D2,H2,M2,T2,K2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+; Day - Monday ; Event - Mini-1 drop deadline; withdrawal grade assigned after this date (2) Date -  September 30 ; Day - Monday ; Event - Mini-1 Pass/no pass & withdrawal deadline (3) Date -  September 30 ; Day - Monday ; Event - Mini-1 Faculty Course Evaluations open Date -  October 7 ; Day - Monday ; Event - Semester drop deadline; withdrawal grade assigned after this date (2) Date -  October 11 ; Day - Friday ; Event - Mini-1 Last Day of Classes Date -  October 11 ; Day - Friday ; Event -
+October 2 ; Day - Monday ; Event - Mini-1 Pass/no pass & withdrawal deadline (3) Date -  October 2 ; Day - Monday ; Event - Mini-1 Faculty Course Evaluations open Date -  October 9 ; Day - Monday ; Event - Semester drop deadline; withdrawal grade assigned after this date Date -  October 13 ; Day - Friday ; Event - Mini-1 Last Day of Classes Date -  October 13 ; Day - Friday ; Event - Mini-1 voucher election deadline (4) Date -  October 13 ; Event - 14 F-Sa Family Weekend Date -  October 14 ;
+add, audit & tuition adjustment drop deadline (1) Date -  April 1 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  April 3 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week Date -  April 15 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -  April 15 ; Day -
+
+
+Answer: 

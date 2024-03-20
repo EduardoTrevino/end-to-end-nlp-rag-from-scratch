@@ -1,0 +1,189 @@
+Question: How many authors contributed to the paper CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code?
+
+Context: Paper title: 'CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Sumit Agarwal, Graham Neubig, Uri Alon, Shuyan Zhou Summary: It is found that generated code that receives a higher score by CodeBERTScore is more likely to be preferred by humans, as well as to function correctly when executed, than all existing metrics.
+Shuyan Zhou, Uri Alon, Sumit Agarwal, and Graham Neubig. Codebertscore: Evaluating code generation
+
+with pretrained models of code. 2023b. URL https://arxiv.org/abs/2302.05527.
+
+14
+
+Preprint. Under review.
+
+A APPENDIX
+
+A.1 ADDITIONAL ANALYSIS OF OPTIMIZATIONS
+Shuyan Zhou, Uri Alon, Sumit Agarwal, and Gra- ham Neubig. 2023b. Codebertscore: Evaluating code generation with pretrained models of code. arXiv preprint arXiv:2302.05527.
+
+Daniel M. Ziegler, Nisan Stiennon, Jeffrey Wu, Tom B. Brown, Alec Radford, Dario Amodei, Paul F. Christiano, and Geoffrey Irving. 2019. Fine-tuning language models from human pref- erences. CoRR, abs/1909.08593.
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Course number: 18641
+
+Title: Design Patterns for Smartphone Development
+
+Units: 12.0
+
+Section: RW
+
+Days: TR
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: CMR F309
+
+Locations: Kigali, Rwanda
+
+Instructors: Umuhoza
+
+Spring 2024
+
+Course number: 18646
+
+Title: How to Write Fast Code II
+
+Units: 12.0
+
+Section: A,SV
+
+Days: MW
+
+Start: 09:30AM,12:30PM
+
+End: 10:50AM,01:50PM
+
+Room: B23 211,BH A53
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Low
+
+Spring 2024
+
+Course number: 18647
+Course number: 17445
+
+Title: Machine Learning in Production:
+
+Units: 12.0
+
+Section: A,E,B,F,G,C,D,Lec,
+
+Days:  ,F,MW
+
+Start: 09:30AM, ,11:00AM,02:00PM
+
+End: 10:50AM, ,12:20PM,03:20PM
+
+Room: WEH 5310,PH 226C,PH A22,GHC 4215,CMU REMOTE, ,PH 100,WEH 4709
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Kaestner, Le Goues,Le Goues, Kaestner
+
+Spring 2024
+
+Course number: 17514
+
+Title: Principles of Software Construction: Objects, Design, and Concurrency
+
+Units: 12.0
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+1946 – PiKA’s Buggy (from the 1947 Thistle). It didn’t win Design Competition, but it had the best aesthetic design. Prelim Heats and Results. The Prelims were run in 3 heats, with 3 teams in each. The rules initially stated that the winner of each heat would compete in the finals, but it seems that the rules changed to be the three fastest times instead, as the Prelim results printed in the May 7, 1946 Tartan indicate that the Finals was just a rematch of Prelim Heat 1. According to the May 7
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+professional education. Drawing on Shaw’s plan and also on the work of other faculty members, an undergraduate program in computer science was created during the 1989-90 academic year. Seven CS majors were admitted to the program as sophomores. Another 73 undergraduates were admitted in 1990–91. By 1995, there were 401 undergraduates in the School of Computer Science; in fall 2013, more than 600 undergraduates made up about 37 percent of student enrollment at SCS, along with more than 600
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+
+
+Answer: 

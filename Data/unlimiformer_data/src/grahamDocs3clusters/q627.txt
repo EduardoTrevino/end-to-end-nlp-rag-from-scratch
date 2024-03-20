@@ -1,0 +1,150 @@
+Question: Where is Multimodal Fusion Interactions: A Study of Human and Automatic Quantification published?
+
+Context: Paper title: 'Multimodal Fusion Interactions: A Study of Human and Automatic Quantification' Published year: 2023 Publication venue or conference: International Conference on Multimodal Interaction Authors: Louis-Philippe Morency, R. Salakhutdinov, P. Liang, Yun Cheng Summary: A comparative study of how humans annotate two categorizations of multimodal interactions is performed and a method to automatically convert annotations of partial and counterfactual labels to information decomposition is
+Results on multimodal fusion: We show full results on quantifying datasets in Table 6. For multimodal fusion, we find that different datasets do require different interactions. Among interesting observations are that (1) all pairs of modalities on sarcasm detection shows high synergy values, which aligns with intuition on sarcasm in human communication, (2) uniqueness values are strongly correlated with unimodal performance (e.g., AV-MNIST and MIMIC first modality), (3) datasets with high
+[10] C. Chen, K. Z. Zhang, Z. Chu, and M. Lee, “Augmented reality in the metaverse market: the role of multimodal sensory interaction,” Internet Research, 2023.
+
+[11] S. Cai, K. Zhu, Y. Ban, and T. Narumi, “Visual-tactile cross-modal data generation using residue-fusion gan with feature-matching and perceptual losses,” IEEE Robotics and Automation Letters, vol. 6, no. 4, pp. 7525–7532, 2021.
+Title: Seminar: Multimodal Foundational Models
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ramanan
+
+Fall 2023
+
+Course number: 16895
+
+Title: Understanding and Critiquing Generative Computer Vision
+
+Units: 12.0
+
+Section: A
+
+Days: F
+
+Start: 12:30PM
+
+End: 02:50PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gupta
+
+Fall 2023
+
+Course number: 16897
+
+Title: Seminar on Robotics
+
+Units: 0.0
+Instructors: Martelaro, Saffer,Zimmerman, Musuraca
+
+Fall 2023
+
+Course number: 05618
+
+Title: Human AI Interaction
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: SH 234
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhu
+
+Fall 2023
+
+Course number: 05630
+
+Title: Programming Usable Interfaces:
+
+Units: 15.0
+
+Section: A,E,B,C,D,Lec,
+
+Days: M, ,W,MW
+
+Start: 08:00AM, ,09:30AM
+
+End: 10:50AM,09:20AM,
+
+Room: WEH 5310,TEP 1403,PH 226B,WEH 6403, ,PH 125B
+End: 11:50AM
+
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kim
+
+Fall 2023
+
+Course number: 47950
+
+Title: Seminar in Business Tech: Human-AI Interactions in Business Decision Making
+
+Units: 6.0
+
+Section: A2
+
+Days: T
+
+Start: 12:00PM
+
+End: 02:50PM
+
+Room: TEP 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Jiang
+
+Fall 2023
+
+Course number: 47996
+
+Title: Independent Study
+
+Units: 3,6
+
+Section: A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Language Technologies Institute - Faculty Name: Alexander Rudnicky Email: alex.rudnicky@cs.cmu.edu Office: 6511 Gates & Hillman Centers Research Areas: Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing Phone: 412-268-2622
+Language Technologies Institute - Faculty Name: Louis-Philippe Morency Email: morency@cs.cmu.edu Office: 5411 Gates & Hillman Centers Research Areas: Machine Learning, Multimodal Computing and Interaction, Spoken Interfaces and Dialogue Processing Phone: 412-268-5508
+Language Technologies Institute - Faculty Name: Bhiksha Ramakrishnan Email: bhiksha@cs.cmu.edu Office: 6705 Gates & Hillman Centers Research Areas: Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy Phone: 412-268-9826
+
+
+Answer: 

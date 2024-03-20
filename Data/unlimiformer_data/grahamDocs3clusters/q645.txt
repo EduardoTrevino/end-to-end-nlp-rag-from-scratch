@@ -1,0 +1,152 @@
+Question: What is the name of the initiative introduced to track and incentivize the global development of equitable language technology?
+
+Context: This work was initiated at and benefited substan- tially from the Dagstuhl Seminar 22232: Efficient and Equitable Natural Language Processing in the Age of Deep Learning. We further thank Niran- jan Balasubramanian, Jonathan Frankle, Michael Hassid, Kenneth Heafield, Sara Hooker, Alexan- der Koller, Alexandra Sasha Luccioni, Alexander Löser, André F. T. Martins, Colin Raffel, Nils Reimers, Leonardo Riberio, Anna Rogers, Ed- win Simpson, Noam Slonim, Noah A. Smith, and Thomas Wolf for a fruitful
+strategic initiative of digital and AI transformation to usher in an open, more linguistically-inclusive, and culturally-aware era.
+Large Language Models (LLMs) The field of natural language processing has witnessed remark- able advancements with the advent of Large Language Models (LLMs), which have significantly improved various NLP tasks. The introduction of the Transformer architecture [46] laid the ground- work for the development of these powerful language models (Devlin et al. 12, Radford et al. 33, Lewis et al. 21, Raffel et al. 34, Brown et al. 7, Chowdhery et al. 9, Zhang et al. 52, Scao et al. 36, Touvron et al.
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Title: Ethics, Social Biases, and Positive Impact in Language Technologies
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 153
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sap
+
+Spring 2024
+
+Course number: 11860
+
+Title: Quantum Computing, Cryptography and Machine Learning Lab
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Singh, Ramakrishnan
+
+Spring 2024
+Title: Topics in Second Language Acquisition:
+
+Units: 9.0
+
+Section: A,B,C,D,
+
+Days: M, ,MW,TR
+
+Start: 12:30PM, ,04:00PM,02:00PM
+
+End:  ,01:50PM,06:50PM,03:20PM
+
+Room: DH 1209,WEH 5304, ,PH A21,PH A19D
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Van Compernolle,Al Masaeed,Amgott,Wiener
+
+Fall 2023
+
+Course number: 82989
+
+Title: Second Language Acquisition Dissertation Research
+
+Units: 3-36
+
+Section: A,E,B,F,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+1  Introduction
+
+Welcome to the Language Technologies Institute, a graduate department in the School of
+
+Computer Science at Carnegie Mellon University. You have joined a Ph.D. program that focuses on excellence, creativity, and training the next generation of research leaders. While the next few
+
+years will be a time of hard work and intense concentration, we hope that your time at the LTI
+
+will also be rewarding professionally and personally.
+such behavior, which will not be tolerated. Re peated infractions, or a serious single infraction
+
+may result in termination from the program.
+
+11.5.6  Language Policy
+
+The MSAII program is a component of the Language  Technologies Institute, which studies and
+
+celebrates the diversity of human language and fo rms of expression. The LTI also recognizes the
+
+futility and unfairness of attempting to det ermine the language students must use when
+Language Technologies Institute - Faculty Name: Fernando Diaz Email: diazf@cmu.edu Research Areas: Information Retrieval: Recommender Systems, Retrieval and Ranking Models, Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation Phone: 412-268-4229
+
+
+Answer: 

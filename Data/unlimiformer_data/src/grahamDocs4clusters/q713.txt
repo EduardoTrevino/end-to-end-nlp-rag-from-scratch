@@ -1,0 +1,181 @@
+Question: Does LTI offer a course on large language models?
+
+Context: 7.4 Large Batch Training for Large Language Models
+Kang Min Yoo, Dongju Park, Jaewook Kang, Sang- Woo Lee, and Woomyeong Park. 2021. Gpt3mix: Leveraging large-scale language models for text aug- mentation. arXiv preprint arXiv:2104.08826.
+
+A Proof of Theorems
+
+Theorem 2. Consider a binary classiﬁcation problem with linearly separable labeled examples, when 0 < τ < 1, optimizing Lt2l = − (cid:80)N j=1 Q(ˆyj|xi) log P (ˆyj|xi) with gradient descend will enforce i=1 the larger margin between classes.
+
+(cid:80)L
+1. Introduction
+
+Large language models (LLMs) have become increasingly powerful (Brown et al., 2020; Ouyang et al., 2022), but their owners are reluctant to open-source them due to high training costs. Most companies provide only API access to their models for free or for a fee to cover innovation and maintenance costs. While many applications benefit from these APIs, some are looking for cheaper alternatives.
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Title: LTI Minor Project - Advanced
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11601
+
+Title: Coding & Algorithms Bootcamp:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: DH 2315,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11611
+
+Title: Natural Language Processing:
+
+Units: 12.0
+
+Section: A,R, ,B
+
+Days:  ,TR
+Safety is a top priority for teams. All drivers are required to have five pieces of safety gear: mouth guard, goggles, a harness that includes three points of contact to the body of the buggy, gloves and a helmet. And during practice runs and races, flaggers man the course to let drivers know if it's safe to proceed.
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+Information retrieval, machine translation and speech technology are used daily by the general public, while text mining, natural language processing and language-based tutoring are common within more specialized professional or educational environments. The LTI prepares students for this world by offering a minor that gives you the opportunity to not only learn about language technologies, but to also apply that knowledge through a directed project.
+The grading of outside courses is the responsibility of the department offering the course; however, the LTI's Minimum Course Grade Policy described above still applies (“B” is the minimum for Ph.D. ).
+
+3.6 Completing a n M.S. Degree Enroute t o a Ph.D.
+
+Courses that satisfy LTI Ph.D. degree requirements may also be used to satisfy requirements for
+
+one M.S. degree. The most common choice is the LTI’s Master of Language Technologies (MLT)
+offered by the Language Technologies Institute (LTI), a graduate department in the School of
+
+Computer Science at Carnegie Mellon University. The MIIS degree provides advanced study
+
+and practical experience in areas of Computer Science focused on the processing and analysis
+
+of unstructured and semi -structured information, for example, text, image, video, speech, and
+
+audio information. It is a practice -oriented professional degree designed for students who
+
+
+Answer: 

@@ -1,0 +1,173 @@
+Question: In spring 2024, Who is the instructor for course 10403?
+
+Context: Renze Lou, Kai Zhang, and Wenpeng Yin. 2023. Is prompt all you need? no. a comprehensive and broader view of instruction learning. ArXiv, abs/2303.10475.
+
+Ximing Lu, Sean Welleck, Liwei Jiang, Jack Hessel, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, and Yejin Choi. 2022a. Quark: Controllable text generation with reinforced unlearning. CoRR, abs/2205.13636.
+Portnoﬀ (2018) says that the 10 years he has been a teacher in an introductory computer programming course, he has used
+
+Frontiers in Computer Science
+
+05
+
+10.3389/fcomp.2023.1085507
+6. Michele Chan Santos, “At UTSA, Open Educational Resources Deliver Savings and Reduce Barriers,” Texas Library Journal 96, no. 1 (2020): 7–9, https://txla.org/wp-content/uploads/2020/06/TLJ-Spring-2020_Issuu.pdf (accessed 21 July 2023).
+
+7. Erin Davis et al., “Enhancing Teaching and Learning: Libraries and Open Educational Resources in the Classroom,” Public Services Quarterly 12, no. 1 (2016): 22–35, DOI: https://doi.org/10.1080/15228959.2015.1108893 (accessed 11 July 2023).
+Instructors: Gordon, Talwalkar
+
+Spring 2024
+
+Course number: 10422
+
+Title: Foundations of Learning, Game Theory, and Their Connections
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: GHC 4211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Balcan
+
+Spring 2024
+
+Course number: 10423
+
+Title: Generative AI
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gormley, Li, Lipton
+
+Spring 2024
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kang
+
+Spring 2024
+
+Course number: 10403
+
+Title: Deep Reinforcement Learning & Control
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: GHC 4215
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Fragkiadaki
+
+Spring 2024
+
+Course number: 10405
+
+Title: Machine Learning with Large Datasets (Undergraduate)
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: DH 2210
+
+Locations: Pittsburgh, Pennsylvania
+Room:  ,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Shelly, Stavchansky,Dusenka, Saffer,Matthews, Goral
+
+Spring 2024
+
+Course number: 05670
+
+Title: Digital Service Innovation:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 08:00AM,
+
+End:  ,09:50AM
+
+Room:  ,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Vinchesi, Rybalov
+
+Spring 2024
+
+Course number: 05671
+
+Title: MHCI Project 1
+
+Units: 15.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 3SC 172
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+Depending on Friday and Saturday's conditions, most heats may run just two lanes instead of three. But still, despite some of the challenges, Chen said she wouldn't miss it.
+
+"Being a driver is really fun," Chen said. "I love going fast and going around the course."
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+close Date -  March 4 ; Event - 8 M-F Spring Break; No Classes Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 12 ; Day - Tuesday ; Event - Summer 2024 Registration Opens Date -  March 15 ; Day - Friday ; Event - Mini-4
+
+
+Answer: 

@@ -1,0 +1,172 @@
+Question: What are the benefits of using IPA over fine-tuning?
+
+Context: ability of RL with the plug-and-play flexibility of inference-time techniques, permitting customiza- tion of large language models without the need for costly fine-tuning. Extensive experiments across five challenging text generation tasks show that IPA brings consistent improvements over LLMs, outperforming competitive baselines — sometimes even surpassing expensive fine-tuning. We hope our work sheds light on creative and efficient algo- rithmic innovations to complement the pursuit of model
+On five challenging text generation tasks, such as toxicity reduction and lexically constrained generation, IPA consistently brings significant improvements over off-the-shelf language mod- els. It outperforms competitive baseline meth- ods, sometimes even including expensive fine- tuning. In particular, tailoring GPT-2 with IPA can outperform GPT-3, while tailoring GPT- 3 with IPA brings a major performance boost over GPT-3 (and sometimes even over GPT-4). Our promising results highlight the
+Experiments across five challenging text gen- eration tasks show that IPA brings consistent im- provements over off-the-shelf language models, outperforming competitive baselines — sometimes even including expensive fine-tuning. In particu- lar, tailoring GPT-2 with IPA can outperform GPT- 3, while tailoring GPT-3 with IPA brings a ma- jor performance boost over GPT-3 (and sometimes even over GPT-4). Our compelling highlight the promise of IPA as a lightweight alternative for tai- loring large
+Title: Products Studio IV: Designing Products for Social Systems
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: MM 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chung
+
+Spring 2024
+
+Course number: 51360
+
+Title: Environments Studio IV: Designing Environments for Social Systems
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: MM 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: El Zanfaly
+
+Spring 2024
+
+Course number: 51361
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chalacheva
+
+Spring 2024
+
+Course number: 42660
+
+Title: Bioinstrumentation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 02:50PM
+
+Room: EDS 125
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wang
+
+Spring 2024
+
+Course number: 42665
+
+Title: Brain-Computer Interface: Principles and Applications:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+Course number: 57503
+
+Title: Major Studio (Harp)
+
+Units: 9.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Van Hoesen, Shields
+
+Spring 2024
+
+Course number: 57505
+
+Title: Major Studio (Violin)
+
+Units: 9.0
+
+Section: A,C,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cardenes,Wu,van der Sloot
+
+Spring 2024
+
+Course number: 57506
+
+Title: Major Studio (Viola)
+
+Units: 9.0
+
+Section: A
+
+Days: TBA
+consultation at CaPS can help clarify the nature of the concern, provide immediate support,
+
+and explore further options if needed. These may include a referral for counseling within CaPS, to another resource at Carnegie Mellon, or to another resource within the larger
+
+Pittsburgh community. CaPS also provides workshops and group sessions on mental health
+
+related topics specifically for graduate students on campus. CaPS services are provided at no
+An initial consultation at CaPS can help clarify the nature 8 of the concern, provide immediate support, and explore further options if needed. These may include a referral for counseling within CaPS, to another resource at Carnegie Mellon, or to another resource within the larger Pittsburgh community. CaPS also provides workshops and group sessions on mental health related topics specifically for graduate students on campus. CaPS services are provided at no cost. Appointments can be made in
+A.3.1 Counseling & Psychological  Services
+
+https://www.cmu.edu/counseling/
+
+Counseling & Psychological Services (CaPS) affords the opportunity for students to talk privately
+
+about academic and personal concerns in a safe, confidential setting. An initial consultation at
+
+CaPS can help clarify the nature of the concern, provide immediate support, and explore further
+
+
+Answer: 

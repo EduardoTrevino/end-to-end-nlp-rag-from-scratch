@@ -1,0 +1,167 @@
+Question: For LTI PhD students what room are the mailboxes and office supplies located in?
+
+Context: Units: 1-48
+
+Section: PP,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Summer 2024
+
+Course number: 11935
+
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: P,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking,Callan
+
+Summer 2024
+
+Course number: 11936
+
+Title: PhD Internship
+
+Units: VAR
+
+Section: P,S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+End:
+
+Room: TBA,DNM DNM
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Spring 2024
+
+Course number: 18997
+
+Title: Internship Two for Electrical and Computer Engineering PhD Students
+
+Units: VAR
+
+Section: A,SV,PP,RW
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: San Jose, California,Kigali, Rwanda,Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Spring 2024
+
+Course number: 18998
+Offices are assigned by the LTI’s Office Manager (see Section 1.2 , Department Personnel, for
+
+contact information).
+
+2.3 Mailboxes and Office Supplies
+
+Mailboxes and office supplies are in GHC 5404.
+
+2.4 Photocopies and Printers
+
+Printers and photocopies are available to LTI students. The use of a photocopier or printer
+
+requires you to log in with your CMU ID card. LTI students may use printers/photocopiers
+2.3 Mailboxes and Office Supplies ...................................................................................................... 13
+
+2.4 Photocopies and Printers ................................................................................................................ 13
+
+2.5 Computers for LTI Ph.D. Students  ............................................................................................... 13
+Except for restrictions due to COVID, full-time students in the LTI’s MS degree programs on the
+
+Pittsburgh campus have access to a shared working space to create a sense of community and
+
+provide space for working when on campus.
+
+9.2 Photocopies and Printers
+
+Mailboxes, printers, copiers, and other depa rtmental resources are located in GHC 5404
+
+The use of a photocopier requires only a CMU ID card. The School of Computer Science
+
+
+Answer: 

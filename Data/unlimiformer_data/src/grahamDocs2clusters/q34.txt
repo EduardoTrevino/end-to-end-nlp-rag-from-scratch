@@ -1,0 +1,131 @@
+Question: How many credits is 11824 worth?
+
+Context: .393(±.083) .366(±.079) .368(±.092) .365(±.094) .338(±.103) .418(±.090) .394(±.096) .391(±.080)
+
+.352(±.064) .326(±.075) .334(±.054) .322(±.077) .350(±.064) .402(±.049) .379(±.058) .309(±.073)
+
+.248(±.075) .261(±.065) .279(±.092) .261(±.077) .271(±.078) .324(±.075) .302(±.073) .118(±.057)
+
+.343(±.052) .299(±.043) .280(±.068) .292(±.057) .293(±.046) .415(±.022) .374(±.044) .059(±.069)
+
+CodeBERTScore
+
+.553(±.068)
+
+.369(±.049)
+
+.327(±.086)
+
+.393(±.048)
+
+.422(±.090)
+
+.415(±.071)
+
+.319(±.054)
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Title: ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11824
+
+Title: Subword Modeling
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH 100
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mortensen
+
+Spring 2024
+
+Course number: 11830
+least 36 units that count toward their current degree level. (See separate
+11.1.9 Transfer Credits ...................................................................................................................  25
+
+11.1.10  Leave of Absence ............................................................................................................  26
+
+11.1.11  Additional  Guidance  for Students ...................................................................................  26
+student eligibility for federal financial aid is contingent upon enrol lment in and successful
+
+completion of courses that are counted as credit toward their current degree program. To receive the maximum amount of federal financial aid for which they may be eligible, students
+
+must enroll each semester in at least 36 units that count toward their current degree level. (See
+
+separate guidance regarding integrated degree completion.) Students should consult with their
+
+
+Answer: 

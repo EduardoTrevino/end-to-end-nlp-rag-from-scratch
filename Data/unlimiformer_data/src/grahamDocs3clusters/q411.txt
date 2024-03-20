@@ -1,0 +1,186 @@
+Question: What number do all of the Chemical Engineering classes start with?
+
+Context: engineering may be a good choice for you. There are many different engineering disciplines from which you can choose, such as mechanical engineering, electrical engineering, computer engineering, civil engineering, architecture, etc. These areas require strong analytical, mathematical, and problem-solving skills, making them ideal for individuals with these skills. However, you have to bear in mind that study- ing engineering requires a great effort and time, and it may take you to work long
+The ﬁrst iteration was run for batches of size 10 (7 batches). Table 6 shows the results for the top N questions ranked, with N equal to 5, 10, and 20, and for the two conﬁgurations selected, averaging the results obtained in all but the ﬁrst batch, as the learning phase only starts after acquiring data from the ﬁrst batch.
+5.2 Few-shot Experiments
+
+We formulate few-shot transfer learning as an N - way K-shot problem, where a model is trained on K instances of each of the N classes in the target domain. We experiment with K ∈ {1, 5, 10, 20, 50, 100}. Because of the label im- balance in our datasets, where K is greater than the number of labeled examples for a given class, we sample all of the labeled instances without replace- ment. This can result in fewer than K examples for a given class.
+Spring 2024
+
+Course number: 06200
+
+Title: Sophomore Research Project
+
+Units: 3-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Laird
+
+Spring 2024
+
+Course number: 06250
+
+Title: Practical Internship for Senior Chemical Engineering
+
+Units: 0-6
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Laird
+
+Spring 2024
+
+Course number: 06261
+
+Title: Fluid Mechanics
+
+Units: 9.0
+
+Section: A
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: POS 153
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Biegler
+
+Spring 2024
+
+Course number: 06600
+
+Title: Masters Chemical Engineering Project
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Laird
+
+Spring 2024
+
+Course number: 06612
+
+Title: Formulation Engineering
+
+Units: 12.0
+
+Section: A,C,B,Lec
+
+Days: M,F,MW
+
+Start: 08:00AM,12:30PM,10:00AM
+
+End: 11:50AM,01:50PM,09:50AM
+Course number: 06405
+
+Title: Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Laird
+
+Spring 2024
+
+Course number: 06463
+
+Title: Chemical Product Design
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: BH A53
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gounaris
+
+Spring 2024
+
+Course number: 06464
+
+Title: Chemical Engineering Process Control
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+course. No undergraduat e courses count toward the 195-unit requirement.
+
+All Core courses are organized in sequence, and must be taken in the following order:
+
+Artificial Intelligence and Future Markets (11-651) – No prerequisite.
+
+AI Engineering (11-695) – Prerequisite is the co mpletion of 11-651 with a grade of “B” or
+
+better.
+
+LTI Practicum (11-935) – Three credit units for completing the required Internship.
+Classes can be found at https://enr-apps.as.cmu.edu/o pen/SOC/SOCServlet/search .
+
+Students are then required to take and su ccessfully complete the courses below:
+
+2) The Core Courses (87 units) - Must be taken in THIS SEQUENCE:
+
+11-651 – AI & Future Markets – (12 units). First  Fall semester. Only open to MSAII.
+
+17-762 – Law of Computer Technolo gy (12 units). First Fall semester
+
+11-695 – AI Engineering (12 un its). First Spring semester
+complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+
+
+Answer: 

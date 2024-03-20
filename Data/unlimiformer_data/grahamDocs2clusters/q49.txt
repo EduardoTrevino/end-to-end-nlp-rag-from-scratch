@@ -1,0 +1,21 @@
+Question: In which year was the official Scotty costume unveiled?
+
+Context: [Wiki] Scott Derrickson (born July 16, 1966) is an American director, screenwriter and producer. [HotpotQA] Edward Davis Wood Jr. (October 10, December 10, 1978) was an American ﬁlmmaker, actor, writer, producer, and director.
+ricSigler,MateuszLitwin,ScottGray,BenjaminChess,JackClark,ChristopherBerner,SamMcCandlish,AlecRadford,IlyaSutskever,andDarioAmodei.2020.Languagemodelsarefew-shotlearners.AbhijnanChakraborty,BhargaviParanjape,SouryaKakarla,andNiloyGanguly.2016.Stopclickbait:Detectingandpreventingclickbaitsinonlinenewsmedia.CoRR,abs/1610.09786.MaikFröbe,TimGollub,MatthiasHagen,andMartinPotthast.2023a.SemEval-2023Task5:ClickbaitSpoiling.In17thInternationalWorkshoponSeman-ticEvaluation(SemEval-2023).MaikFröbe,MattiW
+Scott, B. (2002). A design for the recursive construction of learning
+
+communities. Int. Rev. Sociology. 12(2), 257–268. DOI: https://doi.
+
+org/10.1080/0390670022000012486
+
+TO CITE THIS ARTICLE: Scott, B. (2023). Review of Robert Martin’s book, Connect and Involve. Enacting Cybernetics, 1(1): 2, 1–6. DOI: https://doi. org/10.58695/ec.6
+
+Submitted: 08 April 2023 Accepted: 08 April 2023 Published: 17 April 2023
+Carnegie Mellon's official mascot debuted at the Nov. 10, 2007 home football game. The graphic features a profile of a distinguished, bold Scottish terrier sporting a plaid scarf around his neck. The dog is contained in a shield, representing Carnegie Mellon's Scottish heritage.
+
+The Task Force then partnered with a mascot costume company to design our Scottish terrier in the winter of 2007. The official Scotty costume was unveiled at the 2008 Spring Carnival.
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Official Mascot? More than a century after Carnegie Mellon University opened its doors, an official mascot finally made its mark. Although students have dressed as a Scottish terrier — typically referred to as Scotty — for 50 years, it wasn't until 2007 that Carnegie Mellon officially welcomed the Scottish terrier as the university's first mascot.
+
+
+Answer: 

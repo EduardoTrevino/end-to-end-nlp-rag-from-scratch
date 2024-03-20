@@ -1,0 +1,231 @@
+Question: When was the first U.S. drama degree awarded at Carnegie Tech?
+
+Context: 3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+[18] B. M. Elizalde. Never-ending learning of sounds. Carnegie Mellon University, 2020. [19] J. Engel, C. Resnick, A. Roberts, S. Dieleman, M. Norouzi, D. Eck, and K. Simonyan. Neural audio synthesis of musical notes with wavenet autoencoders. In International Conference on Machine Learning, pages 1068–1077. PMLR, 2017.
+1Faculty of Engineering and Natural Sciences, Sabancı University, Istanbul, Türkiye, 2Qatar Computer Science Program/Language Technologies Institute, Carnegie Mellon University, Pittsburgh, PA, USA, and 3Center of Excellence in Data Analytics (VERIM), Sabancı University, Istanbul, Türkiye Corresponding author: Figen Beken Fikri; Email: fbekenﬁkri@sabanciuniv.edu
+
+(Received 15 August 2022; revised 12 September 2023; accepted 27 September 2023)
+Course number: 54177
+
+Title: Foundations of Drama I
+
+Units: 6.0
+
+Section: A,B
+
+Days: TR
+
+Start: 09:00AM,02:00PM
+
+End: 10:20AM,03:20PM
+
+Room: WEH 5304,PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Prendergast
+
+Fall 2023
+
+Course number: 54183
+
+Title: Documentary Theater
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A20
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Miller, Thoni
+
+Fall 2023
+
+Course number: 54187
+Fall 2023
+
+Course number: 54281
+
+Title: Foundations of Drama II
+
+Units: 6.0
+
+Section: A,B
+
+Days: TR
+
+Start: 09:30AM,02:00PM
+
+End: 10:50AM,03:20PM
+
+Room: PH A21,WEH 5328
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Olmstead
+
+Fall 2023
+
+Course number: 54284
+
+Title: Fundamentals of Directing
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: PCA 118
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Roth
+
+Fall 2023
+
+Course number: 54285
+Course number: 54607
+
+Title: Independent Study in Production Technology & Management
+
+Units: 2-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 54609
+
+Title: Independent Study in Dramaturgy
+
+Units: 1-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Good
+
+Fall 2023
+
+Course number: 54610
+
+Title: Independent Study in History
+
+Units: 2-12
+The Kiltie Band
+
+The Kiltie Band began in 1908 with a group of just seven students dedicated to supporting Carnegie Tech football, and today's Kiltie Band continues a tradition of excellence originated over a century ago. The Band took the field for its first official performance on November 25th, 1922, on what would have been Andrew Carnegie's 87th birthday.
+The starting line from the inaugural race in June 1920 was outside what is now known as the College of Fine Arts building. Racers then traveled toward Margaret Morrison Carnegie Hall, went up Tech Street, down through Schenley Park and then turned back to campus. Buggies would then take pit stops and have their rear wheels swapped before heading back toward the starting line.
+
+Alpha Kappa Psi, the first sorority to enter a Buggy on race day, in 1922.
+Scotland, in 1835. Carnegie came to the United States in 1848 and founded Carnegie Technical Schools in Pittsburgh in 1900.
+It expanded from two buildings into an elegant 20th century campus designed in the beaux arts architectural style, housing a wealth of machine shops, studios and laboratories — the hands-on center of learning that persists today. It pioneered conservatory degree programs in music and drama, in addition to visual art and design programs. The first U.S. drama degree was awarded in 1914 at Carnegie Tech. It began offering graduate degrees. In 1919, the first doctorate (in civil engineering) was
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+
+
+Answer: 

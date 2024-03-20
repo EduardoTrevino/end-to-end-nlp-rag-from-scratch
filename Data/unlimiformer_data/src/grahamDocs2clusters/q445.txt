@@ -1,0 +1,19 @@
+Question: Which LLMs were used for validation of the SPAE method?
+
+Context: Paper title: 'SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs' Published year: 2023 Publication venue or conference: arXiv.org Authors: Lu Jiang, Wolfgang Macherey, A. Hauptmann, David A. Ross, Irfan Essa, K. Murphy, Vivek Kumar, Ming Yang, Yonatan Bisk, Yong Cheng, Lijun Yu, Zhiruo Wang, Yanping Huang Summary: This method marks the first successful attempt to enable a frozen LLM to generate image content while surpassing state-of-the-art performance in image
+5ConclusionOurworkunveilstheuntappedpotentialoffrozenLargeLanguageModels(LLMs)intacklingmultimodalunderstandingandgenerationtasksinvolvingimagesandvideos,withoutrequiringexplicittrainingonthesemodalities.Thisisachievedbyanewmethod,SPAE,whichconvertsbetweenvisualcontentandlexicaltokensofvariablelength,imbuedwithrichsemanticmeaning.OurfindingsshowthegreatpotentialofharnessingthevastknowledgeandreasoningcapabilitiesofLLMsinthefieldofcomputervision,transcendingthelimitationsoflanguage-onlytasks.Lim
+We performed extensive experiments which ruled out other hypotheses as to why kNN-LMs work, such as over-parameterization, datastore clustering, sparsiﬁcation, overﬁtting, ensembling of distance metrics, and alternative training methods.
+16. CAPTCHAs, 2000 “Spam” and malicious attacks were a growing problem on the Internet when hackers developed automated “bots” that could sign up for email and other Web services without human intervention. Luis von Ahn (CS’03,’05), Nick Hopper (CS’04), John Langford (CS’02) and CMU professor Manuel Blum invented a “Completely Automated Public Turing Test to tell Computers and Humans Apart,” or CAPTCHA, to help foil the bots. A later variation, reCAPTCHA, is helping digitize old books and
+15. Model checking, 1994 CMU professor Edmund Clarke had long stressed the importance of verifying computer hardware and software through a formal problem-solving technique called “model checking.” In 1994, his arguments gained new weight with the discovery that Intel’s amazing new Pentium chip made errors on certain math problems. Clarke would go on to receive the Turing Award for his role in the development of model checking.
+in all-things information - including locatin g and obtaining specific resources, providing
+
+specialized research support, advanced training in  the use and management of data. Sign up for
+
+workshops and hands-on topic-spe cific sessions such as data visualization with Tableau,
+
+cleaning data with OpenRefine, and getting st arted with Zotero. Weekly drop-in hours for
+
+Digital Humanities and for Rese arch Data Research Managem ent are scheduled during the
+
+
+Answer: 

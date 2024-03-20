@@ -1,0 +1,160 @@
+Question: In spring 2024, What is the title of course 17537?
+
+Context: Yann Raphalen, Chloé Clavel, and Justine Cassell. 2022. ”You might think about slightly revising the title”: Identifying hedges in peer-tutoring interactions. In Proceedings of the 60th Annual Meeting of the As- sociation for Computational Linguistics (Volume 1: Long Papers), pages 2160–2174, Dublin, Ireland. As- sociation for Computational Linguistics.
+Yann Raphalen, Chloé Clavel, and Justine Cassell. 2022. ”You might think about slightly revising the title”: Identifying hedges in peer-tutoring interactions. In Proceedings of the 60th Annual Meeting of the As- sociation for Computational Linguistics (Volume 1: Long Papers), pages 2160–2174, Dublin, Ireland. As- sociation for Computational Linguistics.
+Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+Spring 2024
+
+Course number: 17612
+
+Title: Business and Marketing Strategy
+
+Units: 6.0
+
+Section: 44,D4,A4
+
+Days: F,TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Berardone
+
+Spring 2024
+
+Course number: 17628
+
+Title: Applied Quantum Computing
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Wang
+
+Spring 2024
+
+Course number: 17630
+Section: A,E,B,F,G,C,D,Lec
+
+Days: W,TR
+
+Start: 07:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM,03:30PM
+
+End: 12:50PM,01:50PM,09:50AM,07:50PM,02:50PM,04:50PM,11:50AM,10:50AM
+
+Room: SH 238,PH 126A,POS 147,WEH 5316,WEH 7500,PH 125B,WEH 5328
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Aldrich, Garrod, Lacomis
+
+Spring 2024
+
+Course number: 17537
+
+Title: Artificial Intelligence Methods for Social Good
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: SH 236
+Spring 2024
+
+Course number: 48497
+
+Title: Pre-Thesis
+
+Units: 3.0
+
+Section: A,B
+
+Days: W
+
+Start: 10:00AM,09:00AM
+
+End: 10:50AM,09:50AM
+
+Room: CFA 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Arscott
+
+Spring 2024
+
+Course number: 48510
+
+Title: Advanced Synthesis Options Studio IV
+
+Units: 18.0
+
+Section: A,E,B,F,G,C,D,Lec
+
+Days: TR
+
+Start: 01:00PM
+
+End: 04:50PM
+
+Room: MM 103,CFA 200,MM 312
+
+Locations: Pittsburgh, Pennsylvania
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+
+
+Answer: 

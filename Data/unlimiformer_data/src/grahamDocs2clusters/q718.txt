@@ -1,0 +1,81 @@
+Question: What is the name of the author of the paper The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Linkbetween Phonemes and Facial Features who is from Max Planck Institute?
+
+Context: Paper title: 'The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features' Published year: 2023 Publication venue or conference: Interspeech Authors: B. Raj, X. Zou, Xiang Li, Rita Singh, Yandong Wen, Liao Qu Summary: This work proposes an analysis pipeline to help explore the voice-face relationship in a fine-grained manner, i.s. phonemes v. facial anthropometric measurements (AM), and indicates that AMs are more predictable from vowels compared
+3 2 0 2
+
+l u J
+
+6 2
+
+]
+
+V C . s c [
+
+1 v 3 5 9 3 1 . 7 0 3 2 : v i X r a
+
+The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features
+
+Liao Qu 1,∗, Xianwei Zou 1,∗, Xiang Li 1,∗, Yandong Wen 2, Rita Singh 1, Bhiksha Raj 1,3
+
+1Carnegie Mellon University 2Max Planck Institute 3Mohamed bin Zayed University of Artificial Intelligence {liaoq,xianweiz,xl6,yandongw,rsingh,bhiksha}@andrew.cmu.edu
+
+Abstract
+In this work, we delve deeply into a fundamental question: whether there exists any “enigmatic” link between phoneme and facial features. If so, whether those “enigmatic” links can be quantitatively described? As a forerunner in this field, we de- sign a phoneme-AMs paradigm, which enables us to explore the speech-face relationship in a fine-grained manner. Hypothesis testing is utilized to verify whether an AM is predictable from a phoneme. Experiments show that AMs are averagely more
+16. CAPTCHAs, 2000 “Spam” and malicious attacks were a growing problem on the Internet when hackers developed automated “bots” that could sign up for email and other Web services without human intervention. Luis von Ahn (CS’03,’05), Nick Hopper (CS’04), John Langford (CS’02) and CMU professor Manuel Blum invented a “Completely Automated Public Turing Test to tell Computers and Humans Apart,” or CAPTCHA, to help foil the bots. A later variation, reCAPTCHA, is helping digitize old books and
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+
+
+Answer: 

@@ -1,0 +1,151 @@
+Question: In fall 2023, Who is the instructor for course 05432?
+
+Context: Renze Lou, Kai Zhang, and Wenpeng Yin. 2023. Is prompt all you need? no. a comprehensive and broader view of instruction learning. ArXiv, abs/2303.10475.
+
+Ximing Lu, Sean Welleck, Liwei Jiang, Jack Hessel, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, and Yejin Choi. 2022a. Quark: Controllable text generation with reinforced unlearning. CoRR, abs/2205.13636.
+Portnoﬀ (2018) says that the 10 years he has been a teacher in an introductory computer programming course, he has used
+
+Frontiers in Computer Science
+
+05
+
+10.3389/fcomp.2023.1085507
+Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong. 2023a. Compositional ex- emplars for in-context learning. arXiv preprint arXiv:2302.05698.
+
+Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. 2023b. In-context instruction learning. arXiv preprint arXiv:2302.14691.
+
+Yiming Zhang, Shi Feng, and Chenhao Tan. 2022a. Active example selection for in-context learning. CoRR, abs/2211.04486.
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dabbish
+
+Fall 2023
+
+Course number: 05430
+
+Title: Programming Usable Interfaces:
+
+Units: 15.0
+
+Section: A,E,B,C,D,Lec,
+
+Days: M, ,W,MW
+
+Start: 08:00AM, ,09:30AM
+
+End: 10:50AM,09:20AM,
+
+Room: WEH 5310,TEP 1403,PH 226B,WEH 6403, ,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Levin-Decanini, Ion,Ion, Levin-Decanini
+
+Fall 2023
+
+Course number: 05431
+
+Title: Software Structures for User Interfaces
+
+Units: 12.0
+
+Section: A,Lec
+Instructors: Saffer, Hardman
+
+Fall 2023
+
+Course number: 05660
+
+Title: Interaction Design Fundamentals:
+
+Units: 12.0
+
+Section: A,E,B,C,D,
+
+Days:  ,MW,TR
+
+Start: 08:00AM,09:30AM,12:30PM,05:00PM,
+
+End: 10:20AM,07:20PM,02:50PM,11:50AM,
+
+Room:  ,3SC 172,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Matthews, Saffer,Shelly, Beck,Vinchesi, Weinstein,Matthews, Saunders,Matthews, Vinchesi
+
+Fall 2023
+
+Course number: 05670
+
+Title: Digital Service Innovation:
+
+Units: 12.0
+
+Section: A,
+Days: F,MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 4SC 104
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hudson
+
+Fall 2023
+
+Course number: 05432
+
+Title: Personalized Online Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:00PM
+
+End: 04:20PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Aleven
+
+Fall 2023
+
+Course number: 05434
+
+Title: Machine Learning in Practice
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: SH 105
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+21The instructor must record the permanent course grade by the last day of the examination period of the following semester, or the Registrar will automatically assign the default grade.
+Elective course For more information on the MSAII program curriculum and requirements, see the program website. Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+
+
+Answer: 

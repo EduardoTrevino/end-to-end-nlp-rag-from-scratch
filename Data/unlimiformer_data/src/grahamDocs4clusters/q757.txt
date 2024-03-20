@@ -1,0 +1,199 @@
+Question: How many authors does the WebArena paper have?
+
+Context: Paper title: 'WebArena: A Realistic Web Environment for Building Autonomous Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: Robert Lo, Frank F. Xu, Shuyan Zhou, Xuhui Zhou, Hao Zhu, Uri Alon, Daniel Fried, Abishek Sridhar, Graham Neubig, Yonatan Bisk, Xianyi Cheng Summary: This paper builds an environment for language-guided agents that is highly realistic and reproducible, and creates an environment with fully functional websites from four common domains:
+We present an alternative view of data, similar to that seen in Figure 1, in Figure 4. Here, we define members of the community as authors with at least three papers total in *CL venues. Authors are counted as “leaving” the community the year after their last *CL publication. We only consider trends in authorship until 2020, as it is difficult to determine if authors who did not publish in the last few years have left the community indefinitely.
+Figure 1: The number of unique researchers publishing in ACL venues has increased dramatically, from 715 unique authors in 1980 to 17,829 in 2022.
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Webler
+
+Spring 2024
+
+Course number: 27227
+
+Title: Phase Relations and Diagrams (Minor Option)
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: HH B103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Webler
+
+Spring 2024
+
+Course number: 27305
+
+Title: Introduction to Materials Characterization
+
+Units: 6.0
+
+Section: A,C,B,Lec
+
+Days: W,T,R,F
+
+Start: 08:00AM
+
+End: 09:50AM
+
+Room: HH B131,DH A303
+Instructors: Islam, Houser,Houser, Cohen-Karni,Skowronski, Houser,O'Connor, Houser,Houser, Marom,Pistorius,Dickey,Rohrer,Barati Farimani, Houser,Mchenry,Towe,Houser, Rollett,Degraef,Houser, Webler,Bockstaller, Houser,Houser, Porter,Houser,Kurchin,Houser, Holm,Feinberg,Houser, Sokalski,Bettinger, Houser,Salvador,Whitacre, Houser
+
+Spring 2024
+
+Course number: 27761
+
+Title: Kinetics of Metallurgical Reactions and Processes
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+Instructors: Islam, Houser,Pistorius, Houser,O'Connor, Houser,Barati Farimani, Houser,Houser, Rohrer,Dickey, Houser,Towe,Houser, Skowronski,Kurchin, Houser,Bockstaller, Houser,Houser, Porter,Houser, Degraef,Rollett, Houser,Marom, Houser,Krause, Houser,Houser,Houser, Bettinger,Houser, Whitacre,Cohen-Karni, Houser,Houser, Taheri-Mousavi,Houser, Feinberg,Houser, Salvador,Webler, Houser
+
+Fall 2023
+
+Course number: 27766
+
+Title: Defects and Diffusion in Materials
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Inductees will be selected by a committee comprised of Carnegie Mellon University staff, faculty, a board of trustee member, coaches and a student representative. The Athletics Hall of Fame will endeavor to induct not less than 15 individuals for induction in its first year and not less than 6 in any year thereafter, subject to the discretion of the Nominating Committee. The below will set forth the criteria for selection to the Athletics Hall of Fame.
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+
+
+Answer: 

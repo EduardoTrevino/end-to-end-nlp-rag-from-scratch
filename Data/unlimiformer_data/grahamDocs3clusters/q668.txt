@@ -1,0 +1,150 @@
+Question: What are some of the metrics incorporated in Pentathlon for efficiency evaluation?
+
+Context: Comprehensive metrics (§2.3): Pentathlon evaluates models with five crucial metrics, including throughput, latency, memory overhead, the number of parameters, and energy consumption, hence the name Pentathlon. This provides a more holistic understanding of a model’s efficiency.
+progress in real-world applications. In response, we introduce efficiency Pentathlon, a benchmark for holistic and realistic evaluation of model efficiency. Pentathlon focuses on inference, which accounts for a majority of the compute in a model’s lifecycle. It offers a strictly-controlled hardware platform, and is designed to mirror real-world applications scenarios. It incorporates a suite of metrics that target different aspects of efficiency, including latency, throughput, memory overhead,
+Figure 1: By submitting to Pentathlon, practition- ers can compare their models against all previous submissions on identical hardware, eliminating the need to re-implement previous works and substan- tially reducing the workloads for fair efficiency comparisons. Models are evaluated in four real- istic scenarios designed to mirror real-world ap- plications. Our platform evaluates the submission across five crucial efficiency metrics, including throughput, latency, memory overhead, the num- ber
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Course number: 05610
+
+Title: User-Centered Research and Evaluation:
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec,
+
+Days:  ,MW
+
+Start: 12:30PM, ,02:00PM
+
+End:  ,01:50PM,03:20PM
+
+Room: WEH 4708,PH 226B,PH 225B,DH 1212, ,GHC 4101,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Musuraca, Shen
+
+Spring 2024
+
+Course number: 05615
+
+Title: Persuasive Design:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,3SC 172
+
+Locations:  ,Pittsburgh, Pennsylvania
+Instructors: Carrington,Steinfeld,Wu,Harrison
+
+Fall 2023
+
+Course number: 05410
+
+Title: User-Centered Research and Evaluation:
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec,
+
+Days:  ,MW
+
+Start: 12:30PM, ,02:00PM
+
+End:  ,01:50PM,03:20PM
+
+Room: DH 2315,WEH 8427,PH 225B, ,GHC 4101,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Musuraca, Eslami,Eslami, Musuraca
+
+Fall 2023
+
+Course number: 05413
+
+Title: Human Factors
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: BH A53
+contributions; other relevant research, including competing approaches; some preliminary results; the work that still must be completed; evaluation metrics for that work; and a LTI Ph.D.  Graduate Student Handbook  Page 17
+
+projected timeline for completion. Before presenting the proposal, the student will also
+capstone project goals, requirements, success metrics, and deliverables; and
+
+identifies and acquires data, software, and other resources required for successful
+
+completion of the project. The planning seminar must be completed in the semester prior to taking the capstone project.
+
+4.6 Registration Process/Procedures
+
+Students are responsible for registering for their courses. Use the Stellic Degree Audit
+17 Implement and evaluate complex, scalable data science systems, with emphasis on providing experimental evidence for design decisions.  Anticipate and avert structural and/or implementation problems with systems design, especially with scaling and tail distributions.
+
+HCDS. Students electing to complete the Human-Centered Data Science (HCDS) concentration will also learn to:
+
+
+Answer: 

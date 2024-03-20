@@ -1,0 +1,227 @@
+Question: When is CMU's main commencement ceremony in 2024?
+
+Context: Brian Yan, Patrick Fernandes, Siddharth Dalmia, Jia- tong Shi, Yifan Peng, Dan Berrebbi, Xinyi Wang, Graham Neubig, and Shinji Watanabe. 2022. CMU’s iwslt 2022 dialect speech translation system. In Pro- ceedings of the 19th International Conference on Spoken Language Translation (IWSLT 2022), pages 298–307.
+[cs.CV] 28 Oct 2023
+∗Correspondence: sangkeuc@andrew.cmu.edu
+
+37th Conference on Neural Information Processing Systems (NeurIPS 2023).
+
+Constant Memory
+
+Jacobian Inverse Free
+
+Adaptive Optimizer Support
+
+(Efficient) Distributed Training Support
+
+Overall Scalability
+
+Iterative Differentiation [14, 15, 42] Recurrent Backpropagation [36] T1 − T2 [38, 41] Neumann Series [40] Conjugate Gradient [51]
+
+✗
+
+✔ ✔ ✔
+
+✗ ✗ ✔ ✗ ✗
+
+✔ ✔ ✗
+
+✗ ✗ ✗ ✗ ✗
+
+✗ ✗
+
+SAMA (ours)
+
+✔
+
+✔
+
+✔
+
+✔
+
+✔
+
+SAMA
+
+10
+
+CG
+
+300
+
+Neumann
+
+SAMA (2 GPUs)
+Spring 2024
+
+Course number: 17646
+
+Title: DevOps and Continuous Integration
+
+Units: 6.0
+
+Section: D4
+
+Days: MW
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasar
+
+Spring 2024
+
+Course number: 17647
+
+Title: Engineering Data Intensive Scalable Systems
+
+Units: 6.0
+
+Section: D4,A4
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ashok, Merson
+
+Spring 2024
+
+Course number: 17648
+Spring 2024
+
+Course number: 65412
+
+Title: QSSS Proseminar 2
+
+Units: 3.0
+
+Section: A
+
+Days: M
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Patterson
+
+Spring 2024
+
+Course number: 94401
+
+Title: Acting for Leadership and Communication
+
+Units: 6.0
+
+Section: B4,A3,D3,C4
+
+Days: MW
+
+Start: 11:00AM,03:30PM,02:00PM
+
+End: 12:20PM,04:50PM,03:20PM
+
+Room: HBH 2009,HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Murphy
+
+Spring 2024
+Title: Grand Challenge Seminar: Equitable Access and Success in Higher Education at CMU:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: PH A18B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Walsh, Ballesteros Soria
+
+Spring 2024
+
+Course number: 66142
+
+Title: DC 1st Year Seminar: The Mirror of Technology: Biases in Computation & Cognition
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5310
+
+Locations: Pittsburgh, Pennsylvania
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+CMU is positioned like never before to meet the challenges of the 21st century. In the coming years, the university will see the largest expansion to the Pittsburgh campus since 1900. At the intersection of technology and humanity, CMU research, innovation and creativity will continue to guide our future as a world-class university. As outlined in the Strategic Plan 2025, the university will focus on advancing the individual student experience, the broader Carnegie Mellon community experience,
+Computer Science, effective Dec. 1, and that the School of Computer Science would soon begin operations. SCS made its formal debut on Dec. 22, 1988, with a reception in the Wherrett Room of Skibo Hall, CMU’s student union. The official announcement of CMU’s new “graduate School of Computer Science” was made Jan. 3, 1989.
+Skibo Gym and the new Highmark Center for Health, Wellness , and Athletic s scheduled for
+
+completion in 2024, the strength and conditioning facility has been temporarily place d on the
+
+lawn next to the outdoor basketball court close to the Donner locker rooms, Gesling Stadium, and Weigand Gymnasium. All users must present a valid  CMU ID to use these facilities.
+
+6.18 CMU Alert
+
+www.cmu.edu/alert
+
+
+Answer: 

@@ -1,0 +1,204 @@
+Question: What is the GitHub URL where MultiViz is available?
+
+Context: available on the GitHub repository (Diez-Sierra et al., 2021a).
+Code availability All code used in this project is available in GitHub https://github.com/ ClaraAlbi/paper_multiPGS57.
+
+References 1.
+1Code
+
+available
+
+at
+
+https://github.com/
+
+dannigt/kit-iwslt2023-multilingual
+
+system, we use our machine translation model for knowledge distillation. We also ensemble models trained with and without synthesized speech data.
+
+Our main findings are as follow:
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Kravitz, Kaufman
+
+Fall 2023
+
+Course number: 04601
+
+Title: ICT in Africa Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 08:00AM
+
+End: 09:50AM
+
+Room: CMR F203
+
+Locations: Kigali, Rwanda
+
+Instructors: Luhanga
+
+Fall 2023
+
+Course number: 04603
+
+Title: ICT Entrepreneurship Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: CMR F203
+
+Locations: Kigali, Rwanda
+
+Instructors: Thornburg
+Instructors: Kravitz, Kaufman
+
+Spring 2024
+
+Course number: 04603
+
+Title: ICT Entrepreneurship Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: CMR F305
+
+Locations: Kigali, Rwanda
+
+Instructors: Thornburg
+
+Spring 2024
+
+Course number: 04605
+
+Title: ICT Professional Development Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: R
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: CMR F203
+
+Locations: Kigali, Rwanda
+
+Instructors: Thornburg
+
+Spring 2024
+
+Course number: 04607
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Bigham, Kravitz
+
+Summer 2024
+
+Course number: 05997
+
+Title: Reading and Research in HCI
+
+Units: 24-48
+
+Section: A,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Kravitz, Bigham
+
+Summer 2024
+
+Course number: 14700
+
+Title: INI Project/Thesis Research
+
+Units: 0-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+are navigating any of a wide range of life events. Student Support Resources staff members
+
+work in partnership with campus and community resources to provide coordination of care and
+
+support appropriate to each student’s situation.
+
+A.1.3  Center for Student Diversity & Inclusion
+
+https://www.cmu.edu/student- diversity  MLT Graduate Student Handbook  Page 38
+
+Diversity and inclusion have a singular place among the values of Carnegie Mellon University.
+thehub@andrew.cmu.edu and http://www.cmu.edu/hub/
+
+The HUB is located in Warner Hall, Lower Level. The HUB staff delivers comprehensive
+
+service and counsel to students and families regarding financial aid, billing and payment,
+
+registration, and academic records. The Assistant Directors in The HUB serves  as contacts for
+(https://www.cmu.edu/policies/infor mation-technology/computing.html )
+
+Visit the Computing Services website ( https://www.cmu.edu/computing/ ) to learn more. For
+
+assistance the Computing Services Help Cent er is available at 412-268-4357 (HELP) or it-
+
+help@cmu.edu .
+
+14.2.2  Student Academic Success Center
+
+https://www.cmu.edu/student-success/
+
+Student Academic Support Programs
+
+Tartan Scholars
+
+The Tartan Scholars program was created to provide support for limited resourced
+
+
+Answer: 

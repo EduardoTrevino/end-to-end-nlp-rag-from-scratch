@@ -1,0 +1,177 @@
+Question: What is the structure attached to a buggy that a person pushes to propel it forward?
+
+Context: other pushes a marble through them. This marble activates the marble generator upon contact with it. In MarblePass one participant pushed the marble to the right side of the room, and then the other pushes it towards the marble generator. In the remaining four problems, one participant is presented with two boxes of different colors. The other participant is presented with two objects of the same colors as the two boxes and of the type defined by the problem parameter (e.g. two generators).
+Figure 5 depicts an experiment with children and apes from Fletcher et al. (2012). An apparatus is used where one participant pushes the marble, and the other inserts a finger
+
+13
+
+Kovač, Portelas, Dominey, & Oudeyer
+Setup: MuJoCo PUSH [59] is a contact-rich planar pushing task in the MuJoCo simulation framework, in which a 7-DoF Panda Franka robot is pushing a circular puck with its end-effector in simulation. We estimate the 2D position of the unknown object on a table surface, while the robot intermittently interacts with the object. The final dataset consists of 1000 trajectories with 250 steps at 10Hertz, of a simulated Franka Panda robot arm pushing a circular puck in MuJoCo [99]. The pushing actions
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Walker,Buttry
+
+Fall 2023
+
+Course number: 33225
+
+Title: Quantum Physics and Structure of Matter
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 12:00PM
+
+End: 12:50PM
+
+Room: SH 238
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Katoch
+
+Fall 2023
+
+Course number: 33231
+
+Title: Physical Analysis
+
+Units: 10.0
+
+Section: A
+
+Days: MWF
+
+Start: 11:00AM
+
+End: 11:50AM
+
+Room: SH 234
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Briere
+
+Fall 2023
+Room: BH A51,GHC 4301,BH 235A,WEH 2302, ,GHC 4211
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Hoffmann
+
+Spring 2024
+
+Course number: 15414
+
+Title: Bug Catching: Automated Program Verification
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martins
+
+Spring 2024
+
+Course number: 15417
+
+Title: HOT Compilation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5312
+Instructors: Hoffmann
+
+Spring 2024
+
+Course number: 15614
+
+Title: Bug Catching: Automated Program Verification
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martins
+
+Spring 2024
+
+Course number: 15617
+
+Title: HOT Compilation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Crary
+
+Spring 2024
+
+Course number: 15618
+Driver: Person who travels with a buggy and controls the vehicles via steering and braking systems.
+
+Pushbar: Structure attached to a buggy that a person pushes to propel that buggy forward.
+
+Pusher: Person who propels a buggy via a pushbar along one of the five hills of the buggy course.
+
+Shell: Entire outer structure or covering of a buggy that determines that buggy's aerodynamic characteristics.
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+Transition: Procedure whereby one pusher finishes pushing a buggy and the next pusher in sequence starts to push that same buggy.
+13. Email attachments, 1992 Steve Jobs liked the email system built into CMU’s Andrew so much that he tried to hire Nathaniel Borenstein (CS’81,’85) and the rest of his team to create a similar program for Apple. Borenstein didn’t take the offer, but he did like Jobs’ idea about attaching documents to email. Borenstein went on to develop the MIME standard that’s used by all email programs to send photos and other files over the Internet.
+23. Question-answering computers, 2011 Searching the Web for information is rarely as simple as asking a question in plain English. So-called “question-answering” machines moved from laboratories to TV screens when an IBM computer called “Watson” defeated two human champions on the game show “Jeopardy!” At the heart of Watson was computer architecture developed by CMU’s Eric Nyberg and his students.
+domestic violence and stalking. The University al so prohibits retaliation against individuals
+
+who bring forward such concerns or allegation s in good faith. The University’s Sexual
+
+Misconduct Policy is available at www.cmu.edu/policies/administrative-and-
+
+governance/sexual-harassment-and-sexual-assault.html . If you believe you have been the victim
+
+of sexual harassment or sexual assault, you ar e encouraged to make contact with any of the
+
+following resources:
+
+
+Answer: 

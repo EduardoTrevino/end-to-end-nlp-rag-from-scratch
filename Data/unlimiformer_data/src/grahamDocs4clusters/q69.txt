@@ -1,0 +1,259 @@
+Question: What are the course number(s) for the Search Engines course?
+
+Context: W Bruce Croft, Donald Metzler, and Trevor Strohman. 2010. Search Engines: Information Retrieval in Practice, volume 520. Addison-Wesley Reading.
+
+Zhuyun Dai, Chenyan Xiong, Jamie Callan, and Zhiyuan Liu. 2018. Convolutional neural networks for soft-matching n-grams in ad-hoc search. In Pro- ceedings of WSDM, pages 126–134.
+
+Luyu Gao and Jamie Callan. 2022. Unsupervised cor- pus aware language model pre-training for dense pas- sage retrieval. In Proceedings of ACL, pages 2843– 2853.
+KB-based QA We prompt ChatGPT or GPT-4 to generate two search engine queries from each claim ci. These queries are intended to help humans in verifying the factuality of ci. Detailed prompting instructions can be found in Appendix A.
+
+Code Generation We consider each generated code snippet within the response as a single claim to be verified. We extract all such code snippets that are enclosed with brackets, in other words, within a code block.
+Implementation Status
+
+. . . . . . .
+
+. . . . . . .
+
+. . . . . . . . . . . . . .
+
+. . . . . . .
+
+4 Rule-Checking Engine
+
+4.1 Rule-Checking Components .
+
+. . . . . . . . 4.1.1 Rule Triggers . . 4.1.2 Rule Variable Substitution . . . . 4.1.3 Rule-Checking Search Algorithm . . . . . .
+
+. . . .
+
+. .
+
+. . .
+
+.
+
+4.2 End-to-end Example Rule Firing . .
+
+. . . .
+
+. .
+
+4.2.1
+
+If-needed Example .
+
+. .
+
+. . .
+
+. .
+
+. . . . . .
+
+5 Conclusion and Future Work
+
+Bibliography
+
+vii
+
+. .
+
+. . . . . . . .
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Spring 2024
+
+Course number: 11442
+
+Title: Search Engines
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Spring 2024
+
+Course number: 11485
+
+Title: Introduction to Deep Learning:
+
+Units: 9.0
+
+Section: A, ,B,Lec
+
+Days: TBA, ,F,MW
+
+Start: ,08:00AM,
+
+End: ,09:20AM,
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11641
+
+Title: Machine Learning for Text and Graph-based Mining
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 11642
+
+Title: Search Engines
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Mortensen, Oflazer
+
+Fall 2023
+
+Course number: 11441
+
+Title: Machine Learning for Text and Graph-based Mining
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 11442
+
+Title: Search Engines
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: MI 348
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+Safety is a top priority for teams. All drivers are required to have five pieces of safety gear: mouth guard, goggles, a harness that includes three points of contact to the body of the buggy, gloves and a helmet. And during practice runs and races, flaggers man the course to let drivers know if it's safe to proceed.
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+4.4.2 Breadth Courses:  Language Technology Applications
+
+11-642, Search Engines
+
+11-688, Concepts in Digital Multimedia and Cyber Forensics
+
+11-692, Speech Processing
+
+11-697. Introduction to Q uestion Answering
+
+11-751, Speech Recognition and Understanding
+
+11-767, On -Service Machine Learning
+
+11-797, Question Answering
+
+11-830, Computational Ethics For NLP
+
+4.4.3 Breadth Courses:  Machine Learning
+
+11-641, Machine Learning for Text and Graph -Based Mining
+
+11-661, Language and Statistics
+Fall 2:
+
+Conversational Interfaces
+
+MIIS Capstone Project
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems who has petitioned to have the summer internship waived.
+
+Fall 1: - Search Engines - Analysis of Social Media - Design and Engineering of Intelligent Systems - Directed Study
+
+Spring:
+
+Machine Learning
+
+Natural Language Processing
+
+Question Answering
+
+Directed Study
+14. Web search engines, 1994 The World Wide Web was still in its toddler stage when CMU researcher Michael “Fuzzy” Mauldin (CS’83,’89) developed one of the first successful search engines, Lycos. It was the most-visited site on the Web by 1999.
+
+
+Answer: 

@@ -1,0 +1,137 @@
+Question: When did CMU get its first IBM 650 computer?
+
+Context: I don’t know the protocols at the MIT Computation Center in the early 1960s for using the IBM 70926 Alexander and Manheim used for their programming, but ﬁfteen years later at Stanford in similar circumstances, one submitted a card deck to an operator who would feed the punch cards into the machine, returning a printout of the results some time later—in some cases, the next day. In such an environment, it was common to deal with errors and mistakes with as few such interactions as possible, and
+20-22, 1972, at the IBM Thomas J. Watson Research Center, Yorktown Heights, New York, USA, The IBM Research Symposia Series, pages 85–103. Plenum Press, New York, 1972. doi:10.1007/978-1-4684-2001-2\_9.
+Since its beginnings in the 20th century with the theoretical conceptualization by Alan Turing of a machine capable of making calculations and with memory to store data, computing has led us in a spiral of technological advances, which has evolved exponentially. The Englishman Alan Turing was the founder of Computer Science, he was a mathematician, philosopher and cryptographer, a visionary of his time. Turing lived from (1912 to 1954). It should be noted that, without that initial idea and the
+Course number: 18785
+
+Title: Data, Inference, and Applied Machine Learning
+
+Units: 12.0
+
+Section: A,R
+
+Days: TR
+
+Start: 08:00AM,02:00PM
+
+End: 09:20AM,03:20PM
+
+Room: CMU REMOTE,HOA 160
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: McSharry
+
+Fall 2023
+
+Course number: 18790
+
+Title: Introduction to Deep Learning and Pattern Recognition for Computer Vision Part I
+
+Units: 6.0
+
+Section: A1
+
+Days: M
+
+Start: 04:00PM
+
+End: 04:50PM
+
+Room: SH 236
+
+Locations: Pittsburgh, Pennsylvania
+Room: CMU REMOTE,CMR F307
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Fall 2023
+
+Course number: 18726
+
+Title: Projects in Integrated Circuit Design: First Silicon
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mai
+
+Fall 2023
+
+Course number: 18729
+
+Title: Special Topics in Circuits:
+
+Units: 12.0
+
+Section: C,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,ANS C02
+Section: 44,D4,A4
+
+Days: R,MW
+
+Start: 12:30PM,05:00PM
+
+End: 01:50PM,06:20PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gennari
+
+Spring 2024
+
+Course number: 17645
+
+Title: Machine Learning in Production:
+
+Units: 12.0
+
+Section: A,E,B,F,G,C,D,Lec,
+
+Days:  ,F,MW
+
+Start: 09:30AM, ,11:00AM,02:00PM
+
+End: 10:50AM, ,12:20PM,03:20PM
+
+Room: WEH 5310,PH 226C,PH A22,GHC 4215,CMU REMOTE, ,PH 100,WEH 4709
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Kaestner, Le Goues
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+1948 saw the first independent orgs and the start of DTD’s run of greatness, but it wasn’t easy, as they barely held off KapSig for the championship.
+the arrival of an IBM 650 computer on the campus of what was then known as Carnegie Institute of Technology. The IBM 650 had magnetic-drum memory and a processing speed of approximately 60 instructions per second. Herb Simon (H’90), associate dean of the Graduate School of Industrial Administration—now known as CMU’s Tepper School of Business—established Carnegie Tech’s first Computation Center with the help of its first director, Alan Perlis (S’42).
+11. Computer chess, 1990 Could a computer play chess at the level of the world’s best players? For many years, it was considered the “holy grail” of artificial intelligence. Hitech, developed by CMU researcher Hans Berliner (CS’74), was the first computer to achieve grandmaster status. CMU alumni played key roles in developing “Deep Blue,” the IBM machine that beat human chess champion Garry Kasparov in 1997.
+Center, or PARC, which released the Xerox Alto in 1973. Considered a forerunner to many of the computing environments that followed, Alto featured a graphical-user interface and was among the first commercially available workstations controlled with a mouse. Inspired by Alto, Reddy launched a drive for development of CMU’s own “three-M” machine—a personal workstation with a megabyte of memory, a megapixel display and at least one million instructions per second of processing power.
+
+
+Answer: 

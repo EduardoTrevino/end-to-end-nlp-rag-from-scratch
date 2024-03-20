@@ -1,0 +1,181 @@
+Question: Which benchmark was used in the study?
+
+Context: Benchmark scope and human ambiguity The datasets used in this study were limited in scope and size; ToM is required in most human interac- tion, and thus unbounded in scope. In addition,
+
+9OpenAI acknowledged that GPT-4 was trained on test
+
+data from BIGBench (OpenAI, 2023, footnote 5).
+
+10See Appendix 8.5 for an attempt to quantify such data
+
+leakage.
+
+10
+These are the state-of-the-art methods in recent benchmark studies. They
+In a recent study, we translated the English Semantic Textual Similarity benchmark dataset (STSb) (Cer et al. 2017) into Turkish using the Google Cloud Translation API (Google Cloud 2021). The translations in the new dataset, called STSb-TR, were found to be of high quality (Beken Fikri et al. 2021). The STSb dataset consists of a selection of the English datasets used in SemEval STS studies between 2012 and 2017. There are 8628 sentence pairs in total (5749 train, 1500 dev, 1379 test). Scores
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Matthews, Muller
+
+Spring 2024
+
+Course number: 76051
+
+Title: Study Abroad
+
+Units: 0.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 76100
+
+Title: Reading and Writing in an Academic Context
+
+Units: 9.0
+
+Section: C
+
+Days: MWF
+
+Start: 10:00AM
+
+End: 10:50AM
+
+Room: PH 125D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yoon
+Title: Independent Study: Research
+
+Units: 6,12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shah
+
+Fall 2023
+
+Course number: 10625
+
+Title: Introduction to Convex Optimization
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 7500
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gormley
+
+Fall 2023
+
+Course number: 10680
+
+Title: Mathematical Foundations for Machine Learning
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+Title: Independent Study in Research
+
+Units: 3-9
+
+Section: A,E,I,B,F,G,C,D,J,H
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Woloshyn,Randall,Pukinskis,Stern,Instructor TBA,Cardenes
+
+Spring 2024
+
+Course number: 57614
+
+Title: Independent Study in Performance
+
+Units: 3-9
+
+Section: A,E,I,B,F,G,C,D,J,H
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Branson,Howard,Goeres,Manriquez,Douglas,Instructor TBA
+Official Mascot? More than a century after Carnegie Mellon University opened its doors, an official mascot finally made its mark. Although students have dressed as a Scottish terrier — typically referred to as Scotty — for 50 years, it wasn't until 2007 that Carnegie Mellon officially welcomed the Scottish terrier as the university's first mascot.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+You can find our official tartan on various items in the University Store.
+
+Source: "Tartan: Romancing the Plaid," by Jeffrey Banks and Doria De La Chapelle
+Students must demonstrate their mastery of material taught in courses and their success in
+
+applying their skills in directed study by satisfying the following grade requirements:
+
+1. Minimum grade:  Only courses with a grade of C (2.0) or higher are counted as satisfying a degree requirement.
+
+2. Pass/fail:   Pass/fail grades are not permitted for courses and projects used to satisfy a
+
+degr ee requirement.
+
+4.1.2 Research Speaking Requirement
+used for course assignments, directed study projects , and/or capstone projects. The LTI cluster
+
+provides storage and computation for projects involving large datasets and/or lengthy computation.
+
+3 Master’s Degree Completion and Certification
+
+3.1 Standard Degree Requirements an d Degree Certification
+
+3.1.1 Graduate Students
+units of eligible study: The course and course grade will appear on the student’s transcript, and the course grade will factor as part of the student’s QPA. 183.3.13 Independent study course Independent study courses allow students to cover study of a particular area of interest, and are used when no formal course is available in a given subject area. Students who are interested in continuing to a Ph.D. degree often enroll in Independent Study, since it offers the opportunity to perform
+
+
+Answer: 

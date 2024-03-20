@@ -1,0 +1,65 @@
+Question: In the paper "Decoder-only Architecture for Speech Recognition with CTC Prompts and Text Data Augmentation, what is the reduction in word error rates achieved by the proposed models on LibriSpeech testother?
+
+Context: 2https://github.com/google/sentencepiece
+
+the joint CTC/attention-based encoder-decoder models that are used in acoustic feature-based end-to-end speech recognition systems [38]. Note that a randomly initialized linear embedding layer is used before the encoder to extract learnable features for input discrete tokens.
+
+2.3. Data Augmentation for ASR with Discretized Input
+This paper presents an end-to-end model designed to im- prove automatic speech recognition (ASR) for a particular speaker in a crowded, noisy environment. The model utilizes a single-channel speech enhancement module that isolates the speaker’s voice from background noise (ConVoiFilter) and an ASR module. The model can decrease ASR’s word error rate (WER) from 80% to 26.4% through this approach. Typically, these two components are adjusted independently due to vari- ations in data requirements.
+[38] D. S. Park, W. Chan, Y. Zhang, et al., “Specaugment: A simple data augmen- tation method for automatic speech recognition,” Proc. Interspeech, pp. 2613– 2617, 2019.
+
+[39]
+
+T. Ko, V. Peddinti, D. Povey, et al., “Audio augmentation for speech recognition,” Proc. Interspeech, 2015.
+
+[40]
+
+T. Kudo and J. Richardson, “Sentencepiece: A simple and language independent subword tokenizer and detokenizer for neural text processing,” in Proc. EMNLP 2018, 2018, pp. 66–71.
+
+[41]
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+
+
+Answer: 

@@ -1,0 +1,155 @@
+Question: What does TASTE use to better characterize user behaviors?
+
+Context: ness than TASTE (Rand Negs). This phenomenon illustrates that these hard negatives are also high-potentially interacted with users and are usually not the real negatives. Besides, benefiting from our attention sparsity method, TASTE achieves further improvements, demonstrating its effectiveness in characterizing user behaviors by modeling longer-term user-item interactions.
+lengths of 256 and 512 for user-item interaction history, splitting them into 4 or 2 subsequences. Then we evaluate the memory usage and recommendation performance of TASTE. Overall, by adding more subsequences or extending their lengths to model additional user-interacted items, TASTE achieves more accurate recommenda- tion results. It demonstrates that modeling longer user-item interac- tion sequences can help to better characterize user behaviors [45]. When the sequences are separated into
+ABSTRACT This paper proposes Text mAtching based SequenTial rEcommenda- tion model (TASTE), which maps items and users in an embedding space and recommends items by matching their text representa- tions. TASTE verbalizes items and user-item interactions using identifiers and attributes of items. To better characterize user be- haviors, TASTE additionally proposes an attention sparsity method, which enables TASTE to model longer user-item interactions by reducing the self-attention computations
+Title: Topics in Consumer Behavior
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: TEP 5219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Olivola
+
+Fall 2023
+
+Course number: 47760
+
+Title: Foundations of Operations Management
+
+Units: 6.0
+
+Section: A1
+
+Days: TR
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Tayur
+
+Fall 2023
+
+Course number: 47774
+
+Title: Advanced Stochastic Analysis and Applications I
+
+Units: 6.0
+Title: Consumer Behavior
+
+Units: 6.0
+
+Section: A3,E4
+
+Days: W,MW
+
+Start: 06:30PM,02:00PM
+
+End: 03:45PM,10:00PM
+
+Room: TEP 2202,TEP 2119
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Olivola
+
+Spring 2024
+
+Course number: 45840
+
+Title: Negotiations:
+
+Units: 6.0
+
+Section:  ,A3,B3
+
+Days:  ,MW
+
+Start:  ,10:00AM,02:00PM
+
+End: 03:45PM, ,11:45AM
+
+Room:  ,TEP 2202
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Shea
+
+Spring 2024
+
+Course number: 45841
+Course number: 05610
+
+Title: User-Centered Research and Evaluation:
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec,
+
+Days:  ,MW
+
+Start: 12:30PM, ,02:00PM
+
+End:  ,01:50PM,03:20PM
+
+Room: WEH 4708,PH 226B,PH 225B,DH 1212, ,GHC 4101,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Musuraca, Shen
+
+Spring 2024
+
+Course number: 05615
+
+Title: Persuasive Design:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,3SC 172
+
+Locations:  ,Pittsburgh, Pennsylvania
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+1946 – PiKA’s Buggy (from the 1947 Thistle). It didn’t win Design Competition, but it had the best aesthetic design. Prelim Heats and Results. The Prelims were run in 3 heats, with 3 teams in each. The rules initially stated that the winner of each heat would compete in the finals, but it seems that the rules changed to be the three fastest times instead, as the Prelim results printed in the May 7, 1946 Tartan indicate that the Finals was just a rematch of Prelim Heat 1. According to the May 7
+Design, implement and evaluate a user experience prototype to allow for clear understanding of data science solutions.
+
+Apply social and behavioral research methods to data science problems to understand the human aspects of data collection and analysis.
+8. User interfaces, 1983 Why should humans adapt to fit computers? Shouldn’t computers adapt to fit humans? That was the attitude of CMU researchers, who applied design principles to computer science to develop better, easier-to-use interfaces. They called the new field “human-computer interaction.”
+Clients meet with a c onsultant to improve the logic, clarity, and flow of writing or
+
+presentation and receive expert feedback that will strengthen a project. When making an appointment, clients upload a draft, instructor prompts, and rubrics so the consultants can use specific  criteria to give relevant feedback. See the
+
+appointment types offered here:
+
+https://www.cmu.edu/student-
+
+success/programs/communication -support/make- an-appointment.html
+
+
+Answer: 

@@ -1,0 +1,21 @@
+Question: In the Convoifilter paper, what is the WER achieved by the joint fine-tuning strategy?
+
+Context: However, speech enhancement can create anomalies that decrease ASR efficiency. By imple- menting a joint fine-tuning strategy, the model can reduce the WER from 26.4% in separate tuning to 14.5% in joint tun- ing. We openly share our pre-trained model to foster further research hf.co/nguyenvulebinh/voice-filter.
+2.3. Joint fine-tuning strategy
+Supervised Fine-Tuning (SFT) on response demonstrations combined with Re- inforcement Learning from Human Feedback (RLHF) constitutes a powerful paradigm for aligning LLM-based AI agents. However, a significant limitation of such an approach is its dependency on high-quality human annotations, making its application to intricate tasks challenging due to difficulties in obtaining consis- tent response demonstrations and in-distribution response preferences. This paper presents a novel approach,
+Important Note: MCDS implements the above policy’s option of “conven[ing] a disciplinary hearing according to the procedures of the department/program”. We have adopted the following hearing procedure and “two strikes” rule:  If an instructor determines that an academic integrity violation has occurred, both the instructor and students are given the opportunity to explain the situation to the MCDS program committee. A written hearing by email suffices for this purpose.  The program committee
+Separately, and also in 1986, the Pittsburgh Supercomputing Center was created as a joint effort between CMU, the University of Pittsburgh and Westinghouse Electric Corp.
+source for either written or oral use must be  fully acknowledged in academic work to be
+
+graded.”
+
+It is a violation of academic integrity for you to assist anyone else in violating the policy or to
+
+provide your work to others to assist them. Be cause team deliverables are the product of joint
+
+work, it is the responsibility of each member of  a team to ensure that all team materials have
+
+been produced in conformance with CMU policies. Credit cannot be given fo r work that is not a
+
+
+Answer: 

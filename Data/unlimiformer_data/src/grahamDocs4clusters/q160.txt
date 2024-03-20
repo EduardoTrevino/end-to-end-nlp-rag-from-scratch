@@ -1,0 +1,201 @@
+Question: What LTI professor was the last author in "To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing"?
+
+Context: Paper title: 'To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Emma Strubell, Sireesh Gururaja, Amanda Bertsch, Clara Na, D. Widder Summary: This work conducts long-form interviews with 26 NLP researchers of varying seniority, research area, institution, and social identity to study factors that shape NLP as a
+3 2 0 2
+
+t c O 1 1
+
+] L C . s c [
+
+1 v 5 1 7 7 0 . 0 1 3 2 : v i X r a
+
+To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing
+The book The Age of AI: and Our Human Future was written as a result of a synthesis of discussions about artificial intelligence and its implications in the domain of what is comprehensible to the human mind. Multiple authors – Henry Kissinger, former US State Secretary, Eric Schmidt, former Google Executive Director, and Daniel Huttenlocher, Dean of the Schwarzman College of Computing at the Massachusetts Institute of Technology, try to provide the reader with an insight into the new reality
+Instructors: Titzer, Aldrich,Aldrich, Titzer
+
+Fall 2023
+
+Course number: 17668
+
+Title: Network Analysis: The Hidden Structures behind the Webs We Weave
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH A18B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Park, Vasilescu
+
+Fall 2023
+
+Course number: 17673
+
+Title: Studio Project III
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Miller
+
+Fall 2023
+
+Course number: 17213
+
+Title: Network Analysis: The Hidden Structures behind the Webs We Weave
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH A18B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Vasilescu, Park
+
+Fall 2023
+
+Course number: 17214
+
+Title: Principles of Software Construction: Objects, Design, and Concurrency
+
+Units: 12.0
+
+Section: A,E,B,F,C,D,Lec
+
+Days: W,TR
+
+Start: 09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Fall 2023
+
+Course number: 11726
+
+Title: Meaning in Language Lab (Self Paced)
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11737
+
+Title: Multilingual Natural Language Processing.
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+that we’re missing), let us know! We’ll come back and update this (and any other articles in the series) if we get additional information.
+You can find our official tartan on various items in the University Store.
+
+Source: "Tartan: Romancing the Plaid," by Jeffrey Banks and Doria De La Chapelle
+LTI Ph.D.  Graduate Student Handbook  Page 1
+
+Ph.D. in Language and Information Technologies
+
+Student Handbook
+
+2023 -2024
+
+Last revision: Tuesday, August 29, 2023
+
+LTI Ph.D.  Graduate Student Handbook  Page 2
+
+LTI Ph.D.  Graduate Student Handbook  Page 3
+
+Contents
+
+1 Introduction  ........................................................................................................................................ 9
+our Future Faculty Program, both of which are designed to help participants be effectiv e and
+
+efficient in their teaching roles. The Eberly Center also assists departments in creating and
+
+conducting customized programs to meet the specific needs of their graduate student instructors.
+
+Specific information about Eberly Center support for graduate students is found at:
+
+https://www.cmu.edu/teaching/graduatestudentsupport/
+
+LTI Ph.D.  Graduate Student Handbook  Page 44
+garlan@cs.cmu.edu
+
+http://www.cs.cmu.edu/~garlan/academics.htm
+
+C a r o l y n  R o s é
+
+Interim Director, Language Technologies Institute  Professor  GHC 5415
+
+412-268-7130
+
+cprose@cs.cmu.edu
+
+8 MSAII Policies
+
+The Language Technologies Institute (LTI) ha s prepared this statement of policies, program
+
+requirements, guidance, process a nd procedures for students in the M.S. in Artificial Intelligence
+
+and Innovation (MSAII) program. A copy of this handbook is also available online at the
+
+
+Answer: 

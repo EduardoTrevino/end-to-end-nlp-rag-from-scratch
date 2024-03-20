@@ -1,0 +1,143 @@
+Question: Who were the interdisciplinary leaders of the School of Computer Science?
+
+Context: 2 BACKGROUND Our research proceeded through sustained interdisciplinary dialogues between two computer science researchers designing music recommender systems (Diaz, Ferraro) and two media and communication scholars from the humanities and social sciences (Born, Ferreira). Over the course of a year we instructed each other in appropriate background research, sharing ideas and deepening our mutual engagement in both directions. In this way we translated terms from one ‘side’ to the other, while
+In Germany in 2018, the book “Content and Skills of Computer Science” was published by the University Press of the University of Potsdam. In the ﬁrst paper that is part of the publication, entitled “What everyone should learn about computer science: an analysis of University courses for students of other disciplines,” professors Stefan Seegerer and Ralf Romeike from Friedrich- Alexander University propose a didactic way to be prepared for life in the digital society, this is not only because
+Davinci-003 → Zhiqing Sun is a Chinese computer scientist, professor, and entrepreneur. He is the founder of the Institute of Computer Science and Technology at Tsinghua University in Beijing, China and a member of the Chinese Academy of Sciences.
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 4708
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lee
+
+Fall 2023
+
+Course number: 15390
+
+Title: Entrepreneurship for Computer Science
+
+Units: 9.0
+
+Section: W
+
+Days: MW
+
+Start: 11:30AM
+
+End: 12:45PM
+
+Room: CMB 1199
+
+Locations: Doha, Qatar
+
+Instructors: Hammoud
+
+Fall 2023
+
+Course number: 15394
+
+Title: Intermediate Rapid Prototyping
+
+Units: 5.0
+
+Section: A2
+
+Days: MW
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: HL 106B
+
+Locations: Pittsburgh, Pennsylvania
+Title: Independent Study in Computer Science Pedagogy:
+
+Units: 3-18
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Eckhardt, O'Hallaron
+
+Fall 2023
+
+Course number: 15640
+
+Title: Distributed Systems
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec
+
+Days: F,TR
+
+Start: 08:00AM,03:00PM,09:00AM,02:00PM,10:00AM,11:00AM
+
+End: 09:50AM,03:50PM,12:20PM,02:50PM,10:50AM,08:50AM
+
+Room: MM 103,BH A36,POS 153,POS 152,CUC MCCNMY
+Title: Independent Study in Computer Science Pedagogy:
+
+Units: 3-18
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Eckhardt, O'Hallaron
+
+Spring 2024
+
+Course number: 15640
+
+Title: Distributed Systems
+
+Units: 12.0
+
+Section: A,B,Lec
+
+Days: W,TR
+
+Start: 08:00PM,11:00AM,07:00PM
+
+End: 07:50PM,08:50PM,12:20PM
+
+Room: DH A302,GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pillai, Satyanarayanan, Vinayak
+
+Spring 2024
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+1948: The Graduate School of Industrial Administration, later renamed the David A. Tepper School of Business, focusing on quantitative analysis and pioneering the field of management science. 1968: School of Urban and Public Affairs, later renamed the H. John Heinz III College, providing graduate training for work in the public sector. 1986: School of Computer Science, pioneering computing and artificial intelligence, led by interdisciplinary efforts of Allen Newell and Herbert Simon.
+Computer science Ph.D. program created In 1961, the Computation Center and its newest computer, a Bendix G-20, were moved to recently completed Scaife Hall. That same year, Carnegie Tech created an interdisciplinary Ph.D. program called Systems and Communications Sciences, combining elements of computer science, mathematics, psychology, business and electrical engineering. The university’s first computer science Ph.D.s were graduates of this program.
+Undergraduate degrees begin For several years, undergraduates interested in computer science pursued an “applied math/CS” bachelor’s degree offered by the Mathematics Department. CSD professor Mary Shaw (CS’72) led CMU’s first effort to design an undergraduate curriculum solely in computer science. She and her colleagues were guided by the Carnegie Plan—guidelines established in 1938 under Carnegie Tech President Robert Doherty (A’40, E’48, H’50), outlining the principles of a sound
+
+
+Answer: 

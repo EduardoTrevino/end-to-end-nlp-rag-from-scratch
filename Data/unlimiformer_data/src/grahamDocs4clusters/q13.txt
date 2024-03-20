@@ -1,0 +1,205 @@
+Question: Who used the first emoticon at CMU?
+
+Context: Christian Huber1, Tu Anh Dinh1, Carlos Mullov1, Ngoc Quan Pham1, Thai Binh Nguyen1, Fabian Retkowski1, Stefan Constantin1, Enes Yavuz Ugan1, Danni Liu1, Zhaolin Li1, Sai Koneru1, Jan Niehues1 and Alexander Waibel1,2 1Karlsruhe Institute of Technology, Karlsruhe, Germany firstname.lastname@kit.edu 2Carnegie Mellon University, Pittsburgh PA, USA alexander.waibel@cmu.edu
+
+Abstract
+We introduce four phonetic word embedding methods—count-based, autoencoder, and metric and contrastive learning. Though some of these techniques are inspired by previous work, we are the first to apply them with supervision from articu- latory feature vectors, a seldom-exploited form of
+
+=Co-first authors.
+
+1The technically correct term is phonological word embeddings but prior literature uses the term phonetic.
+
+linguistic knowledge for representation learning.
+Guokun Lai, Qizhe Xie, Hanxiao Liu, Yiming Yang, and Eduard Hovy. RACE: Large-scale In Proceedings of the 2017 Conference ReAding comprehension dataset from examinations. on Empirical Methods in Natural Language Processing, EMNLP, pages 785–794, Copenhagen, Denmark, 2017.
+
+[LZK+23]
+
+Haonan Li, Yixuan Zhang, Fajri Koto, Yifei Yang, Hai Zhao, Yeyun Gong, Nan Duan, and Timo- thy Baldwin. CMMLU: Measuring massive multitask language understanding in Chinese. arXiv preprint arXiv: 2306.09212, 2023.
+Room: CMU REMOTE,CMR F307
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Fall 2023
+
+Course number: 18726
+
+Title: Projects in Integrated Circuit Design: First Silicon
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mai
+
+Fall 2023
+
+Course number: 18729
+
+Title: Special Topics in Circuits:
+
+Units: 12.0
+
+Section: C,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,ANS C02
+Title: Grand Challenge Seminar: Equitable Access and Success in Higher Education at CMU:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: PH A18B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Walsh, Ballesteros Soria
+
+Spring 2024
+
+Course number: 66142
+
+Title: DC 1st Year Seminar: The Mirror of Technology: Biases in Computation & Cognition
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5310
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Savvides
+
+Fall 2023
+
+Course number: 18797
+
+Title: Machine Learning for Signal Processing
+
+Units: 12.0
+
+Section: A,SV,RW
+
+Days: TR
+
+Start: 08:00PM,11:00AM,02:00PM
+
+End: 12:20PM,09:20PM,03:20PM
+
+Room: B23 212,DH A302,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Ramakrishnan
+
+Fall 2023
+
+Course number: 18799
+
+Title: Special Topics in Signal Processing:
+
+Units: 12.0
+
+Section:  ,K
+
+Days:  ,MW
+
+Start:  ,10:00AM
+
+End: 11:50AM,
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+5. Emoticons, 1982 Sure, it was just a joke, but (for better or worse) it’s endured for more than three decades. CMU researcher Scott Fahlman created the emoticon to clear up misunderstandings on computer message boards. We’ve been looking at the world sideways ever since. :-)
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+
+
+Answer: 

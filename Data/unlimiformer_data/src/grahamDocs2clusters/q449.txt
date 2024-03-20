@@ -1,0 +1,39 @@
+Question: When did amusing buggies like Delta Upsilon's "Fish" and Printing Management's Bathtub disappear?
+
+Context: Output: Usually when there istakeaway, the management officedownstairs will call.
+
+Error Type
+
+BLEURT: 0.519
+
+Explanation
+
+Prompt: You are evaluating a modeloutput based on a reference.
+
+COMET: 0.711
+
+Error Location
+
+BERTScore: 0.925
+
+I will save you.I am intelligent InstructScore.
+Question: When did the director of film Laughter In Hell die? Answer (with step-by-step): The film Laughter In Hell was directed by Edward L. Cahn. Edward L. Cahn died on August 25, 1963. So the answer is August 25, 1963.
+Question: When did the director of film Laughter In Hell die? Answer: The film Laughter In Hell was directed by Edward L. Cahn. Edward L. Cahn died on August 25, 1963. So the answer is August 25, 1963.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+1949 – KapSig’s buggy with front hatch removed, being inspected (from the 1950 Thistle).
+
+1949 – PiKA’s Buggy and team (from the 1950 Thistle)
+
+1949 – ATO’s buggy (from the 1950 Thistle). The buggy is flat and white, and has side view mirrors!
+
+1949 – KapSig’s buggy being pushed on the Back Hills (from the 1949 Thistle)
+
+1949 – PiKA’s Buggy (from the 1950 Thistle)
+system). 1948 Photos. Here are some photos from 1948. Let us know if you can ID any of the “unknown” buggies.
+
+
+Answer: 

@@ -1,0 +1,169 @@
+Question: What number do all of the Civil & Environmental Engineering classes start with?
+
+Context: Participants were asked to say what discipline they taught using the categories provided by the HESA (UK Higher Education Statistics Agency). Nineteen different categories were selected, the most common being social science (27%), language and area studies (13%), education and teaching (10%), nursing, midwifery and health (8.6%), engineering and technology (8.6%), geographical and environmental studies (8.6%).
+engineering may be a good choice for you. There are many different engineering disciplines from which you can choose, such as mechanical engineering, electrical engineering, computer engineering, civil engineering, architecture, etc. These areas require strong analytical, mathematical, and problem-solving skills, making them ideal for individuals with these skills. However, you have to bear in mind that study- ing engineering requires a great effort and time, and it may take you to work long
+Finland where motorcycles are not widely used for the reason of environmental protection. In addition, people usually do not ride bicycles or motorcycles in adverse weather conditions. As a result, classes motor, motorcyclist, and bicyclist have extremely lower occurrence frequency, leading to an absence of these classes in the validation set of SemanticSTF under relevant weather conditions. Tables 7, 8, 9, and 10 present corresponding class-level IoU performance for each adverse weather in
+Units: 0-99
+
+Section: A,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 12993
+
+Title: Reading and Research in Civil and Environmental Engineering
+
+Units: 5,18,36
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 12995
+
+Title: Internship in Civil and Environmental Engineering
+
+Units: 1-36
+
+Section: R
+
+Days: TBA
+Title: Practicum in Civil and Environmental Engineering
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Akinci
+
+Spring 2024
+
+Course number: 02250
+
+Title: Introduction to Computational Biology
+
+Units: 12.0
+
+Section: A,W,B,Lec 1,Lec 2
+
+Days: MWF,R,UT,F
+
+Start: 12:30PM,09:30AM,03:00PM,11:30AM
+
+End: 10:50AM,12:45PM,01:50PM,03:50PM
+
+Room: CMB 1031,GHC 5222,DH 1112,DH 1212
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+Instructors: Francioni Rooney
+
+Fall 2023
+
+Course number: 12799
+
+Title: Ph.D. Thesis
+
+Units: 0-99
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Akinci
+
+Fall 2023
+
+Course number: 12995
+
+Title: Practicum in Civil and Environmental Engineering
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Akinci
+
+Fall 2023
+
+Course number: 02261
+But a few of the specific rules changed slightly, or are worth noting again: All drivers, pushers, designers and builders were required to members of the organization they’re competing for All team members (including designers and builders) must be “eligible” under the Executive Board’s requirements, which include a minimum of 36 units and being in good academic standing (with a minimum GPA requirement). The buggy/driver combo must weigh a minimum of 180 pounds (up from the previous 160 lbs)
+Safety is a top priority for teams. All drivers are required to have five pieces of safety gear: mouth guard, goggles, a harness that includes three points of contact to the body of the buggy, gloves and a helmet. And during practice runs and races, flaggers man the course to let drivers know if it's safe to proceed.
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+course. No undergraduat e courses count toward the 195-unit requirement.
+
+All Core courses are organized in sequence, and must be taken in the following order:
+
+Artificial Intelligence and Future Markets (11-651) – No prerequisite.
+
+AI Engineering (11-695) – Prerequisite is the co mpletion of 11-651 with a grade of “B” or
+
+better.
+
+LTI Practicum (11-935) – Three credit units for completing the required Internship.
+Classes can be found at https://enr-apps.as.cmu.edu/o pen/SOC/SOCServlet/search .
+
+Students are then required to take and su ccessfully complete the courses below:
+
+2) The Core Courses (87 units) - Must be taken in THIS SEQUENCE:
+
+11-651 – AI & Future Markets – (12 units). First  Fall semester. Only open to MSAII.
+
+17-762 – Law of Computer Technolo gy (12 units). First Fall semester
+
+11-695 – AI Engineering (12 un its). First Spring semester
+complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+
+
+Answer: 

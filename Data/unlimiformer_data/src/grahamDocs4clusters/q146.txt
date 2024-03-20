@@ -1,0 +1,205 @@
+Question: What number do all of the Architecture classes start with?
+
+Context: 6
+
+mIoU
+
+48.2 49.6
+
+52.8 53.4
+
+52.8 54.2
+
+40.8 41.7
+
+50.3 52.5
+
+50.0 51.2
+
+Table 2. GTA → Cityscapes results: Classwise and mean (over 16 classes) IoU comparison of our DACS+PAC with prior works. † denotes the use of PSPNet [63], * denotes our implementation of SAC with a restricted conﬁguration (GROUP SIZE=2) compared to original SAC method (GROUP SIZE=4). All other methods use DeepLabV2 [9] architecture.
+
+d a o r
+
+k l a w e d i s
+
+g n i d l i u b
+
+l l a w
+
+e c n e f
+
+e l o p
+
+t h g i l
+Architecture. For the 7B model training, we adopt MPT architecture [38], the max sequence length is 2,048. We use Triton [35] with Flash Attention [8] as the self-attention implementation. Alibi is enabled to make model more flexible for input length extrapolation. The model’s total number of parameters is 6.7B. Tokenizer. The tokenizer used for 7B training is adapted GPT-NeoX-20b. Fol- lowing [38], the model’s vocabulary size is adjusted to 50,432 for improved mfu and leaving a few tokens
+We used on StudioGAN10 codebase for training GAN in this work. For the StyleGAN and MHGAN architectures, we followed the default hyper-parameters provided in the StudioGAN repository. However, for the BigGAN architecture, we increased the number of training steps to 200,000, which is different from the original hyper-parameters, to increase image ﬁdelity. We trained a total of 256 models for each GAN architecture, with each model being trained on a randomly selected half of the CIFAR-10
+Fall 2023
+
+Course number: 48509
+
+Title: Architecture Design Studio: Thesis I/ Independent Project
+
+Units: 18.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 48525
+
+Title: Thesis Seminar
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: MM 409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Torello
+
+Fall 2023
+
+Course number: 48531
+Summer 2024
+
+Course number: 48519
+
+Title: Architecture Design Studio: Thesis II/ Independent Project
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 48599
+
+Title: Independent Study
+
+Units: 3-9
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 48600
+
+Title: ASO Studio General
+
+Units: 18.0
+
+Section: A
+Instructors: Abraham,Arscott,Instructor TBA
+
+Fall 2023
+
+Course number: 48607
+
+Title: Architectural Agency
+
+Units: VAR
+
+Section: A,B
+
+Days: W
+
+Start: 09:30AM,10:30AM
+
+End: 11:50AM,10:50AM
+
+Room: OFF CAMPUS
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Issaias
+
+Fall 2023
+
+Course number: 48610
+
+Title: Prototyping Stories: Experimental Children's Book and Vis Dev as An Architectura
+
+Units: 9.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CFA 211
+But a few of the specific rules changed slightly, or are worth noting again: All drivers, pushers, designers and builders were required to members of the organization they’re competing for All team members (including designers and builders) must be “eligible” under the Executive Board’s requirements, which include a minimum of 36 units and being in good academic standing (with a minimum GPA requirement). The buggy/driver combo must weigh a minimum of 180 pounds (up from the previous 160 lbs)
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+1946 – PiKA’s Buggy (from the 1947 Thistle). It didn’t win Design Competition, but it had the best aesthetic design. Prelim Heats and Results. The Prelims were run in 3 heats, with 3 teams in each. The rules initially stated that the winner of each heat would compete in the finals, but it seems that the rules changed to be the three fastest times instead, as the Prelim results printed in the May 7, 1946 Tartan indicate that the Finals was just a rematch of Prelim Heat 1. According to the May 7
+complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+course. No undergraduat e courses count toward the 195-unit requirement.
+
+All Core courses are organized in sequence, and must be taken in the following order:
+
+Artificial Intelligence and Future Markets (11-651) – No prerequisite.
+
+AI Engineering (11-695) – Prerequisite is the co mpletion of 11-651 with a grade of “B” or
+
+better.
+
+LTI Practicum (11-935) – Three credit units for completing the required Internship.
+Classes can be found at https://enr-apps.as.cmu.edu/o pen/SOC/SOCServlet/search .
+
+Students are then required to take and su ccessfully complete the courses below:
+
+2) The Core Courses (87 units) - Must be taken in THIS SEQUENCE:
+
+11-651 – AI & Future Markets – (12 units). First  Fall semester. Only open to MSAII.
+
+17-762 – Law of Computer Technolo gy (12 units). First Fall semester
+
+11-695 – AI Engineering (12 un its). First Spring semester
+
+
+Answer: 

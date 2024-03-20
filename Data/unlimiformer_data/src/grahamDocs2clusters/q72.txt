@@ -1,0 +1,159 @@
+Question: In summer 2024, When is the first day of Mini-6 classes?
+
+Context: Title: Special Topics in ICT Mini:
+
+Units: 6.0
+
+Section:  ,A1,N1
+
+Days:  ,MW,TR
+
+Start: 08:00AM, ,04:00PM
+
+End:  ,05:50PM,09:50AM
+
+Room: CMR F305, ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Rodriguez-Perez,Ostheimer
+
+Fall 2023
+
+Course number: 04900
+
+Title: MSIT Practicum
+
+Units: 24.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:20PM
+
+Room: CMR F305
+
+Locations: Kigali, Rwanda
+
+Instructors: Okeyo
+
+Fall 2023
+
+Course number: 04910
+
+Title: Entrepreneurship Project
+
+Units: VAR
+
+Section: A
+Course number: 36735
+
+Title: Statistical Analysis Mini - TBA
+
+Units: 6.0
+
+Section: A3
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36736
+
+Title: Statistical Methods Mini - TBA
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36757
+
+Title: Advanced Data Analysis I
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mandal
+
+Spring 2024
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A3
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: GHC 4102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mandal
+
+Spring 2024
+
+Course number: 33226
+
+Title: Physics of Energy
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 7500
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dodelson
+
+Spring 2024
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+close Date -  March 4 ; Event - 8 M-F Spring Break; No Classes Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 12 ; Day - Tuesday ; Event - Summer 2024 Registration Opens Date -  March 15 ; Day - Friday ; Event - Mini-4
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+
+
+Answer: 

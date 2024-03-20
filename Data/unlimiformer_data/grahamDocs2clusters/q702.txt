@@ -1,0 +1,63 @@
+Question: Where is advanced NLP taught this semester?
+
+Context: et al., 2023; Lu et al., 2023; Liang et al., 2023). By combining plans, decisions, and executions into a pipeline, these frameworks aim to construct more advanced and versatile NLP systems for improving the performance of LLMs.
+Natural language processing (NLP) is in a period of flux. The unprecedented advances of deep neu- ral networks and large language models (LLMs) in NLP coincides with a shift not only in the nature of our research questions and methodology, but also in the size and visibility of our field. Since the mid- 2010s, the number of first-time authors publishing in the ACL Anthology has been increasing expo- nentially (Figure 1). Recent publicity around NLP technology, most notably ChatGPT, has brought
+using NLP to advance dogwhistle research. Even though LLMs’ performance is likely due to vast training data, and even then, their outputs require manual verification, our experiments with GPT-3 demonstrate that LLMs have some ability to sur- face dogwhistles and explain their covert meanings. This is particularly valuable as dogwhistles are in- tentionally hidden from out-group members, and out-group researchers may have no other way to access this information. There is thus a unique op-
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+10-708, Probabilistic Graphical Models
+
+16-720, Computer Vision
+
+17-631 Information Security, Privacy & Policy
+
+17-781, Mobile and IoT Computing Services
+
+4.4.1 Breadth Courses:  Human Language
+
+11-611, Natural Language Processing
+
+11-624, Human Language for Artificial Intelligence
+
+11-711, Advanced NLP
+
+11-722, Grammar Formalisms
+
+11-724, Human Language for Artificial Intelligence
+
+11-727, Computational Semantics for NLP
+
+11-737, Multilingual NLP
+
+
+Answer: 

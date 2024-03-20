@@ -1,0 +1,39 @@
+Question: What computation is offloaded to a k-nearest-neighbor (kNN) index in the Unlimiformer approach?
+
+Context: Since the proposal of transformers (Vaswani et al., 2017), these models have been limited to bounded input lengths, because of their need to attend to every token in the input. In this work, we propose Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores. This kNN index can be kept on either the
+Paper title: 'Unlimiformer: Long-Range Transformers with Unlimited Length Input' Published year: 2023 Publication venue or conference: arXiv.org Authors: Amanda Bertsch, Graham Neubig, Uri Alon, Matthew R. Gormley Summary: This work proposes Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores.
+We introduce Unlimiformer, a retrieval-based approach to augment pretrained language mod- els to accept inputs of unbounded length at test time. Given a long input sequence, Unlimi- former constructs a k-nearest-neighbor (kNN) index over the hidden states of all input tokens. Then, every standard cross-attention head in ev- ery decoder layer queries the kNN index, such that the kNN distances are the attention dot- product scores, and attends only to the top-k input tokens. In preliminary
+MS students will be given access to the LTI’s comp uter cluster on an as-needed basis, to be used
+
+for course assignments, directed study projects, and/or the capstone project. The LTI cluster
+
+provides storage and computation for projects  involving large datasets and/or lengthy
+
+computation. 12
+
+10 Degree Requirements
+
+MSAII students are expected to complete their degr ee requirements within five consecutive semesters,
+including off-campus/ wireless access to databases and e-journals, offer online access. There are 38
+
+also two neighboring libraries open to Carnegie Mellon graduate students: Carnegie Library of
+
+Pittsburgh and University of Pittsburgh Libraries. Visit the University Libraries website for
+
+information about all mentioned library locatio ns and hours, on-line resources and FAQ’s.
+
+13.10  Computing Services
+
+www.cmu.edu/computing/
+used for course assignments, directed study projects , and/or capstone projects. The LTI cluster
+
+provides storage and computation for projects involving large datasets and/or lengthy computation.
+
+3 Master’s Degree Completion and Certification
+
+3.1 Standard Degree Requirements an d Degree Certification
+
+3.1.1 Graduate Students
+
+
+Answer: 

@@ -1,0 +1,117 @@
+Question: In spring 2024, What is the day and time of course 17445-A?
+
+Context: Spring 2024
+
+Course number: 76101
+
+Title: Interpretation and Argument
+
+Units: 9.0
+
+Section: E,I,AC,LL,FF,AD,F,HH,CC,D,WW,GG,BB,II,C,EE,DD,J,AB,A,K,W,B,KK,JJ,YY,M,O,X,Z,MM,N,XX
+
+Days: MWF,UTR,TR
+
+Start: 08:45AM,08:00AM,04:00PM,09:30AM,03:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM,03:30PM,12:30PM
+
+End: 12:50PM,01:50PM,09:50AM,03:20PM,03:50PM,09:35AM,02:50PM,04:50PM,12:20PM,11:50AM,10:50AM,09:20AM,08:50AM
+Spring 2024
+
+Course number: 18475
+
+Title: Autonomous Control Systems
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 4623
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nakahira
+
+Spring 2024
+
+Course number: 18491
+
+Title: Digital Signal Processing
+
+Units: 12.0
+
+Section: A,B,Lec
+
+Days: F,MW
+
+Start: 12:00PM,10:00AM,02:00PM
+
+End: 11:50AM,01:50PM,03:50PM
+
+Room: SH 234,DH 1117,WEH 5320
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stern
+
+Spring 2024
+Spring 2024
+
+Course number: 18090
+
+Title: Twisted Signals: Multimedia Processing for the Arts
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: PH A18A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stiles
+
+Spring 2024
+
+Course number: 18095
+
+Title: Getting Started in Electronics: An Experiential Approach
+
+Units: 9.0
+
+Section: A,B
+
+Days: TR
+
+Start: 11:00AM,02:00PM
+
+End: 12:20PM,03:20PM
+
+Room: HH A104
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zajdel
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+(1) Date -  November 5 ; Day - Tuesday ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet Date -  November 11 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  November 13 ; Day - Wednesday ; Event - Mini-2 drop deadline; withdrawal grade assigned after this date (2) Date -  November 18 ; Event - 22 M-F Spring 2025 Registration Week Date -  November 25 ; Day - Monday ; Event - Mini-2 pass/no pass & withdrawal deadline (3) Date -
+
+
+Answer: 

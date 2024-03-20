@@ -1,0 +1,35 @@
+Question: Who controls the vehicles via steering and braking systems in a buggy?
+
+Context: the AGV. These subgoals include the accurate and timely detection of obstacles by the AGV’s sensors (Node 2), the rapid and safe initiation of the braking system after receiving sensor signals (Node 3), and the control system’s capability to execute safety strategies, such as deceleration or stopping, after detecting obstacles (Node 4). Figures 20, 21 and 22 follow the same pattern. Solutions at the leaf nodes of the TDT are created according to the upper-level nodes.
+, Vol. 00, No. 0, Article 000. Publication date: 2023.
+
+Trusta: Reasoning about Assurance Cases with Formal Methods and Large Language Models
+
+000:23
+
+Fig. 21. Second-level node decomposition: The braking system of the AGV can start quickly and safely after receiving sensor signals.
+
+Fig. 22. Second-level node decomposition: The control system of the AGV can execute safety strategies, such as deceleration or stopping, after detecting obstacles.
+Meysam Ghanavati, Animesh Chakravarthy, and Prathyush P Menon. Analysis of automotive cyber- attacks on highways using partial differential equation models. IEEE Transactions on Control of Network Systems, 5(4):1775–1786, 2017.
+
+David Gilbarg, Neil S Trudinger, David Gilbarg, and NS Trudinger. Elliptic partial differential
+
+equations of second order, volume 224. Springer, 1977.
+
+Diogo Gomes and Marc Sedjro. One-dimensional, forward-forward mean-field games with congestion.
+Driver: Person who travels with a buggy and controls the vehicles via steering and braking systems.
+
+Pushbar: Structure attached to a buggy that a person pushes to propel that buggy forward.
+
+Pusher: Person who propels a buggy via a pushbar along one of the five hills of the buggy course.
+
+Shell: Entire outer structure or covering of a buggy that determines that buggy's aerodynamic characteristics.
+The Machine
+
+The basics of a buggy are straightforward, but teams are often secretive in how they build the machines, in particular the way they brake, steer and what types of wheels are used.
+
+Each has a body, pushbar for runners to move the machine up the hills, wheels, a safety harness and driving and braking mechanisms. Some also include fairings, a type of housing around the wheels that help reduce drag, make the vehicle quieter and just looks cool.
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+
+
+Answer: 

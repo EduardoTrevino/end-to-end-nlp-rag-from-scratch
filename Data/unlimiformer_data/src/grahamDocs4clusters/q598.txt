@@ -1,0 +1,207 @@
+Question: What is the target duration of the LTI PhD program in years?
+
+Context: The duration of the learning rate increase is 10% of the whole training time, which is about 2 · 105 iterations. We train the network with a batch size of 15 (anchor, positive) pairs per iteration. During training, we set m = 0.5, τp = 2 m and τn = 80 m, and the distance function d(·) as the L2 distance.
+Table 1 summarizes the extrapolation setting. We mostly follow the requirements in Deletang et al. (2023), where the training and extrapola- tion lengths are 40 and 500. The lengths for ModArith(5) are 39 and 499 because this task re- quires odd-length inputs.
+
+Sum(5) EvenPair(5) ModArith(5)
+
+Ltr Lex
+
+40 500
+
+40 500
+
+39 499
+
+Table 1: Our Training and Extrapolation Settings. Ltr and Lex represent the training and extrapolation sequence lengths, respectively.
+
+4.3 Experimental Results
+000 problems each, with the same initial budget (2000 node expansions for Sokoban and The Witness, 7000 for STP) and stop as soon as the training set is entirely solved. Training LTS+CM for these domains took less than 2 hours each. Harder Sokoban. Additionally, we compare algorithms on the Boxoban ‘hard’ set of 3332 problems. Guez et al. [2019] trained a convLSTM network on the medium- difficulty dataset (450k problems) with a standard actor-critic setup — not the LTS loss — and used LTS
+Units: 1-48
+
+Section: PP,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Summer 2024
+
+Course number: 11935
+
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: P,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking,Callan
+
+Summer 2024
+
+Course number: 11936
+
+Title: PhD Internship
+
+Units: VAR
+
+Section: P,S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hovis, Pinnow
+
+Spring 2024
+
+Course number: 38110
+
+Title: ENGAGE in Service
+
+Units: 1.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11929
+
+Title: Masters Thesis II
+
+Units: 5-36
+
+Section: BC,TT
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: TBA,Instructor TBA
+
+Fall 2023
+
+Course number: 11930
+
+Title: Dissertation Research
+
+Units: 1-48
+
+Section: A,PP
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+
+Course number: 11935
+
+Title: LTI Practicum
+
+Units: 1-36
+Inductees will be selected by a committee comprised of Carnegie Mellon University staff, faculty, a board of trustee member, coaches and a student representative. The Athletics Hall of Fame will endeavor to induct not less than 15 individuals for induction in its first year and not less than 6 in any year thereafter, subject to the discretion of the Nominating Committee. The below will set forth the criteria for selection to the Athletics Hall of Fame.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+After an hour-long argument with the judges (and presumably the Sweepstakes committee), the decision to DQ PiKA was upheld and DTD was awarded the victory. Final Time. The Tartan reported that DTD’s winning time was 3:49, but our database has the time as 2:49. 3:49 would be significantly slower than any other race on this course, but I also think it’s possible. Bleak skies threatened the race (meaning it may have been bad weather), the best Prelim time was 3:24.5, and DTD was the 2nd buggy to
+4.1 Duration of Study
+
+The target duration of the LTI Ph.D.  is five years, although six years is also common.
+
+Carnegie Mellon graduate students are expected to complete their degree requirements within the standard length of time for their program of study as outlined in this Graduate Student Handbook. Upon completion of the graduate program degree requirements, the degree will be certified by the student’s academic program in the semester in which the student completes the
+
+requirements.
+typically a 16-month program consisting of courses, seminars, a required Capstone Project and a required summer internship or practical training. While some MCDS graduates continue on to PhD programs in the LTI or other leading universities, most graduates go on to jobs in 7corporate research and development laboratories.
+5.1 Graduate Student Funding
+
+For all LTI Ph.D.  students, full funding (tuition plus stipend) is guaranteed for the first year . This
+
+support is normally continued for at least 5 years, with possibility of further continuance, subject to continuing satisfactory progress and availability of funding. The fellowship includes full tuition
+
+and fees, and a monthly Ph.D.  stipend that is fixed across SCS. In addition, the LTI pays a
+
+
+Answer: 

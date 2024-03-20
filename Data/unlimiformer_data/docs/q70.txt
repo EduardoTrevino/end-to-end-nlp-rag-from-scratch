@@ -1,0 +1,165 @@
+Question: Where does Carnegie Mellon have campuses?
+
+Context: 1Machine Learning Department, Carnegie Mellon Uni- versity 2Department of Computer Sciences, University of Wisconsin-Madison 3Sony Group Corporation 4Mohamed bin Zayed University of Artiﬁcial Inc. 6Department of Electrical and Computer Engineering, Univer- sity of Wisconsin-Madison. Correspondence to: Hongyi Wang <hongyiwa@andrew.cmu.edu>.
+
+Intelligence 5Petuum,
+We thank the anonymous reviewers for their help- ful feedback. We express sincere gratitude to the members of the ArticuLabo at Inria Paris for their invaluable assistance in the successful completion of this research, and to the members of the Artic- uLab at Carnegie Mellon University in Pittsburgh for answering our questions about their prior work. This study received support from the French gov- ernment, administered by the Agence Nationale de la Recherche, as part of the "Investissements
+3 2 0 2
+
+y a M 7 1
+
+] L C . s c [
+
+2 v 9 6 9 7 0 . 5 0 3 2 : v i X r a
+
+GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content
+
+Yutian Chen† School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213 yutianch@andrew.cmu.edu
+
+Hao Kang† School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213 haok@andrew.cmu.edu
+
+Vivian Zhai† College of Engineering Carnegie Mellon University Pittsburgh, PA 15213 yiyanz@andrew.cmu.edu
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Fall 2023
+
+Course number: 18996
+
+Title: Internship One for Electrical and Computer Engineering PhD Students
+
+Units: VAR
+
+Section: A,SV,PP
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: San Jose, California,Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Fall 2023
+
+Course number: 18997
+
+Title: Internship Two for Electrical and Computer Engineering PhD Students
+
+Units: VAR
+
+Section: A,SV,PP
+
+Days: TBA
+
+Start:
+
+End:
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+About Scotty
+
+The Scottish terrier has long been a familiar figure around Carnegie Mellon's campus. For years students have suited up in an unofficial Scottish terrier costume to excite the fans at athletic events. But the relationship between the Scottish terrier breed and Carnegie Mellon far precedes anybody doing somersaults in a dog costume. Andrew Carnegie, founder of the university, kept a Scottish terrier as his pet.
+international educational opportunities, Carnegie Mellon began offering degree programs outside of Pittsburgh. Today its global presence includes campuses in Qatar and Silicon Valley, Calif., more than a dozen degree-granting locations and more than 20 research partnerships such as Los Angeles; New York City; Washington, D.C.; Australia; China; Portugal and Rwanda.
+Obtaining a Ph.D. is a long and often intense journey. A healthy work -life balance helps to keep it
+
+in perspective. Carnegie Mellon  is located in Pittsburgh, a city with a rich industrial and labor
+
+heritage. In the past, it was the heart of the U.S. steel industry, a source  for quality packaged foods,
+
+an important financial hub, and an early pioneer in railroads, radio, and nuclear power. This is a
+questions about Carnegie Mellon in general, call the Information Desk at 412 -268-2107. The
+
+Information Desk not only provides information about campus events, but also sells postage stamps, makes copies, sends faxes, distributes campus maps, manages a lost & found, and has information brochures about Pittsburgh and the campus.
+
+6.17 Athletic/Fitness Facilities
+
+www.cmu.edu/athletics
+
+For the participant or the spectator, Carnegie Mellon offers intercollegiate athletics, intramural
+
+
+Answer: 

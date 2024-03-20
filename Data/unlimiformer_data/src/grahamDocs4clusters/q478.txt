@@ -1,0 +1,131 @@
+Question: What number do all of the Biological Sciences classes start with?
+
+Context: For 10 = 2 · 5, there is no possibility to have fewer than 2 secondary groups. • For 15 = 3·5, the only option is having 2 groups of 15 together, making it 2·15 = 30. There does not seem to be any evidence of any culture using base-30 number systems.
+
+For 20 = 4 · 5, we have two options:
+
+– having 3 groups of 20, making it 3 · 20 = 60; and – having 2 groups of 20, making it 2 · 20 = 40.
+
+The last two options provide an explanation of why 60 and 40 were used as bases.
+we can have 3 groups of 5, making up 15; historically, there is no direct evidence of base-15 systems, but there is an indirect evidence: e.g., Russia used to have 15-kopeck coins, a very unusual nomination;
+
+we can have 2 groups of 5, making up 10; this is our usual decimal system; its representation as two groups of 5 can be seen, e.g., in the design of the abacus; see, e.g., [3, 5].
+4Feature numbers start from 1. 5We report results for these two values as mild and severe cases of group bias. Our experiments with other values led to consistent results.
+
+Conference’17, July 2017, Washington, DC, USA
+Course number: 33121
+
+Title: Physics I for Science Students:
+
+Units: 12.0
+
+Section: A,W,B,C,D,Lec,
+
+Days: MWF, ,UTR,TR
+
+Start: 08:00AM,04:00PM,09:00AM,10:00AM,11:00AM,12:00PM,
+
+End: 12:50PM,08:50AM,09:50AM,11:50AM,10:50AM, ,05:15PM
+
+Room: DH A301D, ,CMB 1190,DH 2210
+
+Locations:  ,Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Zhou,Li,Ryan,Zayed
+
+Fall 2023
+
+Course number: 33122
+
+Title: Physics II for Biological Sciences & Chemistry Students:
+
+Units: 9.0
+
+Section: A,B,C,Lec,
+
+Days:  ,MW,TR
+Room: DH A301D,DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Walker,Li, Martinez Rodriguez,Martinez Rodriguez, Li
+
+Spring 2024
+
+Course number: 33122
+
+Title: Physics II for Biological Sciences and Chemistry Students
+
+Units: 9.0
+
+Section: A,W,B,Lec 1,Lec 2
+
+Days: W,UT,MW,TR
+
+Start: 04:00PM,10:00AM,09:00AM
+
+End: 10:50AM,04:50PM,09:50AM,05:15PM
+
+Room: DH A301D,DH A325,CMB 1190
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Zayed,Garoff,An,Datta
+
+Spring 2024
+Title: Statistical Computing for Biological Sciences
+
+Units: 6.0
+
+Section: A1
+
+Days: MF
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cai
+
+Fall 2023
+
+Course number: 03702
+
+Title: Data Analysis for Biological Sciences
+
+Units: 6.0
+
+Section: A2
+
+Days: MF
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cai
+
+Fall 2023
+
+Course number: 03709
+
+Title: Applied Cell and Molecular Biology
+
+Units: 12.0
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+Safety is a top priority for teams. All drivers are required to have five pieces of safety gear: mouth guard, goggles, a harness that includes three points of contact to the body of the buggy, gloves and a helmet. And during practice runs and races, flaggers man the course to let drivers know if it's safe to proceed.
+also complete at least one concentration, consisting of three courses in one of three areas: Analytics, Systems, or Human-Centered Data Science. The remaining elective course can be any course with number 600 or above chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.  To maintain full-time enrollment status, a student must enroll in a minimum of 36 course units per semester.
+complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+3.3.11 Elective courses Electives can be any graduate level course (numbered 600 or above) in the School of Computer Science. Students use their elective courses to enhance study in an area of interest or to explore new areas of interest. 3.3.12 Undergraduate courses Undergraduate courses are taken to address an area of weakness in the student’s prior preparation. Undergraduate courses (numbered less than or equal to 599) may be taken pass/fail or for credit but do not count toward the 144
+
+
+Answer: 

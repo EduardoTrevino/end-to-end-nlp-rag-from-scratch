@@ -1,0 +1,200 @@
+Question: What are the acronmys for all LTI programs that have capstone requirements?
+
+Context: Description
+
+Train
+
+Total #samples
+
+Val
+
+Test
+
+CAP CLS VQA KVQA REA GEN
+
+Given an image, write a description for the image. Given an image, classify the image into pre-defined categories. Given an image, answer a question relevant to the image. Given an image, answer the question requires outside knowledge. Given an image, conduct reasoning over the images. Given an image, make compositions with certain requirements.
+
+679,087 238,303 177,633 39,981 99,372 145,000
+Tradeoff between discriminativeness and accu- racy/fluency Assessing the quality of image cap- tions requires multifaceted evaluation. Prior work on contrastive/discriminative captioning investi- gates the tradeoff of model performance between discriminativeness and accuracy/fluency (Wang et al., 2021; Liu et al., 2019; Honda et al., 2022; Cho et al., 2022; Vedantam et al., 2017; Andreas and Klein, 2016). In this paper, we also perform an extensive study on the tradeoff between informa-
+In the HIDECS reports Alexander calls the design requirements “vertices” or “misﬁt variables” and the interactions between them “links.” HIDECS 2 proceeds by splitting the set of all the vertices into two disjoint subsets (partitions) using a random selec- tion process that produces two subsets of, typically, unequal size. Next the program systematically tries moving single vertices from one subset to the other, one at a time, measuring the goodness of partition at each step, and selecting the
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 11699
+
+Title: MSAII Program Capstone
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11700
+
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,P
+
+Days: TBA,F
+
+Start: ,02:00PM
+
+End: ,03:20PM
+Title: Special Topics - Capstone course in Digitalization
+
+Units: 9.0
+
+Section: W
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:15PM
+
+Room: CMB 3048
+
+Locations: Doha, Qatar
+
+Instructors: Vatanasakdakul
+
+Spring 2024
+
+Course number: 67426
+
+Title: Special Topics - Capstone course in Data Science
+
+Units: 9.0
+
+Section: W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Doha, Qatar
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 67427
+
+Title: Privacy and Security Capstone
+
+Units: 9.0
+
+Section: W
+Title: Engineering Artificial Intelligence Capstone
+
+Units: 12.0
+
+Section: A
+
+Days: T
+
+Start: 03:00PM
+
+End: 03:50PM
+
+Room: CMR F307
+
+Locations: Kigali, Rwanda
+
+Instructors: Wiecha
+
+Spring 2024
+
+Course number: 04980
+
+Title: MSIT Independent study
+
+Units: 3-15
+
+Section: A,E,I,B,F,G,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Kigali, Rwanda
+
+Instructors: Okeyo,Instructor TBA
+
+Spring 2024
+
+Course number: 04990
+
+Title: Research Project
+
+Units: VAR
+
+Section: A,E,B,F,G,C,D
+
+Days: TBA
+requirement. Participation is required unless waived in writing by the MIIS Program
+
+Director.
+
+3. Capstone requirements:  Students must complete a capstone project (36 units) and a
+
+capstone planning seminar (6 units). The capstone requirement gives students
+
+experience with collaborative, team -oriented software development; significant hands -
+
+on experience with the techniques studied in the classroom; and an opportunity to work on a large software application.
+typically a 16-month program consisting of courses, seminars, a required Capstone Project and a required summer internship or practical training. While some MCDS graduates continue on to PhD programs in the LTI or other leading universities, most graduates go on to jobs in 7corporate research and development laboratories.
+used for course assignments, directed study projects , and/or capstone projects. The LTI cluster
+
+provides storage and computation for projects involving large datasets and/or lengthy computation.
+
+3 Master’s Degree Completion and Certification
+
+3.1 Standard Degree Requirements an d Degree Certification
+
+3.1.1 Graduate Students
+
+
+Answer: 

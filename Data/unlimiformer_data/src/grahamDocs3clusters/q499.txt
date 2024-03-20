@@ -1,0 +1,136 @@
+Question: Fringe vehicles often start with which letter?
+
+Context: List of phenotypes and ICD10 codes. We used phenotypes from the Danish Psychiatric Central Research Register33 with register data available until December 2016. Except for the category of all psychia- tric disorders (ICD10, F-chapter), all categories of diagnosis are given a variable name starting with a letter and followed by four digits. The ﬁrst letter is the chapter of disease in the ICD10 system and the ﬁrst number is the ICD10 diagnosis. The other 3 numbers are not infor- mative of ICD10
+We begin with the intuition of our attack. Suppose we were given a prompt m, such that the output of Gen(m) is equally likely to be any item from a set of vocabulary items Vm ⊆ V. For example, the prompt “List of capital English letters, chosen uniformly at random:” ought to result in the model emitting each of the 26 letters of the alphabet with equal probability. However, suppose that when we repeatedly prompt the model in this way, it only ever emits 10 different letters. What could cause
+Figure 5 shows the variance in output distributions for two exemplar-based prompts, DIGITS and ABC (Table 4), across different numbers of exemplars and different random selection of exemplars. The DIGITS prompt is ex- pected to output digits [0-9] with equal likelihood, and the random letters prompt is expected to output the letters [A-Z] with equal likelihood. While with enough exemplars, the DIGITS prompt yielded consistently high entropy (i.e., close to uniform-random) distributions, the ABC
+Title: Production Prep: Lonely Planet:
+
+Units: VAR
+
+Section: A,E,I,K,F,G,C,D,J, ,H,L
+
+Days: W, ,MTWRF,S
+
+Start: 11:00AM, ,05:00PM,06:30PM
+
+End:  ,10:30PM,03:00PM,06:20PM
+
+Room: TBA,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Boevers, Hines,Limauro, Stebbins,Brown,Instructor TBA,Sahoo,Shea,Blackwood,Downs, ,Gajic,Weild,Shackleford
+
+Fall 2023
+
+Course number: 54681
+
+Title: Production Prep: JPP:
+
+Units: VAR
+
+Section: A,D, ,J
+
+Days:  ,MTWRF
+
+Start:  ,06:30PM
+
+End: 10:30PM, ,10:20PM
+Units: 3-36
+
+Section: E,I,F,D,P,C,J,S,A,K,B,T,H,L,M,R,O,Q,G,N
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bjorndahl,Glymour,Spirtes,Wu,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Seidenfeld,Awodey,Simons,Werner,Avigad
+
+Fall 2023
+
+Course number: 80991
+
+Title: Thesis Research
+
+Units: 5-18,24
+
+Section: E,I,F,D,P,C,J,S,A,K,B,T,H,L,M,R,O,Q,G,N
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+Title: Letterpress/Screen-printing DIY Workshop
+
+Units: 9.0
+
+Section: A
+
+Days: R
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: MM B8
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Leon
+
+Spring 2024
+
+Course number: 51442
+
+Title: BME Design Project
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: POS 153
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zapanta, Chung
+
+Spring 2024
+
+Course number: 51452
+
+Title: Furniture Design II
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+Fringe vehicles often are named with the letter "B," like Boson, Blueshift, Bissa and Bumper. Other teams, such as Apex, often use names that connotate fire, while the SDC (Student Dormitory Committee) team, uses names such as Vice, Bane, Avarice and Malice.
+
+This year's buggy names will be under wraps until Thursday, when the Buggy Showcase will take place from noon to 2 p.m. in Weigand Gymnasium in the Cohon University Center. It's one of the few times spectators can see buggies up close.
+This year Fringe is planning to roll four different vehicles, built and maintained in the Fringe workshop in the basement of the East Campus Garage, known as the "Froom."
+
+"We're used to saying everything with 'fr' in front of it but when we say something in front of other people, it gets them confused," said Fringe head mechanic Dave Singh, who will graduate in May with a bachelor's degree in mechanical engineering and biomedical engineering.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+
+
+Answer: 

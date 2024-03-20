@@ -1,0 +1,178 @@
+Question: Which LTI prof co-authored the paper titled "Exploration on HuBERT with Multiple Resolutions"?
+
+Context: Paper title: 'Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute' Published year: 2023 Publication venue or conference: Interspeech Authors: Yifan Peng, Xuankai Chang, William Chen, Shinji Watanabe, Zhaoheng Ni, Soumi Maiti Summary: This work optimizing HuBERT SSL to fit in academic constraints, and reproducibility, and explores a semi-supervised route, using an ASR model to skip the first pre-training iteration.
+Paper title: 'Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning' Published year: 2023 Publication venue or conference: Interspeech Authors: Xuankai Chang, Yuya Fujita, Takashi Maekaku, Shinji Watanabe, Brian Yan Summary: This paper proposes a new protocol that utilizes discretized token sequences in ASR tasks, which includes de-duplication and sub-word modeling to enhance the input sequence and reduces computational cost by decreasing the length of
+Wei-Ning Hsu, Benjamin Bolte, Yao-Hung Hubert Tsai, Kushal Lakhotia, Ruslan Salakhutdinov, and Abdel- rahman Mohamed. 2021. Hubert: Self-supervised speech representation learning by masked prediction of hidden units. IEEE/ACM Transactions on Audio, Speech, and Language Processing, 29:3451–3460.
+
+Karen Sparck Jones. 1972. A statistical interpretation of term specificity and its application in retrieval. Journal of documentation.
+Title: Special Topics in Physical Chemistry:Explorations Comp Quantum Chemistry:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,07:00PM
+
+End:  ,08:20PM
+
+Room:  ,MI 355
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Kowalewski
+
+Fall 2023
+
+Course number: 09805
+
+Title: Special Topics in Bioorganic and Bioinorganic Chemistry: Biocatalysis
+
+Units: 6.0
+
+Section: A2
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: MI 348
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Guo
+
+Fall 2023
+Instructors: Patel,Bista,Schmidt,Rodriguez Ladron De Guevara,Kwon,Garofalo
+
+Fall 2023
+
+Course number: 48215
+
+Title: Materials & Assembly
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 10:00AM
+
+End: 10:50AM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Damiani
+
+Fall 2023
+
+Course number: 48222
+
+Title: Explorations in Craft: Soft Forms, Stable Structures
+
+Units: 9.0
+
+Section: A
+
+Days: WF
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 48620
+
+Title: Graduate Seminar: Situating Research
+
+Units: 3.0
+
+Section: A
+
+Days: F
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: CFA 214
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rehman
+
+Fall 2023
+
+Course number: 48622
+
+Title: Explorations in Craft: Soft Forms, Stable Structures
+
+Units: 9.0
+
+Section: A
+
+Days: WF
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+LTI Ph.D.  Graduate Student Handbook  Page 21
+
+3.8 Academic Integrity
+
+In the midst of self- exploration, the high demands of a challenging academic environment can
+
+create situations where some students have difficulty exercising good judgment. Academic
+
+challenges can provide many opportunities for high standards to evolv e if students actively reflect
+
+on these challenges and if the community supports discussions to aid in this process. It is the
+Many Ph.D. advisors also provide access to computer clusters, cloud computing, or other resources to support computationally -intense research.
+
+Ph.D. students are given access to the LTI’s computer cluster on an as- needed basis, to be used for
+
+course assignments, directed study projects, and/or capstone projects. The LTI cluster provides
+
+storage and computation for projects involving large datasets and/or lengthy computation.
+
+
+Answer: 

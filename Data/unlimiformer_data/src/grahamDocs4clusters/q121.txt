@@ -1,0 +1,235 @@
+Question: Who is the Director of the MSAII program?
+
+Context: Inception, Mohamed bin Zayed University of Artificial (MBZUAI), and Cerebras Systems. Arabic (MSA) and English Pretrained model – 13B parameters. Text-only data. Model generates text. GPT-3 with dense attention, 40 decoder blocks, 40 attention heads, 5,120 hid- den size, SwiGLU activation and ALiBi positional embeddings. Jais was trained between 23 June 2023 and 18 July 2023 This static model has been trained using an offline dataset. As we enhance the model safety based on community feedback,
+Inception, Mohamed bin Zayed University of Artificial (MBZUAI), and Cerebras Systems. Arabic (MSA) and English Instruction-tuned model – 13B parameters. Text-only data. Model generates text. GPT-3 with dense attention, 40 decoder blocks, 40 attention heads, 5,120 hid- den size, SwiGLU activation, and ALiBi positional embeddings. Jais-chat was trained between 11 August 2023 and 13 August 2023. This static model has been trained using an offline dataset. As we enhance the model safety based on
+phenBach,LintangSutawika,ZaidAlyafeai,AntoineChaffin,ArnaudStiegler,ArunRaja,MananDey,MSaifulBari,CanwenXu,UrmishThakker,ShanyaSharmaSharma,ElizaSzczechla,TaewoonKim,GunjanChhablani,NihalNayak,DebajyotiDatta,JonathanChang,MikeTian-JianJiang,HanWang,MatteoManica,ShengShen,ZhengXinYong,HarshitPandey,RachelBawden,ThomasWang,Tr-ishalaNeeraj,JosRozen,AbheeshtSharma,An-dreaSantilli,ThibaultFevry,JasonAlanFries,RyanTeehan,TevenLeScao,StellaBiderman,LeoGao,ThomasWolf,andAlexanderMRush.2022.Multi-taskpro
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 11699
+
+Title: MSAII Program Capstone
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11700
+
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,P
+
+Days: TBA,F
+
+Start: ,02:00PM
+
+End: ,03:20PM
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Rose
+
+Fall 2023
+
+Course number: 11635
+
+Title: Data Science Capstone Research
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Fall 2023
+
+Course number: 11636
+
+Title: MSAII Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Fall 2023
+Section: A,
+
+Days:  ,MW
+
+Start: 08:00AM,
+
+End: 09:20AM,
+
+Room:  ,SH 236
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Spring 2024
+
+Course number: 11635
+
+Title: Data Science Capstone Research
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11636
+
+Title: MSAII Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+Interested in Joining?
+
+Please email the following information to Kiltie Band Director Jeremy Olisar.
+
+Name High School Address at Carnegie Mellon (if known) Home address Cell number Home number Whether you plan on being in the band or colorguard If in the band what instrument(s) you play Whether you need to borrow an instrument or equipment
+
+To see and hear the band in action, visit our YouTube channel
+coursework and team projects lead ing to a full-semester capstone project to produce a working
+
+prototype.
+
+8.2 Program Contacts
+
+Michael I. Shamos
+
+Director, MSAII      Distinguished Career Professor
+
+G H C  6 7 0 7
+
+shamos@cs.cmu.edu
+
+Amber Vivis
+
+Academic Program Manager, MSAII  TCS 357
+
+412-268-9998
+
+avivis@cs.cmu.edu
+
+Carolyn Penstein Rosé      Interim Director, Language Technologies Institute  Professor  GHC 5415
+
+412-268-7130
+
+cprose@cs.cmu.edu
+
+8.3 The Reasonable Person Principle (RPP)
+Students must contact the MSAII Director to discuss their plans and fill out the appropriate form. The student’s place in the program will be  held until a mutually  determined time. For
+
+more information refer to www.cmu.edu/policies/student-and-student-life/student-leave.html .
+
+When planning to return from Leave of Abs ence students must complete the appropriate
+
+paperwork before returnin g to the University.
+
+MSAII students who require longer than the standard time to complete their degree
+garlan@cs.cmu.edu
+
+http://www.cs.cmu.edu/~garlan/academics.htm
+
+C a r o l y n  R o s é
+
+Interim Director, Language Technologies Institute  Professor  GHC 5415
+
+412-268-7130
+
+cprose@cs.cmu.edu
+
+8 MSAII Policies
+
+The Language Technologies Institute (LTI) ha s prepared this statement of policies, program
+
+requirements, guidance, process a nd procedures for students in the M.S. in Artificial Intelligence
+
+and Innovation (MSAII) program. A copy of this handbook is also available online at the
+
+
+Answer: 

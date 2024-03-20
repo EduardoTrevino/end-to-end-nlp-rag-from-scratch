@@ -1,0 +1,41 @@
+Question: Which LTI facultly were involved in the FLARE paper?
+
+Context: Paper title: 'Active Retrieval Augmented Generation' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Jane Dwivedi-Yu, Frank F. Xu, Luyu Gao, Zhiqing Sun, Jamie Callan, Qian Liu, Graham Neubig, Zhengbao Jiang, Yiming Yang Summary: This work proposes Forward-Looking Active REtrieval augmented generation (FLARE), a generic method which iteratively uses a prediction of the upcoming sentence to anticipate future content,
+sidering the impressive performance achieved by GPT-3.5 (Ouyang et al., 2022) on a variety of tasks, we examine the effectiveness of our meth- ods on text-davinci-003. We evaluate FLARE on 4 diverse tasks/datasets involving generating long outputs, including multihop QA (2WikiMul- tihopQA), commonsense reasoning (StrategyQA), long-form QA (ASQA), and open-domain summa- rization (WikiAsp) (Ho et al., 2020; Geva et al., 2021; Stelmakh et al., 2022; Hayashi et al., 2021). Over all tasks, FLARE
+Chunting Zhou, Graham Neubig, Jiatao Gu, Mona Diab, Francisco Guzmán, Luke Zettlemoyer, and Marjan Ghazvininejad. 2021. Detecting hallucinated content in conditional neural sequence generation. In Find- ings of the Association for Computational Linguis- tics: ACL-IJCNLP 2021, pages 1393–1404, Online. Association for Computational Linguistics.
+
+A FLARE Implementation Details
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+The LTI Ph.D.  does not require any Qualifying Exams. Instead, a LTI Ph.D.  student is required to
+
+demonstrate proficiency in the following four areas.
+
+Writing: This is satisfied by producing a peer -reviewed conference paper, or the
+
+equivalent (a written report that at least two SCS faculty certify as being of conference -
+
+paper quality).
+
+Presentation: This is satisfied by the oral presentation of a conference paper, or the
+
+
+Answer: 

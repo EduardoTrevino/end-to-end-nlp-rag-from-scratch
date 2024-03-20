@@ -1,0 +1,185 @@
+Question: How many months is the shorter track of the MIIS program?
+
+Context: The details of the training process are as follows. We started ﬁne-tuning the mT5, by mini- mizing the maximum-likelihood loss for 15 epochs, using a batch size of 8, accumulation steps of 4, and learning rate of 10e-5 with Adafactor optimization and cosine annealing learning rate decay schedule (Loshchilov and Hutter 2016). The maximum news length was set to 512 and max- imum summary length was determined as 120. We initialized our reinforcement learning models with the ﬁne-tuned models that
+As we work collaboratively on such projects, we’ve been struck by the open-endedness the short-form method produces, with substantial implications for oral and public histor- ical practice. In a 1 or 2-minute PixStori, many respondents take only 15 or 20 seconds to literally describe and context the actual photograph. And then, more characteristically, they “take off” to a broader story or reflection sparked by the photo – resulting in anec- dotes or commentaries that are “grounded but not
+We estimate the total GPU time for results presented in this paper did not exceed approximately 116 days of time on a single 48-GB A6000. The longest-training models, SLED and retrieval training for GovReport, took approximately 10 days to train.
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 11699
+
+Title: MSAII Program Capstone
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11700
+
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,P
+
+Days: TBA,F
+
+Start: ,02:00PM
+
+End: ,03:20PM
+Instructors: Callan, Frederking
+
+Summer 2024
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 11927
+
+Title: MIIS Capstone Project
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 11930
+
+Title: Dissertation Research
+Section: A,B,SV,Lec 1,Lec 3,RW
+
+Days: TBA,F,MW
+
+Start: ,08:00AM
+
+End: ,09:20AM,08:20AM
+
+Room: BH A51,DNM DNM,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11690
+
+Title: MIIS Directed Study
+
+Units: 1-48
+
+Section: C
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mitamura
+
+Spring 2024
+
+Course number: 11692
+cross the finish line in the Finals. So is it possible that DTD rolled 35 seconds faster during the Finals? Sure. But I think I buy that they were 25 seconds slower a little more. 1947 Raceday: Prelims on Friday, May 2 at 1:00pm; Finals on Saturday, May 3 at 2:30pm
+Buggy is Back! The War is over, and Spring Carnival is back with Buggy! The first year back was a short one though, as Spring Carnival was only a 2-day event, kicking off with Buggy at 4:30pm on Friday. The field was small (only 9 teams), as not all of the fraternities on campus had reactivated following the War. Buggy secrecy came back as well, as the April 30, 1946 Tartan reported that DU was building their new buggy off-campus, and were so secretive about it that not even their brothers had
+After an hour-long argument with the judges (and presumably the Sweepstakes committee), the decision to DQ PiKA was upheld and DTD was awarded the victory. Final Time. The Tartan reported that DTD’s winning time was 3:49, but our database has the time as 2:49. 3:49 would be significantly slower than any other race on this course, but I also think it’s possible. Bleak skies threatened the race (meaning it may have been bad weather), the best Prelim time was 3:24.5, and DTD was the 2nd buggy to
+The MIIS degree is offered in  two options:
+
+Option 1. Standard MIIS degree  (MIIS -16) - A 16 -month track that is completed in three
+
+academic semesters (fall, spring, fall) and a summer internship.
+
+Option 2. MIIS: Advanced Study degree  (MIIS -21) - A 21 -month track that is completed in
+
+four academic semesters (fall, spring, fall, spring) and a summer internship.
+
+MIIS: Advanced Study track offers in depth  degree in one of the following areas of
+
+concentration:
+Option 1. Standard MIIS degree (MIIS-16) - A 16-month track that is completed in three academic semesters (fall, spring, fall) and a summer internship. Option 2. MIIS: Advanced Study degree (MIIS-21) - A 21-month track that is completed in four academic semesters (fall, spring, fall, spring) and a summer internship. MIIS: Advanced Study track offers indepth degree in one of the following areas of concentration: Human Language for Language Technologies Language Technology Application Machine
+semesters of academic study and one summer internship (21 months total).
+
+MIIS -16 students enrolled for part -time study are expected to complete the program in six
+
+semesters of academic stu dy and  one summer internship (27  months  total ).
+
+MIIS -21 students enrolled for part -time study are expected to complete the program in seven
+
+semesters of academic study and one summer internship (31 months total).
+
+See also the ‘Statute of Limitations’ policy.
+
+6.1.3 Deferral
+
+
+Answer: 

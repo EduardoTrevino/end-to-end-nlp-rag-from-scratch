@@ -1,0 +1,143 @@
+Question: In spring 2024, What is the title of course 17416?
+
+Context: Course number: 17416
+
+Title: AI Governance: Identifying & Mitigating Risks in Design & Dev of AI Solutions
+
+Units: 6.0
+
+Section: A,B
+
+Days: W
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: HH B131,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sadeh
+
+Spring 2024
+
+Course number: 17422
+
+Title: Building User-Focused Sensing Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Agarwal, Goel
+
+Spring 2024
+Spring 2024
+
+Course number: 48638
+
+Title: Structural Design 2: Materials and Analysis
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4707
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lee
+
+Spring 2024
+
+Course number: 48640
+
+Title: M.Arch Studio: Praxis II:
+
+Units: 18.0
+
+Section: A,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,04:50PM
+
+Room: MM 320,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Davis, Huber, Sawyer
+
+Spring 2024
+
+Course number: 48641
+Spring 2024
+
+Course number: 15659
+
+Title: Probability and Computing
+
+Units: 9.0
+
+Section: A,B,C,D,Lec
+
+Days: F,TR
+
+Start: 12:30PM,01:00PM,09:00AM,02:00PM
+
+End: 01:50PM,02:50PM,09:50AM
+
+Room: GHC 4401,BH A53,WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Harchol-Balter, Wang
+
+Spring 2024
+
+Course number: 15661
+
+Title: Interaction and Expression using the Pausch Bridge Lighting
+
+Units: 4.0
+
+Section: A4
+
+Days: R
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: GHC 4301
+(2) Date -  July 22 ; Day - Friday ; Event - Mini-6 pass/no pass & withdrawal deadline (3) Date -  July 29 ; Day - Monday ; Event - Semester & Mini-6 Faculty Course Evalutations open Date -  August 1 ; Event - Semester & Mini-6 Last Day of ClassesSummer Semester 2024 (M24) Date - August 1 ; Day - Thursday ; Event - Semester & Mini-6 voucher deadline (4) Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Final Exams*** Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Faculty
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+
+
+Answer: 

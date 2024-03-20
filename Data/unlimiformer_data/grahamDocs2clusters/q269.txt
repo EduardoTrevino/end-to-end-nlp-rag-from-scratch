@@ -1,0 +1,43 @@
+Question: What is the full name of the conference where the paper CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code, got published?
+
+Context: Paper title: 'CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Sumit Agarwal, Graham Neubig, Uri Alon, Shuyan Zhou Summary: It is found that generated code that receives a higher score by CodeBERTScore is more likely to be preferred by humans, as well as to function correctly when executed, than all existing metrics.
+Shuyan Zhou, Uri Alon, Sumit Agarwal, and Graham Neubig. Codebertscore: Evaluating code generation
+
+with pretrained models of code. 2023b. URL https://arxiv.org/abs/2302.05527.
+
+14
+
+Preprint. Under review.
+
+A APPENDIX
+
+A.1 ADDITIONAL ANALYSIS OF OPTIMIZATIONS
+In this paper, we present CodeBERTScore, a sim- ple evaluation metric for code generation, which builds on BERTScore (Zhang et al., 2020), using pretrained language models of code, and lever- aging the natural language context of the gen- erated code. We perform an extensive evalua- tion across four programming languages which shows that CodeBERTScore is more correlated with human preference than all prior metrics. Fur- ther, we show that generated code that receives a higher score by
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+equivalent (an oral presentation that at least t wo SCS faculty certify as being of
+
+conference- talk quality).
+
+Programming:  This is satisfied by demonstrating competence in computer programming
+
+of language technology; this is normally satisfied in the course of the student's research
+
+and/or project work.
+
+LTI Ph.D.  Graduate Student Handbook  Page 16
+
+Teaching:  This is satisfied by two (2) successful Teaching Assistantships ( TA-ships), as
+
+
+Answer: 

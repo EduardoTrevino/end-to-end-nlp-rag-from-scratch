@@ -1,0 +1,167 @@
+Question: What time does Leading in a Lean and Six Sigma World start in Summer 2024?
+
+Context: (2022), the Curie model has 6B parameters, which is close to the estimate made by by Gao from EleutherAI Gao (2021). Thus, we used GPT-J (Wang & Komatsuzaki, 2021) and BLOOM (Scao et al., 2022) models with 6 and 7 billion parameters, respectively. Although other open-source models can potentially be used, generation of synthetic queries is quite expensive and exploring other open-source options is left for future work.
+Received: 14 October 2022 – Discussion started: 27 February 2023 Revised: 9 May 2023 – Accepted: 17 July 2023 – Published: 1 September 2023
+The third round of interviews was conducted in July and August 2022, and coincided with the soft launch of the beta version of the toolkit. The purpose was to gather feedback to help us refine and finalize the toolkit in preparation for a full launch in the autumn. Five interviews were conducted with participants from all three institutions. This round proved to be very valuable with regard to the functionality of the website and what content we should include or exclude. We asked our
+Section: A3
+
+Days: T
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1007
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Apple
+
+Spring 2024
+
+Course number: 94491
+
+Title: Lean Innovation Lab
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 03:30PM
+
+End: 04:20PM
+
+Room: HBH 1004
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Riel
+
+Spring 2024
+
+Course number: 94700
+
+Title: Organizational Design & Implementation
+
+Units: 6.0
+
+Section: Z4,A3,B3
+
+Days: MW
+
+Start: 09:30AM,03:30PM,06:30PM
+Instructors: Sudbury
+
+Spring 2024
+
+Course number: 45803
+
+Title: Strategy, Performance Measurement and Corporate Governance:
+
+Units: 6.0
+
+Section:  ,A3
+
+Days:  ,MW
+
+Start:  ,04:00PM
+
+End:  ,05:45PM
+
+Room:  ,TEP 2112
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Sudbury
+
+Spring 2024
+
+Course number: 45805
+
+Title: Lean Entrepreneurship:
+
+Units: 6.0
+
+Section:  ,A3,B3
+
+Days:  ,MW
+
+Start:  ,10:00AM,02:00PM
+
+End: 03:45PM, ,11:45AM
+
+Room:  ,TEP 2112
+
+Locations:  ,Pittsburgh, Pennsylvania
+Start: 02:00PM
+
+End: 03:45PM
+
+Room: TEP 2202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bonaldi
+
+Fall 2023
+
+Course number: 45805
+
+Title: Lean Entrepreneurship
+
+Units: 6.0
+
+Section: A1,M1
+
+Days: M,MW
+
+Start: 08:30PM,10:00AM
+
+End: 11:45AM,09:45PM
+
+Room: TBA,TEP 2111
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bollinger,Kaigler
+
+Fall 2023
+
+Course number: 45807
+
+Title: Commercialization and Innovation: Strategy
+
+Units: 6.0
+
+Section: B1,A1
+
+Days: MW
+
+Start: 04:00PM,02:00PM
+was pretty uneventful, which leads to a boring story. Prelims were run in 5 heats, with DTD, KapSig, and PiKA advancing to the Finals (DTD put up a Prelim time of 2:51). There were no crashes. In fact, the only thing of note that we know about is that Beta Sigma Rho was DQ’d for a pushbar violation (the DQ was not protested, as their time wasn’t fast enough to make the Finals anyway). Finals. The Finals was a very tight race (see photo right).
+Sigma teams.
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Summer All, Two & Mini-6 Final Exams Date -  August 1 ; Day - Friday ; Event - Summer All, Two & Mini-6 Faculty Course Evaluations close Date -  August 5 ; Event - Summer All, Two & Mini-6 Final Grades Due by 4 pm
+Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Final Exams***
+
+Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Faculty Course Evaluations close
+
+Date -  August 6 ; Event - Semester & Mini-6 Final Grades Due by 4 pm
+
+Semester (6 weeks): (M-6, Tu-6, W-6, Th-5, F-5) Total=28
+
+Date Day Event
+
+Date -  June 24 ; Day - Monday ; Event - Summer Semester Two Classes Begin
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+
+
+Answer: 

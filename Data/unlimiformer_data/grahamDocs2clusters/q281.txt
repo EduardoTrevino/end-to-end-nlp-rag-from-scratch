@@ -1,0 +1,193 @@
+Question: How many courses does Mechanical Engineering offer in Summer 2024?
+
+Context: Title: Doctoral Thesis Research
+
+Units: 0-99
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Conley
+
+Summer 2024
+
+Course number: 24391
+
+Title: Mechanical Engineering Project
+
+Units: 3-12,18
+
+Section: A,S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hertz
+
+Summer 2024
+
+Course number: 24392
+
+Title: Mechanical Engineering Project
+
+Units: 3-18
+
+Section: A,S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Spring 2024
+
+Course number: 24101
+
+Title: Fundamentals of Mechanical Engineering
+
+Units: 12.0
+
+Section: A,C,B,Lec
+
+Days: R,MW
+
+Start: 04:00PM,12:00PM,02:00PM
+
+End: 05:50PM,01:50PM,03:50PM,03:20PM
+
+Room: BH 140B,POS 152,BH 140A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Haidar, Singh,Singh, Haidar
+
+Spring 2024
+
+Course number: 24104
+
+Title: Maker Series: Intro to Modern Making
+
+Units: 3.0
+
+Section: K4,K3
+
+Days: F
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: ANS B10
+Start:  ,06:00PM
+
+End:  ,07:50PM
+
+Room: ANS B10,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Mukherjee
+
+Spring 2024
+
+Course number: 24652
+
+Title: Mechanical Behavior of Engineering Materials
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: SH 238
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: De Boer
+
+Spring 2024
+
+Course number: 24653
+
+Title: Special Topics: Materials and Their Processing for Mechanical Engineers
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+MIIS Capstone Planning Seminar
+
+Summer: - Academic Research Practices and Scientific Communities - MIIS Capstone Project
+
+Here are some example schedules for completing the MIIS-21 program. Example Course of Study #1 This schedule would satisfy course requirements for a student interested in deepening their expertise in Machine Learning area of concentration.
+
+Fall 1:
+
+Search Engines
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+
+MIIS Directed Study
+
+Spring 1:
+
+Question Answering
+
+
+Answer: 

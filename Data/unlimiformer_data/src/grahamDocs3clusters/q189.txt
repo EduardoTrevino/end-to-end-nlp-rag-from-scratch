@@ -1,0 +1,186 @@
+Question: What is the name of the event where buggies are raced?
+
+Context: Some of the major events held in Abu Dhabi include the Etihad Airways Formula 1 Grand Prix in November, the International Hunting and Equestrian Fair in September / October, and the Abu Dhabi Summer Festival in July / August. Is there a certain event that curious you?
+Table 17: Arabic problem-solving prompts and responses (with English translations).
+
+43
+
+ID
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+ID
+
+1
+
+Examples
+
+What are the major events in Abu Dhabi? Some of the major annual events held in AbuDhabi are: • The Abu Dabi International Hunting and Equestrian Exhibition (ADIE) • Formula 1 Grand Prix • Abu Dabbi Comic Con • Etihad Airways Festival of Literature • Emirates Palace Horse Show
+yearly to assess progress on this challenging problem. Real-world benchmarking will be run as a part of the NeurIPS 2023 HomeRobot OVMM competition [23].
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kroemer
+
+Spring 2024
+
+Course number: 16663
+
+Title: F1Tenth Autonomous Racing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dolan
+
+Spring 2024
+
+Course number: 16675
+
+Title: Manufacturing Futures
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bourne
+
+Spring 2024
+Course number: 15295
+
+Title: Competition Programming II
+
+Units: 5.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sleator
+
+Fall 2023
+
+Course number: 15312
+
+Title: Foundations of Programming Languages
+
+Units: 12.0
+
+Section: A,W,B,C,Lec 1,Lec 2
+
+Days: W,MW,R,TR
+
+Start: 12:30PM,04:00PM,11:00AM,11:30AM
+
+End: 11:50AM,12:45PM,01:50PM,04:50PM
+
+Room: PH A18B,GHC 5222,GHC 4307,HH B131,CMB 2051
+End: 08:20PM
+
+Room: HL 106B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Touretzky
+
+Spring 2024
+
+Course number: 15295
+
+Title: Competition Programming and Problem Solving
+
+Units: 5.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: GHC 4307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sleator
+
+Spring 2024
+
+Course number: 15311
+
+Title: Logic and Mechanized Reasoning
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: NSH 1305
+Sweepstakes Slang
+
+Buggy: Vehicle being raced and also a nickname for the competition.
+
+Chute: A section of the freeroll portion of the buggy course (near the southwestern end of Frew Street at its intersection with Schenley Drive) where buggies make the sharp righthand turn from Schenley Drive onto Frew Street.
+
+Chute Flagger: Team member who provides a signal for buggy drivers to know when to start the right-hand turn from Schenley Drive onto Frew Street.
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+The starting line from the inaugural race in June 1920 was outside what is now known as the College of Fine Arts building. Racers then traveled toward Margaret Morrison Carnegie Hall, went up Tech Street, down through Schenley Park and then turned back to campus. Buggies would then take pit stops and have their rear wheels swapped before heading back toward the starting line.
+
+Alpha Kappa Psi, the first sorority to enter a Buggy on race day, in 1922.
+
+
+Answer: 

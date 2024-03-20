@@ -1,0 +1,271 @@
+Question: Carnegie Mellon University is ranked #1 according to which report in 2022?
+
+Context: Michael Heilman. Automatic Factual Question Generation from Text. PhD thesis, School of Computer Science,
+
+Carnegie Mellon University, Pittsburgh, PA, 2011.
+
+Michael Heilman and Noah A. Smith. Question generation via overgenerating transformations and ranking. Technical
+
+report, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA, 2009.
+3 2 0 2
+
+p e S 1
+
+] L P . s c [
+
+1 v 5 2 2 3 0 . 9 0 3 2 : v i X r a
+
+Amortizing Pragmatic Program Synthesis with Rankings
+
+Yewen Pu1, Saujas Vaduguru2, Priyan Vaithilingam3, Elena Glassman3, Daniel Fried2 1 Autodesk Research, 2 Carnegie Mellon University, 3 Harvard University yewen.pu@autodesk.com, svadugur@cs.cmu.edu, pvaithilingam@g.harvard.edu glassman@seas.harvard.edu, dfried@andrew.cmu.edu
+
+Abstract
+3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Howard,Dealmeida,Almarza,Kostyniak,Branson, Allen, Evans,Vosburgh,Defade,Cardenes,Wu,Ferla,Spacagna,Caballero,Schepkin,Instructor TBA,Gruber,Cherian,McGhee,Knox,Thompson, Shields,Dee,Whipple,Aylmer,Shields, Goeres,Kush,Carlisle,van der Sloot,Rusinek, Shields,Houlik, Shields,Shields, Sullivan,Laduke,Shields, Van Hoesen,Williams,Berntsen,Harding,Premo,Teadt,Galbraith,Chiu
+
+Fall 2023
+
+Course number: 57497
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Oppenheimer
+
+Fall 2023
+
+Course number: 88399
+
+Title: Undergraduate Research
+
+Units: 1-18
+
+Section: M,E,K,B,C,D,S,V,L
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Loewenstein,Fong,Oppenheimer,Saccardo,Gonzalez,Chapman,Downs,Golman,Jarbo
+
+Fall 2023
+
+Course number: 88411
+
+Title: Rise of the Asian Economies
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+Committed to extending our founders’ vision The School of Computer Science at Carnegie Mellon University enters its second quarter century as a world-leading educational and research institution, embracing all facets of computing. Its graduate programs are consisted ranked with the best in the world by a leading U.S. magazine, while its undergraduate programs are also rated the best in the U.S. by corporate recruiters. In 2013, SCS had 284 faculty members and a total student enrollment of
+2024-2025 OFFICIAL Academic Calendar Carnegie Mellon University Proposed: 13 June 2023 Approved: 4 December 2023 Updated: 4 December 2023
+
+Semester : (M
+
+13, T
+
+13, W
+
+13, Th
+
+13, F
+
+13) Total=65
+
+Mini
+
+1: (M
+
+6, T
+
+7, W
+
+7, Th
+
+7, F
+
+7) Total=34
+
+Mini
+
+2: (M
+
+7, T
+
+6, W
+
+6, Th
+
+6, F
+
+6) Total=31
+2023-2024 OFFICIAL Academic Calendar Carnegie Mellon University
+
+Semester : (M
+
+13, T
+
+13, W
+
+13, Th
+
+13, F
+
+13) Total=65
+
+Mini
+
+1: (M
+
+6, T
+
+7, W
+
+7, Th
+
+7, F
+
+7) Total=34
+
+Mini
+
+2: (M
+
+7, T
+
+6, W
+
+6, Th
+
+6, F
+
+65) Total=31
+
+Date Day Event
+
+
+Answer: 

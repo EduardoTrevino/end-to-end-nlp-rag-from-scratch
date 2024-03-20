@@ -1,0 +1,170 @@
+Question: What is the full name of the conference where the paper Rethinking Voice-Face Correlation: A Geometry View, got published?
+
+Context: Yvette Graham and Timothy Baldwin. 2014. Testing for significance of increased correlation with human judgment. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 172–176, Doha, Qatar. Association for Computational Linguistics.
+
+Micah Hodosh, Peter Young, and Julia Hockenmaier. 2013. Framing image description as a ranking task: Data, models and evaluation metrics. Journal of Artificial Intelligence Research, 47:853–899.
+Paper title: 'Evaluating Speech Synthesis by Training Recognizers on Synthetic Speech' Published year: 2023 Publication venue or conference: arXiv.org Authors: Roshan Sharma, Hira Dhamyal, Dareen Alharthi, Rita Singh, Bhiksha Raj, Soumi Maiti Summary: This paper proposes an evaluation technique involving the training of an ASR model on synthetic speech and assessing its performance on real speech, and demonstrates a strong correlation with both MOS naturalness and MOS intelligibility when
+Paper title: 'The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features' Published year: 2023 Publication venue or conference: Interspeech Authors: B. Raj, X. Zou, Xiang Li, Rita Singh, Yandong Wen, Liao Qu Summary: This work proposes an analysis pipeline to help explore the voice-face relationship in a fine-grained manner, i.s. phonemes v. facial anthropometric measurements (AM), and indicates that AMs are more predictable from vowels compared
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hiniker
+
+Fall 2023
+
+Course number: 51695
+
+Title: History and Future of Interaction Design
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: MM 107
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pangaro
+
+Fall 2023
+
+Course number: 51701
+
+Title: MDES/MPS Seminar I: Interaction & Service Design Concepts
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: MM 215
+
+Locations: Pittsburgh, Pennsylvania
+End: 10:50AM
+
+Room: MM B4
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Elder
+
+Fall 2023
+
+Course number: 51317
+
+Title: Publication
+
+Units: 9.0
+
+Section: A
+
+Days: R
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: MM 121
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasko
+
+Fall 2023
+
+Course number: 51323
+
+Title: Communications Studio III: Designing for Complex Communication Systems
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: MM 211
+
+Locations: Pittsburgh, Pennsylvania
+Course number: 51612
+
+Title: MA Studio II: Intro Interaction Design
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: MM 121
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deal, O'Leary
+
+Spring 2024
+
+Course number: 51620
+
+Title: Sensing Place through Color
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:20PM
+
+Room: MM 203
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hughes
+
+Spring 2024
+
+Course number: 51626
+
+Title: Prototyping for Interaction Design
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+thesis defense. The pre sentation must communicate the research work done, similar to
+
+a conference paper presentation. The committee will observe the presentation, and then decide whether the thesis and presentation were acceptable, or whether further
+
+work is required. Unlike a P hD defense, only a simple majority vote of the committee is
+
+required for approval.
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+
+
+Answer: 

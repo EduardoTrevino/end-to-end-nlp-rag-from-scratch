@@ -1,0 +1,49 @@
+Question: What is the corresponding author's emaill address for the SantaCoder paper?
+
+Context: Paper title: 'SantaCoder: don't reach for the stars!' Published year: 2023 Publication venue or conference: arXiv.org Authors: M. Lappert, Urvashi Bhattacharyya, Niklas Muennighoff, Terry Yue Zhuo, Yacine Jernite, Carolyn Jane Anderson, Qian Liu, Chenghao Mou, Dmitry Abulkhanov, S. Troshin, Hailey Schoelkopf, Manan Dey, Christopher Akiki, Paulo Villegas, Carlos Muñoz Ferrandis, Bernardo Garc'ia del R'io, D. Lansky, Dzmitry Bahdanau, Harm de Vries, Loubna Ben Allal, Arjun Guha, J. Poirier,
+3 2 0 2
+
+g u A 2 2
+
+] E S . s c [
+
+1 v 7 8 3 1 1 . 8 0 3 2 : v i X r a
+
+Multi-Objective Improvement of Android Applications
+
+James, Callan1* and Justyna Petke1*
+
+1*Computer Science Department, University College London, Gower Street, London, WC1E 6BT, Greater London, United Kingdom.
+
+Corresponding author(s). E-mail(s): james.callan.19@ucl.ac.uk; j.petke@ucl.ac.uk;
+
+Abstract
+Keywords: Yahya Kemal, artificial visualization
+
+intelligence, digital art, poetry
+
+Research Article
+
+Received: 10.10.2023 Revision received: 20.10.2023 Accepted: 28.10.2023 Published online: 29.10.2023
+
+Corresponding author: 1Dr. karadoganahmet@hotmail.com Orcid ID: 0000-0002-7183-3929 *2Research Assistant fetullah.uyumaz@atauni.edu.tr Orcid ID: 0000-0002-0274-8640
+
+212
+
+Karadoğan, A., & Uyumaz, F.
+
+Yahya Kemal’in Bazı Şiirlerinin Yapay Zekâ Teknolojisiyle
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+students may email The HUB or call 412-268-8186.
+Language Technologies Institute - Faculty Name: Scott Fahlman Email: sef@cs.cmu.edu Office: 6417 Gates & Hillman Centers Research Areas: AI, Knowledge Representation and Reasoning, Natural Language Understanding Phone: 412-268-2575
+
+Language Technologies Institute - Faculty Name: Robert Frederking Email: ref@cs.cmu.edu Office: 6515 Gates & Hillman Centers Phone: 412-268-6656
+
+
+Answer: 

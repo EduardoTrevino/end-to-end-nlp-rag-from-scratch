@@ -1,0 +1,187 @@
+Question: In the paper "Improving Perceptual Quality, Intelligibility, and Acoustics on VoIP Platforms", which preprocessing methods were experimented with for audio data?
+
+Context: on pre-trained speech recogni- tion models, however, this can be limiting since this approach primarily measures speech intelligibility. In this paper, we propose an evaluation technique involving the training of an ASR model on synthetic speech and assessing its performance on real speech. Our main assumption is that by training the ASR model on the synthetic speech, the WER on real speech reflects the similarity between distributions, a broader assess- ment of synthetic speech quality beyond
+This paper makes the following contributions:
+
+1. We propose a new evaluation method for TTS that captures distributional similarity between real and synthetic speech as a proxy for perceptual speech quality tests.
+
+2. We compare the proposed metric to multiple automatic metrics and Mean Opinion Score (MOS), and show that our metric correlates well with human-provided MOS.
+
+2. BACKGROUND: SPEECH SYNTHESIS AND EVALUATION
+Paper title: 'Improving Massively Multilingual ASR with Auxiliary CTC Objectives' Published year: 2023 Publication venue or conference: IEEE International Conference on Acoustics, Speech, and Signal Processing Authors: Yifan Peng, Jiatong Shi, William Chen, Shinji Watanabe, Brian Yan, Soumi Maiti Summary: This work introduces work on improving performance on FLEURS, a 102-language open ASR benchmark, by conditioning the entire model on language identity (LID), and investigates techniques
+Title: Special Topics:  Introduction to Python Prototyping for Infrastructure Systems:
+
+Units: 6.0
+
+Section:  ,A1
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,SH 236
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Finger
+
+Fall 2023
+
+Course number: 12751
+
+Title: Air Quality Engineering:
+
+Units: 12.0
+
+Section: A,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,02:50PM
+
+Room:  ,WEH 6403
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Presto
+
+Fall 2023
+
+Course number: 12757
+Title: Smart Cities: Growth and Intelligent Transportation Systems
+
+Units: 6.0
+
+Section: A2
+
+Days: R
+
+Start: 06:40PM
+
+End: 09:40PM
+
+Room: HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Qian
+
+Fall 2023
+
+Course number: 12648
+
+Title: CEE Research Project
+
+Units: 3-12
+
+Section: A,C,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wang,Lowry,Flanigan
+
+Fall 2023
+
+Course number: 12651
+
+Title: Air Quality Engineering:
+
+Units: 9.0
+
+Section: A,
+Title: Tap III: Expand Percussive Rhythms
+
+Units: 2.0
+
+Section: A,B
+
+Days: R,T
+
+Start: 04:30PM
+
+End: 05:20PM
+
+Room: PCA 306
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cousin,Conte
+
+Spring 2024
+
+Course number: 54326
+
+Title: Actor Dance III
+
+Units: 2.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:00PM
+
+Room: PCA 313
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cousin
+
+Spring 2024
+
+Course number: 54328
+
+Title: Advanced Digital Sound Design Skills
+
+Units: 9.0
+
+Section: A
+
+Days: W
+1946 – PiKA’s Buggy (from the 1947 Thistle). It didn’t win Design Competition, but it had the best aesthetic design. Prelim Heats and Results. The Prelims were run in 3 heats, with 3 teams in each. The rules initially stated that the winner of each heat would compete in the finals, but it seems that the rules changed to be the three fastest times instead, as the Prelim results printed in the May 7, 1946 Tartan indicate that the Finals was just a rematch of Prelim Heat 1. According to the May 7
+alumni relations, increase the visibility of athletics throughout the CMU community and support additional initiatives of the CMU Athletics Department.
+To support the athletics department’s fundraising initiatives, including, but not limited to, annual giving to the Tartan Funds, and major gifts for capital projects. To regularly engage athletics alumni, both on and off campus. To communicate major athletics department and Club initiatives to university stakeholders. To provide advice and counsel to the athletics department administration. To raise awareness of athletics programs to students, alumni and the community at-large. Other goals as
+Clients meet with a c onsultant to improve the logic, clarity, and flow of writing or
+
+presentation and receive expert feedback that will strengthen a project. When making an appointment, clients upload a draft, instructor prompts, and rubrics so the consultants can use specific  criteria to give relevant feedback. See the
+
+appointment types offered here:
+
+https://www.cmu.edu/student-
+
+success/programs/communication -support/make- an-appointment.html
+assist students in improving time management , productive habits, organization, stress
+
+management, and study skills. Students wi ll request support through the Academic
+
+Success Center website and attend in-person meetings or meet using video and audio
+
+conferencing technology to provid e all students with support.
+
+“Just in Time” Workshops:  The Student Academic Success team is available to partner
+
+with instructors and departments to identify sk ills or concepts that would benefit from
+Academic Coaching: Academic Coaching provides holistic one -on-one peer  support and
+
+group workshops to help students find and implement their conditions for success. We assist students in improving time management, productive habits, organization, stress management, and study skills. Students will request support through the Academic
+
+Success Center website and attend in- person meetings or meet using video and audio
+
+conferencing technology to provide all students with support.
+
+
+Answer: 

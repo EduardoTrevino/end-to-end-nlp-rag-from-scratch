@@ -1,0 +1,162 @@
+Question: What is the end-to-end task success rate of the best GPT-4-based agent compared to human performance on the WebArena benchmark?
+
+Context: that humans routinely perform on the internet. We experiment with several baseline agents, integrating recent techniques such as reasoning before acting. The results demonstrate that solving complex tasks is challenging: our best GPT-4-based agent only achieves an end-to-end task success rate of 14.41%, significantly lower than the human performance of 78.24%. These results highlight the need for further development of robust agents, that current state-of-the-art large language models are far
+We use this benchmark to evaluate several agents that can follow NL command and perform web- based tasks (§4). These agents are implemented in a few-shot in-context learning fashion with powerful large language models (LLMs) such as GPT-4 and PALM-2. Experiment results show that the best GPT-4 agent performance is somewhat limited, with an end-to-end task success rate of only 14.41%, while the human performance is 78.24%. We hypothesize that the limited performance of current LLMs stems from a
+that focus on translating high-level natural language intents into specific web interactions. We also offer metrics to programmatically ascertain whether tasks have been completed according to the desired objectives. Our experiments show that even GPT-4 only achieves a limited end-to-end task success rate of 14.41%, significantly lagging behind the human performance of 78.24%. These findings underscore the need for future research to focus on enhancing the robustness and efficacy of autonomous
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mozisek
+
+Spring 2024
+
+Course number: 99408
+
+Title: Get Career Ready: Unlocking Pathways to Success
+
+Units: 3.0
+
+Section: W3
+
+Days: M
+
+Start: 11:30AM
+
+End: 12:45PM
+
+Room: CMB 2049
+
+Locations: Doha, Qatar
+
+Instructors: Usova
+
+Spring 2024
+
+Course number: 99410
+
+Title: Internship
+
+Units: 3-12,18
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+Title: Applied AI (Artificial Intelligence):
+
+Units: 6.0
+
+Section:  ,A3,R3
+
+Days: R,
+
+Start:  ,05:30PM
+
+End:  ,07:20PM
+
+Room: TBA, ,B23 118
+
+Locations:  ,San Jose, California
+
+Instructors: Dai
+
+Spring 2024
+
+Course number: 49780
+
+Title: Human Computer Interaction & User Experience:
+
+Units: 6.0
+
+Section: B4, ,R4
+
+Days: R,
+
+Start:  ,07:30PM
+
+End:  ,09:20PM
+
+Room: TBA, ,B23 109
+
+Locations:  ,San Jose, California
+
+Instructors: Prayaga
+
+Spring 2024
+
+Course number: 49781
+Title: Dietrich Introductory Seminar: College & University Success Strategies
+
+Units: 3.0
+
+Section: A,B
+
+Days: F
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5312,WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Christopherson
+
+Fall 2023
+
+Course number: 66132
+
+Title: DC Grand Challenge First-Year Seminar: Health in Unhealthy Times
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: SH 234
+
+Locations: Pittsburgh, Pennsylvania
+study groups, whereby all students can reap the benefits of peer-to-peer learning,
+
+student agency, and collaboration skill devel opment. Staff from the Student Academic
+
+Success Center will be made available to in structors and students to assist with the
+
+formation of peer-led study groups. This le vel of support is open to  any course where the
+
+instructor requests or agrees such support is appropriate and students  are interested in
+
+both leading and participating.
+https://www.cmu.edu/policies/faculty/evaluation- certification -english -fluency-
+
+instructors.html .
+
+The fluency of all instructional personnel will be rated by Language Support in the S tudent
+
+Academic Success Center to determine at what level of responsibility the student can TA. In addition to administering the International Teaching Assistant (ITA) Test (a mandatory screening for all non -native speakers of English), Language Support in the Student Academic
+Successful applicants will have a minimum TOEFL score of 100 (Reading, Listening, Speaking, Writing scores all 25 or above), IELTS score of 7.5 (Reading 7 or above, Listening 7 or above, Speaking 7.5 or above, Writing 6.5 or above), or DuoLingo score of 120 (Literacy 115 or above, Comprehension 125 or above, Production 100 or above, Conversation 105 or above). Our Institution Code is 4256; the Department Code is 78. Additional details about English proficiency requirements are provided on the
+
+
+Answer: 

@@ -1,0 +1,27 @@
+Question: What is Yonatan Bisk's job title?
+
+Context: Paper title: 'MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception' Published year: 2023 Publication venue or conference: arXiv.org Authors: Yonatan Bisk, Jonathan M Francis, Gyan Tatiya, Ho-Hsiang Wu, J. Sinapov Summary: This work pioneers the application of CLIP-based sensory grounding in robotics, promising a significant leap in multi-sensory perception capabilities for autonomous systems.
+Hao Zhu, Graham Neubig, and Yonatan Bisk. Few-shot language coordination by modeling theory of mind. In International Conference on Machine Learning, pp. 12901–12911. PMLR, 2021.
+
+Hao Zhu, Yonatan Bisk, and Graham Neubig. Simulated language learning through communicative goals and linguistic input. Proceedings of the Annual Meeting of the Cognitive Science Society, 44:1351–1358, 2022.
+
+A APPENDIX
+
+A.1 FULL EFFECTS OF DISTRACTOR DIFFICULTY
+Paper title: 'Reasoning about the Unseen for Efficient Outdoor Object Navigation' Published year: 2023 Publication venue or conference: arXiv.org Authors: Quanting Xie, Tianyi Zhang, Yonatan Bisk, Kedi Xu, M. Johnson-Roberson Summary: A new task OUTDOOR is introduced, a new mechanism for Large Language Models (LLMs) to accurately hallucinate possible futures, and a new computationally aware success metric for pushing research forward in this more complex domain are introduced.
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+position. Students may use their consulting time to perform unpa id work on research projects
+
+for CMU faculty for up to 10 hours per week.
+
+Students may serve as teaching assistants for CMU faculty. TA work is inconsistent with
+
+research because of the necessary time commitm ent. Students must choose one activity or the
+
+other, not both.
+
+Note that there is an English language proficienc y requirement for TAs. Graduate students are
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+
+
+Answer: 

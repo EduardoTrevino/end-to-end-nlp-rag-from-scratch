@@ -1,0 +1,296 @@
+Question: Did Andy Warhol graduate from CMU? Answer with True or False
+
+Context: ∗haoc3@andrew.cmu.edu
+
+1
+
+𝒙𝟏𝒙𝟐𝒙𝟒𝒙𝟑Label 1Label 2Label 3
+
+True Label
+
+Candidate Label
+
+𝒙𝟏𝒙𝟐𝒙𝟒𝒙𝟑Label 1Label 2Label 3
+
+𝒙𝟏𝒙𝟐𝒙𝟒𝒙𝟑Label 1Label 2Label 3
+
+Unlabeled
+
+𝒙𝟏𝒙𝟐𝒙𝟒𝒙𝟑Label 1Label 2Label 3
+
+Noisy Label
+
+Preprint
+
+(a) Full Label
+
+(b) Partial Label
+
+(c) Semi-Supervised
+
+(d) Noisy Label
+work was primarily science fiction and horror, serving as a screenwriter and director.[y: true]Sidse Babett Knudsen graduated on November 22nd, 1968.[y: false]Aleister Crowley was an English citizen.[y: true]Magic Johnson was a tap dancer.[y: false]Queen (band) is a Canadian rock band.[y: false]Figure10:ArandomsubgraphofthebeliefgraphforFEVER.Noteallnodesactuallyareconnectedtoatleastoneanothernode.
+3 2 0 2
+
+r a
+
+M 2
+
+] L C . s c [
+
+1 v 2 0 5 1 0 . 3 0 3 2 : v i X r a
+
+Published as a conference paper at ICLR 2023
+
+COMPUTATIONAL LANGUAGE ACQUISITION WITH THEORY OF MIND
+
+Andy Liu Harvey Mudd College Claremont, CA, USA {ajliu}@g.hmc.edu
+
+Hao Zhu, Emmy Liu, Yonatan Bisk, Graham Neubig Language Technologies Institute Carnegie Mellon University Pittsburgh, PA, USA {zhuhao, mengyan3, ybisk, gneubig}@cs.}cmu.edu
+
+ABSTRACT
+Start:  ,02:00PM
+
+End:  ,04:20PM
+
+Room:  ,CMU REMOTE
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Klein
+
+Summer 2024
+
+Course number: 33997
+
+Title: Graduate Laboratory
+
+Units: 1-36
+
+Section: U
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Summer 2024
+
+Course number: 85241
+
+Title: Social Psychology:
+
+Units: 9.0
+
+Section:  ,U
+
+Days:  ,MTWRF
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,BH A36
+
+Locations:  ,Pittsburgh, Pennsylvania
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Summer 2024
+
+Course number: 18613
+
+Title: Foundations of Computer Systems
+
+Units: 12.0
+
+Section: A,SV
+
+Days: TWR
+
+Start: 09:30AM,06:30AM
+
+End: 07:50AM,10:50AM
+
+Room: CMU REMOTE
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Kesden
+
+Summer 2024
+
+Course number: 18980
+
+Title: M.S. Graduate Project I
+
+Units: 0-48
+
+Section: A,R,SV,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rakach
+
+Summer 2024
+
+Course number: 42882
+
+Title: Tissue Engineering
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 08:30PM
+
+Room: CMU REMOTE
+
+Locations: Unknown Location
+
+Instructors: Palchesko
+
+Summer 2024
+
+Course number: 42890
+
+Title: M.S. Research
+
+Units: 9-48 4
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rakach
+
+Summer 2024
+
+Course number: 42899
+robotics department ,
+
+founded in 1979
+
+Alumnus Andy Warhol
+
+(CFA1949), pop artist pioneer
+
+and cultural icon
+
+One of only 29 universities
+
+invited to be a member of the
+
+World Economic Forum’s
+
+Global University
+
+Leaders Forum
+
+CMU.EDU
+
+ECONOMIC IMPACT
+
+Attracting major companies  —
+
+including Google, Intel, Uber and GE —
+
+to locate operations and create new
+
+jobs in Pittsburgh
+
+To date, the CMU community has
+
+launched more than 400 startups
+
+and created more than 152 spinoff
+
+companies .
+robotics department ,
+
+founded in 1979
+
+Alumnus Andy Warhol
+
+(CFA1949), pop artist pioneer
+
+and cultural icon
+
+One of only 29 universities
+
+invited to be a member of the
+
+World Economic Forum’s
+
+Global University
+
+Leaders Forum
+
+CMU.EDU
+
+ECONOMIC IMPACT
+
+Attracting major companies  —
+
+including Google, Intel, Uber and GE —
+
+to locate operations and create new
+
+jobs in Pittsburgh
+
+To date, the CMU community has
+
+launched more than 400 startups
+
+and created more than 152 spinoff
+
+companies .
+Military veterans are a vital part of the Carnegie Mellon Uni versity community. Graduate
+
+students can find information on applying for veteran education benefits, campus services,
+
+veteran’s groups at CMU, and non -educational resources through the Veterans and Military
+
+Community website. There are also links and conn ections to veteran resource in the Pittsburgh
+
+community. The ROTC and Veteran Affairs Coordinator can be reached at  urovaedbenefits@andrew.cmu.edu
+
+or 412 -268-8747.
+
+
+Answer: 

@@ -1,0 +1,164 @@
+Question: When was Andrew project launched?
+
+Context: At this point, the project group arranged to embed links to the toolkit in each institution’s web pages and to actively promote the resource at every available opportunity. The toolkit had a ‘soft’ launch in September 2022 at an OpenFest event run by Sheffield, before being formally launched during Open Access Week in October 2022 at an event led by the University of Leeds.
+
+Discovery of OER
+
+The aims of this element of the project were to:
+2
+
+The White Rose Libraries open educational resources (OER) project was initiated in 2021, and drivers for the project included restrictions on access to physical library stock during the Covid-19 pandemic lockdowns, unsustainable and expensive business models for the provision of many e-books, as well as a growing interest in open and sustainable education.
+Andrew M. Dai, and Quoc V. Le. Finetuned language models are zero-shot learners, 2022a.
+Title: Entrepreneurial Engineering Project
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Spring 2024
+
+Course number: 18656
+
+Title: Functional Programming in Practice
+
+Units: 12.0
+
+Section: SV
+
+Days: TR
+
+Start: 01:00PM
+
+End: 02:50PM
+
+Room: B23 227
+
+Locations: San Jose, California
+
+Instructors: Wlodarski
+
+Spring 2024
+
+Course number: 18659
+
+Title: Software Engineering Methods
+
+Units: 12.0
+
+Section: SA,Lec
+End: 02:50PM
+
+Room: B23 118
+
+Locations: San Jose, California
+
+Instructors: Erdogmus
+
+Fall 2023
+
+Course number: 18655
+
+Title: Entrepreneurial Engineering Project
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: PH A22
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Fall 2023
+
+Course number: 18656
+
+Title: Functional Programming in Practice
+
+Units: 12.0
+
+Section: SV
+
+Days: MW
+
+Start: 03:00PM
+
+End: 04:50PM
+
+Room: B23 109
+
+Locations: San Jose, California
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wasson
+
+Fall 2023
+
+Course number: 19690
+
+Title: M.S. Project
+
+Units: 3-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Matthews
+
+Fall 2023
+
+Course number: 19691
+
+Title: Special Topics: Decision-Making Methods for Innovation Management
+
+Units: 6.0
+
+Section: A2
+
+Days: F
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: PH A18B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wasson
+
+Fall 2023
+6. Andrew project, 1982 It was long the dream of computer scientists to put a workstation in every home and office, but no one had actually tried to accomplish it until researchers from Carnegie Mellon University and IBM launched the Andrew Project. Soon, every student, faculty member and employee had access to email, word processing, file-transfer services and graphics programs, and CMU was the most-wired campus in the world.
+12. Java, 1991 As a CMU grad student, James Gosling (CS’83) worked on the Andrew project, which stressed interoperability between computers, whether they were Macs, IBMs or Unix machines. Those lessons served Gosling well when he developed Java, the first programming language able to run on almost any platform.
+The best-wired campus in the world Working with IBM in the early 1980s, the university and the Computer Science Department established another new research frontier: Development of a high-speed computer network that would reach virtually every room on campus, along with a GUI-based computing environment, and providing networked PCs or workstations for 7,000 students, faculty members and employees. Called the Andrew Project, it turned Carnegie Mellon into the best-connected, most-wired
+
+
+Answer: 

@@ -1,0 +1,164 @@
+Question: How many Electrical & Computer Engineering courses are going to be held in Summer 2024?
+
+Context: computer science in the public school system. It also promotes the implementation of computer science in the classroom, for which it develops curricular courses from the ﬁrst year of primary education to the fourth year of secondary education, which are available as a public good for the entire school system, articulating an ecosystem to train and accompany teachers and develop a network of leading schools in the teaching of computer science, which by July 2022 there were more than 80 schools
+326
+
+Journal of Computers in Education (2024) 11(1):305–346
+Journal of Computers in Education (2024) 11(1):305–346
+
+313
+Summer 2024
+
+Course number: 18998
+
+Title: Internship Three Electrical and Computer Engineering PhD Students
+
+Units: VAR
+
+Section: PP
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Lisbon, Portugal
+
+Instructors: Bain
+
+Summer 2024
+
+Course number: 19500
+
+Title: Directed Study in EPP: Undergraduate
+
+Units: 0-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Matthews
+
+Summer 2024
+
+Course number: 19550
+
+Title: Undergraduate Research
+Locations: San Jose, California
+
+Instructors: Bain
+
+Summer 2024
+
+Course number: 18996
+
+Title: Internship one for Electrical and Computer Engineering PhD Students
+
+Units: VAR
+
+Section: PP
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Lisbon, Portugal
+
+Instructors: Bain
+
+Summer 2024
+
+Course number: 18997
+
+Title: Internship Two for Electrical and Computer Engineering PhD Students
+
+Units: VAR
+
+Section: PP
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Lisbon, Portugal
+
+Instructors: Bain
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Summer 2024
+
+Course number: 18990
+
+Title: Reading and Research
+
+Units: 0-48
+
+Section: A,R,SV,PP
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: San Jose, California,Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Summer 2024
+
+Course number: 18994
+
+Title: Internship for Electrical and Computer Engineering MS Students
+
+Units: 3.0
+
+Section: SI
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+MCDS students must also pass the undergraduate course 15-513 Introduction to Computer Systems (6 units), typically in the summer before their program commences. The student must pass with a grade of B- or better. Failure to pass the course means that the student takes 15-213 during either the fall or spring semester. Note that in both cases the units do not count toward the 144 eligible units of study. Click here to see the MCDS Course Map. Some example courses of study are included below.
+courses (6-weeks) correspond & follow their separate dates. ***Summer Semester final exams will be scheduled by the University Registrar's Office.
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+
+
+Answer: 

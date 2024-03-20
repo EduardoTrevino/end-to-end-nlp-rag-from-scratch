@@ -1,0 +1,229 @@
+Question: Besides Pittsburgh, where else does CMU have physical campuses?
+
+Context: E. Xing is with the Machine Learning Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, USA; and also with Mohamed bin Zayed University of Artificial Intelligence, Masdar City, Abu Dhabi, UAE (email: epxing@cs.cmu.edu)
+Liangze Li Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 liangzel@andrew.cmu.edu
+
+Rita Singh Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 rsingh@cs.cmu.edu
+
+Bhiksha Raj Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 bhiksha@cs.cmu.edu
+
+Abstract
+3 2 0 2
+
+y a M 7 1
+
+] L C . s c [
+
+2 v 9 6 9 7 0 . 5 0 3 2 : v i X r a
+
+GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content
+
+Yutian Chen† School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213 yutianch@andrew.cmu.edu
+
+Hao Kang† School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213 haok@andrew.cmu.edu
+
+Vivian Zhai† College of Engineering Carnegie Mellon University Pittsburgh, PA 15213 yiyanz@andrew.cmu.edu
+Room: CMU REMOTE,CMR F307
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Fall 2023
+
+Course number: 18726
+
+Title: Projects in Integrated Circuit Design: First Silicon
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mai
+
+Fall 2023
+
+Course number: 18729
+
+Title: Special Topics in Circuits:
+
+Units: 12.0
+
+Section: C,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,ANS C02
+End: 08:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Barati Farimani
+
+Spring 2024
+
+Course number: 24892
+
+Title: Locomotion Seminar
+
+Units: 0.0
+
+Section: A
+
+Days: F
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4623
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Johnson
+
+Spring 2024
+
+Course number: 24992
+
+Title: Professional Development for PhD students II
+
+Units: 2.0
+
+Section: A
+
+Days: F
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: SH 234
+Room: DNM DNM,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mozisek
+
+Spring 2024
+
+Course number: 94865
+
+Title: Data Analytics for Decision Making
+
+Units: 6.0
+
+Section: A4
+
+Days: MWF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Escallon Barrios
+
+Spring 2024
+
+Course number: 94866
+
+Title: Design Thinking
+
+Units: 6.0
+
+Section: A3
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HBH 2003
+
+Locations: Pittsburgh, Pennsylvania
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+but also sells postage stamps, makes copies, sends faxes, distributes campus maps, manages a lost & found, and has information brochures about Pittsburgh and the campus.
+
+9.16  Athletic/Fitness Facilities
+
+www.cmu.edu/athletics
+
+For the participant or the spectator, Carnegie Mellon offers intercollegiate athletics, intramural sports, physical education classes and club sports. The Athletics Department also offers aerobics classes in the University Center and Skibo Gym as well as occasional
+campus events, but also sells postage stamps, makes copies, sends faxes, distributes campus maps, man ages a lost & found, and has informational brochures about Pittsburgh and the
+
+campus.
+
+7.18 Athletic/Fitness Facilities
+
+www.cmu.edu/athletics
+
+For the participant or the spectator, Ca rnegie Mellon offers intercollegiate athletics, intramural
+CMU is positioned like never before to meet the challenges of the 21st century. In the coming years, the university will see the largest expansion to the Pittsburgh campus since 1900. At the intersection of technology and humanity, CMU research, innovation and creativity will continue to guide our future as a world-class university. As outlined in the Strategic Plan 2025, the university will focus on advancing the individual student experience, the broader Carnegie Mellon community experience,
+
+
+Answer: 

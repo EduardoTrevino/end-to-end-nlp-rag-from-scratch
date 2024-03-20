@@ -1,0 +1,173 @@
+Question: When was the deadline for the MLT program applications?
+
+Context: 1Based on publications at ML (ICLR, ICML, NeurIPS) and NLP conferences (ACL, EMNLP) between 2017 and 2022
+
+et al., 2020). Over the same period, GPU hardware accelerators have seen similar performance gains with the number of floating point operations per second (FLOPS) growing by over 175%.2
+Looking ahead, we hope to expand this ML technique to other Breakthrough Listen datasets to further increase the impact of ML on SETI. This includes other GBT and Parkes data, as well as the upcoming MeerKAT22, Very Large Array (VLA)23, Square Kilometre Array24 and the next generation VLA (ngVLA; Ng et al., submitted) interferometric SETI projects.25
+
+References
+
+1. Cocconi, G. & Morrison, P. Searching for Interstellar Communications. Nature 184, 844–846 (1959).
+The Masked LM (MLM) is another type of language model for visual generation, such as: MaskGIT (Chang et al., 2022), MAGVIT (Yu et al., 2023a), Phenaki (Villegas et al., 2022), and MUSE (Chang et al., 2023), among others. An MLM is trained using a masked token objective (De-
+
+2
+
+Work in progress
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Synnott
+
+Spring 2024
+
+Course number: 94812
+
+Title: Applications of NL(X) and LLM
+
+Units: 6.0
+
+Section: A3
+
+Days: TRF
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 1007
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rao
+
+Spring 2024
+
+Course number: 94813
+
+Title: Project Management
+
+Units: 6.0
+
+Section: A3,B3
+
+Days: MW
+
+Start: 03:30PM,02:00PM
+
+End: 04:50PM,03:20PM
+
+Room: HBH 2009
+Course number: 15989
+
+Title: Advanced/Special Topics in AI/ML DATA MINING RECIPES
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: WEH 5302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Faloutsos
+
+Fall 2023
+
+Course number: 15990
+
+Title: Computer Science Colloquium
+
+Units: 0.0
+
+Section: A
+
+Days: TR
+
+Start: 03:00PM
+
+End: 05:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 15996
+End:  ,12:20PM
+
+Room:  ,BH 340A
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Heller
+
+Spring 2024
+
+Course number: 85395
+
+Title: Applications of Cognitive Science:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room: BH 336B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Klatzky
+
+Spring 2024
+
+Course number: 85412
+
+Title: Cognitive Modeling:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room:  ,BH 340A
+cross the finish line in the Finals. So is it possible that DTD rolled 35 seconds faster during the Finals? Sure. But I think I buy that they were 25 seconds slower a little more. 1947 Raceday: Prelims on Friday, May 2 at 1:00pm; Finals on Saturday, May 3 at 2:30pm
+The Finals, initially scheduled for 2pm on Saturday, May 4, were ultimately postponed until Saturday, May 11, due to a downpour that cast a damper on an otherwise exciting Spring Carnival. Controversial Finals. An overcast sky threatened rain on the makeup date as well, though it held off long enough for the race to be run. But some of the spectators may have wished the rain came sooner. Although signs were posted about the makeup date, cars ignored the notices and ended up blocking part of the
+1948 saw the first independent orgs and the start of DTD’s run of greatness, but it wasn’t easy, as they barely held off KapSig for the championship.
+4.3 Optional Masters’  Thesis
+
+MLT students may optionally  elect to complete a Mast ers’ Thesis; it is not  required. Students
+
+who intend to apply for the PhD program should consider the MLT Thesis as one of several
+
+ways to demonstrate their research potential. Other possibilities include innovative research in a research project or class project work.
+
+The MLT Thesis must be completed according to the following guidelines. Note in particular the October 31 proposal deadline!
+be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application Deadline December 13, 2023 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted by November 29, 2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select programs. For more information, please refer to the School of Computer Science Fee Waiver page. Requirements The School of Computer Science
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29, 2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science
+
+
+Answer: 

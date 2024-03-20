@@ -1,0 +1,191 @@
+Question: What is the full name of the conference where the paper Learning to Ask Questions for Zero-shot Dialogue State Tracking, got published?
+
+Context: Paper title: 'PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Ta-Chung Chi, Yau-Shian Wang, Ruohong Zhang, Yiming Yang Summary: PESCO is presented, a novel contrastive learning framework that substantially improves the performance of zero-shot text classification and achieves state-of-the-art performance on four benchmark text
+Paper title: 'Augmenting Zero-Shot Dense Retrievers with Plug-in Mixture-of-Memories' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Paul N. Bennett, Chenyan Xiong, Arnold Overwijk, Suyu Ge, Corby Rosset, Jiawei Han Summary: None
+Omer Levy, Minjoon Seo, Eunsol Choi, and Luke Zettlemoyer. 2017. Zero-shot relation extraction via reading comprehension. In Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL 2017), pages 333–342, Vancou- ver, Canada. Association for Computational Linguis- tics.
+Title: ADDvocate: Anti-Discrimination Dialogue for Social Justice course at CMU-Q
+
+Units: VAR
+
+Section: W3
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:15PM
+
+Room: CMB 1064
+
+Locations: Doha, Qatar
+
+Instructors: Moufid, Vincent
+
+Spring 2024
+
+Course number: 99264
+
+Title: Introduction to Life Design:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,F
+
+Start:  ,10:00AM
+
+End: 11:50AM,
+
+Room:  ,POS 145
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Monahan
+
+Spring 2024
+
+Course number: 99352
+Title: iii Seminar Series
+
+Units: 0.0
+
+Section: A
+
+Days: F
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: CA 115
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ayoob, Wooten
+
+Fall 2023
+
+Course number: 49705
+
+Title: It Depends: An Inquiry into Innovative Thinking
+
+Units: 3.0
+
+Section: A2
+
+Days: F
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: CA 115
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Marchetti
+
+Fall 2023
+
+Course number: 49706
+
+Title: People First: A Critical Look at Collaboration:
+
+Units: 3.0
+Instructors: Damiani
+
+Spring 2024
+
+Course number: 48745
+
+Title: Design Fabrication
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: MM C4
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Patel
+
+Spring 2024
+
+Course number: 48752
+
+Title: Zero Energy Housing
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: MM 415IW
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Baird
+
+Spring 2024
+
+Course number: 48756
+
+Title: Project Planning and Reporting
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+1948 – Another angle of the neck-and-neck finish of the Finals (from the 05-18-1948 Tartan). DTD, on the left, won the race, with KapSig, on the right, less than 1 second behind.
+
+1948 – DTD’s winning buggy (from the 1949 Thistle).
+
+1948 – KapSig’s buggy at a Back Hills transition (from the 1949 Thistle).
+
+1948 – DTD’s winning buggy (photo from the BAA Archives, courtesy of Amy Bluma) 1949 Raceday: Prelims on Friday, May 13 at 10:30am; Finals on Saturday, May 14 at 1:00pm
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+visit the Human Resources Service website to learn more about Form I-9 and E-Verify and to schedule an appointment to complete the Form I-9. 5.2 Conference Travel Funding Students funded by a research project may receive travel funding according to policies set by the individual projects. Students who have no project funding may be provided with partial funding, with a larger amount available for travel to present a refereed conference paper.
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+
+
+Answer: 

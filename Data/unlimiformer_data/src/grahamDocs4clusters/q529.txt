@@ -1,0 +1,167 @@
+Question: What is the name of the proposed cross-modal fine-tuning framework in Graham's ICML 2023 work?
+
+Context: Recently, some works have been proposed to ad- dress the issues of scalability and efficiency of ICL. Efforts were made to optimize prompting strate- gies with structured prompting (Hao et al., 2022b), demonstration ensembling (Khalifa et al., 2023), dynamic prompting (Zhou et al., 2023), and itera- tive forward tuning (Yang et al., 2023). Addition- ally, Li et al. (2023d) proposed EVaLM with longer context length and enhanced long-range language modeling capabilities. This model-level improve-
+Specifically, our approach presents a unified framework that can achieve comprehensive fine-tuning paradigms from a single formulation, i.e., a One-for-All fine-tuning architecture. It comprises a supernet, which, when optimized cost-effectively through evolutionary search, yields results that surpass those of prevailing fine-tuning methodologies necessitating expensive data-dependent hy- perparameter search. The proposed approach exhibits the following advantages: (1) It concurrently takes
+Our contributions:
+
+We propose Generalized LoRA (GLoRA), a novel parameter-efficient fine-tuning frame- work. GLoRA enhances the low-rank adaptation approach with a more generalized prompt module design per layer, offering enhanced capability and flexibility in finetuning.
+Fall 2023
+
+Course number: 18390
+
+Title: ECE CO-OP
+
+Units: 0-3
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Fall 2023
+
+Course number: 18421
+
+Title: Analog Integrated Circuit Design:
+
+Units: 12.0
+
+Section: A,
+
+Days: MWF,
+
+Start:  ,04:00PM
+
+End:  ,05:50PM
+
+Room:  ,GHC 4215
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Dandin
+
+Fall 2023
+
+Course number: 18422
+
+Title: Digital Integrated Circuit Design
+
+Units: 12.0
+
+Section: A,Lec
+Instructors: Kesden, Youssfi
+
+Fall 2023
+
+Course number: 18220
+
+Title: Electronic Devices and Analog Circuits
+
+Units: 12.0
+
+Section: A,B,C,D,Lec,
+
+Days: M,R,W,F,T,TR
+
+Start: 09:30AM,02:00PM,01:00PM,12:00PM,11:00AM,07:00PM
+
+End: 09:50PM,12:50PM,01:50PM,02:50PM,11:50AM,10:50AM
+
+Room: GHC 4102,HOA 160,ANS 101,POS 145,GHC 4211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhang, Budnik, ,Budnik, Zhang
+
+Fall 2023
+
+Course number: 18240
+
+Title: Structure and Design of Digital Systems
+
+Units: 12.0
+Instructors: Laird
+
+Fall 2023
+
+Course number: 06326
+
+Title: Optimization Modeling and Algorithms
+
+Units: 6.0
+
+Section: A2
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: GHC 4215
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gounaris
+
+Fall 2023
+
+Course number: 06400
+
+Title: Senior Research Project
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Robinson
+
+Fall 2023
+
+Course number: 06421
+
+Title: Chemical Process Systems Design
+This year Fringe is planning to roll four different vehicles, built and maintained in the Fringe workshop in the basement of the East Campus Garage, known as the "Froom."
+
+"We're used to saying everything with 'fr' in front of it but when we say something in front of other people, it gets them confused," said Fringe head mechanic Dave Singh, who will graduate in May with a bachelor's degree in mechanical engineering and biomedical engineering.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+Language Technologies Institute - Faculty Name: David Mortensen Email: dmortens@cs.cmu.edu Office: 5707 Gates & Hillman Centers Research Areas: Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources Phone: 412-268-2894
+
+Language Technologies Institute - Faculty Name: Graham Neubig Email: gneubig@cs.cmu.edu Office: 5409 Gates & Hillman Centers Research Areas: Machine Translation, Natural Language Processing, Spoken Language Processing, Machine Learning
+25. Smart, adaptable traffic signals, 2012 Smart traffic lights developed at CMU’s Robotics Institute are saving time and energy, and cutting down on the amount of air pollution created by idling cars. First rolled out in Pittsburgh’s East Liberty neighborhood, the new signals are being studied around the country.
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+
+
+Answer: 

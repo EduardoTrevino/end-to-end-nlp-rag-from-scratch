@@ -1,0 +1,21 @@
+Question: What is the structure attached to a buggy that a person pushes to propel it forward?
+
+Context: other pushes a marble through them. This marble activates the marble generator upon contact with it. In MarblePass one participant pushed the marble to the right side of the room, and then the other pushes it towards the marble generator. In the remaining four problems, one participant is presented with two boxes of different colors. The other participant is presented with two objects of the same colors as the two boxes and of the type defined by the problem parameter (e.g. two generators).
+Figure 5 depicts an experiment with children and apes from Fletcher et al. (2012). An apparatus is used where one participant pushes the marble, and the other inserts a finger
+
+13
+
+Kovač, Portelas, Dominey, & Oudeyer
+Rubik’s cube. Recently, a four-fingered gripper for caging and lifting various objects was introduced in [15]. Other approaches focused on increasing the gripping function of the fingered hand in specific scenarios. For example, micropat- terned pads were deposited to the fingertip’s surface of a two- finger gripper developed in [16] could enhance wet adhesion in gripping wet and deformable objects such as tofu. Despite the difference in structure, these grippers required pneumatic systems with
+Driver: Person who travels with a buggy and controls the vehicles via steering and braking systems.
+
+Pushbar: Structure attached to a buggy that a person pushes to propel that buggy forward.
+
+Pusher: Person who propels a buggy via a pushbar along one of the five hills of the buggy course.
+
+Shell: Entire outer structure or covering of a buggy that determines that buggy's aerodynamic characteristics.
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+Transition: Procedure whereby one pusher finishes pushing a buggy and the next pusher in sequence starts to push that same buggy.
+
+
+Answer: 

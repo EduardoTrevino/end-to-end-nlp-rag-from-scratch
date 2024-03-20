@@ -1,0 +1,27 @@
+Question: What is Graham Neubig's job title?
+
+Context: Pengcheng Yin and Graham Neubig. 2017. A syntactic neural model for general-purpose code generation. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 440–450, Vancouver, Canada. Association for Computational Linguistics.
+Paper title: 'Unlimiformer: Long-Range Transformers with Unlimited Length Input' Published year: 2023 Publication venue or conference: arXiv.org Authors: Amanda Bertsch, Graham Neubig, Uri Alon, Matthew R. Gormley Summary: This work proposes Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores.
+Hao Zhu, Graham Neubig, and Yonatan Bisk. Few-shot language coordination by modeling theory of mind. In International Conference on Machine Learning, pp. 12901–12911. PMLR, 2021.
+
+Hao Zhu, Yonatan Bisk, and Graham Neubig. Simulated language learning through communicative goals and linguistic input. Proceedings of the Annual Meeting of the Cognitive Science Society, 44:1351–1358, 2022.
+
+A APPENDIX
+
+A.1 FULL EFFECTS OF DISTRACTOR DIFFICULTY
+Language Technologies Institute - Faculty Name: David Mortensen Email: dmortens@cs.cmu.edu Office: 5707 Gates & Hillman Centers Research Areas: Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources Phone: 412-268-2894
+
+Language Technologies Institute - Faculty Name: Graham Neubig Email: gneubig@cs.cmu.edu Office: 5409 Gates & Hillman Centers Research Areas: Machine Translation, Natural Language Processing, Spoken Language Processing, Machine Learning
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+The Office of Research Integrity & Complian ce (ORIC) is designed to support research at
+
+Carnegie Mellon University. The staff work with  researchers to ensure research is conducted
+
+with integrity and in accordance with federa l and Pennsylvania regulation. ORIC assists
+
+researchers with human subject re search, conflicts of interest, re sponsible conduct of research,
+
+export controls, and institutional animal care & us e.  ORIC also provides consultation, advice,
+
+
+Answer: 

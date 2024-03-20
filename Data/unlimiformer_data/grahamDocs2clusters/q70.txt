@@ -1,0 +1,161 @@
+Question: To complete the course requirements for the PhD in Language and Information Technologies degree, how many course units of graduate courses does the student have to pass?
+
+Context: Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Title: Introductory Course for CS Doctoral Students (IC)
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Crary
+
+Fall 2023
+
+Course number: 15997
+
+Title: Graduate Reading and Research
+
+Units: 1-60
+
+Section: A,PP
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Crary
+
+Fall 2023
+
+Course number: 15998
+
+Title: Practicum in Computer Science
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+Title: Ethics, Social Biases, and Positive Impact in Language Technologies
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 153
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sap
+
+Spring 2024
+
+Course number: 11860
+
+Title: Quantum Computing, Cryptography and Machine Learning Lab
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Singh, Ramakrishnan
+
+Spring 2024
+For a detailed breakdown of the above requirements, download and read the PhD Handbook. Curriculum: In order to obtain your Ph.D. in Language and Information Technologies, you need to pass 96 units (generally, eight courses) of graduate courses that fulfill these requirements: At least 72 units of LTI courses: Must include one class in each LTI focus area. At least 24 units of SCS courses. At least two lab courses in two different research areas. Here's a sample of what your five-year schedule
+In order to  complete the Master of Language Technologies degree, the student must pass 120
+
+or more course units of senior- to-graduate courses, and meet the following criteria:
+
+within those 120 units, at least 72 units of “LTI” courses and 24 units of “SCS” courses,
+
+within those 72 units, 11 -711, 11- 791 (or an equivalent , see below ), and one ``Task
+
+Orientation Focus'' class, and
+
+within those 72 units, at least one of the following:
+
+o an LTI lab course,
+
+o 11-792, or
+graduates become professors and research scientists, while a few have started their own companies. Requirements: In general, students pursuing a Ph.D. in Language and Information Technologies must Pass at least 96 units of graduate-level courses. Satisfy proficiencies in writing, presentation, programming and teaching; and Propose, write and defend a Ph.D. dissertation (thesis). Students must also attend the LTI Colloquium each semester and satisfy our Research Speaking Requirement.
+
+
+Answer: 

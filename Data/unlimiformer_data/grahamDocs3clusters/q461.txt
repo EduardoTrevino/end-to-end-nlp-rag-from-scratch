@@ -1,0 +1,166 @@
+Question: In Prof. Fernando Diaz's paper on best-case retrieval evaluation, what is the name of the proposed metric for preference-based evaluation?
+
+Context: 3.4 Best-Case Retrieval Evaluation Revisited In Section 3.1, we described two dimensions of uncertainty in re- trieval evaluation: recall level and psychological relevance. In both cases, we saw that the best-case utility was represented by RL1. In terms of preference-based evaluation, we would like to show
+
+(1)
+
+Fernando Diaz
+We address these issues by theoretically interpreting RL1 as a population-level metric we refer to as best-case retrieval evaluation. This allows us to propose a generalization of the RL1 ordering based on social choice theory [17] and preference-based evaluation [8]. This evaluation method, lexicographic precision or lexiprecision,
+
+(1,*,*,*,*)(2,*,*,*,*)(3,*,*,*,*)(n-4,n-3,n-2,n-1,n)(n-5,*,*,*,*)…
+3.2 Lexicographic Precision The problem with evaluating for best-case retrieval (as shown in Section 2) is the tendency for multiple rankings to be tied, especially as (i) we increase the number of relevant items and (ii) systems optimize for retrieval metrics. We can address these ceiling effects by developing a best-case preference-based evaluation that focuses on measuring differences in performance instead of absolute per- formance [8]. While metric-based evaluation models the preference
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Instructors: Ostlund
+
+Spring 2024
+
+Course number: 90822
+
+Title: Critical Analysis of Policy Research
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HBH 1006
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kovak
+
+Spring 2024
+
+Course number: 90823
+
+Title: Program Evaluation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HBH 1202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Haviland, Chizeck
+
+Spring 2024
+
+Course number: 90824
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Apple
+
+Fall 2023
+
+Course number: 90440
+
+Title: Critical Analysis of Policy Research
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HBH 2009
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kovak
+
+Fall 2023
+
+Course number: 90442
+
+Title: Critical AI Studies for Public Policy
+
+Units: 6.0
+
+Section: A2
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HBH 1007
+Language Technologies Institute - Faculty Name: Fernando Diaz Email: diazf@cmu.edu Research Areas: Information Retrieval: Recommender Systems, Retrieval and Ranking Models, Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation Phone: 412-268-4229
+contributions; other relevant research, including competing approaches; some preliminary results; the work that still must be completed; evaluation metrics for that work; and a LTI Ph.D.  Graduate Student Handbook  Page 17
+
+projected timeline for completion. Before presenting the proposal, the student will also
+end of the semester, the faculty evaluates each student's academic progress. The student's advisor serves as the student's advocate in this process. The result of the evaluation is a letter from the faculty to the student that indicates whether the student is making satisfactory progress  towards completing the degre e.
+
+A good letter  typically indicates that the student is making satisfactory progress. If the student
+
+
+Answer: 

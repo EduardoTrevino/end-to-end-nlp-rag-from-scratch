@@ -1,0 +1,144 @@
+Question: What is the outer structure or covering of a buggy called?
+
+Context: We then measured the performance differences between the repaired and unre- paired versions of the applications. We found that in our 21 benchmarks, 5 had either no warnings or warnings that could not be repaired without introducing buggy behav- ior. For example, a warning about instantiating an object in a loop could be “unfixable” as a reference to each instantiated object is held in an array. So, moving the instan- tiation outside of the loop would result in an array with the same reference
+ROSE gripper’s outer shape during operation is resemble to a fully bloomed rose, while the closing state has a shape similar to a sleeping rose (in dormancy), even though there is no explicit mimicking here. If any object falls in the region bounded by the petal, under a twist/rotation-action, ROSE hand can embrace and grip it safely (see illustration in Fig. 2a). In such a scenario, ROSE shares a close working principle with traditional granular jamming gripper since the object is covered by a
+structure refers to the appearance and the reappearance of an object. The surface structure can be realized in different ways. For example, one might hide an object using a cloth, or hands; one might hide their face or a toy; one might do shorter or longer pauses before making the object reappear. We understand social interactions through such formats, and our social interactions are based on our ability to learn, negotiate, and use them.
+Instructors: Miller
+
+Fall 2023
+
+Course number: 17213
+
+Title: Network Analysis: The Hidden Structures behind the Webs We Weave
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH A18B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Vasilescu, Park
+
+Fall 2023
+
+Course number: 17214
+
+Title: Principles of Software Construction: Objects, Design, and Concurrency
+
+Units: 12.0
+
+Section: A,E,B,F,C,D,Lec
+
+Days: W,TR
+
+Start: 09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM
+Title: Independent Study in Computer Science Pedagogy:
+
+Units: 3-18
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Eckhardt, O'Hallaron
+
+Fall 2023
+
+Course number: 15640
+
+Title: Distributed Systems
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec
+
+Days: F,TR
+
+Start: 08:00AM,03:00PM,09:00AM,02:00PM,10:00AM,11:00AM
+
+End: 09:50AM,03:50PM,12:20PM,02:50PM,10:50AM,08:50AM
+
+Room: MM 103,BH A36,POS 153,POS 152,CUC MCCNMY
+Title: Major Studio (Bagpipe)
+
+Units: 9.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carlisle
+
+Spring 2024
+
+Course number: 57724
+
+Title: Major Studio (Collaborative Piano)
+
+Units: 9.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Manriquez, Ojeda, Kim, Carver, Dueck
+
+Spring 2024
+
+Course number: 57731
+
+Title: Art of Sonata Performance
+
+Units: 6.0
+
+Section: A
+
+Days: M
+Driver: Person who travels with a buggy and controls the vehicles via steering and braking systems.
+
+Pushbar: Structure attached to a buggy that a person pushes to propel that buggy forward.
+
+Pusher: Person who propels a buggy via a pushbar along one of the five hills of the buggy course.
+
+Shell: Entire outer structure or covering of a buggy that determines that buggy's aerodynamic characteristics.
+The Machine
+
+The basics of a buggy are straightforward, but teams are often secretive in how they build the machines, in particular the way they brake, steer and what types of wheels are used.
+
+Each has a body, pushbar for runners to move the machine up the hills, wheels, a safety harness and driving and braking mechanisms. Some also include fairings, a type of housing around the wheels that help reduce drag, make the vehicle quieter and just looks cool.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+
+
+Answer: 

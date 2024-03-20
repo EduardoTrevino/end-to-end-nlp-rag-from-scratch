@@ -1,0 +1,117 @@
+Question: In fall 2023, When is the Spring 2024 Registration Week?
+
+Context: Spring 2024
+
+Course number: 76101
+
+Title: Interpretation and Argument
+
+Units: 9.0
+
+Section: E,I,AC,LL,FF,AD,F,HH,CC,D,WW,GG,BB,II,C,EE,DD,J,AB,A,K,W,B,KK,JJ,YY,M,O,X,Z,MM,N,XX
+
+Days: MWF,UTR,TR
+
+Start: 08:45AM,08:00AM,04:00PM,09:30AM,03:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM,03:30PM,12:30PM
+
+End: 12:50PM,01:50PM,09:50AM,03:20PM,03:50PM,09:35AM,02:50PM,04:50PM,12:20PM,11:50AM,10:50AM,09:20AM,08:50AM
+Spring 2024
+
+Course number: 12234
+
+Title: Sensing and Data Acquisition for Engineering Systems
+
+Units: 4.0
+
+Section: A,C,B,Lec
+
+Days: T
+
+Start: 09:30AM,12:30PM,11:00AM
+
+End: 10:50AM,01:50PM,12:20PM
+
+Room: PH 107E
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Christian
+
+Spring 2024
+
+Course number: 12271
+
+Title: Computation and Data Science for Civil & Environmental Engineering
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: M,WF
+
+Start: 03:00PM
+
+End: 03:50PM
+
+Room: BH A51,CYH 100A
+Spring 2024
+
+Course number: 90803
+
+Title: Machine Learning Foundations with Python
+
+Units: 12.0
+
+Section: A,B
+
+Days: TR
+
+Start: 09:30AM,11:00AM
+
+End: 10:50AM,12:20PM
+
+Room: HBH 1206
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gongora-Svartzman
+
+Spring 2024
+
+Course number: 90804
+
+Title: Media & Communication Design II
+
+Units: 6.0
+
+Section: A4
+
+Days: T
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: WEH 5201
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Franko
+
+Spring 2024
+
+Course number: 90805
+Democracy Day; No Classes, except Evening classes after 5 pm will still meet Date -  November 11 ; Event - Homecoming Date -  November 13 ; Event - 17 M-F Spring 2024 Registration Week Date -  November 13 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  November 15 ; Day - Wednesday ; Event - Mini-2 drop deadline; withdrawal grade assigned after this date (2) Date -  November 22 ; Event - 24 W-F Thanksgiving Break; No Classes Date -  November 27 ; Day - Monday ;
+(1) Date -  November 5 ; Day - Tuesday ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet Date -  November 11 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  November 13 ; Day - Wednesday ; Event - Mini-2 drop deadline; withdrawal grade assigned after this date (2) Date -  November 18 ; Event - 22 M-F Spring 2025 Registration Week Date -  November 25 ; Day - Monday ; Event - Mini-2 pass/no pass & withdrawal deadline (3) Date -
+Date -  October 27 ; Day - Friday ; Event - Mini-2 add, audit & tuition adjustment drop deadline (1)
+
+Date -  November 7 ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet
+
+Date -  November 11 ; Event - Homecoming
+
+Date -  November 13 ; Event - 17 M-F Spring 2024 Registration Week
+
+Date -  November 13 ; Day - Monday ; Event - Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+
+Answer: 

@@ -1,0 +1,158 @@
+Question: What are the attention dot-product scores in the Unlimiformer approach?
+
+Context: We introduce Unlimiformer, a retrieval-based approach to augment pretrained language mod- els to accept inputs of unbounded length at test time. Given a long input sequence, Unlimi- former constructs a k-nearest-neighbor (kNN) index over the hidden states of all input tokens. Then, every standard cross-attention head in ev- ery decoder layer queries the kNN index, such that the kNN distances are the attention dot- product scores, and attends only to the top-k input tokens. In preliminary
+Since the proposal of transformers (Vaswani et al., 2017), these models have been limited to bounded input lengths, because of their need to attend to every token in the input. In this work, we propose Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores. This kNN index can be kept on either the
+Paper title: 'Unlimiformer: Long-Range Transformers with Unlimited Length Input' Published year: 2023 Publication venue or conference: arXiv.org Authors: Amanda Bertsch, Graham Neubig, Uri Alon, Matthew R. Gormley Summary: This work proposes Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores.
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: MM 107
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chung
+
+Fall 2023
+
+Course number: 51343
+
+Title: Products Studio III: Designing for Complex Products Systems
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: PH A27B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stadelmeier
+
+Fall 2023
+
+Course number: 51349
+
+Title: Visual Notation/Journaling
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: MM A11
+Title: Products Studio IV: Designing Products for Social Systems
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: MM 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chung
+
+Spring 2024
+
+Course number: 51360
+
+Title: Environments Studio IV: Designing Environments for Social Systems
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: MM 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: El Zanfaly
+
+Spring 2024
+
+Course number: 51361
+End:  ,09:20PM,12:20PM
+
+Room: B23 227,TBA, ,B23 212
+
+Locations:  ,San Jose, California
+
+Instructors: Fang
+
+Fall 2023
+
+Course number: 49782
+
+Title: User-Centered Research Methods for Product Innovation:
+
+Units: 6.0
+
+Section: R2, ,A2
+
+Days: R,
+
+Start:  ,07:30PM
+
+End:  ,09:20PM
+
+Room: B23 227,TBA,
+
+Locations:  ,San Jose, California
+
+Instructors: Anglin
+
+Fall 2023
+
+Course number: 49787
+
+Title: Architecture & Programming Principles:
+
+Units: 12.0
+
+Section: A,R,
+
+Days:  ,MW
+
+Start:  ,05:30PM
+Successful applicants will have a minimum TOEFL score of 100 (Reading, Listening, Speaking, Writing scores all 25 or above), IELTS score of 7.5 (Reading 7 or above, Listening 7 or above, Speaking 7.5 or above, Writing 6.5 or above), or DuoLingo score of 120 (Literacy 115 or above, Comprehension 125 or above, Production 100 or above, Conversation 105 or above). Our Institution Code is 4256; the Department Code is 78. Additional details about English proficiency requirements are provided on the
+career development, experiential learning, and em ployer relations shaped by strong connections
+
+with the university's seven academic colleges. The center's success is founded upon a solid
+
+understanding of career and professional developm ent theory, integration of technology, and an
+
+unwavering commitment to providing personal ized attention towards meeting the unique
+
+individual needs of students, al umni, and employers. The CDPC is located on the second floor of
+3.7 Grading and Evaluation  ................................................................................................................. 20
+
+3.7.1  University Policy on Grades  .................................................................................................  20
+
+3.7.2  University Policy on Grades for Transfer Courses  ......................................................... 20
+
+
+Answer: 

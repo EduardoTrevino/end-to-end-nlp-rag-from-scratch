@@ -1,0 +1,158 @@
+Question: Who is CMU's first official mascot?
+
+Context: Christian Huber1, Tu Anh Dinh1, Carlos Mullov1, Ngoc Quan Pham1, Thai Binh Nguyen1, Fabian Retkowski1, Stefan Constantin1, Enes Yavuz Ugan1, Danni Liu1, Zhaolin Li1, Sai Koneru1, Jan Niehues1 and Alexander Waibel1,2 1Karlsruhe Institute of Technology, Karlsruhe, Germany firstname.lastname@kit.edu 2Carnegie Mellon University, Pittsburgh PA, USA alexander.waibel@cmu.edu
+
+Abstract
+3 2 0 2
+
+n u J
+
+0 3
+
+] L C . s c [
+
+1 v 1 0 1 0 0 . 7 0 3 2 : v i X r a
+
+Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models
+
+Harnoor Dhingra
+
+Preetiha Jayashanker
+
+Sayali Moghe
+
+Emma Strubell
+
+Carnegie Mellon University {hdhingra, pjayasha, smoghe, estrubel}@cs.cmu.edu
+
+Abstract
+
+quantify the detected biases. Hence, in this work we aim to answer the following research questions:
+the views of the NSF, NIH, Facebook, or CMLH, and no official endorsement should be in- ferred. Additionally, we express our appreciation to the anonymous reviewers for their insightful sug- gestions, which greatly improved our work. Further- more, we would like to acknowledge the contribu- tions of our colleagues, Atishay Jain and Praneetha Vaddamanu, who played a significant role in the development of this research.
+Room: CMU REMOTE,CMR F307
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Fall 2023
+
+Course number: 18726
+
+Title: Projects in Integrated Circuit Design: First Silicon
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mai
+
+Fall 2023
+
+Course number: 18729
+
+Title: Special Topics in Circuits:
+
+Units: 12.0
+
+Section: C,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,ANS C02
+Title: Grand Challenge Seminar: Equitable Access and Success in Higher Education at CMU:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: PH A18B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Walsh, Ballesteros Soria
+
+Spring 2024
+
+Course number: 66142
+
+Title: DC 1st Year Seminar: The Mirror of Technology: Biases in Computation & Cognition
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5310
+
+Locations: Pittsburgh, Pennsylvania
+Section: SB,SA, ,RW
+
+Days: F,MW
+
+Start: 08:00AM,11:00AM,09:00AM
+
+End: 10:50AM,12:50PM,09:50AM
+
+Room: B23 227,B23 109,CMU REMOTE
+
+Locations: Kigali, Rwanda,San Jose, California
+
+Instructors: Erdogmus, Peraire,Bishop,
+
+Spring 2024
+
+Course number: 18653
+
+Title: Software Design and Architecture
+
+Units: 12.0
+
+Section: SV
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: B23 227
+
+Locations: San Jose, California
+
+Instructors: Wlodarski
+
+Spring 2024
+
+Course number: 18655
+Official Mascot? More than a century after Carnegie Mellon University opened its doors, an official mascot finally made its mark. Although students have dressed as a Scottish terrier — typically referred to as Scotty — for 50 years, it wasn't until 2007 that Carnegie Mellon officially welcomed the Scottish terrier as the university's first mascot.
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+In keeping with tradition, students, faculty, staff and alumni voted to name the new official mascot Scotty. But it's not just the costumed mascot that voters named. The live dog is also known as Scotty to the Carnegie Mellon community.
+
+
+Answer: 

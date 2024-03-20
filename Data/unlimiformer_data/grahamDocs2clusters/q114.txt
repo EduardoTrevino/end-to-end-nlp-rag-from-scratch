@@ -1,0 +1,43 @@
+Question: Where is the SENTECON paper published at?
+
+Context: Paper title: 'SenteCon: Leveraging Lexicons to Learn Human-Interpretable Language Representations' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Victoria Lin, Louis-Philippe Morency Summary: This work presents SenteCon, a method for introducing human interpretability in deep language representations that outperforms existing interpretable language representations with respect to both its downstream performance and
+In this paper we introduced SENTECON, a human- interpretable language representation that captures sentence context while retaining the benefits of interpretable lexicons. We conducted human evalu- ations to determine the agreement between SENTE- CON representations and the actual content of the
+1Our code and data are publicly available at https://
+
+github.com/torylin/sentecon/.
+
+2We use the term “sentence” for clarity, but our approach is also applicable to longer passages of text like paragraphs and documents, as our experiments show.
+
+Figure 1: A comparison of lexicon-based language representations and SENTECON. While lexicons encode word- level category counts, SENTECON parses whole sentences and encodes sentence-level category intensities.
+provides a number of black-and-white and co lor printers for use by students. The SCS
+
+Computer Facilities publishes a list of printers online at https://computing.cs.cmu.edu/desktop/printing. Wh en you send a file to  the print queue, you
+
+may go to any of the listed printers, swipe yo ur CMU ID, and the file will be printed on that
+
+printer.
+
+9.3 Computers for MS Students
+
+Students are expected to provide their own laptop computers that can be used to access
+thesis defense. The pre sentation must communicate the research work done, similar to
+
+a conference paper presentation. The committee will observe the presentation, and then decide whether the thesis and presentation were acceptable, or whether further
+
+work is required. Unlike a P hD defense, only a simple majority vote of the committee is
+
+required for approval.
+The use of a photocopier or printer requires you to log in with your CMU ID card. LTI’s printers
+
+are located in GHC 5404 and GHC 6604. The School of Computer Science provides a number of
+
+black -and-white and color printers for use by students. The SCS Computer Facilities publishes a
+
+list of printers online at http://www.cs.cmu.edu/~help/printing/.
+
+2.1.3 Office Space for MS Students
+
+To help create a sense of community, full time students in the LTI’s MIIS program have access to a
+
+
+Answer: 

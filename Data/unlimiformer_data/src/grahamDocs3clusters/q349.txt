@@ -1,0 +1,190 @@
+Question: In the paper "KIT’s Multilingual Speech Translation System for IWSLT 2023", what approach was used for effective adaptation in the absence of training data from the target domain?
+
+Context: In this paper, we described our systems for the mul- tilingual speech translation track of IWSLT 2023, which translates English speech into 10 target lan- guages. To tackle the task of translating scien- tific conference talks, which feature non-native in- put speech and terminology-dense contents, our systems have several novelties. Lacking suitable training data for the target domain, we used kNN- MT for inference-time adaptation and showed an improvement of +0.8 BLEU for cascaded speech
+1Code
+
+available
+
+at
+
+https://github.com/
+
+dannigt/kit-iwslt2023-multilingual
+
+system, we use our machine translation model for knowledge distillation. We also ensemble models trained with and without synthesized speech data.
+
+Our main findings are as follow:
+3 2 0 2
+
+l u J
+
+2 1
+
+] L C . s c [
+
+3 v 0 2 3 5 0 . 6 0 3 2 : v i X r a
+
+KIT’s Multilingual Speech Translation System for IWSLT 2023
+
+Danni Liu, Thai Binh Nguyen, Sai Koneru, Enes Yavuz Ugan, Ngoc-Quan Pham, Tuan-Nam Nguyen, Tu Anh Dinh, Carlos Mullov, Alexander Waibel, Jan Niehues Karlsruhe Institute of Technology firstname.lastname@kit.edu
+
+Abstract
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Fall 2023
+
+Course number: 11726
+
+Title: Meaning in Language Lab (Self Paced)
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11737
+
+Title: Multilingual Natural Language Processing.
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Su, Zhao
+
+Summer 2024
+
+Course number: 82269
+
+Title: Immersive Digital Storytelling:Using VR/AR to Explore, Language Culture Identity
+
+Units: 9.0
+
+Section: U
+
+Days: MTWRF
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: TEP 1024
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: DeYoung, Liu, Caspar
+
+Summer 2024
+
+Course number: 82278
+
+Title: Japanese Film and Literature: The Art of Storytelling
+
+Units: 9.0
+
+Section: U
+
+Days: MTWRF
+
+Start: 11:00AM
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+such behavior, which will not be tolerated. Re peated infractions, or a serious single infraction
+
+may result in termination from the program.
+
+11.5.6  Language Policy
+
+The MSAII program is a component of the Language  Technologies Institute, which studies and
+
+celebrates the diversity of human language and fo rms of expression. The LTI also recognizes the
+
+futility and unfairness of attempting to det ermine the language students must use when
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+
+
+Answer: 

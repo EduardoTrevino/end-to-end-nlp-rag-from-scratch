@@ -1,0 +1,119 @@
+Question: What does CLIP stand for?
+
+Context: Representations with CLIP. Recent advances have revealed the potential of contrastive objectives to yield generalized representations for both text and images [16], [17]. Contrastive Language-Image Pre-training (CLIP) [16] has delivered state-of-the-art representations that excel in diverse tasks, including zero-shot image classification, image retrieval via text, and guiding generative models [25]. While CLIP’s knowledge has been distilled for audio [19], our MOSAIC approach is the first to
+ities, making them exceptionally valuable for a wide range of AI applications [16]–[18]. One such model, Contrastive Language-Image Pre-training (CLIP) [16], is trained from scratch on an extensive dataset comprising 400 million (im- age, text) pairs. CLIP’s representations can seamlessly trans- fer to many downstream tasks without fine-tuning. While prior research has primarily focused on integrating audio modalities into CLIP’s embedding space [19], including a robot’s haptic data into this
+Table 1: Retrieval accuracy on ImageCoDe test split with human-written contextual captions as input. In the proposed method, we use CLIP-zero-shot as the base listener and ALBEF-finetuned as the listener for evaluation. CLIP-finetuned denotes the best-performing model in previous work. The fine-tuned ALBEF outper- forms the best CLIP model with a large margin on static images while improving slightly on video frames. Com- paring with performances on static images, all models struggle on video
+Units: 12.0
+
+Section: A,E,W,B,C,D,Lec 1,Lec 3
+
+Days: R,F,UT,TR
+
+Start: 08:45AM,08:00AM,03:00PM,09:00AM,02:00PM,08:30AM,10:00AM,11:00AM
+
+End: 09:45AM,09:50AM,03:50PM,09:35AM,12:20PM,02:50PM,10:50AM,08:50AM
+
+Room: MM 103,BH A36,POS 153,POS 152,CUC MCCNMY,CMB 3046
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Zheng, Miller,Hammoud,Miller, Zheng
+
+Fall 2023
+
+Course number: 15441
+
+Title: Networking and the Internet
+
+Units: 12.0
+
+Section: A,C,B,Lec
+
+Days: F,TR
+Title: Student Taught Courses (StuCo):UXplore: Uncover the Best of Modern UX Design:
+
+Units: 3.0
+
+Section: A,
+
+Days: M,
+
+Start:  ,07:00PM
+
+End:  ,07:50PM
+
+Room: PH A18A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Addepalli
+
+Fall 2023
+
+Course number: 98097
+
+Title: Student Taught Courses (StuCo): Intro to 3D Modeling- Character Design Pipeline:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,F
+
+Start:  ,07:00PM
+
+End:  ,08:50PM
+
+Room:  ,CFA 317
+
+Locations:  ,Pittsburgh, Pennsylvania
+Spring 2024
+
+Course number: 76101
+
+Title: Interpretation and Argument
+
+Units: 9.0
+
+Section: E,I,AC,LL,FF,AD,F,HH,CC,D,WW,GG,BB,II,C,EE,DD,J,AB,A,K,W,B,KK,JJ,YY,M,O,X,Z,MM,N,XX
+
+Days: MWF,UTR,TR
+
+Start: 08:45AM,08:00AM,04:00PM,09:30AM,03:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM,03:30PM,12:30PM
+
+End: 12:50PM,01:50PM,09:50AM,03:20PM,03:50PM,09:35AM,02:50PM,04:50PM,12:20PM,11:50AM,10:50AM,09:20AM,08:50AM
+What is a Tartan?
+Sweepstakes Slang
+
+Buggy: Vehicle being raced and also a nickname for the competition.
+
+Chute: A section of the freeroll portion of the buggy course (near the southwestern end of Frew Street at its intersection with Schenley Drive) where buggies make the sharp righthand turn from Schenley Drive onto Frew Street.
+
+Chute Flagger: Team member who provides a signal for buggy drivers to know when to start the right-hand turn from Schenley Drive onto Frew Street.
+Transition: Procedure whereby one pusher finishes pushing a buggy and the next pusher in sequence starts to push that same buggy.
+retaliation any individual who makes a good faith report of a suspected violation of any applicable law or regulation, university Policy or procedure, any contractual obligation of the university, and any report made pursuant to the Carnegie Mellon University Code of Business Ethics and Conduct.
+A.3.1 Counseling & Psychological  Services
+
+https://www.cmu.edu/counseling/
+
+Counseling & Psychological Services (CaPS) affords the opportunity for students to talk privately
+
+about academic and personal concerns in a safe, confidential setting. An initial consultation at
+
+CaPS can help clarify the nature of the concern, provide immediate support, and explore further
+and review of allegations of research misconduct. 49
+
+14.3 Key Offices for Health, Wellness & Safety
+
+14.3.1  Counseling & Psychological Services
+
+https://www.cmu.edu/counseling/
+
+Counseling & Psychological Services (CaPS) af fords the opportunity for students to talk
+
+privately about academic and personal concerns in a safe, confidential setting. An initial
+
+consultation at CaPS can help cl arify the nature of the concern,  provide immediate support, and
+
+
+Answer: 

@@ -1,0 +1,184 @@
+Question: In the IWSLT 2023 paper titled "Evaluating Multilingual Speech Translation Under Realistic Conditions with Resegmentation and Terminology", authors tackle the task of technical speech translation. What evaluation metrics were reported for translation?
+
+Context: Elizabeth Salesky, Kareem Darwish, Mohamed Al- Badrashiny, Mona Diab, and Jan Niehues. 2023. Evaluating Multilingual Speech Translation Under
+
+Realistic Conditions with Resegmentation and Ter- minology. In Proceedings of the 20th International Conference on Spoken Language Translation (IWSLT 2023). Association for Computational Linguistics.
+Elizabeth Salesky, Kareem Darwish, Mohamed Al- Badrashiny, Mona Diab, and Jan Niehues. 2023. Evaluating Multilingual Speech Translation Under Realistic Conditions with Resegmentation and Ter- minology. In Proceedings of the 20th International Conference on Spoken Language Translation (IWSLT 2023). Association for Computational Linguistics.
+Many existing speech translation benchmarks focus on native-English speech in high-quality recording conditions, which often do not match In this the conditions in real-life use-cases. paper, we describe our speech translation sys- tem for the multilingual track of IWSLT 2023, which evaluates translation quality on scientific conference talks. The test condition features accented input speech and terminology-dense contents. The task requires translation into 10 languages of varying amounts of
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Fall 2023
+
+Course number: 11726
+
+Title: Meaning in Language Lab (Self Paced)
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11737
+
+Title: Multilingual Natural Language Processing.
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+Course number: 80788
+
+Title: Acoustics of Human Speech: Theory, Data, and Analysis
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bjorndahl
+
+Spring 2024
+
+Course number: 80811
+
+Title: Professional Development Seminar
+
+Units: 6.0
+
+Section: A,C,B
+
+Days: M
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: BH 145C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zaffora Blando
+
+Spring 2024
+
+Course number: 80814
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

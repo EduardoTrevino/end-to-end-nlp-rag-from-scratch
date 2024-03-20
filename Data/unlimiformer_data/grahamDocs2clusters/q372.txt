@@ -1,0 +1,25 @@
+Question: How many authors contributed to the paper Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation?
+
+Context: Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang. 2016. SQuAD: 100,000+ questions for machine comprehension of text. In Proceedings of the 2016 Conference on Empirical Methods in Natu- ral Language Processing, pages 2383–2392, Austin, Texas. Association for Computational Linguistics.
+Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang. SQuAD: 100,000+ questions for machine comprehension of text. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pp. 2383–2392, Austin, Texas, 2016. Association for Computational Linguistics. doi: 10.18653/v1/D16-1264. URL https://aclanthology.org/D16-1264.
+[20] Shijie Geng, Shuchang Liu, Zuohui Fu, Yingqiang Ge, and Yongfeng Zhang. 2022. Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5). In Proceedings of Sixteenth ACM Conference on Recommender Systems. 299–315.
+
+[21] Hongyu Gong, Yelong Shen, Dian Yu, Jianshu Chen, and Dong Yu. 2020. Recur- rent Chunking Mechanisms for Long-Text Machine Reading Comprehension. In Proceedings of ACL. 6751–6761.
+elective courses that satisfy human language, machine learning, and language technology
+
+applications breadth requirements and 66 practice units for a total of 150 units to attain the
+
+Standard MIIS degree.
+
+MIIS -21 students must take at least 108 units (typically 9 12 -unit courses) of qualifying and
+
+elective courses and 66 practice units to satisfy their degree requirements, making it a total of 174 units to attain the MIIS: Advanced Study degree.
+4.4 Approved Qualifying Courses  ...................................................................................................... 14
+
+4.4.1  Breadth Courses:  Human Language  ................................................................................. 15
+
+4.4.2  Breadth Courses:  Language Technology Applications  ............................................... 15
+Learning for Language Technologies Part-time education option is available in some cases. MIIS-16 students must take at least 84 units (typically 7 courses) of qualifying and elective courses that satisfy human language, machine learning, and language technology applications breadth requirements.
+
+
+Answer: 

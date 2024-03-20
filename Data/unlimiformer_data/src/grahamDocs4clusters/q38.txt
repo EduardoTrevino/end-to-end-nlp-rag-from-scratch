@@ -1,0 +1,159 @@
+Question: How much does it cost to apply for the MLT program if an application is submitted on the day before the deadline?
+
+Context: receive 6 scores, and we use the average score as the final score for each response. The response with the higher final score is considered the better response. The GPT-4 evaluation incurred a cost of $20.45 for InstructBlip and $20.90 for MiniGPT-4.
+
+Table 11: Template used to query GPT-4 for evaluating the response quality of different models.
+rewrites in each qualification task. Those who accurately answer at least five of the six questions (three for style and at least two for naturalness) are approved for the main task. Once approved, we pay them $0.27 USD per head-to-head comparison.
+costs $156.82, training a distilled GPT-3 as the approximate policy requires only $28.59 for generating outputs from GPT-3. Our results high- light the potential of the IPA as a cost-efficient way to enhance the capabilities of LLMs.
+Course number: 45850
+
+Title: Applications of Operations Research:
+
+Units: 6.0
+
+Section:  ,A1
+
+Days:  ,MW
+
+Start:  ,04:00PM
+
+End:  ,05:45PM
+
+Room:  ,TEP 2111
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Fall 2023
+
+Course number: 45851
+
+Title: Data Mining
+
+Units: 6.0
+
+Section: B2,A2
+
+Days: MW
+
+Start: 04:00PM,02:00PM
+
+End: 03:45PM,05:45PM
+
+Room: TEP 2112
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Collier
+
+Fall 2023
+
+Course number: 45861
+
+Title: Six Sigma Tools and Techniques
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Synnott
+
+Spring 2024
+
+Course number: 94812
+
+Title: Applications of NL(X) and LLM
+
+Units: 6.0
+
+Section: A3
+
+Days: TRF
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 1007
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rao
+
+Spring 2024
+
+Course number: 94813
+
+Title: Project Management
+
+Units: 6.0
+
+Section: A3,B3
+
+Days: MW
+
+Start: 03:30PM,02:00PM
+
+End: 04:50PM,03:20PM
+
+Room: HBH 2009
+Course number: 15989
+
+Title: Advanced/Special Topics in AI/ML DATA MINING RECIPES
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: WEH 5302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Faloutsos
+
+Fall 2023
+
+Course number: 15990
+
+Title: Computer Science Colloquium
+
+Units: 0.0
+
+Section: A
+
+Days: TR
+
+Start: 03:00PM
+
+End: 05:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 15996
+cross the finish line in the Finals. So is it possible that DTD rolled 35 seconds faster during the Finals? Sure. But I think I buy that they were 25 seconds slower a little more. 1947 Raceday: Prelims on Friday, May 2 at 1:00pm; Finals on Saturday, May 3 at 2:30pm
+Q: Can I borrow a school instrument? A: There are several Kiltie-owned instruments available for your use. Loans begin at 4:30 p.m. before the first rehearsal.
+
+Q: What do they wear under those kilts? A: Join and you’ll find out!
+The Finals, initially scheduled for 2pm on Saturday, May 4, were ultimately postponed until Saturday, May 11, due to a downpour that cast a damper on an otherwise exciting Spring Carnival. Controversial Finals. An overcast sky threatened rain on the makeup date as well, though it held off long enough for the race to be run. But some of the spectators may have wished the rain came sooner. Although signs were posted about the makeup date, cars ignored the notices and ended up blocking part of the
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29, 2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29,2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29, 2023 at 3PM EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science Fee Waiver
+
+
+Answer: 

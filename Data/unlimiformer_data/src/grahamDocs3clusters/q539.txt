@@ -1,0 +1,136 @@
+Question: Who all led the School of Computer Science in 1986?
+
+Context: Since its beginnings in the 20th century with the theoretical conceptualization by Alan Turing of a machine capable of making calculations and with memory to store data, computing has led us in a spiral of technological advances, which has evolved exponentially. The Englishman Alan Turing was the founder of Computer Science, he was a mathematician, philosopher and cryptographer, a visionary of his time. Turing lived from (1912 to 1954). It should be noted that, without that initial idea and the
+computer science in the public school system. It also promotes the implementation of computer science in the classroom, for which it develops curricular courses from the ﬁrst year of primary education to the fourth year of secondary education, which are available as a public good for the entire school system, articulating an ecosystem to train and accompany teachers and develop a network of leading schools in the teaching of computer science, which by July 2022 there were more than 80 schools
+Kong, S., Hoppe, H., Hsu, T., Huang, R., Kuo, B., Li, K., et al. (eds) (2020). Proceedings of International Conference on Computational Thinking Education 2020. Hong Kong: The Education University of Hong Kong.
+
+Kulkarni, V. (2015). Looking Back: Alan Turing-The Father of Computer Science. CSI
+
+Communications, India.
+Course number: 07070
+
+Title: Teaching Techniques for Computer Science:
+
+Units: 2.0
+
+Section: A,
+
+Days:  ,F
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,GHC 4215
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Garrod, Rivers
+
+Spring 2024
+
+Course number: 07090
+
+Title: Artificial Intelligence Practicum
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Simmons
+
+Spring 2024
+
+Course number: 07180
+Title: Independent Study in Computer Science Pedagogy:
+
+Units: 3-18
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Eckhardt, O'Hallaron
+
+Spring 2024
+
+Course number: 15640
+
+Title: Distributed Systems
+
+Units: 12.0
+
+Section: A,B,Lec
+
+Days: W,TR
+
+Start: 08:00PM,11:00AM,07:00PM
+
+End: 07:50PM,08:50PM,12:20PM
+
+Room: DH A302,GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pillai, Satyanarayanan, Vinayak
+
+Spring 2024
+Title: Independent Study in Computer Science Pedagogy:
+
+Units: 3-18
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Eckhardt, O'Hallaron
+
+Fall 2023
+
+Course number: 15640
+
+Title: Distributed Systems
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec
+
+Days: F,TR
+
+Start: 08:00AM,03:00PM,09:00AM,02:00PM,10:00AM,11:00AM
+
+End: 09:50AM,03:50PM,12:20PM,02:50PM,10:50AM,08:50AM
+
+Room: MM 103,BH A36,POS 153,POS 152,CUC MCCNMY
+A “school of computer science” is proposed Feeling that CSD’s needs were inadequately represented in MCS, CSD head A. Nico Habermann and then-CMU provost Angel Jordan in 1986 wrote a white paper proposing the creation of “a School of Computer Science.” Responding to concerns from the faculty that the change might be taking place too quickly, the university first established a free-floating Department of Computer Science. The experiment, which lasted two years, was an unqualified success.
+1948: The Graduate School of Industrial Administration, later renamed the David A. Tepper School of Business, focusing on quantitative analysis and pioneering the field of management science. 1968: School of Urban and Public Affairs, later renamed the H. John Heinz III College, providing graduate training for work in the public sector. 1986: School of Computer Science, pioneering computing and artificial intelligence, led by interdisciplinary efforts of Allen Newell and Herbert Simon.
+Undergraduate degrees begin For several years, undergraduates interested in computer science pursued an “applied math/CS” bachelor’s degree offered by the Mathematics Department. CSD professor Mary Shaw (CS’72) led CMU’s first effort to design an undergraduate curriculum solely in computer science. She and her colleagues were guided by the Carnegie Plan—guidelines established in 1938 under Carnegie Tech President Robert Doherty (A’40, E’48, H’50), outlining the principles of a sound
+
+
+Answer: 

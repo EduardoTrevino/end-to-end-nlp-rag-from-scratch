@@ -1,0 +1,182 @@
+Question: How many parameters does the chain-of-skills model have?
+
+Context: In this work, we propose a modular model Chain-of-Skills (COS) learns five reusable skills for ODQA via multi-task learning. To reduce task interference, we design a new pa- rameterization for skill modules. We also show that skills learned by COS can be flexibly chained to- gether to better fit the target task. COS can directly perform superior zero-shot retrieval using multi- task self-supervision on Wikipedia. When fine- tuned on multiple datasets, COS achieves SOTA results across the board.
+Figure 2: Chain-of-Skills (COS) model architecture with three different query types. The left blue box indicates the single retrieval query input. The middle green box is the expanded query retrieval input based on the single retrieval results. The right orange case is the entity-centric query with “deep learning” as the targeted entity.
+Chain-of-Skills inference, the naive configuration model shows severe degrada- tion caused by task interference compared with the multi-hop retriever, validating the effective- ness of our proposed model. We further com- pare our Chain-of-Skills inference with the retrieval-only inference on NQ, EntityQuestions and SQuAD in Figure 4. It is easy to see that our pretraining can benefit the retrieval-only ver- sion. However, using better skill configurations via Chain-of-Skills inference yields
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: PCA A16
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 54386
+
+Title: Scenic Design Skills: 3D Model Making
+
+Units: 4.0
+
+Section: A3
+
+Days: W
+
+Start: 01:00PM
+
+End: 03:20PM
+
+Room: PCA 307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Warren
+
+Spring 2024
+
+Course number: 54390
+
+Title: Composition for Theatrical Sound Design 2
+
+Units: 9.0
+
+Section: A
+
+Days: M
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: PCA 210
+Course number: 10708
+
+Title: Probabilistic Graphical Models
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: POS 153
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Risteski
+
+Fall 2023
+
+Course number: 10714
+
+Title: Deep Learning Systems: Algorithms and Implementation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kolter, Chen
+
+Fall 2023
+
+Course number: 10715
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: PCA 308
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hanson
+
+Spring 2024
+
+Course number: 54846
+
+Title: Scenic Design Skills: 3D Model Making
+
+Units: 4.0
+
+Section: A3
+
+Days: W
+
+Start: 01:00PM
+
+End: 03:20PM
+
+Room: PCA 307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Warren
+
+Spring 2024
+
+Course number: 54847
+
+Title: 30 Hour OSHA
+
+Units: 2.0
+
+Section: A
+
+Days: TR
+
+Start: 03:00PM
+
+End: 05:00PM
+
+Room: PCA 307
+
+Locations: Pittsburgh, Pennsylvania
+10-714, Deep Learning Systems
+
+10-715, Advanced Introduction to Machine Learning
+
+4.5 Practice Requirements
+
+A student must complete at least 66 practice -oriented course units and satisfy the following
+
+practice -oriented requirements for both MIIS -16 and MIIS- 21 programs.
+
+1. Directed study requirement:  Students must pass 24 units (typically 12 units x 2
+
+semesters) in directed study under the supervision of their advisor. Directed study is a
+4.4.3  Breadth Courses:  Machine Learning  ................................................................................ 15
+
+4.5 Practice Requirements  ................................................................................................................... 16
+
+4.6 Registration Process/Procedures  ................................................................................................. 17
+Students must demonstrate their mastery of material taught in courses and their success in
+
+applying their skills in directed study by satisfying the following grade requirements:
+
+1. Minimum grade:  Only courses with a grade of C (2.0) or higher are counted as satisfying a degree requirement.
+
+2. Pass/fail:   Pass/fail grades are not permitted for courses and projects used to satisfy a
+
+degr ee requirement.
+
+4.1.2 Research Speaking Requirement
+
+
+Answer: 

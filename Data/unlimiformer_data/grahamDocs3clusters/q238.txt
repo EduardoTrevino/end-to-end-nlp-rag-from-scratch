@@ -1,0 +1,162 @@
+Question: What is the process of exchanging pushers during the race called?
+
+Context: Coordinating perspectives Once children reach sufficient linguistic competence, they start jointly attending to mental content in the form of linguistic discourse. They begin to exchange and align perspectives of such content as well. Through linguistic discourse, children often encounter conflicting perspectives, which they are then pushed to resolve (e.g. one parent says it’s raining outside, but another says it’s not). They resolve those conflicts by learning to form an "objective"
+text-to-text-transfer-transformer (T5) pre-trained on the new open-source dataset called the Colossal Clean Crawled Corpus (C4) they introduced. In T5, every text process- ing problem is considered in a text-to-text framework, and a single model can be trained with the same loss function and decoding process on different NLP tasks. Additionally, Lewis et al. (2020) proposed BART, a denoising autoencoder for pre-training sequence-to-sequence models. Pre-training occurs in two steps: First, an
+called adapters (Rebuffi et al., 2017) and compact adapters (Ma- habadi et al., 2021) which are model-specific (Stick- land and Murray, 2019). Pfeiffer et al. (2020) intro- duced a continuously evolving Adapter-Hub that stitches different pre-trained adapters for languages and tasks inspired from routing networks (Rosen- baum et al., 2019) optimized through reinforcement learning (Kirsch et al., 2018; Chang et al., 2019). Though these methods are efficient, they require access to the internal
+End: 03:20PM
+
+Room: PH 125C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Aguiar
+
+Fall 2023
+
+Course number: 76469
+
+Title: Screenwriting Workshop
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH 125C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martin
+
+Fall 2023
+
+Course number: 76473
+
+Title: Rhetoric & the Construction of Race:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room: PH A18B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+Room: WEH 6423
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wynn
+
+Fall 2023
+
+Course number: 76784
+
+Title: Race, Nation, and the Enemy
+
+Units: 9-12
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Coulson
+
+Fall 2023
+
+Course number: 76788
+
+Title: Coding for Humanists
+
+Units: VAR
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: WEH 5201
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ishizaki
+
+Fall 2023
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 6423
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wynn
+
+Fall 2023
+
+Course number: 76384
+
+Title: Race, Nation, and the Enemy
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Coulson
+
+Fall 2023
+
+Course number: 76386
+
+Title: Language & Culture
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 11:30AM
+
+End: 12:45PM
+
+Room: CMB 3044
+
+Locations: Doha, Qatar
+Transition: Procedure whereby one pusher finishes pushing a buggy and the next pusher in sequence starts to push that same buggy.
+Teams in the outside lane are given a 3 yard head start due to being required to go the long way around the traffic dummy Each pusher must have at least 1 hand on the buggy at all times, except in the transition zone; but no more than 1 pusher may be in contact with the buggy at any time In addition to the driver, pushers, and alternates, Rosters also included all designers and builders Buggies entered in Design Comp must also finish the race in order to qualify (but exceptions are permitted)
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+
+
+Answer: 

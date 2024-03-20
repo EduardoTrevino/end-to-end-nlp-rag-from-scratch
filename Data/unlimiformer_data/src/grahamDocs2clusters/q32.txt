@@ -1,0 +1,29 @@
+Question: What's the paper title for the paper that released a method called IPA?
+
+Context: been asked for experiments that were too expensive for them, a clear majority of the partic- ipants (83.7%) would like to require reviewers to justify their petitions for more experiments (𝑄16). Lastly, we also see a large majority (75.6%) that be- lieved that their work could benefit from the release of small versions of pretrained models alongside large ones (𝑄17). To promote this, a majority of our respondents thought that venues should have a visible branding of papers to release a model
+Paper title: 'Pragmatic Inference with a CLIP Listener for Contrastive Captioning' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Benno Krojer, Daniel Fried, Jiefu Ou Summary: This work proposes a simple yet effective and robust method for contrastive captioning: generating discriminative captions that distinguish target images from very similar alternative distractor images by leveraging an off-the-shelf CLIP model
+Paper title: 'AutoReply: Detecting Nonsense in Dialogue with Discriminative Replies' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Adi Renduchintala, Emily Dinan, Mike Lewis, Daniel Fried, Zhou Yu, Weiyan Shi, Athul Paul Jacob Summary: No TLDR summary available
+The MLT thesis may focus on either a significant research result or a significant implementation of a new technology. The student should work with their adv isor to
+
+define an interesting but bounded thesis research project. The MLT thesis culminates in MLT Graduate Student Handbook  Page 16
+
+a publication -quality paper that clearly describes the work in terms of its research
+
+significance.
+
+The MLT thesis committee will be composed of a thesis advisor  and two additional
+decisions, the sexual misconduct grievance procedures and process, including how to file a report or a complaint of sex discrimination, how to file a report of sexual harassment, and how MLT Graduate Student Handbook  Page 9
+
+the university responds to such reports is available at www.cmu.edu/title -ix. The Title IX
+
+coordinator may be reached at 5000 Forbes Ave., 140 Cyert Hall, Pittsburgh, PA 1 5213; 412-
+
+268- 7125; or tix@cmu.edu.
+
+1.6 The Carnegie Mellon Code
+and a discussion of its scientific contributions. There are no fixed style or document length guidelines or requirements; the only format requirement is that the title page should be suitable to be issued as an LTI Technical Report. The dissertation defense is a public
+
+presentation and defense of the dissertation results.
+
+
+Answer: 

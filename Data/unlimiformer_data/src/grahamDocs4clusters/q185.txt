@@ -1,0 +1,183 @@
+Question: What is the full name of the conference where the paper Using counterfactual contrast to improve compositional generalization for multi-step quantitative reasonin, got published?
+
+Context: Paper title: 'Multimodal Fusion Interactions: A Study of Human and Automatic Quantification' Published year: 2023 Publication venue or conference: International Conference on Multimodal Interaction Authors: Louis-Philippe Morency, R. Salakhutdinov, P. Liang, Yun Cheng Summary: A comparative study of how humans annotate two categorizations of multimodal interactions is performed and a method to automatically convert annotations of partial and counterfactual labels to information decomposition is
+[36] Harrie Oosterhuis and Maarten de de Rijke. 2021. Robust Generalization and Safe Query-Specializationin Counterfactual Learning to Rank. In Proceedings of the Web Conference 2021 (WWW ’21). Association for Computing Machinery, New York, NY, USA, 158–170. https://doi.org/10.1145/3442381.3450018
+[47] Ali Vardasbi, Maarten de Rijke, and Ilya Markov. 2021. Mixture-Based Correction for Position and Trust Bias in Counterfactual Learning to Rank. In Proceedings of the 30th ACM International Conference on Information & Knowledge Manage- ment (CIKM ’21). Association for Computing Machinery, New York, NY, USA, 1869–1878. https://doi.org/10.1145/3459637.3482275
+Title: Counterpoint in Theory and Application
+
+Units: 6.0
+
+Section: A,E,B,F,C,D,Lec 1,Lec 2
+
+Days: F,TR
+
+Start: 09:00AM,01:00PM,10:00AM,12:00PM,11:00AM
+
+End: 12:50PM,01:50PM,09:50AM,11:50AM,10:50AM
+
+Room: HOA 223,HOA 225,HOA 224
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Marthaler,Ito
+
+Fall 2023
+
+Course number: 57152
+
+Title: Harmony I
+
+Units: 9.0
+
+Section: A,C,D,B
+
+Days: TR
+
+Start: 08:00AM,09:30AM,11:00AM
+
+End: 10:50AM,09:20AM,12:20PM
+
+Room: CFA M160,CFA A2,HOA 224
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HOA 223
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Randall
+
+Fall 2023
+
+Course number: 57444
+
+Title: Principles of Counterpoint
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: CFA A2
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Whipple
+
+Fall 2023
+
+Course number: 57452
+
+Title: Collaborative Project in Music Entrepreneurship
+
+Units: 6.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HOA 225
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+In the spring, the Task Force partnered with SME Branding — a firm with more than 17 years of experience creating mascots for professional sports teams and universities — to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.
+The mascot selection process included a series of surveys and a university Town Hall meeting. Nearly 78 percent of 2,370 students surveyed in February 2007 voted for the Scottish terrier, and approximately 25 percent of 400 alumni surveyed thought the Scottish terrier was already the mascot.
+on and off- campus. Through GSA’s continued funding for professional development and
+
+research conferences, the GSA/Provost Conference Funding Program and GSA/Provost GuSH Research Grants are able to run, as managed by the Graduate Education Offi ce. As we move
+
+forward, GSA will continue to rely on your feedback to improve the graduate student experience at CMU. Feel free to contact us at gsa@cmu.edu
+
+to get involved, stop by our o ffice
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+thesis defense. The pre sentation must communicate the research work done, similar to
+
+a conference paper presentation. The committee will observe the presentation, and then decide whether the thesis and presentation were acceptable, or whether further
+
+work is required. Unlike a P hD defense, only a simple majority vote of the committee is
+
+required for approval.
+
+
+Answer: 

@@ -1,0 +1,53 @@
+Question: Where will the Buggy Showcase happen this year?
+
+Context: We are very excited to bring you the proceedings of the 15th edition of the International Symposium on Search-Based Software Engineering (SSBSE 2023). SSBSE is a premier event for all who are interested in the intersection of search optimization and difﬁcult software engineering problems spanning numerous domains. This year SSBSE was held as a hybrid event; physically located in San Francisco, California, USA and remote for those that were unable to attend in person. We continue to be
+We then got the grill ready.
+
+“Fireworks light up the sky at the annual festival.”
+
+“I think she was just trying to get the guy to stop filming.”
+
+5
+
+3
+
+5
+
+5
+
+5
+
+“I was the only one who didn't have a relative there.”
+
+It was on the news before dark.
+
+The smoke was billowing for hours.
+
+He made it to the top and saw the clouds.
+
+They found a few different locations.
+
+“The colors are so bright and vivid.”
+
+When they break apart, they look like little crawly bugs.
+We then measured the performance differences between the repaired and unre- paired versions of the applications. We found that in our 21 benchmarks, 5 had either no warnings or warnings that could not be repaired without introducing buggy behav- ior. For example, a warning about instantiating an object in a loop could be “unfixable” as a reference to each instantiated object is held in an array. So, moving the instan- tiation outside of the loop would result in an array with the same reference
+Fringe vehicles often are named with the letter "B," like Boson, Blueshift, Bissa and Bumper. Other teams, such as Apex, often use names that connotate fire, while the SDC (Student Dormitory Committee) team, uses names such as Vice, Bane, Avarice and Malice.
+
+This year's buggy names will be under wraps until Thursday, when the Buggy Showcase will take place from noon to 2 p.m. in Weigand Gymnasium in the Cohon University Center. It's one of the few times spectators can see buggies up close.
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+
+
+Answer: 

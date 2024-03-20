@@ -1,0 +1,41 @@
+Question: What is the proposed approach in the paper "Rethinking Voice-Face Correlation: A Geometry View"?
+
+Context: To investigate and understand the voice-face correlation at a more fine-grained phoneme level, we propose an anal- ysis pipeline that leverages a common feature extractor with a regression head to predict human anthropometric measure- ments (AM) from phoneme. Specifically, Human anthropomet- ric measurements are a set of facial measurements summarized from cognitive science studies that can effectively represent the identity of a human. We decompose the audio recordings into phonemes and learn
+and movements in the face. Therefore, it is advanta- geous to discover the hidden link between phonemes and face attributes. In this paper, we propose an analysis pipeline to help us explore the voice-face relationship in a fine-grained manner, i.e., phonemes vs. facial anthropometric measurements (AM). We build an estimator for each phoneme-AM pair and evaluate the correlation through hypothesis testing. Our results indicate that AMs are more predictable from vowels compared to conso- nants,
+Rethinking the human voice production mechanism, the voice is produced by either the vibration of the vocal cord or the resonance of the pulmonary airflow. For both of the mecha- nisms, the vocal track is highly enrolled. The vocal track can be assumed as a filter, reflecting the characteristics of human voice. With the tight bind of muscle and bone, the vocal track is also correlated with facial attributes. Specifically, each phoneme corresponds to a different vocal track status and also an
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+topics. Consultants support communication excellence on essays, technical reports, oral presentations, slides, data visualization, advanced English language learning, and many other project types. Clients can bring in a project at any stage, including bra instorming
+
+ideas, organizing thoughts, responding to instructor feedback, or putting finishing touches on the final draft. Support is offered in several modes:
+
+o One-on-one Communication Tutoring (in-person or synchronous Zoom meeting):
+review sessions on course materials outside th e classroom. SI is a non-remedial approach
+
+to learning as the program targets high-risk  courses and is available in select courses
+
+based on data related to past stu dent performance and feasibility.
+
+Peer Tutoring:  Weekly Tutoring Appointments are offered in a one-on-one and small
+
+group format to students from any discipli ne who need assistance with a course that may
+
+
+Answer: 

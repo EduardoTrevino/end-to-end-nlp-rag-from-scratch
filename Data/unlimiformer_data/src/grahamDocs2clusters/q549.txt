@@ -1,0 +1,51 @@
+Question: How does using random walks to estimate entity centrality on conversation entity graphs affect answer passage ranking?
+
+Context: Paper title: 'Conversational Search with Random Walks over Entity Graphs' Published year: 2023 Publication venue or conference: International Conference on the Theory of Information Retrieval Authors: Gustavo Gonçalves, Jamie Callan, João Magalhães Summary: Experiments show that using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.
+pseudo query. Then, in each sampled passage, we randomly pick an anchor entity and take the first passage of its associated Wikipedia page as the tar- get. To avoid redundancy, if an anchor entity has been used 10 times in a source page, we no longer pick it for the given source. If the query and the target together exceed 512 tokens, we will truncate the longer of the two by randomly dropping its first token or its last token.
+Izac- ard et al. (2021) and Wu et al. (2020) to construct examples for single retrieval and entity linking, re- spectively. For single retrieval, a pair of randomly cropped views of a passage is used as a positive
+.................................................................................... 1 10 The Division of Student Affairs .................................................................................. 2 11 Center for Student Diversity & Inclusion .................................................................. 2 12 Assistance for Individuals with Disabilities .............................................................. 3 13 Eberly Center for Teaching Excellence & Educational Innovation
+Fall 2:
+
+Conversational Interfaces
+
+MIIS Capstone Project
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems who has petitioned to have the summer internship waived.
+
+Fall 1: - Search Engines - Analysis of Social Media - Design and Engineering of Intelligent Systems - Directed Study
+
+Spring:
+
+Machine Learning
+
+Natural Language Processing
+
+Question Answering
+
+Directed Study
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

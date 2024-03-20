@@ -1,0 +1,177 @@
+Question: At what conference was Exploration on HuBERT with Multiple Resolutions published?
+
+Context: Paper title: 'Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute' Published year: 2023 Publication venue or conference: Interspeech Authors: Yifan Peng, Xuankai Chang, William Chen, Shinji Watanabe, Zhaoheng Ni, Soumi Maiti Summary: This work optimizing HuBERT SSL to fit in academic constraints, and reproducibility, and explores a semi-supervised route, using an ASR model to skip the first pre-training iteration.
+[104] Yao-Hung Hubert Tsai, Paul Pu Liang, Amir Zadeh, Louis-Philippe Morency, and Ruslan Salakhutdinov. Learning factorized multimodal representations. In International Conference on Learning Representations, 2019.
+
+[105] Michael Tsang, Dehua Cheng, and Yan Liu. Detecting statistical interactions from neural network weights.
+
+In International Conference on Learning Representations, 2018.
+Evan Zheran Liu, Kelvin Guu, Panupong Pasupat, Tianlin Shi, and Percy Liang. Reinforcement learning on web interfaces using workflow-guided exploration. In 6th International Conference on Learning Representations, ICLR 2018, Vancouver, BC, Canada, April 30 - May 3, 2018, Conference Track Proceedings. OpenReview.net, 2018. URL https://openreview.net/forum?id= ryTp3f-0-.
+
+Jieyi Long. Large language model guided tree-of-thought. ArXiv preprint, abs/2305.08291, 2023.
+Course number: 54726
+
+Title: Physics of Stage Machinery
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PCA 209
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hines
+
+Fall 2023
+
+Course number: 54731
+
+Title: Scenic Design: Explorations
+
+Units: 9.0
+
+Section: A
+
+Days: M
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: PCA 307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Warren
+
+Fall 2023
+
+Course number: 54733
+
+Title: Role Playing Game Writing Workshop
+
+Units: 12.0
+
+Section: A
+Title: Special Topics in Physical Chemistry:Explorations Comp Quantum Chemistry:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,07:00PM
+
+End:  ,08:20PM
+
+Room:  ,MI 355
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Kowalewski
+
+Fall 2023
+
+Course number: 09805
+
+Title: Special Topics in Bioorganic and Bioinorganic Chemistry: Biocatalysis
+
+Units: 6.0
+
+Section: A2
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: MI 348
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Guo
+
+Fall 2023
+Title: Negotiation and Conflict Resolution
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 2612
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rulke
+
+Fall 2023
+
+Course number: 70332
+
+Title: Business, Society and Ethics
+
+Units: 9.0
+
+Section: A,W,B
+
+Days: UTR,TR
+
+Start: 11:30AM,03:30PM,02:00PM
+
+End: 12:20PM,04:50PM,03:20PM
+
+Room: CMB 1031,TEP 2700
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Dimitriu,Leben
+
+Fall 2023
+
+Course number: 70340
+The war is over, and we won! This week, the 100 Years of Buggy History series brings back Fraternities, Spring Carnival, and most importantly, Buggy! The post-war era brought a whole new style of buggy, but also brought with it some controversies. It also saw the entry of multiple non-Greek organizations for the first time! (As a reminder, the Men’s Dorms were permitted to enter in 1928, though it’s unclear if they actually did).
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+1946 Raceday: Prelims on Friday, May 3 at 4:30pm; Finals on Saturday, May 11* at 2:00pm
+
+Sweepstakes Committee: John H. Siepel (Chair)
+
+Race Results: (1) DTD (3:49? ); (2) KapSig; (DQ) PiKA
+
+Design Comp: (1) Beta
+
+Weather: Cloudy, High 66/Low 47 on Friday; Rain on Saturday, May 4; Overcast, High 67/Low 49 on Saturday, May 11
+
+1946 saw the return of Buggy, though not all of the Fraternities were back yet. It also saw a rain delay and a very controversial result.
+issues. Generally, graduate students are expected to seek informal resolution of all concerns within the applicable department, unit, or program before invoking formal p rocesses. When an
+
+informal resolution cannot be reached, however, a graduate student who seeks further review of the matter is to follow the for mal procedures outlined here. T hese appeal and grievance
+resolution cannot be reached, however, a graduate student who seeks further review of the matter is to follow the formal procedures outlined here. These appeal and grievance procedures
+
+shall apply to students in all graduate progr ams of the University. Students should refer to the
+
+department specific information in this handbook for department and college information about
+
+the administration and academic policies of the program.
+on the Graduate Education Resource webpage. This document summarizes processes available to
+
+graduate students who seek review of academic and non -academic issues. Generally, graduate
+
+students are expected to seek informal resolution of all concerns within the applicable department, unit, or program before invok ing formal processes. When an informal resolution
+
+
+Answer: 

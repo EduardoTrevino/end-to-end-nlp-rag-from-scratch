@@ -1,0 +1,163 @@
+Question: If you applied to both the MIIS and MSAII programs on the day before the deadline, how much would it cost?
+
+Context: receive 6 scores, and we use the average score as the final score for each response. The response with the higher final score is considered the better response. The GPT-4 evaluation incurred a cost of $20.45 for InstructBlip and $20.90 for MiniGPT-4.
+
+Table 11: Template used to query GPT-4 for evaluating the response quality of different models.
+help much, in which case it may be better to use a constant budget. It may also be not fast enough during the last iter- ations: suppose 95% of the problems are solved, but the re- maining 5% ones require to double the budget k more times: then the 95% will be resolved k more times (possibly finding different solutions), and, if the found solutions change, opti- mization is also performed k times before any new problem can be solved. By contrast, Orseau and Lelis [2021] use a fixed budget and
+rewrites in each qualification task. Those who accurately answer at least five of the six questions (three for style and at least two for naturalness) are approved for the main task. Once approved, we pay them $0.27 USD per head-to-head comparison.
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 11699
+
+Title: MSAII Program Capstone
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11700
+
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,P
+
+Days: TBA,F
+
+Start: ,02:00PM
+
+End: ,03:20PM
+Instructors: Mitamura
+
+Fall 2023
+
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar:
+
+Units: 6.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11697
+
+Title: Introduction to Question Answering:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: PH A18A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg, Mitamura
+
+Fall 2023
+
+Course number: 11700
+Section: A,B,SV,Lec 1,Lec 3,RW
+
+Days: TBA,F,MW
+
+Start: ,08:00AM
+
+End: ,09:20AM,08:20AM
+
+Room: BH A51,DNM DNM,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11690
+
+Title: MIIS Directed Study
+
+Units: 1-48
+
+Section: C
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mitamura
+
+Spring 2024
+
+Course number: 11692
+Q: Can I borrow a school instrument? A: There are several Kiltie-owned instruments available for your use. Loans begin at 4:30 p.m. before the first rehearsal.
+
+Q: What do they wear under those kilts? A: Join and you’ll find out!
+The Finals, initially scheduled for 2pm on Saturday, May 4, were ultimately postponed until Saturday, May 11, due to a downpour that cast a damper on an otherwise exciting Spring Carnival. Controversial Finals. An overcast sky threatened rain on the makeup date as well, though it held off long enough for the race to be run. But some of the spectators may have wished the rain came sooner. Although signs were posted about the makeup date, cars ignored the notices and ended up blocking part of the
+seen it yet! And On New Roads! This is the first record we have of the roads being paved! 2 weeks before Raceday, the City of Pittsburgh re-paved the Buggy course, allowing the buggies to race on fresh roadways. Pittsburgh Police were also out in full force on Raceday to assist with course control…Though as you’ll see, this was probably only during the Prelims. New Rules in Place. The April 9, 1946 Tartan printed the 12 rules for Buggy, our first look at the rules in several years. A lot of the
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29, 2023 at 3PM EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science Fee Waiver
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29, 2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29,2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science
+
+
+Answer: 

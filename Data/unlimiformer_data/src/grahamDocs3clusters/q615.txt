@@ -1,0 +1,156 @@
+Question: What's the cost in us dollars per program for the masters degrees in language technologies if you submit after the early deadline?
+
+Context: for Google Translate is roughly $2.66 re- gardless of the target language, since Google’s API only charges for input characters.
+We estimated cost values for each MT system and language: the expense, in USD, of translat- ing the full FLORES-200 devtest English set into the language. We estimated costs of GPT models using the prompts employed in our experiments,
+
+model NLLB ChatGPT (0-shot) ChatGPT (5-shot) Google GPT-4 (5-shot)
+
+cost $0.09 $0.35 $1.32 $2.66 $25.93
+
+Table 10: Estimated cost in USD to translate FLORES- 200 devtest ENG→X with each system, averaged across all languages we evaluated with each
+These visualizations are also available on our repository. (Also see our Zeno browser for interac- tive visualizations of our results.) We also include cost estimates and scores divided thereby for all languages and MT systems in Table 14. We ex- clude cost estimates by language for NLLB and Google because there is very little variation be- tween languages. Our estimated cost of translat- ing FLORES-200 devtest ENG→ is approximately $0.09 for every target language. And the respective estimate
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Title: Ethics, Social Biases, and Positive Impact in Language Technologies
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 153
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sap
+
+Spring 2024
+
+Course number: 11860
+
+Title: Quantum Computing, Cryptography and Machine Learning Lab
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Singh, Ramakrishnan
+
+Spring 2024
+Fall 2023
+
+Course number: 82703
+
+Title: Translation Technologies
+
+Units: 9-12
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCullough
+
+Fall 2023
+
+Course number: 82704
+
+Title: Translation Workshop I
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCullough
+
+Fall 2023
+
+Course number: 82706
+
+Title: Translation Workshop III
+
+Units: 18.0
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29, 2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29,2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29, 2023 at 3PM EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science Fee Waiver
+
+
+Answer: 

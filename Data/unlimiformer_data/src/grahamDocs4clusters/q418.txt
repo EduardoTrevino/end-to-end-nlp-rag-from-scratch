@@ -1,0 +1,225 @@
+Question: What are the three concentrations in the MCDS program?
+
+Context: Figure 3: Comparison of inference encoder-decoder alignment of different models. For Transformer TTS we picked one of the cross-attentions which learn alignment. See Appendix C for the cross-attentions of all heads and layers.
+
+Table 2: Comparison of TTS models. MOS is with 95% conﬁdence interval. MCD is with one standard deviation.
+
+Method
+
+#Params. WER (%) ↓
+
+SSS ↑
+
+P-FID ↓
+
+MCD ↓
+
+MOS-N ↑
+
+GT
+
+n/a
+
+14.9
+
+n/a
+
+0.11
+
+n/a
+
+4.01±0.06
+
+VITS
+
+≈ 40M ≈ 100M
+
+28.4 24.8
+
+0.718 0.734
+
+15.48 12.04
+Mel-cepstral Distortion (MCD). We follow previous work (Hayashi et al. 2021) and use MCD to measure the reconstruction error between ground truth and synthesis, given the same text and speaker reference speech. We extract 23 mel-cepstral coefﬁcients (MCEPs) and use Euclidean distance as the metric. Dynamic Time Wraping (Giorgino 2009) is applied for the alignment. We calculate MCD using the ground truth utterances from the validation split.
+
+5 Results
+table, we can see that DIFUSCO strongly outperforms the previous neural solvers on all three settings. In particular, with MCTS-based decoding, DIFUSCO significantly improving the performance gap between ground-truth and neural solvers from 1.76% to 0.46% on TSP-500, from 2.46% to 1.17% on TSP-1000, and from 3.19% to 2.58% on TSP-10000.
+Title: Software Management Capstone Project
+
+Units: 3,6,12,24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: San Jose, California
+
+Instructors: Mercier
+
+Summer 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Summer 2024
+
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: T
+
+Start: 08:00AM
+Title: ConLanging: Lrng. Ling.⟪ Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11634
+
+Title: MCDS Capstone Planning Seminar:
+
+Units: 12.0
+Days: TR
+
+Start: 09:30AM,11:00AM
+
+End: 10:50AM,12:20PM
+
+Room: GHC 4307,BH A36
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sap, Strubell,Strubell, Sap
+
+Fall 2023
+
+Course number: 11632
+
+Title: Data Science Capstone
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Fall 2023
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+3.3.6.3 Areas of Concentration In addition to the common MCDS core, all students must complete at least one area of concentration, which consists of three courses in Analytics, Systems, or Human- Centered Data Science. Students consult with their academic advisor and choose one or more areas of concentration during their first semester, in preparation for enrolling in Spring classes.
+The MCDS Program offers a core curriculum and several concentrations; students entering the program enroll in core courses in their first semester and select further courses to satisfy at least one concentration (see Section 3.3.6). Students construct their own course of study, in consultation with their academic advisor, in order to satisfy broad guidelines. Thus, a student may tailor their coursework in a given concentration to follow a particular area of emphasis. The MCDS program is
+information technology, software services and social media companies. Requirements: The MCDS program offers three majors: Systems, Analytics, and Human-Centered Data Science. All three require the same total number of course credits, split among required core courses, electives, data science seminar and capstone courses specifically defined for each major. The degree can also be earned in two different ways, depending on the length of time you spend working on it.
+
+
+Answer: 

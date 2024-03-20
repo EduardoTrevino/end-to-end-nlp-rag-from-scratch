@@ -1,0 +1,184 @@
+Question: Where is the President's Graduates Toast for bachelor's students going to be held?
+
+Context: jzbjyb/FLARE.
+
+Joe Biden attended the University of Pennsylvania
+
+"####"#$#$$Step 2
+
+a law degree
+
+Search results: !""[1]: …[2]: …
+
+RetrieveddocumentsLMGeneration$%$%%
+
+, where he earned
+
+RetrieverInputStep 1
+
+.
+
+He graduated from the University of Delaware in 1965 with a Bachelor of Arts in history and political science.
+
+Generate a summary about Joe Biden.Search results: !![1]: …[2]: …
+
+."#%#%Step 3
+
+Joe Biden (born November 20, 1942) is the 46th president of the United States.
+[output] As an AI language model, my knowledge only goes up until September 2021, so I cannot predict the president of the United States in 2025. However, I can give you the following information:1. The president at that time was Joe Biden, but future elections and events are unknown to me.2. Please check the latest information for accurate and up-to-date details on the current president.
+team with a knowledge cutoff in September 2022, I’m unable to provide real-time or future updates. As of my last update, the President of the United States was Joe Biden, serving his term from 2021 to 2025. For the most current and accurate information regarding the U.S. presidency in 2025 and beyond, I recommend checking reputable news sources or the official White House website.
+
+User: Good job! Clear context
+Course number: 57897
+
+Title: Graduate Recital (Voice)
+
+Units: 1.0
+
+Section: B4,D4,A4,C4,E4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Spring 2024
+
+Course number: 57898
+
+Title: Graduate Recital:
+
+Units: 1.0
+
+Section: E,IA,AC,OA,VD,NA,JA, ,FB,PB,VA,C,DD,AB,S,FA,KA,B,MC,T,MA,OB,VE,H,JB,L,NB,PC,IB,AA,PA,Q,R,DC,G,KB,VC,DB,VB,DA,MB
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+Instructors: Si,Mandal,An,Biswas,Palmese,Amsellem,Dutta,Ganti,Kunnumkai,Majetich
+
+Fall 2023
+
+Course number: 33115
+
+Title: Physics for Future Presidents
+
+Units: 9.0
+
+Section: W
+
+Days: UTR
+
+Start: 11:30AM
+
+End: 12:45PM
+
+Room: CMB 1190
+
+Locations: Doha, Qatar
+
+Instructors: Zayed
+
+Fall 2023
+
+Course number: 33120
+
+Title: Science and Science Fiction
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 11:00AM
+
+End: 11:50AM
+
+Room: DH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Luokkala
+
+Fall 2023
+Course number: 57797
+
+Title: Graduate Recital (piano 1st year)
+
+Units: 1.0
+
+Section: B2,C2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Schepkin,Instructor TBA,Chiu
+
+Fall 2023
+
+Course number: 57798
+
+Title: Graduate Recital (strings 1st year)
+
+Units: 1.0
+
+Section: E2,G2,F2,B2,D2,C2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wu,Howard,Williams,Harding,Van Hoesen,van der Sloot,Cardenes
+
+Fall 2023
+LTI Ph.D.  Graduate Student Handbook  Page 38
+
+6.13 Dining
+
+www.cmu.edu/dining/
+
+Dining services and operations are offered through the Office of Housing and Dining Services. The
+
+office operates dining locations open in and around campus. These  locations offer flexible hours
+
+with options from the early morning through late night. The Dining Service website contains
+
+information about dining locations, hours of operation, graduate student dining plans forms,
+6.14 Dining Dining services and operations are offered through the Office of Housing and Dining Services. The office operates dining locations open around campus in academic buildings, Hunt Library and the University Center. These locations offer flexible hours with options from the early morning through late night. The Dining Service website contains information about dining locations, hours of operation, graduate student dining plans forms, nutritional information, and weekly menus for dining
+The office operates  dining locations open around campus  in academic buildings, Hunt Library ,
+
+and the University Center. These locations offer flexible hours with options from the ear ly
+
+morning through late night. The Dining Service website contains information about dining locations, hours of operation, graduate student dining plans forms, nutritional information, and weekly menus for dining locations.
+
+7.15 Parking and Transportation
+
+www.cmu.edu/parking/
+
+
+Answer: 

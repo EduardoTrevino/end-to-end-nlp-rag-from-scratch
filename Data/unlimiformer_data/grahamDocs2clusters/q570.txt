@@ -1,0 +1,21 @@
+Question: How many teams participated in the IWSLT 2023 shared tasks?
+
+Context: evidenced by rising IWSLT2 shared task participation.
+In Task 1, 4 teams participated, which provided a total of 16 submissions. Participants were asked to provide a brief description of the system for their proposals. The two system descriptions provided by the participants are shown below:
+We test our system using datasets from different language pairs. Test datasets includes:
+
+Test data from the IWSLT shared task (tst19, tst20) (Anastasopoulos et al., 2021, 2022), where the domain is TED talks.
+
+Test data tst19 tst20 LT CS LT nonCS mTEDx
+
+Lang. pair Hours en→de 4.82 en→de 4.09 de→en 6.39 de→en 2.66 es→en 2.07 it→en 2.16 en→X 0.95
+
+# Utterances 2279 1804 2454 1516 1012 999 468
+
+ACL dev *
+1946 – PiKA’s Buggy (from the 1947 Thistle). It didn’t win Design Competition, but it had the best aesthetic design. Prelim Heats and Results. The Prelims were run in 3 heats, with 3 teams in each. The rules initially stated that the winner of each heat would compete in the finals, but it seems that the rules changed to be the three fastest times instead, as the Prelim results printed in the May 7, 1946 Tartan indicate that the Finals was just a rematch of Prelim Heat 1. According to the May 7
+Sigma teams.
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+
+
+Answer: 

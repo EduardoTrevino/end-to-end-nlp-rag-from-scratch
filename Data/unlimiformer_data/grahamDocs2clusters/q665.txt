@@ -1,0 +1,155 @@
+Question: Which LTI class is offered in Kigali, Rwanda?
+
+Context: Locations: Kigali, Rwanda
+
+Instructors: Perkins
+
+Fall 2023
+
+Course number: 04800
+
+Title: Special Topics in ICT:
+
+Units: 12.0
+
+Section: E,I,K,B,G,J, ,H
+
+Days:  ,MW,TR
+
+Start: 08:00AM,04:00PM,02:00PM,10:00AM,07:00PM,
+
+End: 09:50AM,03:50PM,11:50AM,05:50PM, ,08:50PM
+
+Room: CMR F203,CMR F205,CMU REMOTE, ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: McSharry, Racz,Mukamakuza,Niyizamwiyitira, Ndashimye,Wiecha,Pierce,Thornburg,Tucker
+
+Fall 2023
+
+Course number: 04801
+Locations: Kigali, Rwanda
+
+Instructors: Perkins, Wiecha
+
+Spring 2024
+
+Course number: 04701
+
+Title: Research Methods in Engineering
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: CMR F205
+
+Locations: Kigali, Rwanda
+
+Instructors: Mugume
+
+Spring 2024
+
+Course number: 04720
+
+Title: Ethical Hacking
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 04:30PM
+
+End: 06:20PM
+
+Room: CMR F305
+
+Locations: Kigali, Rwanda
+
+Instructors: Kairu
+
+Spring 2024
+
+Course number: 04800
+Locations: Kigali, Rwanda
+
+Instructors: Okeyo
+
+Fall 2023
+
+Course number: 04641
+
+Title: Fundamentals of Telecommunications and Computer Networks
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:50AM
+
+Room: CMR F203
+
+Locations: Kigali, Rwanda
+
+Instructors: Mugume
+
+Fall 2023
+
+Course number: 04645
+
+Title: Internet of Things (IoT)
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: CMR F307
+
+Locations: Kigali, Rwanda
+
+Instructors: Mugume
+
+Fall 2023
+offered by the Language Technologies Institute (LTI), a graduate department in the School of
+
+Computer Science at Carnegie Mellon University. The MIIS degree provides advanced study
+
+and practical experience in areas of Computer Science focused on the processing and analysis
+
+of unstructured and semi -structured information, for example, text, image, video, speech, and
+
+audio information. It is a practice -oriented professional degree designed for students who
+Information retrieval, machine translation and speech technology are used daily by the general public, while text mining, natural language processing and language-based tutoring are common within more specialized professional or educational environments. The LTI prepares students for this world by offering a minor that gives you the opportunity to not only learn about language technologies, but to also apply that knowledge through a directed project.
+Any two graduate courses (600 -level or higher) offered by departments within the SCS
+
+relevant to the MIIS degree other than LTI (Machine Learning or Computer Science departments, etc.) may be counted as approved qualifying courses . MIIS Graduate Student Handbook  Page 15
+
+Any course from the following list is an approved qualifying course.
+
+02-712, Computational Methods for Biological Modeling and Simulation
+
+05-631, Software Structures for User interfaces
+
+05-813, Human Factors
+
+
+Answer: 

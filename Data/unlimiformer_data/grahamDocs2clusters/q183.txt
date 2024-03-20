@@ -1,0 +1,13 @@
+Question: How much does it cost to apply for the MLT program if an application is submitted a week before the deadline?
+
+Context: receive 6 scores, and we use the average score as the final score for each response. The response with the higher final score is considered the better response. The GPT-4 evaluation incurred a cost of $20.45 for InstructBlip and $20.90 for MiniGPT-4.
+
+Table 11: Template used to query GPT-4 for evaluating the response quality of different models.
+Cost of Query Generation. For the original InPars Bonifacio et al. (2022), the cost of generation for the GPT-3 Curie model is $0.002 per one thousand tokens. The token count includes the length of the prompt and the prompting document.14 We estimate that (depending on the collection) a single generation involves 300 to 500 tokens: long-document collections Robust04 and TREC-COVID both have close to 500 tokens per generation.
+rewrites in each qualification task. Those who accurately answer at least five of the six questions (three for style and at least two for naturalness) are approved for the main task. Once approved, we pay them $0.27 USD per head-to-head comparison.
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29, 2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29,2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29, 2023 at 3PM EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science Fee Waiver
+
+
+Answer: 

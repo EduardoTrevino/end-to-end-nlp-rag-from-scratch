@@ -1,0 +1,205 @@
+Question: Which department in the School of Computer Science was formed in 2006?
+
+Context: 3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+a community computer education network that was born in Lithuania in 2005 and has been consolidated in more than 40 countries to discuss computer science concepts for school computer algorithm development workshops, which have been organized annually since their inception, bring together representatives from all these countries for rigorous work and decision making on good tasks to promote computer education in schools. On the one hand, the Bebras challenge is an international assembly driven
+School of Computer Science, University of Petroleum and Energy Studies, Dehradun, India
+
+6 Department of Computer Science, College of Computer Engineering and Sciences in Al-kharj, Prince Sattam Bin Abdulaziz University, P.O. Box 151, Al-Kharj 11942, Saudi Arabia
+
+Kemal Polat kpolat@ibu.edu.tr
+
+7 Department of Electrical and Electronics Engineering, Bolu Abant
+
+Izzet Baysal University, Bolu, Turkey
+Course number: 07070
+
+Title: Teaching Techniques for Computer Science:
+
+Units: 2.0
+
+Section: A,
+
+Days:  ,F
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,GHC 4215
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Garrod, Rivers
+
+Spring 2024
+
+Course number: 07090
+
+Title: Artificial Intelligence Practicum
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Simmons
+
+Spring 2024
+
+Course number: 07180
+Units: 2.0
+
+Section: A
+
+Days: F
+
+Start: 04:00PM
+
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Peet, Cortina
+
+Fall 2023
+
+Course number: 07300
+
+Title: Research and Innovation in Computer Science
+
+Units: 9.0
+
+Section: A,B,Lec
+
+Days: M,W,F
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5316,PH 226C,BH A53
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martins
+
+Fall 2023
+
+Course number: 07599
+
+Title: SCS Honors Undergraduate Research Thesis
+
+Units: VAR
+
+Section: A,W
+Instructors: Shi
+
+Spring 2024
+
+Course number: 15990
+
+Title: Computer Science Colloquium
+
+Units: 0.0
+
+Section: A
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 15996
+
+Title: DEI Introductory Course for CS Doctoral Students:
+
+Units: 6.0
+
+Section:  ,B
+
+Days:  ,T
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,GHC 4303
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Akinwande, Kolter, Oliaro
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+A “school of computer science” is proposed Feeling that CSD’s needs were inadequately represented in MCS, CSD head A. Nico Habermann and then-CMU provost Angel Jordan in 1986 wrote a white paper proposing the creation of “a School of Computer Science.” Responding to concerns from the faculty that the change might be taking place too quickly, the university first established a free-floating Department of Computer Science. The experiment, which lasted two years, was an unqualified success.
+New departments, new areas of study Along the way, the Center for Machine Translation became the Language Technologies Institute, and other new departments were formed, including the Human-Computer Interaction Institute (1993), the Institute for Software Research (1999), the Machine Learning Department (2006) and the Ray and Stephanie Lane Center for Computational Biology (2009). SCS’s seven degree-granting departments draw faculty and students from a wide variety of disciplines, including
+SCS is officially formed CMU’s Faculty Senate in the fall of 1988 agreed to President Richard Cyert’s plan to elevate the Department of Computer Science to college status. In addition to the Computer Science Department, SCS also incorporated the Robotics Institute, the Center for Machine Translation, and researchers from the Information Technology Center, which had developed Andrew. On Dec. 13, 1988, Cyert (H’89) told faculty and staff that Habermann had been appointed CMU’s first Dean of
+
+
+Answer: 

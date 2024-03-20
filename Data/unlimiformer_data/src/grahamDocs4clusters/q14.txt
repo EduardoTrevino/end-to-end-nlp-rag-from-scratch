@@ -1,0 +1,147 @@
+Question: Who is the PI of CLAW Lab?
+
+Context: reproduce experiments (𝑄13, Fig. 8); where we find significant differences and conduct pairwise analyses.5 In general, students suffered most, with a significant difference compared to the large in- dustry sector with a p-value of 0.002 < 0.005 = 𝛼 (Bonferroni-corrected). We further find substantial differences between students and academic PIs (p- value = 0.026) and between academic post-docs and large industry labs (p-value = 0.088).
+Personally Identifiable Information (PII) A basic classifier, similar to Google Cloud NLP (2023a), detects the presence of four categories of personally identifiable information: names, phone numbers, addresses, and emails.
+
+Readability The Flesch–Kincaid readability test (Kincaid et al., 1975) is applied to each document, assigning documents a grade level based on the number of words per sentence and number of syllables per word.
+
+Average Word Length Measured in characters.
+Wallis test indicates that the Null hypothesis cannot be rejected with 𝐻 5 = 16.976 > 𝐻 5 0 = 9.488. While we do not find significant differences in our pairwise comparisons, there are still substantial differences between Ind. (l) and Aca. PI (p-value = 0.0827), as well as Ind. (s) and Ind. (l) (p-value = 0.0850). Even though students reported the low- est number of available GPUs, the differences seem less substantial compared to researchers at small industry (p-value = 0.110). Additionally,
+Instructors: Kurnikova
+
+Spring 2024
+
+Course number: 09616
+
+Title: Neural Networks & Deep Learning in Science
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 3SC 110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Isayev
+
+Spring 2024
+
+Course number: 09621
+
+Title: Welcome to the Future Lab - Science in the Cloud
+
+Units: 6.0
+
+Section: A3
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: WEH 5202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Das
+
+Spring 2024
+Course number: 51239
+
+Title: Prototyping Lab II: Communications
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 10:30AM
+
+End: 12:20PM
+
+Room: MM 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Twigg
+
+Spring 2024
+
+Course number: 51248
+
+Title: Products Studio II: Designing Products for Interactions
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 08:30AM
+
+End: 10:20AM
+
+Room: PH A27
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hong
+
+Spring 2024
+
+Course number: 51249
+End: 10:50AM
+
+Room: PH 107E
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gregory
+
+Fall 2023
+
+Course number: 12356
+
+Title: Fluid Mechanics Lab:
+
+Units: 2.0
+
+Section: A,E,B,F,C,D,Lec,
+
+Days: R, ,F
+
+Start: 08:00AM,09:30AM,12:30PM,11:00AM,03:30PM,07:00PM,
+
+End: 08:20PM,01:50PM,12:20PM,04:50PM,10:50AM,09:20AM,
+
+Room: PH 107H, ,PH 107E
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Gregory
+
+Fall 2023
+
+Course number: 12401
+
+Title: CEE Design: Imagine, Build, Test
+
+Units: 12.0
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+Sigma teams.
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Launching a Robotics Institute In 1979, an executive at Pittsburgh’s Westinghouse Electric Corp., Tom Murrin, collaborated with Jordan and Reddy to create the Robotics Institute, with Reddy as its first director. By 1982, the Computer Science Department included more than 30 faculty members and 100 graduate students.
+nearly 1,700, including undergraduate, master’s and Ph.D. students, and conducted $124 million in research. Indeed, by itself, the Robotics Institute is the largest university robotics research group in the world, with more than 500 people and more than 100 ongoing research projects. A half-century ago, Perlis, Simon and Newell outlined a vision for computer science. The School of Computer Science at CMU remains committed to continuing and extending their vision in the context of big data and
+14. Web search engines, 1994 The World Wide Web was still in its toddler stage when CMU researcher Michael “Fuzzy” Mauldin (CS’83,’89) developed one of the first successful search engines, Lycos. It was the most-visited site on the Web by 1999.
+
+
+Answer: 

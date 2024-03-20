@@ -1,0 +1,59 @@
+Question: Which LTI prof co-authored the "Speech collage: code-switched audio generation by collaging monolingual corpora" paper?
+
+Context: Paper title: 'Improving Massively Multilingual ASR with Auxiliary CTC Objectives' Published year: 2023 Publication venue or conference: IEEE International Conference on Acoustics, Speech, and Signal Processing Authors: Yifan Peng, Jiatong Shi, William Chen, Shinji Watanabe, Brian Yan, Soumi Maiti Summary: This work introduces work on improving performance on FLEURS, a 102-language open ASR benchmark, by conditioning the entire model on language identity (LID), and investigates techniques
+Dirk Goldhahn, Thomas Eckart, and Uwe Quasthoff. Building large monolingual dictionaries at the Leipzig corpora collection: From 100 to 200 languages. In Proceedings of the Eighth Inter- national Conference on Language Resources and Evaluation, LREC, pages 759–765, Istanbul, Turkey, 2012.
+Paper title: 'Multi-lingual and Multi-cultural Figurative Language Understanding' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Alham Fikri Aji, Samuel Cahyawijaya, Perez Ogayo, Anuoluwapo Aremu, Graham Neubig, Anubha Kabra, Genta Indra Winata, Simran Khanuja, Emmy Liu Summary: This work assesses multilingual LMs' abilities to interpret figurative language in zero-shot and few-shot settings, and reveals that each
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

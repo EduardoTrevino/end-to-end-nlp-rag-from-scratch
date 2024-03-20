@@ -1,0 +1,159 @@
+Question: What can PhD students use LTI's computer cluster for?
+
+Context: This work was supported in part by IBM research, the Microsoft Accelerate Foundation Models Research award, and the Google PhD Fellowship. We would also like to thank the computation support from AiMOS, a server cluster for the IBM Research AI Hardware Center. We thank Yizhong Wang, Frank Xu, and Zhengbao Jiang for their insightful discussions and help with the experiments. We thank the anonymous reviewers for their helpful suggestions.
+Levin Tree Search (LTS) is a search algorithm that makes use of a policy (a probability distribution over actions) and comes with a theoretical guar- antee on the number of expansions before reach- ing a goal node, depending on the quality of the policy. This guarantee can be used as a loss func- tion, which we call the LTS loss, to optimize neu- ral networks representing the policy (LTS+NN). In this work we show that the neural network can be substituted with parameterized context models
+LTS with context models, as presented here, cannot di- rectly make use of a value function or a heuristic function, however they could either be binarized into multiple mutex sets, or be used as in PHS* [Orseau and Lelis, 2021] to esti- mate the LTS cost at the solution, or be used as features since the loss function would still be convex (see Appendix C).
+
+Acknowledgments
+Title: Internship Three Electrical and Computer Engineering PhD Students
+
+Units: VAR
+
+Section: A,SV,PP,RW
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: San Jose, California,Kigali, Rwanda,Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Spring 2024
+
+Course number: 18999
+
+Title: ECE Alternative Teaching Assistantship
+
+Units: VAR
+
+Section: A,SV,PP,RW
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Units: 1-48
+
+Section: PP,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Summer 2024
+
+Course number: 11935
+
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: P,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking,Callan
+
+Summer 2024
+
+Course number: 11936
+
+Title: PhD Internship
+
+Units: VAR
+
+Section: P,S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+End:
+
+Room: TBA,DNM DNM
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Spring 2024
+
+Course number: 18997
+
+Title: Internship Two for Electrical and Computer Engineering PhD Students
+
+Units: VAR
+
+Section: A,SV,PP,RW
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: San Jose, California,Kigali, Rwanda,Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Spring 2024
+
+Course number: 18998
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+Q: Can I borrow a school instrument? A: There are several Kiltie-owned instruments available for your use. Loans begin at 4:30 p.m. before the first rehearsal.
+
+Q: What do they wear under those kilts? A: Join and you’ll find out!
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+Many Ph.D. advisors also provide access to computer clusters, cloud computing, or other resources to support computationally -intense research.
+
+Ph.D. students are given access to the LTI’s computer cluster on an as- needed basis, to be used for
+
+course assignments, directed study projects, and/or capstone projects. The LTI cluster provides
+
+storage and computation for projects involving large datasets and/or lengthy computation.
+MS students will be given access to the LTI’s computer cluster on an as-needed basis, to be used for course assignments, directed study projects, and/or the capstone project. The LTI cluster provides storage and computation for projects involving large datasets and/or lengthy computation. 3 MCDS Degree Completion and Certification This section describes the various rules and regulations that determine the attainment of a MCDS degree by the student. 3.1 CMU Degree Completion and Statute of
+used for course assignments, directed study projects , and/or capstone projects. The LTI cluster
+
+provides storage and computation for projects involving large datasets and/or lengthy computation.
+
+3 Master’s Degree Completion and Certification
+
+3.1 Standard Degree Requirements an d Degree Certification
+
+3.1.1 Graduate Students
+
+
+Answer: 

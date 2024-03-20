@@ -1,0 +1,117 @@
+Question: How many credits is the MIIS-16 program?
+
+Context: Course number: 11696
+
+Title: MIIS Capstone Planning Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 11699
+
+Title: MSAII Program Capstone
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11700
+
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,P
+
+Days: TBA,F
+
+Start: ,02:00PM
+
+End: ,03:20PM
+6
+
+mIoU
+
+48.2 49.6
+
+52.8 53.4
+
+52.8 54.2
+
+40.8 41.7
+
+50.3 52.5
+
+50.0 51.2
+
+Table 2. GTA → Cityscapes results: Classwise and mean (over 16 classes) IoU comparison of our DACS+PAC with prior works. † denotes the use of PSPNet [63], * denotes our implementation of SAC with a restricted conﬁguration (GROUP SIZE=2) compared to original SAC method (GROUP SIZE=4). All other methods use DeepLabV2 [9] architecture.
+
+d a o r
+
+k l a w e d i s
+
+g n i d l i u b
+
+l l a w
+
+e c n e f
+
+e l o p
+
+t h g i l
+single iteration of pre-training (80.9 and 80.8 vs 80.7). These results indicate that features used for the ini- tial cluster assignments had a significant effect on downstream performance. GS-16 had significant gains in semantic-related tasks and ASR. However, this came at the cost of performance in other categories, such as detection. On the other hand, GS-8 obtained scores that were more even across the board, having less degradation on detection-related tasks.
+Learning for Language Technologies Part-time education option is available in some cases. MIIS-16 students must take at least 84 units (typically 7 courses) of qualifying and elective courses that satisfy human language, machine learning, and language technology applications breadth requirements.
+MIIS-21 students have to take at least two more courses from the selected concentration area to satisfy their degree requirements, making it total of 108 units (typically 9 courses) of qualifying and elective courses, that also satisfy breadth requirements. For a full list of requirements, read the MIIS Handbook. Curriculum: Click one of the two options below:
+
+MIIS
+
+16
+
+MIIS
+
+21
+10-714, Deep Learning Systems
+
+10-715, Advanced Introduction to Machine Learning
+
+4.5 Practice Requirements
+
+A student must complete at least 66 practice -oriented course units and satisfy the following
+
+practice -oriented requirements for both MIIS -16 and MIIS- 21 programs.
+
+1. Directed study requirement:  Students must pass 24 units (typically 12 units x 2
+
+semesters) in directed study under the supervision of their advisor. Directed study is a
+
+
+Answer: 

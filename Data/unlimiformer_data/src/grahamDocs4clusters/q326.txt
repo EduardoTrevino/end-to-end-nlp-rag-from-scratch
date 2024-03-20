@@ -1,0 +1,181 @@
+Question: Is Yonatan the last author on the plan, eliminate and track paper?
+
+Context: Paper title: 'Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: So Yeon Min, Shrimai Prabhumoye, R. Salakhutdinov, Tom M. Mitchell, Yue Wu, Yonatan Bisk, A. Azaria, Yuan-Fang Li Summary: A framework to use the knowledge in LLMs to simplify the control problem, rather than solving it is proposed, which leads to a significant 15% improvement over SOTA for generalization to human goal
+3 2 0 2
+
+y a M 7
+
+] L C . s c [
+
+2 v 2 1 4 2 0 . 5 0 3 2 : v i X r a
+
+Plan, Eliminate, and Track — Language Models are Good Teachers for Embodied Agents.
+
+Yue Wu 1 So Yeon Min 1 Yonatan Bisk 1 Ruslan Salakhutdinov 1 Amos Azaria 2 Yuanzhi Li 1 3 Tom M. Mitchell 1 Shrimai Prabhumoye 4
+Paper title: 'Computational Language Acquisition with Theory of Mind' Published year: 2023 Publication venue or conference: International Conference on Learning Representations Authors: Hao Zhu, Graham Neubig, Yonatan Bisk, Andy T. Liu, Emmy Liu Summary: It is found that training speakers with a highly weighted ToM listener component leads to performance gains in the authors' image referential game setting, and suggests the potential utility of further incorporating ToM, as well as other
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Noonan
+
+Summer 2024
+
+Course number: 12791
+
+Title: Graduate Project
+
+Units: 0-99
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 12792
+
+Title: Advanced Independent Study
+
+Units: 0-99
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Akinci
+
+Summer 2024
+
+Course number: 12799
+
+Title: Ph.D. Thesis
+Instructors: Yang,Eskenazi,Mortensen,Waibel,Ganapathiraju,Brown,Cassell,Koedinger,Sycara,Frederking,Metze,Rosenfeld,Instructor TBA,Mitamura,Mostow,Levin,Cohen,Fahlman,Singh,Hauptmann,Callan,Smith,TBA,Xing,Mitchell,Nyberg,Langmead,Schultz,Bar-Joseph,Rose,Lavie,Rudnicky,Carley
+
+Spring 2024
+
+Course number: 11930
+
+Title: Dissertation Research
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Spring 2024
+
+Course number: 11935
+Instructors: Mitamura
+
+Fall 2023
+
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar:
+
+Units: 6.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11697
+
+Title: Introduction to Question Answering:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: PH A18A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg, Mitamura
+
+Fall 2023
+
+Course number: 11700
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+notice of this finding, including a list of meas ures that need to be tak en to be removed from 13
+
+academic probation. A student on academic pr obation for two consecutive semesters may be
+
+dropped from the program.
+
+The MSAII program conducts an academic progress re view at the conclusion of each semester in
+
+order to monitor individual student progress towa rd graduation. Should a student’s effort fall
+Language Technologies Institute - Faculty Name: Jamie Callan Email: callan@cs.cmu.edu Office: 5419 Gates & Hillman Centers Research Areas: Information Retrieval, Text Mining and Analytics Phone: 412-268-4525
+
+Language Technologies Institute - Faculty Name: Justine Cassell Email: jcassell@andrew.cmu.edu Office: 5107 Gates & Hillman Centers Phone: 412-204-6268
+
+Language Technologies Institute
+
+Faculty
+
+Name: Mona Diab
+
+Email: mdiab@andrew.cmu.edu
+
+Phone: 412
+
+268
+
+3669
+
+
+Answer: 

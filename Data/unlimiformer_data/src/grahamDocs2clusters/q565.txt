@@ -1,0 +1,19 @@
+Question: What can modeling the conversation with entity graphs be used for?
+
+Context: Paper title: 'Conversational Search with Random Walks over Entity Graphs' Published year: 2023 Publication venue or conference: International Conference on the Theory of Information Retrieval Authors: Gustavo Gonçalves, Jamie Callan, João Magalhães Summary: Experiments show that using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.
+Automata networks, and in particular Boolean networks, are used to model diverse networks of interacting entities. The interaction graph of an automata network is its most important parameter, as it represents the overall architecture of the network. A continuous amount of work has been devoted to infer dynamical properties of the automata network based on its interaction graph only. Robert’s theorem is the seminal result in this area; it states that automata networks with an acyclic
+types using the converged model. The reranking and the entity span proposal skills are excluded in this round because the reranking can already benefit from harder negative for single retrieval (as two skills share the same data) and the entity span proposal does not need to search through a large index. Finally, the data splits cou- pled with harder negatives are used to train our main Chain-of-Skills (COS) and conduct ablation studies.
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+15. Model checking, 1994 CMU professor Edmund Clarke had long stressed the importance of verifying computer hardware and software through a formal problem-solving technique called “model checking.” In 1994, his arguments gained new weight with the discovery that Intel’s amazing new Pentium chip made errors on certain math problems. Clarke would go on to receive the Turing Award for his role in the development of model checking.
+Analytics. Students electing to complete the Analytics concentration will also learn to:
+
+Design, implement and evaluate a software system and machine
+
+learning model on real world datasets at real world scale.
+
+Analyze and document data science requirements in different application domains and survey as well as critique state of the art solutions for those requirements.
+
+Systems. Students electing to complete the Systems concentration will also learn to:
+
+
+Answer: 

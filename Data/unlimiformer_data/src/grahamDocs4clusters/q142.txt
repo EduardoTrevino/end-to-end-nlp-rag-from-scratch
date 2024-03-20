@@ -1,0 +1,171 @@
+Question: Carnegie Mellon University is home to how many members of the National Academy of Engineering (NAE)?
+
+Context: We thank the anonymous reviewers for their help- ful feedback. We express sincere gratitude to the members of the ArticuLabo at Inria Paris for their invaluable assistance in the successful completion of this research, and to the members of the Artic- uLab at Carnegie Mellon University in Pittsburgh for answering our questions about their prior work. This study received support from the French gov- ernment, administered by the Agence Nationale de la Recherche, as part of the "Investissements
+We thank the anonymous reviewers for their help- ful feedback. We express sincere gratitude to the members of the ArticuLab at Inria Paris for their invaluable assistance in the successful completion of this research, and to the members of the Articu- Lab at Carnegie Mellon Pittsburgh for answering our questions about their prior work. This study re- ceived support from the French government, admin- istered by the Agence Nationale de la Recherche, as part of the "Investissements d’avenir"
+3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Instructors: Vasilescu
+
+Spring 2024
+
+Course number: 17806
+
+Title: Software Engineering Independent Study
+
+Units: 1-48
+
+Section: A,M,E,I,K,B,F,G,C,D,N,J,H,L
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Le Goues,Herbsleb,Kang,Fredrikson,Aldrich,Scherlis,Begel,Padhye,Sunshine, Aldrich,Kaestner,Miller,Hellendoorn,Breaux,Garlan
+
+Spring 2024
+
+Course number: 17882
+
+Title: Software Architectures
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 09:30AM
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Howard,Dealmeida,Almarza,Kostyniak,Branson, Allen, Evans,Vosburgh,Defade,Cardenes,Wu,Ferla,Spacagna,Caballero,Schepkin,Instructor TBA,Gruber,Cherian,McGhee,Knox,Thompson, Shields,Dee,Whipple,Aylmer,Shields, Goeres,Kush,Carlisle,van der Sloot,Rusinek, Shields,Houlik, Shields,Shields, Sullivan,Laduke,Shields, Van Hoesen,Williams,Berntsen,Harding,Premo,Teadt,Galbraith,Chiu
+
+Fall 2023
+
+Course number: 57497
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Inductees will be selected by a committee comprised of Carnegie Mellon University staff, faculty, a board of trustee member, coaches and a student representative. The Athletics Hall of Fame will endeavor to induct not less than 15 individuals for induction in its first year and not less than 6 in any year thereafter, subject to the discretion of the Nominating Committee. The below will set forth the criteria for selection to the Athletics Hall of Fame.
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+Committed to extending our founders’ vision The School of Computer Science at Carnegie Mellon University enters its second quarter century as a world-leading educational and research institution, embracing all facets of computing. Its graduate programs are consisted ranked with the best in the world by a leading U.S. magazine, while its undergraduate programs are also rated the best in the U.S. by corporate recruiters. In 2013, SCS had 284 faculty members and a total student enrollment of
+Carnegie Mellon hosts international graduate and undergraduate students who come from more than 90 countries. The Office of International Education (OIE) is the liaison to the University for
+
+all non -immigrant students and scholars, as well the repository for study abroad opportunities.
+
+OIE provides many services including: advising on personal, immigration, study abroad, academic,
+
+and social and acculturation issues; presenting programs of interest such as international career
+including off-campus/ wireless access to databases and e-journals, offer online access. There are 38
+
+also two neighboring libraries open to Carnegie Mellon graduate students: Carnegie Library of
+
+Pittsburgh and University of Pittsburgh Libraries. Visit the University Libraries website for
+
+information about all mentioned library locatio ns and hours, on-line resources and FAQ’s.
+
+13.10  Computing Services
+
+www.cmu.edu/computing/
+
+
+Answer: 

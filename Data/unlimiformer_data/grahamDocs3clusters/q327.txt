@@ -1,0 +1,152 @@
+Question: What year is "Neural Mixed Effects for Nonlinear Personalized Predictions" published in?
+
+Context: Paper title: 'Neural Mixed Effects for Nonlinear Personalized Predictions' Published year: 2023 Publication venue or conference: International Conference on Multimodal Interaction Authors: Louis-Philippe Morency, J. Cohn, T. Wörtwein, Lisa B. Sheeber, Nicholas Allen, R. Auerbach Summary: NME combines the efficiency of neural network optimization with nonlinear mixed effects modeling and improves performance across six unimodal and multimodal datasets, including a smartphone dataset to predict
+Published as a conference paper at ICLR 2023
+
+Defu Cao, Yujing Wang, Juanyong Duan, Ce Zhang, Xia Zhu, Congrui Huang, Yunhai Tong, Bixiong Xu, Jing Bai, Jie Tong, et al. Spectral temporal graph neural network for multivariate time-series forecasting. Advances in neural information processing systems, 33:17766–17778, 2020.
+Idan Achituve, Aviv Shamsian, Aviv Navon, Gal Chechik, and Ethan Fetaya. Personalized federated learning with gaussian processes. Advances in Neural Information Processing Systems, 34:8392– 8406, 2021.
+
+Maruan Al-Shedivat, Jennifer Gillenwater, Eric Xing, and Afshin Rostamizadeh. Federated learning
+
+via posterior averaging: A new perspective and practical algorithms. In ICLR, 2021.
+Course number: 24774
+
+Title: Advanced Control Systems Integration
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:00AM
+
+End: 10:50AM
+
+Room: WEH 5415
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bedillion
+
+Fall 2023
+
+Course number: 24777
+
+Title: Neural Engineering Laboratory
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: M,T
+
+Start: 12:00PM,09:00AM
+
+End: 11:50AM,12:50PM
+
+Room: MI 130,EDS 125
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Smith, Weber,Weber, Smith
+
+Fall 2023
+
+Course number: 24780
+Title: Informational Visualization for Scientists
+
+Units: 6.0
+
+Section: A3
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 3SC 110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Welling
+
+Spring 2024
+
+Course number: 38616
+
+Title: Neural Networks & Deep Learning in Science
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 3SC 110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Isayev
+
+Spring 2024
+
+Course number: 38617
+End: 10:50AM,
+
+Room:  ,POS 145
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Lei
+
+Fall 2023
+
+Course number: 36719
+
+Title: Topics in Experimental Design and Data Analysis for Neuroscience:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room: BH 229A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Kass
+
+Fall 2023
+
+Course number: 36731
+
+Title: Foundations of Causal Inference
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: GHC 4102
+19. Thought reading programs, 2007 Your brain reacts in different ways, depending on what words you’re thinking about --- ways that are measurable with magnetic-resonance imaging, or MRI, machines. CMU researchers Tom Mitchell and Marcel Just are decoding those brain scans and are making progress at reading people’s thoughts.
+1948 saw the first independent orgs and the start of DTD’s run of greatness, but it wasn’t easy, as they barely held off KapSig for the championship.
+8. User interfaces, 1983 Why should humans adapt to fit computers? Shouldn’t computers adapt to fit humans? That was the attitude of CMU researchers, who applied design principles to computer science to develop better, easier-to-use interfaces. They called the new field “human-computer interaction.”
+
+
+Answer: 

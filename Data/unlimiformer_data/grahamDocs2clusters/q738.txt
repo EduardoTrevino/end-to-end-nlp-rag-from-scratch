@@ -1,0 +1,101 @@
+Question: How many authors are on SantaCoder paper?
+
+Context: Paper title: 'SantaCoder: don't reach for the stars!' Published year: 2023 Publication venue or conference: arXiv.org Authors: M. Lappert, Urvashi Bhattacharyya, Niklas Muennighoff, Terry Yue Zhuo, Yacine Jernite, Carolyn Jane Anderson, Qian Liu, Chenghao Mou, Dmitry Abulkhanov, S. Troshin, Hailey Schoelkopf, Manan Dey, Christopher Akiki, Paulo Villegas, Carlos Muñoz Ferrandis, Bernardo Garc'ia del R'io, D. Lansky, Dzmitry Bahdanau, Harm de Vries, Loubna Ben Allal, Arjun Guha, J. Poirier,
+5Two authors on this paper independently annotated the rela- tions, followed by an adjudication phase to resolve disagreements.
+
+each mention, the bi-encoder retrieves the top-k (e.g., k = 8) events via nearest neighbor search.
+Figure 1: The number of unique researchers publishing in ACL venues has increased dramatically, from 715 unique authors in 1980 to 17,829 in 2022.
+Successful applicants will have a minimum TOEFL score of 100 (Reading, Listening, Speaking, Writing scores all 25 or above), IELTS score of 7.5 (Reading 7 or above, Listening 7 or above, Speaking 7.5 or above, Writing 6.5 or above), or DuoLingo score of 120 (Literacy 115 or above, Comprehension 125 or above, Production 100 or above, Conversation 105 or above). Our Institution Code is 4256; the Department Code is 78. Additional details about English proficiency requirements are provided on the
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+
+
+Answer: 

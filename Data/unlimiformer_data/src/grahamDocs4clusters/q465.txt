@@ -1,0 +1,169 @@
+Question: What are the names of the people from CMU who contributed to the paper RIVETER Measuring Power and Social Dynamics Between Entities?
+
+Context: Paper title: 'Riveter: Measuring Power and Social Dynamics Between Entities' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Melanie Walsh, Jimin Mun, Lauren F. Klein, Maarten Sap, Anjalie Field, Maria Antoniak Summary: Riveter greatly improves the accessibility of verb lexica and can facilitate a broad range of future research by organizing the language processing pipeline, providing complete lexicon scores and
+Maria Antoniak, Anjalie Field, Ji Min Mun, Melanie Walsh, Lauren F. Klein, and Maarten Sap. 2023. Riv- eter: Measuring power and social dynamics between entities. In ACL demonstrations.
+
+Katherine Atwell, Sabit Hassan, and Malihe Alikhani. 2022. Appdia: A discourse-aware transformer-based style transfer model for offensive social media con- versations. In Proceedings of the 29th International Conference on Computational Linguistics, pages 6063–6074.
+[118] Xueru Zhang, Mohammadmahdi Khaliligarekani, Cem Tekin, and mingyan liu. 2019. Group Retention when Using Machine Learning in Sequential Decision Making: the Interplay between User Dynamics and Fairness. In Advances in Neural Information Processing Systems 32, H. Wallach, H. Larochelle, A. Beygelzimer, F. d'Alché-Buc, E. Fox, and R. Garnett (Eds.). Curran Associates, Inc., 15269–15278. http://papers.nips.cc/paper/9662-group-retention-when-
+Instructors: Berardone, Gennari, Miranda, Pavetti, Riley, Schmerl
+
+Fall 2023
+
+Course number: 17675
+
+Title: Software Engineering Practicum
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Berardone, Gennari, Miranda, Pavetti, Riley, Telang, Yasar, Schmerl
+
+Fall 2023
+
+Course number: 17679
+
+Title: Thesis Writing for Industrial Software Research
+
+Units: 6.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: CMU REMOTE
+Title: Bias, Objectivity, and the Media's Role in Politics
+
+Units: 6.0
+
+Section: A2
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: GHC 4101
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kliewer
+
+Fall 2023
+
+Course number: 84360
+
+Title: CMU/WSP: Internship Seminar
+
+Units: 24.0
+
+Section: A
+
+Days: M
+
+Start: 06:00PM
+
+End: 08:20PM
+
+Room: MDC 522
+
+Locations: Washington, District of Columbia:Dulles
+
+Instructors: Crowell
+
+Fall 2023
+
+Course number: 84362
+
+Title: Diplomacy and Statecraft
+
+Units: 9.0
+Course number: 17635
+
+Title: Software Architectures
+
+Units: 6.0
+
+Section: 13,A3,D3
+
+Days: F,MW,TR
+
+Start: 11:00AM,07:00PM
+
+End: 08:20PM,12:20PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Merson,Ashok, Pavetti
+
+Spring 2024
+
+Course number: 17636
+
+Title: DevOps: Engineering for Secure Development and Deployment
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasar
+
+Spring 2024
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+12. Java, 1991 As a CMU grad student, James Gosling (CS’83) worked on the Andrew project, which stressed interoperability between computers, whether they were Macs, IBMs or Unix machines. Those lessons served Gosling well when he developed Java, the first programming language able to run on almost any platform.
+16. CAPTCHAs, 2000 “Spam” and malicious attacks were a growing problem on the Internet when hackers developed automated “bots” that could sign up for email and other Web services without human intervention. Luis von Ahn (CS’03,’05), Nick Hopper (CS’04), John Langford (CS’02) and CMU professor Manuel Blum invented a “Completely Automated Public Turing Test to tell Computers and Humans Apart,” or CAPTCHA, to help foil the bots. A later variation, reCAPTCHA, is helping digitize old books and
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+
+
+Answer: 

@@ -1,0 +1,99 @@
+Question: How many authors are listed on the SPAE paper?
+
+Context: Paper title: 'SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs' Published year: 2023 Publication venue or conference: arXiv.org Authors: Lu Jiang, Wolfgang Macherey, A. Hauptmann, David A. Ross, Irfan Essa, K. Murphy, Vivek Kumar, Ming Yang, Yonatan Bisk, Yong Cheng, Lijun Yu, Zhiruo Wang, Yanping Huang Summary: This method marks the first successful attempt to enable a frozen LLM to generate image content while surpassing state-of-the-art performance in image
+We present an alternative view of data, similar to that seen in Figure 1, in Figure 4. Here, we define members of the community as authors with at least three papers total in *CL venues. Authors are counted as “leaving” the community the year after their last *CL publication. We only consider trends in authorship until 2020, as it is difficult to determine if authors who did not publish in the last few years have left the community indefinitely.
+Figure 1: The number of unique researchers publishing in ACL venues has increased dramatically, from 715 unique authors in 1980 to 17,829 in 2022.
+16. CAPTCHAs, 2000 “Spam” and malicious attacks were a growing problem on the Internet when hackers developed automated “bots” that could sign up for email and other Web services without human intervention. Luis von Ahn (CS’03,’05), Nick Hopper (CS’04), John Langford (CS’02) and CMU professor Manuel Blum invented a “Completely Automated Public Turing Test to tell Computers and Humans Apart,” or CAPTCHA, to help foil the bots. A later variation, reCAPTCHA, is helping digitize old books and
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+
+
+Answer: 

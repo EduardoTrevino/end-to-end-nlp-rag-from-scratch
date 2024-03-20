@@ -1,0 +1,161 @@
+Question: What number do all of the Computational Biology classes start with?
+
+Context: Course number: 02702
+
+Title: Computational Biology Seminar
+
+Units: 3.0
+
+Section: A
+
+Days: F
+
+Start: 10:30AM
+
+End: 12:00PM
+
+Room: OFF PITT
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carja
+
+Fall 2023
+
+Course number: 02712
+
+Title: Computational Methods for Biological Modeling and Simulation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Schwartz, Carja
+
+Fall 2023
+
+Course number: 02718
+Instructors: Lugo-Martinez
+
+Spring 2024
+
+Course number: 02499
+
+Title: Independent Study in Computational Biology
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Spring 2024
+
+Course number: 02500
+
+Title: Undergraduate Research in Computational Biology
+
+Units: 6-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Spring 2024
+
+Course number: 02510
+Title: String Algorithms
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: CFA 102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kingsford
+
+Fall 2023
+
+Course number: 02500
+
+Title: Undergraduate Research in Computational Biology
+
+Units: 6-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Fall 2023
+
+Course number: 02512
+
+Title: Computational Methods for Biological Modeling and Simulation
+
+Units: 9.0
+A student may not take more than 60 units per semester, without permission from their academic advisor. Students must maintain full-time enrollment status (minimum of 36 units) in their final semester. 3.3.4 Prerequisite Core Course All MCDS students are expected to pass the 11-637 Foundations of Computational Data Science course by the end of their first semester. Each student must pass 11-637 with a grade of “B” or better. 3.3.5 Plan of study The degree consists of two timing options based on
+New departments, new areas of study Along the way, the Center for Machine Translation became the Language Technologies Institute, and other new departments were formed, including the Human-Computer Interaction Institute (1993), the Institute for Software Research (1999), the Machine Learning Department (2006) and the Ray and Stephanie Lane Center for Computational Biology (2009). SCS’s seven degree-granting departments draw faculty and students from a wide variety of disciplines, including
+17-637 Web Application Development
+
+17-639 Management of Software Development 17-652 Methods: Deciding What to Design 17-653 Managing Software Development
+
+17-766 Software Engineering for Startups 16
+
+02-604 Fundamentals of Bioinformatics
+
+02-718 Computational Medicine
+
+Independent study (11-636) is encouraged. The process is that you find a faculty
+
+member willing to supervise your independent study,  assign a number of credits not to
+
+
+Answer: 

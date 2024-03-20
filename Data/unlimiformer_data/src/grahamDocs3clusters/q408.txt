@@ -1,0 +1,142 @@
+Question: In spring 2024, Who are the instructors for course 15112?
+
+Context: Renze Lou, Kai Zhang, and Wenpeng Yin. 2023. Is prompt all you need? no. a comprehensive and broader view of instruction learning. ArXiv, abs/2303.10475.
+
+Ximing Lu, Sean Welleck, Liwei Jiang, Jack Hessel, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, and Yejin Choi. 2022a. Quark: Controllable text generation with reinforced unlearning. CoRR, abs/2205.13636.
+6. Michele Chan Santos, “At UTSA, Open Educational Resources Deliver Savings and Reduce Barriers,” Texas Library Journal 96, no. 1 (2020): 7–9, https://txla.org/wp-content/uploads/2020/06/TLJ-Spring-2020_Issuu.pdf (accessed 21 July 2023).
+
+7. Erin Davis et al., “Enhancing Teaching and Learning: Libraries and Open Educational Resources in the Classroom,” Public Services Quarterly 12, no. 1 (2016): 22–35, DOI: https://doi.org/10.1080/15228959.2015.1108893 (accessed 11 July 2023).
+Rohan Taori, Ishaan Gulrajani, Tianyi Zhang, Yann Dubois, Xuechen Li, Carlos Guestrin, Percy Liang, and Tatsunori B. Hashimoto. Stanford Alpaca: An instruction-following LLaMA model. https://github.com/tatsu-lab/stanford_alpaca, 2023.
+
+[Tie12]
+
+J¨org Tiedemann. Parallel data, tools and interfaces in OPUS. In Proceedings of the Eighth Inter- national Conference on Language Resources and Evaluation, LREC, pages 2214–2218, Istanbul, Turkey, 2012.
+
+35
+
+[TLI+23]
+Instructors: Xhakaj,Reis,Rivers
+
+Spring 2024
+
+Course number: 15111
+
+Title: College Programming and Computer Science
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pre-College Pittsburgh
+
+Instructors: Stehlik
+
+Spring 2024
+
+Course number: 15112
+
+Title: Fundamentals of Programming and Computer Science
+
+Units: 12.0
+
+Section: E,I,F,D, ,P,C,J,A,K,W,B,Lec 1,Lec 2,H,L,M,R,O,Q,G,N
+
+Days: W,F,UTR,TR
+Instructors: Gkioulekas
+
+Spring 2024
+
+Course number: 15672
+
+Title: Real-Time Graphics
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCann
+
+Spring 2024
+
+Course number: 15686
+
+Title: Neural Computation
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lee
+
+Spring 2024
+
+Course number: 15689
+Instructors:  ,Cervesato, Kohlbrenner,Hammoud
+
+Spring 2024
+
+Course number: 15150
+
+Title: Principles of Functional Programming
+
+Units: 12.0
+
+Section: E,I,F,D,U,P,C,J,S,A,K,B,T,Lec 1,Lec 2,H,L,M,R,O,Q,G,N
+
+Days: W,TR
+
+Start: 08:00AM,09:30AM,05:00PM,02:00PM,11:00AM,03:30PM,07:00PM,12:30PM
+
+End: 08:20PM,01:50PM,03:20PM,12:20PM,04:50PM,06:20PM,10:50AM,09:20AM
+
+Room: DH 2315,GHC 5208,GHC 5207,GHC 5210,DH 2210
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Erdmann, Kaynar,Kaynar, Erdmann
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+
+
+Answer: 

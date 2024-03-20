@@ -1,0 +1,159 @@
+Question: For the MCDS degree do you need to do a capstone project? Yes/no
+
+Context: Title: Software Management Capstone Project
+
+Units: 3,6,12,24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: San Jose, California
+
+Instructors: Mercier
+
+Summer 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Summer 2024
+
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: T
+
+Start: 08:00AM
+Title: ConLanging: Lrng. Ling.⟪ Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11634
+
+Title: MCDS Capstone Planning Seminar:
+
+Units: 12.0
+Days: TR
+
+Start: 09:30AM,11:00AM
+
+End: 10:50AM,12:20PM
+
+Room: GHC 4307,BH A36
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sap, Strubell,Strubell, Sap
+
+Fall 2023
+
+Course number: 11632
+
+Title: Data Science Capstone
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Fall 2023
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+completing courses in the core curriculum, the MCDS seminar, electives and capstone project.  The capstone project consists of students working at CMU on a research project, or on an industry-sponsored project.  The student must complete 144 eligible units of study. This includes eight core and concentration courses, two 12-unit seminar courses and two 12-unit capstone courses. All students complete a common MCDS core in their first two semesters, consisting of five courses. All students must
+The program consists entirely of coursework and a Capstone Project, and no Master’s Thesis is required. All Capstone projects are structured as research activities and may lead to a publication. There is no Doctoral program in Computational Data Science. Because of the highly selective nature of the MCDS program and quality of the MCDS curriculum, performing well in the program will give a boost to a PhD application. MS graduates are welcome to apply to CMU PhD programs but will not receive
+typically a 16-month program consisting of courses, seminars, a required Capstone Project and a required summer internship or practical training. While some MCDS graduates continue on to PhD programs in the LTI or other leading universities, most graduates go on to jobs in 7corporate research and development laboratories.
+
+
+Answer: 

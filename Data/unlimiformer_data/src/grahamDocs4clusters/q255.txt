@@ -1,0 +1,233 @@
+Question: In the paper "COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements", what is the name of the dataset created for studying the contextual dynamics of offensiveness?
+
+Context: Paper title: 'COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Haojie Zhu, Thomas Davidson, Xuhui Zhou, Akhila Yerukola, Jena D. Hwang, Swabha Swayamdipta, Maarten Sap Summary: COBRA frames are introduced, the first context-aware formalism for explaining the intents, reactions, and harms of offensive or biased statements grounded in
+3 2 0 2
+
+n u J
+
+9
+
+] L C . s c [
+
+2 v 5 8 9 1 0 . 6 0 3 2 : v i X r a
+
+COBRA
+
+Frames:
+
+Contextual Reasoning about Effects and Harms of Offensive Statements
+
+Xuhui Zhou♡
+
+Hao Zhu♡
+
+Akhila Yerukola♡
+
+Thomas Davidson♠
+
+Jena D. Hwang♣
+
+Swabha Swayamdipta♢
+
+Maarten Sap♡♣ ♠Department of Sociology, Rutgers University ♣Allen Institute for AI
+
+♡Language Technologies Institute, Carnegie Mellon University
+
+♢Thomas Lord Department of Computer Science, University of Southern California
+We introduce COBRA frames, the first context-aware formalism for explaining the in- tents, reactions, and harms of offensive or bi- ased statements grounded in their social and sit- uational context. We create COBRACORPUS, a dataset of 33k potentially offensive statements paired with machine-generated contexts and free-text explanations of offensiveness, implied biases, speaker intents, and listener reactions.
+Title: Bias, Objectivity, and the Media's Role in Politics
+
+Units: 6.0
+
+Section: A2
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: GHC 4101
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kliewer
+
+Fall 2023
+
+Course number: 84360
+
+Title: CMU/WSP: Internship Seminar
+
+Units: 24.0
+
+Section: A
+
+Days: M
+
+Start: 06:00PM
+
+End: 08:20PM
+
+Room: MDC 522
+
+Locations: Washington, District of Columbia:Dulles
+
+Instructors: Crowell
+
+Fall 2023
+
+Course number: 84362
+
+Title: Diplomacy and Statecraft
+
+Units: 9.0
+Course number: 95888
+
+Title: Data Focused Python
+
+Units: 6.0
+
+Section: C3,Z3
+
+Days: TBA,TR
+
+Start: ,05:00PM
+
+End: ,06:20PM
+
+Room: DNM DNM,HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ostlund
+
+Spring 2024
+
+Course number: 95889
+
+Title: Applied Threat Analysis
+
+Units: 6.0
+
+Section: A4
+
+Days: T
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1004
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Snoke
+
+Spring 2024
+
+Course number: 95891
+
+Title: Introduction to Artificial Intelligence
+Instructors: Goranson
+
+Fall 2023
+
+Course number: 90798
+
+Title: Systems Analysis: Environmental Policy
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 2003
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mehalik
+
+Fall 2023
+
+Course number: 90800
+
+Title: Exploratory Data Analysis and Visualization with Python
+
+Units: 6.0
+
+Section: B2,A2
+
+Days: TR
+
+Start: 09:30AM,11:00AM
+
+End: 10:50AM,12:20PM
+
+Room: HBH 1005
+
+Locations: Pittsburgh, Pennsylvania
+In the spring, the Task Force partnered with SME Branding — a firm with more than 17 years of experience creating mascots for professional sports teams and universities — to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.
+Fringe vehicles often are named with the letter "B," like Boson, Blueshift, Bissa and Bumper. Other teams, such as Apex, often use names that connotate fire, while the SDC (Student Dormitory Committee) team, uses names such as Vice, Bane, Avarice and Malice.
+
+This year's buggy names will be under wraps until Thursday, when the Buggy Showcase will take place from noon to 2 p.m. in Weigand Gymnasium in the Cohon University Center. It's one of the few times spectators can see buggies up close.
+front hills, causing more congestion for spectators on those hills. A police tow truck was present, but it was not permitted to clear the street. Up the front hills, DTD was in the lead, followed by PiKA and KapSig. DTD went into the freerolls first, but the drama was behind them. As PiKA entered the freeroll, PiKA’s buggy crowded KapSig’s buggy and forced KapSig wide, causing KapSig to swerve and hit at least 1 spectator (the Tartan says that KapSig “got out pencil and paper to try to figure
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

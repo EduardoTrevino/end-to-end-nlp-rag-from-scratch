@@ -1,0 +1,235 @@
+Question: In fall 2023, What is the course title for unit 02090?
+
+Context: Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong. 2023a. Compositional ex- emplars for in-context learning. arXiv preprint arXiv:2302.05698.
+
+Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. 2023b. In-context instruction learning. arXiv preprint arXiv:2302.14691.
+
+Yiming Zhang, Shi Feng, and Chenhao Tan. 2022a. Active example selection for in-context learning. CoRR, abs/2211.04486.
+Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+Renze Lou, Kai Zhang, and Wenpeng Yin. 2023. Is prompt all you need? no. a comprehensive and broader view of instruction learning. ArXiv, abs/2303.10475.
+
+Ximing Lu, Sean Welleck, Liwei Jiang, Jack Hessel, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, and Yejin Choi. 2022a. Quark: Controllable text generation with reinforced unlearning. CoRR, abs/2205.13636.
+Fall 2023
+
+Course number: 57780
+
+Title: Black American Music Seminar
+
+Units: 6.0
+
+Section: A,B
+
+Days: MW
+
+Start: 01:00PM,02:00PM
+
+End: 01:50PM,02:50PM
+
+Room: HOA 224
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Keeling
+
+Fall 2023
+
+Course number: 57781
+
+Title: Collaborative Piano I
+
+Units: 3-9
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carver
+
+Fall 2023
+
+Course number: 57782
+
+Title: Collaborative Piano II
+
+Units: 3-9
+
+Section: A
+Instructors: Leben
+
+Fall 2023
+
+Course number: 46901
+
+Title: Financial Computing I
+
+Units: 6.0
+
+Section: I1,M1
+
+Days: TR
+
+Start: 01:00PM
+
+End: 02:30PM
+
+Room: BRD 507,TCS 250
+
+Locations: New York, New York,Pittsburgh, Pennsylvania
+
+Instructors: Ostlund
+
+Fall 2023
+
+Course number: 46904
+
+Title: Financial Computing IV
+
+Units: 6.0
+
+Section: I1,M1
+
+Days: MW
+
+Start: 01:00PM
+
+End: 02:30PM
+
+Room: BRD 507,TCS 250
+
+Locations: New York, New York,Pittsburgh, Pennsylvania
+
+Instructors: Kramkov
+
+Fall 2023
+Fall 2023
+
+Course number: 49796
+
+Title: Software Management Independent Study
+
+Units: VAR
+
+Section: A1,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: San Jose, California
+
+Instructors: Fang, Mercier, Shaikh,Mercier
+
+Fall 2023
+
+Course number: 49800
+
+Title: Start Up Creation in Practice:
+
+Units: 6.0
+
+Section:  ,A1,A2
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: B23 212,
+
+Locations:  ,San Jose, California
+
+Instructors: Root
+
+Fall 2023
+
+Course number: 49802
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+Classes can be found at https://enr-apps.as.cmu.edu/o pen/SOC/SOCServlet/search .
+
+Students are then required to take and su ccessfully complete the courses below:
+
+2) The Core Courses (87 units) - Must be taken in THIS SEQUENCE:
+
+11-651 – AI & Future Markets – (12 units). First  Fall semester. Only open to MSAII.
+
+17-762 – Law of Computer Technolo gy (12 units). First Fall semester
+
+11-695 – AI Engineering (12 un its). First Spring semester
+
+
+Answer: 

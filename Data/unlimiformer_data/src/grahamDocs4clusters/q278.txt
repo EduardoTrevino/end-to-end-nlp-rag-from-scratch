@@ -1,0 +1,263 @@
+Question: What is the language technologies institute's fax number according to the MCDS handbook?
+
+Context: Liangze Li Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 liangzel@andrew.cmu.edu
+
+Rita Singh Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 rsingh@cs.cmu.edu
+
+Bhiksha Raj Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 bhiksha@cs.cmu.edu
+
+Abstract
+3 2 0 2
+
+n u J
+
+6 2
+
+] L C . s c [
+
+1 v 3 0 1 5 1 . 6 0 3 2 : v i X r a
+
+Structured Dialogue Discourse Parsing
+
+Ta-Chung Chi Language Technologies Institute Carnegie Mellon University tachungc@andrew.cmu.edu
+
+Alexander I. Rudnicky Language Technologies Institute Carnegie Mellon University air@cs.cmu.edu
+
+Abstract
+3 2 0 2
+
+r a
+
+M 2
+
+] L C . s c [
+
+1 v 2 0 5 1 0 . 3 0 3 2 : v i X r a
+
+Published as a conference paper at ICLR 2023
+
+COMPUTATIONAL LANGUAGE ACQUISITION WITH THEORY OF MIND
+
+Andy Liu Harvey Mudd College Claremont, CA, USA {ajliu}@g.hmc.edu
+
+Hao Zhu, Emmy Liu, Yonatan Bisk, Graham Neubig Language Technologies Institute Carnegie Mellon University Pittsburgh, PA, USA {zhuhao, mengyan3, ybisk, gneubig}@cs.}cmu.edu
+
+ABSTRACT
+Title: Ethics, Social Biases, and Positive Impact in Language Technologies
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 153
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sap
+
+Spring 2024
+
+Course number: 11860
+
+Title: Quantum Computing, Cryptography and Machine Learning Lab
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Singh, Ramakrishnan
+
+Spring 2024
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Fall 2023
+
+Course number: 82703
+
+Title: Translation Technologies
+
+Units: 9-12
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCullough
+
+Fall 2023
+
+Course number: 82704
+
+Title: Translation Workshop I
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCullough
+
+Fall 2023
+
+Course number: 82706
+
+Title: Translation Workshop III
+
+Units: 18.0
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+conflicts.
+
+The Language Technologies Institute is located primarily on the 5
+
+th and 6th floors  of the Gates
+
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus. The address and contact
+
+information of the LTI are:
+
+Language Technologies Institute
+
+Carnegie Mellon University
+
+5000 Forbes Avenue
+
+Gates Hillman Complex 5402, LTI
+
+Pittsburgh, PA 152 41-3891
+
+412- 268-6591 (phone)
+
+412- 268-6298 (fax)
+
+http://www.lti.cs.cmu.edu/
+
+MLT Graduate Student Handbook  Page 8
+The Language Technologies Institute is located primarily on the 5th and 6th floors of the Gates
+
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus . The address and contact
+
+information of the LTI are :
+
+Language Technologies Institute
+
+Carnegie Mellon University
+
+5000 Forbes Avenue
+
+Gates Hillman Complex 5404 , LTI
+
+Pittsburgh, PA 15241 -3891
+
+412-268-6591  (phone)
+
+412-268-6298 (fax)
+
+http://www.lti.cs.cmu.edu/
+
+1.5 Carnegie Mellon University Statement of Assurance
+268-4525 Fax: (412) 268-7287 Robert Frederking Graduate Program Chair Language Technologies Institute School of Computer Science Carnegie Mellon University Gates-Hillman Center 6515 5000 Forbes Avenue, Pgh, PA 15213 Phone: (412) 268 -6656 Mona Diab, LTI Director Language Technologies Institute School of Computer Science Carnegie Mellon University Gates-Hillman Center 5723 5000 Forbes Avenue, Pgh, PA 15213 Phone: (412) 268-3669
+
+
+Answer: 

@@ -1,0 +1,194 @@
+Question: What is the target duration of the LTI PhD program in months?
+
+Context: 000 problems each, with the same initial budget (2000 node expansions for Sokoban and The Witness, 7000 for STP) and stop as soon as the training set is entirely solved. Training LTS+CM for these domains took less than 2 hours each. Harder Sokoban. Additionally, we compare algorithms on the Boxoban ‘hard’ set of 3332 problems. Guez et al. [2019] trained a convLSTM network on the medium- difficulty dataset (450k problems) with a standard actor-critic setup — not the LTS loss — and used LTS
+Hi, thanks for taking the time to talk with me! My collaborators on this project and I work for CMU. We can be reached at [emails] should you have any questions for us during the study or after.
+
+This interview will take between 45 minutes and an hour. There will be no compensation for participation.
+
+Participation is always voluntary, and you may refuse to participate in the research study or stop participation at any time.
+On the Rubik’s cube, we report results for LTS+CM at var- ious stages of its training. After just 300k cubes (2 hours 10 minutes), scrambled at most 15 times (these are much eas- ier than fully scrambled cubes) it already finds a policy that solves the whole random test set — scrambled 100 times, which is usually considered more than sufficient for gener- ating random cubes [Korf, 1997]. At 400k cubes, the policy is already substantially faster than previous work. We trained the network for up
+Units: 1-48
+
+Section: PP,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Summer 2024
+
+Course number: 11935
+
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: P,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking,Callan
+
+Summer 2024
+
+Course number: 11936
+
+Title: PhD Internship
+
+Units: VAR
+
+Section: P,S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hovis, Pinnow
+
+Spring 2024
+
+Course number: 38110
+
+Title: ENGAGE in Service
+
+Units: 1.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11929
+
+Title: Masters Thesis II
+
+Units: 5-36
+
+Section: BC,TT
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: TBA,Instructor TBA
+
+Fall 2023
+
+Course number: 11930
+
+Title: Dissertation Research
+
+Units: 1-48
+
+Section: A,PP
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+
+Course number: 11935
+
+Title: LTI Practicum
+
+Units: 1-36
+4.1 Duration of Study
+
+The target duration of the LTI Ph.D.  is five years, although six years is also common.
+
+Carnegie Mellon graduate students are expected to complete their degree requirements within the standard length of time for their program of study as outlined in this Graduate Student Handbook. Upon completion of the graduate program degree requirements, the degree will be certified by the student’s academic program in the semester in which the student completes the
+
+requirements.
+typically a 16-month program consisting of courses, seminars, a required Capstone Project and a required summer internship or practical training. While some MCDS graduates continue on to PhD programs in the LTI or other leading universities, most graduates go on to jobs in 7corporate research and development laboratories.
+Accommodation for Gestational Parents or during a Formal Leave of Absence. Continued LTI Ph.D.  Graduate Student Handbook  Page 32
+
+academic stipend funding may be extended by two (2) weeks, for a total of eight (8) weeks, if an
+
+absence longer than six weeks is medically necessary.
+
+Doctoral Sti pend Continuation (Non- gestational Parents) – Doctoral students who receive an
+
+
+Answer: 

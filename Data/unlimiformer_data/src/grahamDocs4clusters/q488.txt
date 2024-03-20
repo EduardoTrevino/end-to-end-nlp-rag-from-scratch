@@ -1,0 +1,199 @@
+Question: Which LTI prof co-authored the "Speech collage: code-switched audio generation by collaging monolingual corpora" paper?
+
+Context: Paper title: 'Improving Massively Multilingual ASR with Auxiliary CTC Objectives' Published year: 2023 Publication venue or conference: IEEE International Conference on Acoustics, Speech, and Signal Processing Authors: Yifan Peng, Jiatong Shi, William Chen, Shinji Watanabe, Brian Yan, Soumi Maiti Summary: This work introduces work on improving performance on FLEURS, a 102-language open ASR benchmark, by conditioning the entire model on language identity (LID), and investigates techniques
+Paper title: 'ML-SUPERB: Multilingual Speech Universal PERformance Benchmark' Published year: 2023 Publication venue or conference: Interspeech Authors: Xuankai Chang, Shang-Wen Li, Jiatong Shi, Wei Huang, Dan Berrebbi, Ho-Lam Chung, Hung-yi Lee, William Chen, En-Pei Hu, Shinji Watanabe, Abdel-rahman Mohamed Summary: None
+Paper title: 'Multi-lingual and Multi-cultural Figurative Language Understanding' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Alham Fikri Aji, Samuel Cahyawijaya, Perez Ogayo, Anuoluwapo Aremu, Graham Neubig, Anubha Kabra, Genta Indra Winata, Simran Khanuja, Emmy Liu Summary: This work assesses multilingual LMs' abilities to interpret figurative language in zero-shot and few-shot settings, and reveals that each
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+Room: BH A51, ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11490
+
+Title: LTI Minor Project - Seniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11492
+
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+You can find our official tartan on various items in the University Store.
+
+Source: "Tartan: Romancing the Plaid," by Jeffrey Banks and Doria De La Chapelle
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

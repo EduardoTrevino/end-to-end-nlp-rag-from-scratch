@@ -1,0 +1,179 @@
+Question: When did Andrew Carnegie emigrate from Scotland?
+
+Context: Noah A. Smith♢♠ Hannaneh Hajishirzi♢♠ ♠Allen Institute for Artificial Intelligence ♢Paul G. Allen School of Computer Science & Engineering, University of Washington ♡Language Technologies Institute, Carnegie Mellon University ♣Institute for Language, Cognition and Computation, University of Edinburgh {haop,jessed,matthewp,kylel,sams,darrellp,beltagy,petew}@allenai.org {qicao,nasmith,hannaneh}@cs.washington.edu {jaredfern,strubell}@cmu.edu, tom.sherborne@ed.ac.uk
+
+Abstract
+3 2 0 2
+
+p e S 4 1
+
+] L C . s c [
+
+1 v 2 1 4 7 0 . 9 0 3 2 : v i X r a
+
+Advancing Regular Language Reasoning in Linear Recurrent Neural Networks Ting-Han Fan∗ Independent Researcher tinghanf@alumni.princeton.edu
+
+Ta-Chung Chi∗ Carnegie Mellon University tachungc@andrew.cmu.edu
+
+Alexander I. Rudnicky Carnegie Mellon University air@cs.cmu.edu
+
+Abstract
+Language-AgnosticTransformersandAssessingChatGPT-BasedQueryRewritingforMultilingualDocument-GroundedQASrinivasGowriraj∗,SohamDineshTiwari∗,MitaliPotnis∗,SrijanBansal,TerukoMitamura,andEricNyberg{sgowrira,sohamdit,mpotnis,srijanb,teruko,en09}@andrew.cmu.eduLanguageTechnologiesInstitute,CarnegieMellonUniversityAbstractTheDialDoc2023sharedtaskhasexpandedthedocument-groundeddialoguetasktoen-compassmultiplelanguages,despitehavinglimitedannotateddata.Thispaperassessestheeffectivenessofbothlanguage-ag
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stehlik
+
+Fall 2023
+
+Course number: 15593
+
+Title: Independent Study in Computer Science
+
+Units: 3-18
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stehlik
+
+Fall 2023
+
+Course number: 15604
+
+Title: Immigration Course
+
+Units: 3.0
+
+Section: A
+
+Days: M
+
+Start: 07:00PM
+
+End: 07:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eckhardt, O'Hallaron
+
+Fall 2023
+Course number: 76442
+
+Title: Black Lives in Pre-1900 Britain
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 4707
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Makonnen
+
+Spring 2024
+
+Course number: 76456
+
+Title: Independent Study in Film & Media Studies
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hinkelman
+
+Spring 2024
+
+Course number: 76458
+
+Title: Sociology of Literature & Culture
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: England
+
+Spring 2024
+
+Course number: 76461
+
+Title: Refugee Stories: Literature, Art and Film
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH 125D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Aguiar
+
+Spring 2024
+
+Course number: 76462
+
+Title: Advanced Fiction Workshop
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 4707
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gonzalez
+Scotland, in 1835. Carnegie came to the United States in 1848 and founded Carnegie Technical Schools in Pittsburgh in 1900.
+Carnegie Mellon's official mascot debuted at the Nov. 10, 2007 home football game. The graphic features a profile of a distinguished, bold Scottish terrier sporting a plaid scarf around his neck. The dog is contained in a shield, representing Carnegie Mellon's Scottish heritage.
+
+The Task Force then partnered with a mascot costume company to design our Scottish terrier in the winter of 2007. The official Scotty costume was unveiled at the 2008 Spring Carnival.
+The Kiltie Band
+
+The Kiltie Band began in 1908 with a group of just seven students dedicated to supporting Carnegie Tech football, and today's Kiltie Band continues a tradition of excellence originated over a century ago. The Band took the field for its first official performance on November 25th, 1922, on what would have been Andrew Carnegie's 87th birthday.
+Andrew Carnegie
+
+A self-educated "working boy" who loved books, Andrew Carnegie emigrated from Scotland in 1848 and settled in Pittsburgh, Pa. Attending night school and borrowing books, Carnegie went from factory worker in a textile mill to successful entrepreneur and industrialist. He rose to prominence by founding what became the world's largest steel producing company by the end of the 19th century.
+At one point the richest man in the world, Carnegie believed that "to die rich is to die disgraced." He turned his attention to writing, social activism and philanthropy, determined to establish educational opportunities for the general public where few existed. In 1900, he donated $1 million for the creation of a technical institute for the city of Pittsburgh, envisioning a school where working-class men and women of Pittsburgh could learn practical skills, trades and crafts that would enhance
+engineer students to take courses in humanities and social sciences in order to better understand the needs of society. Carnegie died in 1919, but his vision for an educated public lived on after him.
+
+
+Answer: 

@@ -1,0 +1,176 @@
+Question: According to the MSAII handbook, who is the associate dean for masters programs?
+
+Context: Anita Habók is an associate professor at the Institute of Education, University of Szeged, Hungary. Her research areas mainly include learning to learn, meaningful learning, concept maps, EFL language and reading strategies.
+
+Authors and Affiliations
+
+Lan Anh Thuy Nguyen1
+
+Anita Habók2
+
+Anita Habók habok@edpsy.u-szeged.hu
+
+1 Doctoral School of Education, University of Szeged, Szeged, Hungary 2
+This editorial represents a collaborative effort between the current co-editors-in-chief of the International Journal of Computer-Supported Collaborative Learning (ijCSCL) and the recent co-editor-in-chief of the Journal of Learning Analytics (JLA), Alyssa Wise, who is also a member of the ijC(LA) have made a presence in ijCSCL. This issue in particular comprises four full articles within this scope, in addition to a timely exposition on Col- laborative Learning from an ethics perspective.
+The authors are grateful to Tom Goldstein, Olivia Wiles, Katherine Lee, Austin Tarango, Ian Wilbur, Jeff Dean, Andreas Terzis, Robin Rombach, and Andreas Blattmann for comments on early drafts of this paper.
+
+Nicholas, Milad, Matthew, and Daphne are employed at Google, and Jamie and Borja are employed at Deep- Mind, companies that both train large machine learning models (including diffusion models) on both public and private datasets.
+
+Eric Wallace is supported by the Apple Scholars in
+Instructors: Instructor TBA,Cupkova
+
+Spring 2024
+
+Course number: 48703
+
+Title: Master's Project
+
+Units: 18-36
+
+Section: A,E,B,F,G,C,D,H
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cochran,Kim,Cardoso Llach,Instructor TBA,Loftness,Krishnamurti
+
+Spring 2024
+
+Course number: 48704
+
+Title: Internship (MS & PhD)
+
+Units: 0-18
+
+Section: A,R,I
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Lee,Loftness
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cupkova
+
+Summer 2024
+
+Course number: 48703
+
+Title: Master's Project
+
+Units: 18-36
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 48704
+
+Title: Internship (MS & PhD)
+
+Units: 0-18
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cochran, Lee, Bard, Loftness, Krishnamurti, Cupkova, Cardoso Llach
+Instructors: Pisztora,Wiesel,Hrusa,Bukh,Bohman,Tkocz,Shkolnikov,Grossberg,Frieze,Neumayer,Pegden,Frick,Anderson,Rosenzweig,Instructor TBA,Schimmerling,Tice,Statman,Tetali,Conley,Kinderlehrer,Fonseca,Young,Loh,Cummings,Slepcev,Iyer,Walkington,Leoni,Kramkov,Larsson,Tikhomirov
+
+Spring 2024
+
+Course number: 21901
+
+Title: Master's Degree Research
+
+Units: 0-99
+
+Section: E,I,F,D,P,C,J,S,A,K,B,T,H,L,M,R,O,Q,G,N
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+and by the SCS Associate Dean for Masters Programs. The waiver request must explain the
+
+exceptional circumstances that wa rrant an extension. For cases in which a waiver is granted,
+
+the waiver will cover specific courses and will specify a time period for completion of the
+
+program.
+
+See also the ‘Duration of Study’ policy.
+
+11.7 Residency Requirement
+
+The MSAII is a full-time, in-resid ence program conducted only on the Pittsburgh campus. In
+Students seeking guidance about their program of study and degree requirements should consult
+
+with their academic advisor and/or appropriate associate dean.
+
+3.11.2  Financial Aid and Student Account
+provides information on all deadl ines including registration date s, class start dates, add/drop
+
+deadlines, exam dates and more.
+
+7 School and Departmental Information
+
+The following are key personnel with whom you may  interact during your time at Carnegie
+
+Mellon:
+
+Martial Hebert
+
+Dean, School of Computer Science 9
+
+University Professor
+
+GHC 6105  412-268-5704
+
+hebert@cs.cmu.edu
+
+https://www.cs.cmu.edu/~hebert/
+
+David Garlan Associate Dean for Master’s Programs, SCS Professor TCS 420
+
+
+Answer: 

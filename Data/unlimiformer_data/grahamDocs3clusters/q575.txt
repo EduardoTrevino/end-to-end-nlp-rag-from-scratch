@@ -1,0 +1,158 @@
+Question: What is the DialDoc 2023 shared task about?
+
+Context: 101 Proceedings of the Third DialDoc Workshop on Document-grounded Dialogue and Conversational Question Answering, pages 101–108 July 13, 2023 ©2023 Association for Computational Linguistics
+Pushpak Bhattacharyya, Rajen Chatterjee, Markus Freitag, Diptesh Kanojia, Matteo Negri, and Marco Turchi. 2022. Findings of the WMT 2022 shared task on automatic post-editing. In Proceedings of the Seventh Conference on Machine Translation (WMT), pages 109–117, Abu Dhabi, United Arab Emirates (Hybrid). As- sociation for Computational Linguistics.
+Thiago Castro Ferreira, Claire Gardent, Nikolai Ilinykh, Chris van der Lee, Simon Mille, Diego Moussallem, and Anastasia Shimorina. 2020. The 2020 bilingual, bi-directional WebNLG+ shared task: Overview and evaluation results (WebNLG+ 2020). In Proceed- ings of the 3rd International Workshop on Natu- ral Language Generation from the Semantic Web (WebNLG+), pages 55–76, Dublin, Ireland (Virtual). Association for Computational Linguistics.
+Fall 2023
+
+Course number: 53831
+
+Title: Building Virtual Worlds
+
+Units: 24.0
+
+Section: A,
+
+Days: R,T
+
+Start: 10:00AM,03:00PM
+
+End: 05:20PM,03:20PM
+
+Room: PTC MPR
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors:  ,Culyba, Walton
+
+Fall 2023
+
+Course number: 53871
+
+Title: Role Playing Game Writing Workshop
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: PTC 2301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Klug
+
+Fall 2023
+
+Course number: 53882
+Instructors: Bonaldi,Liang,Akguc
+
+Fall 2023
+
+Course number: 70204
+
+Title: Business Leadership Endeavor II:
+
+Units: 3.0
+
+Section: B1, ,A1,C1
+
+Days:  ,T
+
+Start: 08:00AM, ,12:30PM,02:00PM
+
+End: 09:20AM, ,01:50PM,03:20PM
+
+Room:  ,TEP 3808
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Jafry O'Connor
+
+Fall 2023
+
+Course number: 70207
+
+Title: Probability and Statistics for Business Applications:
+
+Units: 9.0
+
+Section: A, ,B,Lec
+
+Days:  ,F,MW
+
+Start:  ,12:00PM
+
+End:  ,12:50PM
+Instructors: Instructor TBA,Hibshi
+
+Fall 2023
+
+Course number: 14740
+
+Title: Fundamentals of Telecommunications Networks
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CIC 1201
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bustamante
+
+Fall 2023
+
+Course number: 14741
+
+Title: Introduction to Information Security
+
+Units: 12.0
+
+Section: A,Lec 2,B,Lec 1
+
+Days: F,TR
+
+Start: 09:30AM,11:00AM
+
+End: 11:50AM,10:50AM
+
+Room: INI DEC,CIC 1201
+
+Locations: Pittsburgh, Pennsylvania
+https://www.cmu.edu/student-success/ The Student Academic Success Center’s (SASC) work to support success focuses on creating spaces for students to engage in their coursework and approach to learning through many group and individual program options. SASC supports student success by providing academic coaching, subject-specific tutoring, effective communication strategies, accommodations for students with disabilities, and language support for multilingual learners.
+their tenure at Carnegie Mellon University. Information about The Word, the student
+
+handbook, the Office of Graduate and Postdoc Affairs, the Office of the Dean of Student Affairs, and others, are included in Appendix A of this  handbook.
+
+1.1 Vision
+
+Carnegie Mellon University will have a transformative impact on society through continual
+
+innovation in education, research, creativity, and entrepreneurship.
+
+1.2 Mission
+Computing Services maintains and supports co mputing resources for the campus community,
+
+including the campus wired and wi reless networks, printing, computer labs, file storage, email
+
+and software catalog. As members of this community , we are all responsible  for the security of
+
+these shared resources. Be sure to review the Safe Computing
+
+(https://www.cmu.edu/computing/safe/ ) section and the University Computing Policy
+
+
+Answer: 

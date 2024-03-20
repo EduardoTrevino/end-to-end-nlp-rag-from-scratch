@@ -1,0 +1,173 @@
+Question: What are the three main reasons why kNN-LM performs better than standard LMs?
+
+Context: one. Empirically, we identify three main reasons why kNN-LM performs better than standard LMs: using a different input representation for predicting the next tokens, approximate kNN search, and the importance of softmax temperature for the kNN distribution. Further, we incorporate these insights into the model architecture or the training procedure of the standard parametric LM, improving its results without the need for an explicit retrieval component. The code is available at
+Paper title: 'Why do Nearest Neighbor Language Models Work?' Published year: 2023 Publication venue or conference: International Conference on Machine Learning Authors: Graham Neubig, Uri Alon, Frank F. Xu Summary: This paper identifies three main reasons why k-nearest neighbor language models (kNN-LM) perform better than standard LMs: using a different input representation for predicting the next tokens, approximate kNN search, and the importance of softmax temperature for the kNN
+next-word prediction. In this paper, we set out to understand why retrieval-augmented language models, and speciﬁcally why k-nearest neighbor language models (kNN-LMs) perform better than standard parametric LMs, even when the k-nearest neighbor component retrieves examples from the same training set that the LM was originally trained on. To this end, we perform a careful analysis of the various dimensions over which kNN-LM diverges from standard LMs, and investigate these dimensions one by
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kurland
+
+Spring 2024
+
+Course number: 48599
+
+Title: Undergraduate Independent Study
+
+Units: 3-9
+
+Section: A,E,B,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang,Arscott,Kurland,Lee,Ficca
+
+Spring 2024
+
+Course number: 48614
+
+Title: New Pedagogies:
+
+Units: 9.0
+
+Section: A,C, ,B
+
+Days: M, ,W,F
+
+Start:  ,10:00AM,09:00AM
+
+End: 11:50AM, ,12:20PM,12:50PM
+
+Room:  ,MM 321,MM C4,MM 303
+Title: Independent Study in Research
+
+Units: 3-9
+
+Section: A,E,I,B,F,G,C,D,J,H
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Woloshyn,Randall,Pukinskis,Stern,Instructor TBA,Cardenes
+
+Spring 2024
+
+Course number: 57614
+
+Title: Independent Study in Performance
+
+Units: 3-9
+
+Section: A,E,I,B,F,G,C,D,J,H
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Branson,Howard,Goeres,Manriquez,Douglas,Instructor TBA
+Course number: 57790
+
+Title: Community Engagement Performance
+
+Units: 1.0
+
+Section: A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Neely, Shields
+
+Fall 2023
+
+Course number: 57791
+
+Title: Keyboard Studies (Graduate)
+
+Units: 3-6
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Larocca
+
+Fall 2023
+
+Course number: 57792
+
+Title: Keyboard Studies (Graduate)
+
+Units: 3-6
+
+Section: A
+
+Days: TBA
+
+Start:
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+After an hour-long argument with the judges (and presumably the Sweepstakes committee), the decision to DQ PiKA was upheld and DTD was awarded the victory. Final Time. The Tartan reported that DTD’s winning time was 3:49, but our database has the time as 2:49. 3:49 would be significantly slower than any other race on this course, but I also think it’s possible. Bleak skies threatened the race (meaning it may have been bad weather), the best Prelim time was 3:24.5, and DTD was the 2nd buggy to
+Tartan, Heat 1 saw a very tight race between KapSig, DTD, and PiKA, with KapSig winning in 3:24.5, DTD finishing in 3:25.1, and PiKA finishing in 3:26.3. Those were the top 3 times and they advanced to the finals. Prelim Heat 2 paired Beta, SAE, and DU, and SAE won the heat by default, as Beta was DQ’d for a pushbar violation and DU was DQ’d for a Hill 4-5 transition violation (the Tartan reports that they “shoved the buggy into the last zone instead of pushing it”). Prelims Heat 3 was a battle
+3.1.3 Extended or Longer -than -Standard Completion (Statute of Limitations)
+
+Longer -than -standard degree completion may occur due to academic interruptions in making
+
+progress toward the degree as defined by the academic  program, interruptions of full -time
+
+study or progress towards the degree due to  serious, documented medical iss ues, or other
+
+unusual or unforeseen  circumstances.
+
+Master’s students who require longer than the standard time to complete their  degree
+Extended or Longer-than-Standard Completion Longer-than-standard degree completion may occur due to academic interruptions in making progress toward the degree as defined by the academic program, interruptions of full-time study or progress towards the degree due to serious, documented medical issues, or other unusual or unforeseen circumstances. Master’s students who require longer than the standard time to complete their degree requirements are expected to remain in close contact with their
+4 Carnegie Mellon Code
+
+Students at Carnegie Mellon, because they are members of an academic community dedicated to
+
+the achievement of excellence, are expected to m eet the highest standards of personal, ethical
+
+and moral conduct possible.
+
+These standards require personal  integrity, a commitment to honesty without compromise, as
+
+well as truth without equivocation and a willingne ss to place the good of the community above
+
+
+Answer: 

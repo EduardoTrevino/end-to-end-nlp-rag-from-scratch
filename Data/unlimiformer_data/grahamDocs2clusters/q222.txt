@@ -1,0 +1,21 @@
+Question: What is the benefit of FLARE over existing retrieval augmented LMs?
+
+Context: to retrieve, it is important to consider what LMs intend to gen- erate in the future, as the goal of active retrieval is to benefit future generations. Therefore, we propose anticipating the future by generating a temporary next sentence, using it as a query to retrieve rel- evant documents, and then regenerating the next sentence conditioning on the retrieved documents. Combining the two aspects, we propose Forward- Looking Active REtrieval augmented generation (FLARE), as illustrated in
+Our intuition is that (1) LMs should only retrieve information when they do not have the necessary knowledge to avoid unnecessary or inappropriate retrieval, and (2) the retrieval queries should reflect the intents of future generations. We propose two forward-looking active retrieval augmented gener- ation (FLARE) methods to implement the active retrieval augmented generation framework. The first method prompts the LM to generate retrieval queries when necessary while generating the an- swer
+tioned in Krishna et al. (2021) such as difficulties of grounding generation in retrieval and evalua- tion, both single-time retrieval and FLARE did not provide significant gains over not using retrieval. From an engineering perspective, interleaving gen- eration and retrieval with a naive implementation increases both overheads and the cost of generation. LMs need to be activated multiple times (once for each retrieval) and a caching-free implementation also requires recomputing the previous
+consultation at CaPS can help clarify the nature of the concern, provide immediate support,
+
+and explore further options if needed. These may include a referral for counseling within CaPS, to another resource at Carnegie Mellon, or to another resource within the larger
+
+Pittsburgh community. CaPS also provides workshops and group sessions on mental health
+
+related topics specifically for graduate students on campus. CaPS services are provided at no
+An initial consultation at CaPS can help clarify the nature 8 of the concern, provide immediate support, and explore further options if needed. These may include a referral for counseling within CaPS, to another resource at Carnegie Mellon, or to another resource within the larger Pittsburgh community. CaPS also provides workshops and group sessions on mental health related topics specifically for graduate students on campus. CaPS services are provided at no cost. Appointments can be made in
+Counseling & Psychological Serv ices (Ca PS) affords the opportunity for students to talk privately
+
+about academic and personal concerns  in a saf e, confidential setting. An initial consultation at
+
+CaPS can help clarify the nature of the concern, provide immediate support, and explore further options if needed. These may include a referral for counseling within CaPS, to another resource at Carnegie Mellon, or to another resource within the larger Pittsburgh community.
+
+
+Answer: 

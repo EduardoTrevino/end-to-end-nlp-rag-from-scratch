@@ -1,0 +1,231 @@
+Question: What was the total number of submissions for the IWSLT 2023 shared tasks?
+
+Context: In Task 1, 4 teams participated, which provided a total of 16 submissions. Participants were asked to provide a brief description of the system for their proposals. The two system descriptions provided by the participants are shown below:
+We test our system using datasets from different language pairs. Test datasets includes:
+
+Test data from the IWSLT shared task (tst19, tst20) (Anastasopoulos et al., 2021, 2022), where the domain is TED talks.
+
+Test data tst19 tst20 LT CS LT nonCS mTEDx
+
+Lang. pair Hours en→de 4.82 en→de 4.09 de→en 6.39 de→en 2.66 es→en 2.07 it→en 2.16 en→X 0.95
+
+# Utterances 2279 1804 2454 1516 1012 999 468
+
+ACL dev *
+evidenced by rising IWSLT2 shared task participation.
+Fall 2023
+
+Course number: 57780
+
+Title: Black American Music Seminar
+
+Units: 6.0
+
+Section: A,B
+
+Days: MW
+
+Start: 01:00PM,02:00PM
+
+End: 01:50PM,02:50PM
+
+Room: HOA 224
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Keeling
+
+Fall 2023
+
+Course number: 57781
+
+Title: Collaborative Piano I
+
+Units: 3-9
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carver
+
+Fall 2023
+
+Course number: 57782
+
+Title: Collaborative Piano II
+
+Units: 3-9
+
+Section: A
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: POS 343
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Vairo
+
+Fall 2023
+
+Course number: 82270
+
+Title: Technology in Japanese Culture and Society
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 4708
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Iwasaki
+
+Fall 2023
+
+Course number: 82271
+
+Title: Intermediate Japanese I
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: PH A21
+Fall 2023
+
+Course number: 48509
+
+Title: Architecture Design Studio: Thesis I/ Independent Project
+
+Units: 18.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 48525
+
+Title: Thesis Seminar
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: MM 409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Torello
+
+Fall 2023
+
+Course number: 48531
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+Inductees will be selected by a committee comprised of Carnegie Mellon University staff, faculty, a board of trustee member, coaches and a student representative. The Athletics Hall of Fame will endeavor to induct not less than 15 individuals for induction in its first year and not less than 6 in any year thereafter, subject to the discretion of the Nominating Committee. The below will set forth the criteria for selection to the Athletics Hall of Fame.
+14  Appendix  A:  2022‐2023 University  Resources  for Graduate  Students ..........................................  41
+
+14.1 Key Offices for Graduate  Student Support .................................................................................  41
+
+14.1.1 Graduate  Education  Office ..................................................................................................  41
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+
+
+Answer: 

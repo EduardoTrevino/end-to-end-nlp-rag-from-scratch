@@ -1,0 +1,33 @@
+Question: What is the full name of the conference where the paper Riveter: Measuring Power and Social Dynamics Between Entities, got published?
+
+Context: Paper title: 'Riveter: Measuring Power and Social Dynamics Between Entities' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Melanie Walsh, Jimin Mun, Lauren F. Klein, Maarten Sap, Anjalie Field, Maria Antoniak Summary: Riveter greatly improves the accessibility of verb lexica and can facilitate a broad range of future research by organizing the language processing pipeline, providing complete lexicon scores and
+Maria Antoniak, Anjalie Field, Ji Min Mun, Melanie Walsh, Lauren F. Klein, and Maarten Sap. 2023. Riv- eter: Measuring power and social dynamics between entities. In ACL demonstrations.
+
+Katherine Atwell, Sabit Hassan, and Malihe Alikhani. 2022. Appdia: A discourse-aware transformer-based style transfer model for offensive social media con- versations. In Proceedings of the 29th International Conference on Computational Linguistics, pages 6063–6074.
+Paper title: 'Conversational Search with Random Walks over Entity Graphs' Published year: 2023 Publication venue or conference: International Conference on the Theory of Information Retrieval Authors: Gustavo Gonçalves, Jamie Callan, João Magalhães Summary: Experiments show that using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+5.2 Conference Travel Funding  LTI Ph.D.  Graduate Student Handbook  Page 33
+
+Students funded by research projects receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to p resent a refereed conference paper . There is an LTI
+
+form that must be filled out in advance.
+
+5.3 Research Funding
+
+
+Answer: 

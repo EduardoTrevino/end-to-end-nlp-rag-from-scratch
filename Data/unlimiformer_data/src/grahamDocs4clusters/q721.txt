@@ -1,0 +1,167 @@
+Question: What issue is reciprocal rank found to have?
+
+Context: ABSTRACT Across a variety of ranking tasks, researchers use reciprocal rank to measure the effectiveness for users interested in exactly one relevant item. Despite its widespread use, evidence suggests that reciprocal rank is brittle when discriminating between systems. This brittleness, in turn, is compounded in modern evaluation set- tings where current, high-precision systems may be difficult to distinguish. We address the lack of sensitivity of reciprocal rank by introducing and connecting
+Despite the widespread use of reciprocal rank, recent evidence suggests that it may brittle when it comes to discriminating between ranking systems [10, 19, 20]. In particular, the low number of unique values of reciprocal rank means that, especially when evaluating multiple highly-performing systems, we are likely to observe tied performance. Voorhees et al. [21] demonstrate that these conditions exist in many modern deep learning benchmarks.
+single item. Over the years, reciprocal rank (and less so ESL1) has established itself as a core metric for retrieval [5] and recommendation [4], adopted in situations where there is actually only one relevant item as well as in situations where there are multiple relevant items. Given two rankings, reciprocal rank and ESL1 always agree in terms of which ranking is better. Because of this, we refer to them collectively as the recall level 1 or RL1 metrics.
+Title: Role Playing Games Writing Workshop
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: PTC 2301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Klug
+
+Fall 2023
+
+Course number: 53451
+
+Title: Research Issues in Game Development:  Designing for XR
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HL 106B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Corbett
+
+Fall 2023
+
+Course number: 53482
+
+Title: Advanced Technical Character Animation
+Instructors: Corbett, Washington
+
+Fall 2023
+
+Course number: 53751
+
+Title: Research Issues in Game Development:  Designing for XR
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HL 106B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Corbett
+
+Fall 2023
+
+Course number: 53801
+
+Title: Graduate Assistantship for ETC
+
+Units: 12.0
+
+Section: A,C,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dessler,davidson,Culyba, Walton
+Title: Ethics and Policy Issues in Computing:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room: GHC 4307,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Dabbish, Skirpan
+
+Spring 2024
+
+Course number: 18390
+
+Title: ECE CO-OP
+
+Units: 0-3
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Spring 2024
+
+Course number: 18447
+
+Title: Introduction to Computer Architecture
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+thanks to the 1948 Thistle, we know that DTD, DU, and PiKA had the top 3 times from the Prelims and advanced to the Finals. We also know that storms moved in right after the Prelims on Friday, creating some concern about whether the Finals would run as scheduled. ANOTHER Controversial Finals. For the second year in a row, there was a major controversy during the finals. Unfortunately, this time we don’t actually know what the controversy was.
+between PhiKap, Theta Xi, and Scobell House (Men’s Dorms), but again, Theta Xi won by default, as both PhiKap and Scobell were DQ’d for a Hill 4-5 transition violation (the same problem that DU had). Rain or Shine, But Not Really… One other rule stated that the race would be rain-or-shine. However, that didn’t turn out to be true.
+and the organizations snuck out at midnight to get some practice on the course. Avoiding Controversies. After the controversy of 1947 (which, sadly and as noted above, we don’t have details of), Sweepstakes decided to tighten up the rules to avoid any confusion for Raceday. Of course, we don’t have the rules that were tightened either. We’ll keep digging, and if we find it out, we’ll update this post. On the plus side, 1948 didn’t appear to have any controversies. Prelim Results. Raceday itself
+and group interaction. The program management understands this, but th e students must also
+
+recognize that this program is being conducted in  the United States and operates according to
+
+U.S. norms. Students and faculty,  regardless of background, age, or rank, must deal with each
+
+other respectfully without insult or raised voices . It is impossible to conduct teamwork in any
+
+other way. Violations will be dealt with harshly. The Program Director is not sympathetic to
+speaking is not scored. We do not issue waivers for non-native speakers of English. In particular, we do not issue waivers based on previous study at a U.S. high school, college, or university. We also do not issue waivers based on previous study at an English-language high school, college, or university outside of the United States. No amount of educational experience in English, regardless of which country it occurred in, will result in a test waiver. Submit valid, recent scores: If as
+Grading is a matter of sound discretion of the instructor and final grades are rarely changed without the consent of the instructor who assigned the grade. The following circumstances are
+
+the unusual exceptions that may warrant a grade appeal: (a) the final grade assigned for a course
+
+is based on manifest error (e.g., a clear error such as arithmetic error in computing a grade or
+
+
+Answer: 

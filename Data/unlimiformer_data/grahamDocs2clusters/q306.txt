@@ -1,0 +1,31 @@
+Question: HomeRobot OVMM benchmarks include two components or environments. What are they?
+
+Context: drive research in this area, we introduce the HomeRobot OVMM benchmark, where an agent navigates household environments to grasp novel objects and place them on target receptacles. HomeRobot has two components: a simulation component, which uses a large and diverse curated object set in new, high-quality multi-room home environments; and a real-world component, providing a software stack for the low-cost Hello Robot Stretch to encourage replication of real-world experiments across labs. We
+HomeRobot: We also propose HomeRobot,1 a software framework to facilitate extensive bench- marking in both simulated and physical environments. It comprises identical APIs that are imple- mented across both settings, enabling researchers to conduct experiments that can be replicated in both simulated and real-world environments. Table 1 compares HomeRobot OVMM to the literature. Notably, HomeRobot provides a robotics stack for the Hello Robot Stretch which supports a range of capabilities in
+may not benefit from those changes. The HomeRobot stack enables end-to-end benchmarking of individual components by providing a full robotics stack, with multiple implementations of different sub-modules. The simplicity helps move beyond standardized sets of objects (e.g., [50–52]) to a common set of robots, objects, and environments. Ours is the only benchmark to provide a broadly capable robotics stack for implementing and sharing robotics code; this is similar to projects like PyRobot [53],
+Skibo Gym facilities include courts for basketba ll, volleyball, badminton, as well as weight-
+
+training and aerobic equipment. The University Cent er’s recreational facilities include an eight-
+
+lane pool, racquetball and squash courts, aerobi cs room, fitness center and gym for basketball
+
+and volleyball. All users must pr esent a current Carnegie Mellon Card to use these facilities. 41
+
+13.19  CMU Alert
+
+www.cmu.edu/alert
+There are two course components required for students who elect to complete the M.S. Thesis: 11 -928 – Masters ’ Thesis I (with the chosen thesis advisor, typically for 12 units,
+
+typically in the Fall of their second year) and 11 -929 – Masters ’ Thesis II in the following
+
+Spring.
+
+Each of these two courses counts towards 6 units of MLT -level LTI course credit; if the
+
+student goes on to an LTI PhD, the second course (11 -929) counts towards one PhD lab
+
+requirement.
+Safety is a top priority for teams. All drivers are required to have five pieces of safety gear: mouth guard, goggles, a harness that includes three points of contact to the body of the buggy, gloves and a helmet. And during practice runs and races, flaggers man the course to let drivers know if it's safe to proceed.
+
+
+Answer: 

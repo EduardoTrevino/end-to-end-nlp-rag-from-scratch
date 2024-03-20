@@ -1,0 +1,207 @@
+Question: What number do all of the Drama classes start with?
+
+Context: As a starting point to curate a list of verbs, we consulted literature on verbs that display object drop (Gillon 2012; Fillmore 1986, as well as Levin 1993 for an overview of English verb classes). We compiled a list of 23 verbs (see Appendix A), though this list is certainly non-exhaustive. For each verb, we list nouns and adverbs that can work in combination with each other in all of the tem- plates in Table 1. Criteria for adding nouns and adverbs are listed in the Appendix B.
+Tim Rowland. 2007. well maybe not exactly, but it’s around fifty basically? In Vague language in mathe- matics classrooms. In Vague language explored, page 79–96. Springer.
+Effect of Task Number We investigate the influence of task numbers by randomly shuffling our tasks and then selecting a subset to train the model during the instruction tuning stage. Due to the computational resource limitation, we set up a maximum of 5k examples for each task and train all the models for 5k steps with a batch size of 64. We select 0, 4, 8, 16 and all 27 tasks for training, and report the individual ROUGE-L score and the average score. As illustrated in Figure 5, increasing the
+Course number: 54177
+
+Title: Foundations of Drama I
+
+Units: 6.0
+
+Section: A,B
+
+Days: TR
+
+Start: 09:00AM,02:00PM
+
+End: 10:20AM,03:20PM
+
+Room: WEH 5304,PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Prendergast
+
+Fall 2023
+
+Course number: 54183
+
+Title: Documentary Theater
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A20
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Miller, Thoni
+
+Fall 2023
+
+Course number: 54187
+Fall 2023
+
+Course number: 54281
+
+Title: Foundations of Drama II
+
+Units: 6.0
+
+Section: A,B
+
+Days: TR
+
+Start: 09:30AM,02:00PM
+
+End: 10:50AM,03:20PM
+
+Room: PH A21,WEH 5328
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Olmstead
+
+Fall 2023
+
+Course number: 54284
+
+Title: Fundamentals of Directing
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: PCA 118
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Roth
+
+Fall 2023
+
+Course number: 54285
+Course number: 54241
+
+Title: Dramaturgy 5: Dramaturgy in Translation
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PH A21A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Good
+
+Fall 2023
+
+Course number: 54245
+
+Title: Who Wore What: When, Where, and Why
+
+Units: 6.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: PCA 305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brownlee
+
+Fall 2023
+
+Course number: 54247
+
+Title: Dramaturgy 6: In Company
+
+Units: 9.0
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+front hills, causing more congestion for spectators on those hills. A police tow truck was present, but it was not permitted to clear the street. Up the front hills, DTD was in the lead, followed by PiKA and KapSig. DTD went into the freerolls first, but the drama was behind them. As PiKA entered the freeroll, PiKA’s buggy crowded KapSig’s buggy and forced KapSig wide, causing KapSig to swerve and hit at least 1 spectator (the Tartan says that KapSig “got out pencil and paper to try to figure
+Q: Are there auditions? A: No, any member of the campus community with music experience is able to join the Kiltie Band!
+
+Q: Do I have to memorize music? A: No, the music is changed for every show. You should invest in a good and trusty lyre.
+
+Q: When is the first rehearsal? A: On the first day of class (Monday) at 5:30 p.m. in the CUC Studio Theater. If you have questions, please email the Direcator at jolisar@andrew.cmu.edu.
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+It expanded from two buildings into an elegant 20th century campus designed in the beaux arts architectural style, housing a wealth of machine shops, studios and laboratories — the hands-on center of learning that persists today. It pioneered conservatory degree programs in music and drama, in addition to visual art and design programs. The first U.S. drama degree was awarded in 1914 at Carnegie Tech. It began offering graduate degrees. In 1919, the first doctorate (in civil engineering) was
+
+
+Answer: 

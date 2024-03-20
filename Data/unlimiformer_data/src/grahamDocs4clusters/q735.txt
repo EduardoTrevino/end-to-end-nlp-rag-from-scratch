@@ -1,0 +1,227 @@
+Question: In the paper "Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization, what are the three unseen tasks investigated for Whisper model?
+
+Context: [11] Brian Lester, Rami Al-Rfou, and Noah Constant, “The power of scale for parameter-efﬁcient prompt tuning,” in EMNLP, 2021.
+
+[12] Taylor Shin et al., “Autoprompt: Eliciting knowledge from language models with automatically generated prompts,” in EMNLP, 2020.
+
+[13] Puyuan Peng et al., “Prompting the Hidden Talent of Web- Scale Speech Models for Zero-Shot Task Generalization,” in INTERSPEECH, 2023.
+
+[14] Zih-Ching Chen et al., “Exploring efﬁcient-tuning methods in
+RQ2: Zero-Shot Transfer to Chinese Vision-Language Tasks We assess models on three unseen Chinese vision-language tasks to investigate the cross-language generalization capabilities of instruc- tion tuning. BLIP-2 is not considered, as Flan-T5 does not support Chinese.2 As illustrated in Table 5, our model outperforms MiniGPT4 and InstructBLIP on all evaluated tasks, demonstrating notable improvements. These findings indicate that instruction tuning with English datasets can effectively
+Text language models have shown remarkable zero-shot capability in generalizing to unseen tasks when provided with well-formulated instructions. However, existing studies in speech processing primar- ily focus on limited or speciﬁc tasks. Moreover, the lack of stan- dardized benchmarks hinders a fair comparison across different ap- proaches. Thus, we present Dynamic-SUPERB, a benchmark de- signed for building universal speech models capable of leveraging instruction tuning to perform multiple
+Instructors: Titzer, Aldrich,Aldrich, Titzer
+
+Fall 2023
+
+Course number: 17668
+
+Title: Network Analysis: The Hidden Structures behind the Webs We Weave
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH A18B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Park, Vasilescu
+
+Fall 2023
+
+Course number: 17673
+
+Title: Studio Project III
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Miller
+
+Fall 2023
+
+Course number: 17213
+
+Title: Network Analysis: The Hidden Structures behind the Webs We Weave
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH A18B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Vasilescu, Park
+
+Fall 2023
+
+Course number: 17214
+
+Title: Principles of Software Construction: Objects, Design, and Concurrency
+
+Units: 12.0
+
+Section: A,E,B,F,C,D,Lec
+
+Days: W,TR
+
+Start: 09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM
+Title: Engineering AI Project Methods
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 06:00PM
+
+End: 07:50PM
+
+Room: CMR F205
+
+Locations: Kigali, Rwanda
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 04654
+
+Title: Introduction to Probabilistic Graphical Model:
+
+Units: 12.0
+
+Section: J,
+
+Days:  ,TR
+
+Start:  ,03:00PM
+
+End:  ,04:50PM
+
+Room:  ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Gueye, Mukamakuza
+
+Fall 2023
+
+Course number: 04655
+
+Title: Artificial Intelligence for Engineers
+
+Units: 12.0
+In the spring, the Task Force partnered with SME Branding — a firm with more than 17 years of experience creating mascots for professional sports teams and universities — to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.
+front hills, causing more congestion for spectators on those hills. A police tow truck was present, but it was not permitted to clear the street. Up the front hills, DTD was in the lead, followed by PiKA and KapSig. DTD went into the freerolls first, but the drama was behind them. As PiKA entered the freeroll, PiKA’s buggy crowded KapSig’s buggy and forced KapSig wide, causing KapSig to swerve and hit at least 1 spectator (the Tartan says that KapSig “got out pencil and paper to try to figure
+The Machine
+
+Under this section there are YouTube videos with the following captions underneath them.
+
+"Members of Fringe, celebrating their 50th year of Buggy racing, allowed a rare visit into its shop for a behind-the-scenes tour."
+
+"Dave Singh explains how Fringe builds its buggies. Each team keeps its actual processes a secret, but each buggy has certain features such as a body, pushbar, wheels and driving and braking mechanisms. Behind Singh are other buggies built by Fringe."
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+Fall 2:
+
+Conversational Interfaces
+
+MIIS Capstone Project
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems who has petitioned to have the summer internship waived.
+
+Fall 1: - Search Engines - Analysis of Social Media - Design and Engineering of Intelligent Systems - Directed Study
+
+Spring:
+
+Machine Learning
+
+Natural Language Processing
+
+Question Answering
+
+Directed Study
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Machine Translation
+
+Spring 2:
+
+Comp Semantics for NLP
+
+Neural Networks for NLP
+
+Elective
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in deepening their expertise in Human Language area of concentration
+
+Fall 1:
+
+Natural Language Processing
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+
+
+Answer: 

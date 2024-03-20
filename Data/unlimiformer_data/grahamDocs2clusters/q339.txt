@@ -1,0 +1,21 @@
+Question: What was the previous name for the Language Technology Institute?
+
+Context: Alexander Hauptmann Language Technologies Institute Carnegie Mellon University alex@cs.cmu.edu
+
+Abstract
+Liangze Li Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 liangzel@andrew.cmu.edu
+
+Rita Singh Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 rsingh@cs.cmu.edu
+
+Bhiksha Raj Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 bhiksha@cs.cmu.edu
+
+Abstract
+Noah A. Smith♢♠ Hannaneh Hajishirzi♢♠ ♠Allen Institute for Artificial Intelligence ♢Paul G. Allen School of Computer Science & Engineering, University of Washington ♡Language Technologies Institute, Carnegie Mellon University ♣Institute for Language, Cognition and Computation, University of Edinburgh {haop,jessed,matthewp,kylel,sams,darrellp,beltagy,petew}@allenai.org {qicao,nasmith,hannaneh}@cs.washington.edu {jaredfern,strubell}@cmu.edu, tom.sherborne@ed.ac.uk
+
+Abstract
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+Language Technologies Institute - Faculty Name: Bhiksha Ramakrishnan Email: bhiksha@cs.cmu.edu Office: 6705 Gates & Hillman Centers Research Areas: Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy Phone: 412-268-9826
+Language Technologies Institute - Faculty Name: Teruko Mitamura Email: teruko@cs.cmu.edu Office: 6711 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics Phone: 412-268-6596
+
+
+Answer: 

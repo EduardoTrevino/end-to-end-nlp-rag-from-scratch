@@ -1,0 +1,41 @@
+Question: Which LTI faculty member works on recommender systems?
+
+Context: [18] Robin D Burke, Himan Abdollahpouri, Bamshad Mobasher, and Trinadh Gupta. 2016. Towards multi-stakeholder
+
+utility evaluation of recommender systems. UMAP (Extended Proceedings) 750 (2016).
+[Covington et al., 2016] Paul Covington, Jay Adams, and Emre Sargin. Deep neural networks for youtube recom- mendations. In Proceedings of the 10th ACM conference on recommender systems, pages 191–198, 2016.
+
+[Cui et al., 2022] Zeyu Cui, Jianxin Ma, Chang Zhou, Jin- gren Zhou, and Hongxia Yang. M6-rec: Generative pre- trained language models are open-ended recommender systems. arXiv preprint arXiv:2205.08084, 2022.
+Julian McAuley and Jure Leskovec. Hidden factors and hidden topics: understanding rating dimen- sions with review text. In Proceedings of the 7th ACM conference on Recommender systems, pp. 165–172, 2013.
+
+Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, and Shin Ishii. Virtual adversarial training: a regularization method for supervised and semi-supervised learning. IEEE transactions on Pattern Analysis and Machine Intelligence, 41(8):1979–1993, 2018.
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+potential advisors determine how many new students they can take and  indicate their
+
+preferences. Finally, the entire LTI faculty meets as a " Matching  Committee" to determine the best
+
+set of matches.
+
+Until a student finds a specific advisor, the Progr am Director  of the LTI graduate programs serves
+
+as the advisor.
+
+How to change advisors:  The initial advisor selection should be made carefully. However, it is
+Each student has a faculty advisor charged with guiding the education and monitoring the
+
+progress of the student through the program. The advisor also supervises the student's directed LTI Ph.D.  Graduate Student Handbook  Page 18
+
+study projects. This personal student -advisor relationship ensures that every student receives the
+
+necessary faculty mentoring. The advisor also provides the student with career advice.
+
+
+Answer: 

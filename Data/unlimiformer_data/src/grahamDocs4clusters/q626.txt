@@ -1,0 +1,195 @@
+Question: In the CSurF paper, what evaluation metrics were reported for MSMARCO?
+
+Context: Table 2: Ablation study of FiT5. The evaluation metric is MRR@10 on MS MARCO and NDCG@10 on TREC DL.
+
+Model All layers (l = 1) Top-6 layers (l = 7) Top-3 layers (l = 10) Top-2 layers (l = 11) Top-1 layer (l = 12) No global attention
+
+FiT5 (w/o feature) 41.23 42.49 42.79 42.95 42.78 41.49
+
+FiT5 40.83 43.36 43.93 43.43 43.07 40.95
+
+Table 3: Performance on MS MARCO with global at- tention started to introduce at top-k transformer layers. The evaluation metric is MRR@10.
+
+5.1 Overall Performance
+reaches the best performance on MSMARCO, so we select this checkpoint for evaluation. The ratio between positive and hard negative pairs is 1:7 for both models. The main hyperparameters in MoMA include the total number of grounding documents K and the at- tention threshold number N in Equation 10. We directly set K=10 and N=5 without any parameter tuning. More details on hyperparameters and experimental settings can be found in Appendix A.3.
+The most widely used evaluation metric for summarization is Recall-Oriented Understudy for Gisting Evaluation (ROUGE), which compares an automatically generated summary to a human- generated summary by considering the overlapping units, such as n-grams, word sequences, and word pairs, between them (Lin 2004). Although ROUGE is a widely used evaluation metric, it is not very suitable for the evaluation of abstractive summarization systems as it relies on superﬁcial lexical overlap between the
+Course number: 05610
+
+Title: User-Centered Research and Evaluation:
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec,
+
+Days:  ,MW
+
+Start: 12:30PM, ,02:00PM
+
+End:  ,01:50PM,03:20PM
+
+Room: WEH 4708,PH 226B,PH 225B,DH 1212, ,GHC 4101,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Musuraca, Shen
+
+Spring 2024
+
+Course number: 05615
+
+Title: Persuasive Design:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,3SC 172
+
+Locations:  ,Pittsburgh, Pennsylvania
+Title: M.S. Research Final Report
+
+Units: 0.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rakach
+
+Summer 2024
+
+Course number: 42990
+
+Title: Ph.D. Thesis Research
+
+Units: 3-48
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rakach
+
+Summer 2024
+
+Course number: 42997
+
+Title: Ph.D. Qualifying Examination
+
+Units: 0.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+Title: Biofabrication and Bioprinting
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 08:30PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Palchesko
+
+Spring 2024
+
+Course number: 42890
+
+Title: M.S. Research
+
+Units: 9-48 4
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rakach
+
+Spring 2024
+
+Course number: 42899
+
+Title: M.S. Research Final Report
+
+Units: 0.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+Tartan, Heat 1 saw a very tight race between KapSig, DTD, and PiKA, with KapSig winning in 3:24.5, DTD finishing in 3:25.1, and PiKA finishing in 3:26.3. Those were the top 3 times and they advanced to the finals. Prelim Heat 2 paired Beta, SAE, and DU, and SAE won the heat by default, as Beta was DQ’d for a pushbar violation and DU was DQ’d for a Hill 4-5 transition violation (the Tartan reports that they “shoved the buggy into the last zone instead of pushing it”). Prelims Heat 3 was a battle
+After an hour-long argument with the judges (and presumably the Sweepstakes committee), the decision to DQ PiKA was upheld and DTD was awarded the victory. Final Time. The Tartan reported that DTD’s winning time was 3:49, but our database has the time as 2:49. 3:49 would be significantly slower than any other race on this course, but I also think it’s possible. Bleak skies threatened the race (meaning it may have been bad weather), the best Prelim time was 3:24.5, and DTD was the 2nd buggy to
+the 3 teams qualifying for Finals, broke the post-war record. In the finals, it was another close battle, with DTD squeaking it out over PiKA. DTD’s winning time of 2:42.5 was fast enough to set the course record, and PiKA’s 2:43.5 was only ½ second behind the prior record. SAE’s Best Design. SAE took home the trophy for Design Comp with their sleek aluminum buggy. Unfortunately, we haven’t found a photo. [Ed. Update: Based on the buggies from 1950, the 1950 Thistle’s actual description of
+contributions; other relevant research, including competing approaches; some preliminary results; the work that still must be completed; evaluation metrics for that work; and a LTI Ph.D.  Graduate Student Handbook  Page 17
+
+projected timeline for completion. Before presenting the proposal, the student will also
+because they explain the program sequence, it s Core and Knowledge co urses requirements and
+
+how students will meet the program learning outcomes.
+
+10.7 End of Semester Evaluation
+
+The MSAII program conducts an academic progress re view at the conclusion of each semester in
+
+order to monitor individual student progress towa rds graduation. Should a student’s effort fall
+
+below the acceptable level of academic perfor mance and/or fail to meet the standards
+semester, the faculty evaluates each student's academic progress. The student's advisor serves
+
+as the student's advocate in this process. The result of the evaluation is a letter from the faculty to the student that indicates whether the student is making satisfactory progress towards
+
+completing the degree.
+
+A good letter  typically indicates that the student is making satisfactory progress. If the student
+
+
+Answer: 

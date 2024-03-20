@@ -1,0 +1,144 @@
+Question: What is the proposed method for grounding pre-trained text-only language models to the visual domain?
+
+Context: Abstract We propose an efficient method to ground pre- trained text-only language models to the visual domain, enabling them to process arbitrarily in- terleaved image-and-text data, and generate text interleaved with retrieved images. Our method leverages the abilities of language models learnt from large scale text-only pretraining, such as in-context learning and free-form text generation. We keep the language model frozen, and fine- tune input and output linear layers to enable cross-
+We propose a method to visually ground pretrained frozen language models through efficient finetuning of several lin- ear layers. Our model, FROMAGe, is capable of producing coherent interleaved image-text outputs. We show strong zero-shot performance on a variety of tasks involving image- text inputs and outputs, and qualitatively showcase interac- tive abilities such as multimodal dialogue. These results demonstrate the effectiveness of our approach for bootstrap- ping general purpose
+We proposed a method of mapping text-only LLMs to strong visual models. This enables them to learn to process arbitrarily interleaved image-and-text inputs, and output generated text, retrieved images, and generated images. We show that it is possible to efficiently learn a mapping between the embeddings of a frozen pretrained LLM and a frozen pretrained image generation model, and that doing so effectively boosts image generation for tasks that require stronger language context dependence.
+Section: A
+
+Days: MW
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: SH 238
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Riviere
+
+Spring 2024
+
+Course number: 16785
+
+Title: Integrated Intelligence in Robotics: Vision Language Planning
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Oh
+
+Spring 2024
+
+Course number: 16823
+
+Title: Physics-based Methods in Vision (Appearance Modeling):
+
+Units: 12.0
+
+Section: A,
+Course number: 82793
+
+Title: Teaching Methodologies for the Foreign Language Classroom
+
+Units: 9.0
+
+Section: A
+
+Days: W
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: POS 235
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Youngs
+
+Fall 2023
+
+Course number: 82795
+
+Title: Ideologies of Critical Language Awareness
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 235
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Austin
+
+Fall 2023
+
+Course number: 82888
+Course number: 82881
+
+Title: Research Methods in Second Language Acquisition
+
+Units: 9.0
+
+Section: A
+
+Days: R
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: POS 235
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Koda
+
+Spring 2024
+
+Course number: 82888
+
+Title: Topics in Second Language Acquisition:
+
+Units: 9.0
+
+Section: A, ,B
+
+Days: M, ,W
+
+Start:  ,06:00PM,02:00PM
+
+End:  ,08:50PM,04:50PM
+
+Room:  ,POS 235,BH 235B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Van Compernolle,Burns
+
+Spring 2024
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+Requirements: Students interested in the language technologies minor must complete our prerequisite courses with an average grade of B (3.0) or better before applying to the program. (Students who do not meet this average must submit a letter of explanation along with their application.) Prerequisites include: - Principles of Imperative Computation (15-122) - Principles of Functional Programming (15-150)
+Information retrieval, machine translation and speech technology are used daily by the general public, while text mining, natural language processing and language-based tutoring are common within more specialized professional or educational environments. The LTI prepares students for this world by offering a minor that gives you the opportunity to not only learn about language technologies, but to also apply that knowledge through a directed project.
+
+
+Answer: 

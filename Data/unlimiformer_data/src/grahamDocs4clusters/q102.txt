@@ -1,0 +1,155 @@
+Question: What is the name of the benchmark that extends SUPERB to multiple languages?
+
+Context: Speech processing Universal PERformance Benchmark (SU- PERB) is a leaderboard to benchmark the performance of Self- Supervised Learning (SSL) models on various speech process- ing tasks. However, SUPERB largely considers English speech in its evaluation. This paper presents multilingual SUPERB (ML-SUPERB), covering 143 languages (ranging from high- resource to endangered), and considering both automatic speech recognition and language identification. Following the concept of SUPERB, ML-SUPERB
+Several existing benchmarks also include multilingual SSL models [13–15]. Lebenchmark primarily evaluates speech tasks in French [13]; IndicSUPERB focuses mostly on Indian lan- guages [14]. XTREME-S focuses on multilingual speech rep- resentation benchmarks, including ASR, speech translation, speech classification, and speech retrieval [15]. There are three main differences between XTREME-S and ML-SUPERB. Firstly, ML-SUPERB covers a wider range of languages, with 143 languages compared to
+ML-SUPERB is designed to cover a wide range of lan- guages, including both high-resource languages like English and endangered languages such as Totonac. The benchmark pri- marily focuses on evaluating SSL models for automatic speech recognition (ASR) and language identification (LID). To ac- commodate different use cases for SSL models, ML-SUPERB includes two tracks with four different tasks: the monolingual track (monolingual ASR), and the multilingual track (multilin- gual ASR, LID, joint
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Fall 2023
+
+Course number: 11726
+
+Title: Meaning in Language Lab (Self Paced)
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11737
+
+Title: Multilingual Natural Language Processing.
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+Course number: 15295
+
+Title: Competition Programming II
+
+Units: 5.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sleator
+
+Fall 2023
+
+Course number: 15312
+
+Title: Foundations of Programming Languages
+
+Units: 12.0
+
+Section: A,W,B,C,Lec 1,Lec 2
+
+Days: W,MW,R,TR
+
+Start: 12:30PM,04:00PM,11:00AM,11:30AM
+
+End: 11:50AM,12:45PM,01:50PM,04:50PM
+
+Room: PH A18B,GHC 5222,GHC 4307,HH B131,CMB 2051
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+1948 saw the first independent orgs and the start of DTD’s run of greatness, but it wasn’t easy, as they barely held off KapSig for the championship.
+The war is over, and we won! This week, the 100 Years of Buggy History series brings back Fraternities, Spring Carnival, and most importantly, Buggy! The post-war era brought a whole new style of buggy, but also brought with it some controversies. It also saw the entry of multiple non-Greek organizations for the first time! (As a reminder, the Men’s Dorms were permitted to enter in 1928, though it’s unclear if they actually did).
+the 3 teams qualifying for Finals, broke the post-war record. In the finals, it was another close battle, with DTD squeaking it out over PiKA. DTD’s winning time of 2:42.5 was fast enough to set the course record, and PiKA’s 2:43.5 was only ½ second behind the prior record. SAE’s Best Design. SAE took home the trophy for Design Comp with their sleek aluminum buggy. Unfortunately, we haven’t found a photo. [Ed. Update: Based on the buggies from 1950, the 1950 Thistle’s actual description of
+22. Language learning software, 2010 Learning a second language has always been challenging, but a CMU spinoff called Duolingo is proving that it doesn’t have to be expensive. Duolingo has developed language tutoring software that enables users to learn Spanish, English, Italian, German, Portuguese or French for free through its website and mobile apps. In the process, Duolingo users are helping to translate the Web.
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+(11-761) - Multimodal Affective Computing (11-776) - The Nature of Language (80-180)
+
+
+Answer: 

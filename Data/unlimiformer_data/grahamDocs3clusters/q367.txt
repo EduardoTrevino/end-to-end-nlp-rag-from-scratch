@@ -1,0 +1,164 @@
+Question: For additional information about the PhD in Language and Information Technology program, who should you contact?
+
+Context: Lan Anh Thuy Nguyen is a Ph.D. student at Doctoral School of Education, University of Szeged, Hun- gary, and she is on the Stipendium Hungaricum Scholarship program of the Hungarian government in collaboration with the Vietnamese government. Her research interests cover digital language learning, motivation in learning English as a foreign language, technology-based learning and assessment.
+Pradeep Dasigi, Kyle Lo, Iz Beltagy, Arman Cohan, Noah A. Smith, and Matt Gardner. 2021. A dataset of information-seeking questions and answers anchored in research papers. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 4599–4610, Online. Association for Computa- tional Linguistics.
+1Faculty of Engineering, Informatics Engineering Study Program, Sam Ratulangi University, Manado, Indonesia 2Medicom Academy of Informatics and Computing, Medan, Indonesia 3Media Digital Publikasi Indonesia, Medan, Indonesia 4Faculty of Computer Science and Information Technology, Universitas Sumatera Utara, Medan, Indonesia
+
+Author Email: ade@unsrat.ac.id1, Jhoe6590@gmail.com2, marbunnasib93@gmail.com3, 95gintingsuka@gmail.com4
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Instructors: Quesenberry,Poepping,Liginlal,Heimann,Sooriamurthi,Hagan,Huang,Tu
+
+Summer 2024
+
+Course number: 67505
+
+Title: Information Systems Internship
+
+Units: 1-3
+
+Section: A,W,B,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Avery,Dandoy,Di Lisio,Instructor TBA,Lutz
+
+Summer 2024
+
+Course number: 95565
+
+Title: Introduction to Information Security
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HBH 1004
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 15802
+
+Title: CSD PhD Elective
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 15812
+
+Title: Programming Language Semantics
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brookes
+
+Spring 2024
+For a detailed breakdown of the above requirements, download and read the PhD Handbook. Curriculum: In order to obtain your Ph.D. in Language and Information Technologies, you need to pass 96 units (generally, eight courses) of graduate courses that fulfill these requirements: At least 72 units of LTI courses: Must include one class in each LTI focus area. At least 24 units of SCS courses. At least two lab courses in two different research areas. Here's a sample of what your five-year schedule
+help@cs.cmu.edu  , extension 8 -4231 from a campus phone, or 412 -268-4231 from an outside line
+
+(M- F, 9am- 5pm) .
+
+3 Standard Degree Requirements & Degree Certification
+
+3.1 LTI Ph.D. Degree Requirements
+
+To complete the Ph.D.  in Language and Information Technologies degree, the student must satisfy
+
+the following requirements:
+
+Pass at least 96  units of graduate level courses, with additional requirements detailed
+
+below ;
+graduates become professors and research scientists, while a few have started their own companies. Requirements: In general, students pursuing a Ph.D. in Language and Information Technologies must Pass at least 96 units of graduate-level courses. Satisfy proficiencies in writing, presentation, programming and teaching; and Propose, write and defend a Ph.D. dissertation (thesis). Students must also attend the LTI Colloquium each semester and satisfy our Research Speaking Requirement.
+
+
+Answer: 

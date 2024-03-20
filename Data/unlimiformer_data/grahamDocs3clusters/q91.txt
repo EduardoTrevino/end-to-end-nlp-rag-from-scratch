@@ -1,0 +1,172 @@
+Question: How many authors are on the SENTECON paper?
+
+Context: Paper title: 'SenteCon: Leveraging Lexicons to Learn Human-Interpretable Language Representations' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Victoria Lin, Louis-Philippe Morency Summary: This work presents SenteCon, a method for introducing human interpretability in deep language representations that outperforms existing interpretable language representations with respect to both its downstream performance and
+We present an alternative view of data, similar to that seen in Figure 1, in Figure 4. Here, we define members of the community as authors with at least three papers total in *CL venues. Authors are counted as “leaving” the community the year after their last *CL publication. We only consider trends in authorship until 2020, as it is difficult to determine if authors who did not publish in the last few years have left the community indefinitely.
+Figure 1: The number of unique researchers publishing in ACL venues has increased dramatically, from 715 unique authors in 1980 to 17,829 in 2022.
+Instructors: Warren,Boevers, Hines,Wei,Stebbins,Holcomb,Brown,Instructor TBA,Shea,Cody, ,Hanson
+
+Fall 2023
+
+Course number: 54672
+
+Title: Production Prep: Sender:
+
+Units: VAR
+
+Section: A,E,I,K,F,G,C,D,J, ,H,L
+
+Days: W, ,MTWRF,S
+
+Start: 11:00AM, ,05:00PM,06:30PM
+
+End:  ,10:30PM,03:00PM,06:20PM
+
+Room: TBA,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Sahoo, Holcomb,Wei,Thomson,Pino,Davis,Brown,Russman, Hanson,Instructor TBA,Hines, Boevers,Downs, ,Gajic
+
+Fall 2023
+
+Course number: 54674
+Instructors: Meyer,Gasson,Salehzadeh,Strickland,Watson,Pessoa,Pal-Agrawal,Tanquary,George,Kidder,Mayshle,Comiskey,Cafasso,Myers,Szalkowski-Ference
+
+Fall 2023
+
+Course number: 76102
+
+Title: Advanced First Year Writing: Special Topics
+
+Units: 9.0
+
+Section: B
+
+Days: MWF
+
+Start: 11:00AM
+
+End: 11:50AM
+
+Room: BH 255B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mayshle
+
+Fall 2023
+
+Course number: 76106
+
+Title: Writing about Literature, Art and Culture
+
+Units: 4.5
+Instructors: Bisk,Yang,Eskenazi,Gormley,Mortensen,Waibel,Brown,Lee,Cassell,Sycara,Morency,Frederking,Rosenfeld,Kolter,Instructor TBA,Poczos,Salakhutdinov,Mitamura,Lipton,Mostow,Berg-Kirkpatrick,Levin,Cohen,Oh,Strubell,Fahlman,Hauptmann,Callan,Mitchell,Xing,Nyberg,Neubig,Smith,Young,Tsvetkov,Rose,Stern,Rudnicky,Ramakrishnan,Watanabe,Hong,Tomasic
+
+Spring 2024
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+thesis defense. The pre sentation must communicate the research work done, similar to
+
+a conference paper presentation. The committee will observe the presentation, and then decide whether the thesis and presentation were acceptable, or whether further
+
+work is required. Unlike a P hD defense, only a simple majority vote of the committee is
+
+required for approval.
+
+
+Answer: 

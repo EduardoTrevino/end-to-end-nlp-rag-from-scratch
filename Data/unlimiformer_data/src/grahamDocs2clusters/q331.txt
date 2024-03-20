@@ -1,0 +1,27 @@
+Question: What is Martial Herbert's office building and number?
+
+Context: 3.07217202e-05], [7.72424054e-02, 1.09501611e-03, 6.52642517e-03, 3.31146285e-06]])
+10.1109/CITSM.2017.8089223.
+8Subtitleguidelinesareshownin§A.7.
+
+65
+
+evalchrF77.271.756.383.753.686.684.865.377.062.7BLEU55.448.527.168.347.371.568.739.451.667.9COMET86.283.679.584.589.188.187.982.585.987.4
+
+devchrF75.372.854.980.056.982.782.359.369.060.5BLEU54.148.325.363.050.763.665.930.539.165.9COMET86.283.676.884.589.188.187.982.585.987.4
+the West Wing Dormitory, 412-268-2064.
+
+The Office of the Assistant Vice Provost for Graduate Education (AVPGE) offers a robust
+
+schedule of professional development opportun ities. Some are geared towards a specific
+
+population (master’s students, PhD students at  the beginning of their program, graduate
+
+students seeking tenure track positions, etc.) an d others are open to all graduate students (time
+
+management, balancing, staying healthy). A full schedule of progr ams can be found at:
+Language Technologies Institute - Faculty Name: Alexander Waibel Email: waibel@cs.cmu.edu Office: 205 407 South Craig Street Research Areas: Spoken Language Translation, Machine Translation, Speech Processing, Neural Networks, Machine Learning, Multimodal Interaction, Dialog Processing Phone: 412-268-7676
+Language Technologies Institute - Faculty Name: Louis-Philippe Morency Email: morency@cs.cmu.edu Office: 5411 Gates & Hillman Centers Research Areas: Machine Learning, Multimodal Computing and Interaction, Spoken Interfaces and Dialogue Processing Phone: 412-268-5508
+
+
+Answer: 

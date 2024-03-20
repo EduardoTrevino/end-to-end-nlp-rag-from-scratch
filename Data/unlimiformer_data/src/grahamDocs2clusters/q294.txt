@@ -1,0 +1,83 @@
+Question: Where is the Center for Student Diversity and Inclusion Ceremony held on May 11, 2024?
+
+Context: Room:  ,CMB 1031,TEP 2700
+
+Locations:  ,Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Mawhinney,Hakim
+
+Spring 2024
+
+Course number: 70432
+
+Title: Diversity, Equity, & Inclusion and Business Strategy:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room:  ,TEP 2610
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Major
+
+Spring 2024
+
+Course number: 70436
+
+Title: Applied Projects for Business and Economics
+
+Units: 9.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+[112] Sanne Vrijenhoek, Mesut Kaya, Nadia Metoui, Judith Möller, Daan Odijk, and Natali Helberger. 2021. Recommenders with a Mission: Assessing Diversity in News Recommendations. In Proceedings of the 2021 Conference on Human Information Interaction and Retrieval (CHIIR ’21). Association for Computing Machinery, New York, NY, USA, 173–183.
+
+ACM Trans. Inf. Syst., Vol. 1, No. 1, Article 4. Publication date: July 2023.
+
+4:35
+
+4:36
+
+Fernando Diaz and Bhaskar Mitra
+Michael Chang, Abhishek Gupta, Sergey Levine, and Thomas L. Griffiths. 2019. Automatically compos- ing representation transformations as a means for generalization. In 7th International Conference on Learning Representations, ICLR 2019, New Orleans, LA, USA, May 6-9, 2019. OpenReview.net.
+
+Howard Chen, Huihan Li, Danqi Chen, and Karthik Controllable text genera- arXiv preprint
+
+Narasimhan. 2022. tion with language constraints. arXiv:2212.10466.
+Center for Student Diversity & Inclusion actively cultivates a strong, diverse and inclusive
+
+community capable of living out these values and advancing research, creativity, learning and development that changes the world.
+
+The Center offers resources to enhance an inclusive and transformative student experience in
+
+dimensions such as access, success, campus climate and intergroup dialog ue. Additionally, the
+The Center for Student Diversity &amp; Inclusion actively cultivates a strong, diverse and inclusive community capable of living out these values and advancing research, creativity, learning and development that changes the world.
+
+The Center offers resources to enhance an inclusive and transformative student experience in dimensions such as access, success, campus climate and intergroup dialogue. Additionally, the
+https://www.cmu.edu/student-diversity/
+
+Diversity and inclusion have a singular place among  the values of Carnegie Mellon University. 43
+
+The Center for Student Diversity & Inclusion actively cultivates a strong, diverse and inclusive
+
+community capable of living out these values a nd advancing research, creativity, learning and
+
+development that changes the world.
+
+The Center offers resources to enhance an incl usive and transformative student experience in
+
+
+Answer: 

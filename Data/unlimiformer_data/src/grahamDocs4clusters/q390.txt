@@ -1,0 +1,209 @@
+Question: Which professors at LTI are on leave?
+
+Context: We would like to thank our workers on MTurk for their responses. We are also grateful to the anonymous reviewers for their helpful comments. Special thanks to Saadia Gabriel, Jocelyn Shen, Ashutosh Baheti, and the members of the CMU LTI COMEDY group for their feedback, and Ope- nAI for providing access to the GPT-3.5 API. This research was supported in part by the Meta Fun- damental AI Research Laboratories (FAIR) “Dyn- abench Data Collection and Benchmarking Plat- form” award “ContExTox:
+First of all, we thank our workers on MTurk for their hard work and thoughtful responses. We thank the anonymous reviewers for their helpful com- ments. We also thank Shengyu Feng and mem- bers of the CMU LTI COMEDY group for their feedback, and OpenAI for providing access to the GPT-3.5 API. This research was supported in part by the Meta Fundamental AI Research Laboratories (FAIR) “Dynabench Data Collection and Benchmarking Platform” award “ContExTox: Context-Aware and Explainable Toxicity
+Paolo Arcaini (Chair) Tao Yue (Chair) Shaukat Ali
+
+Andrea Arcuri
+
+Aitor Arrieta Marcio Barros
+
+Matteo Biagiola Betty H. C. Cheng Pouria Derakhshanfar Xavier Devroey Thiago Ferreira Gordon Fraser Alessio Gambi
+
+Gregory Gay Lars Grunske Hadi Hemmati
+
+Grand Valley State University, USA
+
+Simula Research Laboratory and Oslo Metropolitan University, Norway Kristiania University College and Oslo Metropolitan University, Norway
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+Room: BH A51, ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11490
+
+Title: LTI Minor Project - Seniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11492
+
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+Title: LTI Minor Project - Advanced
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11601
+
+Title: Coding & Algorithms Bootcamp:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: DH 2315,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11611
+
+Title: Natural Language Processing:
+
+Units: 12.0
+
+Section: A,R, ,B
+
+Days:  ,TR
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+certification-english-fluency-instructors.html .
+
+11.4.4  Leave of Absence
+
+The LTI discourages Leaves of Absence (LOA) since students usually do not return, despite
+
+having good intentions. However,  a student in good standing may  be granted a LOA of at most
+
+one year, upon written request to the MSAII Dire ctor and with the consent of the student's
+
+advisor. It is the responsibility of  the student on LOA to contact th e LTI to initiate a return to
+
+the program.
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+consulting are strongly discouraged. Exceptional students who wish to consult should discuss
+
+this with their Advisor. International students must also have approval in advance from the
+
+Office of International Education (OIE) for any outside employment.
+
+6.2.6 Leave of Absence
+
+The LTI discourages Leaves of Absence (LOA), since students usually do not return, despite
+
+
+Answer: 

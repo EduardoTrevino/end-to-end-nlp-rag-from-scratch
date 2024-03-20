@@ -1,0 +1,23 @@
+Question: According to authors of the FLARE paper, what is one limitation of existing retrieval augmented LMs?
+
+Context: Due to the emerging real-world demands and the limitations of black-box APIs, fine-tuning retrieval-augmented LM for each possible down- stream task can be infeasible. Hence, we intro- duce Augmentation-Adapted Retriever (AAR) as a generic plug-in for black-box LMs. As illustrated in Figure 2, AAR can learn the preferences of LMs without the need for fine-tuning them.
+Existing passive multi-time retrieval augmented LMs can also be formulated using our framework (subsection 2.3). In this section, we formally in- troduce three baseline categories based on when and what to retrieve. These baselines are not exact reproductions of the corresponding paper because many design choices differ which makes direct comparisons impossible. We implemented them using the same settings, with the only variation being when and what to retrieve.
+Our intuition is that (1) LMs should only retrieve information when they do not have the necessary knowledge to avoid unnecessary or inappropriate retrieval, and (2) the retrieval queries should reflect the intents of future generations. We propose two forward-looking active retrieval augmented gener- ation (FLARE) methods to implement the active retrieval augmented generation framework. The first method prompts the LM to generate retrieval queries when necessary while generating the an- swer
+5.1.9  Drop/Add/Withdraw Procedures  .......................................................................... 22
+
+5.1.10  Statute of Limitations  ............................................................................................ 22
+
+5.1.11  Teaching Requirements  ........................................................................................ 23
+
+5.2 LTI Academic Policies .................................................................................................... 23
+Limitations  28 4.2 LTI Academic Policies
+3.1.1  Graduate Students  ................................................................................................ 11
+
+3.1.2  Early Completion  ................................................................................................... 11
+
+3.1.3  Extended or Longer -than- Standard Completion (Statute of Limitations)  .............. 12
+
+3.1.4  Additional Guidance for Students  ......................................................................... 12
+
+
+Answer: 

@@ -1,0 +1,153 @@
+Question: What number do all of the CFA Interdisciplinary classes start with?
+
+Context: Course number: 57118
+
+Title: Instrumental Ensemble
+
+Units: 6.0
+
+Section: A
+
+Days: TWRF
+
+Start: 04:00PM
+
+End: 06:30PM
+
+Room: CFA ACH
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Vosburgh, Curtis, Cardenes, Story
+
+Fall 2023
+
+Course number: 57120
+
+Title: Elective Studio (Voice)
+
+Units: 3-9
+
+Section: A,E,I,B,F,G,C,D,J,H
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Aylmer,Abreu,Instructor TBA,Reyes-Mir,Teadt,Teaster,Lawrence
+
+Fall 2023
+Fall 2023
+
+Course number: 57743
+
+Title: Sonatas/Songs for Collaborative Pianists III
+
+Units: 3.0
+
+Section: A
+
+Days: M
+
+Start: 06:00PM
+
+End: 06:50PM
+
+Room: CFA ACH
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carver, Rissinger, Kim, Manriquez, Ojeda
+
+Fall 2023
+
+Course number: 57745
+
+Title: Chamber Music Coaching
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Manriquez
+
+Fall 2023
+
+Course number: 57746
+Spring 2024
+
+Course number: 57118
+
+Title: Instrumental Ensemble
+
+Units: 6.0
+
+Section: A
+
+Days: TWRF
+
+Start: 04:00PM
+
+End: 06:20PM
+
+Room: CFA ACH
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Thompson, Curtis, Story, Cardenes, Vosburgh
+
+Spring 2024
+
+Course number: 57119
+
+Title: Elective Studio
+
+Units: 3-9
+
+Section: A3,A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Ojeda
+
+Spring 2024
+
+Course number: 57120
+complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+also complete at least one concentration, consisting of three courses in one of three areas: Analytics, Systems, or Human-Centered Data Science. The remaining elective course can be any course with number 600 or above chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.  To maintain full-time enrollment status, a student must enroll in a minimum of 36 course units per semester.
+An “SCS course” is any 12 -unit course with a course number indicating a unit of the
+
+School of Computer Science (including LTI); a 6 -unit course with such a number counts
+
+as 1/2 of an SCS course. Unless otherwise specified, "course" means an actual classroom
+
+course, not credit given for research or independent study. Note: Recommended
+
+electives that are technically outside  of the SCS now count towards this requirement; for
+
+
+Answer: 

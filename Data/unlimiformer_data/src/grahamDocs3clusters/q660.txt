@@ -1,0 +1,144 @@
+Question: In spring 2024, What is the title of course 17356?
+
+Context: Yann Raphalen, Chloé Clavel, and Justine Cassell. 2022. ”You might think about slightly revising the title”: Identifying hedges in peer-tutoring interactions. In Proceedings of the 60th Annual Meeting of the As- sociation for Computational Linguistics (Volume 1: Long Papers), pages 2160–2174, Dublin, Ireland. As- sociation for Computational Linguistics.
+Yann Raphalen, Chloé Clavel, and Justine Cassell. 2022. ”You might think about slightly revising the title”: Identifying hedges in peer-tutoring interactions. In Proceedings of the 60th Annual Meeting of the As- sociation for Computational Linguistics (Volume 1: Long Papers), pages 2160–2174, Dublin, Ireland. As- sociation for Computational Linguistics.
+Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+Course number: 17356
+
+Title: Software Engineering for Startups
+
+Units: 12.0
+
+Section: A,B,Lec
+
+Days: F,TR
+
+Start: 09:30AM,11:00AM,09:00AM
+
+End: 11:50AM,10:50AM,09:50AM
+
+Room: PH A19,SH 238,GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wright, Brown
+
+Spring 2024
+
+Course number: 17413
+
+Title: Software Engineering Practicum
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 6403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Timperley
+
+Spring 2024
+Spring 2024
+
+Course number: 36627
+
+Title: Modern Experimental Design:
+
+Units: 6.0
+
+Section:  ,A4
+
+Days:  ,MW
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room:  ,POS 146
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Reinhart
+
+Spring 2024
+
+Course number: 36640
+
+Title: Probability & Statistics for Data Science
+
+Units: 6.0
+
+Section: A3
+
+Days: W
+
+Start: 06:00PM
+
+End: 07:30PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Freeman
+
+Spring 2024
+
+Course number: 36641
+Spring 2024
+
+Course number: 36995
+
+Title: Reading and Research
+
+Units: 1-48
+
+Section: E,I,F,D,U,P,C,J,S,A,K,Y,W,B,T,H,L,M,R,O,Q,X,G,N,V
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ventura,Shalizi,Lei,Mejia,Greenhouse,Lee,Jin,Ben-Michael,Ramdas,Branson,Niezink,Reinhart,Roeder,Kass,Nugent,Kuchibhotla,Schafer,Neykov,Chouldechova,Kuusela,Townes,Genovese,Balakrishnan,Wasserman,Kennedy
+
+Spring 2024
+
+Course number: 36996
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+(2) Date -  July 22 ; Day - Friday ; Event - Mini-6 pass/no pass & withdrawal deadline (3) Date -  July 29 ; Day - Monday ; Event - Semester & Mini-6 Faculty Course Evalutations open Date -  August 1 ; Event - Semester & Mini-6 Last Day of ClassesSummer Semester 2024 (M24) Date - August 1 ; Day - Thursday ; Event - Semester & Mini-6 voucher deadline (4) Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Final Exams*** Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Faculty
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+
+
+Answer: 

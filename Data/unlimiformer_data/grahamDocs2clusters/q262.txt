@@ -1,0 +1,67 @@
+Question: At what conference was "To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing" published?
+
+Context: Paper title: 'To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Emma Strubell, Sireesh Gururaja, Amanda Bertsch, Clara Na, D. Widder Summary: This work conducts long-form interviews with 26 NLP researchers of varying seniority, research area, institution, and social identity to study factors that shape NLP as a
+3 2 0 2
+
+t c O 1 1
+
+] L C . s c [
+
+1 v 5 1 7 7 0 . 0 1 3 2 : v i X r a
+
+To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing
+Contextual rewriteIndeed, I concur. The workload is quite overwhelming.
+
+Informal response: “I know, right? I'm drowning in them.”
+
+Non-contextual RewriteIndeed, I concur. I am inundated with them.
+
+Preceding Dialog: “I can't believe how much work we have to do.”
+
+11419 Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 11419–11444 December 6-10, 2023 ©2023 Association for Computational Linguistics
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Machine Translation
+
+Spring 2:
+
+Comp Semantics for NLP
+
+Neural Networks for NLP
+
+Elective
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in deepening their expertise in Human Language area of concentration
+
+Fall 1:
+
+Natural Language Processing
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+entrepreneurial leaders. The first two years of the Ph.D. program are similar to our MLT program. After the second year, you will spend most of your time working closely with your faculty advisor on research that advances the state-of-the-art in computer science. Ph.D. students are expected to publish papers about original research in the most competitive scientific journals and international conference proceedings, and to present their research at conferences and workshops. Most of our Ph.D.
+on and off- campus. Through GSA’s continued funding for professional development and
+
+research conferences, the GSA/Provost Conference Funding Program and GSA/Provost GuSH Research Grants are able to run, as managed by the Graduate Education Offi ce. As we move
+
+forward, GSA will continue to rely on your feedback to improve the graduate student experience at CMU. Feel free to contact us at gsa@cmu.edu
+
+to get involved, stop by our o ffice
+
+
+Answer: 

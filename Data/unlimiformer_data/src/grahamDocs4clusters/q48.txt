@@ -1,0 +1,197 @@
+Question: Carnegie Mellon University is home to how many members of the National Academy of Sciences (NAS)?
+
+Context: We thank the anonymous reviewers for their help- ful feedback. We express sincere gratitude to the members of the ArticuLabo at Inria Paris for their invaluable assistance in the successful completion of this research, and to the members of the Artic- uLab at Carnegie Mellon University in Pittsburgh for answering our questions about their prior work. This study received support from the French gov- ernment, administered by the Agence Nationale de la Recherche, as part of the "Investissements
+3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+We thank the anonymous reviewers for their help- ful feedback. We express sincere gratitude to the members of the ArticuLab at Inria Paris for their invaluable assistance in the successful completion of this research, and to the members of the Articu- Lab at Carnegie Mellon Pittsburgh for answering our questions about their prior work. This study re- ceived support from the French government, admin- istered by the Agence Nationale de la Recherche, as part of the "Investissements d’avenir"
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Room: DH A301D,DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Walker,Li, Martinez Rodriguez,Martinez Rodriguez, Li
+
+Spring 2024
+
+Course number: 33122
+
+Title: Physics II for Biological Sciences and Chemistry Students
+
+Units: 9.0
+
+Section: A,W,B,Lec 1,Lec 2
+
+Days: W,UT,MW,TR
+
+Start: 04:00PM,10:00AM,09:00AM
+
+End: 10:50AM,04:50PM,09:50AM,05:15PM
+
+Room: DH A301D,DH A325,CMB 1190
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Zayed,Garoff,An,Datta
+
+Spring 2024
+Title: Independent Study in the Computer Sciences
+
+Units: 3-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eckhardt, O'Hallaron
+
+Spring 2024
+
+Course number: 15690
+
+Title: MSCS Career Planning
+
+Units: 3.0
+
+Section: A
+
+Days: M
+
+Start: 07:00PM
+
+End: 07:50PM
+
+Room: GHC 4303
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eckhardt, O'Hallaron
+
+Spring 2024
+
+Course number: 15694
+
+Title: Cognitive Robotics
+
+Units: 12.0
+
+Section: A,Lec
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Inductees will be selected by a committee comprised of Carnegie Mellon University staff, faculty, a board of trustee member, coaches and a student representative. The Athletics Hall of Fame will endeavor to induct not less than 15 individuals for induction in its first year and not less than 6 in any year thereafter, subject to the discretion of the Nominating Committee. The below will set forth the criteria for selection to the Athletics Hall of Fame.
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+Committed to extending our founders’ vision The School of Computer Science at Carnegie Mellon University enters its second quarter century as a world-leading educational and research institution, embracing all facets of computing. Its graduate programs are consisted ranked with the best in the world by a leading U.S. magazine, while its undergraduate programs are also rated the best in the U.S. by corporate recruiters. In 2013, SCS had 284 faculty members and a total student enrollment of
+including off-campus/ wireless access to databases and e-journals, offer online access. There are 38
+
+also two neighboring libraries open to Carnegie Mellon graduate students: Carnegie Library of
+
+Pittsburgh and University of Pittsburgh Libraries. Visit the University Libraries website for
+
+information about all mentioned library locatio ns and hours, on-line resources and FAQ’s.
+
+13.10  Computing Services
+
+www.cmu.edu/computing/
+In 1967, Carnegie Tech merged with the Mellon Institute, a science research center founded by the Mellon family of Pittsburgh, to become known as Carnegie Mellon University. The merger built upon a long history of support from the Mellons. It allowed Carnegie Mellon to establish the last of its current pillars: the Mellon College of Science and the College of Humanities and Social Sciences, now known as Marianna Brown Dietrich College of Humanities and Social Sciences. In 2017, Carnegie Mellon
+
+
+Answer: 

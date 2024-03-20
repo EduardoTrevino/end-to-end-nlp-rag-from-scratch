@@ -1,0 +1,25 @@
+Question: Who propels a buggy via a pushbar along one of the five hills of the buggy course?
+
+Context: We then measured the performance differences between the repaired and unre- paired versions of the applications. We found that in our 21 benchmarks, 5 had either no warnings or warnings that could not be repaired without introducing buggy behav- ior. For example, a warning about instantiating an object in a loop could be “unfixable” as a reference to each instantiated object is held in an array. So, moving the instan- tiation outside of the loop would result in an array with the same reference
+Figure 5 depicts an experiment with children and apes from Fletcher et al. (2012). An apparatus is used where one participant pushes the marble, and the other inserts a finger
+
+13
+
+Kovač, Portelas, Dominey, & Oudeyer
+other pushes a marble through them. This marble activates the marble generator upon contact with it. In MarblePass one participant pushed the marble to the right side of the room, and then the other pushes it towards the marble generator. In the remaining four problems, one participant is presented with two boxes of different colors. The other participant is presented with two objects of the same colors as the two boxes and of the type defined by the problem parameter (e.g. two generators).
+Driver: Person who travels with a buggy and controls the vehicles via steering and braking systems.
+
+Pushbar: Structure attached to a buggy that a person pushes to propel that buggy forward.
+
+Pusher: Person who propels a buggy via a pushbar along one of the five hills of the buggy course.
+
+Shell: Entire outer structure or covering of a buggy that determines that buggy's aerodynamic characteristics.
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+The Machine
+
+The basics of a buggy are straightforward, but teams are often secretive in how they build the machines, in particular the way they brake, steer and what types of wheels are used.
+
+Each has a body, pushbar for runners to move the machine up the hills, wheels, a safety harness and driving and braking mechanisms. Some also include fairings, a type of housing around the wheels that help reduce drag, make the vehicle quieter and just looks cool.
+
+
+Answer: 

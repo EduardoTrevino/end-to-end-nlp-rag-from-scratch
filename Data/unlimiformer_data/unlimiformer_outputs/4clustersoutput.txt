@@ -1,0 +1,583 @@
+=== GENERATED SEQUENCE 1 (input length: 1775) ===
+|||  Another name for the vehicle being raced in sweepstakes is a buggy.</s>
+03/17/2024 20:38:37 - INFO - Unlimiformer - Encoding 0 to 1747 out of 1747
+=== GENERATED SEQUENCE 1 (input length: 1747) ===
+|||  Course number: 11891
+
+Title: Neural Code Generation:
+Room: POS 146
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Paulisick
+
+Fall 2023</s>
+03/17/2024 20:40:14 - INFO - Unlimiformer - Encoding 0 to 2059 out of 2059
+=== GENERATED SEQUENCE 1 (input length: 2059) ===
+|||  The Fall 2024 semester classes will begin on August 28th, according to the retrieved context.</s>
+03/17/2024 20:40:59 - INFO - Unlimiformer - Encoding 0 to 1980 out of 1980
+=== GENERATED SEQUENCE 1 (input length: 1980) ===
+|||  Based on the provided context, the course number 10315 has 12 units.</s>
+03/17/2024 20:41:37 - INFO - Unlimiformer - Encoding 0 to 1570 out of 1570
+=== GENERATED SEQUENCE 1 (input length: 1570) ===
+|||  TAP stands for "Tap Action and Percussion."</s>
+03/17/2024 20:41:59 - INFO - Unlimiformer - Encoding 0 to 1694 out of 1694
+=== GENERATED SEQUENCE 1 (input length: 1694) ===
+|||  The ACL 60/60 evaluation sets are used to evaluate the performance of automatic speech recognition (ASR) systems in a blind test setting. The sets consist of 5 talks each from the ACL development (dev) set (Salesky et al., 2023) and are used to assess the systems' informativity and fluency. The dev set is used primarily for validation in the multilingual track, and the evaluation results are reported in terms of retrieval accuracy using the ALBEF evaluative listener and perplexity using GPT-2.</s>
+03/17/2024 20:45:29 - INFO - Unlimiformer - Encoding 0 to 2064 out of 2064
+=== GENERATED SEQUENCE 1 (input length: 2064) ===
+|||  The last day of Mini-5 classes is March 10, 2024.</s>
+03/17/2024 20:46:07 - INFO - Unlimiformer - Encoding 0 to 2086 out of 2086
+=== GENERATED SEQUENCE 1 (input length: 2086) ===
+|||  Yes, there are auditions for the Drama classes.</s>
+03/17/2024 20:46:29 - INFO - Unlimiformer - Encoding 0 to 1958 out of 1958
+=== GENERATED SEQUENCE 1 (input length: 1958) ===
+|||  According to the retrieved context, Carnegie Mellon University is home to 7 members of the National Academy of Medicine (NAM).</s>
+03/17/2024 20:47:21 - INFO - Unlimiformer - Encoding 0 to 1871 out of 1871
+=== GENERATED SEQUENCE 1 (input length: 1871) ===
+|||  The classroom where advanced NLP was taught last semester is WEH 5304.</s>
+03/17/2024 20:48:00 - INFO - Unlimiformer - Encoding 0 to 1901 out of 1901
+=== GENERATED SEQUENCE 1 (input length: 1901) ===
+|||  Based on the provided context, the LTI faculty member who is an author on "Accelerating Diffusion-based Combinatorial Optimization Solvers by Progressive Distillation" is:
+
+Yiming Yang</s>
+03/17/2024 20:49:26 - INFO - Unlimiformer - Encoding 0 to 2037 out of 2037
+=== GENERATED SEQUENCE 1 (input length: 2037) ===
+|||  I don't know the answer to your question. The context provided does not mention the conference where the paper "Fully Unsupervised Topic Clustering of Unlabelled Spoken Audio Using Self-Supervised Representation Learning and Topic Model" was published.</s>
+03/17/2024 20:51:06 - INFO - Unlimiformer - Encoding 0 to 1960 out of 1960
+=== GENERATED SEQUENCE 1 (input length: 1960) ===
+|||  The full name of the conference where the paper "TAPLoss: A Temporal Acoustic Parameter Loss for Speech Enhancement" was published is IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP).</s>
+03/17/2024 20:52:45 - INFO - Unlimiformer - Encoding 0 to 2114 out of 2114
+=== GENERATED SEQUENCE 1 (input length: 2114) ===
+|||  The first emoticon was created by Scott Fahlman in 1982 at CMU.</s>
+03/17/2024 20:53:25 - INFO - Unlimiformer - Encoding 0 to 1730 out of 1730
+=== GENERATED SEQUENCE 1 (input length: 1730) ===
+|||  The PI of CLAW Lab is not explicitly mentioned in the provided text. The context is focused on the characteristics of the students, academic PIs, and industry PIs in terms of the number of GPUs available, readability, and pairwise comparisons. Therefore, I don't know the answer to the question.</s>
+03/17/2024 20:55:22 - INFO - Unlimiformer - Encoding 0 to 1759 out of 1759
+=== GENERATED SEQUENCE 1 (input length: 1759) ===
+|||  According to the context provided, imperfect machine-generated explanations do not help as much as expert-written human explanations in correctly identifying subtly toxic content. The context states that expert-written human explanations lead to a +7.2% accuracy improvement in moderation accuracy on hard-toxic examples, while imperfect machine-generated explanations lead to a +2.4% accuracy improvement.</s>
+03/17/2024 20:57:49 - INFO - Unlimiformer - Encoding 0 to 1827 out of 1827
+=== GENERATED SEQUENCE 1 (input length: 1827) ===
+|||  Graham Neubig's job title is Professor.</s>
+03/17/2024 20:58:10 - INFO - Unlimiformer - Encoding 0 to 2225 out of 2225
+=== GENERATED SEQUENCE 1 (input length: 2225) ===
+|||  The title of course 05291 in fall 2023 is "HCI Pro Seminar".</s>
+03/17/2024 20:58:55 - INFO - Unlimiformer - Encoding 0 to 1923 out of 1923
+=== GENERATED SEQUENCE 1 (input length: 1923) ===
+|||  The trained models by the authors of the SantaCoder paper are 1.1 billion parameters.</s>
+03/17/2024 20:59:31 - INFO - Unlimiformer - Encoding 0 to 1924 out of 1924
+=== GENERATED SEQUENCE 1 (input length: 1924) ===
+|||  David Garlan's two-word title is "Software Engineering".</s>
+03/17/2024 20:59:58 - INFO - Unlimiformer - Encoding 0 to 2161 out of 2161
+=== GENERATED SEQUENCE 1 (input length: 2161) ===
+|||  Based on the provided context, the instructor for unit 02718 in fall 2023 is Zhu.</s>
+03/17/2024 21:00:48 - INFO - Unlimiformer - Encoding 0 to 1725 out of 1725
+=== GENERATED SEQUENCE 1 (input length: 1725) ===
+|||  The proposed approach in the question is called "Unlimiformer."</s>
+03/17/2024 21:01:14 - INFO - Unlimiformer - Encoding 0 to 2179 out of 2179
+=== GENERATED SEQUENCE 1 (input length: 2179) ===
+|||  The deadline for Mini-2 drop and withdrawal grade assignment is not specified in the provided context.</s>
+03/17/2024 21:01:54 - INFO - Unlimiformer - Encoding 0 to 1800 out of 1800
+=== GENERATED SEQUENCE 1 (input length: 1800) ===
+|||  I don't know when aluminum was first used to build buggies.</s>
+03/17/2024 21:02:27 - INFO - Unlimiformer - Encoding 0 to 1969 out of 1969
+=== GENERATED SEQUENCE 1 (input length: 1969) ===
+|||  The Phi Beta Kappa Initiation Ceremony (not Reception) will be held on May 9 at PH 226C.</s>
+03/17/2024 21:03:27 - INFO - Unlimiformer - Encoding 0 to 2235 out of 2235
+=== GENERATED SEQUENCE 1 (input length: 2235) ===
+|||  The Mini-1 drop deadline and withdrawal grade assignment for fall 2024 are on October 13th.</s>
+03/17/2024 21:04:17 - INFO - Unlimiformer - Encoding 0 to 1911 out of 1911
+=== GENERATED SEQUENCE 1 (input length: 1911) ===
+03/17/2024 21:06:13 - INFO - Unlimiformer - Encoding 0 to 1601 out of 1601
+=== GENERATED SEQUENCE 1 (input length: 1601) ===
+|||  The registration for Masters students in Spring 2025 starts on March 12, 2025.</s>
+03/17/2024 21:06:58 - INFO - Unlimiformer - Encoding 0 to 2260 out of 2260
+=== GENERATED SEQUENCE 1 (input length: 2260) ===
+|||  The location of course 05317 is Pittsburgh, Pennsylvania.</s>
+03/17/2024 21:07:27 - INFO - Unlimiformer - Encoding 0 to 1458 out of 1458
+=== GENERATED SEQUENCE 1 (input length: 1458) ===
+|||  ValuePrism is a term used in the context of political systems and value pluralism. It refers to a method or approach that has been developed to identify and resolve tensions in values, often in smaller-scale settings such as town halls, focus groups, or deliberation theory.</s>
+03/17/2024 21:09:10 - INFO - Unlimiformer - Encoding 0 to 2290 out of 2290
+=== GENERATED SEQUENCE 1 (input length: 2290) ===
+|||  According to the retrieved context, in 2019, 19% of CMU's Computer Science first-year students were women.</s>
+03/17/2024 21:10:06 - INFO - Unlimiformer - Encoding 0 to 2129 out of 2129
+=== GENERATED SEQUENCE 1 (input length: 2129) ===
+|||  The deadline for Mini-3 pass/no pass and withdrawal is February 19, 2024.</s>
+03/17/2024 21:10:54 - INFO - Unlimiformer - Encoding 0 to 1840 out of 1840
+=== GENERATED SEQUENCE 1 (input length: 1840) ===
+|||  I'm afraid I don't know the paper title you're asking for.</s>
+03/17/2024 21:11:27 - INFO - Unlimiformer - Encoding 0 to 2063 out of 2063
+=== GENERATED SEQUENCE 1 (input length: 2063) ===
+|||  In the paper, IPA has shown significant improvements in tailoring extreme-scale language models without fine-tuning them for various tasks. The tasks include:
+
+1. Inference-time policy adaptation: IPA has demonstrated its ability to adapt a large language model's output distribution in real-time to optimize an arbitrary user objective.
+2. Reward optimization: IPA has shown that it can optimize the combined distribution of a large language model and a smaller-sized policy adapter towards a given reward signal without fine-tuning the model.
+3. Tailored policy for a specific task: IPA has demonstrated its capability to adapt a language model's policy to suit a particular task, such as a language translation task, without requiring any additional training data.
+
+Overall, IPA has shown significant improvements in tailoring extreme-scale language models for various tasks, highlighting its potential for efficient and generalizable adaptation.</s>
+03/17/2024 21:17:02 - INFO - Unlimiformer - Encoding 0 to 2612 out of 2612
+=== GENERATED SEQUENCE 1 (input length: 2612) ===
+|||  The answer to the question is:
+
+11824 worth is 12.0 units.</s>
+03/17/2024 21:17:43 - INFO - Unlimiformer - Encoding 0 to 2200 out of 2200
+=== GENERATED SEQUENCE 1 (input length: 2200) ===
+|||  Based on the provided context, the title of course 05391 in fall 2023 is "Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry".</s>
+03/17/2024 21:19:00 - INFO - Unlimiformer - Encoding 0 to 1987 out of 1987
+=== GENERATED SEQUENCE 1 (input length: 1987) ===
+|||  The first author on "Extracting Training Data from Diffusion Models" is Nicholas Carlini.</s>
+03/17/2024 21:19:41 - INFO - Unlimiformer - Encoding 0 to 1952 out of 1952
+=== GENERATED SEQUENCE 1 (input length: 1952) ===
+|||  Based on the provided context, the instructor for course 05315 in fall 2023 is Levin-Decanini.</s>
+03/17/2024 21:20:38 - INFO - Unlimiformer - Encoding 0 to 1790 out of 1790
+=== GENERATED SEQUENCE 1 (input length: 1790) ===
+|||  I'm not able to access external information or specific details about the program you are asking about, so I cannot provide an accurate answer to your question. The cost of applying for the MLT program on the day before the deadline is not specified in the provided context, and I don't know the answer. I'm just an AI and do not have access to specific information about individual programs or their application processes.</s>
+03/17/2024 21:23:09 - INFO - Unlimiformer - Encoding 0 to 1967 out of 1967
+=== GENERATED SEQUENCE 1 (input length: 1967) ===
+|||  The MIIS-16 program has 6 units.</s>
+03/17/2024 21:23:34 - INFO - Unlimiformer - Encoding 0 to 1989 out of 1989
+=== GENERATED SEQUENCE 1 (input length: 1989) ===
+|||  I don't know the answer to your question. According to the retrieved context, the first U.S. drama degree was awarded at Carnegie Tech in 1914, but I don't have access to specific information about when the first drama degree was awarded in the Department of Drama at Carnegie Mellon University.</s>
+03/17/2024 21:25:40 - INFO - Unlimiformer - Encoding 0 to 1579 out of 1579
+=== GENERATED SEQUENCE 1 (input length: 1579) ===
+|||  PhD students can use LTI's computer cluster for course assignments, directed study projects, and/or capstone projects.</s>
+03/17/2024 21:26:29 - INFO - Unlimiformer - Encoding 0 to 2170 out of 2170
+=== GENERATED SEQUENCE 1 (input length: 2170) ===
+|||  The instructor for Advanced Topics in Multimodal Machine Learning in Spring 2024 is Paul Pu Liang.</s>
+03/17/2024 21:27:17 - INFO - Unlimiformer - Encoding 0 to 2036 out of 2036
+=== GENERATED SEQUENCE 1 (input length: 2036) ===
+|||  Based on the provided context, Meloni et al. (2021) achieved state-of-the-art results on protoform reconstruction for Latin using an RNN-based encoder-decoder with attention model.</s>
+03/17/2024 21:28:40 - INFO - Unlimiformer - Encoding 0 to 1972 out of 1972
+=== GENERATED SEQUENCE 1 (input length: 1972) ===
+|||  I don't know the answer to your question. According to the text provided, the Carnegie Mellon University (CMU) Athletics Hall of Fame was established in November 2018, but no specific year is mentioned.</s>
+03/17/2024 21:30:08 - INFO - Unlimiformer - Encoding 0 to 1926 out of 1926
+=== GENERATED SEQUENCE 1 (input length: 1926) ===
+|||  The department in the School of Computer Science that was formed in 2006 is the Machine Learning Department.</s>
+03/17/2024 21:30:49 - INFO - Unlimiformer - Encoding 0 to 1650 out of 1650
+=== GENERATED SEQUENCE 1 (input length: 1650) ===
+|||  SPAE stands for "Society for the Promotion of Andrews' Enthusiasm."</s>
+03/17/2024 21:31:31 - INFO - Unlimiformer - Encoding 0 to 1664 out of 1664
+=== GENERATED SEQUENCE 1 (input length: 1664) ===
+|||  The conference where HomeRobot was published is the Conference on Robot Learning.</s>
+03/17/2024 21:32:00 - INFO - Unlimiformer - Encoding 0 to 2008 out of 2008
+=== GENERATED SEQUENCE 1 (input length: 2008) ===
+|||  Carnegie Mellon University is home to 26 members of the National Academy of Sciences (NAS).</s>
+03/17/2024 21:32:43 - INFO - Unlimiformer - Encoding 0 to 2158 out of 2158
+=== GENERATED SEQUENCE 1 (input length: 2158) ===
+|||  According to the information provided in the context, the official Scotty costume was unveiled in 2008.</s>
+03/17/2024 21:33:30 - INFO - Unlimiformer - Encoding 0 to 1874 out of 1874
+=== GENERATED SEQUENCE 1 (input length: 1874) ===
+|||  I apologize, but I don't know the answer to your question as the context provided does not mention the conference venue where the framework tax was published.</s>
+03/17/2024 21:34:28 - INFO - Unlimiformer - Encoding 0 to 1809 out of 1809
+=== GENERATED SEQUENCE 1 (input length: 1809) ===
+|||  I apologize, but I don't have access to the specific deadlines for adding, auditing, and tuition adjustment drops for Mini-2 (deadline 1) as the information provided in the context does not mention the exact dates. The context only provides general information about the University's academic calendar and notable events, but does not provide specific details about each course's deadlines. Therefore, I cannot provide an answer to your question.</s>
+03/17/2024 21:37:16 - INFO - Unlimiformer - Encoding 0 to 2005 out of 2005
+=== GENERATED SEQUENCE 1 (input length: 2005) ===
+|||  The year published in the article is 2023.</s>
+03/17/2024 21:37:40 - INFO - Unlimiformer - Encoding 0 to 1919 out of 1919
+=== GENERATED SEQUENCE 1 (input length: 1919) ===
+|||  CMU does not discriminate based on race.</s>
+03/17/2024 21:38:03 - INFO - Unlimiformer - Encoding 0 to 2344 out of 2344
+=== GENERATED SEQUENCE 1 (input length: 2344) ===
+|||  According to the paper, the exact match achieved by GPT-3.5-turbo on the Squad dataset is not mentioned. The paper focuses on the alignment-based matching to relevant labels, and the use of a pre-trained GPT model to generate probable expansions and continuations of the text. The paper does not provide a specific result for the performance of GPT-3.5-turbo on the Squad dataset.</s>
+03/17/2024 21:40:45 - INFO - Unlimiformer - Encoding 0 to 2428 out of 2428
+=== GENERATED SEQUENCE 1 (input length: 2428) ===
+|||  Based on the information provided, the location for unit 02700 in fall 2023 is Pittsburgh, Pennsylvania.</s>
+03/17/2024 21:41:37 - INFO - Unlimiformer - Encoding 0 to 1890 out of 1890
+=== GENERATED SEQUENCE 1 (input length: 1890) ===
+|||  The inventor of Kevlar fiber is Stephanie Kwolek (MM 1946).</s>
+03/17/2024 21:42:18 - INFO - Unlimiformer - Encoding 0 to 2169 out of 2169
+=== GENERATED SEQUENCE 1 (input length: 2169) ===
+|||  The title of course 15151 in spring 2024 is "Mathematical Foundations for Computer Science".</s>
+03/17/2024 21:43:08 - INFO - Unlimiformer - Encoding 0 to 1719 out of 1719
+=== GENERATED SEQUENCE 1 (input length: 1719) ===
+|||  The Spring 2024 grades are due on Monday, May 11, 2024.</s>
+03/17/2024 21:43:52 - INFO - Unlimiformer - Encoding 0 to 1917 out of 1917
+=== GENERATED SEQUENCE 1 (input length: 1917) ===
+|||  The course number for the course on LLMs is not provided in the given context.</s>
+03/17/2024 21:44:26 - INFO - Unlimiformer - Encoding 0 to 2036 out of 2036
+=== GENERATED SEQUENCE 1 (input length: 2036) ===
+|||  Based on the provided context, the three datasets evaluated in the KALE lexical expansion paper are:
+
+1. Machine Reading for Question Answering (MRQA)
+2. UnifiedQA
+3. Wikinews evaluation set (WN)</s>
+03/17/2024 21:46:00 - INFO - Unlimiformer - Encoding 0 to 2545 out of 2545
+=== GENERATED SEQUENCE 1 (input length: 2545) ===
+|||  According to the MSAII handbook, David Garlan's office building and number are:
+
+Office Building: TC1 (Tower Collector 1)
+Office Number: 5707
+
+I hope this helps! Let me know if you have any other questions.</s>
+03/17/2024 21:47:48 - INFO - Unlimiformer - Encoding 0 to 2021 out of 2021
+=== GENERATED SEQUENCE 1 (input length: 2021) ===
+|||  Of course! Based on the provided context, the paper "Multimodal Fusion Interactions: A Study of Human and Automatic Quantification" has 4 authors: Louis-Philippe Morency, R. Salakhutdinov, P. Liang, and Yun Cheng.</s>
+03/17/2024 21:49:37 - INFO - Unlimiformer - Encoding 0 to 1803 out of 1803
+=== GENERATED SEQUENCE 1 (input length: 1803) ===
+|||  ICML stands for International Conference on Machine Learning.</s>
+03/17/2024 21:49:56 - INFO - Unlimiformer - Encoding 0 to 1959 out of 1959
+=== GENERATED SEQUENCE 1 (input length: 1959) ===
+|||  The two standard benchmarks used to evaluate the performance of FREDOM are:
+
+1. Question-Answering (QA) task: This task involves generating full-sentence answers to given questions.
+2. Multilingual Question-Answering (M-QA) task: This task involves answering questions in multiple languages.</s>
+03/17/2024 21:51:58 - INFO - Unlimiformer - Encoding 0 to 1822 out of 1822
+=== GENERATED SEQUENCE 1 (input length: 1822) ===
+|||  The conference where the paper "Cross-Modal Fine-Tuning: Align then Refine" was published is the 32nd International Conference on Neural Information Processing Systems (NIPS'18).</s>
+03/17/2024 21:53:18 - INFO - Unlimiformer - Encoding 0 to 2072 out of 2072
+=== GENERATED SEQUENCE 1 (input length: 2072) ===
+|||  The instructor for Advanced Natural Language Processing in Fall 2023 is listed as Frederking, Fried.</s>
+03/17/2024 21:54:01 - INFO - Unlimiformer - Encoding 0 to 1885 out of 1885
+=== GENERATED SEQUENCE 1 (input length: 1885) ===
+|||  Yes, a valid CMU ID is needed to make fitness reservations.</s>
+03/17/2024 21:54:34 - INFO - Unlimiformer - Encoding 0 to 1628 out of 1628
+=== GENERATED SEQUENCE 1 (input length: 1628) ===
+|||  I'm not sure when the Fall Break started in 2023 as the retrieved context does not provide that information.</s>
+03/17/2024 21:55:21 - INFO - Unlimiformer - Encoding 0 to 2071 out of 2071
+=== GENERATED SEQUENCE 1 (input length: 2071) ===
+|||  The course number for the Search Engines course is 11442.</s>
+03/17/2024 21:55:52 - INFO - Unlimiformer - Encoding 0 to 1872 out of 1872
+=== GENERATED SEQUENCE 1 (input length: 1872) ===
+|||  According to the provided context, the student must pass 96 units of graduate-level courses to complete the PhD in Language and Information Technologies degree at Carnegie Mellon University. This includes passing at least 72 units of LTI courses and 24 units of SCS courses, as well as completing two lab courses in two different research areas. Additionally, the student must satisfy proficiencies in writing, presentation, programming, and teaching, and propose, write, and defend a PhD dissertation (thesis).</s>
+03/17/2024 21:59:09 - INFO - Unlimiformer - Encoding 0 to 2078 out of 2078
+=== GENERATED SEQUENCE 1 (input length: 2078) ===
+|||  Course number: 10701
+Title: Introduction to Machine Learning (PhD)
+Units: 12.0
+Section: A
+Days: MWF
+Start: 09:30AM
+End: 10:50AM
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+Instructors: Shah</s>
+03/17/2024 22:01:34 - INFO - Unlimiformer - Encoding 0 to 1998 out of 1998
+=== GENERATED SEQUENCE 1 (input length: 1998) ===
+|||  The first day of Mini-6 classes is on Monday, March 11, 2024.</s>
+03/17/2024 22:02:17 - INFO - Unlimiformer - Encoding 0 to 2314 out of 2314
+=== GENERATED SEQUENCE 1 (input length: 2314) ===
+|||  The first paper on KALE by Jamie Callan's group is "KALE: Using a K-Sparse Projector for Lexical Expansion" published in 2023.</s>
+03/17/2024 22:03:32 - INFO - Unlimiformer - Encoding 0 to 1772 out of 1772
+=== GENERATED SEQUENCE 1 (input length: 1772) ===
+|||  The longer track of the MIIS program is 21 months long.</s>
+03/17/2024 22:04:01 - INFO - Unlimiformer - Encoding 0 to 1886 out of 1886
+=== GENERATED SEQUENCE 1 (input length: 1886) ===
+|||  ICTIR stands for International Conference on Theory of Information Retrieval.</s>
+03/17/2024 22:04:27 - INFO - Unlimiformer - Encoding 0 to 2059 out of 2059
+=== GENERATED SEQUENCE 1 (input length: 2059) ===
+|||  The ACL 60/60 evaluation dataset includes a variety of language pairs and domains, including scientific conference talks in multilingual tracks. The dataset consists of English transcripts of talks and translations into 10 target languages, and is used for validation in experiments.</s>
+03/17/2024 22:06:12 - INFO - Unlimiformer - Encoding 0 to 1576 out of 1576
+=== GENERATED SEQUENCE 1 (input length: 1576) ===
+|||  The benchmark used in the study is the English Semantic Textual Similarity benchmark dataset (STSb) (Cer et al. 2017).</s>
+03/17/2024 22:07:12 - INFO - Unlimiformer - Encoding 0 to 1932 out of 1932
+=== GENERATED SEQUENCE 1 (input length: 1932) ===
+|||  The Semester & Mini-1 Classes begin on August 28th, Monday.</s>
+03/17/2024 22:07:48 - INFO - Unlimiformer - Encoding 0 to 2306 out of 2306
+=== GENERATED SEQUENCE 1 (input length: 2306) ===
+|||  The title of course 17200 in spring 2024 is "Interpretation and Argument".</s>
+03/17/2024 22:08:33 - INFO - Unlimiformer - Encoding 0 to 2183 out of 2183
+=== GENERATED SEQUENCE 1 (input length: 2183) ===
+|||  Hello! I'm here to help you with your question. Unfortunately, I don't have access to the specific context you provided, so I can't answer your question directly. However, I can tell you that the deadline for adding or dropping a Mini-4 course with tuition adjustment is typically at the end of the add/drop period, which varies depending on the semester and the course. You can check the official academic calendar for Carnegie Mellon University for the specific deadline for the Spring 2024 semester. Alternatively, you can contact the Registrar's Office or the course instructor for more information.</s>
+03/17/2024 22:12:33 - INFO - Unlimiformer - Encoding 0 to 2252 out of 2252
+=== GENERATED SEQUENCE 1 (input length: 2252) ===
+|||  The phone number for CMU's office of Title IX initiatives is 412-268-7125.</s>
+03/17/2024 22:13:26 - INFO - Unlimiformer - Encoding 0 to 2086 out of 2086
+=== GENERATED SEQUENCE 1 (input length: 2086) ===
+|||  The reduction in word error rates achieved by the proposed models on LibriSpeech test-clean is 26.4%.</s>
+03/17/2024 22:14:13 - INFO - Unlimiformer - Encoding 0 to 1743 out of 1743
+=== GENERATED SEQUENCE 1 (input length: 1743) ===
+|||  Carnegie Tech merged with the Mellon Institute in 1967.</s>
+03/17/2024 22:14:47 - INFO - Unlimiformer - Encoding 0 to 1872 out of 1872
+=== GENERATED SEQUENCE 1 (input length: 1872) ===
+|||  According to the provided context, Lori S. Levin has 7 papers on Semantic Scholar.</s>
+03/17/2024 22:15:27 - INFO - Unlimiformer - Encoding 0 to 2035 out of 2035
+=== GENERATED SEQUENCE 1 (input length: 2035) ===
+|||  The Language Technologies Institute's phone number according to the MCDS handbook is 412-268-6591.</s>
+03/17/2024 22:16:24 - INFO - Unlimiformer - Encoding 0 to 1592 out of 1592
+=== GENERATED SEQUENCE 1 (input length: 1592) ===
+|||  The WER achieved by the joint fine-tuning strategy in the Convoifilter paper is 14.5%.</s>
+03/17/2024 22:17:12 - INFO - Unlimiformer - Encoding 0 to 2002 out of 2002
+=== GENERATED SEQUENCE 1 (input length: 2002) ===
+|||  The deadline to drop a Mini-2 course with a withdrawal grade assigned is on April 3rd, 2023.</s>
+03/17/2024 22:18:06 - INFO - Unlimiformer - Encoding 0 to 1753 out of 1753
+=== GENERATED SEQUENCE 1 (input length: 1753) ===
+|||  Yes, LTI offers a course on text mining. The course is titled "Machine Learning for Text Mining" and is part of the Language Technologies Institute's (LTI) minor in Language Technologies. The course covers topics such as text preprocessing, feature extraction, and machine learning algorithms for text mining.</s>
+03/17/2024 22:20:04 - INFO - Unlimiformer - Encoding 0 to 2029 out of 2029
+=== GENERATED SEQUENCE 1 (input length: 2029) ===
+|||  Besides Pittsburgh, Carnegie Mellon University has physical campuses in:
+
+1. Kigali, Rwanda
+2. Abu Dhabi, UAE (through the Mohamed bin Zayed University of Artificial Intelligence)
+
+Note: The context provided does not mention any other physical campuses outside of Pittsburgh and Kigali/Abu Dhabi.</s>
+03/17/2024 22:22:33 - INFO - Unlimiformer - Encoding 0 to 2092 out of 2092
+=== GENERATED SEQUENCE 1 (input length: 2092) ===
+|||  The author of the paper titled "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena" is Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing, Hao Zhang, Joseph E. Gonzalez, and Ion Stoica.</s>
+03/17/2024 22:25:40 - INFO - Unlimiformer - Encoding 0 to 2063 out of 2063
+=== GENERATED SEQUENCE 1 (input length: 2063) ===
+|||  The authors of the SENTECON paper are Victoria Lin and Louis-Philippe Morency.</s>
+03/17/2024 22:26:18 - INFO - Unlimiformer - Encoding 0 to 2209 out of 2209
+=== GENERATED SEQUENCE 1 (input length: 2209) ===
+|||  I don't know the last names of the professors who taught 11-711 in Fall 2023. The text you provided does not mention the last names of the professors.</s>
+03/17/2024 22:27:35 - INFO - Unlimiformer - Encoding 0 to 1946 out of 1946
+=== GENERATED SEQUENCE 1 (input length: 1946) ===
+|||  Of course! Here's the answer to your question:
+
+The WebArena benchmark includes 812 test examples.</s>
+03/17/2024 22:28:25 - INFO - Unlimiformer - Encoding 0 to 1888 out of 1888
+=== GENERATED SEQUENCE 1 (input length: 1888) ===
+|||  Based on the information provided, alumni and current/former faculty of Carnegie Mellon University have won a total of 7 Tony Awards.</s>
+03/17/2024 22:29:23 - INFO - Unlimiformer - Encoding 0 to 1841 out of 1841
+=== GENERATED SEQUENCE 1 (input length: 1841) ===
+||| Based on the provided context, the course offering for Summer 2024 at the University of Pittsburgh includes:
+
+1. Summer Internship (99412) - 1.0 unit, Section A
+2. Collaborative Research through Projects (99520) - variable units, Sections A, M, X, Y, Z, W, B, C, D, N, L
+3. Interdisciplinary Independent Study: Topics in Photography (62398) - 5-10 units, Sections A, E, I, K, B, C, D, J, H
+4. Theater Architecture I (62408) - 6.0 units, Section A3
+5. Independent Study (90934, 90935, 90936) - variable units, Section A
+
+Therefore
+03/17/2024 22:35:02 - INFO - Unlimiformer - Encoding 0 to 1879 out of 1879
+=== GENERATED SEQUENCE 1 (input length: 1879) ===
+|||  A-LoL uses sequence-level classifiers or human-designed scoring functions as rewards to filter negative advantage (low-quality) data points during training.</s>
+03/17/2024 22:36:03 - INFO - Unlimiformer - Encoding 0 to 1825 out of 1825
+=== GENERATED SEQUENCE 1 (input length: 1825) ===
+|||  Yes, classes will start after the winter break in spring 2024.</s>
+03/17/2024 22:36:34 - INFO - Unlimiformer - Encoding 0 to 2007 out of 2007
+=== GENERATED SEQUENCE 1 (input length: 2007) ===
+|||  The task success rate of the GPT-4-based agent in WebArena is 14.41%.</s>
+03/17/2024 22:37:21 - INFO - Unlimiformer - Encoding 0 to 1763 out of 1763
+=== GENERATED SEQUENCE 1 (input length: 1763) ===
+|||  The limit on the number of guests who can attend the main commencement ceremony is not specified in the given context.</s>
+03/17/2024 22:38:04 - INFO - Unlimiformer - Encoding 0 to 2065 out of 2065
+=== GENERATED SEQUENCE 1 (input length: 2065) ===
+|||  The conference where the paper "The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features" was published is Interspeech.</s>
+03/17/2024 22:39:23 - INFO - Unlimiformer - Encoding 0 to 2033 out of 2033
+=== GENERATED SEQUENCE 1 (input length: 2033) ===
+|||  According to the survey conducted in the paper, there were 312 participants from the NLP community.</s>
+03/17/2024 22:40:03 - INFO - Unlimiformer - Encoding 0 to 1824 out of 1824
+=== GENERATED SEQUENCE 1 (input length: 1824) ===
+|||  The benchmark that extends SUPERB to multiple languages is called ML-SUPERB.</s>
+03/17/2024 22:40:39 - INFO - Unlimiformer - Encoding 0 to 2074 out of 2074
+=== GENERATED SEQUENCE 1 (input length: 2074) ===
+|||  The model used by MQTTS for multi-accent speech synthesis is not specified in the provided context.</s>
+03/17/2024 22:41:22 - INFO - Unlimiformer - Encoding 0 to 1870 out of 1870
+=== GENERATED SEQUENCE 1 (input length: 1870) ===
+|||  The units for linguistics lab are:
+
+* Graduate Seminar on Dialog Processing (6 units)
+* Linguistics Lab (6 units)
+* Human Language for Artificial Intelligence (12 units)
+* Grammar Formalisms (12 units)
+* Linguistics Lab: Self-Paced (6 units)
+* Meaning in Language Lab (Self Paced) (6 units)
+* Machine Learning with Graphs (12 units)
+* Search Engines (12 units)
+
+Note: The above units are based on the information provided in the context and may not be the full list of units offered for linguistics lab.</s>
+03/17/2024 22:45:33 - INFO - Unlimiformer - Encoding 0 to 1945 out of 1945
+=== GENERATED SEQUENCE 1 (input length: 1945) ===
+|||  I don't know the answer to your question as the provided context does not provide enough information to determine how many courses Abdelghany teaches in Summer 2024.</s>
+03/17/2024 22:46:40 - INFO - Unlimiformer - Encoding 0 to 1751 out of 1751
+=== GENERATED SEQUENCE 1 (input length: 1751) ===
+|||  The LTI faculty member who works on recommender systems is Paul Covington.</s>
+03/17/2024 22:47:11 - INFO - Unlimiformer - Encoding 0 to 1714 out of 1714
+=== GENERATED SEQUENCE 1 (input length: 1714) ===
+|||  The Plan module in the PET framework generates a list of high-level sub-tasks based on a given task description using a pre-trained LLM.</s>
+03/17/2024 22:48:10 - INFO - Unlimiformer - Encoding 0 to 1626 out of 1626
+=== GENERATED SEQUENCE 1 (input length: 1626) ===
+|||  The term for the discrepancies between increases in computational throughput and reductions in floating point operations, and improvements in wall-clock inference latency is referred to as the "framework tax."</s>
+03/17/2024 22:49:21 - INFO - Unlimiformer - Encoding 0 to 2077 out of 2077
+=== GENERATED SEQUENCE 1 (input length: 2077) ===
+|||  The course number for Game Theoretic Probability, Statistics, and Learning in spring 2024 is 10880.</s>
+03/17/2024 22:50:16 - INFO - Unlimiformer - Encoding 0 to 1870 out of 1870
+=== GENERATED SEQUENCE 1 (input length: 1870) ===
+|||  The Faculty member from LTI who co-authored the paper "Transformed Protoform Reconstruction" is Young Min Kim.</s>
+03/17/2024 22:51:07 - INFO - Unlimiformer - Encoding 0 to 2202 out of 2202
+=== GENERATED SEQUENCE 1 (input length: 2202) ===
+|||  The conference where the paper "ChatGPT MT: Competitive for High- (but Not Low-) Resource Languages" was published is the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP). The conference was held in Hong Kong, China.</s>
+03/17/2024 22:53:29 - INFO - Unlimiformer - Encoding 0 to 2199 out of 2199
+=== GENERATED SEQUENCE 1 (input length: 2199) ===
+|||  According to the provided context, the evaluation metrics reported on TREC DL 19 for the KALE paper are MRR@10 on MS MARCO and NDCG@10 on TREC DL.</s>
+03/17/2024 22:54:55 - INFO - Unlimiformer - Encoding 0 to 2001 out of 2001
+=== GENERATED SEQUENCE 1 (input length: 2001) ===
+|||  I don't know the answer to your question. According to the provided context, there is no mention of the sweepstakes finals at Spring Carnival.</s>
+03/17/2024 22:55:57 - INFO - Unlimiformer - Encoding 0 to 1718 out of 1718
+=== GENERATED SEQUENCE 1 (input length: 1718) ===
+|||  The paper "SenteCon: Leveraging Lexicons to Learn Human-Interpretable Language Representations" was published at the Annual Meeting of the Association for Computational Linguistics in 2023.</s>
+03/17/2024 22:57:21 - INFO - Unlimiformer - Encoding 0 to 1859 out of 1859
+=== GENERATED SEQUENCE 1 (input length: 1859) ===
+|||  The framework proposed in the paper to simplify the control problem of embodied agents using LLMs is called the Plan, Eliminate, and Track (PET) framework.</s>
+03/17/2024 22:58:27 - INFO - Unlimiformer - Encoding 0 to 2112 out of 2112
+=== GENERATED SEQUENCE 1 (input length: 2112) ===
+|||  Based on the retrieved context, the days of the week when Scotch'n'Soda's theatre carnival shows are held during spring carnival are not specified. The context only provides information about the dates of the carnival and the events that will take place during that time, but it does not specify the specific days of the week when the theatre shows will be held. Therefore, I cannot provide an answer to this question.</s>
+03/17/2024 23:01:04 - INFO - Unlimiformer - Encoding 0 to 2082 out of 2082
+=== GENERATED SEQUENCE 1 (input length: 2082) ===
+|||  The MIIS Capstone Planning Seminar is worth 6 units.</s>
+03/17/2024 23:01:34 - INFO - Unlimiformer - Encoding 0 to 1952 out of 1952
+=== GENERATED SEQUENCE 1 (input length: 1952) ===
+|||  The attention dot-product scores in the Unlimiformer approach are not specified in the provided context.</s>
+03/17/2024 23:02:12 - INFO - Unlimiformer - Encoding 0 to 1700 out of 1700
+=== GENERATED SEQUENCE 1 (input length: 1700) ===
+|||  The LTI faculty member who is an author on the COBRA Frames paper is Xuhui Zhou.</s>
+03/17/2024 23:02:57 - INFO - Unlimiformer - Encoding 0 to 1879 out of 1879
+=== GENERATED SEQUENCE 1 (input length: 1879) ===
+|||  I apologize, but I do not have the information you requested. The context provided does not mention Professors Bhiksha Raj or Rita Singh co-authoring a paper.</s>
+03/17/2024 23:04:04 - INFO - Unlimiformer - Encoding 0 to 2125 out of 2125
+=== GENERATED SEQUENCE 1 (input length: 2125) ===
+|||  The Director of the MSAII program is Michael I. Shamos.</s>
+03/17/2024 23:04:32 - INFO - Unlimiformer - Encoding 0 to 1896 out of 1896
+=== GENERATED SEQUENCE 1 (input length: 1896) ===
+|||  The full name of the conference where the paper "Why do Nearest Neighbor Language Models Work?" was published is the International Conference on Machine Learning.</s>
+03/17/2024 23:05:29 - INFO - Unlimiformer - Encoding 0 to 1888 out of 1888
+=== GENERATED SEQUENCE 1 (input length: 1888) ===
+|||  The mean confidence difference for the "he, she" gender-word pair in the paper is 0.317.</s>
+03/17/2024 23:06:15 - INFO - Unlimiformer - Encoding 0 to 2085 out of 2085
+=== GENERATED SEQUENCE 1 (input length: 2085) ===
+|||  The Mini-3 faculty course evaluations open on February 19th, Monday.</s>
+03/17/2024 23:06:51 - INFO - Unlimiformer - Encoding 0 to 2126 out of 2126
+=== GENERATED SEQUENCE 1 (input length: 2126) ===
+|||  Based on the provided context, the ranker that consistently outperformed BM25 in the InPars study is DeBERTA-v3-435M.</s>
+03/17/2024 23:07:58 - INFO - Unlimiformer - Encoding 0 to 1797 out of 1797
+=== GENERATED SEQUENCE 1 (input length: 1797) ===
+|||  For additional information about the MIIS program, you should contact Brianna Eriksen.</s>
+03/17/2024 23:08:36 - INFO - Unlimiformer - Encoding 0 to 1826 out of 1826
+=== GENERATED SEQUENCE 1 (input length: 1826) ===
+|||  According to the framework tax paper, as hardware speed increases over time, the disparity in model latency and throughput between different deep learning frameworks grows.</s>
+03/17/2024 23:09:32 - INFO - Unlimiformer - Encoding 0 to 2184 out of 2184
+=== GENERATED SEQUENCE 1 (input length: 2184) ===
+|||  The deadline for adding, auditing, and tuition adjustment drop for Mini-3 is April 1st.</s>
+03/17/2024 23:10:18 - INFO - Unlimiformer - Encoding 0 to 1967 out of 1967
+=== GENERATED SEQUENCE 1 (input length: 1967) ===
+|||  The name of the method proposed in the paper for alignment is "Factually Augmented RLHF."</s>
+03/17/2024 23:10:59 - INFO - Unlimiformer - Encoding 0 to 1945 out of 1945
+=== GENERATED SEQUENCE 1 (input length: 1945) ===
+|||  The role of a chute flagger in the sweepstakes competition is to provide a signal for buggy drivers to know when to start the sharp right-hand turn from Schenley Drive onto Frew Street.</s>
+03/17/2024 23:12:19 - INFO - Unlimiformer - Encoding 0 to 1699 out of 1699
+=== GENERATED SEQUENCE 1 (input length: 1699) ===
+|||  The PET framework improved the AlfWorld instruction following benchmark by 15%.</s>
+03/17/2024 23:12:48 - INFO - Unlimiformer - Encoding 0 to 1818 out of 1818
+=== GENERATED SEQUENCE 1 (input length: 1818) ===
+|||  The benchmark used in the experiments described in the paper is the Alf-World instruction following benchmark.</s>
+03/17/2024 23:13:23 - INFO - Unlimiformer - Encoding 0 to 1801 out of 1801
+=== GENERATED SEQUENCE 1 (input length: 1801) ===
+|||  LTI PhD students can contact the LTI Office Manager, Karen Mazidi, for questions about their offices.</s>
+03/17/2024 23:14:06 - INFO - Unlimiformer - Encoding 0 to 2025 out of 2025
+=== GENERATED SEQUENCE 1 (input length: 2025) ===
+|||  Based on the provided context, the populations that were found to be predominantly aligned with by the datasets and models in the NLPositionality study are:
+
+* Western
+* White
+* College-educated
+* Younger populations.
+
+Additionally, the study found that certain groups, such as non-binary people and non-native English speakers, are further marginalized by datasets and models, as they rank least in alignment across all tasks.</s>
+03/17/2024 23:16:56 - INFO - Unlimiformer - Encoding 0 to 2160 out of 2160
+=== GENERATED SEQUENCE 1 (input length: 2160) ===
+|||  The instructor for unit 02701 is Ma.</s>
+03/17/2024 23:17:22 - INFO - Unlimiformer - Encoding 0 to 2085 out of 2085
+=== GENERATED SEQUENCE 1 (input length: 2085) ===
+|||  The reduction in word error rates achieved by the proposed models on the LibriSpeech testother is not mentioned in the provided context.</s>
+03/17/2024 23:18:10 - INFO - Unlimiformer - Encoding 0 to 1789 out of 1789
+=== GENERATED SEQUENCE 1 (input length: 1789) ===
+|||  The LTI faculty involved in the work of improving factuality of abstractive summarization via contrastive reward learning is:
+
+* Ramakrishnan, Ramakrishnan, Singh
+
+They are instructors of the course "Introduction to Deep Learning" and "LTI Minor Project - Seniors" in the Fall 2023 semester, and they are also the research advisor and mentor for the students in the program.</s>
+03/17/2024 23:20:58 - INFO - Unlimiformer - Encoding 0 to 1934 out of 1934
+=== GENERATED SEQUENCE 1 (input length: 1934) ===
+|||  I don't know if there is a YouTube channel for The Kiltie Band.</s>
+03/17/2024 23:21:31 - INFO - Unlimiformer - Encoding 0 to 2100 out of 2100
+=== GENERATED SEQUENCE 1 (input length: 2100) ===
+|||  The Senior Leadership Recognition Ceremony is held on May 10, 2024, in Pittsburgh, Pennsylvania. The location is Room DNM DNM.</s>
+03/17/2024 23:22:45 - INFO - Unlimiformer - Encoding 0 to 1783 out of 1783
+=== GENERATED SEQUENCE 1 (input length: 1783) ===
+|||  The name of Yonatan Bisk's lab is not provided in the given context.</s>
+03/17/2024 23:23:19 - INFO - Unlimiformer - Encoding 0 to 1800 out of 1800
+=== GENERATED SEQUENCE 1 (input length: 1800) ===
+|||  The typical time frame for completing the advanced study MIIS degree is 21 months.</s>
+03/17/2024 23:23:55 - INFO - Unlimiformer - Encoding 0 to 1968 out of 1968
+=== GENERATED SEQUENCE 1 (input length: 1968) ===
+|||  According to the retrieved context, Carnegie Mellon University is home to 7 members of the National Academy of Engineering (NAE).</s>
+03/17/2024 23:24:47 - INFO - Unlimiformer - Encoding 0 to 1802 out of 1802
+=== GENERATED SEQUENCE 1 (input length: 1802) ===
+|||  Labor Day is on Monday, September 4, 2023.</s>
+03/17/2024 23:25:16 - INFO - Unlimiformer - Encoding 0 to 1970 out of 1970
+=== GENERATED SEQUENCE 1 (input length: 1970) ===
+|||  The two faculty members co-teaching the neural code generation course are:
+
+1. Anatole Gershman
+2. Daphne Ippolito</s>
+03/17/2024 23:26:22 - INFO - Unlimiformer - Encoding 0 to 1978 out of 1978
+=== GENERATED SEQUENCE 1 (input length: 1978) ===
+|||  Based on the information provided, the course numbers for question answering courses at LTI are:
+
+* 11601 - Advanced Coding & Algorithms Bootcamp
+* 11611 - Natural Language Processing
+* 11696 - MIIS Capstone Planning Seminar
+* 11697 - Introduction to Question Answering
+* 11700 - LTI Practicum
+
+Note that some of these courses may have variations in the number of units offered, as mentioned in the context.</s>
+03/17/2024 23:29:46 - INFO - Unlimiformer - Encoding 0 to 2100 out of 2100
+=== GENERATED SEQUENCE 1 (input length: 2100) ===
+|||  The number that all of the Architecture classes start with is 6.</s>
+03/17/2024 23:30:12 - INFO - Unlimiformer - Encoding 0 to 2110 out of 2110
+=== GENERATED SEQUENCE 1 (input length: 2110) ===
+|||  The conference where the paper "A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech" was published is the arXiv.</s>
+03/17/2024 23:31:17 - INFO - Unlimiformer - Encoding 0 to 2156 out of 2156
+=== GENERATED SEQUENCE 1 (input length: 2156) ===
+|||  According to the provided context, the course number for Undergraduate Research in Computational Biology in fall 2023 is 02500.</s>
+03/17/2024 23:32:17 - INFO - Unlimiformer - Encoding 0 to 1850 out of 1850
+=== GENERATED SEQUENCE 1 (input length: 1850) ===
+|||  The improvement in ROUGE-L score demonstrated by the proposed block-wise training method in the BASS paper from Interspeech 2023 is not specified in the provided context.</s>
+03/17/2024 23:33:29 - INFO - Unlimiformer - Encoding 0 to 1810 out of 1810
+=== GENERATED SEQUENCE 1 (input length: 1810) ===
+|||  The accuracy of SHAP reduction is not mentioned in the provided text.</s>
+03/17/2024 23:33:55 - INFO - Unlimiformer - Encoding 0 to 1810 out of 1810
+=== GENERATED SEQUENCE 1 (input length: 1810) ===
+|||  The two key factors addressed by CSurF are:
+
+1. Coherence due to the direct contribution of afferent synaptic inputs.
+2. Coherence between the sender LFP and the summed population spiking activity in the receiver.</s>
+03/17/2024 23:35:37 - INFO - Unlimiformer - Encoding 0 to 2227 out of 2227
+=== GENERATED SEQUENCE 1 (input length: 2227) ===
+|||  Based on the retrieved context, the title of course 15110 in spring 2024 is "Mathematical Foundations for Computer Science".</s>
+03/17/2024 23:36:37 - INFO - Unlimiformer - Encoding 0 to 1837 out of 1837
+=== GENERATED SEQUENCE 1 (input length: 1837) ===
+|||  The proposed approach for fairness domain adaptation in semantic scene segmentation is called "Differential Treatment for Stuff and Things" (DTFT).</s>
+03/17/2024 23:37:34 - INFO - Unlimiformer - Encoding 0 to 1882 out of 1882
+=== GENERATED SEQUENCE 1 (input length: 1882) ===
+|||  The full name of the conference where the paper "BASS: Block-wise Adaptation for Speech Summarization" was published is not provided in the given context.</s>
+03/17/2024 23:38:38 - INFO - Unlimiformer - Encoding 0 to 2233 out of 2233
+=== GENERATED SEQUENCE 1 (input length: 2233) ===
+|||  The value of Course 15090 in spring 2024 is 3.0 units.</s>
+03/17/2024 23:39:23 - INFO - Unlimiformer - Encoding 0 to 2052 out of 2052
+=== GENERATED SEQUENCE 1 (input length: 2052) ===
+|||  The cost of applying for the MLT program on December 4th, 2023 is $100.</s>
+03/17/2024 23:40:09 - INFO - Unlimiformer - Encoding 0 to 1689 out of 1689
+=== GENERATED SEQUENCE 1 (input length: 1689) ===
+|||  The proposed learning objective to improve perceptual quality of speech is to develop a metric that captures distributional similarity between real and synthetic speech, as a proxy for perceptual speech quality tests.</s>
+03/17/2024 23:41:21 - INFO - Unlimiformer - Encoding 0 to 2118 out of 2118
+=== GENERATED SEQUENCE 1 (input length: 2118) ===
+|||  The sharp right-hand turn of the buggy course occurs at the "Chute" located near the southwestern end of Frew Street at its intersection with Schenley Drive.</s>
+03/17/2024 23:42:26 - INFO - Unlimiformer - Encoding 0 to 2166 out of 2166
+=== GENERATED SEQUENCE 1 (input length: 2166) ===
+|||  The instructor for course 15151 in spring 2024 is Peng.</s>
+03/17/2024 23:43:06 - INFO - Unlimiformer - Encoding 0 to 1730 out of 1730
+=== GENERATED SEQUENCE 1 (input length: 1730) ===
+|||  The last author in "To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing" is Emma Strubell.</s>
+03/17/2024 23:44:10 - INFO - Unlimiformer - Encoding 0 to 1952 out of 1952
+=== GENERATED SEQUENCE 1 (input length: 1952) ===
+|||  I don't know the BartScore achieved by the CRL-COM (R) system on the XSUM dataset. According to the provided context, BartScore is a text generation evaluation metric formulated by Yuan et al. (2021) as a text generation task from pre-trained language models in an unsupervised fashion. The metric assesses the quality of generated text by converting it into a reference or source text, and then evaluating its quality using a language model perplexity metric. However, the context does not provide the specific value of the BartScore achieved by the CRL-COM (R) system on the XSUM dataset.</s>
+03/17/2024 23:48:05 - INFO - Unlimiformer - Encoding 0 to 1989 out of 1989
+=== GENERATED SEQUENCE 1 (input length: 1989) ===
+|||  FiT5 integrates the following types of information into a single unified model:
+
+1. Document text information
+2. Ranking features
+3. Global document information.</s>
+03/17/2024 23:49:12 - INFO - Unlimiformer - Encoding 0 to 2132 out of 2132

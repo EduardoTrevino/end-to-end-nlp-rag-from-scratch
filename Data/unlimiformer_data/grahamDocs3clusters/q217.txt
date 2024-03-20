@@ -1,0 +1,246 @@
+Question: Which Carnegie Tech School before 1973 was a college for women?
+
+Context: 3 2 0 2
+
+y a M 7 1
+
+] L C . s c [
+
+2 v 9 6 9 7 0 . 5 0 3 2 : v i X r a
+
+GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content
+
+Yutian Chen† School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213 yutianch@andrew.cmu.edu
+
+Hao Kang† School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213 haok@andrew.cmu.edu
+
+Vivian Zhai† College of Engineering Carnegie Mellon University Pittsburgh, PA 15213 yiyanz@andrew.cmu.edu
+Noah A. Smith♢♠ Hannaneh Hajishirzi♢♠ ♠Allen Institute for Artificial Intelligence ♢Paul G. Allen School of Computer Science & Engineering, University of Washington ♡Language Technologies Institute, Carnegie Mellon University ♣Institute for Language, Cognition and Computation, University of Edinburgh {haop,jessed,matthewp,kylel,sams,darrellp,beltagy,petew}@allenai.org {qicao,nasmith,hannaneh}@cs.washington.edu {jaredfern,strubell}@cmu.edu, tom.sherborne@ed.ac.uk
+
+Abstract
+3 2 0 2
+
+y a M 6 2
+
+] L C . s c [
+
+1 v 4 7 1 7 1 . 5 0 3 2 : v i X r a
+
+1
+
+From Dogwhistles to Bullhorns: Unveiling Coded Rhetoric with Language Models
+
+Julia Mendelsohn♢ ∗
+
+Ronan Le Bras♣
+
+Yejin Choi♠♣
+
+Maarten Sap♡♣
+
+♢University of Michigan School of Information
+
+♣Allen Institute for AI
+
+♠Paul G. Allen School of Computer Science & Engineering, University of Washington ♡Language Technologies Institute, Carnegie Mellon University
+
+# juliame@umich.edu
+
+(cid:128) dogwhistles.allen.ai
+
+Abstract
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Keshav
+
+Spring 2024
+
+Course number: 73500
+
+Title: Tepper College Honors Thesis I
+
+Units: 3-18
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Spear
+
+Spring 2024
+
+Course number: 73501
+
+Title: Tepper College Honors Thesis II
+
+Units: 3-18
+
+Section: A,E,B,A4,F,G,C,D
+
+Days: TBA,W
+
+Start: ,08:00AM
+
+End: ,09:20AM
+
+Room: TBA,DNM DNM,ANS B10
+Instructors: Lessem,Instructor TBA,Ales,Gasper
+
+Fall 2023
+
+Course number: 73501
+
+Title: Tepper College Honors Thesis II
+
+Units: 3-18
+
+Section: A,A2
+
+Days: TBA,R
+
+Start: ,08:00AM
+
+End: ,09:20AM
+
+Room: ANS B10,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bain,Ales
+
+Fall 2023
+
+Course number: 18050
+
+Title: Study Abroad
+
+Units: 0.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Fall 2023
+
+Course number: 18095
+With the end of World War II, the latter half of the 20th century brought unprecedented growth to Carnegie Tech. In 1956, the arrival of the first IBM computer to campus was revolutionary, initiating a university culture where information technology pervaded virtually all areas of study. University culture also changed in 1973 when Margaret Morrison closed and women joined their male peers in classrooms and dorms. The times were changing, and Tech positioned itself at the forefront, opening
+their careers, lives and communities. "My heart is in the work," he stated, which would become part of the school's official motto. The Carnegie Technical Schools offered two- and three-year certificates in the arts as well as in engineering disciplines and included a college for women, Margaret Morrison Carnegie College.
+SCIENCE’S FIRST-
+
+YEAR STUDENTS
+
+WERE WOMEN
+
+IN 2019
+
+Nearly triple the
+
+national average“ My Heart is in the Work. ”
+
+Andrew Carnegie, Founder
+
+November 15, 1900
+
+49.8 %
+
+87%  U.S. 13%  InternationalSCHOOLS AND COLLEGES
+
+College of Engineering
+
+College of Fine Arts
+
+Dietrich College of Humanities
+
+and Social Sciences
+
+Heinz College of Information Systems
+
+and Public Policy
+
+Mellon College of Science
+
+School of Computer Science
+
+Tepper School of Business
+
+
+Answer: 

@@ -1,0 +1,161 @@
+Question: What is the name of the proposed approach that extends pretrained transformer models to handle unlimited input lengths?
+
+Context: Since the proposal of transformers (Vaswani et al., 2017), these models have been limited to bounded input lengths, because of their need to attend to every token in the input. In this work, we propose Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores. This kNN index can be kept on either the
+Paper title: 'Unlimiformer: Long-Range Transformers with Unlimited Length Input' Published year: 2023 Publication venue or conference: arXiv.org Authors: Amanda Bertsch, Graham Neubig, Uri Alon, Matthew R. Gormley Summary: This work proposes Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores.
+We present Unlimiformer, an approach for augmenting pretrained encoder-decoders and offloading the cross-attention computation to a kNN index, to allow for unlimited length input. Instead of attending to all keys, this kNN index allows every cross-attention head in every decoder layer to retrieve and attend only to its top-k keys. We evaluate Unlimiformer on several long-document and book-summarization benchmarks having inputs of up to 500K tokens, and show that Unlimiformer improves existing
+Spring 2024
+
+Course number: 18090
+
+Title: Twisted Signals: Multimedia Processing for the Arts
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: PH A18A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stiles
+
+Spring 2024
+
+Course number: 18095
+
+Title: Getting Started in Electronics: An Experiential Approach
+
+Units: 9.0
+
+Section: A,B
+
+Days: TR
+
+Start: 11:00AM,02:00PM
+
+End: 12:20PM,03:20PM
+
+Room: HH A104
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zajdel
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Title: Special Topics:  Introduction to Python Prototyping for Infrastructure Systems:
+
+Units: 6.0
+
+Section:  ,A1
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,SH 236
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Finger
+
+Fall 2023
+
+Course number: 12751
+
+Title: Air Quality Engineering:
+
+Units: 12.0
+
+Section: A,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,02:50PM
+
+Room:  ,WEH 6403
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Presto
+
+Fall 2023
+
+Course number: 12757
+Transition: Procedure whereby one pusher finishes pushing a buggy and the next pusher in sequence starts to push that same buggy.
+rules carried over from the pre-war era, including that track and cross-country runners were ineligible, buggies must stay in their lanes on the front hills, buggies may have no less than 3 and no more than 5 wheels, and no switching of drivers.
+Teams in the outside lane are given a 3 yard head start due to being required to go the long way around the traffic dummy Each pusher must have at least 1 hand on the buggy at all times, except in the transition zone; but no more than 1 pusher may be in contact with the buggy at any time In addition to the driver, pushers, and alternates, Rosters also included all designers and builders Buggies entered in Design Comp must also finish the race in order to qualify (but exceptions are permitted)
+review sessions on course materials outside th e classroom. SI is a non-remedial approach
+
+to learning as the program targets high-risk  courses and is available in select courses
+
+based on data related to past stu dent performance and feasibility.
+
+Peer Tutoring:  Weekly Tutoring Appointments are offered in a one-on-one and small
+
+group format to students from any discipli ne who need assistance with a course that may
+................................................................................... 11 3 MCDS Degree Completion and Certification ...................................................... 11 3.1 CMU Degree Completion and Statute of Limitations .......................................... 11 Early Completion  11 Extended or Longer-than-Standard Completion  12 Policy on Master’s Student Statute of Limitations  12 Additional Guidance for Students  12 3.2 Full-time Status
+3.1.1  Graduate Students  ................................................................................................ 11
+
+3.1.2  Early Completion  ................................................................................................... 11
+
+3.1.3  Extended or Longer -than- Standard Completion (Statute of Limitations)  .............. 12
+
+3.1.4  Additional Guidance for Students  ......................................................................... 12
+
+
+Answer: 

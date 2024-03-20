@@ -1,0 +1,19 @@
+Question: In which year did The Kiltie Band have their first official performance?
+
+Context: Figure 7: Comparison between single-task (MS- MARCO QA) and multi-task (KILT) trained AAR. TART (Asai et al., 2022) is a multi-task instruction- finetuned retriever that has not been finetuned with LM- preferred signals.
+Fabio Petroni, Aleksandra Piktus, Angela Fan, Patrick Lewis, Majid Yazdani, Nicola De Cao, James Thorne, Yacine Jernite, Vladimir Karpukhin, Jean Maillard, Vassilis Plachouras, Tim Rocktäschel, and Sebastian Riedel. KILT: a benchmark for knowledge intensive In Proceedings of NAACL, pages language tasks. 2523–2544.
+Fabio Petroni, Aleksandra Piktus, Angela Fan, Patrick Lewis, Majid Yazdani, Nicola De Cao, James Thorne, Yacine Jernite, Vladimir Karpukhin, Jean Mail- lard, et al. 2020. Kilt: a benchmark for knowl- arXiv preprint edge intensive language tasks. arXiv:2009.02252.
+The Kiltie Band
+
+The Kiltie Band began in 1908 with a group of just seven students dedicated to supporting Carnegie Tech football, and today's Kiltie Band continues a tradition of excellence originated over a century ago. The Band took the field for its first official performance on November 25th, 1922, on what would have been Andrew Carnegie's 87th birthday.
+Q: When are rehearsals? A: Football season: Mondays and Thursdays from 5:30 p.m.-7:30 p.m. and Game Day 9:30-11:00a.m. Concert Season: Mondays and Thursdays from 5:30-6:30 p.m. Location is the CUC Studio Theater.
+
+Q: When are performances? A: The Kiltie Band performs at all home football games, a holiday concert, and two spring concerts. Times and dates for all performances are announced at the first practice.
+Q: Are there auditions? A: No, any member of the campus community with music experience is able to join the Kiltie Band!
+
+Q: Do I have to memorize music? A: No, the music is changed for every show. You should invest in a good and trusty lyre.
+
+Q: When is the first rehearsal? A: On the first day of class (Monday) at 5:30 p.m. in the CUC Studio Theater. If you have questions, please email the Direcator at jolisar@andrew.cmu.edu.
+
+
+Answer: 

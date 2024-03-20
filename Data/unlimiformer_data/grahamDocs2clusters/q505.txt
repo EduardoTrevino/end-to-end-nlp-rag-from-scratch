@@ -1,0 +1,147 @@
+Question: In fall 2023, What is the title of course 05431?
+
+Context: Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dabbish
+
+Fall 2023
+
+Course number: 05430
+
+Title: Programming Usable Interfaces:
+
+Units: 15.0
+
+Section: A,E,B,C,D,Lec,
+
+Days: M, ,W,MW
+
+Start: 08:00AM, ,09:30AM
+
+End: 10:50AM,09:20AM,
+
+Room: WEH 5310,TEP 1403,PH 226B,WEH 6403, ,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Levin-Decanini, Ion,Ion, Levin-Decanini
+
+Fall 2023
+
+Course number: 05431
+
+Title: Software Structures for User Interfaces
+
+Units: 12.0
+
+Section: A,Lec
+Fall 2023
+
+Course number: 57433
+
+Title: Musical Theatre Literature and Repertoire
+
+Units: 3.0
+
+Section: A
+
+Days: M
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: CFA M157
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Douglas, Irwin
+
+Fall 2023
+
+Course number: 57437
+
+Title: Literature and Repertoire:
+
+Units: 3-6
+
+Section: A,M,E,I,K,O,PA,PB,B,F,G,C,D,N,J, ,H,L
+
+Days: M,W,F,T,TBA,
+
+Start: 07:00PM,,08:00AM,09:30AM,12:30PM,04:00PM,09:00AM,01:00PM,12:00PM,01:15PM, ,06:30PM,07:30PM
+Days: F,MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 4SC 104
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hudson
+
+Fall 2023
+
+Course number: 05432
+
+Title: Personalized Online Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:00PM
+
+End: 04:20PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Aleven
+
+Fall 2023
+
+Course number: 05434
+
+Title: Machine Learning in Practice
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: SH 105
+Elective course For more information on the MSAII program curriculum and requirements, see the program website. Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+
+
+Answer: 

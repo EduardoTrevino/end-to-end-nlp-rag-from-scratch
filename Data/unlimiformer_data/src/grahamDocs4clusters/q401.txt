@@ -1,0 +1,185 @@
+Question: According the OUTDOOR paper, what is one of the challenges of navigating in outdoor environments compared to indoor environments?
+
+Context: vast and complex terrains of outdoor environments, new challenges emerge. Unlike the structured layouts found indoors, outdoor environments lack clear spatial delineations and are riddled with inherent semantic ambiguities. Despite this, humans navigate with ease because we can reason about the unseen. We introduce a new task OUTDOOR, a new mechanism for Large Language Models (LLMs) to accurately hallucinate possible futures, and a new computationally aware success metric for pushing research
+Fig. 1. Direct application of Language Models in embodied agents navigating outdoor environments suffers from short-sightedness and limited environment comprehension. Our approach augments the LLM by enabling it to expand imaginary nodes in space, enhancing feasibility for outdoor navigation.
+Recently, Large Language Models
+
+(LLMs)
+
+Thus, we posit that outdoor navigation offers a promising avenue to test and refine the foundational navigation and reasoning abilities of LLMs. This paper aims to formulate an elementary navigation policy and evaluate its efficacy in diverse and challenging outdoor environments, providing insights into the potential of LLMs as embodied agents.
+Title: HyperSENSE: Augmenting Human Experience in Environments
+
+Units: 9.0
+
+Section: A
+
+Days: F
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: MM 215
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: El Zanfaly
+
+Spring 2024
+
+Course number: 51364
+
+Title: Drawing Spaces
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: MM A11
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mentzer
+
+Spring 2024
+
+Course number: 51374
+
+Title: Preparing for Design Practice
+
+Units: 4.5
+
+Section: A3
+Instructors: Hullah,Gauntner, Yawman
+
+Fall 2023
+
+Course number: 69138
+
+Title: Outdoor Soccer:
+
+Units: 3.0
+
+Section: B1, ,A1
+
+Days: MWF, ,TR
+
+Start: 12:30PM, ,01:00PM
+
+End:  ,01:50PM
+
+Room: GES SOCCER,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Moraga,Struble
+
+Fall 2023
+
+Course number: 69140
+
+Title: Squash:
+
+Units: 3.0
+
+Section:  ,A2
+
+Days: MWF,
+
+Start:  ,01:00PM
+
+End:  ,01:50PM
+
+Room: CUC COURTS,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Belmonte
+
+Fall 2023
+Locations: Los Angeles, California
+
+Instructors: Franzman
+
+Fall 2023
+
+Course number: 93879
+
+Title: Navigating the Practical Realities of the Film Industry
+
+Units: 3.0
+
+Section: L
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Los Angeles, California
+
+Instructors: Wagner
+
+Fall 2023
+
+Course number: 93882
+
+Title: AI and the Future of Creativity in Entertainment
+
+Units: 3.0
+
+Section: L
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Los Angeles, California
+
+Instructors: Green, Stein
+
+Fall 2023
+Depending on Friday and Saturday's conditions, most heats may run just two lanes instead of three. But still, despite some of the challenges, Chen said she wouldn't miss it.
+
+"Being a driver is really fun," Chen said. "I love going fast and going around the course."
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+“Buggy is a sport that encompasses all elements that CMU has to offer,” he said. “Everything that goes into it, the challenge, the teamwork, the fun, the rewards. It’s a real-life challenge working with a team. I learned to work together with people with different personalities and visions toward the same goal to make it happen.”
+3.6 Academic Integrity 3.7.1 Expectations Regarding Proper Conduct In the midst of self-exploration, the high demands of a challenging academic environment can create situations where some students have difficulty exercising good judgment. Academic challenges can provide many opportunities for high standards to evolve if students actively reflect on these challenges and if the community supports 25discussions to aid in this process. It is the responsibility of the entire community to establish
+LTI Ph.D.  Graduate Student Handbook  Page 21
+
+3.8 Academic Integrity
+
+In the midst of self- exploration, the high demands of a challenging academic environment can
+
+create situations where some students have difficulty exercising good judgment. Academic
+
+challenges can provide many opportunities for high standards to evolv e if students actively reflect
+
+on these challenges and if the community supports discussions to aid in this process. It is the
+adjudicating violations of the University Policy on Academic Integrity. The procedures also outline the appeal process.
+
+In the midst of self -exploration, the high demands of a challenging academic environment can
+
+create situations where some students have difficulty exercising good judgment. Academic
+
+challenges can provide many opportunities for high standards to evolve if students actively
+
+reflect on these challenges and if the community supports discussions to aid in this process. It
+
+
+Answer: 

@@ -1,0 +1,33 @@
+Question: Does LTI offer a course on large language models?
+
+Context: 7.4 Large Batch Training for Large Language Models
+1. Introduction
+
+Large language models (LLMs) have become increasingly powerful (Brown et al., 2020; Ouyang et al., 2022), but their owners are reluctant to open-source them due to high training costs. Most companies provide only API access to their models for free or for a fee to cover innovation and maintenance costs. While many applications benefit from these APIs, some are looking for cheaper alternatives.
+Kang Min Yoo, Dongju Park, Jaewook Kang, Sang- Woo Lee, and Woomyeong Park. 2021. Gpt3mix: Leveraging large-scale language models for text aug- mentation. arXiv preprint arXiv:2104.08826.
+
+A Proof of Theorems
+
+Theorem 2. Consider a binary classiﬁcation problem with linearly separable labeled examples, when 0 < τ < 1, optimizing Lt2l = − (cid:80)N j=1 Q(ˆyj|xi) log P (ˆyj|xi) with gradient descend will enforce i=1 the larger margin between classes.
+
+(cid:80)L
+Information retrieval, machine translation and speech technology are used daily by the general public, while text mining, natural language processing and language-based tutoring are common within more specialized professional or educational environments. The LTI prepares students for this world by offering a minor that gives you the opportunity to not only learn about language technologies, but to also apply that knowledge through a directed project.
+The grading of outside courses is the responsibility of the department offering the course; however, the LTI's Minimum Course Grade Policy described above still applies (“B” is the minimum for Ph.D. ).
+
+3.6 Completing a n M.S. Degree Enroute t o a Ph.D.
+
+Courses that satisfy LTI Ph.D. degree requirements may also be used to satisfy requirements for
+
+one M.S. degree. The most common choice is the LTI’s Master of Language Technologies (MLT)
+offered by the Language Technologies Institute (LTI), a graduate department in the School of
+
+Computer Science at Carnegie Mellon University. The MIIS degree provides advanced study
+
+and practical experience in areas of Computer Science focused on the processing and analysis
+
+of unstructured and semi -structured information, for example, text, image, video, speech, and
+
+audio information. It is a practice -oriented professional degree designed for students who
+
+
+Answer: 

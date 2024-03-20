@@ -1,0 +1,156 @@
+Question: In summer 2024, What is the deadline for adding, auditing, and tuition adjustment drop for Mini-6?
+
+Context: 9
+
+Preprint 2023
+
+6 LIMITATIONS AND FUTURE WORK
+4.6 Ablation on the student model size
+weights (Fried et al., 2022; Nijkamp et al., 2022) or provided access to the model through a paid API service (Chen et al., 2021; Athiwaratkun et al., 2022), but these works did not release the full training data or the preprocessing methods that were used.
+Title: Special Topics in ICT Mini:
+
+Units: 6.0
+
+Section:  ,A1,N1
+
+Days:  ,MW,TR
+
+Start: 08:00AM, ,04:00PM
+
+End:  ,05:50PM,09:50AM
+
+Room: CMR F305, ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Rodriguez-Perez,Ostheimer
+
+Fall 2023
+
+Course number: 04900
+
+Title: MSIT Practicum
+
+Units: 24.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:20PM
+
+Room: CMR F305
+
+Locations: Kigali, Rwanda
+
+Instructors: Okeyo
+
+Fall 2023
+
+Course number: 04910
+
+Title: Entrepreneurship Project
+
+Units: VAR
+
+Section: A
+Course number: 36735
+
+Title: Statistical Analysis Mini - TBA
+
+Units: 6.0
+
+Section: A3
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36736
+
+Title: Statistical Methods Mini - TBA
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36757
+
+Title: Advanced Data Analysis I
+Course number: 94433
+
+Title: Optimization for DAS
+
+Units: 6.0
+
+Section: A3,B3
+
+Days: TR,TRF
+
+Start: 03:30PM,02:00PM
+
+End: 04:50PM,03:20PM
+
+Room: HBH 1204,HBH 1005
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhang
+
+Spring 2024
+
+Course number: 94465
+
+Title: Data Analytics for Decision Making
+
+Units: 6.0
+
+Section: A4
+
+Days: MWF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Escallon Barrios
+
+Spring 2024
+
+Course number: 94470
+June 24 ; Day - Monday ; Event - Mini-6 First Day of Classes Date -  June 25 ; Day - Tuesday ; Event - Mini-5 Final Grades Due by 4 pm Date -  June 28 ; Day - Friday ; Event - Mini-6 add, audit, & tuition adjustment drop deadline (1) Date -  July 4 ; Event - Independence Day; University Closed & No Classes Date -  July 5 ; Day - Friday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  July 8 ; Day - Monday ; Event - Mini-6 drop deadline; withdrawal grade assigned after this date
+add, audit & tuition adjustment drop deadline (1) Date -  April 1 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  April 3 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week Date -  April 15 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -  April 15 ; Day -
+Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1) Date -  March 31 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline Date -  April 2 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 3 ; Event - 5 Th-Sa Spring Carnival; No Classes Date -  April 7 ; Event - 11 M-F Fall 2025 Registration Week Date -  April 14 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -
+
+
+Answer: 

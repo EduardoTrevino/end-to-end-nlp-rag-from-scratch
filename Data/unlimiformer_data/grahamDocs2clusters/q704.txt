@@ -1,0 +1,21 @@
+Question: What is the outer structure or covering of a buggy called?
+
+Context: We then measured the performance differences between the repaired and unre- paired versions of the applications. We found that in our 21 benchmarks, 5 had either no warnings or warnings that could not be repaired without introducing buggy behav- ior. For example, a warning about instantiating an object in a loop could be “unfixable” as a reference to each instantiated object is held in an array. So, moving the instan- tiation outside of the loop would result in an array with the same reference
+ROSE gripper’s outer shape during operation is resemble to a fully bloomed rose, while the closing state has a shape similar to a sleeping rose (in dormancy), even though there is no explicit mimicking here. If any object falls in the region bounded by the petal, under a twist/rotation-action, ROSE hand can embrace and grip it safely (see illustration in Fig. 2a). In such a scenario, ROSE shares a close working principle with traditional granular jamming gripper since the object is covered by a
+structure refers to the appearance and the reappearance of an object. The surface structure can be realized in different ways. For example, one might hide an object using a cloth, or hands; one might hide their face or a toy; one might do shorter or longer pauses before making the object reappear. We understand social interactions through such formats, and our social interactions are based on our ability to learn, negotiate, and use them.
+Driver: Person who travels with a buggy and controls the vehicles via steering and braking systems.
+
+Pushbar: Structure attached to a buggy that a person pushes to propel that buggy forward.
+
+Pusher: Person who propels a buggy via a pushbar along one of the five hills of the buggy course.
+
+Shell: Entire outer structure or covering of a buggy that determines that buggy's aerodynamic characteristics.
+The Machine
+
+The basics of a buggy are straightforward, but teams are often secretive in how they build the machines, in particular the way they brake, steer and what types of wheels are used.
+
+Each has a body, pushbar for runners to move the machine up the hills, wheels, a safety harness and driving and braking mechanisms. Some also include fairings, a type of housing around the wheels that help reduce drag, make the vehicle quieter and just looks cool.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+
+
+Answer: 

@@ -1,0 +1,17 @@
+Question: In Justine Cassell's recent SIGDIAL paper, what feature does the study find to have a significant impact on hedge prediction?
+
+Context: Paper title: 'When to generate hedges in peer-tutoring interactions' Published year: 2023 Publication venue or conference: SIGDIAL Conferences Authors: Alafate Abulimiti, C. Clavel, Justine Cassell Summary: The results show that embedding layers, capturing the semantic information of the previous turns, significantly improves the model’s performance and provides insights into the importance of various features, such as interpersonal rapport and nonverbal behaviors, in predicting hedges by using
+layers, capturing the semantic information of the previous turns, sig- nificantly improves the model’s performance. Additionally, the study provides insights into the importance of various features, such as in- terpersonal rapport and nonverbal behaviors, in predicting hedges by using Shapley values (Hart, 1989) for feature explanation. We dis- cover that the eye gaze of both the tutor and the tutee has a significant impact on hedge pre- diction. We further validate this observation through a
+role in predicting hedges. This observation is sub- stantiated by subsequent ablation studies, where classic classification models, like XGBoost and LightGBM, experienced a significant decline in F1 score when removing nonverbal behavior features. For future work, several directions can be pur- sued. First, the investigation of hedge generation in the context of expert tutors could provide valuable insights into how experienced tutors use hedges
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+out how many pedestrians they had hit”). The impact was severe enough that KapSig’s buggy was dented, and the time it lost from the impact made it impossible for them to catch up. PiKA eventually passed DTD in the freeroll and went on to win by 30 yards, but by then it didn’t matter. The judges decided to DQ PiKA for interference. The brothers of PiKA didn’t take it lightly though; they immediately lodged a protest against the judge’s decision.
+Example 3: Human-Centered Data Science Major, 16 Months Example Schedule
+
+Empirical Analysis of Interactive Systems: - Fall: ML, Econometrics, Social Web, Network Science, Business Analytics - Spring: Interactive Data Science, Psych Found for Design Impact, Econometrics, DHCS
+
+Social Web Analytics & Design: - Fall: ML, ARM, Social Web, Network Science - Spring: Crowd Programming, Data Pipeline, ML for Text Analytics, DHCS
+
+
+Answer: 

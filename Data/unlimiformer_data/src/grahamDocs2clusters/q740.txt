@@ -1,0 +1,165 @@
+Question: What number do all of the Integrated Innovation Institute classes start with in Summer 2024?
+
+Context: Instructors: Lamont
+
+Fall 2023
+
+Course number: 49744
+
+Title: Visual Communication for Innovators:
+
+Units: 6.0
+
+Section:  ,B2,A2
+
+Days:  ,TR
+
+Start:  ,04:00PM
+
+End:  ,05:50PM
+
+Room: CA 115, ,CA 108
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Guidi,Abovyan
+
+Fall 2023
+
+Course number: 49745
+
+Title: Special Topics: Integrated Innovation Institute
+
+Units: 6.0
+
+Section: A2
+
+Days: F
+
+Start: 02:00PM
+
+End: 04:20PM
+
+Room: CA 108
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chapman
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rogers, Ayoob
+
+Fall 2023
+
+Course number: 49750
+
+Title: Integrated Thinking for Innovation:
+
+Units: 6.0
+
+Section: B1, ,A1,R1
+
+Days: W, ,MW
+
+Start: 12:30PM, ,05:30PM
+
+End: 07:20PM, ,01:50PM
+
+Room: B23 227,TBA, ,B23 211
+
+Locations:  ,San Jose, California
+
+Instructors: Saadati
+
+Fall 2023
+
+Course number: 49751
+
+Title: Product Management:
+
+Units: 6.0
+
+Section: B1, ,A1,R1
+
+Days:  ,T,TR
+
+Start:  ,11:00AM,07:30PM
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 49601
+
+Title: Innovation of Services & Experiences
+
+Units: 10.0
+
+Section: A
+
+Days: R
+
+Start: 08:00PM
+
+End: 09:30PM
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zlotnikov
+
+Summer 2024
+
+Course number: 49602
+
+Title: Designing for Production and Sustainability
+
+Units: 10.0
+
+Section: A
+
+Days: M
+
+Start: 08:00PM
+
+End: 09:30PM
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+Innovation (MSAII) program is a successor to the M.S. in Biotechnology, Innovation and Computing (MSBIC). It combines a rigorous AI and machine learning curriculum with real-world team experience in identifying an AI market niche and developing a responsive product in cooperation with external stakeholders. The core program, which lasts four semesters and leads to a capstone project, focuses on both intrapreneurship and entrepreneurship, equipping graduates to either begin a startup or develop
+AI Innovation (11-654) – Prereq uisite is the completion of 11- 695 with a grade of “B” or
+
+better.
+
+Capstone (11-699) – Prerequisite is the completion of 11-654 with a grade of “B” or better.
+
+Students are required to repeat any required cour se that they have completed with a grade less
+
+than the required minimum, preferably at the nex t offering. (Please note that Core courses and
+
+Knowledge courses are only offered once per year.) Students will be  allowed to retake a required
+
+
+Answer: 

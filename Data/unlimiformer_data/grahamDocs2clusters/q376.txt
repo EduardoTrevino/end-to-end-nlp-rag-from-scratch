@@ -1,0 +1,123 @@
+Question: What is Carolyn Rose's email address?
+
+Context: Carolyn Rosé
+
+cp3a@andrew.cmu.edu
+
+Alyssa Friend Wise alyssa.wise@nyu.edu
+
+Sanna Järvelä sanna.jarvela@oulu.fi
+
+1 NYU Steinhardt, New York, NY, USA 2 Carnegie Mellon University Language Technologies Institute and HCI Institute, Pittsburgh, PA,
+
+USA
+
+3 University of Oulu, Oulu, Finland
+
+2
+
+A. F. Wise et al.
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 05452
+
+Title: Service Design
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:50AM
+
+Room: 3SC 172
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Saffer, Hardman
+
+Fall 2023
+
+Course number: 05470
+
+Title: Digital Service Innovation:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 08:00AM,
+
+End:  ,09:50AM
+
+Room:  ,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Shelly, Vinchesi
+
+Fall 2023
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Rose
+
+Fall 2023
+
+Course number: 11635
+
+Title: Data Science Capstone Research
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Fall 2023
+
+Course number: 11636
+
+Title: MSAII Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Fall 2023
+Language Technologies Institute - Faculty Name: Carolyn Penstein Rose Email: cprose@cs.cmu.edu Office: 5415 Gates & Hillman Centers Research Areas: Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics, Computer Supported Collaborative Learning/MOOCs Phone: 412-268-7130
+Jennifer M Lucas Academic Program Manager Master of Computational Data Science Language Technologies Institute School of Computer Science Carnegie Mellon University Gates-Hillman Center 6415 5000 Forbes Avenue, Pgh, PA 15213 Phone: (412) 268-9870 Fax: (412) 268-7287 Carolyn Penstein Rosé, Director Master of Computational Data Science Language Technologies Institute School of Computer Science Carnegie Mellon University Gates-Hillman Center 5419 5000 Forbes Avenue, Pgh, PA 15213 Phone: (412)
+undergraduate program director to be admitted to the minor earlier or later in their undergraduate careers. To apply, contact the program's director, Carolyn Rosé. Additional Info: For more information on the undergraduate minor, contact Carolyn Rosé.
+
+
+Answer: 

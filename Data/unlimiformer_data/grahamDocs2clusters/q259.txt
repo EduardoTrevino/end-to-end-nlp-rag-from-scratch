@@ -1,0 +1,147 @@
+Question: When is CMU's main commencement ceremony in 2024?
+
+Context: Spring 2024
+
+Course number: 17646
+
+Title: DevOps and Continuous Integration
+
+Units: 6.0
+
+Section: D4
+
+Days: MW
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasar
+
+Spring 2024
+
+Course number: 17647
+
+Title: Engineering Data Intensive Scalable Systems
+
+Units: 6.0
+
+Section: D4,A4
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ashok, Merson
+
+Spring 2024
+
+Course number: 17648
+Spring 2024
+
+Course number: 65412
+
+Title: QSSS Proseminar 2
+
+Units: 3.0
+
+Section: A
+
+Days: M
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Patterson
+
+Spring 2024
+
+Course number: 94401
+
+Title: Acting for Leadership and Communication
+
+Units: 6.0
+
+Section: B4,A3,D3,C4
+
+Days: MW
+
+Start: 11:00AM,03:30PM,02:00PM
+
+End: 12:20PM,04:50PM,03:20PM
+
+Room: HBH 2009,HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Murphy
+
+Spring 2024
+End: 08:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Barati Farimani
+
+Spring 2024
+
+Course number: 24892
+
+Title: Locomotion Seminar
+
+Units: 0.0
+
+Section: A
+
+Days: F
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4623
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Johnson
+
+Spring 2024
+
+Course number: 24992
+
+Title: Professional Development for PhD students II
+
+Units: 2.0
+
+Section: A
+
+Days: F
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: SH 234
+CMU is positioned like never before to meet the challenges of the 21st century. In the coming years, the university will see the largest expansion to the Pittsburgh campus since 1900. At the intersection of technology and humanity, CMU research, innovation and creativity will continue to guide our future as a world-class university. As outlined in the Strategic Plan 2025, the university will focus on advancing the individual student experience, the broader Carnegie Mellon community experience,
+Computer Science, effective Dec. 1, and that the School of Computer Science would soon begin operations. SCS made its formal debut on Dec. 22, 1988, with a reception in the Wherrett Room of Skibo Hall, CMU’s student union. The official announcement of CMU’s new “graduate School of Computer Science” was made Jan. 3, 1989.
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+
+
+Answer: 

@@ -1,0 +1,15 @@
+Question: How many scenes were included in the HomeRobot OVMM benchmark?
+
+Context: Paper title: 'HomeRobot: Open-Vocabulary Mobile Manipulation' Published year: 2023 Publication venue or conference: Conference on Robot Learning Authors: Théophile Gervet, Sriram Yenamandra, Alexander Clegg, John Turner, M. Savva, Devendra Singh Chaplot, Chris Paxton, Mukul Khanna, A. Ramachandran, Roozbeh Mottaghi, Austin S. Wang, Angel X. Chang, Vidhi Jain, Z. Kira, Yonatan Bisk, Dhruv Batra, Tsung-Yen Yang, Karmesh Yadav Summary: The HomeRobot OVMM benchmark is introduced, where an agent
+drive research in this area, we introduce the HomeRobot OVMM benchmark, where an agent navigates household environments to grasp novel objects and place them on target receptacles. HomeRobot has two components: a simulation component, which uses a large and diverse curated object set in new, high-quality multi-room home environments; and a real-world component, providing a software stack for the low-cost Hello Robot Stretch to encourage replication of real-world experiments across labs. We
+yearly to assess progress on this challenging problem. Real-world benchmarking will be run as a part of the NeurIPS 2023 HomeRobot OVMM competition [23].
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+1.1 Vision  ..................................................................................................................................................... 6
+
+1.2 Mission .................................................................................................................................................. 6
+
+1.3 The MIIS Degree  ................................................................................................................................ 6
+1946 – PiKA’s Buggy (from the 1947 Thistle). It didn’t win Design Competition, but it had the best aesthetic design. Prelim Heats and Results. The Prelims were run in 3 heats, with 3 teams in each. The rules initially stated that the winner of each heat would compete in the finals, but it seems that the rules changed to be the three fastest times instead, as the Prelim results printed in the May 7, 1946 Tartan indicate that the Finals was just a rematch of Prelim Heat 1. According to the May 7
+
+
+Answer: 

@@ -1,0 +1,183 @@
+Question: Which Faculty from LTI Co-authored the paper Transformed Protoform Reconstruction?
+
+Context: 3 2 0 2
+
+l u J
+
+6
+
+] L C . s c [
+
+2 v 6 9 8 1 0 . 7 0 3 2 : v i X r a
+
+Transformed Protoform Reconstruction
+
+Young Min Kim∗ and Kalvin Chang∗ and Chenxuan Cui and David Mortensen Language Technologies Institute, Carnegie Mellon University {youngmik, kalvinc, cxcui, dmortens}@cs.cmu.edu
+
+Abstract
+Fourrier (2022) compares statistical machine translation, RNN, and Transformer architectures for protoform reconstruction, but they evaluate their results using BLEU scores (Papineni et al., 2002) instead of edit distance. They find that their Transformer model did not outperform the RNN models on protoform reconstruction. In addition, their multilingual NMT (neural machine transla- tion) model predicts many languages instead of one target language and is trained on bilingual pairs for
+Alina Maria Ciobanu and Liviu P. Dinu. 2018. Ab ini- tio: Automatic Latin proto-word reconstruction. In Proceedings of the 27th International Conference on Computational Linguistics, pages 1604–1614, Santa Fe, New Mexico, USA. Association for Computa- tional Linguistics.
+
+Arthur P Dempster, Nan M Laird, and Donald B Rubin. 1977. Maximum likelihood from incomplete data via the em algorithm. Journal of the Royal Statistical Society: Series B (Methodological), 39(1):1–22.
+Instructors: Li,Labash,Ciccone,Kolowitz,Lightman,Smalley,Shaikh,Meyer,Costa,DeSantis,Dwivedi,Yucel,Vadlamudi,Stephens,Trzeciak,Yasar,Tucker,Smith,Bigrigg,Kowalsky,Jafry O'Connor,Spooner,Chen
+
+Fall 2023
+
+Course number: 95721
+
+Title: Information Systems Research Practicum
+
+Units: VAR
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhang
+
+Fall 2023
+
+Course number: 95722
+
+Title: Digital Transformation
+
+Units: 6.0
+
+Section: D2,A2
+
+Days: TR
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Agarwal, Goel
+
+Spring 2024
+
+Course number: 05540
+
+Title: Rapid Prototyping of Computer Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: DH A302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martelaro, Smailagic
+
+Spring 2024
+
+Course number: 05571
+
+Title: Undergraduate Project in HCI:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room:  ,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+Course number: 54463
+
+Title: Production Prep: Transformations (SOM 1):
+
+Units: 3,6,9,12
+
+Section: A,E,I,K,B,F,G,C,D,J, ,L
+
+Days:  ,MTWRF
+
+Start:  ,06:30PM
+
+End:  ,10:30PM
+
+Room: TBA,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Sahoo,Block,Thomson
+
+Spring 2024
+
+Course number: 54465
+
+Title: Production Prep: Gloria:
+
+Units: VAR
+
+Section: A,E,I,K,B,F,G,C,D,J, ,L
+
+Days: TBA, ,MTWRF
+
+Start: , ,06:30PM
+
+End: , ,10:30PM
+
+Room: TBA,
+
+Locations:  ,Pittsburgh, Pennsylvania
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+projects.) Even self -supporting MLT students are expected to perform research with a faculty
+
+advisor, since research experience is an important part of our graduate programs. Until a student finds a specific advisor, the chair of the LTI graduate prog rams serves as the advisor.
+
+How to change advisors:  The initial advisor selection should be made carefully. However, it is
+
+possible to change advisors. To do so, the student should find another faculty member willing
+offered by the Language Technologies Institute (LTI), a graduate department in the School of
+
+Computer Science at Carnegie Mellon University. The MIIS degree provides advanced study
+
+and practical experience in areas of Computer Science focused on the processing and analysis
+
+of unstructured and semi -structured information, for example, text, image, video, speech, and
+
+audio information. It is a practice -oriented professional degree designed for students who
+
+
+Answer: 

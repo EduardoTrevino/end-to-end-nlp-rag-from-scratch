@@ -1,0 +1,77 @@
+Question: What is the full name of the conference where the paper Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models, got published?
+
+Context: 3 2 0 2
+
+y a M 3 2
+
+] L C . s c [
+
+1 v 7 0 7 3 1 . 5 0 3 2 : v i X r a
+
+Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
+
+♢
+
+♠
+
+♢
+
+Orevaoghene Ahia
+
+Sachin Kumar
+
+Hila Gonen ♢♡
+
+Jungo Kasai
+
+♠
+
+♢
+
+David R. Mortensen
+
+Noah A. Smith
+
+Yulia Tsvetkov
+
+♢
+
+♢
+
+Paul G. Allen School of Computer Science & Engineering, University of Washington Language Technologies Institute, Carnegie Mellon University Allen Institute for Artificial Intelligence
+
+♠
+
+♡
+
+Abstract
+Paper title: 'Why do Nearest Neighbor Language Models Work?' Published year: 2023 Publication venue or conference: International Conference on Machine Learning Authors: Graham Neubig, Uri Alon, Frank F. Xu Summary: This paper identifies three main reasons why k-nearest neighbor language models (kNN-LM) perform better than standard LMs: using a different input representation for predicting the next tokens, approximate kNN search, and the importance of softmax temperature for the kNN
+Paper title: 'Large Language Models Enable Few-Shot Clustering' Published year: 2023 Publication venue or conference: arXiv.org Authors: Tongshuang Sherry Wu, Kiril Gashteovski, Graham Neubig, Vijay Viswanathan, Carolin (Haas) Lawrence Summary: It is found that incorporating LLMs in the first two stages can routinely provide significant improvements in cluster quality, and that LLMs enable a user to make trade-offs between cost and accuracy to produce desired clusters.
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+equivalent (an oral presentation that at least t wo SCS faculty certify as being of
+
+conference- talk quality).
+
+Programming:  This is satisfied by demonstrating competence in computer programming
+
+of language technology; this is normally satisfied in the course of the student's research
+
+and/or project work.
+
+LTI Ph.D.  Graduate Student Handbook  Page 16
+
+Teaching:  This is satisfied by two (2) successful Teaching Assistantships ( TA-ships), as
+
+
+Answer: 

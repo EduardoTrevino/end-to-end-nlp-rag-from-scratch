@@ -1,0 +1,35 @@
+Question: At what conference was "BASS: Block-wise Adaptation for Speech Summarization" published?
+
+Context: In this paper, we described our systems for the mul- tilingual speech translation track of IWSLT 2023, which translates English speech into 10 target lan- guages. To tackle the task of translating scien- tific conference talks, which feature non-native in- put speech and terminology-dense contents, our systems have several novelties. Lacking suitable training data for the target domain, we used kNN- MT for inference-time adaptation and showed an improvement of +0.8 BLEU for cascaded speech
+Paper title: 'Structured Pruning of Self-Supervised Pre-Trained Models for Speech Recognition and Understanding' Published year: 2023 Publication venue or conference: IEEE International Conference on Acoustics, Speech, and Signal Processing Authors: Yifan Peng, Kwangyoun Kim, Felix Wu, Shinji Watanabe, Prashant Sridhar Summary: This work proposes three task-specific structured pruning methods to deal with heterogeneous speech models that not only utilize a stack of Transformer blocks, but also
+Yan, Y.; Tan, X.; Li, B.; Zhang, G.; Qin, T.; Zhao, S.; Shen, Y.; Zhang, W.; and Liu, T. 2021. AdaSpeech 3: Adaptive Text to Speech for Spontaneous Style. CoRR, abs/2107.02530. Zeyer, A.; Schl¨uter, R.; and Ney, H. 2021. A study of latent monotonic attention variants. CoRR, abs/2103.16710. Zhang, C.; Ren, Y.; Tan, X.; Liu, J.; Zhang, K.; Qin, T.; Zhao, S.; and Liu, T. 2021. Denoispeech: Denoising Text to Speech with Frame-Level Noise Modeling. In IEEE Interna- tional Conference on Acoustics,
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+Language Technologies Institute - Faculty Name: Ralf Brown Email: ralf@andrew.cmu.edu Office: 5711 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Translation, Natural Language Processing and Computational Linguistics Phone: 412-268-8298
+
+
+Answer: 

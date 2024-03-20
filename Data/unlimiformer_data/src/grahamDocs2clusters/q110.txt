@@ -1,0 +1,61 @@
+Question: Which Faculty from LTI Co-authored the paper Transformed Protoform Reconstruction?
+
+Context: 3 2 0 2
+
+l u J
+
+6
+
+] L C . s c [
+
+2 v 6 9 8 1 0 . 7 0 3 2 : v i X r a
+
+Transformed Protoform Reconstruction
+
+Young Min Kim∗ and Kalvin Chang∗ and Chenxuan Cui and David Mortensen Language Technologies Institute, Carnegie Mellon University {youngmik, kalvinc, cxcui, dmortens}@cs.cmu.edu
+
+Abstract
+Alina Maria Ciobanu and Liviu P. Dinu. 2018. Ab ini- tio: Automatic Latin proto-word reconstruction. In Proceedings of the 27th International Conference on Computational Linguistics, pages 1604–1614, Santa Fe, New Mexico, USA. Association for Computa- tional Linguistics.
+
+Arthur P Dempster, Nan M Laird, and Donald B Rubin. 1977. Maximum likelihood from incomplete data via the em algorithm. Journal of the Royal Statistical Society: Series B (Methodological), 39(1):1–22.
+Fourrier (2022) compares statistical machine translation, RNN, and Transformer architectures for protoform reconstruction, but they evaluate their results using BLEU scores (Papineni et al., 2002) instead of edit distance. They find that their Transformer model did not outperform the RNN models on protoform reconstruction. In addition, their multilingual NMT (neural machine transla- tion) model predicts many languages instead of one target language and is trained on bilingual pairs for
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+projects.) Even self -supporting MLT students are expected to perform research with a faculty
+
+advisor, since research experience is an important part of our graduate programs. Until a student finds a specific advisor, the chair of the LTI graduate prog rams serves as the advisor.
+
+How to change advisors:  The initial advisor selection should be made carefully. However, it is
+
+possible to change advisors. To do so, the student should find another faculty member willing
+offered by the Language Technologies Institute (LTI), a graduate department in the School of
+
+Computer Science at Carnegie Mellon University. The MIIS degree provides advanced study
+
+and practical experience in areas of Computer Science focused on the processing and analysis
+
+of unstructured and semi -structured information, for example, text, image, video, speech, and
+
+audio information. It is a practice -oriented professional degree designed for students who
+
+
+Answer: 

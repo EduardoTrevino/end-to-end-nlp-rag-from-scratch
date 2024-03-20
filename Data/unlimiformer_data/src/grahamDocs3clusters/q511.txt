@@ -1,0 +1,194 @@
+Question: What are the two proposed subtasks for the DSTC11 automatic evaluation track?
+
+Context: This paper presents a comprehensive overview of Track 4 on "Robust and Multilingual Automatic Evaluation Metrics for Open-Domain Dialogue Systems" organized as part of the 11th Dialogue System Technology Challenge (DSTC11). The track was divided into two subtasks addressing an important problems in Dialogue Systems: the design of automatic evaluation metrics for multi- lingual dialogues and dialogue robustness when dealing with paraphrases or back-translations.
+multiple domains and dimensions. Also, their focus is mainly on the English language. All of these challenges prompt the development of automatic evaluation metrics that are reliable in various domains, dimensions, and languages. This track in the 11th Dialogue System Technol- ogy Challenge (DSTC11) is part of the ongoing effort to promote robust and multilingual auto- matic evaluation metrics. This article describes the datasets and baselines provided to partici- pants and discusses the
+3 2 0 2
+
+p e S 4 1
+
+] L C . s c [
+
+3 v 4 9 7 2 1 . 6 0 3 2 : v i X r a
+
+Overview of Robust and Multilingual Automatic Evaluation Metrics for Open-Domain Dialogue Systems at DSTC 11 Track 4
+Start: ,12:00PM
+
+End: ,01:50PM
+
+Room: WEH 5312,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kangas
+
+Spring 2024
+
+Course number: 02762
+
+Title: Laboratory Methods for Automated Biology II
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: M,TR
+
+Start: 04:00PM,12:00PM
+
+End: 01:50PM,06:50PM
+
+Room: WEH 5312,TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kangas
+
+Spring 2024
+
+Course number: 02764
+
+Title: Automated Science Capstone II
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+Course number: 02802
+
+Title: Automated Science Internship
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kangas
+
+Spring 2024
+
+Course number: 02900
+
+Title: Ph.D. Thesis Research
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stenger
+
+Spring 2024
+
+Course number: 15090
+
+Title: Computer Science Practicum
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+Course number: 05610
+
+Title: User-Centered Research and Evaluation:
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec,
+
+Days:  ,MW
+
+Start: 12:30PM, ,02:00PM
+
+End:  ,01:50PM,03:20PM
+
+Room: WEH 4708,PH 226B,PH 225B,DH 1212, ,GHC 4101,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Musuraca, Shen
+
+Spring 2024
+
+Course number: 05615
+
+Title: Persuasive Design:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,3SC 172
+
+Locations:  ,Pittsburgh, Pennsylvania
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+because they explain the program sequence, it s Core and Knowledge co urses requirements and
+
+how students will meet the program learning outcomes.
+
+10.7 End of Semester Evaluation
+
+The MSAII program conducts an academic progress re view at the conclusion of each semester in
+
+order to monitor individual student progress towa rds graduation. Should a student’s effort fall
+
+below the acceptable level of academic perfor mance and/or fail to meet the standards
+The MIIS degree is offered in  two options:
+
+Option 1. Standard MIIS degree  (MIIS -16) - A 16 -month track that is completed in three
+
+academic semesters (fall, spring, fall) and a summer internship.
+
+Option 2. MIIS: Advanced Study degree  (MIIS -21) - A 21 -month track that is completed in
+
+four academic semesters (fall, spring, fall, spring) and a summer internship.
+
+MIIS: Advanced Study track offers in depth  degree in one of the following areas of
+
+concentration:
+
+
+Answer: 

@@ -1,0 +1,140 @@
+Question: What do the KALE vocabulary semantic concepts perform better than?
+
+Context: next-word prediction. In this paper, we set out to understand why retrieval-augmented language models, and speciﬁcally why k-nearest neighbor language models (kNN-LMs) perform better than standard parametric LMs, even when the k-nearest neighbor component retrieves examples from the same training set that the LM was originally trained on. To this end, we perform a careful analysis of the various dimensions over which kNN-LM diverges from standard LMs, and investigate these dimensions one by
+Results show GEN performs overall better than D&A, but without surpassing H&S, which has the best overall results. Some conﬁgurations of GEN surpass H&S in some metrics (highlighted), but all together GEN does not surpass H&S. We can also observe that semantic metrics are less prone to distinguish the systems as lexical ones.
+
+14
+
+Running Title for Header
+The FITB strategy retains the most semantic and lexical similarity to the harmful query, as evidenced by the highest BERTScore, ROUGE-L, and BLEU respectively. Based on this, we contend that FITB is more effective than the other prompting methods in generating similar strings. Therefore, we use FITB as the method to generate similar queries given harmful queries.
+
+4.2 GENERATING FINE-TUNING DATA
+Title: Concepts of Mathematics
+
+Units: 12.0
+
+Section: U
+
+Days: MTWRF
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Resende
+
+Summer 2024
+
+Course number: 21241
+
+Title: Matrices and Linear Transformations
+
+Units: 12.0
+
+Section: U
+
+Days: MTWRF
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HH B103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Koganemaru
+
+Summer 2024
+
+Course number: 21599
+
+Title: Undergraduate Reading and Research
+
+Units: 0-99
+Units: 12.0
+
+Section: A,E,W,B,F,G,C,D,Lec 1,Lec 2
+
+Days: UR,MW,F,TR
+
+Start: 02:30PM,03:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM
+
+End: 03:45PM,12:50PM,01:50PM,09:50AM,03:50PM,03:20PM,12:20PM,02:50PM,11:50AM,10:50AM
+
+Room: GHC 4307,GHC 4215,WEH 5312,TBA,HH B103,PH 100,CMB 2052,BH A53
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Anderson, Sleator,Kapoutsis
+
+Fall 2023
+
+Course number: 15459
+
+Title: Undergraduate Quantum Computation:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+Instructors: Hibshi
+
+Fall 2023
+
+Course number: 14761
+
+Title: Applied Information Assurance
+
+Units: 12.0
+
+Section: A,SV
+
+Days: T
+
+Start: 04:00PM,01:00PM
+
+End: 03:20PM,06:20PM
+
+Room: B23 211,INI DEC
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Kaar, Herr
+
+Fall 2023
+
+Course number: 14763
+
+Title: Systems and Tool Chains for AI Engineers
+
+Units: 12.0
+
+Section: A,B
+
+Days: MW,TR
+
+Start: 11:00AM,03:30PM
+
+End: 12:20PM,04:50PM
+
+Room: CIC 1201
+Requirements: Students interested in the language technologies minor must complete our prerequisite courses with an average grade of B (3.0) or better before applying to the program. (Students who do not meet this average must submit a letter of explanation along with their application.) Prerequisites include: - Principles of Imperative Computation (15-122) - Principles of Functional Programming (15-150)
+22. Language learning software, 2010 Learning a second language has always been challenging, but a CMU spinoff called Duolingo is proving that it doesn’t have to be expensive. Duolingo has developed language tutoring software that enables users to learn Spanish, English, Italian, German, Portuguese or French for free through its website and mobile apps. In the process, Duolingo users are helping to translate the Web.
+not be supported by our other services. Weekly appointments give students the
+
+opportunity to interact regularly with the s ame tutor to facilitate  deeper understanding 47
+
+of concepts. Students can register online thro ugh the Student Academic Success website.
+
+Academic Coaching: Academic Coaching provides holistic one-on-one peer support and
+
+group workshops to help stu dents find and implement their conditions for success. We
+
+
+Answer: 

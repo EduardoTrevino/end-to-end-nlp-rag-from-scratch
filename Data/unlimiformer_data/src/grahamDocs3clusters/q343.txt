@@ -1,0 +1,202 @@
+Question: What professor was the last author on "Deriving Vocal Fold Oscillation Information from Recorded Voice Signals Using Models of Phonation"?
+
+Context: Paper title: 'Deriving Vocal Fold Oscillation Information from Recorded Voice Signals Using Models of Phonation' Published year: 2023 Publication venue or conference: Entropy Authors: Wayne Zhao, Rita Singh Summary: A novel analysis-by-synthesis approach that allows us to infer the VFOs directly from recorded speech signals on an individualized, speaker- by-speaker basis is proposed and it is shown how the V FOs can be quantified from a dynamical systems perspective for classification purposes.
+Paper title: 'A Gene-Based Algorithm for Identifying Factors That May Affect a Speaker’s Voice' Published year: 2023 Publication venue or conference: Entropy Authors: Rita Singh Summary: A simple path-finding algorithm that attempts to find links between vocal characteristics and perturbing factors using cytogenetic and genomic data and shows that in cases where strong links are exposed, vocal characteristics of the patients are indeed reported to be correspondingly affected.
+[28] “Praat,” https://www.fon.hum.uva.nl/praat. [29] Bongjun Kim and Bryan Pardo, “Improving content-based au- dio retrieval by vocal imitation feedback,” in ICASSP 2019- 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019, pp. 4100–4104. [30] Cristina Luna-Jim´enez, Ricardo Kleinlein, David Griol, Zo- raida Callejas, Juan M Montero, and Fernando Fern´andez- Mart´ınez, “A proposal for multimodal emotion recognition using aural transformers and
+Fall 2023
+
+Course number: 57588
+
+Title: Junior Recital Voice
+
+Units: 1.0
+
+Section: E2,B2,D2,C2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Fall 2023
+
+Course number: 57589
+
+Title: Senior Recital Voice
+
+Units: 1.0
+
+Section: E2,B2,D2,C2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Fall 2023
+
+Course number: 57591
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Spring 2024
+
+Course number: 57593
+
+Title: Vocal Coaching
+
+Units: 1.0
+
+Section: A,C,D,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rissinger,Carver,Irwin,Dueck
+
+Spring 2024
+
+Course number: 57596
+
+Title: Sophomore Recital
+
+Units: 1.0
+
+Section: B4,F4,D4,K4,J4,H4,A4,C4,I4,E4,G4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Douglas, Rissinger
+
+Fall 2023
+
+Course number: 57774
+
+Title: Vocal Pedagogy I
+
+Units: 6.0
+
+Section: A
+
+Days: W
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: CFA M157
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Aylmer
+
+Fall 2023
+
+Course number: 57779
+
+Title: Beginning Piano Practicum I
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Manriquez, Larocca
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+
+
+Answer: 

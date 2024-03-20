@@ -1,0 +1,157 @@
+Question: In fall 2023, Who are the instructors for course 05380?
+
+Context: Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong. 2023a. Compositional ex- emplars for in-context learning. arXiv preprint arXiv:2302.05698.
+
+Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. 2023b. In-context instruction learning. arXiv preprint arXiv:2302.14691.
+
+Yiming Zhang, Shi Feng, and Chenhao Tan. 2022a. Active example selection for in-context learning. CoRR, abs/2211.04486.
+Renze Lou, Kai Zhang, and Wenpeng Yin. 2023. Is prompt all you need? no. a comprehensive and broader view of instruction learning. ArXiv, abs/2303.10475.
+
+Ximing Lu, Sean Welleck, Liwei Jiang, Jack Hessel, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, and Yejin Choi. 2022a. Quark: Controllable text generation with reinforced unlearning. CoRR, abs/2205.13636.
+Xinyun Chen, Maxwell Lin, Nathanael Schärli, and Denny Zhou. 2023. Teaching large lan- arXiv preprint guage models to self-debug. arXiv:2304.05128.
+Room: SH 234
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhu
+
+Fall 2023
+
+Course number: 05360
+
+Title: Interaction Design Fundamentals:
+
+Units: 12.0
+
+Section: A,E,B,C,D,
+
+Days:  ,MW,TR
+
+Start: 08:00AM,09:30AM,12:30PM,05:00PM,
+
+End: 10:20AM,07:20PM,02:50PM,11:50AM,
+
+Room:  ,3SC 172,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Matthews, Saffer,Shelly, Beck,Matthews, Vinchesi,Matthews, Saunders,Weinstein, Vinchesi
+
+Fall 2023
+
+Course number: 05380
+Instructors: Saffer, Hardman
+
+Fall 2023
+
+Course number: 05660
+
+Title: Interaction Design Fundamentals:
+
+Units: 12.0
+
+Section: A,E,B,C,D,
+
+Days:  ,MW,TR
+
+Start: 08:00AM,09:30AM,12:30PM,05:00PM,
+
+End: 10:20AM,07:20PM,02:50PM,11:50AM,
+
+Room:  ,3SC 172,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Matthews, Saffer,Shelly, Beck,Vinchesi, Weinstein,Matthews, Saunders,Matthews, Vinchesi
+
+Fall 2023
+
+Course number: 05670
+
+Title: Digital Service Innovation:
+
+Units: 12.0
+
+Section: A,
+Instructors: Martelaro, Saffer,Zimmerman, Musuraca
+
+Fall 2023
+
+Course number: 05618
+
+Title: Human AI Interaction
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: SH 234
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhu
+
+Fall 2023
+
+Course number: 05630
+
+Title: Programming Usable Interfaces:
+
+Units: 15.0
+
+Section: A,E,B,C,D,Lec,
+
+Days: M, ,W,MW
+
+Start: 08:00AM, ,09:30AM
+
+End: 10:50AM,09:20AM,
+
+Room: WEH 5310,TEP 1403,PH 226B,WEH 6403, ,PH 125B
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+Elective course For more information on the MSAII program curriculum and requirements, see the program website. Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application
+
+
+Answer: 

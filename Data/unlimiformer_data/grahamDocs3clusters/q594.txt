@@ -1,0 +1,184 @@
+Question: How do buggies move forward in the beginning of the race?
+
+Context: Caretaker says: brown Act : move forward Obs : 2 steps in front of you and 3 steps to the right there is a
+
+closed brown lockablebox
+
+Caretaker says: brown Act : move forward Obs : 1 steps in front of you and 3 steps to the right there is a
+
+closed brown lockablebox
+closed brown lockablebox
+
+Act : move forward Obs : Just to the right of you there is a closed brown
+
+lockablebox
+
+Act : turn right Obs : Right in front of you there is a closed brown lockablebox Act : toggle Obs : Right in front of you there is a red apple Act : toggle Obs : Right in front of you there is a yellow apple Success!
+
+closed brown lockablebox
+
+Act : move forward Obs : 2 steps in front of you and 1 steps to the left there is a
+
+closed brown lockablebox
+Just to the right of you there is a green marble 2 steps to the right there is a round brown applegenerator Caretaker says: brown Act : move forward Obs : Right in front of you there is a red apple 1 steps in front of you and 1 steps to the right there is a round
+
+green applegenerator
+
+Caretaker says: brown Act : toggle Obs : Right in front of you there is a yellow apple 1 steps in front of you and 1 steps to the right there is a round
+
+green applegenerator
+
+open green remotedoor
+Course number: 16663
+
+Title: F1Tenth Autonomous Racing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dolan
+
+Fall 2023
+
+Course number: 16665
+
+Title: Robot Mobility on Air, Land, & Sea
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Apostolopoulos, Dolan, Geyer, Kaess, Shi
+
+Fall 2023
+
+Course number: 16682
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 6423
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wynn
+
+Fall 2023
+
+Course number: 76384
+
+Title: Race, Nation, and the Enemy
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Coulson
+
+Fall 2023
+
+Course number: 76386
+
+Title: Language & Culture
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 11:30AM
+
+End: 12:45PM
+
+Room: CMB 3044
+
+Locations: Doha, Qatar
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kroemer
+
+Spring 2024
+
+Course number: 16663
+
+Title: F1Tenth Autonomous Racing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dolan
+
+Spring 2024
+
+Course number: 16675
+
+Title: Manufacturing Futures
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bourne
+
+Spring 2024
+The starting line from the inaugural race in June 1920 was outside what is now known as the College of Fine Arts building. Racers then traveled toward Margaret Morrison Carnegie Hall, went up Tech Street, down through Schenley Park and then turned back to campus. Buggies would then take pit stops and have their rear wheels swapped before heading back toward the starting line.
+
+Alpha Kappa Psi, the first sorority to enter a Buggy on race day, in 1922.
+Teams in the outside lane are given a 3 yard head start due to being required to go the long way around the traffic dummy Each pusher must have at least 1 hand on the buggy at all times, except in the transition zone; but no more than 1 pusher may be in contact with the buggy at any time In addition to the driver, pushers, and alternates, Rosters also included all designers and builders Buggies entered in Design Comp must also finish the race in order to qualify (but exceptions are permitted)
+1946 was the first clue, since the 3 buggies advancing to the Finals were from the same Prelim Heat. But in 1947, it became more obvious, as there were 4 Prelim Heats but only the 3 teams with the fastest Prelim times advanced to the Finals. Prelims. Sadly, the 1947 Tartan was not very interested in Buggy, so we don’t know much about the race. In fact, all we really know from the Tartan is that PhiKap’s buggy was built by DeBolt, Malenock, Butters, and Gregg, and was driven by Danny Gallo. But
+
+
+Answer: 

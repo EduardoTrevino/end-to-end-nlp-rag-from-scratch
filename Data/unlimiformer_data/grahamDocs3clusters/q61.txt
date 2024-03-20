@@ -1,0 +1,218 @@
+Question: According to the MSAII handbook, what is David Garlan's office building and number?
+
+Context: avidLewis,GadyAgam,ShlomoArgamon,OphirFrieder,DavidGrossman,andJeffersonHeard.2006.Buildingatestcollectionforcomplexdocumentin-formationprocessing.InACMSIGIR.JunlongLi,YihengXu,TengchaoLv,LeiCui,ChaZhang,andFuruWei.2022.Dit:Self-supervisedpre-trainingfordocumentimagetrans-former.arXiv:2203.02378.
+110M 0.596 — 0.328 0.498 0.638 0.329 — — — 0.446 0.230 0.865 0.413 0.165 0.758 0.237 0.677 0.345 0.466 —
+
+110M 0.539 0.271 0.308 0.495 0.535 0.349 0.261 0.337 0.437 0.511 0.205 0.881 0.347 0.149 0.660 0.241 0.600 0.357 0.442 0.416
+
+∗ GTRlarge
+
+335M 0.557 0.320 0.329 0.547 0.579 0.424 0.265 0.343 0.470 0.525 0.219 0.890 0.391 0.158 0.712 0.262 0.639 0.384 0.471 0.444
+
+∗‡
+0.186 0.267 0.285 0.225 0.073 0.053 0.133
+
+0.458 0.327 0.249 0.112 0.196 0.143 0.59
+
+Tower Collector 1 (TC1) Tower Collector 2 (TC2) Tower Collector Current (TCN)
+
+0.03 0.027 0.254
+
+0.019 0.052 0.017
+
+0.127 0.088 0.309
+
+Gadgetbridge 1 (GB1) Gadgetbridge Current (GBN)
+
+0.611 0.008
+
+0.568 0.384
+
+0.158 0.007
+
+Fosdem Companion 1 (FS1) Fosdem Companion Curr. (FSN)
+
+0.318 0.105
+
+0.383 0.138
+
+0.359 0.021
+
+Fdroid 1 (FD1) Fdroid 2 (FD2) Fdroid Current (FDN)
+
+0.016 0.022 0.206
+
+0.206 0.042 0.065
+Title: Software Architectures: MSE
+
+Units: 1-36
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Schmerl, Garlan,Garlan, Schmerl
+
+Spring 2024
+
+Course number: 17634
+
+Title: Applied Machine Learning
+
+Units: 6.0
+
+Section: 43,A3,D3
+
+Days: M,MW
+
+Start: 03:30PM,07:00PM
+
+End: 08:20PM,04:50PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Worrell, Scanlon,Scanlon, Worrell
+
+Spring 2024
+Instructors: Garlan, Kang,Kang, Garlan
+
+Fall 2023
+
+Course number: 17617
+
+Title: Programming Quantum Computers
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice
+
+Fall 2023
+
+Course number: 17620
+
+Title: Quantum Machine Learning
+
+Units: 6.0
+
+Section: A2
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Singh
+
+Fall 2023
+
+Course number: 17622
+Instructors: Le Goues,Herbsleb,Kang,Fredrikson,Aldrich,Scherlis,Kaestner,Vasilescu,Miller,Shaw,Breaux,Garlan
+
+Fall 2023
+
+Course number: 17808
+
+Title: Software Engineering Research
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: MI 448
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Begel, Aldrich, Breaux, Brown, Garlan, Kaestner, Padhye, Vasilescu, Kang
+
+Fall 2023
+
+Course number: 17909
+
+Title: Requirements for Information Systems
+
+Units: 6.0
+
+Section: A2
+
+Days: TR
+garlan@cs.cmu.edu
+
+http://www.cs.cmu.edu/~garlan/academics.htm
+
+C a r o l y n  R o s é
+
+Interim Director, Language Technologies Institute  Professor  GHC 5415
+
+412-268-7130
+
+cprose@cs.cmu.edu
+
+8 MSAII Policies
+
+The Language Technologies Institute (LTI) ha s prepared this statement of policies, program
+
+requirements, guidance, process a nd procedures for students in the M.S. in Artificial Intelligence
+
+and Innovation (MSAII) program. A copy of this handbook is also available online at the
+provides information on all deadl ines including registration date s, class start dates, add/drop
+
+deadlines, exam dates and more.
+
+7 School and Departmental Information
+
+The following are key personnel with whom you may  interact during your time at Carnegie
+
+Mellon:
+
+Martial Hebert
+
+Dean, School of Computer Science 9
+
+University Professor
+
+GHC 6105  412-268-5704
+
+hebert@cs.cmu.edu
+
+https://www.cs.cmu.edu/~hebert/
+
+David Garlan Associate Dean for Master’s Programs, SCS Professor TCS 420
+Language Technologies Institute - Faculty Name: David Mortensen Email: dmortens@cs.cmu.edu Office: 5707 Gates & Hillman Centers Research Areas: Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources Phone: 412-268-2894
+
+Language Technologies Institute - Faculty Name: Graham Neubig Email: gneubig@cs.cmu.edu Office: 5409 Gates & Hillman Centers Research Areas: Machine Translation, Natural Language Processing, Spoken Language Processing, Machine Learning
+
+
+Answer: 

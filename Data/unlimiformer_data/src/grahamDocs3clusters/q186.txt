@@ -1,0 +1,244 @@
+Question: Which was the the first U.S. school to award a degree in drama?
+
+Context: 3 2 0 2
+
+y a M 6 2
+
+] L C . s c [
+
+1 v 4 7 1 7 1 . 5 0 3 2 : v i X r a
+
+1
+
+From Dogwhistles to Bullhorns: Unveiling Coded Rhetoric with Language Models
+
+Julia Mendelsohn♢ ∗
+
+Ronan Le Bras♣
+
+Yejin Choi♠♣
+
+Maarten Sap♡♣
+
+♢University of Michigan School of Information
+
+♣Allen Institute for AI
+
+♠Paul G. Allen School of Computer Science & Engineering, University of Washington ♡Language Technologies Institute, Carnegie Mellon University
+
+# juliame@umich.edu
+
+(cid:128) dogwhistles.allen.ai
+
+Abstract
+What university did Joe Biden attend?What degree did Joe Biden earn?
+
+.Ask a question to which the answer is “the University of Pennsylvania”Ask a question to which the answer is “a law degree”
+
+implicit query by maskingexplicit query by question generation
+
+Joe Biden attended the University of Pennsylvania
+
+Joe Biden attended , where he earned .LM such as ChatGPT
+
+, where he earned a law degree
+Context Sentence: a) "He graduated in 1994 with a bachelor ’s degree in sociol- ogy ." b) "In 1976 , he graduated from Oneonta with a bachelor ’s degree in so- ciology ." c) "In 1991 , he graduated with bachelor ’s degrees in linguistics and diplomacy ."
+
+Given this context, would B.A and bach- elor link to the same entity’s article on Wikipedia? Yes
+
+1) Duke of York
+Course number: 54177
+
+Title: Foundations of Drama I
+
+Units: 6.0
+
+Section: A,B
+
+Days: TR
+
+Start: 09:00AM,02:00PM
+
+End: 10:20AM,03:20PM
+
+Room: WEH 5304,PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Prendergast
+
+Fall 2023
+
+Course number: 54183
+
+Title: Documentary Theater
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A20
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Miller, Thoni
+
+Fall 2023
+
+Course number: 54187
+Fall 2023
+
+Course number: 54281
+
+Title: Foundations of Drama II
+
+Units: 6.0
+
+Section: A,B
+
+Days: TR
+
+Start: 09:30AM,02:00PM
+
+End: 10:50AM,03:20PM
+
+Room: PH A21,WEH 5328
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Olmstead
+
+Fall 2023
+
+Course number: 54284
+
+Title: Fundamentals of Directing
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: PCA 118
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Roth
+
+Fall 2023
+
+Course number: 54285
+Course number: 54241
+
+Title: Dramaturgy 5: Dramaturgy in Translation
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PH A21A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Good
+
+Fall 2023
+
+Course number: 54245
+
+Title: Who Wore What: When, Where, and Why
+
+Units: 6.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: PCA 305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brownlee
+
+Fall 2023
+
+Course number: 54247
+
+Title: Dramaturgy 6: In Company
+
+Units: 9.0
+It expanded from two buildings into an elegant 20th century campus designed in the beaux arts architectural style, housing a wealth of machine shops, studios and laboratories — the hands-on center of learning that persists today. It pioneered conservatory degree programs in music and drama, in addition to visual art and design programs. The first U.S. drama degree was awarded in 1914 at Carnegie Tech. It began offering graduate degrees. In 1919, the first doctorate (in civil engineering) was
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+
+
+Answer: 

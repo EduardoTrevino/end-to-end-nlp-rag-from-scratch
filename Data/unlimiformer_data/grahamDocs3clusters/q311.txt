@@ -1,0 +1,162 @@
+Question: What country does the Dual-Degree Ph.D. in Language and Information Technologies have a partnership with?
+
+Context: Lan Anh Thuy Nguyen is a Ph.D. student at Doctoral School of Education, University of Szeged, Hun- gary, and she is on the Stipendium Hungaricum Scholarship program of the Hungarian government in collaboration with the Vietnamese government. Her research interests cover digital language learning, motivation in learning English as a foreign language, technology-based learning and assessment.
+Oana-Maria Camburu, Tim Rocktäschel, Thomas Lukasiewicz, and Phil Blunsom. 2018. e-snli: Natu- ral language inference with natural language expla- nations. Advances in Neural Information Processing Systems, 31.
+
+Hyung Won Chung, Le Hou, Shayne Longpre, Bar- ret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, et al. 2022. Scaling instruction-finetuned language models. arXiv preprint arXiv:2210.11416.
+
+Michael Cohen. 2021. Exploring roberta’s theory of
+Oana-Maria Camburu, Tim Rocktäschel, Thomas Lukasiewicz, and Phil Blunsom. 2018. e-snli: Natu- ral language inference with natural language expla- nations. Advances in Neural Information Processing Systems, 31.
+
+Samuel Carton, Qiaozhu Mei, and Paul Resnick. 2020. Feature-based explanations don’t help people detect misclassifications of online toxicity. In ICWSM.
+Title: Topics in Second Language Acquisition:
+
+Units: 9.0
+
+Section: A,B,C,D,
+
+Days: M, ,MW,TR
+
+Start: 12:30PM, ,04:00PM,02:00PM
+
+End:  ,01:50PM,06:50PM,03:20PM
+
+Room: DH 1209,WEH 5304, ,PH A21,PH A19D
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Van Compernolle,Al Masaeed,Amgott,Wiener
+
+Fall 2023
+
+Course number: 82989
+
+Title: Second Language Acquisition Dissertation Research
+
+Units: 3-36
+
+Section: A,E,B,F,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Room: PH A19D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wu
+
+Spring 2024
+
+Course number: 82342
+
+Title: Spain: Language and Culture
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Skibba
+
+Spring 2024
+
+Course number: 82343
+
+Title: Latin America Language and Culture
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: PH A19
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Estrada
+Language and Information Technologies in cooperation with: Universidade de Aveiro (Ph.D. in Computer Engineering), Universidade do Minho (Ph.D. in Informatics)  and the Universidade do Porto (FCUP, Ph.D. in Computer Science and FEUP, Ph.D. in Computer Science) as part of MAPi; Universidade de Lisboa, Faculdade de Ciências – FCUL (Ph.D. in Informatics) Universidade de Lisboa, Instituto Superior Técnico – IST  (Ph.D. in Computer Science and Engineering, Ph.D. in Electrical and Computer
+Learn at LTI The LTI's degree programs draw from a common set of courses and core skills, but emphasize different types of expertise that prepare you for a wide range of career options. All of our programs provide the hands-on experience and rigorous curriculum that are the hallmark of computer science at Carnegie Mellon. Program Type: Ph.D. Programs Program Name: Dual-Degree Ph.D. in Language and Information Technologies (Portugal Partnership) Overview: The LTI offers a dual-degree Ph.D. in
+Affairs web page , the Office of the Dean of Students web page , and other resources contained in
+
+Appendix A of this handbook.
+
+Welcome! We hope that your time here is a life -changing experience.
+
+1.1 Degrees Offered
+
+The Language Technologies Institute offers two Ph.D. programs and four Master degrees.
+
+Ph.D.  in Language and Information Technologies (LTI Ph.D. )
+
+Dual -Degree Ph.D. in Language and Information Technologies (CMU -PT Ph.D.)
+
+Masters in Language Technologies (MLT)
+
+
+Answer: 

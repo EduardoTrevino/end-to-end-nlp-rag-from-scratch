@@ -1,0 +1,113 @@
+Question: How many action types were included in the WebArena benchmark?
+
+Context: We provide a benchmark with 812 test examples on grounding high-level natural language instructions to interactions in WebArena. Each example has a metric to evaluate the functional correctness of the task execution. In this section, we first formally define the task of controlling an autonomous agent through natural language. Then we introduce the annotation process of our benchmark.
+
+3.1
+
+INTENT COLLECTION
+We present WebArena, a highly-realistic, standalone, and reproducible web environment designed for the development and testing of autonomous agents. WebArena includes fully functional web applications and genuine data from four major categories, providing a realistic platform for agent interaction. It further supports a wide range of tools and external knowledge bases, fostering a focus on human-like problem-solving. Additionally, we curate a comprehensive benchmark consisting of 812 examples
+Along with WebArena, we release a ready-to-use benchmark with 812 long-horizon web-based tasks (§3). Each task is described as a high-level natural language intent, emulating the abstract language usage patterns typically employed by humans (Bisk et al., 2019). Two example intents are shown in the upper left of Figure 1. We focus on evaluating the functional correctness of these tasks, i.e., does the result of the execution actually achieve the desired goal (§3.2). For instance, to evaluate the
+End: 03:45PM,01:50PM,03:20PM,04:50PM,10:50AM
+
+Room: CMB 1064,TEP 2702
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Burke,Depretis,Rivera Lebron,Mcginnis
+
+Fall 2023
+
+Course number: 70350
+
+Title: Acting for Business
+
+Units: 9.0
+
+Section: A,B
+
+Days: TR
+
+Start: 08:00AM,09:30AM
+
+End: 10:50AM,09:20AM
+
+Room: TEP 3808,TEP 2702
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Goyette,Rivera Lebron
+
+Fall 2023
+
+Course number: 70354
+
+Title: Communication: Social Media in Action
+Instructors: Islam, Houser,Houser, Cohen-Karni,Skowronski, Houser,O'Connor, Houser,Houser, Marom,Pistorius,Dickey,Rohrer,Barati Farimani, Houser,Mchenry,Towe,Houser, Rollett,Degraef,Houser, Webler,Bockstaller, Houser,Houser, Porter,Houser,Kurchin,Houser, Holm,Feinberg,Houser, Sokalski,Bettinger, Houser,Salvador,Whitacre, Houser
+
+Spring 2024
+
+Course number: 27761
+
+Title: Kinetics of Metallurgical Reactions and Processes
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+Instructors: Howard,Dealmeida,Almarza,Kostyniak,Vosburgh,Defade,Cardenes,Wu,Ferla,Spacagna,Caballero,Schepkin,Instructor TBA,Gruber,Van Hoesen, Shields,Evans, Allen, Branson,Cherian,McGhee,Knox,Thompson, Shields,Dee,Whipple,Aylmer,Kush,Carlisle,van der Sloot,Rusinek, Shields,Houlik, Shields,Shields, Sullivan,Laduke,Williams,Berntsen,Harding,Goeres, Shields,Premo,Teadt,Galbraith,Chiu
+
+Fall 2023
+
+Course number: 57500
+
+Title: Major Studio (Voice)
+
+Units: 9.0
+
+Section: A,E,B,F,C,D
+
+Days: TBA
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+Safety is a top priority for teams. All drivers are required to have five pieces of safety gear: mouth guard, goggles, a harness that includes three points of contact to the body of the buggy, gloves and a helmet. And during practice runs and races, flaggers man the course to let drivers know if it's safe to proceed.
+included in The WORD (not an exhaustive list) and graduate students are encouraged to bookmark this site and refer to it often:
+
+Carnegie Mellon Vision, Mission
+
+Statement of Assurance
+
+Carnegie Mellon Code
+
+Academic Standards, Policies and Procedures
+
+Educational Goals
+
+Academic and Individual Freedom
+
+Academic Disciplinary Actions Overview
+
+S tatement on Academic Integrity Standards for Academic & Creative Life
+
+Assistance for Individuals with Disabilities
+A review of the University’s Academic Disciplinary Actions procedures https://www.cmu.edu/student-affairs/theword/academic-discipline/index.html   is also recommended. These procedures outline the process for investigating, reporting, and adjudicating violations of the University Policy on Academic Integrity. The procedures also outline the appeal process.
+
+3.3.27 Process for Appealing Final Grades https://www.cmu.edu/student-affairs/theword/academic/appeal-of-grades-and-academic-actions.html
+includes the University expectations around academic integrity and provides definitions of
+
+cheating, plagiarism, and unauthorized assistance.
+
+MIIS Graduate Student Handbook  Page 23
+
+A review of the University’s Academic Disciplinary Actions procedures
+
+https://www.cmu.edu/student -affairs/theword/academic- discipline/index.html  is also
+
+recommended. These procedures outline the process for investigating, reporting, and
+
+
+Answer: 

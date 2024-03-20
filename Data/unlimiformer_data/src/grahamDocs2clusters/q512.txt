@@ -1,0 +1,15 @@
+Question: Who was the first dean of the School of Computer Science?
+
+Context: Since its beginnings in the 20th century with the theoretical conceptualization by Alan Turing of a machine capable of making calculations and with memory to store data, computing has led us in a spiral of technological advances, which has evolved exponentially. The Englishman Alan Turing was the founder of Computer Science, he was a mathematician, philosopher and cryptographer, a visionary of his time. Turing lived from (1912 to 1954). It should be noted that, without that initial idea and the
+Davinci-003 → Zhiqing Sun is a Chinese computer scientist, professor, and entrepreneur. He is the founder of the Institute of Computer Science and Technology at Tsinghua University in Beijing, China and a member of the Chinese Academy of Sciences.
+Kong, S., Hoppe, H., Hsu, T., Huang, R., Kuo, B., Li, K., et al. (eds) (2020). Proceedings of International Conference on Computational Thinking Education 2020. Hong Kong: The Education University of Hong Kong.
+
+Kulkarni, V. (2015). Looking Back: Alan Turing-The Father of Computer Science. CSI
+
+Communications, India.
+SCS is officially formed CMU’s Faculty Senate in the fall of 1988 agreed to President Richard Cyert’s plan to elevate the Department of Computer Science to college status. In addition to the Computer Science Department, SCS also incorporated the Robotics Institute, the Center for Machine Translation, and researchers from the Information Technology Center, which had developed Andrew. On Dec. 13, 1988, Cyert (H’89) told faculty and staff that Habermann had been appointed CMU’s first Dean of
+nearby Mellon Institute of Industrial Research to form Carnegie-Mellon University. The Department of Computer Science moved into the newly created Mellon Institute of Science, later renamed Mellon College of Science, or MCS. Future SCS dean Raj Reddy joined the CSD in 1969 after three years as an assistant professor at Stanford. He brought with him research in speech, language and computer vision. But in 1970 and 1971, the new Computer Science Department faced its first crisis, as half of its
+A “school of computer science” is proposed Feeling that CSD’s needs were inadequately represented in MCS, CSD head A. Nico Habermann and then-CMU provost Angel Jordan in 1986 wrote a white paper proposing the creation of “a School of Computer Science.” Responding to concerns from the faculty that the change might be taking place too quickly, the university first established a free-floating Department of Computer Science. The experiment, which lasted two years, was an unqualified success.
+
+
+Answer: 

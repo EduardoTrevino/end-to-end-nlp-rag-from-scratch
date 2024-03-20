@@ -1,0 +1,105 @@
+Question: Which datasets were used in the evaluation of KALE method?
+
+Context: We evaluate the proposed framework on a practical financial problem, namely loan default prediction. We simulate the FL and blockchain environment for the Lending Club Kaggle challenge dataset to conduct experiments in a controllable setting and to provide insights into the problem of interest. We empirically show that an FL system can maintain robust performance under malicious attacks by introducing the pro- posed stake-based aggregation mechanism.
+Table 2: Prompt template used for each dataset
+
+4ExperimentCostrelativetoSpanish
+
+0
+
+1
+
+ka
+
+pt
+
+2
+
+sr
+
+es
+
+ar
+
+id
+
+de
+
+taLanguage
+
+ro
+
+hi
+
+it
+
+pl
+
+3
+
+tr
+
+en
+
+sw
+
+hi
+
+1
+
+3
+
+ja
+
+am
+
+4ExperimentCostrelativetoEnglish
+
+id
+
+ar
+
+0
+
+2
+
+es
+
+pt
+
+ru
+
+vi
+
+ko
+
+teLanguage
+
+ta
+
+fr
+
+(a) XFACT
+
+(b) CROSSUM
+
+Figure 11: Relative cost of prompt + generated tokens for XFACT and CROSS-SUM evaluations.
+
+200Averagenumberoftokens
+
+100
+1) Data and Task: We consider a standard classification task, namely loan default prediction. We use the Kaggle Lending Club dataset4 to simulate a realistic financial application scenario. We pre-process the raw dataset by dropping all entries with missing values. For the labels, we only keep “Fully Paid” and “Charged Off” to simplify the task as a binary classification task. We randomly select 80% of the data as the training set and use the rest of the data as the test set. The training set
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+Analytics. Students electing to complete the Analytics concentration will also learn to:
+
+Design, implement and evaluate a software system and machine
+
+learning model on real world datasets at real world scale.
+
+Analyze and document data science requirements in different application domains and survey as well as critique state of the art solutions for those requirements.
+
+Systems. Students electing to complete the Systems concentration will also learn to:
+
+
+Answer: 

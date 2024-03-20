@@ -1,0 +1,209 @@
+Question: Which class did Shinji Watanabe teach in Fall 2024?
+
+Context: Dan Berrebbi, Jiatong Shi, Brian Yan, Osbel López- Francisco, Jonathan Amith, and Shinji Watanabe. 2022. Combining Spectral and Self-Supervised Fea- tures for Low Resource Speech Recognition and Translation. In Proc. Interspeech 2022, pages 3533– 3537.
+Keqi Deng, Shinji Watanabe, Jiatong Shi, and Siddhant Arora. 2022. Blockwise Streaming Transformer for Spoken Language Understanding and Simultaneous Speech Translation. In Proc. Interspeech 2022, pages 1746–1750.
+Ukyo Honda, Taro Watanabe, and Yuji Matsumoto. 2022. Switching to discriminative image captioning by relieving a bottleneck of reinforcement learning. In 2023 IEEE/CVF Winter Conference on Applica- tions of Computer Vision (WACV), pages 1124–1134.
+
+Hyunwoo Kim, Byeongchang Kim, and Gunhee Kim. 2020. Will I sound like me? improving persona
+Course number: 11743
+
+Title: Self-Paced Lab: IR
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+
+Course number: 11751
+
+Title: Speech Recognition and Understanding
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Fall 2023
+
+Course number: 11755
+
+Title: Machine Learning for Signal Processing
+
+Units: 12.0
+
+Section: A,B
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 82473
+
+Title: Topics in Japanese Studies:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room:  ,BH 154A
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Yasuhara
+
+Fall 2023
+
+Course number: 82480
+
+Title: Translation Technologies
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCullough
+
+Fall 2023
+
+Course number: 82481
+Room: HH 1107
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Blanton
+
+Fall 2023
+
+Course number: 18771
+
+Title: Linear Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kar
+
+Fall 2023
+
+Course number: 18781
+
+Title: Speech Recognition and Understanding
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Fall 2023
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+Elective course For more information on the MSAII program curriculum and requirements, see the program website. Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+
+
+Answer: 

@@ -1,0 +1,19 @@
+Question: What is the novel architecture introduced in the paper "Efficient Sequence Transduction by Jointly Predicting Tokens and Durations"?
+
+Context: maintain dimensions that are congruent with GPT- 3 models. Additionally, all of our models are trained to handle a maximum sequence length of 2,048 tokens. The detailed architecture is shown in Table 4. Alibi [28]. Alibi introduces a more streamlined and efficient positional ap- proach called Attention with Linear Biases. Rather than adding positional em- beddings to word embeddings, ALiBi applies a bias to query-key attention scores, penalizing them based on their distance. SwiGLU [32]. SwiGLU
+Paper title: 'Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning' Published year: 2023 Publication venue or conference: Interspeech Authors: Xuankai Chang, Yuya Fujita, Takashi Maekaku, Shinji Watanabe, Brian Yan Summary: This paper proposes a new protocol that utilizes discretized token sequences in ASR tasks, which includes de-duplication and sub-word modeling to enhance the input sequence and reduces computational cost by decreasing the length of
+to-sequence (Seq2Seq) models. So far, we only reduce the size of data in terms of storage. However, it doesn’t affect the com- putation efficiency, which is dominated by the model size and sequence length. To address the latter factor, we propose two methods. First, we can combine consecutively repeated tokens into a single one [29]. Second, we apply subword modeling on discrete tokens [30] to divide the sequence into subsequences, each of which is represented as a single meta-token. We evalu-
+for Graduate Education. The waiver request must explain the exceptional circumstances that warrant an extension. For cases in which a waiver is granted, the waiver wi ll cover specific
+
+courses and will specify a time period for completion of the program.
+
+See also the ‘Duration of Study’ policy.
+
+Information about and instructions for ordering transcripts are available at:
+
+https://www.cmu.edu/hub/registrar/student- records/transcripts/index.html
+................................................................................................. 26 4.1 MCDS Academic Policies ......................................................................................... 26 4.1.1 Duration of Study  26 4.1.2 Double-Dipping  26 4.1.3 Pass/Fail and Audit Grades  26 4.1.4 Transfer Credit  27 4.1.5 External Internships and Job Interviewing  27 4.1.6 Transferring into the MCDS Program  27 4.1.7 Transferring Out of the MCDS Program  27 4.1.8 Statute of
+Under extraordinary circumstances, such as leave of absence, military or public service, family or parental leave, or temporary disability, a school or college may, upon the relevant department's recommendation and with the written approval of the dean (or designate), defer the lapse for a period commensurate with the duration of that interruption. Students who are pursuing a master’s degree as part-time students for all semesters of their program, as approved by their program, may also appeal
+
+
+Answer: 

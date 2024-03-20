@@ -1,0 +1,29 @@
+Question: When was the two-wheeled buggy eliminated?
+
+Context: Baselines We compare GINSEW with He et al. (2021) and CATER (He et al., 2022). Specifically, He et al. (2021) pro- pose two watermarking approaches: the first one replaces all the watermarked words with their synonyms; the second one watermarks the victim API outputs by mixing American and British spelling systems. Because the second one is eas- ily eliminated by the adversary through consistently using one spelling system, we focus on their first approach. This method selects a set of words C
+The MLSUM Turkish subset was built by crawling the articles on Turkish website (Internet Haber) between 2010 and 2019. All articles under 50 words and summaries under 10 words were eliminated. The data was split into train, validation, and test sets, with respect to the publishing dates. The data from 2010 to 2018 was used for training, data between January and April 2019 was used for validation, and data up to December 2019 was used for test (Scialom et al. 2020). There are 249,277 train,
+We then measured the performance differences between the repaired and unre- paired versions of the applications. We found that in our 21 benchmarks, 5 had either no warnings or warnings that could not be repaired without introducing buggy behav- ior. For example, a warning about instantiating an object in a loop could be “unfixable” as a reference to each instantiated object is held in an array. So, moving the instan- tiation outside of the loop would result in an array with the same reference
+1947 – DU’s Flying Pork Barrel (with cowboy hat-adorning driver) being pushed on the Back Hills (from the 1948 Thistle). DU would go on to earn their first and only Buggy championship. The three wheeled buggy trailing appears to be DTD. This might be the Finals.
+
+1947 – KapSig’s Buggy (from the 1948 Thistle)
+
+1947 – PiKA’s buggy (from the 1948 Thistle).
+
+1947 – SigNu buggy, driven by Keith Thomas (photo from the BAA Gallery, submitted by Michael Serebrennikov)
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+1949 – KapSig’s buggy with front hatch removed, being inspected (from the 1950 Thistle).
+
+1949 – PiKA’s Buggy and team (from the 1950 Thistle)
+
+1949 – ATO’s buggy (from the 1950 Thistle). The buggy is flat and white, and has side view mirrors!
+
+1949 – KapSig’s buggy being pushed on the Back Hills (from the 1949 Thistle)
+
+1949 – PiKA’s Buggy (from the 1950 Thistle)
+
+
+Answer: 

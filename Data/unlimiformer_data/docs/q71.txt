@@ -1,0 +1,185 @@
+Question: Was there a specific college for women at the Carnegie Technical Schools? If so, what was its name?
+
+Context: 3 2 0 2
+
+y a M 7 1
+
+] L C . s c [
+
+2 v 9 6 9 7 0 . 5 0 3 2 : v i X r a
+
+GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content
+
+Yutian Chen† School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213 yutianch@andrew.cmu.edu
+
+Hao Kang† School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213 haok@andrew.cmu.edu
+
+Vivian Zhai† College of Engineering Carnegie Mellon University Pittsburgh, PA 15213 yiyanz@andrew.cmu.edu
+3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+Noah A. Smith♢♠ Hannaneh Hajishirzi♢♠ ♠Allen Institute for Artificial Intelligence ♢Paul G. Allen School of Computer Science & Engineering, University of Washington ♡Language Technologies Institute, Carnegie Mellon University ♣Institute for Language, Cognition and Computation, University of Edinburgh {haop,jessed,matthewp,kylel,sams,darrellp,beltagy,petew}@allenai.org {qicao,nasmith,hannaneh}@cs.washington.edu {jaredfern,strubell}@cmu.edu, tom.sherborne@ed.ac.uk
+
+Abstract
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Instructors: Xhakaj,Reis,Rivers
+
+Spring 2024
+
+Course number: 15111
+
+Title: College Programming and Computer Science
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pre-College Pittsburgh
+
+Instructors: Stehlik
+
+Spring 2024
+
+Course number: 15112
+
+Title: Fundamentals of Programming and Computer Science
+
+Units: 12.0
+
+Section: E,I,F,D, ,P,C,J,A,K,W,B,Lec 1,Lec 2,H,L,M,R,O,Q,G,N
+
+Days: W,F,UTR,TR
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Oddo,Niang,Ales,Thiessen,Vatanasakdakul,Dubreil,Wassif,Tarr,Greenhouse,Aoun,Jarbo, Manke-Miller,Crittenden,Mahon,Arana,Instructor TBA,Haggerty,Aronson,Mcgovern,Caspar,Liginlal,Fong,Clay,Patterson, Oppenheimer,Goldman,Dilworth,Oppenheimer,Parker,Verstynen,London,Helgeson,Bouamor,Werner
+
+Spring 2024
+
+Course number: 66503
+
+Title: Dietrich College Senior Honors Thesis
+
+Units: 18.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+Scotland, in 1835. Carnegie came to the United States in 1848 and founded Carnegie Technical Schools in Pittsburgh in 1900.
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+their careers, lives and communities. "My heart is in the work," he stated, which would become part of the school's official motto. The Carnegie Technical Schools offered two- and three-year certificates in the arts as well as in engineering disciplines and included a college for women, Margaret Morrison Carnegie College.
+Carnegie Tech – Early Years
+
+Soon faced with the demand for baccalaureate programs, Carnegie Technical Schools began offering bachelor's degrees through its College of Engineering and College of Fine Arts, becoming the Carnegie Institute of Technology, or "Carnegie Tech." During the first half of the 20th century, with support from Andrew Carnegie and other funders, Carnegie Tech laid the foundation for a school on the cutting edge. Some key developments were:
+In 1967, Carnegie Tech merged with the Mellon Institute, a science research center founded by the Mellon family of Pittsburgh, to become known as Carnegie Mellon University. The merger built upon a long history of support from the Mellons. It allowed Carnegie Mellon to establish the last of its current pillars: the Mellon College of Science and the College of Humanities and Social Sciences, now known as Marianna Brown Dietrich College of Humanities and Social Sciences. In 2017, Carnegie Mellon
+
+
+Answer: 

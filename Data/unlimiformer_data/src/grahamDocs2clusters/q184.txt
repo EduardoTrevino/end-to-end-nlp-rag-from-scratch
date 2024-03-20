@@ -1,0 +1,35 @@
+Question: Tartan Athletics Club was launched in which year?
+
+Context: At this point, the project group arranged to embed links to the toolkit in each institution’s web pages and to actively promote the resource at every available opportunity. The toolkit had a ‘soft’ launch in September 2022 at an OpenFest event run by Sheffield, before being formally launched during Open Access Week in October 2022 at an event led by the University of Leeds.
+
+Discovery of OER
+
+The aims of this element of the project were to:
+ChemProt HyperPartisan ACL-ARC
+
+SciERC
+
+Average
+
+Baseline DAPT [24] TARTAN-MT [11] SAMA (ours)
+
+82.70 (0.45) 84.17 (0.50) 84.18 (0.30) 84.49 (0.13)
+
+89.03 (2.25) 87.23 (3.65) 94.64 (0.91) 95.18 (0.03)
+
+68.17 (2.52) 71.84 (4.78) 72.41 (1.94) 71.63 (1.68)
+
+79.83 (0.89) 80.42 (1.57) 80.83 (0.71) 81.84 (0.08)
+
+79.93 80.92 83.02 83.29
+Before the survey was launched, an academic colleague from the University of Sheffield, who had previously indicated an interest in the project and was willing to be a critical friend, was approached for feedback about it. Their feedback was used to make minor amendments to the survey, and it was then circulated to teaching staff in all institutions using appropriate local channels during December 2021 and January 2022.
+
+6
+
+About the participants
+In August 2012, the Carnegie Mellon Department of Athletics, Physical Education and Recreation launched the Tartan Athletics Club. Developed by a group of passionate alums and friends of Carnegie Mellon Athletics, the Tartan Athletics Club mission and goals are as follows:
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+
+
+Answer: 

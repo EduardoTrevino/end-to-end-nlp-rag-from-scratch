@@ -1,0 +1,173 @@
+Question: What's the URL for the code and data of InPars-light
+
+Context: code and data is publicly available.https://github.com/searchivarius/inpars_light/
+3.3 InPars-light Training Recipe
+
+The InPars-light is not a new method. It is a training recipe, which a modification of the original InPars. Yet, it is substantially more cost effective for generation of synthetic queries, training the models, and inference. InPars-light has the following main “ingredients”:
+
+Using open-source models instead of GPT-3;
+
+Using smaller ranking BERT models instead of monoT5 rankers;
+
+Fine-tuning models on consistency-checked training data;
+We carried out a reproducibility study of InPars (Bonifacio et al., 2022), which is a method for unsupervised training of neural rankers. As a by-product of this study, we developed a simple-yet-effective modification of InPars, which we called InPars-light. Unlike InPars, InPars-light uses only a community-trained open-source language model BLOOM (with 7B parameters), 7x-100x smaller ranking models, and re-ranks only top-100 candidate records instead of top-1000.
+Instructors: Gomez
+
+Fall 2023
+
+Course number: 82287
+
+Title: Multicultural Immersion - Relating Your World in Virtual Reality
+
+Units: 6.0
+
+Section: W1
+
+Days: TR
+
+Start: 04:00PM
+
+End: 05:15PM
+
+Room: TBA
+
+Locations: Doha, Qatar
+
+Instructors: Caspar, Usova
+
+Fall 2023
+
+Course number: 82291
+
+Title: Intermediate Russian I
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PH 125C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kats
+
+Fall 2023
+
+Course number: 82293
+Title: Advanced Entertainment Lighting Programming Lab
+
+Units: VAR
+
+Section: A
+
+Days: F
+
+Start: 04:00PM
+
+End: 04:50PM
+
+Room: PCA A16
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 54872
+
+Title: Scenic Design Skills: 2D Drawing and Rendering
+
+Units: 4.0
+
+Section: A4
+
+Days: W
+
+Start: 01:00PM
+
+End: 03:20PM
+
+Room: PCA 307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Warren
+
+Spring 2024
+
+Course number: 54874
+
+Title: Technical Direction II
+
+Units: 6.0
+Instructors: Wells
+
+Spring 2024
+
+Course number: 82288
+
+Title: Everyday Learning: Designing Learning Exp in Times of Unrest & Uncertainty
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1024
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Caspar
+
+Spring 2024
+
+Course number: 82292
+
+Title: Intermediate Russian II
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: BH 154A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kats
+
+Spring 2024
+Fringe vehicles often are named with the letter "B," like Boson, Blueshift, Bissa and Bumper. Other teams, such as Apex, often use names that connotate fire, while the SDC (Student Dormitory Committee) team, uses names such as Vice, Bane, Avarice and Malice.
+
+This year's buggy names will be under wraps until Thursday, when the Buggy Showcase will take place from noon to 2 p.m. in Weigand Gymnasium in the Cohon University Center. It's one of the few times spectators can see buggies up close.
+between PhiKap, Theta Xi, and Scobell House (Men’s Dorms), but again, Theta Xi won by default, as both PhiKap and Scobell were DQ’d for a Hill 4-5 transition violation (the same problem that DU had). Rain or Shine, But Not Really… One other rule stated that the race would be rain-or-shine. However, that didn’t turn out to be true.
+You can find our official tartan on various items in the University Store.
+
+Source: "Tartan: Romancing the Plaid," by Jeffrey Banks and Doria De La Chapelle
+The Carnegie Mellon Code can also be found on-line at: https://www.cmu.edu/student-affairs/theword/ . 2 The Language Technologies Institute 2.1 Main Office The Gates Hillman Complex: Mailboxes, printers, copiers, and other departmental resources are in GHC 5404. 112.2 Photocopies and Printers The use of a printer/copier requires a CS user id (see the ‘Computers’ section). The School of Computer Science provides several black-and-white and color printers for use by students. SCS Computing
+Information regarding the application of Title IX, including to admission and employment decisions, the sexual misconduct grievance procedures and process, including how to file a report or a complaint of sex discrimination, how to file a report of sexual harassment, and how the university responds to such reports is available at www.cmu.edu/title-ix . The Title IX 10coordinator may be reached at 412-268-7125 or tix@cmu.edu .
+
+1.7 The Carnegie Mellon Code
+A GPA of 3.0 or higher. (Students should report raw university GPA scores and NOT converted scores. Please DO NOT convert your international score to a US GPA or weighted GPA or other system).
+
+GRE scores: GRE is required. Our Institution Code is 2074; Department Code is 0402.
+
+
+Answer: 

@@ -1,0 +1,169 @@
+Question: What does SPAE convert between?
+
+Context: stove, sink, and refrigerator.SPAE L3: A kitchen with a stove, sink, and refrigerator.SPAE L4: A kitchen with a stove, sink, and refrigerator.SPAE L5: A kitchen with a stove, sink, and cabinets.SPAE L6: A kitchen with a sink, stove, and refrigerator.
+Baseline: A man and a woman are sitting on a bench in a park.SPAE L1: A man is holding a baby in his arms.SPAE L2: A group of people are standing in a line.SPAE L3: A group of people in costumes at a Halloween party.SPAE L4: A group of people are dressed up in costumes for Halloween.SPAE L5: a group of people dressed in costumes at a partySPAE L6: a table with a bowl of fruit and a vase of flowers
+Baseline: A man in a suit standing in front of a white wall.SPAE L1: A man in a red jacket and black pants standing on a snowy mountain.SPAE L2: A man in a red jacket skiing down a snowy mountain.SPAE L3: A man skiing down a snowy mountain.SPAE L4: A person skiing down a snowy mountain.SPAE L5: A person skiing down a mountain.SPAE L6: A person skiing down a mountain.Baseline: A group of people are standing in a field.SPAE L1: A group of people are standing in a room.SPAE L2: A kitchen with a
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Spacagna
+
+Spring 2024
+
+Course number: 57227
+
+Title: Jazz Instrumental Ensemble:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,08:00PM
+
+End:  ,09:20PM
+
+Room:  ,MM 119
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Snyder
+
+Spring 2024
+
+Course number: 57232
+
+Title: Chamber Music: Guitar
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Marcinizyn, Ferla
+
+Spring 2024
+Fall 2023
+
+Course number: 57588
+
+Title: Junior Recital Voice
+
+Units: 1.0
+
+Section: E2,B2,D2,C2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Fall 2023
+
+Course number: 57589
+
+Title: Senior Recital Voice
+
+Units: 1.0
+
+Section: E2,B2,D2,C2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Fall 2023
+
+Course number: 57591
+Course number: 57897
+
+Title: Graduate Recital (Voice)
+
+Units: 1.0
+
+Section: B4,D4,A4,C4,E4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Spring 2024
+
+Course number: 57898
+
+Title: Graduate Recital:
+
+Units: 1.0
+
+Section: E,IA,AC,OA,VD,NA,JA, ,FB,PB,VA,C,DD,AB,S,FA,KA,B,MC,T,MA,OB,VE,H,JB,L,NB,PC,IB,AA,PA,Q,R,DC,G,KB,VC,DB,VB,DA,MB
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+Transition: Procedure whereby one pusher finishes pushing a buggy and the next pusher in sequence starts to push that same buggy.
+So what's the difference between tartan and plaid?
+What is a Tartan?
+A GPA of 3.0 or higher. (Students should report raw university GPA scores and NOT converted scores. Please DO NOT convert your international score to a US GPA or weighted GPA or other system).
+
+GRE scores: GRE is required. Our Institution Code is 2074; Department Code is 0402.
+By awarding an “I” grade, an instructor must spe cify the requirements for the completion of the
+
+work and designate a default letter grade in th e event that the student fails to complete the
+
+remaining work.
+
+Students must complete the required course work  by no later than th e end of the following
+
+academic semester or sooner if  required by the instructor.
+
+The instructor must record the permanent cours e grade by the last day of the examination
+3.1.3 Extended or Longer -than -Standard Completion (Statute of Limitations)
+
+Longer -than -standard degree completion may occur due to academic interruptions in making
+
+progress toward the degree as defined by the academic  program, interruptions of full -time
+
+study or progress towards the degree due to  serious, documented medical iss ues, or other
+
+unusual or unforeseen  circumstances.
+
+Master’s students who require longer than the standard time to complete their  degree
+
+
+Answer: 

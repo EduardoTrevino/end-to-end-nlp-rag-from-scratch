@@ -1,0 +1,185 @@
+Question: Who generates ValuePrism's contextualized values?
+
+Context: To examine how context can be leveraged for explaining offensiveness, we train CHARM, a Context-aware Harm Reasoning Model, using COBRACORPUS. Through context-aware and context-agnostic model ablations, we show per- formance improvements with the use of context when generating COBRA explanations, as mea- sured by automatic and human evaluations. Surpris- ingly, on the challenging counterfactual contexts (COBRACORPUS-CF), CHARM surpasses the per- formance of GPT-3.5—which provided CHARM’s
+Shapley values (Hart, 1989), originating from co- operative game theory, have emerged as a powerful model-agnostic tool to explain the predictions of machine learning models. This approach provides a way to fairly distribute the contribution of each feature to the overall prediction for a specific in- stance. By calculating the Shapley value for each feature, we gain insight into the importance of in- dividual features within the context of a specific prediction. This interpretability technique
+4 COBRACORPUS-CF: Generating
+
+Counterfactual Contexts
+
+To examine the limits of context-aware ex- planations generate COBRACORPUS-CF, a challenge set of counterfac- tual context pairs that invert the offensiveness of statements, inspired by adversarial and counterfac- tual test sets in NLP (Gardner et al., 2020; Li et al., 2020; Chang et al., 2021). Illustrated in Figure 1, our motivating question asks, how does the toxicity of a statement change with a different context?
+
+of
+Title: M.F.A. Studio
+
+Units: 12-24
+
+Section: A
+
+Days: R
+
+Start: 05:30PM
+
+End: 09:20PM
+
+Room: HOA 322
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Barrois, Hubbard, Washko
+
+Spring 2024
+
+Course number: 60706
+
+Title: M.F.A. Contextual Practice
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HOA 322
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brooks Takahashi
+
+Spring 2024
+
+Course number: 60711
+
+Title: M.F.A. Thesis Writing Seminar I
+
+Units: 9.0
+
+Section: A
+Days:  ,MW
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,TEP 2111
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Ciollaro
+
+Spring 2024
+
+Course number: 46889
+
+Title: Business Value Through Integrative Analytics:
+
+Units: 6.0
+
+Section:  ,A4
+
+Days:  ,TR
+
+Start:  ,04:00PM
+
+End:  ,05:50PM
+
+Room:  ,TEP 2111
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Ravi
+
+Spring 2024
+
+Course number: 46892
+
+Title: Data Analytics in Finance:
+
+Units: 6.0
+
+Section:  ,A4
+
+Days:  ,MW
+
+Start:  ,10:00AM
+Title: Communications Studio I: Understanding Form & Context
+
+Units: 4.5
+
+Section: A1,A2
+
+Days: TR
+
+Start: 08:30AM
+
+End: 10:20AM
+
+Room: MM 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Crowley
+
+Fall 2023
+
+Course number: 51227
+
+Title: Prototyping Lab I: Communications
+
+Units: 4.5
+
+Section: A1,A2
+
+Days: TR
+
+Start: 10:30AM
+
+End: 12:20PM
+
+Room: MM 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Twigg
+
+Fall 2023
+
+Course number: 51229
+
+Title: Digital Photographic Imaging
+
+Units: 9.0
+1948 saw the first independent orgs and the start of DTD’s run of greatness, but it wasn’t easy, as they barely held off KapSig for the championship.
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+create and disseminate knowledge and art through research and artistic expression, teaching
+
+and learning and transfer to society, to serve students by teaching them leadership and
+
+problem -solving skills, and the values of quality, ethical behavior, responsibility to society and
+
+commitments to work, to pursue the advantages provided by a diverse community, open to the
+
+exchange of ideas, where discovery and artistic creativity can flourish.
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+Design and execute experimental data collection and present resulting analyses using appropriate user experience (UX) techniques including interactive data visualizations.
+
+Apply and customize analytics, systems and human
+
+centered data science techniques to application
+
+specific data science requirements and objectives.
+
+Identify tradeoffs among data science techniques (analytics, systems and/or human
+
+
+Answer: 

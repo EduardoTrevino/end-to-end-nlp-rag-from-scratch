@@ -1,0 +1,183 @@
+Question: In the BASS paper from Interspeech 2023, what is the solution proposed to address the issue with training end-to-end speech summarization models on very large inputs?
+
+Context: Paper title: 'Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning' Published year: 2023 Publication venue or conference: Interspeech Authors: Xuankai Chang, Yuya Fujita, Takashi Maekaku, Shinji Watanabe, Brian Yan Summary: This paper proposes a new protocol that utilizes discretized token sequences in ASR tasks, which includes de-duplication and sub-word modeling to enhance the input sequence and reduces computational cost by decreasing the length of
+L. Lugosch et al., “Speech Model Pre-Training for End-to-End Spoken Language Understanding,” in Proc. Interspeech, 2019, pp. 814–818.
+
+[31] K. Shim, J. Choi, and W. Sung, “Understanding the role of self attention for efficient speech recognition,” in Proc. ICLR, 2022.
+
+[32] C. Wang et al., “Supervision-Guided Codebooks for Masked Prediction in Speech Pre-training,” in Proc. Interspeech, 2022, pp. 2643–2647.
+
+[33] H. Y. Kim et al., “ASBERT: Asr-specific self-supervised learn-
+P. Ogayo, G. Neubig, and A. W Black, “Building African Voices,” in Proc. In- terspeech, 2022, pp. 1263–1267.
+
+[6]
+
+C. Zhang, B. Li, T. Sainath, et al., “Streaming end-to-end multilingual speech recognition with joint language identiﬁcation,” Proc. Interspeech, 2022.
+
+[7]
+
+J. Bai, B. Li, Y. Zhang, et al., “Joint unsupervised and supervised training for multilingual asr,” in Proc. ICASSP, 2022.
+
+[8]
+Title: Ph.D. Proposal:
+
+Units: 0.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rakach
+
+Fall 2023
+
+Course number: 42999
+
+Title: Ph.D Thesis Defense
+
+Units: 0.0
+
+Section: A,B1,M2,O2,P2,C1
+
+Days: TBA,T,MW
+
+Start: ,08:30PM,05:30PM,02:00PM,10:00AM,07:00PM
+
+End: ,03:45PM,08:15PM,11:45AM,06:45PM,09:45PM
+
+Room: TBA,TEP 2202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rakach,Sudbury
+
+Fall 2023
+
+Course number: 45705
+Units: 12.0
+
+Section: A, ,B
+
+Days: TBA, ,TR
+
+Start: ,09:30AM,
+
+End: ,10:50AM,
+
+Room:  ,DNM DNM,WEH 2302
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Sadeh, Habib
+
+Fall 2023
+
+Course number: 17636
+
+Title: Applied Distributed Systems
+
+Units: 12.0
+
+Section: A1
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasar, Bass
+
+Fall 2023
+
+Course number: 17637
+
+Title: Web Application Development
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+Course number: 57133
+
+Title: Elective Studio (Bassoon)
+
+Units: 3-9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Whipple,Instructor TBA
+
+Spring 2024
+
+Course number: 57134
+
+Title: Elective Studio (Saxophone)
+
+Units: 3-9
+
+Section: A,C,D,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kush,Defade,Marcus,Houlik
+
+Spring 2024
+
+Course number: 57135
+
+Title: Elective Studio (Horn)
+
+Units: 3-9
+To support the athletics department’s fundraising initiatives, including, but not limited to, annual giving to the Tartan Funds, and major gifts for capital projects. To regularly engage athletics alumni, both on and off campus. To communicate major athletics department and Club initiatives to university stakeholders. To provide advice and counsel to the athletics department administration. To raise awareness of athletics programs to students, alumni and the community at-large. Other goals as
+This year Fringe is planning to roll four different vehicles, built and maintained in the Fringe workshop in the basement of the East Campus Garage, known as the "Froom."
+
+"We're used to saying everything with 'fr' in front of it but when we say something in front of other people, it gets them confused," said Fringe head mechanic Dave Singh, who will graduate in May with a bachelor's degree in mechanical engineering and biomedical engineering.
+and the organizations snuck out at midnight to get some practice on the course. Avoiding Controversies. After the controversy of 1947 (which, sadly and as noted above, we don’t have details of), Sweepstakes decided to tighten up the rules to avoid any confusion for Raceday. Of course, we don’t have the rules that were tightened either. We’ll keep digging, and if we find it out, we’ll update this post. On the plus side, 1948 didn’t appear to have any controversies. Prelim Results. Raceday itself
+statement” that describes the claimed solution to the research problem that is the thesis
+
+topic.
+
+Thesis Proposal:  Near the end of the student’s third year, the student will compose a
+
+dissertation proposal. In this document, the student will specify the problem the research addresses (the thesis topic); the significance of the problem and expected scie ntific
+To emphasize student research, improve public speaking skills and increase internal awareness of LTI work, all LTI Ph.D.  students must complete an oral presentation at the LTI each year (by
+
+the end of May). The presentation should consist of a 20- minute ta lk plus time for discussion. It
+
+must be advertised to the LTI mailing lists at least one week before your presentation, and the public will be invited. (The thesis proposal and defense each count towards this requirement.)
+summarizes processes available to graduate students who seek review of academic and non-academic issues. Generally, graduate students are expected to seek informal resolution of all concerns within the applicable department, unit or program before invoking formal processes. When an informal resolution cannot be reached, however, a graduate student who seeks further review of the matter is to follow the formal procedures outlined here. These appeal and grievance procedures shall apply to
+
+
+Answer: 

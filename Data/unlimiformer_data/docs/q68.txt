@@ -1,0 +1,165 @@
+Question: Was When to generate hedges in peer-tutoring interactions published?
+
+Context: Paper title: 'When to generate hedges in peer-tutoring interactions' Published year: 2023 Publication venue or conference: SIGDIAL Conferences Authors: Alafate Abulimiti, C. Clavel, Justine Cassell Summary: The results show that embedding layers, capturing the semantic information of the previous turns, significantly improves the model’s performance and provides insights into the importance of various features, such as interpersonal rapport and nonverbal behaviors, in predicting hedges by using
+3 2 0 2
+
+l u J
+
+8 2
+
+] L C . s c [
+
+1 v 2 8 5 5 1 . 7 0 3 2 : v i X r a
+
+When to generate hedges in peer-tutoring interactions
+
+Alafate Abulimiti1,2, Chloé Clavel3, Justine Cassell1,4
+
+1 INRIA, Paris 2 ENS/PSL <alafate.abulimiti@inria.fr> 3 LTCI, Institut Polytechnique de Paris, Telecom Paris <chloe.clavel@telecom-paris.fr> 4 Carnegie Mellon University <justine@cs.cmu.edu>
+
+Abstract
+Paper title: '"You might think about slightly revising the title”: Identifying Hedges in Peer-tutoring Interactions' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: C. Clavel, Yann Raphalen, Justine Cassell Summary: A model explainability tool is employed to explore the features that characterize hedges in peer-tutoring conversations, and some novel features, and the benefits of a such a hybrid model approach are
+Title: Intimate Relationships & Sexual Health:
+
+Units: 6.0
+
+Section:  ,A3
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room:  ,WEH 4709
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Bird Munoz
+
+Spring 2024
+
+Course number: 99250
+
+Title: Seminar for Peer Mentors:
+
+Units: 1.0
+
+Section:  ,A3
+
+Days:  ,T
+
+Start: 04:40PM,
+
+End:  ,06:20PM
+
+Room:  ,POS 280-2
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Walsh, Hood, Ortis
+
+Spring 2024
+
+Course number: 99262
+Instructors: Saffer, Hardman
+
+Fall 2023
+
+Course number: 05660
+
+Title: Interaction Design Fundamentals:
+
+Units: 12.0
+
+Section: A,E,B,C,D,
+
+Days:  ,MW,TR
+
+Start: 08:00AM,09:30AM,12:30PM,05:00PM,
+
+End: 10:20AM,07:20PM,02:50PM,11:50AM,
+
+Room:  ,3SC 172,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Matthews, Saffer,Shelly, Beck,Vinchesi, Weinstein,Matthews, Saunders,Matthews, Vinchesi
+
+Fall 2023
+
+Course number: 05670
+
+Title: Digital Service Innovation:
+
+Units: 12.0
+
+Section: A,
+Instructors: Kaufman
+
+Spring 2024
+
+Course number: 05617
+
+Title: Design of Artificial Intelligence Products:
+
+Units: 12.0
+
+Section: A, ,B
+
+Days:  ,MW,TR
+
+Start:  ,11:00AM,03:30PM
+
+End:  ,12:20PM,04:50PM
+
+Room:  ,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Forlizzi, Saffer,Zimmerman, Yildirim
+
+Spring 2024
+
+Course number: 05618
+
+Title: Human AI Interaction:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room:  ,GHC 4211
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+A.2.4.3  Learning Support
+
+Peer Tutoring: Weekly tutoring appointments are offered one -on-one and small group
+
+format to students from any discipline who need assistance with a course that may not
+
+be supported by our other services. Weekly appointments give stude nts the opportunity
+
+to interact regularly with the same tutor to facilitate deeper understanding of concepts.
+
+Students can register online through the Student Academic Success website.
+not be supported by our other services. Weekly appointments give students the
+
+opportunity to interact regularly with the s ame tutor to facilitate  deeper understanding 47
+
+of concepts. Students can register online thro ugh the Student Academic Success website.
+
+Academic Coaching: Academic Coaching provides holistic one-on-one peer support and
+
+group workshops to help stu dents find and implement their conditions for success. We
+3. Tutoring machines, 1973 Games and drills, such as flash cards, have long been used to help students learn tough subjects. But the cognitive tutoring programs developed at Carnegie Mellon, beginning in the 1970s, did more than simply drill students on math problems. Cognitive tutors were able to adapt, presenting harder or easier problems as students learned or stumbled. Today, cognitive tutors teach subjects such as algebra to hundreds of thousands of students every year.
+
+
+Answer: 

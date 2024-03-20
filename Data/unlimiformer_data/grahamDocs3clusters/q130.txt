@@ -1,0 +1,146 @@
+Question: What is the role of a chute flagger in the sweepstakes competition?
+
+Context: 2. Content Gatherer Heads (§4.2) attend from the [end] position (the ‘:’ token) to the con- tents of the question, writing information about the token ‘color’ and obj2 into the residual stream. These heads (ideally) provide information about which specific object is the cor- rect answer, and thus provides a positive signal for which token to copy to the mover heads. The role of these heads is qualitatively similar to those in Lieberum et al. (2023), thus we use the same term here. This step
+Path patching to the query vectors of the mover heads reveals that heads 11.6, 11.7, and 12.15 (and to a lesser extent, 13.3) are performing the role of content gatherer heads. This is a major difference from the IOI circuit. Namely, the Colored Object circuit relies on content gatherer (CG), rather than inhibition heads for influencing the query vectors of the mover heads. While inhibition heads tell the mover heads which tokens to ignore, the content gatherer heads tell the mover heads which
+[10] C. Chen, K. Z. Zhang, Z. Chu, and M. Lee, “Augmented reality in the metaverse market: the role of multimodal sensory interaction,” Internet Research, 2023.
+
+[11] S. Cai, K. Zhu, Y. Ban, and T. Narumi, “Visual-tactile cross-modal data generation using residue-fusion gan with feature-matching and perceptual losses,” IEEE Robotics and Automation Letters, vol. 6, no. 4, pp. 7525–7532, 2021.
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhu
+
+Spring 2024
+
+Course number: 94800
+
+Title: Negotiation
+
+Units: 6.0
+
+Section: B4,A3,D4,C3
+
+Days: W,M,TR
+
+Start: 09:30AM,06:30PM
+
+End: 10:50AM,09:20PM
+
+Room: HBH 1206,HBH 1202,HBH 1005
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Moya,Ciccone
+
+Spring 2024
+
+Course number: 94801
+
+Title: Acting for Leadership and Communication
+
+Units: 6.0
+
+Section: B4,A3,D3,C4
+
+Days: MW
+
+Start: 11:00AM,03:30PM,02:00PM
+
+End: 12:20PM,04:50PM,03:20PM
+Room: WEH 5320,GHC 4401,BH 235B,WEH 5312,PH 225B,WEH 5310,GHC 4101
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mackey
+
+Fall 2023
+
+Course number: 15195
+
+Title: Competition Programming I
+
+Units: 5.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sleator
+
+Fall 2023
+
+Course number: 15210
+
+Title: Parallel and Sequential Data Structures and Algorithms
+
+Units: 12.0
+
+Section: A,E,I,K,B,F,G,C,D,Lec 1,J,Lec 2,H,L
+
+Days: MWF,T
+Instructors: Aleven, Gebski, Spector, Xhakaj, Marchetti
+
+Spring 2024
+
+Course number: 05589
+
+Title: Independent Study in HCI-UG
+
+Units: 3-24
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Baisley
+
+Spring 2024
+
+Course number: 05602
+
+Title: IDeATe: Learning in Museums:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,HL 106B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Louw
+
+Spring 2024
+Sweepstakes Slang
+
+Buggy: Vehicle being raced and also a nickname for the competition.
+
+Chute: A section of the freeroll portion of the buggy course (near the southwestern end of Frew Street at its intersection with Schenley Drive) where buggies make the sharp righthand turn from Schenley Drive onto Frew Street.
+
+Chute Flagger: Team member who provides a signal for buggy drivers to know when to start the right-hand turn from Schenley Drive onto Frew Street.
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+Safety is a top priority for teams. All drivers are required to have five pieces of safety gear: mouth guard, goggles, a harness that includes three points of contact to the body of the buggy, gloves and a helmet. And during practice runs and races, flaggers man the course to let drivers know if it's safe to proceed.
+
+
+Answer: 

@@ -1,0 +1,150 @@
+Question: Who propels a buggy via a pushbar along one of the five hills of the buggy course?
+
+Context: We then measured the performance differences between the repaired and unre- paired versions of the applications. We found that in our 21 benchmarks, 5 had either no warnings or warnings that could not be repaired without introducing buggy behav- ior. For example, a warning about instantiating an object in a loop could be “unfixable” as a reference to each instantiated object is held in an array. So, moving the instan- tiation outside of the loop would result in an array with the same reference
+other pushes a marble through them. This marble activates the marble generator upon contact with it. In MarblePass one participant pushed the marble to the right side of the room, and then the other pushes it towards the marble generator. In the remaining four problems, one participant is presented with two boxes of different colors. The other participant is presented with two objects of the same colors as the two boxes and of the type defined by the problem parameter (e.g. two generators).
+20
+
+The SocialAI School
+
+(a) The MarblePass problem with the agent in role B. The peer pushes the marble to the right and then the agent pushes it further to the purple marble generator. This makes two apples appear on the blue and red platforms.
+Instructors: Hoffmann
+
+Spring 2024
+
+Course number: 15614
+
+Title: Bug Catching: Automated Program Verification
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martins
+
+Spring 2024
+
+Course number: 15617
+
+Title: HOT Compilation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Crary
+
+Spring 2024
+
+Course number: 15618
+Room: BH A51,GHC 4301,BH 235A,WEH 2302, ,GHC 4211
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Hoffmann
+
+Spring 2024
+
+Course number: 15414
+
+Title: Bug Catching: Automated Program Verification
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martins
+
+Spring 2024
+
+Course number: 15417
+
+Title: HOT Compilation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5312
+Instructors: Armentrout,Segizekov,Witwick,Iyer,Yoon,Pavelka, Koganemaru,Howell,El Hajj,Jeffs,Park,Manchala,Hill,Beltran,Zhu,Zhou,Quangkananurug
+
+Spring 2024
+
+Course number: 21124
+
+Title: Calculus II for Biologists and Chemists
+
+Units: 10.0
+
+Section: A,Lec
+
+Days: MWF,TR
+
+Start: 03:00PM,10:00AM
+
+End: 10:50AM,03:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wang,Flaherty
+
+Spring 2024
+
+Course number: 21127
+
+Title: Concepts of Mathematics
+
+Units: 12.0
+Driver: Person who travels with a buggy and controls the vehicles via steering and braking systems.
+
+Pushbar: Structure attached to a buggy that a person pushes to propel that buggy forward.
+
+Pusher: Person who propels a buggy via a pushbar along one of the five hills of the buggy course.
+
+Shell: Entire outer structure or covering of a buggy that determines that buggy's aerodynamic characteristics.
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+The Machine
+
+The basics of a buggy are straightforward, but teams are often secretive in how they build the machines, in particular the way they brake, steer and what types of wheels are used.
+
+Each has a body, pushbar for runners to move the machine up the hills, wheels, a safety harness and driving and braking mechanisms. Some also include fairings, a type of housing around the wheels that help reduce drag, make the vehicle quieter and just looks cool.
+
+
+Answer: 

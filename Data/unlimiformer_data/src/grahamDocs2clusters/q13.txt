@@ -1,0 +1,75 @@
+Question: Who used the first emoticon at CMU?
+
+Context: Christian Huber1, Tu Anh Dinh1, Carlos Mullov1, Ngoc Quan Pham1, Thai Binh Nguyen1, Fabian Retkowski1, Stefan Constantin1, Enes Yavuz Ugan1, Danni Liu1, Zhaolin Li1, Sai Koneru1, Jan Niehues1 and Alexander Waibel1,2 1Karlsruhe Institute of Technology, Karlsruhe, Germany firstname.lastname@kit.edu 2Carnegie Mellon University, Pittsburgh PA, USA alexander.waibel@cmu.edu
+
+Abstract
+Guokun Lai, Qizhe Xie, Hanxiao Liu, Yiming Yang, and Eduard Hovy. RACE: Large-scale In Proceedings of the 2017 Conference ReAding comprehension dataset from examinations. on Empirical Methods in Natural Language Processing, EMNLP, pages 785–794, Copenhagen, Denmark, 2017.
+
+[LZK+23]
+
+Haonan Li, Yixuan Zhang, Fajri Koto, Yifei Yang, Hai Zhao, Yeyun Gong, Nan Duan, and Timo- thy Baldwin. CMMLU: Measuring massive multitask language understanding in Chinese. arXiv preprint arXiv: 2306.09212, 2023.
+We introduce four phonetic word embedding methods—count-based, autoencoder, and metric and contrastive learning. Though some of these techniques are inspired by previous work, we are the first to apply them with supervision from articu- latory feature vectors, a seldom-exploited form of
+
+=Co-first authors.
+
+1The technically correct term is phonological word embeddings but prior literature uses the term phonetic.
+
+linguistic knowledge for representation learning.
+5. Emoticons, 1982 Sure, it was just a joke, but (for better or worse) it’s endured for more than three decades. CMU researcher Scott Fahlman created the emoticon to clear up misunderstandings on computer message boards. We’ve been looking at the world sideways ever since. :-)
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+
+
+Answer: 

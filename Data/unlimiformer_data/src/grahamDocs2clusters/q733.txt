@@ -1,0 +1,17 @@
+Question: In the Plan, Eliminate and Track paper, what percentage gain did the proposed framework achieve over the state-of-the-art?
+
+Context: We propose the Plan, Eliminate, and Track (PET) framework. The Plan module trans- lates a task description into a list of high-level sub-tasks. The Eliminate module masks out irrelevant objects and receptacles from the ob- servation for the current sub-task. Finally, the Track module determines whether the agent has accomplished each sub-task. On the Alf- World instruction following benchmark, the PET framework leads to a signiﬁcant 15% improvement over SOTA for generalization to human goal
+Paper title: 'Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: So Yeon Min, Shrimai Prabhumoye, R. Salakhutdinov, Tom M. Mitchell, Yue Wu, Yonatan Bisk, A. Azaria, Yuan-Fang Li Summary: A framework to use the knowledge in LLMs to simplify the control problem, rather than solving it is proposed, which leads to a significant 15% improvement over SOTA for generalization to human goal
+Adding Plan and Track greatly improves the comple- tion rate relatively by 60%, which provides evidence to our hypothesis that solving some embodied tasks step- by-step reduces the complexity. We observe a relatively insigniﬁcant 3% improvement in absolute performance when adding Eliminate without sub-task tracking. On the other hand, when applying Eliminate to sub-tasks with Plan and Track, we observe more than 60% rela- tive improvement over just Plan and Track alone. We, therefore, deduce
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+professional education. Drawing on Shaw’s plan and also on the work of other faculty members, an undergraduate program in computer science was created during the 1989-90 academic year. Seven CS majors were admitted to the program as sophomores. Another 73 undergraduates were admitted in 1990–91. By 1995, there were 401 undergraduates in the School of Computer Science; in fall 2013, more than 600 undergraduates made up about 37 percent of student enrollment at SCS, along with more than 600
+6. Andrew project, 1982 It was long the dream of computer scientists to put a workstation in every home and office, but no one had actually tried to accomplish it until researchers from Carnegie Mellon University and IBM launched the Andrew Project. Soon, every student, faculty member and employee had access to email, word processing, file-transfer services and graphics programs, and CMU was the most-wired campus in the world.
+
+
+Answer: 

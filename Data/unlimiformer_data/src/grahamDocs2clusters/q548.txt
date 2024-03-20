@@ -1,0 +1,103 @@
+Question: Did CMU found the world’s first university robotics department? Answer with True or False
+
+Context: This work has been supported by the Carl Zeiss Foundation through the JuBot project and by the Baden-W¨urttemberg Ministry of Science, Research and the Arts (MWK) as part of the state’s “digital@bw” digitization strategy in the context of the Real-World Lab “Robotics AI.”
+E. Xing is with the Machine Learning Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, USA; and also with Mohamed bin Zayed University of Artificial Intelligence, Masdar City, Abu Dhabi, UAE (email: epxing@cs.cmu.edu)
+3 2 0 2
+
+p e S 8 1
+
+]
+
+V C . s c [
+
+1 v 3 1 0 0 1 . 9 0 3 2 : v i X r a
+
+Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin
+
+Gabriel Moreira Language Technologies Institute Carnegie Mellon University gmoreira@cs.cmu.edu
+
+Manuel Marques Institute for Systems and Robotics Instituto Superior T´ecnico manuel@isr.tecnico.ulisboa.pt
+
+Jo˜ao Paulo Costeira Institute for Systems and Robotics Instituto Superior T´ecnico jpc@isr.tecnico.ulisboa.pt
+nearly 1,700, including undergraduate, master’s and Ph.D. students, and conducted $124 million in research. Indeed, by itself, the Robotics Institute is the largest university robotics research group in the world, with more than 500 people and more than 100 ongoing research projects. A half-century ago, Perlis, Simon and Newell outlined a vision for computer science. The School of Computer Science at CMU remains committed to continuing and extending their vision in the context of big data and
+robotics department ,
+
+founded in 1979
+
+Alumnus Andy Warhol
+
+(CFA1949), pop artist pioneer
+
+and cultural icon
+
+One of only 29 universities
+
+invited to be a member of the
+
+World Economic Forum’s
+
+Global University
+
+Leaders Forum
+
+CMU.EDU
+
+ECONOMIC IMPACT
+
+Attracting major companies  —
+
+including Google, Intel, Uber and GE —
+
+to locate operations and create new
+
+jobs in Pittsburgh
+
+To date, the CMU community has
+
+launched more than 400 startups
+
+and created more than 152 spinoff
+
+companies .
+robotics department ,
+
+founded in 1979
+
+Alumnus Andy Warhol
+
+(CFA1949), pop artist pioneer
+
+and cultural icon
+
+One of only 29 universities
+
+invited to be a member of the
+
+World Economic Forum’s
+
+Global University
+
+Leaders Forum
+
+CMU.EDU
+
+ECONOMIC IMPACT
+
+Attracting major companies  —
+
+including Google, Intel, Uber and GE —
+
+to locate operations and create new
+
+jobs in Pittsburgh
+
+To date, the CMU community has
+
+launched more than 400 startups
+
+and created more than 152 spinoff
+
+companies .
+
+
+Answer: 

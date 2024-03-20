@@ -1,0 +1,83 @@
+Question: Who is ther first author of the paper Unlimiformer: Long-Range Transformers with Unlimited Length Input?
+
+Context: Paper title: 'Unlimiformer: Long-Range Transformers with Unlimited Length Input' Published year: 2023 Publication venue or conference: arXiv.org Authors: Amanda Bertsch, Graham Neubig, Uri Alon, Matthew R. Gormley Summary: This work proposes Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores.
+3 2 0 2
+
+t c O 0 3
+
+] L C . s c [
+
+3 v 5 2 6 1 0 . 5 0 3 2 : v i X r a
+
+Unlimiformer: Long-Range Transformers with Unlimited Length Input
+
+Amanda Bertsch
+
+Uri Alon∗
+
+Graham Neubig
+
+Matthew R. Gormley Carnegie Mellon University, USA {abertsch,ualon,gneubig,mgormley}@cs.cmu.edu
+
+Abstract
+[7] Amanda Bertsch, Uri Alon, Graham Neubig, and Matthew R Gormley. Unlimiformer: Long- range transformers with unlimited length input. arXiv preprint arXiv:2305.01625, 2023. [8] Abeba Birhane, Vinay Uday Prabhu, and Emmanuel Kahembwe. Multimodal datasets: misog-
+
+yny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963, 2021.
+Launching a Robotics Institute In 1979, an executive at Pittsburgh’s Westinghouse Electric Corp., Tom Murrin, collaborated with Jordan and Reddy to create the Robotics Institute, with Reddy as its first director. By 1982, the Computer Science Department included more than 30 faculty members and 100 graduate students.
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+
+
+Answer: 

@@ -1,0 +1,167 @@
+Question: In fall 2023, When is unit 02613 on Mondays, Wednesdays, and Fridays?
+
+Context: February 1, 2019, pp. 3027–3035. AAAI Press, 2019a.
+08-02-2013.
+08-02-2013.
+Fall 2023
+
+Course number: 80101
+
+Title: Dangerous Ideas in Science and Society
+
+Units: 9.0
+
+Section: A,E,I,B,F,G,C,D,Lec,J,H
+
+Days: F,MW
+
+Start: 01:00PM,02:00PM
+
+End: 01:50PM,02:50PM
+
+Room: PH 226B,CFA 102,PH 126A,WEH 8427,PH A20,PH 225B,TBA,PH A21,PH 125B,PH A19D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cullen
+
+Fall 2023
+
+Course number: 80130
+
+Title: Introduction to Ethics
+
+Units: 9.0
+
+Section: A,B,Lec
+
+Days: F,MW
+
+Start: 10:00AM,11:00AM
+
+End: 11:50AM,10:50AM
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Fall 2023
+
+Course number: 02602
+
+Title: Professional Issues for Computational and Automated Scientists
+
+Units: 3.0
+
+Section: A
+
+Days: R
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brasier, DeBlasio
+
+Fall 2023
+
+Course number: 02613
+
+Title: Algorithms and Advanced Data Structures
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: DH 2315
+Fall 2023
+
+Course number: 03210
+
+Title: Independent Study
+
+Units: 1-12
+
+Section: W2,W1,A1,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Willard,Younis,Bouaouina
+
+Fall 2023
+
+Course number: 03220
+
+Title: Genetics
+
+Units: 9.0
+
+Section: A,W,B,C,Lec 1,Lec 2
+
+Days: MWF,R,UTR
+
+Start: 04:00PM,02:30PM,03:00PM,05:00PM,09:00AM,11:30AM
+
+End: 09:50AM,03:50PM,03:20PM,12:20PM,04:50PM,05:50PM
+
+Room: WEH 4625,CMB 3048,GHC 4102,WEH 5409,DH 2302
+Q: When are rehearsals? A: Football season: Mondays and Thursdays from 5:30 p.m.-7:30 p.m. and Game Day 9:30-11:00a.m. Concert Season: Mondays and Thursdays from 5:30-6:30 p.m. Location is the CUC Studio Theater.
+
+Q: When are performances? A: The Kiltie Band performs at all home football games, a holiday concert, and two spring concerts. Times and dates for all performances are announced at the first practice.
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+1946 Raceday: Prelims on Friday, May 3 at 4:30pm; Finals on Saturday, May 11* at 2:00pm
+
+Sweepstakes Committee: John H. Siepel (Chair)
+
+Race Results: (1) DTD (3:49? ); (2) KapSig; (DQ) PiKA
+
+Design Comp: (1) Beta
+
+Weather: Cloudy, High 66/Low 47 on Friday; Rain on Saturday, May 4; Overcast, High 67/Low 49 on Saturday, May 11
+
+1946 saw the return of Buggy, though not all of the Fraternities were back yet. It also saw a rain delay and a very controversial result.
+(1) Date -  November 5 ; Day - Tuesday ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet Date -  November 11 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  November 13 ; Day - Wednesday ; Event - Mini-2 drop deadline; withdrawal grade assigned after this date (2) Date -  November 18 ; Event - 22 M-F Spring 2025 Registration Week Date -  November 25 ; Day - Monday ; Event - Mini-2 pass/no pass & withdrawal deadline (3) Date -
+Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1) Date -  March 31 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline Date -  April 2 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 3 ; Event - 5 Th-Sa Spring Carnival; No Classes Date -  April 7 ; Event - 11 M-F Fall 2025 Registration Week Date -  April 14 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -
+add, audit & tuition adjustment drop deadline (1) Date -  April 1 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  April 3 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week Date -  April 15 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -  April 15 ; Day -
+
+
+Answer: 

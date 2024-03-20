@@ -1,0 +1,188 @@
+Question: What is David Garlan's two word title; this is not the one with the word professor in it?
+
+Context: Librarians tend to look askance at commentators on their work and pro- fession from outside the guild. Henry Petroski, an engineer, wrote Book on the Bookshelf (1999), looking at the practical construction principles of bookshelves through history, and was never taken seriously by librar- ians—perhaps also in light of his (joking?) recommendations to arrange books on bookshelves by the author’s first name, or by the first letter of the second-to-last word of the title. Umberto Eco’s Name of the
+GPT-4 identify the paper title as incorrect. (2) Errors in au- thor matching: the author matching process might sometimes not be robust. For example, although “Language Models are the Unsupervised Multitask Learners" are indeed “Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya Sutskever, FAC- TOOL powered by GPT-4 identify the author list as incorrect. Detailed examples can be found in
+3.2.3 Full Example
+
+Considering again the running example and the new given sentence Vasco Da Gama discovered the sea route to India, because discovered and inventing are related (equivV B function), and both have two arguments in their sentences, A0 and A1, the sentences will match. Then, what remains to be tested are the subtrees that cover both arguments of
+
+9
+
+Running Title for Header
+Instructors: Le Goues,Herbsleb,Kang,Fredrikson,Aldrich,Scherlis,Kaestner,Vasilescu,Miller,Shaw,Breaux,Garlan
+
+Fall 2023
+
+Course number: 17808
+
+Title: Software Engineering Research
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: MI 448
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Begel, Aldrich, Breaux, Brown, Garlan, Kaestner, Padhye, Vasilescu, Kang
+
+Fall 2023
+
+Course number: 17909
+
+Title: Requirements for Information Systems
+
+Units: 6.0
+
+Section: A2
+
+Days: TR
+Instructors: Garlan, Kang,Kang, Garlan
+
+Fall 2023
+
+Course number: 17617
+
+Title: Programming Quantum Computers
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice
+
+Fall 2023
+
+Course number: 17620
+
+Title: Quantum Machine Learning
+
+Units: 6.0
+
+Section: A2
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Singh
+
+Fall 2023
+
+Course number: 17622
+End: 10:50AM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Garlan, Schmerl
+
+Spring 2024
+
+Course number: 17950
+
+Title: Crafting Software
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 04:00PM,03:30PM
+
+End: 04:50PM
+
+Room: WEH 4707
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sunshine, Hilton
+
+Spring 2024
+
+Course number: 17993
+
+Title: Societal Computing Graduate Reading and Research
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+provides information on all deadl ines including registration date s, class start dates, add/drop
+
+deadlines, exam dates and more.
+
+7 School and Departmental Information
+
+The following are key personnel with whom you may  interact during your time at Carnegie
+
+Mellon:
+
+Martial Hebert
+
+Dean, School of Computer Science 9
+
+University Professor
+
+GHC 6105  412-268-5704
+
+hebert@cs.cmu.edu
+
+https://www.cs.cmu.edu/~hebert/
+
+David Garlan Associate Dean for Master’s Programs, SCS Professor TCS 420
+garlan@cs.cmu.edu
+
+http://www.cs.cmu.edu/~garlan/academics.htm
+
+C a r o l y n  R o s é
+
+Interim Director, Language Technologies Institute  Professor  GHC 5415
+
+412-268-7130
+
+cprose@cs.cmu.edu
+
+8 MSAII Policies
+
+The Language Technologies Institute (LTI) ha s prepared this statement of policies, program
+
+requirements, guidance, process a nd procedures for students in the M.S. in Artificial Intelligence
+
+and Innovation (MSAII) program. A copy of this handbook is also available online at the
+1948: The Graduate School of Industrial Administration, later renamed the David A. Tepper School of Business, focusing on quantitative analysis and pioneering the field of management science. 1968: School of Urban and Public Affairs, later renamed the H. John Heinz III College, providing graduate training for work in the public sector. 1986: School of Computer Science, pioneering computing and artificial intelligence, led by interdisciplinary efforts of Allen Newell and Herbert Simon.
+
+
+Answer: 

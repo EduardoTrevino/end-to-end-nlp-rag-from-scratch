@@ -1,0 +1,198 @@
+Question: Which LTI professor's paper introduced the TASTE algorithm that maps items and users in an embedding space and recommends items by matching their text representations?
+
+Context: ABSTRACT This paper proposes Text mAtching based SequenTial rEcommenda- tion model (TASTE), which maps items and users in an embedding space and recommends items by matching their text representa- tions. TASTE verbalizes items and user-item interactions using identifiers and attributes of items. To better characterize user be- haviors, TASTE additionally proposes an attention sparsity method, which enables TASTE to model longer user-item interactions by reducing the self-attention computations
+Compared with item id embedding based recommendation mod- els, e.g. Bert4Rec, TASTE almost doubles its recommendation per- formance, thriving on modeling relevance between users and items through text-matching signals. TASTE also outperforms the previ- ous state-of-the-art recommendation model, DIF-SR, which lever- ages item attributes as side information to help better learn user behaviors from user-item interactions beyond item identifiers. It represents item attributes as embeddings and
+In this paper, we propose Text mAtching based SequenTial rEcommendation (TASTE), which represents items and users with texts, establishes relevance between them by matching their text representations and alleviates the popularity bias of previous item id based recommendation models. TASTE verbalizes users and items by designing some prompts [39] and filling up the templates with item ids and item attributes. The item information provides text- matching clues to model the dependency and
+Fall 2023
+
+Course number: 16831
+
+Title: Introduction to Robot Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: SH 105
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pathak
+
+Fall 2023
+
+Course number: 16833
+
+Title: Robot Localization and Mapping
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kaess
+
+Fall 2023
+
+Course number: 16845
+
+Title: Insects and Robots
+
+Units: 12.0
+Title: User Experience Research for Digital and Physical Products
+
+Units: 10.0
+
+Section: A
+
+Days: R
+
+Start: 08:00PM
+
+End: 09:30PM
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Goel
+
+Spring 2024
+
+Course number: 49606
+
+Title: Understanding Markets for Products & Services
+
+Units: 10.0
+
+Section: A
+
+Days: M
+
+Start: 08:00PM
+
+End: 09:30PM
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lamont
+
+Spring 2024
+
+Course number: 49607
+
+Title: Product Strategy & Planning
+Title: Student Taught Courses (StuCo):UXplore: Uncover the Best of Modern UX Design:
+
+Units: 3.0
+
+Section: A,
+
+Days: M,
+
+Start:  ,07:00PM
+
+End:  ,07:50PM
+
+Room: PH A18A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Addepalli
+
+Fall 2023
+
+Course number: 98097
+
+Title: Student Taught Courses (StuCo): Intro to 3D Modeling- Character Design Pipeline:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,F
+
+Start:  ,07:00PM
+
+End:  ,08:50PM
+
+Room:  ,CFA 317
+
+Locations:  ,Pittsburgh, Pennsylvania
+Year 1 Fall:
+
+Grammars and Lexicons
+
+Algorithms for NLP
+
+Directed Study
+
+Year 1 Spring: - Search Engines or Machine Learning for Text Mining - Machine Translation - Directed Study
+
+Year 1 Summer:
+
+Required Research
+
+Year 2 Fall: - Software Engineering for LT (I) - Speech Understanding - Self-Paced Lab - Directed Study
+
+Year 2 Spring: - Software Engineering for LT (II) - Self-Paced Lab - Directed Study
+
+Year 2 Summer:
+
+Required Research
+
+Year 3 Fall:
+
+Directed Research
+
+Year 3 Spring:
+Year 1 Fall:
+
+Grammars and Lexicons
+
+Algorithms for NLP
+
+Directed Study
+
+Year 1 Spring: - Search Engines or Machine Learning for Text Mining - Machine Translation - Self-Paced Lab - Directed Study
+
+Year 1 Summer:
+
+Required Research
+
+Year 2 Fall: - Software Engineering for LT (I) - Speech Understanding - Self-Paced Lab - Directed Study
+
+Year 2 Spring: - Software Engineering for LT (II) - Directed Study - Elective
+
+Year 2 Summer:
+
+Required Research
+How a nd when the advisor is selected  (The Matching  Process) : Advisors are selected during
+
+the first month of the program. Students are expected to attend the LTI's Orientation lectures,
+
+(Section 3.3) in which faculty describe their interests and areas of expertise, and to be proactive
+
+about meeting individually with potential advisors. After meeting with several potential advisors,
+
+each student will be asked to indicate a first, second and third choice for advisor. Meanwhile,  the
+
+
+Answer: 

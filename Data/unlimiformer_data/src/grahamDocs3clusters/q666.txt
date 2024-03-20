@@ -1,0 +1,154 @@
+Question: How many languages does ML-SUPERB cover?
+
+Context: ML-SUPERB is designed to cover a wide range of lan- guages, including both high-resource languages like English and endangered languages such as Totonac. The benchmark pri- marily focuses on evaluating SSL models for automatic speech recognition (ASR) and language identification (LID). To ac- commodate different use cases for SSL models, ML-SUPERB includes two tracks with four different tasks: the monolingual track (monolingual ASR), and the multilingual track (multilin- gual ASR, LID, joint
+Speech processing Universal PERformance Benchmark (SU- PERB) is a leaderboard to benchmark the performance of Self- Supervised Learning (SSL) models on various speech process- ing tasks. However, SUPERB largely considers English speech in its evaluation. This paper presents multilingual SUPERB (ML-SUPERB), covering 143 languages (ranging from high- resource to endangered), and considering both automatic speech recognition and language identification. Following the concept of SUPERB, ML-SUPERB
+Several existing benchmarks also include multilingual SSL models [13–15]. Lebenchmark primarily evaluates speech tasks in French [13]; IndicSUPERB focuses mostly on Indian lan- guages [14]. XTREME-S focuses on multilingual speech rep- resentation benchmarks, including ASR, speech translation, speech classification, and speech retrieval [15]. There are three main differences between XTREME-S and ML-SUPERB. Firstly, ML-SUPERB covers a wider range of languages, with 143 languages compared to
+Course number: 15295
+
+Title: Competition Programming II
+
+Units: 5.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sleator
+
+Fall 2023
+
+Course number: 15312
+
+Title: Foundations of Programming Languages
+
+Units: 12.0
+
+Section: A,W,B,C,Lec 1,Lec 2
+
+Days: W,MW,R,TR
+
+Start: 12:30PM,04:00PM,11:00AM,11:30AM
+
+End: 11:50AM,12:45PM,01:50PM,04:50PM
+
+Room: PH A18B,GHC 5222,GHC 4307,HH B131,CMB 2051
+End: 12:50PM,01:50PM,09:50AM,03:50PM,12:20PM,02:50PM,11:50AM,10:50AM
+
+Room: GHC 4307,GHC 4215,WEH 5312,HH B103,PH 100,BH A53
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Anderson, Sleator
+
+Fall 2023
+
+Course number: 15652
+
+Title: Foundations of Programming Languages:
+
+Units: 12.0
+
+Section: A, ,B,Lec
+
+Days: W, ,TR
+
+Start: 12:30PM, ,04:00PM,11:00AM
+
+End: 11:50AM, ,01:50PM,04:50PM
+
+Room: HH B131,GHC 4307, ,GHC 5222
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Harper
+
+Fall 2023
+Spring 2024
+
+Course number: 15652
+
+Title: Foundations of Programming Languages
+
+Units: 12.0
+
+Section: A,B,Lec
+
+Days: W,TR
+
+Start: 01:00PM,11:00AM,02:00PM
+
+End: 11:50AM,01:50PM,03:20PM
+
+Room: WEH 2302,PH A19,BH A36
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Balzer
+
+Spring 2024
+
+Course number: 15653
+
+Title: Logic and Mechanized Reasoning
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Avigad, Heule
+are included in Appendix A of this handbook.
+
+1.2 The MLT Degree
+
+The Master of Language Technologies (MLT) is a research- oriented Master of Science degree
+
+offered by the Language Technologies Institute (LTI), a graduate department in the School of
+
+Computer Science at Carnegie Mellon University. The MLT program is a 24 -month program
+
+consisting of courses, directed research, and an optional Masters ' Thesis. Typical research
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+in the U.S. Many of these students want to hone their language and cross -cultural skills for
+
+academic and professional success. Students can make an appointment with a Language MLT Graduate Student Handbook  Page 43
+
+Development Specialist to get individualized coaching on language or cross -cultural issues.
+
+Students can choose from sessions on:
+
+How to give a strong presentation
+
+Writing academic emails
+
+Analyzing expectations and strategies for clear academ ic writing
+
+
+Answer: 

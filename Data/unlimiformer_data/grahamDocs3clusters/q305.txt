@@ -1,0 +1,188 @@
+Question: In the Value Kaleidescope paper by Maarten Sap's group, what is the name of the dataset that is introduced?
+
+Context: Paper title: 'NLPositionality: Characterizing Design Biases of Datasets and Models' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Katharina Reinecke, Sebastin Santy, Ronan Le Bras, Jenny T Liang, Maarten Sap Summary: NLPositionality, a framework for characterizing design biases and quantifying the positionality of NLP datasets and models, is introduced and it is found that dataset and models align predominantly
+Thomas Hartvigsen, Saadia Gabriel, Hamid Palangi, Maarten Sap, Dipankar Ray, and Ece Kamar. Toxigen: A large-scale machine-generated dataset for adversarial and implicit hate speech detection. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3309–3326, 2022.
+Thomas Hartvigsen, Saadia Gabriel, Hamid Palangi, Maarten Sap, Dipankar Ray, and Ece Kamar. 2022. ToxiGen: A large-scale machine-generated dataset
+
+for adversarial and implicit hate speech detection. In Proceedings of the 60th Annual Meeting of the Association of Computational Linguistics.
+Course number: 36402
+
+Title: Advanced Methods for Data Analysis
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: DH 2315
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shalizi
+
+Spring 2024
+
+Course number: 36410
+
+Title: Introduction to Probability Modeling
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Jin
+
+Spring 2024
+
+Course number: 36460
+
+Title: Special Topics: Sports Analytics
+Course number: 95888
+
+Title: Data Focused Python
+
+Units: 6.0
+
+Section: C3,Z3
+
+Days: TBA,TR
+
+Start: ,05:00PM
+
+End: ,06:20PM
+
+Room: DNM DNM,HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ostlund
+
+Spring 2024
+
+Course number: 95889
+
+Title: Applied Threat Analysis
+
+Units: 6.0
+
+Section: A4
+
+Days: T
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1004
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Snoke
+
+Spring 2024
+
+Course number: 95891
+
+Title: Introduction to Artificial Intelligence
+Days: TR
+
+Start: 09:30AM,11:00AM
+
+End: 10:50AM,12:20PM
+
+Room: GHC 4307,BH A36
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sap, Strubell,Strubell, Sap
+
+Fall 2023
+
+Course number: 11632
+
+Title: Data Science Capstone
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Fall 2023
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+Language Technologies Institute - Faculty Name: Maarten Sap Email: msap2@andrew.cmu.edu Research Areas: Fairness and Ethics in Language Technology, Computational Social Science, Discourse and Pragmatics, Conversational AI, Intelligent Agents, and Dialogue
+
+Language Technologies Institute - Faculty Name: Michael Shamos Email: shamos@cs.cmu.edu Office: 6707 Gates & Hillman Centers Phone: 412-268-8193
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+
+
+Answer: 

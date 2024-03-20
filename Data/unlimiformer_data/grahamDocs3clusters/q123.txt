@@ -1,0 +1,218 @@
+Question: What is the mean confidence difference for the "he, she" gender-word pair in the paper "Language Models Get a Gender Makeover"?
+
+Context: Gender-Word Pairs
+
+Mean Confidence Difference
+
+Mean Std. Dev.
+
+he, she
+
+0.317
+
+0.288
+
+Will, May
+
+0.316
+
+0.225
+
+boy, girl
+
+0.219
+
+0.218
+
+Table 1: Confidence difference for the Top 3 gender- word pairs in StereoSet
+
+3 Probing Bias in Large Language Models
+Zmigrod et al., 2019) and neutral words list1. We finally compute the "total confidence difference" as the sum of differences in the model’s prediction con- fidence for each gender-word pair (such as confi- dence of predicting he − she, man − woman, etc.). Formally, we define total confidence difference as | (cid:80)N male))| where f (x) rep- resent the confidence of model’s prediction, N is the total number of tokens in the dataset and x is the tokenized gender word. The higher this number,
+3 2 0 2
+
+n u J
+
+7
+
+] L C . s c [
+
+1 v 7 9 5 4 0 . 6 0 3 2 : v i X r a
+
+Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions
+
+Himanshu Thakur Atishay Jain∗ Praneetha Vaddamanu∗ Paul Pu Liang Louis-Philippe Morency Carnegie Mellon University {hthakur,atishayj,pvaddama,pliang,morency}@andrew.cmu.edu
+
+Abstract
+
+Caution: this paper contains potentially offen- sive or upsetting model outputs.
+End:  ,04:50PM
+
+Room: WEH 5312,BH 255B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Banerjee,Hinkelman
+
+Fall 2023
+
+Course number: 76341
+
+Title: Race & Gender in the Age of Jane Austen
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH A21
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wassif
+
+Fall 2023
+
+Course number: 76363
+
+Title: Reading in Forms: Poetry & Prose
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 5304
+Title: Gender, Politics and Policies in the US and Across the World
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 1007
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Borzutzky
+
+Fall 2023
+
+Course number: 90707
+
+Title: Statistical Reasoning
+
+Units: 12.0
+
+Section: A,B
+
+Days: T,MW
+
+Start: 03:30PM,06:30PM
+
+End: 09:20PM,04:50PM
+
+Room: HBH 1202,HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Escallon Barrios
+
+Fall 2023
+
+Course number: 90709
+Title: Gender, Politics and Policies in the US and Across the World
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 1007
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Borzutzky
+
+Fall 2023
+
+Course number: 90435
+
+Title: Public Finance
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 2011
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Strauss
+
+Fall 2023
+
+Course number: 90436
+
+Title: Health Systems
+
+Units: 6.0
+
+Section: A1
+
+Days: M
+relationships unless there is a conflicting profe ssional relationship in  which one party has
+
+authority over the other as in the policy.
+
+11.5.5  Cultural Tolerance
+
+The MSAII program is extremely diverse for a pr ogram of its size. We have students from
+
+numerous different countries who must work effectively in a team se tting. The students
+
+invariably come from very different cultures that  have differing attitudes  towards age, gender,
+advisor. Meanwhile, the potential advisors determine how many new students they can take,
+
+and indicate their preferences. Finally, the  entire LTI faculty meets as a “ Marriage Committee ”
+
+to determine the best set of matches.
+
+Some entering MLT students are prefunded, meaning they have received and accepted a funding letter from a faculty member before the Marriage Process. (Even students who are prefunded must attend the research talks, to become acquainted with the LTI’s rese arch
+communicating. However, it is unprofessional in any official team meeting to speak a language 32
+
+that is not understood by all team members. Fo r example, if all members of a team understand
+
+Chinese, then they may use Chi nese in team meetings. However,  if even one team member does
+
+not understand Chinese, then a language must be us ed that is understood by all team members.
+
+It is recommended that non-native speakers of Eng lish use English as much as possible if they
+
+
+Answer: 

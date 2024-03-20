@@ -1,0 +1,33 @@
+Question: Where was the paper titled "Computational Language Acquisition with Theory of Mind" published?
+
+Context: Paper title: 'Computational Language Acquisition with Theory of Mind' Published year: 2023 Publication venue or conference: International Conference on Learning Representations Authors: Hao Zhu, Graham Neubig, Yonatan Bisk, Andy T. Liu, Emmy Liu Summary: It is found that training speakers with a highly weighted ToM listener component leads to performance gains in the authors' image referential game setting, and suggests the potential utility of further incorporating ToM, as well as other
+3 2 0 2
+
+r a
+
+M 2
+
+] L C . s c [
+
+1 v 2 0 5 1 0 . 3 0 3 2 : v i X r a
+
+Published as a conference paper at ICLR 2023
+
+COMPUTATIONAL LANGUAGE ACQUISITION WITH THEORY OF MIND
+
+Andy Liu Harvey Mudd College Claremont, CA, USA {ajliu}@g.hmc.edu
+
+Hao Zhu, Emmy Liu, Yonatan Bisk, Graham Neubig Language Technologies Institute Carnegie Mellon University Pittsburgh, PA, USA {zhuhao, mengyan3, ybisk, gneubig}@cs.}cmu.edu
+
+ABSTRACT
+Le, M., Boureau, Y.-L., & Nickel, M. (2019). Revisiting the evaluation of theory of mind through question answering. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pp. 5872–5877, Hong Kong, China. Association for Computational Linguistics.
+Language Technologies Institute / School of Computer Science Graduate Student Handbook Academic Year 2023-2024 Master of Computational Data Science Program
+
+Last revision date: July 20, 2023
+
+The information contained in this graduate handbook template focuses on the resources and locations available at the Carnegie Mellon Pittsburgh Campus.
+61 Welcome Welcome to the Language Technologies Institute, Master of Computational Data Science Program. While this handbook is specific to your academic experience in the department, there are several other resources and offices graduate students are encouraged to consult during their tenure at Carnegie Mellon University. Information about The Word, the student handbook, the Office of Graduate and Postdoctoral Affairs, the Office of the Dean of Students, and others are included in Appendix A
+Language Technologies Institute - Faculty Name: Ralf Brown Email: ralf@andrew.cmu.edu Office: 5711 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Translation, Natural Language Processing and Computational Linguistics Phone: 412-268-8298
+
+
+Answer: 

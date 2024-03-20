@@ -1,0 +1,138 @@
+Question: In the paper titled "WebArena: A Realistic Web Environment for Building Autonomous Agents", what is the success rate of the best performing GPT-3.5 model?
+
+Context: Paper title: 'WebArena: A Realistic Web Environment for Building Autonomous Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: Robert Lo, Frank F. Xu, Shuyan Zhou, Xuhui Zhou, Hao Zhu, Uri Alon, Daniel Fried, Abishek Sridhar, Graham Neubig, Yonatan Bisk, Xianyi Cheng Summary: This paper builds an environment for language-guided agents that is highly realistic and reproducible, and creates an environment with fully functional websites from four common domains:
+We present WebArena, a highly-realistic, standalone, and reproducible web environment designed for the development and testing of autonomous agents. WebArena includes fully functional web applications and genuine data from four major categories, providing a realistic platform for agent interaction. It further supports a wide range of tools and external knowledge bases, fostering a focus on human-like problem-solving. Additionally, we curate a comprehensive benchmark consisting of 812 examples
+Figure 1: WebArena is a standalone, self-hostable web environment for building autonomous agents. WebArena creates websites from four popular categories with functionality and data mimicking their real-world equivalents. To emulate human problem-solving, WebArena also embeds tools and knowledge resources as independent websites. WebArena introduces a benchmark on interpreting high-level realistic natural language command to concrete web-based interactions. We provide annotated programs designed
+Title: Building Better Web Applications
+
+Units: 3.0
+
+Section: A2
+
+Days: MW
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Heimann, Huang
+
+Fall 2023
+
+Course number: 67301
+
+Title: Networks and Telecommunications
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 10:00AM
+
+End: 11:15AM
+
+Room: CMB 3044
+
+Locations: Doha, Qatar
+
+Instructors: Phelps
+
+Fall 2023
+
+Course number: 67309
+
+Title: Special Topics: Information Assurance and Security
+
+Units: 6.0
+Instructors: Pangaro
+
+Fall 2023
+
+Course number: 48432
+
+Title: Environment II: Design Integration of Active Building Systems
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: MM 103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Baird
+
+Fall 2023
+
+Course number: 48434
+
+Title: Aztec to Zacatecas: Mesoamerican & Spanish Colonial Arch of Mexico & Guatemala
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CFA 102
+
+Locations: Pittsburgh, Pennsylvania
+Title: Grand Challenge Seminar: Equitable Access and Success in Higher Education at CMU:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: PH A18B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Walsh, Ballesteros Soria
+
+Spring 2024
+
+Course number: 66142
+
+Title: DC 1st Year Seminar: The Mirror of Technology: Biases in Computation & Cognition
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5310
+
+Locations: Pittsburgh, Pennsylvania
+14. Web search engines, 1994 The World Wide Web was still in its toddler stage when CMU researcher Michael “Fuzzy” Mauldin (CS’83,’89) developed one of the first successful search engines, Lycos. It was the most-visited site on the Web by 1999.
+Innovation (MSAII) program is a successor to the M.S. in Biotechnology, Innovation and Computing (MSBIC). It combines a rigorous AI and machine learning curriculum with real-world team experience in identifying an AI market niche and developing a responsive product in cooperation with external stakeholders. The core program, which lasts four semesters and leads to a capstone project, focuses on both intrapreneurship and entrepreneurship, equipping graduates to either begin a startup or develop
+https://www.cmu.edu/student-success/ The Student Academic Success Center’s (SASC) work to support success focuses on creating spaces for students to engage in their coursework and approach to learning through many group and individual program options. SASC supports student success by providing academic coaching, subject-specific tutoring, effective communication strategies, accommodations for students with disabilities, and language support for multilingual learners.
+
+
+Answer: 

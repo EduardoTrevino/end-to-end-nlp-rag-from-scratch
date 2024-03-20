@@ -1,0 +1,31 @@
+Question: ICML is the abbreviation for which conference?
+
+Context: Dongyoung Go, Tomasz Korbak, Germ´an Kruszewski, Jos Rozen, Nahyeon Ryu, and Marc Dymet- man. Aligning language models with preferences through f-divergence minimization. In Interna- tional Conference on Machine Learning (ICML), 2023. URL https://openreview.net/forum? id=ttga7UlrsE.
+trillions of tokens. In International Conference on Machine Learning, ICML 2022, 17-23 July 2022, Bal- timore, Maryland, USA, volume 162 of Proceedings of Machine Learning Research, pages 2206–2240. PMLR.
+John Schulman, Sergey Levine, Pieter Abbeel, Michael Jordan, and Philipp Moritz. Trust region policy optimization. In International conference on machine learningn (ICML), pages 1889–1897. PMLR, 2015. (Cited on page 5.)
+
+John Schulman, Xi Chen, and Pieter Abbeel. Equivalence between policy gradients and soft
+
+q-learning. arXiv preprint arXiv:1704.06440, 2017a. (Cited on page 5.)
+Students do not register for the LTI Orientation, nor do they receive  a grade;  however , the
+
+department is serious about its expectation that new students will attend these talks.
+
+For many years, these talks were called "the Immigration Course (IC)" , which caused confusion.
+
+The older name has been retired;  however , people who have been at CMU a long time may
+
+occasionally use the older name.
+
+4.7 End of Semester  Evaluation
+standard course, because they provide a good introduction to the broad range of research done at
+
+the LTI. Students do not register for the LTI Orientation, nor do they receive a grade; however, the department is serious about its expectation that new students will attend these talks.
+
+For many years, these talks were called "the Immigration Course (IC)." The intuition behind this
+
+name is that the talks help orient newly -arrived students – immigrants into the CMU
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+
+
+Answer: 

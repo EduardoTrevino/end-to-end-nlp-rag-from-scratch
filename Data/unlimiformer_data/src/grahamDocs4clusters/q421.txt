@@ -1,0 +1,249 @@
+Question: What is the office number for Joan Axelson?
+
+Context: En-De20221991313831.820231955307231.4
+
+393
+arXiv:2203.07814, 2022.
+arXiv:2210.11416.
+Instructors: MacWhinney
+
+Fall 2023
+
+Course number: 85781
+
+Title: Graduate Reading and Research
+
+Units: 0-99
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Helgeson
+
+Fall 2023
+
+Course number: 85794
+
+Title: Teaching Practicum
+
+Units: 9.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Helgeson
+
+Fall 2023
+
+Course number: 85811
+
+Title: Professional Development
+
+Units: 5.0
+
+Section: A
+Instructors: Helgeson
+
+Fall 2023
+
+Course number: 85981
+
+Title: Dissertation Research
+
+Units: 0-99
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Helgeson
+
+Fall 2023
+
+Course number: 91804
+
+Title: Financial Analysis for Managers
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 05:30PM
+
+End: 08:20PM
+
+Room: HBH 1004
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gogolak
+
+Fall 2023
+
+Course number: 90403
+Locations:  ,New York, New York,Pittsburgh, Pennsylvania
+
+Instructors: Wiesel
+
+Fall 2023
+
+Course number: 46954
+
+Title: Risk Management:
+
+Units: 6.0
+
+Section:  ,I1,M1
+
+Days:  ,TR
+
+Start:  ,05:00PM
+
+End:  ,06:30PM
+
+Room: BRD 507, ,TCS 250
+
+Locations:  ,New York, New York,Pittsburgh, Pennsylvania
+
+Instructors: Larsson, Andersen
+
+Fall 2023
+
+Course number: 46956
+
+Title: Fixed Income:
+
+Units: 6.0
+
+Section:  ,I1,M1
+
+Days:  ,TR
+
+Start:  ,10:00AM
+
+End:  ,11:30AM
+
+Room: BRD 507, ,TCS 250
+Mailing Address:  5000 Forbes Avenue / Pittsburgh, PA 15213
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+412-268-4525  Stacey Young
+
+Ph.D. Academic Program Manager
+
+LTI Graduate Program Manager
+
+GHC 6415
+
+staceyy@cs.cmu.edu
+
+412-268-2623
+
+Mona Diab
+
+LTI Director
+
+Professor
+
+GHC 5723
+
+mdiab@andrew.cmu.edu
+
+412-268-3669
+
+Joan Axelson
+
+Office Manager
+
+GHC 5405
+
+jaxelson@andrew.cmu.edu
+
+412-268-7517
+
+Julie Nys
+
+Employment Processes Manger
+
+GHC 5405
+
+jnys@andrew.cmu.edu
+
+412-268-3515
+
+1.3 University Policies and Expectations
+Language Technologies Institute - Faculty Name: Carolyn Penstein Rose Email: cprose@cs.cmu.edu Office: 5415 Gates & Hillman Centers Research Areas: Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics, Computer Supported Collaborative Learning/MOOCs Phone: 412-268-7130
+Language Technologies Institute - Faculty Name: Alexander Hauptmann Email: alex@cs.cmu.edu Office: 5519 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Learning, Multimodal Computing and Interaction Phone: 412-268-1448
+
+
+Answer: 

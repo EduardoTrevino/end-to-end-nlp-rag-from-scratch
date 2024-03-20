@@ -1,0 +1,209 @@
+Question: In the paper "Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning", on which tasks has IPA shown significant improvements?
+
+Context: We propose Inference-time Policy Adapters (IPA), which efficiently tailors a language model such as GPT-3 without fine-tuning it. IPA guides a large base model during decod- ing time through a lightweight policy adapter trained to optimize an arbitrary user objective with reinforcement learning.
+
+❄ Frozen ParametersApproximate PolicyBase Policy (Extreme-Scale LM)
+
+⊕Policy
+
+IPA
+
+PredictionR
+
+AdaptionPredictionˆy
+
+RewardPredictionPrediction
+
+" Learning
+
+Tailored PolicyPolicy Adapter
+
+⊕ˆy
+3 2 0 2 c e D 6
+
+] L C . s c [
+
+2 v 5 6 0 5 1 . 5 0 3 2 : v i X r a
+
+Inference-Time Policy Adapters (IPA):
+
+Tailoring Extreme-Scale LMs without Fine-tuning Ximing Lu♡♣ Faeze Brahman♡♣ Peter West ♡♣ Jaehun Jung ♡ Khyathi Chandu ♣ Abhilasha Ravichander ♣ Lianhui Qin ♡ Prithviraj Ammanabrolu ♡♣ Liwei Jiang ♡♣ Sahana Ramnath ♢ Nouha Dziri ♣ Jillian Fisher ♡ Bill Yuchen Lin ♣ Skyler Hallinan ♡ Xiang Ren ♢♣ Sean Welleck ♡♣ Yejin Choi♡♣ ♣Allen Institute for Artificial Intelligence
+Drawing inspiration from RL and inference- time techniques, we propose Inference-time Pol- icy Adapters ( IPA), an efficient and general- izable algorithm, which tailors a large language model at decoding-time toward desired objectives without fine-tuning it. To do so, IPA combines a large base LM’s output distribution with that of a smaller-sized model (a lightweight adapter pol- icy), and optimizes the combined distribution to- wards a given objective with RL (Figure 1). IPA uses two key
+Days: TR
+
+Start: 10:00AM
+
+End: 11:45AM
+
+Room: TEP 2111
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gasper
+
+Spring 2024
+
+Course number: 45911
+
+Title: Statistical Models for Management and Control - Causal Inference
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: TEP 2118
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sowell
+
+Spring 2024
+
+Course number: 45915
+
+Title: Managing Through Incentives:
+
+Units: 6.0
+
+Section:  ,A3
+
+Days:  ,TR
+
+Start:  ,04:00PM
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Matthews, Muller
+
+Fall 2023
+
+Course number: 19701
+
+Title: Introduction to the Theory and Practice of Policy Analysis
+
+Units: 12.0
+
+Section: A,PP
+
+Days: TR
+
+Start: 09:30AM,02:00PM
+
+End: 10:50AM,03:20PM
+
+Room: TBA,WEH 4623
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Morgan
+
+Fall 2023
+
+Course number: 19705
+
+Title: Workshop Applied Policy Analysis
+
+Units: 6.0
+Instructors: Mueller
+
+Spring 2024
+
+Course number: 54439
+
+Title: Production Prep: SOM 3:
+
+Units: VAR
+
+Section: A,E,I,K,B,F,G,C,D,J, ,L
+
+Days:  ,MTWRF
+
+Start:  ,06:30PM
+
+End:  ,10:30PM
+
+Room: TBA,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Thomson
+
+Spring 2024
+
+Course number: 54444
+
+Title: Advanced Designer Draping
+
+Units: 6.0
+
+Section: A
+
+Days: R
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: PCA 308
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hanson
+
+Spring 2024
+Transition: Procedure whereby one pusher finishes pushing a buggy and the next pusher in sequence starts to push that same buggy.
+1946 – PiKA’s Buggy (from the 1947 Thistle). It didn’t win Design Competition, but it had the best aesthetic design. Prelim Heats and Results. The Prelims were run in 3 heats, with 3 teams in each. The rules initially stated that the winner of each heat would compete in the finals, but it seems that the rules changed to be the three fastest times instead, as the Prelim results printed in the May 7, 1946 Tartan indicate that the Finals was just a rematch of Prelim Heat 1. According to the May 7
+the 3 teams qualifying for Finals, broke the post-war record. In the finals, it was another close battle, with DTD squeaking it out over PiKA. DTD’s winning time of 2:42.5 was fast enough to set the course record, and PiKA’s 2:43.5 was only ½ second behind the prior record. SAE’s Best Design. SAE took home the trophy for Design Comp with their sleek aluminum buggy. Unfortunately, we haven’t found a photo. [Ed. Update: Based on the buggies from 1950, the 1950 Thistle’s actual description of
+and by the SCS Associate Dean for Masters Programs. The waiver request must explain the
+
+exceptional circumstances that wa rrant an extension. For cases in which a waiver is granted,
+
+the waiver will cover specific courses and will specify a time period for completion of the
+
+program.
+
+See also the ‘Duration of Study’ policy.
+
+11.7 Residency Requirement
+
+The MSAII is a full-time, in-resid ence program conducted only on the Pittsburgh campus. In
+See also the “ Statute of Lim itations” policy.
+
+5.1.2 Double-Dipping
+
+A Masters student who uses courses taken as part of another degree program (at Carnegie
+
+Mellon or elsewhere) toward their program requirements cannot use those same courses MLT Graduate Student Handbook  Page 21
+
+toward any other M.S. degree offered by the School of Computer Science without prior
+
+approval. This is an SCS- wide policy.
+
+5.1.3 Pass/Fail Grades
+LTI follows the long -standing SCS policy that both the new and old advisors need to agree to
+
+the change; typically, this is not a problem, assuming the new advisor has agreed in advance, as
+
+described here. It is to the student' s advantage to avoid switching advisors, especially late in
+
+their graduate studies, because forging a strong student- advisor relationship takes time.
+
+4.11 LTI Orientation
+
+Prior to the beginning of each Fall semester the LTI provides lectures and faculty research
+
+
+Answer: 

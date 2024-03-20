@@ -1,0 +1,31 @@
+Question: What is the full name of the conference where the paper TAPLoss: A Temporal Acoustic Parameter Loss for Speech Enhancement, got published?
+
+Context: [12] Li Wan, Quan Wang, Alan Papir, and Ignacio Lopez Moreno, “Generalized end-to-end loss for speaker verification,” in 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2018, pp. 4879–4883.
+Paper title: 'Improving Massively Multilingual ASR with Auxiliary CTC Objectives' Published year: 2023 Publication venue or conference: IEEE International Conference on Acoustics, Speech, and Signal Processing Authors: Yifan Peng, Jiatong Shi, William Chen, Shinji Watanabe, Brian Yan, Soumi Maiti Summary: This work introduces work on improving performance on FLEURS, a 102-language open ASR benchmark, by conditioning the entire model on language identity (LID), and investigates techniques
+Paper title: 'Structured Pruning of Self-Supervised Pre-Trained Models for Speech Recognition and Understanding' Published year: 2023 Publication venue or conference: IEEE International Conference on Acoustics, Speech, and Signal Processing Authors: Yifan Peng, Kwangyoun Kim, Felix Wu, Shinji Watanabe, Prashant Sridhar Summary: This work proposes three task-specific structured pruning methods to deal with heterogeneous speech models that not only utilize a stack of Transformer blocks, but also
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+The LTI Ph.D.  does not require any Qualifying Exams. Instead, a LTI Ph.D.  student is required to
+
+demonstrate proficiency in the following four areas.
+
+Writing: This is satisfied by producing a peer -reviewed conference paper, or the
+
+equivalent (a written report that at least two SCS faculty certify as being of conference -
+
+paper quality).
+
+Presentation: This is satisfied by the oral presentation of a conference paper, or the
+
+
+Answer: 

@@ -1,0 +1,213 @@
+Question: How many authors are on SantaCoder paper?
+
+Context: Paper title: 'SantaCoder: don't reach for the stars!' Published year: 2023 Publication venue or conference: arXiv.org Authors: M. Lappert, Urvashi Bhattacharyya, Niklas Muennighoff, Terry Yue Zhuo, Yacine Jernite, Carolyn Jane Anderson, Qian Liu, Chenghao Mou, Dmitry Abulkhanov, S. Troshin, Hailey Schoelkopf, Manan Dey, Christopher Akiki, Paulo Villegas, Carlos Muñoz Ferrandis, Bernardo Garc'ia del R'io, D. Lansky, Dzmitry Bahdanau, Harm de Vries, Loubna Ben Allal, Arjun Guha, J. Poirier,
+5Two authors on this paper independently annotated the rela- tions, followed by an adjudication phase to resolve disagreements.
+
+each mention, the bi-encoder retrieves the top-k (e.g., k = 8) events via nearest neighbor search.
+6.2 FINAL MODEL
+
+Based on the insights from the architecture and dataset ablations, we train a ﬁnal model, which we call SantaCoder, with MQA and FIM and the two data ﬁlters that yielded the best results: more near- deduplication and comments-to-code ﬁlter. We train this model for 600K iterations (236B tokens) and keep all other hyper-parameters the same.
+Instructors: Meyer,Gasson,Salehzadeh,Strickland,Watson,Pessoa,Pal-Agrawal,Tanquary,George,Kidder,Mayshle,Comiskey,Cafasso,Myers,Szalkowski-Ference
+
+Fall 2023
+
+Course number: 76102
+
+Title: Advanced First Year Writing: Special Topics
+
+Units: 9.0
+
+Section: B
+
+Days: MWF
+
+Start: 11:00AM
+
+End: 11:50AM
+
+Room: BH 255B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mayshle
+
+Fall 2023
+
+Course number: 76106
+
+Title: Writing about Literature, Art and Culture
+
+Units: 4.5
+Course number: 18641
+
+Title: Design Patterns for Smartphone Development
+
+Units: 12.0
+
+Section: RW
+
+Days: TR
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: CMR F309
+
+Locations: Kigali, Rwanda
+
+Instructors: Umuhoza
+
+Spring 2024
+
+Course number: 18646
+
+Title: How to Write Fast Code II
+
+Units: 12.0
+
+Section: A,SV
+
+Days: MW
+
+Start: 09:30AM,12:30PM
+
+End: 10:50AM,01:50PM
+
+Room: B23 211,BH A53
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Low
+
+Spring 2024
+
+Course number: 18647
+Instructors: Howard,Dealmeida,Pukinskis,Sullivan,Almarza,Kostyniak,Vosburgh,Cardenes,Wu,Houlik,Spacagna,Caballero,Howell,Schepkin,Instructor TBA,Van Hoesen,Gruber,Cherian,McGhee,Knox,Goeres,Dee,Rusinek,Aylmer,Whipple,Kush,Carlisle,Marcinizyn,van der Sloot,Laduke,Allen, Evans, Branson,Williams,Berntsen,Harding,Premo,Teadt,Galbraith,Chiu
+
+Spring 2024
+
+Course number: 57499
+
+Title: BXA Studio (4th semester)
+
+Units: 9.0
+Inductees will be selected by a committee comprised of Carnegie Mellon University staff, faculty, a board of trustee member, coaches and a student representative. The Athletics Hall of Fame will endeavor to induct not less than 15 individuals for induction in its first year and not less than 6 in any year thereafter, subject to the discretion of the Nominating Committee. The below will set forth the criteria for selection to the Athletics Hall of Fame.
+The mascot selection process included a series of surveys and a university Town Hall meeting. Nearly 78 percent of 2,370 students surveyed in February 2007 voted for the Scottish terrier, and approximately 25 percent of 400 alumni surveyed thought the Scottish terrier was already the mascot.
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Successful applicants will have a minimum TOEFL score of 100 (Reading, Listening, Speaking, Writing scores all 25 or above), IELTS score of 7.5 (Reading 7 or above, Listening 7 or above, Speaking 7.5 or above, Writing 6.5 or above), or DuoLingo score of 120 (Literacy 115 or above, Comprehension 125 or above, Production 100 or above, Conversation 105 or above). Our Institution Code is 4256; the Department Code is 78. Additional details about English proficiency requirements are provided on the
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+
+
+Answer: 

@@ -1,0 +1,87 @@
+Question: In the "Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research," how many participants were in the survey from the NLP community?
+
+Context: Paper title: 'Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research' Published year: 2023 Publication venue or conference: arXiv.org Authors: Roy Schwartz, Andreas Ruckl'e, Iryna Gurevych, Betty van Aken, Emma Strubell, J. Forde, Jesse Dodge, Ji-Ung Lee, Haritz Puerto, Leon Derczynski, Yuki Arase Summary: This work captures existing (dis)parities between different and within groups with respect to seniority, academia, and industry; and their impact on the peer reviewing process;
+3 2 0 2
+
+v o N 9
+
+] L C . s c [
+
+2 v 0 0 9 6 1 . 6 0 3 2 : v i X r a
+
+Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research
+surveys that investigate In this work, we provide a first at- them. tempt to quantify these concerns regarding three topics, namely, environmental impact, equity, and impact on peer reviewing. By conducting a survey with 312 participants from the NLP community, we capture exist- ing (dis)parities between different and within groups with respect to seniority, academia, and industry; and their impact on the peer re- viewing process. For each topic, we provide an analysis and devise
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+Year 1 Fall:
+
+Grammars and Lexicons
+
+Algorithms for NLP
+
+Directed Study
+
+Year 1 Spring: - Search Engines or Machine Learning for Text Mining - Machine Translation - Directed Study
+
+Year 1 Summer:
+
+Required Research
+
+Year 2 Fall: - Software Engineering for LT (I) - Speech Understanding - Self-Paced Lab - Directed Study
+
+Year 2 Spring: - Software Engineering for LT (II) - Self-Paced Lab - Directed Study
+
+Year 2 Summer:
+
+Required Research
+
+Year 3 Fall:
+
+Directed Research
+
+Year 3 Spring:
+Year 1 Fall:
+
+Grammars and Lexicons
+
+Algorithms for NLP
+
+Directed Study
+
+Year 1 Spring: - Search Engines or Machine Learning for Text Mining - Machine Translation - Self-Paced Lab - Directed Study
+
+Year 1 Summer:
+
+Required Research
+
+Year 2 Fall: - Software Engineering for LT (I) - Speech Understanding - Self-Paced Lab - Directed Study
+
+Year 2 Spring: - Software Engineering for LT (II) - Directed Study - Elective
+
+Year 2 Summer:
+
+Required Research
+
+
+Answer: 

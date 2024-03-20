@@ -1,0 +1,168 @@
+Question: In the KALE lexical expansion paper, what three datasets are evaluated?
+
+Context: Paper title: 'KALE: Using a K-Sparse Projector for Lexical Expansion' Published year: 2023 Publication venue or conference: International Conference on the Theory of Information Retrieval Authors: Bruno Martins, Jamie Callan, Luís Borges Summary: KALE is a new lightweight method that uses a small model with a k-sparse projector to convert dense representations into a sparse set of entries from a latent vocabulary, which can replace the original lexical vocabulary with gains in accuracy and
+Evaluating Domain Generalization We evaluate on the union of two question-answering benchmarks: Machine Reading for Question Answering (MRQA) (Fisch et al., 2019) and UnifiedQA (Khashabi et al., 2020), which together consist of 30 unique QA datasets. These QA datasets span a range of domains, allowing us to measure the impact of topic alignment (see Table 9).
+4.5 Dataset Statistics To this end, we automatically compile a dataset with event hierarchies of maximum height=3 that consists of 2K events and 937K across 42 languages. The detailed statistics of the train-dev-test split as well as the Wikinews evaluation set (WN) are presented in Table 1. Other than the events within hierarchies, we use the full set of events (including single- tons) as the pool of candidates, this expands the effective size of our event dictionary to nearly 13k.
+Instructors: Logan,Haden,Edinger,Rivera Lebron,Kline,Conte
+
+Spring 2024
+
+Course number: 54314
+
+Title: Dance III: Expand Dynamic of Dance Technique
+
+Units: 3.0
+
+Section: A,B
+
+Days: MW
+
+Start: 01:30PM
+
+End: 02:50PM
+
+Room: PCA 306,PCA 313
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Conte,Caton
+
+Spring 2024
+
+Course number: 54316
+
+Title: Jazz III
+
+Units: 2.0
+
+Section: A,B
+
+Days: F
+
+Start: 09:30AM,01:30PM
+
+End: 10:50AM,02:50PM
+
+Room: PCA 306
+
+Locations: Pittsburgh, Pennsylvania
+Title: Expanded Theater
+
+Units: 6.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: MEL 102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Warren, Shea
+
+Fall 2023
+
+Course number: 54500
+
+Title: Voice Lab:
+
+Units: 5.0
+
+Section: A,C, ,B
+
+Days: R,
+
+Start: 12:30PM,
+
+End:  ,01:20PM
+
+Room: PCA 321,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Benack,Kline,Edinger
+
+Fall 2023
+
+Course number: 54505
+
+Title: Ear Training
+
+Units: 1.0
+
+Section: A
+
+Days: F
+
+Start: 11:00AM
+
+End: 11:50AM
+Title: Tap III: Expand Percussive Rhythms
+
+Units: 2.0
+
+Section: A,B
+
+Days: R,T
+
+Start: 04:30PM
+
+End: 05:20PM
+
+Room: PCA 306
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cousin,Conte
+
+Spring 2024
+
+Course number: 54326
+
+Title: Actor Dance III
+
+Units: 2.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:00PM
+
+Room: PCA 313
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cousin
+
+Spring 2024
+
+Course number: 54328
+
+Title: Advanced Digital Sound Design Skills
+
+Units: 9.0
+
+Section: A
+
+Days: W
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+Tartan, Heat 1 saw a very tight race between KapSig, DTD, and PiKA, with KapSig winning in 3:24.5, DTD finishing in 3:25.1, and PiKA finishing in 3:26.3. Those were the top 3 times and they advanced to the finals. Prelim Heat 2 paired Beta, SAE, and DU, and SAE won the heat by default, as Beta was DQ’d for a pushbar violation and DU was DQ’d for a Hill 4-5 transition violation (the Tartan reports that they “shoved the buggy into the last zone instead of pushing it”). Prelims Heat 3 was a battle
+3.3.6.3 Areas of Concentration In addition to the common MCDS core, all students must complete at least one area of concentration, which consists of three courses in Analytics, Systems, or Human- Centered Data Science. Students consult with their academic advisor and choose one or more areas of concentration during their first semester, in preparation for enrolling in Spring classes.
+
+
+Answer: 

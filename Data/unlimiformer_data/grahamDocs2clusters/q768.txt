@@ -1,0 +1,155 @@
+Question: What is the contact number of the Director of Sports Medicine?
+
+Context: Section: A,SA,Lec 2,Lec 1
+
+Days: F,MW
+
+Start: 04:00PM,01:00PM,12:00PM,09:00AM
+
+End: 05:50PM,02:50PM,09:50AM,12:50PM
+
+Room: B23 211,GHC 4307,BH A53
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Gligor
+
+Spring 2024
+
+Course number: 18738
+
+Title: Sports Technology
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 06:00PM
+
+End: 07:50PM
+
+Room: GHC 4215
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Narasimhan
+
+Spring 2024
+
+Course number: 18742
+72.486.670.473.874.488.774.975.9AG news
+
+0.95F1
+
+business
+
+politics
+
+sports
+
+0.80
+
+0.90
+
+0.85
+
+0.70
+
+0.60
+
+Augmented Text
+
+Original Text
+
+technology
+
+0.65
+
+0.75
+
+music
+
+0.2
+
+Observed Text
+
+0.8F1
+
+0.3
+
+sports
+
+politics
+
+0.4
+
+0.5
+
+society
+
+0.7
+
+Augmented Text
+
+computers
+
+27.957.369.039.668.577.437.955.859.356.628.160.668.142.670.280.637.358.260.258.1Yahoo Answers
+
+0.6
+
+health
+
+science
+
+family
+
+business
+
+education
+
+top 100Top@k ranked list by confidence
+P2348timeperiodtimeperiod(historicperiodorera,sportsseason,theatreseason,legislativeperiodetc.)inwhichthesubjectoccurredP710participantperson,groupofpeopleororganization(object)thatactivelytakes/tookpartinaneventorprocess(subject).Preferablyqualifywith"objecthasrole"(P3831).UseP1923forparticipantsthatareteams.P1576lifestyletypicalwayoflifeofanindividual,group,orcultureP2650interestedinitemofspecialorvestedinteresttothispersonororganisationP740locationofforma-tionlocationwhereagroupororganizatio
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+Office of Disability Resources  and request needed accommodation s.  Any questions about the
+
+process can be directed to access@andr ew.cmu.edu, or call (412) 268-6121.
+
+11.5.2  Summary of Graduate Student A ppeal and Grievance Procedures
+
+Students who believe that they ha ve been inappropriately treated are encouraged to raise their
+
+concern(s) with the Program Director, department  head, or other designa ted person in their
+page. Questions that need specialized, in- depth attention can be directed to the student' s
+
+assigned Assistant Director. For general questions and information, students may email The
+
+HUB or call 412 -268-8186.
+
+7.2 Student Information Online (SIO)
+
+Student Information Online (SIO) is a secure site where students can find important, personalized information, including E -Bills and student account information, financial aid s tatus
+
+
+Answer: 

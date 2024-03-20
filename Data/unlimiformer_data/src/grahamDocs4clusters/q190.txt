@@ -1,0 +1,217 @@
+Question: According to the paper PWESUITE: Phonetic Word Embeddings and Tasks They Facilitate, what is the percentage accuracy for rhymes, achieved by the autoencoder model on the evaluation suite?
+
+Context: 4 2 0 2
+
+b e F 0 2
+
+] L C . s c [
+
+2 v 1 4 5 2 0 . 4 0 3 2 : v i X r a
+
+PWESUITE: Phonetic Word Embeddings and Tasks They Facilitate
+
+Vilém Zouhar E =
+
+Kalvin Chang C =
+
+Chenxuan Cui C
+
+Nathaniel Carlson Y
+
+Nathaniel R. Robinson C Mrinmaya Sachan E David Mortensen C
+We evaluate both (1) intrinsic aspects of phonetic word embeddings, such as word retrieval and correlation with sound similarity, and (2) extrinsic performance on tasks such as rhyme and cognate detection and sound analogies. We hope our task suite will promote reproducibility and inspire future phonetic embedding research.
+We introduce four phonetic word embedding methods—count-based, autoencoder, and metric and contrastive learning. Though some of these techniques are inspired by previous work, we are the first to apply them with supervision from articu- latory feature vectors, a seldom-exploited form of
+
+=Co-first authors.
+
+1The technically correct term is phonological word embeddings but prior literature uses the term phonetic.
+
+linguistic knowledge for representation learning.
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gray
+
+Fall 2023
+
+Course number: 80249
+
+Title: AI, Society, and Humanity
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: PH 100
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Leben
+
+Fall 2023
+
+Course number: 80282
+
+Title: Phonetics and Phonology I
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH 125B
+
+Locations: Pittsburgh, Pennsylvania
+Title: Coding & Control for Theatrical Sound
+
+Units: 9.0
+
+Section: A
+
+Days: W
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: PCA 103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Blackwood
+
+Fall 2023
+
+Course number: 54841
+
+Title: Costume Design for Dance
+
+Units: 5.0
+
+Section: A2
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PCA 305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eshelman
+
+Fall 2023
+
+Course number: 54848
+
+Title: Patterning Fundamentals
+
+Units: 6.0
+
+Section: A1
+
+Days: T
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+the 3 teams qualifying for Finals, broke the post-war record. In the finals, it was another close battle, with DTD squeaking it out over PiKA. DTD’s winning time of 2:42.5 was fast enough to set the course record, and PiKA’s 2:43.5 was only ½ second behind the prior record. SAE’s Best Design. SAE took home the trophy for Design Comp with their sleek aluminum buggy. Unfortunately, we haven’t found a photo. [Ed. Update: Based on the buggies from 1950, the 1950 Thistle’s actual description of
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+Sweepstakes Slang
+
+Buggy: Vehicle being raced and also a nickname for the competition.
+
+Chute: A section of the freeroll portion of the buggy course (near the southwestern end of Frew Street at its intersection with Schenley Drive) where buggies make the sharp righthand turn from Schenley Drive onto Frew Street.
+
+Chute Flagger: Team member who provides a signal for buggy drivers to know when to start the right-hand turn from Schenley Drive onto Frew Street.
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+How to talk about yourself as a professional in the U.S.
+
+Developing clearer pronunciation
+
+Using accurate grammar
+
+Building fluency
+
+and more. Students can make an appointment with a Language Development Specialist to get
+
+individualized coaching on language or cross -cultural issues.
+expectations and strategies for clear academic writing,
+
+how to talk about yourself as  a professional in the U.S.,
+
+developing clearer pronunciation,
+
+using accurate grammar,
+
+building fluency, and more.
+
+Students can make an appointment with a La nguage Development Specialist to get
+
+individualized coaching on langua ge or cross-cultural issues.
+
+The Student Academic Success Center is also charged with certifying the language of
+
+
+Answer: 

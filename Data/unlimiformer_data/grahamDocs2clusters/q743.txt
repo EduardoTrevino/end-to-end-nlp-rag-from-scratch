@@ -1,0 +1,67 @@
+Question: How many authors contributed to the paper CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code?
+
+Context: Paper title: 'CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Sumit Agarwal, Graham Neubig, Uri Alon, Shuyan Zhou Summary: It is found that generated code that receives a higher score by CodeBERTScore is more likely to be preferred by humans, as well as to function correctly when executed, than all existing metrics.
+Shuyan Zhou, Uri Alon, Sumit Agarwal, and Graham Neubig. Codebertscore: Evaluating code generation
+
+with pretrained models of code. 2023b. URL https://arxiv.org/abs/2302.05527.
+
+14
+
+Preprint. Under review.
+
+A APPENDIX
+
+A.1 ADDITIONAL ANALYSIS OF OPTIMIZATIONS
+Shuyan Zhou, Uri Alon, Sumit Agarwal, and Gra- ham Neubig. 2023b. Codebertscore: Evaluating code generation with pretrained models of code. arXiv preprint arXiv:2302.05527.
+
+Daniel M. Ziegler, Nisan Stiennon, Jeffrey Wu, Tom B. Brown, Alec Radford, Dario Amodei, Paul F. Christiano, and Geoffrey Irving. 2019. Fine-tuning language models from human pref- erences. CoRR, abs/1909.08593.
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+professional education. Drawing on Shaw’s plan and also on the work of other faculty members, an undergraduate program in computer science was created during the 1989-90 academic year. Seven CS majors were admitted to the program as sophomores. Another 73 undergraduates were admitted in 1990–91. By 1995, there were 401 undergraduates in the School of Computer Science; in fall 2013, more than 600 undergraduates made up about 37 percent of student enrollment at SCS, along with more than 600
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+
+
+Answer: 

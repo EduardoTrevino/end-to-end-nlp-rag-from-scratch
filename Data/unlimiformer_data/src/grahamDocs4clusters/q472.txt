@@ -1,0 +1,243 @@
+Question: What is the title for 11737?
+
+Context: 12937
+
+PromptFinetuneonT0++Train
+
+Pretrainingonly
+
+PromptFinetuneonT0+Train
+
+ModelParamsMMLU
+
+METRO-T0++LARGE++775M83.6874.8846.84/40.37/44.9571.8362.7592.6395.6583.7470.4969.80
+
+Flan-T5BASE(Weietal.,2022)223M35.9T0++BASE++256M41.7METRO-T0++BASE++256M42.7
+
+GPT-3175B(Brownetal.,2020)175B43.9Flan-T5LARGE(Weietal.,2022)750M45.1T0++11B(Sanhetal.,2022)11B35.6METRO-T0++LARGE++775M48.0
+
+T0++11B(Sanhetal.,2022)11B85.3175.6947.07/42.18/44.0970.2966.4293.7196.4986.1170.0270.67
+Text Matching Improves Sequential Recommendation by Reducing Popularity Biases
+
+CIKM ’23, October 21–25, 2023, Birmingham, United Kingdom
+
+id:11879
+
+User-Item Interaction Sequences
+
+...
+
+Decoder
+
+id:7059
+
+title: AveenoActive NaturalsUltra-CalmingFoamingCleanserrecommend next item#𝑿
+
+{#𝒉$Encode, …, #𝒉%Encode}{#𝑿
+
+𝑿
+
+𝑿
+
+id:3672
+
+Encoder
+
+𝑿
+
+id:11879id:7059id:3672
+
+title:
+
+𝒗: i
+
+id:7059 title:
+
+User Interacted Items1t-2t-1t𝑿
+66(5), 1165–1178. https:// doi. org/ 10. 1007/ s11423- 018- 9591-0
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Fall 2023
+
+Course number: 11726
+
+Title: Meaning in Language Lab (Self Paced)
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11737
+
+Title: Multilingual Natural Language Processing.
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11641
+
+Title: Machine Learning for Text and Graph-based Mining
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 11642
+
+Title: Search Engines
+Course number: 11743
+
+Title: Self-Paced Lab: IR
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+
+Course number: 11751
+
+Title: Speech Recognition and Understanding
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Fall 2023
+
+Course number: 11755
+
+Title: Machine Learning for Signal Processing
+
+Units: 12.0
+
+Section: A,B
+1947 – Starting Line of a Prelims Heat (from the 1948 Thistle). Unknown buggy in Lane 1, Theta Xi in Lane 2, and an unknown (barely visible) buggy in Lane 3.
+
+1947 – Prelim (Unknown Heat) Back Hills (from the 1948 Thistle). Beta’s snow plow buggy (with dragon) leading (far left), KapSig 2nd (far right), SigNu trailing (middle)
+
+Who wore it best? 1947 – DU and DTD on Hill 1 during what we now believe might be the Finals (from the 1948 Thistle).
+1948 saw the first independent orgs and the start of DTD’s run of greatness, but it wasn’t easy, as they barely held off KapSig for the championship.
+1947 – DU’s Champion Buggy, the “Flying Pork Barrel”, won a Reroll following a protested Finals (from the 1948 Thistle). 1947 Photos. Here are some photos from 1947. Some of the buggies are unidentified, so if you can ID those, let us know and we’ll update the captions.
+Information regarding the application of Title IX, including to admission and employment decisions, the sexual misconduct grievance procedures and process, including how to file a report or a complaint of sex discrimination, how to file a report of sexual harassment, and how the university responds to such reports is available at www.cmu.edu/title-ix . The Title IX 10coordinator may be reached at 412-268-7125 or tix@cmu.edu .
+
+1.7 The Carnegie Mellon Code
+Office of Title IX Initiatives, http://www.cmu.edu/title-ix/ , 412-268-7125
+
+Sexual Harassment Advisors, found in A ppendix A of the Policy Against Sexual
+
+Harassment and Sexual Assault;
+
+Survivor Support Network, found in A ppendix B of the Policy Against Sexual
+
+Harassment and Sexual Assault;
+
+Sexual Harassment Process and Title IX Coordina tors, found in section II of the Policy
+
+Against Sexual Harassment and Sexual Assault;
+
+University Police, 412-268-2323
+Information regarding the application of Title IX, including to admission and employment
+
+decisions, the sexual misconduct grievance procedures and process, including how to file a
+
+report or a complaint of sex discrimination, how to file a report of sexual harassment, and how
+
+the university responds to such reports is available at www.cmu.edu/title -ix. The Title IX
+
+coordinator may be reached at 5000 Forbes Ave., 140 Cyert Hall, Pittsburgh, PA 15213; 412 -268-
+
+
+Answer: 

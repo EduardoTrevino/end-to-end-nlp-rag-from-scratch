@@ -1,0 +1,41 @@
+Question: Which department in the School of Computer Science was formed in 2006?
+
+Context: 3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+School of Computer Science, University of Petroleum and Energy Studies, Dehradun, India
+
+6 Department of Computer Science, College of Computer Engineering and Sciences in Al-kharj, Prince Sattam Bin Abdulaziz University, P.O. Box 151, Al-Kharj 11942, Saudi Arabia
+
+Kemal Polat kpolat@ibu.edu.tr
+
+7 Department of Electrical and Electronics Engineering, Bolu Abant
+
+Izzet Baysal University, Bolu, Turkey
+a community computer education network that was born in Lithuania in 2005 and has been consolidated in more than 40 countries to discuss computer science concepts for school computer algorithm development workshops, which have been organized annually since their inception, bring together representatives from all these countries for rigorous work and decision making on good tasks to promote computer education in schools. On the one hand, the Bebras challenge is an international assembly driven
+A “school of computer science” is proposed Feeling that CSD’s needs were inadequately represented in MCS, CSD head A. Nico Habermann and then-CMU provost Angel Jordan in 1986 wrote a white paper proposing the creation of “a School of Computer Science.” Responding to concerns from the faculty that the change might be taking place too quickly, the university first established a free-floating Department of Computer Science. The experiment, which lasted two years, was an unqualified success.
+New departments, new areas of study Along the way, the Center for Machine Translation became the Language Technologies Institute, and other new departments were formed, including the Human-Computer Interaction Institute (1993), the Institute for Software Research (1999), the Machine Learning Department (2006) and the Ray and Stephanie Lane Center for Computational Biology (2009). SCS’s seven degree-granting departments draw faculty and students from a wide variety of disciplines, including
+SCS is officially formed CMU’s Faculty Senate in the fall of 1988 agreed to President Richard Cyert’s plan to elevate the Department of Computer Science to college status. In addition to the Computer Science Department, SCS also incorporated the Robotics Institute, the Center for Machine Translation, and researchers from the Information Technology Center, which had developed Andrew. On Dec. 13, 1988, Cyert (H’89) told faculty and staff that Habermann had been appointed CMU’s first Dean of
+
+
+Answer: 

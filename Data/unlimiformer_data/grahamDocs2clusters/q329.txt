@@ -1,0 +1,21 @@
+Question: What is the full name of the conference where the paper Learning to Ask Questions for Zero-shot Dialogue State Tracking, got published?
+
+Context: Paper title: 'PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Ta-Chung Chi, Yau-Shian Wang, Ruohong Zhang, Yiming Yang Summary: PESCO is presented, a novel contrastive learning framework that substantially improves the performance of zero-shot text classification and achieves state-of-the-art performance on four benchmark text
+Paper title: 'Augmenting Zero-Shot Dense Retrievers with Plug-in Mixture-of-Memories' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Paul N. Bennett, Chenyan Xiong, Arnold Overwijk, Suyu Ge, Corby Rosset, Jiawei Han Summary: None
+Omer Levy, Minjoon Seo, Eunsol Choi, and Luke Zettlemoyer. 2017. Zero-shot relation extraction via reading comprehension. In Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL 2017), pages 333–342, Vancou- ver, Canada. Association for Computational Linguis- tics.
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+visit the Human Resources Service website to learn more about Form I-9 and E-Verify and to schedule an appointment to complete the Form I-9. 5.2 Conference Travel Funding Students funded by a research project may receive travel funding according to policies set by the individual projects. Students who have no project funding may be provided with partial funding, with a larger amount available for travel to present a refereed conference paper.
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+
+
+Answer: 

@@ -1,0 +1,195 @@
+Question: Which LTI faculty member focuses on embodiment?
+
+Context: Elliot, A.J. (2006). ‘The hierarchical model of
+
+approach-avoidance motivation’, Motivation and emotion, 30, pp. 111-116.
+
+Jelić, A., Tieri, G., De Matteis, F., Babiloni, F. and
+
+Vecchiato, G. (2016). ‘The enactive approach to architectural experience: A neurophysiological perspective on embodiment, motivation, and affordances’, Frontiers in psychology, 7, pp. 481.
+
+Johnson, M. (2015). ‘The embodied meaning of
+[31] R. Schumann, W. Zhu, W. Feng, T.-J. Fu, S. Riezler, and W. Y. Wang, Velma: Verbalization embodiment of llm agents for vision and language navigation in street view, 2023.
+
+[32] P. Anderson, A. Shrivastava, J. Truong, et al., “Sim-to-real transfer for vision-and-language navigation,” in Proceedings of the 2020 Conference on Robot Learning, J. Kober, F. Ramos, and C. Tomlin, Eds., ser. Proceedings of Machine Learning Research, vol. 155, PMLR, 2021, pp. 671–681.
+Florian Schmidt and Thomas Hofmann. 2020. Bert as a teacher: Contextual embeddings for sequence-level reward.
+
+Ramprasaath R. Selvaraju, Michael Cogswell, Ab- hishek Das, Ramakrishna Vedantam, Devi Parikh, and Dhruv Batra. 2017. Grad-cam: Visual explana- tions from deep networks via gradient-based local- ization. In Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hovis, Pinnow
+
+Spring 2024
+
+Course number: 38110
+
+Title: ENGAGE in Service
+
+Units: 1.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Spring 2024
+
+Course number: 11590
+
+Title: LTI Minor Project - Advanced
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11604
+
+Title: Python for Data Science I
+
+Units: 6.0
+
+Section: A3
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11605
+Instructors: Kirmayer,Rose
+
+Spring 2024
+
+Course number: 11345
+
+Title: Undergrad Independent Study
+
+Units: 3-12
+
+Section: A,C,M,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rosenfeld,Mortensen,Fried,Callan
+
+Spring 2024
+
+Course number: 11390
+
+Title: LTI Minor Project - Juniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11411
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Inductees will be selected by a committee comprised of Carnegie Mellon University staff, faculty, a board of trustee member, coaches and a student representative. The Athletics Hall of Fame will endeavor to induct not less than 15 individuals for induction in its first year and not less than 6 in any year thereafter, subject to the discretion of the Nominating Committee. The below will set forth the criteria for selection to the Athletics Hall of Fame.
+In the spring, the Task Force partnered with SME Branding — a firm with more than 17 years of experience creating mascots for professional sports teams and universities — to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+At least two CMU faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the chair of graduate programs (the form for this is available on the LTI website). This feedback will help the student refine speaking skills with respect to talk structure, content, and delivery.
+
+4.1.3 Withdrawal of a Degree
+
+
+Answer: 

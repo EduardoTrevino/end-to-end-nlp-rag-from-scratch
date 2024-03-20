@@ -1,0 +1,33 @@
+Question: What is the full name of the conference where the paper The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Linkbetween Phonemes and Facial Features, got published?
+
+Context: Paper title: 'The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features' Published year: 2023 Publication venue or conference: Interspeech Authors: B. Raj, X. Zou, Xiang Li, Rita Singh, Yandong Wen, Liao Qu Summary: This work proposes an analysis pipeline to help explore the voice-face relationship in a fine-grained manner, i.s. phonemes v. facial anthropometric measurements (AM), and indicates that AMs are more predictable from vowels compared
+3 2 0 2
+
+l u J
+
+6 2
+
+]
+
+V C . s c [
+
+1 v 3 5 9 3 1 . 7 0 3 2 : v i X r a
+
+The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features
+
+Liao Qu 1,∗, Xianwei Zou 1,∗, Xiang Li 1,∗, Yandong Wen 2, Rita Singh 1, Bhiksha Raj 1,3
+
+1Carnegie Mellon University 2Max Planck Institute 3Mohamed bin Zayed University of Artificial Intelligence {liaoq,xianweiz,xl6,yandongw,rsingh,bhiksha}@andrew.cmu.edu
+
+Abstract
+Chase, H. LangChain, 10 2022. URL https://github.com/hwchase17/langchain.
+
+Dalmia, S., Yan, B., Raunak, V., Metze, F., and Watanabe, S. Searchable hidden intermediates for end-to-end models of decomposable sequence tasks. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 1882–1896, 2021.
+
+Défossez, A., Copet, J., Synnaeve, G., and Adi, Y. High ﬁdelity neural audio compression. arXiv
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+visit the Human Resources Service website to learn more about Form I-9 and E-Verify and to schedule an appointment to complete the Form I-9. 5.2 Conference Travel Funding Students funded by a research project may receive travel funding according to policies set by the individual projects. Students who have no project funding may be provided with partial funding, with a larger amount available for travel to present a refereed conference paper.
+additional resource links to assist with financial aid and tuition payments. Graduate Education – Financial Assistance provides resources for current students regarding emergency loans and conference travel grants. Handbook: For a complete breakdown of the MLT program and its policies, including information about internships, please view the MLT Handbook. Additional Info: For more information about the MLT program, contact Kate Schaich.
+
+
+Answer: 

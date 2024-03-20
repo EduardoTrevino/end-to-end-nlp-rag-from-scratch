@@ -1,0 +1,27 @@
+Question: What types of information does FiT5 integrate into a single unified model?
+
+Context: Common IR pipelines are typically cascade sys- tems that may involve multiple rankers and/or fusion models to integrate different informa- tion step-by-step. In this paper, we propose a novel re-ranker named Fusion-in-T5 (FiT5), which integrates document text information, retrieval features, and global document in- formation into a single unified model using templated-based input and global attention. Ex- periments on passage ranking benchmarks MS MARCO and TREC DL show that FiT5 sig-
+In this paper, we introduce Fusion-in-T5 (FiT5), a T5-based (Raffel et al., 2020) re-ranking model that collects ranking signals and ranks documents within a unified framework. FiT5 is designed to consolidate multiple IR features, including doc- ument texts, ranking features, and global docu- ment information, into a single learnable model. Specifically, the input to FiT5 is formulated us- ing a template that incorporates the document text with the ranking feature, which is represented as
+FiT5 performs re-ranking on a set of candidate doc- uments D = {d1, d2, ..., dn} retrieved by a first- stage retriever, given a query q. Unlike typical re-ranking models which calculate si solely based on the query and one document text, denoted as si = f (q, di), FiT5 goes beyond the approach by further incorporating the ranking feature ri and the information from all the documents in D, which can be formulated as si = f (q, di, ri, D).
+systems. Our comprehensive curriculum equips you with the skills and knowledge to develop the layers of technology involved in the next generation of massive information system deployments and analyze the data these systems generate. When you graduate, you’ll have a unified vision of these systems from your core courses; internship experience; and semester-long, group-oriented capstone project. MCDS graduates are sought-after software engineers, data scientists and project managers at leading
+11-777 Advanced Multimodal Machine Learning 11-791 Design of Intelligent Information Systems 10-605 Machine Learning with Large Datasets 10-608 Conversational Machine Learning
+
+10-702 Statistical Machine Learning
+
+15-624 Foundations of Cyber-Physical Systems 15-645 Database Systems 15-681 AI: Representation and Problem Solving
+
+15-688 Practical Data Science
+
+16-720 Computer Vision 16-725 Medical Image Analysis 16-772 Sensing and Sensors 16-824 Visual Learning and Recognition
+Carnegie Mellon University. This program seeks to educate students in the innovative use of
+
+artificial intelligence to create practical soluti ons in a wide variety of application areas. As
+
+artificial intelligence matures, th ere is a great need for students who can envision, design, plan
+
+and deliver solutions that integrate AI technolo gies such as deep learning, natural language
+
+processing, robotics and big data analytics into  new applications. The program stresses both 10
+
+
+Answer: 

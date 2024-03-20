@@ -1,0 +1,43 @@
+Question: At what conference was "The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features" published at?
+
+Context: Paper title: 'The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features' Published year: 2023 Publication venue or conference: Interspeech Authors: B. Raj, X. Zou, Xiang Li, Rita Singh, Yandong Wen, Liao Qu Summary: This work proposes an analysis pipeline to help explore the voice-face relationship in a fine-grained manner, i.s. phonemes v. facial anthropometric measurements (AM), and indicates that AMs are more predictable from vowels compared
+3 2 0 2
+
+l u J
+
+6 2
+
+]
+
+V C . s c [
+
+1 v 3 5 9 3 1 . 7 0 3 2 : v i X r a
+
+The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features
+
+Liao Qu 1,∗, Xianwei Zou 1,∗, Xiang Li 1,∗, Yandong Wen 2, Rita Singh 1, Bhiksha Raj 1,3
+
+1Carnegie Mellon University 2Max Planck Institute 3Mohamed bin Zayed University of Artificial Intelligence {liaoq,xianweiz,xl6,yandongw,rsingh,bhiksha}@andrew.cmu.edu
+
+Abstract
+This work unveils the enigmatic link between phonemes and facial features. Traditional studies on voice-face correla- tions typically involve using a long period of voice input, in- cluding generating face images from voices and reconstructing 3D face meshes from voices. However, in situations like voice- based crimes, the available voice evidence may be short and limited. Additionally, from a physiological perspective, each segment of speech - phoneme corresponds to different types of airflow
+5. Emoticons, 1982 Sure, it was just a joke, but (for better or worse) it’s endured for more than three decades. CMU researcher Scott Fahlman created the emoticon to clear up misunderstandings on computer message boards. We’ve been looking at the world sideways ever since. :-)
+campus phone), by approaching an escort team, or by stopping by the SafeWalk dispatch area in
+
+the University Center, Lower Level near the Po st Office Package Pick-Up window between
+
+10pm-2am. SafeWalk will escort to locations ap proximately one mile from campus. Additional 40
+
+SafeWalk information can be found at https://www.cmu.edu/admission/campus-
+
+experience/student-services.
+
+13.16  Copying, Printing and Mailing Services
+emergency phone locations, crime prevention, lost and found, fingerprint services, and annual
+
+statistic reports. Carnegie Mellon University publishes an annual campus security and fire safety report describing the university’s security, alcohol and drug, sexual assault, and fire safety
+
+policies. The report also contains statistics about the number and type of crimes committed on the campus and the number and cause of fires in campus residence facilities during the preceding
+
+
+Answer: 

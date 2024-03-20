@@ -1,0 +1,156 @@
+Question: In spring 2024, How many units is course 15112 worth?
+
+Context: Series in 2022. Again, this of course says noth- ing about the fundamental limits of language models, and even GPT-2, for example, seems to be able to infer from distributional evidence, that the answer to Is 1900 in the past or in the future? is It is in the past, while the answer to Is 2022 in the past or in the future?, is It is in the future. Obviously, since lan- guage models are not generally trained on time-stamped text, there is a limit to what can be inferred from distributional
+Dataset The base training dataset for the experiments in this paper contains 268 GB of Python, Java and JavaScript ﬁles from The Stack v1.1 (Kocetkov et al., 2022) after removing data from opt- out requests, near-deduplication, PII-redaction (see Section 4), and ﬁltering based on line-length and percentage of alphanumeric characters. This dataset was also decontaminated by removing ﬁles that contained test-samples from the following benchmarks: HumanEval (Chen et al., 2021), APPS (Hendrycks et
+Sachan et al. (2022) evaluated their method using only QA (but not IR) datasets and their main results are for an impractically large three-billion parameter instruction-finetuned model, which was used essentially as a re-ranker (in a zero-shot scenario). The smallest model used by Sachan et al. (2022) had 250 million parameters (compared to our 30-million MiniLM model). It was evaluated only on the Natural Questions (NQ) collection (Kwiatkowski et al., 2019) where it outperformed BM25 by about
+Spring 2024
+
+Course number: 15151
+
+Title: Mathematical Foundations for Computer Science
+
+Units: 12.0
+
+Section: A,B,Lec
+
+Days: MWF,TR
+
+Start: 01:00PM,10:00AM,02:00PM
+
+End: 10:50AM,01:50PM,02:50PM
+
+Room: GHC 4307,GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Peng
+
+Spring 2024
+
+Course number: 15195
+
+Title: Competition Programming I
+
+Units: 5.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: GHC 4307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sleator
+
+Spring 2024
+Instructors: Xhakaj,Reis,Rivers
+
+Spring 2024
+
+Course number: 15111
+
+Title: College Programming and Computer Science
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pre-College Pittsburgh
+
+Instructors: Stehlik
+
+Spring 2024
+
+Course number: 15112
+
+Title: Fundamentals of Programming and Computer Science
+
+Units: 12.0
+
+Section: E,I,F,D, ,P,C,J,A,K,W,B,Lec 1,Lec 2,H,L,M,R,O,Q,G,N
+
+Days: W,F,UTR,TR
+Course number: 15112
+
+Title: Fundamentals of Programming and Computer Science
+
+Units: 12.0
+
+Section: W
+
+Days: UMTWR
+
+Start: 11:00AM
+
+End: 12:30PM
+
+Room: TBA
+
+Locations: Doha, Qatar
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 15150
+
+Title: Principles of Functional Programming
+
+Units: 12.0
+
+Section: A,B
+
+Days: MTWRF
+
+Start: 09:30AM,11:00AM
+
+End: 10:50AM,12:20PM
+
+Room: GHC CLSTR
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Grodin
+
+Summer 2024
+
+Course number: 15213
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+MCDS students must also pass the undergraduate course 15-513 Introduction to Computer Systems (6 units), typically in the summer before their program commences. The student must pass with a grade of B- or better. Failure to pass the course means that the student takes 15-213 during either the fall or spring semester. Note that in both cases the units do not count toward the 144 eligible units of study. Click here to see the MCDS Course Map. Some example courses of study are included below.
+
+
+Answer: 

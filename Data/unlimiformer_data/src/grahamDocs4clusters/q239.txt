@@ -1,0 +1,211 @@
+Question: What does POMDP stand for?
+
+Context: The WebArena environment is denoted as E= ⟨S, A, O, T ⟩ with state space S, action space A (§2.4) and observation space O (§2.3). The transition function T : S × A−→ S is deterministic, and it is defined by the underlying implementation of each website in the environment. Performing a task described by a natural language intent i can be formulated as a partially observable Markov decision process (POMDP): at each time step t, an agent issues an action at∈ A given the partial observation ot∈ O.
+Acc. TP. Latency Mem. Energy & CO2
+
+BSZ
+
+Fixed batching Poisson batching Single stream Offline
+
+✓ ✗ ✗ ✗
+
+✓ ✓ ✗ ✓
+
+✓ ✓ ✓ ✗
+
+✓ ✓ ✓ ✓
+
+✓ ✓ ✓ ✓
+
+User specified Random 1 User specified
+The Neyman-Scott process (NSP) was ﬁrst proposed by Neyman and Scott (1958). NSPs are a class of hierarchical point process models built by stacking Poisson processes into a network. NSPs were originally univariate, i.e., can only be applied to events with one type or mark. Hong and Shelton (2022) introduce multivariate NSPs with hi- erarchical structures, called deep Neyman-Scott processes (DNSPs). We use “deep” to differentiate our work from other work that only has one hidden layer (e.g.,
+Course number: 19694
+
+Title: Leadership and Innovation Management
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cohon
+
+Fall 2023
+
+Course number: 19695
+
+Title: Internship Practicum
+
+Units: 0-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Matthews
+
+Fall 2023
+
+Course number: 19700
+
+Title: Directed Study in EPP: Graduate
+
+Units: 0-36
+
+Section: A,PP
+Start: 01:00PM,12:00PM,11:00AM,02:00PM
+
+End: 11:50AM,12:50PM,01:50PM,03:20PM
+
+Room: PH A18B,POS 153,SH 105,POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sherry
+
+Fall 2023
+
+Course number: 15445
+
+Title: Database Systems
+
+Units: 12.0
+
+Section: A,W,B
+
+Days: MW
+
+Start: 10:00AM,02:00PM
+
+End: 11:20AM,03:20PM
+
+Room: TEP 1403,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Patel, Pavlo,Pavlo, Patel
+
+Fall 2023
+
+Course number: 15451
+
+Title: Algorithm Design and Analysis
+End: 12:20PM
+
+Room: POS 147
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Habib
+
+Fall 2023
+
+Course number: 17607
+
+Title: Privacy by Design Practicum
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Habib
+
+Fall 2023
+
+Course number: 17608
+
+Title: Privacy Engineering Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sadeh, Habib
+
+Fall 2023
+SAE’s buggy as a “sleek aluminum auto”, and DTD’s letter to the editor in 1951 complaining that if a team had used a “Buick grill” they would have placed in Design Comp, we’ve determined that Buggy #4 (2nd from the left in the Design Comp photo below) is actually SAE’s design winner. For a better look at the design, check out the 1950 photos, which is a similar style (though with different wheels, a different pushbar, and likely some other changes).] 1949 Photos. Here are photos from 1949.
+Driver: Person who travels with a buggy and controls the vehicles via steering and braking systems.
+
+Pushbar: Structure attached to a buggy that a person pushes to propel that buggy forward.
+
+Pusher: Person who propels a buggy via a pushbar along one of the five hills of the buggy course.
+
+Shell: Entire outer structure or covering of a buggy that determines that buggy's aerodynamic characteristics.
+This year Fringe is planning to roll four different vehicles, built and maintained in the Fringe workshop in the basement of the East Campus Garage, known as the "Froom."
+
+"We're used to saying everything with 'fr' in front of it but when we say something in front of other people, it gets them confused," said Fringe head mechanic Dave Singh, who will graduate in May with a bachelor's degree in mechanical engineering and biomedical engineering.
+Multi-processor machines emerge CSD emerged from the brief crisis as a highly agile, interdisciplinary entity, with many new faculty members taking joint appointments with other CMU departments. Several large projects emerged in the Computer Science Department, including C.mmp, the first shared-memory multiprocessor computer, with 16 processing units, and Cm*, a 50-processor computer. These computers were the forerunners of today’s ubiquitous multi-core desktops and laptops.
+metered , or by the hour in the garage. Parking and Transportation Services will ticket any car
+
+parked in a permit area without a  permit or at an expired meter. The city monitors the metered
+
+parking along Margaret Morrison, Frew and Tech Streets and will ticket at expired meters as
+
+well.
+
+The university offers shuttle and escort services operated through University Po lice. The Shuttle
+
+Service operates several routes within Oakland, Squirrel Hill and Shadyside areas, as well as to
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

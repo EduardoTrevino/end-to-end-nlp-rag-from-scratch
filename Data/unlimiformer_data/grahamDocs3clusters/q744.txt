@@ -1,0 +1,180 @@
+Question: Which section of the freeroll portion of the buggy course do buggies make a sharp right-hand turn?
+
+Context: 3.3 Features
+
+In this section, we outline the features used as input vectors (i.e., ui vector) for our prediction model, which seeks to properly predict the hedging strat- egy for the tutor’s upcoming turn. In total, we have a vector with a length of 438 to represent a turn.
+
+3.3.1 Turn embedding
+Act : move forward Obs : Just to the left of you there is a closed green lockablebox Act : turn left Obs : Right in front of you there is a closed green lockablebox Act : toggle Obs : Right in front of you there is a red apple Act : toggle Obs : Right in front of you there is a yellow apple Success! New episode. Obs : 1 steps in front of you and 1 steps to the right there is a
+
+closed blue lockablebox
+Caretaker says: brown Act : turn left Obs : 4 steps in front of you there is a closed brown lockablebox 1 steps in front of you and 3 steps to the right there is a
+
+Caretaker says: blue Act : move forward Obs : Just to the left of you there is a closed blue lockablebox 2 steps in front of you there is a caretaker 3 steps in front of you and 2 steps to the right there is a
+
+closed brown lockablebox
+Instructors: Hoffmann
+
+Spring 2024
+
+Course number: 15614
+
+Title: Bug Catching: Automated Program Verification
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martins
+
+Spring 2024
+
+Course number: 15617
+
+Title: HOT Compilation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Crary
+
+Spring 2024
+
+Course number: 15618
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: DH A302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Iyer, Crane
+
+Fall 2023
+
+Course number: 21393
+
+Title: Operations Research II
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 03:00PM
+
+End: 03:50PM
+
+Room: WEH 8220
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frieze
+
+Fall 2023
+
+Course number: 21441
+
+Title: Number Theory
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 02:50PM
+
+Room: PH 226A
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: WEH 5320
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Butkovic
+
+Spring 2024
+
+Course number: 84387
+
+Title: Remote Systems and the Cyber Domain in Conflict
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Schwartz
+
+Spring 2024
+
+Course number: 84389
+
+Title: Terrorism and Insurgency
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: WEH 5312
+Sweepstakes Slang
+
+Buggy: Vehicle being raced and also a nickname for the competition.
+
+Chute: A section of the freeroll portion of the buggy course (near the southwestern end of Frew Street at its intersection with Schenley Drive) where buggies make the sharp righthand turn from Schenley Drive onto Frew Street.
+
+Chute Flagger: Team member who provides a signal for buggy drivers to know when to start the right-hand turn from Schenley Drive onto Frew Street.
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+1949 – Buggies at the top of Hill 2 entering the freeroll (from the BAA Gallery, courtesy of the CMU Archives). PiKA is the leading buggy (center of the photo), unknown buggies are in Lane 1 (far left) and Lane 2 (left).
+
+
+Answer: 

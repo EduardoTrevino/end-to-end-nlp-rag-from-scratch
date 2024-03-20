@@ -1,0 +1,53 @@
+Question: What is the full name of the conference where the paper ChatGPT MT: Competitive for High- (but Not Low-) Resource Languages, got published?
+
+Context: 3 2 0 2
+
+p e S 4 1
+
+] L C . s c [
+
+1 v 3 2 4 7 0 . 9 0 3 2 : v i X r a
+
+ChatGPT MT: Competitive for High- (but not Low-) Resource Languages
+
+Nathaniel R. Robinson1,2∗
+
+Perez Ogayo1∗ David R. Mortensen1 Graham Neubig1
+
+1Language Technologies Institute, Carnegie Mellon University 2 Center for Language and Speech Processing, Johns Hopkins University nrobin38@jhu.edu, {aogayo, dmortens, gneubig}@cs.cmu.edu * Authors contributed equally
+
+Abstract
+first exper- imental evidence for an expansive set of 204 languages, along with MT cost analysis, using the FLORES-200 benchmark. Trends reveal that GPT models approach or exceed traditional MT model performance for some high-resource languages (HRLs) but consistently lag for low- resource languages (LRLs), under-performing traditional MT for 84.1% of languages we cov- ered. Our analysis reveals that a language’s resource level is the most important feature in determining ChatGPT’s relative
+Aditi Chaudhary, Jiateng Xie, Zaid Sheikh, Graham Neubig, and Jaime Carbonell. 2019. A little annota- tion does a lot of good: A study in bootstrapping low- resource named entity recognizers. In Proceedings of the 2019 Conference on Empirical Methods in Nat- ural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pages 5164–5174, Hong Kong, China. Association for Computational Linguistics.
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+equivalent (an oral presentation that at least t wo SCS faculty certify as being of
+
+conference- talk quality).
+
+Programming:  This is satisfied by demonstrating competence in computer programming
+
+of language technology; this is normally satisfied in the course of the student's research
+
+and/or project work.
+
+LTI Ph.D.  Graduate Student Handbook  Page 16
+
+Teaching:  This is satisfied by two (2) successful Teaching Assistantships ( TA-ships), as
+study or meet up with friends. GSA also maintai ns a website of graduate student resources on
+
+and off-campus. Through GSA’s continued funding  for professional development and research
+
+conferences, the GSA/Provost Conference Funding  Program and GSA/Provost GuSH Research
+
+Grants are able to run, as managed by the Gradua te Education Office. As we move forward, GSA
+
+will continue to rely on your feedback to impr ove the graduate student experience at CMU. Feel
+
+
+Answer: 

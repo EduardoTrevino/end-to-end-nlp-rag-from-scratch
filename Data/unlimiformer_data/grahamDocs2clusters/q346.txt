@@ -1,0 +1,47 @@
+Question: What are the names of the people from LTI who co-authored the paper COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements?
+
+Context: Paper title: 'COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Haojie Zhu, Thomas Davidson, Xuhui Zhou, Akhila Yerukola, Jena D. Hwang, Swabha Swayamdipta, Maarten Sap Summary: COBRA frames are introduced, the first context-aware formalism for explaining the intents, reactions, and harms of offensive or biased statements grounded in
+Xuhui Zhou, Hao Zhu, Akhila Yerukola, Thomas David- son, Jena D. Hwang, Swabha Swayamdipta, and Maarten Sap. 2023. Cobra frames: Contextual rea- soning about effects and harms of offensive state- ments. In Findings of ACL.
+
+Jan Zienkowski, Jef Verschueren, and Jo Östman. 2011. Discursive pragmatics: A platform for the pragmatic study of discourse. In Disursive Pragmatics, pages 1–13. John Benjamins Publishing Company.
+
+A Tasks and Datasets
+Xuhui Zhou, Hao Zhu, Akhila Yerukola, Thomas David- son, Jena D. Hwang, Swabha Swayamdipta, and Maarten Sap. 2023. Cobra frames: Contextual rea- soning about effects and harms of offensive state- ments. In Findings of ACL.
+
+A Implementation Details
+
+A.1 Explanation Generation with LLMs
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+16. CAPTCHAs, 2000 “Spam” and malicious attacks were a growing problem on the Internet when hackers developed automated “bots” that could sign up for email and other Web services without human intervention. Luis von Ahn (CS’03,’05), Nick Hopper (CS’04), John Langford (CS’02) and CMU professor Manuel Blum invented a “Completely Automated Public Turing Test to tell Computers and Humans Apart,” or CAPTCHA, to help foil the bots. A later variation, reCAPTCHA, is helping digitize old books and
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+
+
+Answer: 

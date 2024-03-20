@@ -1,0 +1,170 @@
+Question: According to ChatGPT MT, what is the most important feature in determining ChatGPT's relative ability to translate a language?
+
+Context: first exper- imental evidence for an expansive set of 204 languages, along with MT cost analysis, using the FLORES-200 benchmark. Trends reveal that GPT models approach or exceed traditional MT model performance for some high-resource languages (HRLs) but consistently lag for low- resource languages (LRLs), under-performing traditional MT for 84.1% of languages we cov- ered. Our analysis reveals that a language’s resource level is the most important feature in determining ChatGPT’s relative
+Prior research suggests that ChatGPT output qual- ity is sensitive to language script (Bang et al., 2023). Our own analysis in §3.4 actually suggests that script is the least important language feature in pre- dicting ChatGPT’s MT effectiveness. However, dif- ferences in performance are clear when comparing scripts used for the same language. Table 8 shows one script typically outperforming the other, by an average of 14.3 chrF points for zero-shot. Five- shot contexts narrowed the gap slightly
+1. MT scores on 203 languages for ChatGPT and comparisons with GPT-4, Google Translate, and NLLB (Team et al., 2022)
+
+In recent years, generative LLMs have shown increasingly impressive translation abilities (Rad- ford et al., 2019; Brown et al., 2020). Even more recently, LLM tools like ChatGPT have become popular and accessible to end users. This marks an important shift, since a majority of LLM users are now consumers rather than researchers. The
+Fall 2023
+
+Course number: 82703
+
+Title: Translation Technologies
+
+Units: 9-12
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCullough
+
+Fall 2023
+
+Course number: 82704
+
+Title: Translation Workshop I
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCullough
+
+Fall 2023
+
+Course number: 82706
+
+Title: Translation Workshop III
+
+Units: 18.0
+Title: Translation Workshop 1
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCullough
+
+Fall 2023
+
+Course number: 82482
+
+Title: Introduction to Translation
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: BH 136E
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shapiro
+
+Fall 2023
+
+Course number: 82483
+
+Title: Translation as a Profession I
+
+Units: 3.0
+
+Section: A
+
+Days: R
+
+Start: 10:00AM
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Information retrieval, machine translation and speech technology are used daily by the general public, while text mining, natural language processing and language-based tutoring are common within more specialized professional or educational environments. The LTI prepares students for this world by offering a minor that gives you the opportunity to not only learn about language technologies, but to also apply that knowledge through a directed project.
+9. Machine translation, 1984 Every “Star Trek” fan knows about the universal translator. Scientists in the Language Technologies Institute are moving those gadgets from science fiction to real life. Their pioneering systems include handheld, portable speech-to-speech translators, just like those depicted on the USS Enterprise.
+https://www.cmu.edu/policies/faculty/evaluation- certification -english -fluency-
+
+instructors.html .
+
+The fluency of all instructional personnel will be rated by Language Support in the S tudent
+
+Academic Success Center to determine at what level of responsibility the student can TA. In addition to administering the International Teaching Assistant (ITA) Test (a mandatory screening for all non -native speakers of English), Language Support in the Student Academic
+
+
+Answer: 

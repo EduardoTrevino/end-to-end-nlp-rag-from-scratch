@@ -1,0 +1,199 @@
+Question: Who is teaching the question answering course at LTI?
+
+Context: The Domains of the Pile were then each separately ablated from pretraining to understand the effect of their absence. To evaluate their absence on the performance of downstream domains, we chose to use the question answering task expressly because there is a wide variety of similarly formatted evaluation datasets available. For these question answering datasets we train only on Natural Questions (Kwiatkowski et al., 2019), a popular QA dataset, to teach the model the general task. For
+Tom Kwiatkowski, Jennimaria Palomaki, Olivia Redfield, Michael Collins, Ankur Parikh, Chris Alberti, Danielle Epstein, Illia Polosukhin, Jacob Devlin, Kenton Lee, et al. Natural Questions: a benchmark for question answering research. Transactions of the Association for Computational Linguistics, 7:453–466, 2019.
+
+Phuc H. Le-Khac, Graham Healy, and Alan F. Smeaton. Contrastive representation learning: A framework
+
+and review. IEEE Access, 8:193907–193934, 2020.
+Karl Cobbe, Vineet Kosaraju, Mohammad Bavar- ian, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, and John Schulman. 2021. Training veri- fiers to solve math word problems. arXiv preprint arXiv:2110.14168.
+
+Jacob Eisenstein, Daniel Andor, Bernd Bohnet, Michael Collins, and David Mimno. 2022. Honest students from untrusted teachers: Learning an interpretable question-answering pipeline from a pretrained lan- guage model. arXiv preprint arXiv:2210.02498.
+Instructors: Mitamura
+
+Fall 2023
+
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar:
+
+Units: 6.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11697
+
+Title: Introduction to Question Answering:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: PH A18A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg, Mitamura
+
+Fall 2023
+
+Course number: 11700
+Title: Introduction to Deep Learning
+
+Units: 12.0
+
+Section: A,M,R,B,C,D,SV,Lec 1,Lec 3,Lec 2
+
+Days: TBA,F,MW
+
+Start: ,08:00AM
+
+End: ,09:20AM
+
+Room: BH A51,DNM DNM,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11797
+
+Title: Question Answering
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: GHC 4102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mitamura, Nyberg
+Room: BH A51, ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11490
+
+Title: LTI Minor Project - Seniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11492
+
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+standard course, because they provide a good introduction to the broad range of research done at
+
+the LTI. Students do not register for the LTI Orientation, nor do they receive a grade; however, the department is serious about its expectation that new students will attend these talks.
+
+For many years, these talks were called "the Immigration Course (IC)." The intuition behind this
+
+name is that the talks help orient newly -arrived students – immigrants into the CMU
+appropriate area, whether it should be in the Focus Area. I f approved , it will be added to the LTI
+
+Focus Area webpage.
+
+A “Task -Orientation Focus Course ” is a course belonging to that LTI Focus Area, as listed on
+
+the LTI’s “Course Categories” webpage.
+
+An LTI “ lab course ” is a course in the list of lab courses defined o n the LTI ’s “Course Categories”
+
+webpage .
+
+3.1.2 Grade Requirements
+
+
+Answer: 

@@ -1,0 +1,224 @@
+Question: What was  H. John Heinz III College previously called?
+
+Context: correlation volume between the features extracted by the two encoders as described in Sec. III-A. The correlation volume is then fed into a Gated Recurrent Unit (GRU) that iteratively refines the estimated flow map. Each iteration i of the GRU update outputs a flow update ∆fi, which is added to the previous flow estimate fi−1 to obtain the updated flow map fi. Following [30], we employ an additional context encoder that extracts features only from the LiDAR BEV image, which is additionally fed
+J. P. Morgan AI Research, UK North Carolina State University, USA Oakland University, USA University of Porto, Portugal University of Birmingham, UK State University of Maringá, Brazil . Allegheny College, USA University of Passau, Germany Universidad de Cádiz, Spain University College London, UK University of Passau, Germany
+
+Keynotes
+
+Search-Based Software Engineering for Learning-Enabled Self-Adaptive Systems
+
+Betty H. C. Cheng
+
+Michigan State University, USA
+Your task will be considered successful if the entities are clustered into groups that consistently refer to the same Wikipedia articles.
+
+1) B.A
+
+Context Sentences: a) "He matriculated at Jesus College , Oxford on 26 April
+
+1616 , aged 16 , then transferred to Christ ’s College , Cambridge ( B.A 1620 , M.A. 1623 , D.D. 1640 ) ."
+
+2) M.D.
+
+Context Sentence: a) "David Satcher , M.D. , Ph.D. ." b) "Livingston Farrand , M.D. , LL.D ." c) "Dr. James Curtis Hepburn , M.D. , LL.D ."
+Course number: 90918
+
+Title: Ph.D. Seminar III
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HBH 1006
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Koenig
+
+Fall 2023
+
+Course number: 90925
+
+Title: Ph.D. Readings and Research
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gaynor
+
+Fall 2023
+
+Course number: 90932
+
+Title: Independent Study
+
+Units: 1-24
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shen
+
+Fall 2023
+
+Course number: 90490
+
+Title: Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 90700
+
+Title: Heinz Journal
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Borzutzky
+
+Fall 2023
+
+Course number: 90703
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mehalik
+
+Spring 2024
+
+Course number: 90490
+
+Title: Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Acquisti
+
+Spring 2024
+
+Course number: 90700
+
+Title: Heinz Journal
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Borzutzky
+
+Spring 2024
+
+Course number: 90713
+1948: The Graduate School of Industrial Administration, later renamed the David A. Tepper School of Business, focusing on quantitative analysis and pioneering the field of management science. 1968: School of Urban and Public Affairs, later renamed the H. John Heinz III College, providing graduate training for work in the public sector. 1986: School of Computer Science, pioneering computing and artificial intelligence, led by interdisciplinary efforts of Allen Newell and Herbert Simon.
+Notes: *Students taking courses in Heinz College and Tepper School of Business (MBA and Computational Finance programs) must review and follow separate academic calendars; Similarly, students taking doctoral courses must review and follow the doctoral calendar for those courses. **Summer Semester includes semester-length courses, as well as mini-5 and mini-6. Courses previously offered as Summer Session One (6-weeks) correspond & follow the Mini-5 dates and deadlines. Summer Semester Two
+SCIENCE’S FIRST-
+
+YEAR STUDENTS
+
+WERE WOMEN
+
+IN 2019
+
+Nearly triple the
+
+national average“ My Heart is in the Work. ”
+
+Andrew Carnegie, Founder
+
+November 15, 1900
+
+49.8 %
+
+87%  U.S. 13%  InternationalSCHOOLS AND COLLEGES
+
+College of Engineering
+
+College of Fine Arts
+
+Dietrich College of Humanities
+
+and Social Sciences
+
+Heinz College of Information Systems
+
+and Public Policy
+
+Mellon College of Science
+
+School of Computer Science
+
+Tepper School of Business
+
+
+Answer: 

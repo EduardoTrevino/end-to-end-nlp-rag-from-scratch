@@ -1,0 +1,158 @@
+Question: What determines a buggy's aerodynamic characteristics?
+
+Context: We then measured the performance differences between the repaired and unre- paired versions of the applications. We found that in our 21 benchmarks, 5 had either no warnings or warnings that could not be repaired without introducing buggy behav- ior. For example, a warning about instantiating an object in a loop could be “unfixable” as a reference to each instantiated object is held in an array. So, moving the instan- tiation outside of the loop would result in an array with the same reference
+candidate element for B is an airplane is essential for determining if A is a {ﬂying} event, since if B was a different vehicle like a car, A would be a different kind of traveling event. On the other hand, there is no need to specify any explicit type constraints for A, since the implicit ones are enough to determine if A is a ﬂying event.
+The BIG-bench HHH Eval [39, 3] was specifically designed to evaluate a model’s performance in terms of helpfulness, honesty, and harmlessness (HHH). It is a Multiple-Choice (MC) task, which tests the models’ ability to select superior answers from two reference answers10. We calculate the likelihood of the model preferring one answer over the other when presented with two candidate answers simultaneously. The MC accuracy results are displayed in Table 2. It can be observed that Dromedary
+Instructors: Holmes,Sontag
+
+Fall 2023
+
+Course number: 48116
+
+Title: Introduction to Building Performance
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: MM 303
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sawyer
+
+Fall 2023
+
+Course number: 48200
+
+Title: Architecture Design Studio: POIESIS STUDIO 3
+
+Units: 18.0
+
+Section: A,E,B,C,D,Lec
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 200,MM A14
+
+Locations: Pittsburgh, Pennsylvania
+Fall 2023
+
+Course number: 48050
+
+Title: Study Abroad
+
+Units: 0.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 48095
+
+Title: Spatial Concepts for Non-Architecture Majors
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 01:00PM
+
+End: 02:50PM
+
+Room: CFA 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Barbuto
+
+Fall 2023
+
+Course number: 48100
+
+Title: Architecture Design Studio: POIESIS STUDIO 1
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: PCA A16
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 54386
+
+Title: Scenic Design Skills: 3D Model Making
+
+Units: 4.0
+
+Section: A3
+
+Days: W
+
+Start: 01:00PM
+
+End: 03:20PM
+
+Room: PCA 307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Warren
+
+Spring 2024
+
+Course number: 54390
+
+Title: Composition for Theatrical Sound Design 2
+
+Units: 9.0
+
+Section: A
+
+Days: M
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: PCA 210
+Driver: Person who travels with a buggy and controls the vehicles via steering and braking systems.
+
+Pushbar: Structure attached to a buggy that a person pushes to propel that buggy forward.
+
+Pusher: Person who propels a buggy via a pushbar along one of the five hills of the buggy course.
+
+Shell: Entire outer structure or covering of a buggy that determines that buggy's aerodynamic characteristics.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+SAE’s buggy as a “sleek aluminum auto”, and DTD’s letter to the editor in 1951 complaining that if a team had used a “Buick grill” they would have placed in Design Comp, we’ve determined that Buggy #4 (2nd from the left in the Design Comp photo below) is actually SAE’s design winner. For a better look at the design, check out the 1950 photos, which is a similar style (though with different wheels, a different pushbar, and likely some other changes).] 1949 Photos. Here are photos from 1949.
+
+
+Answer: 

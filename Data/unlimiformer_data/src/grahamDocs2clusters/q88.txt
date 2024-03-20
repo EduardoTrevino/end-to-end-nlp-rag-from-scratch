@@ -1,0 +1,187 @@
+Question: Does LTI offer a course on text mining?
+
+Context: Instructors: Li
+
+Fall 2023
+
+Course number: 11741
+
+Title: Machine Learning for Text and Graph-based Mining
+
+Units: 12.0
+
+Section: A,PP
+
+Days: TBA,TR
+
+Start: ,11:00AM
+
+End: ,12:20PM
+
+Room: TBA,HH B131
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 11742
+
+Title: Search Engines:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room:  ,MI 348
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Mortensen, Oflazer
+
+Fall 2023
+
+Course number: 11441
+
+Title: Machine Learning for Text and Graph-based Mining
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 11442
+
+Title: Search Engines
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: MI 348
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11641
+
+Title: Machine Learning for Text and Graph-based Mining
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 11642
+
+Title: Search Engines
+Information retrieval, machine translation and speech technology are used daily by the general public, while text mining, natural language processing and language-based tutoring are common within more specialized professional or educational environments. The LTI prepares students for this world by offering a minor that gives you the opportunity to not only learn about language technologies, but to also apply that knowledge through a directed project.
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+Here are some example schedules for completing the MIIS-16 program. Example Course of Study #1 This schedule would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems.
+
+Fall 1: - Machine Learning - Search Engines - Design and Engineering of Intelligent Systems\ Directed Study
+
+Spring:
+
+Language and Statistics
+
+Natural Language Processing
+
+Question Answering
+
+Directed Study
+
+MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+
+
+Answer: 

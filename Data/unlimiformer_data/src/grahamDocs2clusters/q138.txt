@@ -1,0 +1,29 @@
+Question: Is there a YouTube channel for The Kiltie Band?
+
+Context: Fabio Petroni, Aleksandra Piktus, Angela Fan, Patrick Lewis, Majid Yazdani, Nicola De Cao, James Thorne, Yacine Jernite, Vladimir Karpukhin, Jean Mail- lard, et al. 2020. Kilt: a benchmark for knowl- arXiv preprint edge intensive language tasks. arXiv:2009.02252.
+In this section, we explore if the multi-task training of AAR can endow the retriever with better gener- alization to the target task. Specifically, we choose KILT (Petroni et al.) as our multi-task data source, which consists of 5 categories (Fact Checking, En- tity Linking, Slot Filling, Open Domain QA, and Dialogue). We take one representative subtask per category to form a mixture of multiple source tasks. Figure 7 illustrates that ANCE trained with multi-task KILT can consistently
+We provide a detailed selection of the source tasks here, using a variety of source and target tasks to an- alyze. MSMARCO QA, KILT-TriviaQA, and NQ belong to Open Domain QA, while KILT-T-REx and zsRE belong to Slot Filling. MMLU belongs to Multi-task Language Understanding, which is
+
+3https://huggingface.co/OpenMatch/t5-ance 4https://huggingface.co/facebook/contriever-msmarco
+
+Tt MMLU NQ zsRE 75.1 74.9 77.2
+
+Ts MSMARCO QA KILT-TriviaQA KILT-T-REx
+
+44.8 43.6 44.1
+
+46.7 46.4 45.9
+Interested in Joining?
+
+Please email the following information to Kiltie Band Director Jeremy Olisar.
+
+Name High School Address at Carnegie Mellon (if known) Home address Cell number Home number Whether you plan on being in the band or colorguard If in the band what instrument(s) you play Whether you need to borrow an instrument or equipment
+
+To see and hear the band in action, visit our YouTube channel
+The Kiltie Band is a campus organization recognized by Student Senate and administered by the Department of Athletics, Physical Education and Recreation. Membership is open to all members of the campus/community without audition. Participants must do their best to promote the success of the ensemble through attendance, attitude, and dependability.
+The Kiltie Marching Band consists of musicians and colorguard and plays at all Carnegie Mellon home football games. There is a new show every week with music ranging from traditional marches and oldies to current pop tunes and jazz standards.
+
+After football season, the Kiltie Concert Band plays a holiday concert and two spring concerts, including a performance at Carnegie Mellon’s Spring Carnival. Additionally, a part of the band gets together and acts as a pep band for the basketball teams.
+
+
+Answer: 

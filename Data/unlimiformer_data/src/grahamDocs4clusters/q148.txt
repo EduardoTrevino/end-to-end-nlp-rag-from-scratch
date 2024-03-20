@@ -1,0 +1,247 @@
+Question: In fall 2023, What is the course number for Undergraduate Research in Computational Biology?
+
+Context: Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+466 College & Research Libraries
+
+May 2023
+12748 Findings of the Association for Computational Linguistics: EMNLP 2023, pages 12748–12755 December 6-10, 2023 ©2023 Association for Computational Linguistics
+
+367
+
+225
+
+399
+
+3,395
+
+2,864
+
+50%
+
+7,160
+
+381
+
+11,456
+
+Test
+
+Test
+
+366
+
+2Followingpreviousconventions,wedon’tconsiderthesituationofmissingclassesorliteralsinthisstudy.
+
+1,660,390
+
+232
+
+997
+
+7,230
+
+1,807
+
+Table2:DataStatisticsoftheKGcompletiondataset.ForthedefinitionofIncompleteness,pleaserefertoSection2.3.
+
+1,667,397
+
+Incompleteness
+Title: String Algorithms
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: CFA 102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kingsford
+
+Fall 2023
+
+Course number: 02500
+
+Title: Undergraduate Research in Computational Biology
+
+Units: 6-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Fall 2023
+
+Course number: 02512
+
+Title: Computational Methods for Biological Modeling and Simulation
+
+Units: 9.0
+Course number: 02702
+
+Title: Computational Biology Seminar
+
+Units: 3.0
+
+Section: A
+
+Days: F
+
+Start: 10:30AM
+
+End: 12:00PM
+
+Room: OFF PITT
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carja
+
+Fall 2023
+
+Course number: 02712
+
+Title: Computational Methods for Biological Modeling and Simulation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Schwartz, Carja
+
+Fall 2023
+
+Course number: 02718
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Fall 2023
+
+Course number: 02801
+
+Title: Computational Biology Internship:
+
+Units: 3.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Stenger
+
+Fall 2023
+
+Course number: 02900
+
+Title: Ph.D. Thesis Research
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stenger
+
+Fall 2023
+
+Course number: 15090
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+A student may not take more than 60 units per semester, without permission from their academic advisor. Students must maintain full-time enrollment status (minimum of 36 units) in their final semester. 3.3.4 Prerequisite Core Course All MCDS students are expected to pass the 11-637 Foundations of Computational Data Science course by the end of their first semester. Each student must pass 11-637 with a grade of “B” or better. 3.3.5 Plan of study The degree consists of two timing options based on
+MCDS students must also pass the undergraduate course 15-513 Introduction to Computer Systems (6 units), typically in the summer before their program commences. The student must pass with a grade of B- or better. Failure to pass the course means that the student takes 15-213 during either the fall or spring semester. Note that in both cases the units do not count toward the 144 eligible units of study. Click here to see the MCDS Course Map. Some example courses of study are included below.
+
+
+Answer: 

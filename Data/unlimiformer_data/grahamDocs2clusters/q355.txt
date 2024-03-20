@@ -1,0 +1,29 @@
+Question: In the Paaploss paper, in which speech enhancement workflows did the proposed method show improvement?
+
+Context: This paper details a case study on cocktail party speech recog- nition. Instead of recognizing all speakers, our system focuses on enhancing the target speaker’s voice before conducting speech recognition. Through rigorous experiments, we show- cased the effectiveness of our improved end-to-end model. Noteworthy enhancements include a cross-extraction speaker encoder, an improved mask estimation model, and an opti- mized loss function. We also publicly share our pre-trained ConVoiFilter to
+forward. The experiments on the LibriSpeech dataset show that the proposed methods can achieve competitive results com- pared to conventional acoustic features. Future research could involve investigating other discretization techniques and ensem- bling discrete tokens to further enhance speech recognition per- formance.
+Self-supervised learning (SSL) has been a popular method in the speech community. SSL models have shown promising re- sults by capturing important speech features, such as phonemes and other acoustic units, through training on large amounts of unlabeled speech data [1]. These models have led to signifi- cant improvements in downstream tasks, such as speech recog- nition, speaker identification, and emotion recognition [2]. Over the past few years, researchers have proposed a variety of SSL
+To emphasize student research, improve public speaking skills , and increase internal awareness
+
+of LTI work, all MLT students must complete an oral presentation in their second year (by the
+
+end of May). The presentation should consist of a 20 -minute talk plus time for discussion. It
+
+must be advertised to the LTI mailing lists at least one week before your presentation, and the
+
+public will be invited.
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+To emphasize student research, improve public speaking skills and increase internal awareness of LTI work, all LTI Ph.D.  students must complete an oral presentation at the LTI each year (by
+
+the end of May). The presentation should consist of a 20- minute ta lk plus time for discussion. It
+
+must be advertised to the LTI mailing lists at least one week before your presentation, and the public will be invited. (The thesis proposal and defense each count towards this requirement.)
+
+
+Answer: 

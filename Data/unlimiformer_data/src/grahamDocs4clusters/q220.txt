@@ -1,0 +1,121 @@
+Question: In fall 2023, When are the Semester & Mini-2 Faculty Course Evaluations open?
+
+Context: Sachan et al. (2022) evaluated their method using only QA (but not IR) datasets and their main results are for an impractically large three-billion parameter instruction-finetuned model, which was used essentially as a re-ranker (in a zero-shot scenario). The smallest model used by Sachan et al. (2022) had 250 million parameters (compared to our 30-million MiniLM model). It was evaluated only on the Natural Questions (NQ) collection (Kwiatkowski et al., 2019) where it outperformed BM25 by about
+Anthony Fader, Stephen Soderland, and Oren Etzioni. 2011. Identifying relations for open information ex- In Conference on Empirical Methods in traction. Natural Language Processing.
+
+Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu. 2023. GPTscore: Evaluate as you desire. ArXiv, abs/2302.04166.
+
+Kiril Gashteovski, Rainer Gemulla, and Luciano Del Corro. 2017. Minie: Minimizing facts in open in- formation extraction. In Conference on Empirical Methods in Natural Language Processing.
+Chevalier-Boisvert, M., Bahdanau, D., Lahlou, S., Willems, L., Saharia, C., Nguyen, T. H., & Bengio, Y. (2019). Babyai: A platform to study the sample efficiency of grounded language learning. In 7th International Conference on Learning Representations, ICLR 2019, New Orleans, LA, USA, May 6-9, 2019. OpenReview.net.
+
+Chevalier-Boisvert, M., Willems, L., & Pal, S. (2018). Minimalistic gridworld environment
+
+for openai gym. https://github.com/maximecb/gym-minigrid.
+Instructors: Glymour,Wu,Bjorndahl,Spirtes,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Seidenfeld,Simons,Awodey,Smith,Werner,Avigad
+
+Fall 2023
+
+Course number: 80496
+
+Title: Undergraduate Independent Study Mini
+
+Units: VAR
+
+Section: I2,S2,E2,O2,Q2,P2,C2,R2,L2,G2,B2,J2,N2,F2,D2,H2,M2,T2,K2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Bjorndahl,Glymour,Spirtes,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Seidenfeld,Awodey,Simons,Werner,Ramsey,Avigad
+
+Fall 2023
+
+Course number: 80992
+
+Title: Directed Reading Mini
+
+Units: 3,6,12,15
+
+Section: I2,S2,E2,O2,Q2,P2,C2,R2,L2,G2,B2,J2,N2,F2,D2,H2,M2,T2,K2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A1
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33224
+
+Title: Stars, Galaxies and the Universe
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,T
+
+Start: 03:00PM,07:00PM
+
+End: 07:50PM,03:50PM
+
+Room: HH B103,POS 151
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+November 25 ; Day - Monday ; Event - Semester & Mini-2 Faculty Course Evaluations open Date -  November 27 ; Event - W-F Thanksgiving Break; No Classes Date -  December 6 ; Day - Friday ; Event - Semester & Mini-2 Last Day of Classes Date -  December 6 ; Day - Friday ; Event - Semester & Mini-2 voucher deadline (4) Date -  December 9 ; Event - 10 M-Tu Final Exams Date -  December 11 ; Day - Monday ; Event - Reading Day Date -  December 12 ; Event - 13 Th-F Final Exams Date -  December 14 ;
+(2) Date -  July 22 ; Day - Friday ; Event - Mini-6 pass/no pass & withdrawal deadline (3) Date -  July 29 ; Day - Monday ; Event - Semester & Mini-6 Faculty Course Evalutations open Date -  August 1 ; Event - Semester & Mini-6 Last Day of ClassesSummer Semester 2024 (M24) Date - August 1 ; Day - Thursday ; Event - Semester & Mini-6 voucher deadline (4) Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Final Exams*** Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Faculty
+
+
+Answer: 

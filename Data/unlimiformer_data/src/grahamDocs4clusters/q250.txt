@@ -1,0 +1,197 @@
+Question: What is the BigCode project about?
+
+Context: The BigCode project is an open-scientiﬁc collaboration working on the responsi- ble development of large language models for code.1 This tech report describes the progress of the collaboration until December 2022, outlining the current state of the Personally Identiﬁable Information (PII) redaction pipeline, the experi- ments conducted to de-risk the model architecture, and the experiments investi- gating better preprocessing methods for the training data. We train 1.1B param- eter models on
+BigCode2 is an open scientiﬁc collaboration working on the responsible development of large lan- guage models for code, empowering the machine learning and open-source communities through open governance. BigCode was inspired by the BigScience project, an open-scientiﬁc collaboration which culminated in July 2022 with the release of a large multi-lingual language model (Scao et al., 2022). As in BigScience, various BigCode working groups focus on relevant subtopics such as collecting datasets,
+We described the progress of the BigCode project until December 2022. The community took its ﬁrst steps towards redacting PII and demonstrated that regular expressions are reasonably effective at detecting emails and IP addresses. Future work should focus on increasing the precision and recall of secret keys, as well as detecting other sensitive information such as names, usernames, and pass- word. Using the PII-redacted version of The Stack, we conducted a series of architectural and data
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Title: LTI Minor Project - Advanced
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11601
+
+Title: Coding & Algorithms Bootcamp:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: DH 2315,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11611
+
+Title: Natural Language Processing:
+
+Units: 12.0
+
+Section: A,R, ,B
+
+Days:  ,TR
+Instructors: Smalley
+
+Fall 2023
+
+Course number: 95481
+
+Title: Web Application Development
+
+Units: 6.0
+
+Section: A1
+
+Days: T
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 2009
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bigrigg
+
+Fall 2023
+
+Course number: 95482
+
+Title: Enterprise Web Development
+
+Units: 6.0
+
+Section: A2
+
+Days: T
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 2009
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bigrigg
+
+Fall 2023
+
+Course number: 95483
+“Buggy is a sport that encompasses all elements that CMU has to offer,” he said. “Everything that goes into it, the challenge, the teamwork, the fun, the rewards. It’s a real-life challenge working with a team. I learned to work together with people with different personalities and visions toward the same goal to make it happen.”
+Design.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+Semester One: - Artificial Intelligence and Future Markets - Law of Computer Technology - Coding Bootcamp - Machine Learning
+
+Semester Two - AI Engineering - Machine Learning with Large Datasets - Cloud Computing* - Software Engineering for Startups*
+
+Semester Three
+
+AI Innovation
+
+Natural Language Processing
+
+Applied Machine Learning
+
+Web Application Development*
+
+Semester Four
+
+Deep Learning
+
+Capstone Project(36 units)
+Year 1 Fall: - Data Science Seminar - Machine Learning - Machine Learning for Text Mining - Advanced Machine Learning - Design and Engineering of Intelligent Information Systems - Big Data Analytics
+
+Year 1 Spring: - Data Science Seminar - Capstone Planning Seminar - Machine Learning with Big Data Sets - Cloud Computing - Information Systems Project - Search Engines - Multimedia Databases and Data Mining - Large Scale Multimedia Analysis
+
+Year 1 Summer:
+
+Summer Internship
+
+Year 2:
+a. The capstone project (36 units) is a large, group- oriented demonstration of
+
+student skill in one or more areas covered by the degree. Typically,  the result of
+
+the capstone project is a major software application. The capstone project is
+
+supervised by a member of the faculty who meets with students on a weekly
+
+basis to monitor progress and provide guidance. MIIS Graduate Student Handbook  Page 17
+
+b. The capstone planning seminar (6 units) organizes students into groups; defines
+
+
+Answer: 

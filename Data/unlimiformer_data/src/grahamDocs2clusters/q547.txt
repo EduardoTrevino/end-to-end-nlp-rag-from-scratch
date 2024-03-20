@@ -1,0 +1,43 @@
+Question: What are the four categories of low-level acoustic descriptors used in the TAP loss?
+
+Context: where Lf t/Lf t are finetuning/pretraining loss functions, Df t/Dpt are finetuning/pretraining datasets, and w(·; λ) is the data reweighting network. Following the experiment setup in TARTAN [11], we use task-specific data and a masked language modeling loss in our auxiliary task and perform experiments with RoBERTa-base on 4 datasets from the original DAPT/TAPT paper. We compare our SAMA- based data optimization against DAPT and TARTAN-MT. We exclude TAPT and TARTAN-Meta respectively because
+(1) TAPT consistently underperforms TARTAN-MT [9] and (2) TARTAN-Meta uses additional validation data in the meta level of the downstream tasks, making the comparison unfair. We report our experiment results in Table 3.
+TABLE II: Category recognition accuracy (%) for each behavior.
+
+Behavior
+
+Sinapov et al.[12] Tatiya et al.[13] MOSAIC-w/o-SA MOSAIC (ours)
+
+Look
+
+67.7
+
+—
+
+86.4 ± 1.2
+
+87.4 ± 2.0
+
+Grasp Hold Lift Drop Poke Push Shake Tap Press
+
+65.2 67.0 79.0 71.0 85.4 88.8 76.8 82.4 77.4
+
+71.4 76.8 77.8 78.0 73.8 67.4 83.6 81.6 58.8
+
+72.2 ± 6.7 68.0 ± 5.3 72.8 ± 4.2 73.2 ± 3.8 81.6 ± 2.2 85.6 ± 3.5 81.2 ± 6.2 81.2 ± 5.7 71.6 ± 8.7
+4.1.4  Pass/Fail Grades ...................................................................................................................... 25
+
+4.1.5  Transfer Credit  ........................................................................................................................ 25
+
+4.1.6  Residency Requirements  ...................................................................................................... 25
+course counting toward the 36 units used to satisfy full-time enrollment. Failure to maintain full-time status will result in loss of a student visa (and, therefore, “permit of stay”). All students having a Stafford Loan are required to maintain full-time status.
+Graduate students will find informat ion about parking and availability, parking policies,
+
+transportation options and Port Authority Transit usage with a valid university ID on the Parking and Transportation Services site. The Parking and Transportation Services office is located in
+
+the lower  level o f the East Campus Garage. There is limited parking on campus and the varying
+
+permit rat es can be found on the website. All parking areas of campus are either by permit,
+
+
+Answer: 

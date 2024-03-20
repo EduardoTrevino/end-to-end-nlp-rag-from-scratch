@@ -1,0 +1,21 @@
+Question: What was the title of paper that proposed a new task, OUTDOOR?
+
+Context: Paper title: 'Reasoning about the Unseen for Efficient Outdoor Object Navigation' Published year: 2023 Publication venue or conference: arXiv.org Authors: Quanting Xie, Tianyi Zhang, Yonatan Bisk, Kedi Xu, M. Johnson-Roberson Summary: A new task OUTDOOR is introduced, a new mechanism for Large Language Models (LLMs) to accurately hallucinate possible futures, and a new computationally aware success metric for pushing research forward in this more complex domain are introduced.
+The emergence of LLMs has opened new avenues in the embodied agent domain. This paper introduced the OUT- DOOR task, a pioneering approach aimed at propelling embodied agents into challenging outdoor settings. Further, we introduced a novel, general, mechanism for using LLMs to reason about robot plans in unseen environments, and pro- posed the CASR, the first metric to assess balance between reasoning and action for embodied agents. Our formulation more closely mirrors how humans navigate and
+vast and complex terrains of outdoor environments, new challenges emerge. Unlike the structured layouts found indoors, outdoor environments lack clear spatial delineations and are riddled with inherent semantic ambiguities. Despite this, humans navigate with ease because we can reason about the unseen. We introduce a new task OUTDOOR, a new mechanism for Large Language Models (LLMs) to accurately hallucinate possible futures, and a new computationally aware success metric for pushing research
+guaranteeing that the proposed research is interesting to the larger scientific community and demonstrating that the student will finish the program if the work is completed as outlined.
+
+Thesis Defense:  The dissertation document itself, normally expected at the end of the fifth
+
+year, will include a detailed description of all the work done, including a clear evaluation
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+A “school of computer science” is proposed Feeling that CSD’s needs were inadequately represented in MCS, CSD head A. Nico Habermann and then-CMU provost Angel Jordan in 1986 wrote a white paper proposing the creation of “a School of Computer Science.” Responding to concerns from the faculty that the change might be taking place too quickly, the university first established a free-floating Department of Computer Science. The experiment, which lasted two years, was an unqualified success.
+
+
+Answer: 

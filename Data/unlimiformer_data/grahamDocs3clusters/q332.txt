@@ -1,0 +1,112 @@
+Question: Which LTI faculty are involved in the SPAE paper?
+
+Context: Paper title: 'SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs' Published year: 2023 Publication venue or conference: arXiv.org Authors: Lu Jiang, Wolfgang Macherey, A. Hauptmann, David A. Ross, Irfan Essa, K. Murphy, Vivek Kumar, Ming Yang, Yonatan Bisk, Yong Cheng, Lijun Yu, Zhiruo Wang, Yanping Huang Summary: This method marks the first successful attempt to enable a frozen LLM to generate image content while surpassing state-of-the-art performance in image
+Johannes Keck, Adam Zabicki, Julia Bachmann, Jörn Munzert, and Britta Krüger. 2022. Decoding spa- tiotemporal features of emotional body language in social interactions. Scientific Reports, 12(1):15088.
+
+Martin Krallinger, Obdulia Rabal, Florian Leitner, Miguel Vazquez, David Salgado, Zhiyong Lu, Robert Leaman, Yanan Lu, Donghong Ji, Daniel M Lowe, et al. 2015. The chemdner corpus of chemicals and drugs and its annotation principles. Journal of chem- informatics, 7(1):1–17.
+We would like to thank our workers on MTurk for their responses. We are also grateful to the anonymous reviewers for their helpful comments. Special thanks to Saadia Gabriel, Jocelyn Shen, Ashutosh Baheti, and the members of the CMU LTI COMEDY group for their feedback, and Ope- nAI for providing access to the GPT-3.5 API. This research was supported in part by the Meta Fun- damental AI Research Laboratories (FAIR) “Dyn- abench Data Collection and Benchmarking Plat- form” award “ContExTox:
+Instructors: Howard,Dealmeida,Pukinskis,Sullivan,Almarza,Kostyniak,Vosburgh,Cardenes,Wu,Houlik,Spacagna,Caballero,Howell,Schepkin,Instructor TBA,Van Hoesen,Gruber,Cherian,McGhee,Knox,Branson, Evans, Allen,Goeres,Dee,Rusinek,Aylmer,Whipple,Kush,Carlisle,Marcinizyn,van der Sloot,Laduke,Williams,Berntsen,Harding,Premo,Teadt,Galbraith,Chiu
+
+Spring 2024
+
+Course number: 57498
+
+Title: BXA Studio (3rd semester)
+
+Units: 9.0
+Instructors: Howard,Dealmeida,Almarza,Kostyniak,Vosburgh,Defade,Cardenes,Shields, Thompson,Wu,Ferla,Spacagna,Caballero,Schepkin,Instructor TBA,Gruber,Van Hoesen, Shields,Evans, Allen, Branson,Cherian,McGhee,Knox,Dee,Whipple,Aylmer,Kush,Carlisle,van der Sloot,Rusinek, Shields,Shields, Sullivan,Laduke,Williams,Berntsen,Harding,Goeres, Shields,Premo,Teadt,Galbraith,Chiu,Shields, Houlik
+
+Fall 2023
+
+Course number: 57498
+
+Title: BXA Studio (3rd semester)
+
+Units: 9.0
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hovis, Pinnow
+
+Spring 2024
+
+Course number: 38110
+
+Title: ENGAGE in Service
+
+Units: 1.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+advisor. Meanwhile, the potential advisors determine how many new students they can take,
+
+and indicate their preferences. Finally, the  entire LTI faculty meets as a “ Marriage Committee ”
+
+to determine the best set of matches.
+
+Some entering MLT students are prefunded, meaning they have received and accepted a funding letter from a faculty member before the Marriage Process. (Even students who are prefunded must attend the research talks, to become acquainted with the LTI’s rese arch
+The LTI Ph.D.  does not require any Qualifying Exams. Instead, a LTI Ph.D.  student is required to
+
+demonstrate proficiency in the following four areas.
+
+Writing: This is satisfied by producing a peer -reviewed conference paper, or the
+
+equivalent (a written report that at least two SCS faculty certify as being of conference -
+
+paper quality).
+
+Presentation: This is satisfied by the oral presentation of a conference paper, or the
+
+
+Answer: 

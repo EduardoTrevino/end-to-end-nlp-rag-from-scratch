@@ -1,0 +1,154 @@
+Question: In Justine Cassell's recent SIGDIAL paper, what feature does the study find to have a significant impact on hedge prediction?
+
+Context: Paper title: 'When to generate hedges in peer-tutoring interactions' Published year: 2023 Publication venue or conference: SIGDIAL Conferences Authors: Alafate Abulimiti, C. Clavel, Justine Cassell Summary: The results show that embedding layers, capturing the semantic information of the previous turns, significantly improves the model’s performance and provides insights into the importance of various features, such as interpersonal rapport and nonverbal behaviors, in predicting hedges by using
+layers, capturing the semantic information of the previous turns, sig- nificantly improves the model’s performance. Additionally, the study provides insights into the importance of various features, such as in- terpersonal rapport and nonverbal behaviors, in predicting hedges by using Shapley values (Hart, 1989) for feature explanation. We dis- cover that the eye gaze of both the tutor and the tutee has a significant impact on hedge pre- diction. We further validate this observation through a
+role in predicting hedges. This observation is sub- stantiated by subsequent ablation studies, where classic classification models, like XGBoost and LightGBM, experienced a significant decline in F1 score when removing nonverbal behavior features. For future work, several directions can be pur- sued. First, the investigation of hedge generation in the context of expert tutors could provide valuable insights into how experienced tutors use hedges
+Title: Ethics, Social Biases, and Positive Impact in Language Technologies
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 153
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sap
+
+Spring 2024
+
+Course number: 11860
+
+Title: Quantum Computing, Cryptography and Machine Learning Lab
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Singh, Ramakrishnan
+
+Spring 2024
+Units: 6.0
+
+Section: A1
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 4625
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sirbu
+
+Fall 2023
+
+Course number: 94865
+
+Title: Data Analytics for Organizational Impacts
+
+Units: 6.0
+
+Section: A2
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 1004
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Escallon Barrios
+
+Fall 2023
+
+Course number: 94866
+
+Title: Design Thinking
+
+Units: 6.0
+
+Section: A1
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+End: 08:50PM
+
+Room: WEH 5202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Song, Wang
+
+Spring 2024
+
+Course number: 98016
+
+Title: Student Taught Courses (StuCo): Genshin Impact - Theorycrafting 101
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: WEH 5415
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lyu, Wang
+
+Spring 2024
+
+Course number: 98019
+
+Title: Student Taught Courses (StuCo): Every Day Carry & Community
+
+Units: 3.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+out how many pedestrians they had hit”). The impact was severe enough that KapSig’s buggy was dented, and the time it lost from the impact made it impossible for them to catch up. PiKA eventually passed DTD in the freeroll and went on to win by 30 yards, but by then it didn’t matter. The judges decided to DQ PiKA for interference. The brothers of PiKA didn’t take it lightly though; they immediately lodged a protest against the judge’s decision.
+Example 3: Human-Centered Data Science Major, 16 Months Example Schedule
+
+Empirical Analysis of Interactive Systems: - Fall: ML, Econometrics, Social Web, Network Science, Business Analytics - Spring: Interactive Data Science, Psych Found for Design Impact, Econometrics, DHCS
+
+Social Web Analytics & Design: - Fall: ML, ARM, Social Web, Network Science - Spring: Crowd Programming, Data Pipeline, ML for Text Analytics, DHCS
+
+
+Answer: 

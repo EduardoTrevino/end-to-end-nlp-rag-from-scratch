@@ -1,0 +1,167 @@
+Question: When was the Institute for Software Research formed?
+
+Context: Search-Based Software Engineering
+
+15th International Symposium, SSBSE 2023 San Francisco, CA, USA, December 8, 2023 Proceedings
+
+Editors Paolo Arcaini National Institute of Informatics Tokyo, Japan
+
+Tao Yue Beihang University Beijing, China
+
+Erik M. Fredericks Grand Valley State University Allendale, MI, USA
+
+ISSN 0302-9743 Lecture Notes in Computer Science ISBN 978-3-031-48795-8 https://doi.org/10.1007/978-3-031-48796-5
+
+ISSN 1611-3349 (electronic)
+
+ISBN 978-3-031-48796-5 (eBook)
+[16] National Research Council. 2007. Software for dependable systems: Sufficient evidence? National Academies Press. [17] Leonardo De Moura and Nikolaj Bjørner. 2008. Z3: An efficient SMT solver. In International conference on Tools and
+
+Algorithms for the Construction and Analysis of Systems. Springer, 337–340.
+Frontiers in Computer Science
+
+TYPE Original Research PUBLISHED 22 May 2023 DOI 10.3389/fcomp.2023.1085507
+
+Teaching computer programming: impact of Brown and Wilson’s didactical principles
+
+Hector Belmar1,2*
+
+1School of Computer Engineering, Ñuñoa Campus, INACAP (National Professional Training Institute), Santiago, Chile, 2UMCE (Metropolitan University of Education Sciences), Santiago, Chile
+Instructors: Le Goues,Herbsleb,Kang,Fredrikson,Aldrich,Scherlis,Kaestner,Vasilescu,Miller,Shaw,Breaux,Garlan
+
+Fall 2023
+
+Course number: 17808
+
+Title: Software Engineering Research
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: MI 448
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Begel, Aldrich, Breaux, Brown, Garlan, Kaestner, Padhye, Vasilescu, Kang
+
+Fall 2023
+
+Course number: 17909
+
+Title: Requirements for Information Systems
+
+Units: 6.0
+
+Section: A2
+
+Days: TR
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kitchin
+
+Spring 2024
+
+Course number: 06643
+
+Title: Creating Scientific Research Software
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kitchin
+
+Spring 2024
+
+Course number: 06685
+
+Title: Bioseparations and Bioprocess Analytical Technologies
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: DH 1117
+
+Locations: Pittsburgh, Pennsylvania
+Fall 2023
+
+Course number: 49796
+
+Title: Software Management Independent Study
+
+Units: VAR
+
+Section: A1,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: San Jose, California
+
+Instructors: Fang, Mercier, Shaikh,Mercier
+
+Fall 2023
+
+Course number: 49800
+
+Title: Start Up Creation in Practice:
+
+Units: 6.0
+
+Section:  ,A1,A2
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: B23 212,
+
+Locations:  ,San Jose, California
+
+Instructors: Root
+
+Fall 2023
+
+Course number: 49802
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+Scotland, in 1835. Carnegie came to the United States in 1848 and founded Carnegie Technical Schools in Pittsburgh in 1900.
+1948 saw the first independent orgs and the start of DTD’s run of greatness, but it wasn’t easy, as they barely held off KapSig for the championship.
+New departments, new areas of study Along the way, the Center for Machine Translation became the Language Technologies Institute, and other new departments were formed, including the Human-Computer Interaction Institute (1993), the Institute for Software Research (1999), the Machine Learning Department (2006) and the Ray and Stephanie Lane Center for Computational Biology (2009). SCS’s seven degree-granting departments draw faculty and students from a wide variety of disciplines, including
+university in the world—a process Newell called “greening up the campus with computer science.” CMU also became home to a new Software Engineering Institute, funded by the Defense Department, to study computer security and develop best practices in the design of operating systems. Between 1982 and 1985, the amount of sponsored research in the Computer Science Department doubled, from $7.2 million to $15.3 million—more than the other four departments in the Mellon College of Science combined.
+nearby Mellon Institute of Industrial Research to form Carnegie-Mellon University. The Department of Computer Science moved into the newly created Mellon Institute of Science, later renamed Mellon College of Science, or MCS. Future SCS dean Raj Reddy joined the CSD in 1969 after three years as an assistant professor at Stanford. He brought with him research in speech, language and computer vision. But in 1970 and 1971, the new Computer Science Department faced its first crisis, as half of its
+
+
+Answer: 

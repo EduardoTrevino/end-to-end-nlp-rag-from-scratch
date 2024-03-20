@@ -1,0 +1,235 @@
+Question: What is the phone number for CMU's office of Title IX initiatives?
+
+Context: Gc9skF9wPr4Be+iXYg==</latexit>Interleaver,⇧
+18
+
+Running Title for Header
+
+30.0-20.0-10.00.010.020.030.040.0234567 ROUGE
+
+50.0-40.0-30.0-20.0-10.00.010.020.030.040.050.060.0234567 ROUGE
+
+30.0-20.0-10.00.010.020.030.040.050.0234567 ROUGE
+
+20.0-10.00.010.020.030.040.050.0234567 ROUGE
+
+50.0-40.0-30.0-20.0-10.00.010.020.030.040.0234567 ROUGE
+
+15.0-10.0-5.00.05.010.015.020.025.0234567 ROUGE
+We thank all the reviewers for their invaluable comments and feedback. We like to acknowledge CMU Workhorse and TIR group for providing compute resources for this work. EX and SKC acknowledge the support of NSF IIS2311990, NSF IIS2123952, NSF CNS2008248, NSF BCS2040381, NGA HM04762010002, NIGMS R01GM140467, and Amazon 2023-5007107. WN was supported in part by NSF (#1651565), AFOSR (FA95501910024), ARO (W911NF-21-1-0125), CZ Biohub, and Sloan Fellowship. ES and SVM acknowledge the support in
+Title: Special Topics in ICT Mini:
+
+Units: 6.0
+
+Section:  ,A1,N1
+
+Days:  ,MW,TR
+
+Start: 08:00AM, ,04:00PM
+
+End:  ,05:50PM,09:50AM
+
+Room: CMR F305, ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Rodriguez-Perez,Ostheimer
+
+Fall 2023
+
+Course number: 04900
+
+Title: MSIT Practicum
+
+Units: 24.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:20PM
+
+Room: CMR F305
+
+Locations: Kigali, Rwanda
+
+Instructors: Okeyo
+
+Fall 2023
+
+Course number: 04910
+
+Title: Entrepreneurship Project
+
+Units: VAR
+
+Section: A
+Title: ADDvocate: Anti-Discrimination Dialogue for Social Justice course at CMU-Q
+
+Units: VAR
+
+Section: W3
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:15PM
+
+Room: CMB 1064
+
+Locations: Doha, Qatar
+
+Instructors: Moufid, Vincent
+
+Spring 2024
+
+Course number: 99264
+
+Title: Introduction to Life Design:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,F
+
+Start:  ,10:00AM
+
+End: 11:50AM,
+
+Room:  ,POS 145
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Monahan
+
+Spring 2024
+
+Course number: 99352
+Title: ETC Cooperative Education
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Culyba
+
+Spring 2024
+
+Course number: 53603
+
+Title: Game Design Fundamentals
+
+Units: 12.0
+
+Section: A
+
+Days: S
+
+Start: 11:15AM
+
+End: 05:05PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Librande
+
+Spring 2024
+
+Course number: 53610
+
+Title: ETC Interdisciplinary Project III
+
+Units: 36.0
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+alumni relations, increase the visibility of athletics throughout the CMU community and support additional initiatives of the CMU Athletics Department.
+If you have been impacted by any of these issues, you are encouraged to make contact with any of the following resources:  Office of Title IX Initiatives: http://www.cmu.edu/title-ix/ , 412-268-7125, tix@cmu.edu  University Police: https://www.cmu.edu/police/ , 412-268-2323  Additional resources and information can be found at: https://www.cmu.edu/title-ix/resources-and-information/index.html
+
+4.3.4 Consensual Intimate Relationship Policy Regarding Undergraduate Students
+Office of Title IX Initiatives, http://www.cmu.edu/title-ix/ , 412-268-7125
+
+Sexual Harassment Advisors, found in A ppendix A of the Policy Against Sexual
+
+Harassment and Sexual Assault;
+
+Survivor Support Network, found in A ppendix B of the Policy Against Sexual
+
+Harassment and Sexual Assault;
+
+Sexual Harassment Process and Title IX Coordina tors, found in section II of the Policy
+
+Against Sexual Harassment and Sexual Assault;
+
+University Police, 412-268-2323
+Information regarding the application of Title  IX, including to admission and employment
+
+decisions, the sexual misconduct grievance proced ures and process, including how to file a
+
+report or a complaint of sex discrimination, how to file a report of sexual harassment, and how
+
+the university responds to su ch reports is available at www.cmu.edu/title-ix . The Title IX
+
+coordinator may be reached at 4615 Forbes Ave, Suite 330, Pittsburgh, PA 15213; 412-268-7125; or
+
+tix@cmu.edu .
+
+
+Answer: 

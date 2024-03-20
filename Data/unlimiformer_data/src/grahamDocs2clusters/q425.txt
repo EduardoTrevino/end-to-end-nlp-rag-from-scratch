@@ -1,0 +1,21 @@
+Question: Which conference is DIFFERENCE-MASKING published in?
+
+Context: Paper title: 'Difference-Masking: Choosing What to Mask in Continued Pretraining' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Sheryl Mathew, Louis-Philippe Morency, P. Liang, Leena Mathur, Syeda Nahida Akter, Mengrou Shou, Eric Nyberg, Alex Wilf Summary: Difference-Masking is introduced, a masking strategy that automatically chooses what to mask during continued pretraining by considering what makes a task domain
+A detailed description of our implementation of DIFFERENCE-MASKING in the multimodal setting can be found in Appendix B, and our hyperparame- ters can be found in Appendix A.
+
+5 Results and Discussion
+
+5.1 Comparison with Baseline Approaches
+In this paper, we propose DIFFERENCE- MASKING, a novel approach for automatically se- lecting what to mask during continued pretraining. Our strategy first identifies anchors that describe what makes a target domain different from the pre- training domain and then determines what to mask during continued pretraining based on similarity to those anchors.
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+Employment Eligibility Verification  34 5.2 Conference Travel Funding .................................................................................... 34 5.3 Expenses .................................................................................................................. 34 5.4 Health Insurance ..................................................................................................... 35 5.5 Emergency Loans
+thesis defense. The pre sentation must communicate the research work done, similar to
+
+a conference paper presentation. The committee will observe the presentation, and then decide whether the thesis and presentation were acceptable, or whether further
+
+work is required. Unlike a P hD defense, only a simple majority vote of the committee is
+
+required for approval.
+
+
+Answer: 

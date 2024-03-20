@@ -1,0 +1,171 @@
+Question: What is it fine-tuned on for creating StarCoder?
+
+Context: Multimodal Supervised Fine-Tuning A vision encoder and a pre-trained LLM are jointly fine- tuned on an instruction-following demonstration dataset using token-level supervision to produce a supervised fine-tuned (SFT) model πSFT.
+Specifically, we utilize an encoder-decoder LM as source LM (Ls) to provide LM-preferred signals on a source task (Ts) for fine-tuning a pre-trained retriever. Then, we plug the fine-tuned retriever into unseen target LM (Lt) on a set of target tasks (Tt) non-intersecting with Ts.
+view”). They improve these encoders by fine- tuning the BERT encoder using weak supervision of coreferent entities and improving the knowledge graph representations using data augmentation on the knowledge graph. These two views of each en- tity are then combined to produce a representation. In their original paper, they propose an alter- nating multi-view K-Means procedure where clus- ter assignments that are computed in one view are used to initialize cluster centroids in the other view.
+Course number: 18641
+
+Title: Design Patterns for Smartphone Development
+
+Units: 12.0
+
+Section: RW
+
+Days: TR
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: CMR F309
+
+Locations: Kigali, Rwanda
+
+Instructors: Umuhoza
+
+Spring 2024
+
+Course number: 18646
+
+Title: How to Write Fast Code II
+
+Units: 12.0
+
+Section: A,SV
+
+Days: MW
+
+Start: 09:30AM,12:30PM
+
+End: 10:50AM,01:50PM
+
+Room: B23 211,BH A53
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Low
+
+Spring 2024
+
+Course number: 18647
+Title: Intermediate Studio: Social Practice
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: CFA 303
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rubin
+
+Fall 2023
+
+Course number: 60212
+
+Title: Intermediate Studio: Creative Coding
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 303
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Fall 2023
+
+Course number: 60213
+
+Title: Intermediate Game Studio: Real Time 3D
+
+Units: 10.0
+Title: Coding & Control for Theatrical Sound
+
+Units: 5.0
+
+Section: A
+
+Days: W
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: PCA 103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Blackwood
+
+Fall 2023
+
+Course number: 54341
+
+Title: Fundamentals of Costume Design
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PCA 305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gajic
+
+Fall 2023
+
+Course number: 54350
+
+Title: Scenic Design Forum
+
+Units: 1.0
+
+Section: A
+
+Days: R
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+Behind the Wheel
+
+Under this section there is a YouTube video with the following caption "Amy Chen demonstrates how a driver is positioned inside of Boson, a Fringe buggy built in 2016."
+21. RNA sequencing via videogames, 2010 Thanks to crowdsourcing, science isn’t just for scientists any more. People without formal training in molecular biology are producing new insights into genetic encoding through a videogame called EteRNA, developed by researchers at CMU and Stanford, that allows players to fold and shift RNA molecules to solve on-screen puzzles.
+7125; or tix@cmu.edu. MIIS Graduate Student Handbook  Page 9
+
+1.6 The Carnegie Mellon Code
+
+Students at Carnegie Mellon, because they are members of an academic community dedicated
+
+to the achievement of excellence, are expected to meet the highest standards of personal,
+
+ethical,  and moral conduct possible.
+
+These standards require personal integrity, a commitment to honesty without compromise, as well as truth without equivocation and a willingness to place the good of the community
+9. Machine translation, 1984 Every “Star Trek” fan knows about the universal translator. Scientists in the Language Technologies Institute are moving those gadgets from science fiction to real life. Their pioneering systems include handheld, portable speech-to-speech translators, just like those depicted on the USS Enterprise.
+
+
+Answer: 

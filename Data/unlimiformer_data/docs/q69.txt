@@ -1,0 +1,169 @@
+Question: What significant computing device arrived at Carnegie Tech in 1956?
+
+Context: EDepartment of Computer Science, ETH Zurich CLanguage Technologies Institute, Carnegie Mellon University YDepartment of Computer Science, Brigham Young University {vzouhar,msachan}@ethz.ch natbcar@gmail.com {kalvinc,cxcui,nrrobins,dmortens}@cs.cmu.edu
+
+Abstract
+3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+1Faculty of Engineering and Natural Sciences, Sabancı University, Istanbul, Türkiye, 2Qatar Computer Science Program/Language Technologies Institute, Carnegie Mellon University, Pittsburgh, PA, USA, and 3Center of Excellence in Data Analytics (VERIM), Sabancı University, Istanbul, Türkiye Corresponding author: Figen Beken Fikri; Email: fbekenﬁkri@sabanciuniv.edu
+
+(Received 15 August 2022; revised 12 September 2023; accepted 27 September 2023)
+Title: Law of Computer Technology
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: DH A302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Fall 2023
+
+Course number: 17780
+
+Title: API Design and Implementation:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room:  ,GHC 4102
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Bloch
+
+Fall 2023
+
+Course number: 17802
+
+Title: Societal Computing Pre-Thesis
+
+Units: 6.0
+Instructors: Kesden, Kumar,Kumar, Kesden
+
+Spring 2024
+
+Course number: 18220
+
+Title: Electronic Devices and Analog Circuits
+
+Units: 12.0
+
+Section: A,B,C,Lec,
+
+Days: R,W,F,T,TR
+
+Start: 03:00PM,02:00PM,01:00PM,11:00AM,07:00PM
+
+End: 09:50PM,01:50PM,03:50PM,12:20PM,02:50PM
+
+Room: ANS 101,PH A18B,HOA 160
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Budnik, Li,Li, Budnik,
+
+Spring 2024
+
+Course number: 18224
+
+Title: Special Topics in Chip Design:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+Course number: 17802
+
+Title: Societal Computing Pre-Thesis
+
+Units: 6.0
+
+Section: A,M,O,Q,B,P,C,D,L
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Herbsleb,Christin,Sadeh,Vasilescu,Kolter,Cranor,Agarwal,Carley,Fang
+
+Summer 2024
+
+Course number: 17993
+
+Title: Societal Computing Graduate Reading and Research
+
+Units: VAR
+
+Section: R,T
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Christin
+
+Summer 2024
+Scotland, in 1835. Carnegie came to the United States in 1848 and founded Carnegie Technical Schools in Pittsburgh in 1900.
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+The Kiltie Band
+
+The Kiltie Band began in 1908 with a group of just seven students dedicated to supporting Carnegie Tech football, and today's Kiltie Band continues a tradition of excellence originated over a century ago. The Band took the field for its first official performance on November 25th, 1922, on what would have been Andrew Carnegie's 87th birthday.
+With the end of World War II, the latter half of the 20th century brought unprecedented growth to Carnegie Tech. In 1956, the arrival of the first IBM computer to campus was revolutionary, initiating a university culture where information technology pervaded virtually all areas of study. University culture also changed in 1973 when Margaret Morrison closed and women joined their male peers in classrooms and dorms. The times were changing, and Tech positioned itself at the forefront, opening
+the arrival of an IBM 650 computer on the campus of what was then known as Carnegie Institute of Technology. The IBM 650 had magnetic-drum memory and a processing speed of approximately 60 instructions per second. Herb Simon (H’90), associate dean of the Graduate School of Industrial Administration—now known as CMU’s Tepper School of Business—established Carnegie Tech’s first Computation Center with the help of its first director, Alan Perlis (S’42).
+Computer science Ph.D. program created In 1961, the Computation Center and its newest computer, a Bendix G-20, were moved to recently completed Scaife Hall. That same year, Carnegie Tech created an interdisciplinary Ph.D. program called Systems and Communications Sciences, combining elements of computer science, mathematics, psychology, business and electrical engineering. The university’s first computer science Ph.D.s were graduates of this program.
+
+
+Answer: 

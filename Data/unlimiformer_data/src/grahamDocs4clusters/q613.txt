@@ -1,0 +1,197 @@
+Question: What are the 4 common MCDS core courses? List them in the following format: course number - title; course number - title; ...
+
+Context: The 20 instruction types (inner circle) and their top utilized rules (outer circle) in our TGRT Self-Instruct dataset.
+
+4 (question assessment)
+
+10 (clarification)
+
+15 (creative)
+
+1 (ethical)
+
+60000
+
+14 (balanced & informative perspectives)
+
+3 (helpful)
+
+80000Usage
+
+16 (operational)
+
+5 (reasoning)
+
+20000
+
+8 (knowledge recitation)
+
+2 (informative)
+
+13 (step-by-step)
+
+0
+
+11 (numerical sensitivity)
+
+12 (dated knowledge)
+
+40000
+<class ’pandas.core.frame.DataFrame’> RangeIndex: 49 entries, 0 to 48 Data columns (total 5 columns):
+
+Column --- ------ id title rel_docs assessed_docs max_tier
+
+#
+
+0 1 2 3 4
+
+Non-Null Count -------------- 49 non-null 49 non-null 49 non-null 49 non-null 49 non-null
+
+Dtype ----- int64 object object object int64
+
+dtypes: int64(2), object(3) memory usage: 2.0+ KB
+
+train topics = pd.read json('data/trec topics.json.gz', lines=True) train topics.info()
+<class ’pandas.core.frame.DataFrame’> RangeIndex: 57 entries, 0 to 56 Data columns (total 6 columns):
+
+Non-Null Count Column -------------- --- ------ 57 non-null id title 57 non-null keywords 57 non-null scope 57 non-null homepage 57 non-null rel_docs 57 non-null
+
+#
+
+0 1 2 3 4 5
+
+Dtype ----- int64 object object object object object
+
+dtypes: int64(1), object(5) memory usage: 2.8+ KB
+
+14
+
+Train and eval topics use a disjoint set of IDs:
+
+train topics['id'].describe()
+Course number: 57897
+
+Title: Graduate Recital (Voice)
+
+Units: 1.0
+
+Section: B4,D4,A4,C4,E4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Spring 2024
+
+Course number: 57898
+
+Title: Graduate Recital:
+
+Units: 1.0
+
+Section: E,IA,AC,OA,VD,NA,JA, ,FB,PB,VA,C,DD,AB,S,FA,KA,B,MC,T,MA,OB,VE,H,JB,L,NB,PC,IB,AA,PA,Q,R,DC,G,KB,VC,DB,VB,DA,MB
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+Spring 2024
+
+Course number: 36995
+
+Title: Reading and Research
+
+Units: 1-48
+
+Section: E,I,F,D,U,P,C,J,S,A,K,Y,W,B,T,H,L,M,R,O,Q,X,G,N,V
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ventura,Shalizi,Lei,Mejia,Greenhouse,Lee,Jin,Ben-Michael,Ramdas,Branson,Niezink,Reinhart,Roeder,Kass,Nugent,Kuchibhotla,Schafer,Neykov,Chouldechova,Kuusela,Townes,Genovese,Balakrishnan,Wasserman,Kennedy
+
+Spring 2024
+
+Course number: 36996
+Title: Software Management Capstone Project
+
+Units: 3,6,12,24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: San Jose, California
+
+Instructors: Mercier
+
+Summer 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Summer 2024
+
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: T
+
+Start: 08:00AM
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Fringe vehicles often are named with the letter "B," like Boson, Blueshift, Bissa and Bumper. Other teams, such as Apex, often use names that connotate fire, while the SDC (Student Dormitory Committee) team, uses names such as Vice, Bane, Avarice and Malice.
+
+This year's buggy names will be under wraps until Thursday, when the Buggy Showcase will take place from noon to 2 p.m. in Weigand Gymnasium in the Cohon University Center. It's one of the few times spectators can see buggies up close.
+3.3.6.2 Common MCDS Core Courses All MCDS students are required to complete four common core courses in their first two semesters:  10-601 - Machine Learning  15-619 - Cloud Computing  05-839 - Interactive Data Science  11-631 - Data Science Seminar
+3.3.6.3 Areas of Concentration In addition to the common MCDS core, all students must complete at least one area of concentration, which consists of three courses in Analytics, Systems, or Human- Centered Data Science. Students consult with their academic advisor and choose one or more areas of concentration during their first semester, in preparation for enrolling in Spring classes.
+........................................................................................................ 13 3.3 MCDS Degree Enrollment Process and Related Information ............................. 13 3.3.1 Duration of the degree program  13 3.3.2 Residency requirements  13 3.3.3 Degree Certification: Course requirements and related policies/protocols  13 3.3.4 Prerequisite Core Course  14 3.3.5 Plan of study  14 3.3.6.1 MCDS Curriculum  15 3.3.6.2 Common MCDS Core Courses  15 3.3.6.3 Areas of
+
+
+Answer: 

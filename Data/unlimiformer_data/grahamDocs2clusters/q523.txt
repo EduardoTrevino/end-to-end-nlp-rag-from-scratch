@@ -1,0 +1,175 @@
+Question: When does the Fall 2024 course registeration start for doctoral students?
+
+Context: Fall 2023
+
+Course number: 24892
+
+Title: Locomotion Seminar
+
+Units: 0.0
+
+Section: A
+
+Days: F
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: BH 235A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Johnson
+
+Fall 2023
+
+Course number: 24991
+
+Title: Professional Development for PhD students
+
+Units: 2.0
+
+Section: A
+
+Days: F
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wolfe
+
+Fall 2023
+
+Course number: 92848
+
+Title: Organizational Ethics
+
+Units: 4.0
+Title: Introductory Course for CS Doctoral Students (IC)
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Crary
+
+Fall 2023
+
+Course number: 15997
+
+Title: Graduate Reading and Research
+
+Units: 1-60
+
+Section: A,PP
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Crary
+
+Fall 2023
+
+Course number: 15998
+
+Title: Practicum in Computer Science
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+Instructors: Shah
+
+Fall 2023
+
+Course number: 10701
+
+Title: Introduction to Machine Learning (PhD)
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 2210
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chai, Lipton
+
+Fall 2023
+
+Course number: 10703
+
+Title: Deep Reinforcement Learning & Control
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Fragkiadaki
+
+Fall 2023
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+
+
+Answer: 

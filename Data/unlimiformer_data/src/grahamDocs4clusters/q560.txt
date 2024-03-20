@@ -1,0 +1,195 @@
+Question: What is the role of the mapping network in the proposed model in "Generating Images with Multimodal Language Models"?
+
+Context: Paper title: 'Generating Images with Multimodal Language Models' Published year: 2023 Publication venue or conference: arXiv.org Authors: Daniel Fried, R. Salakhutdinov, Jing Yu Koh Summary: This work proposes a method to fuse frozen text-only large language models (LLMs) with pre-trained image encoder and decoder models, by mapping between their embedding spaces, and exhibits a wider range of capabilities compared to prior multimodal language models.
+In this work, we tackle the task of extending multimodal language models to generate novel images. Our approach, Generating Images with Large Language Models (GILL), is capable of processing arbitrarily interleaved image-and-text inputs to generate text, retrieve images, and generate novel images (Fig. 1). Our findings show that it is possible to efficiently map the output embedding space of a frozen text-only LLM to that of a frozen generation model (in this work, Stable Diffusion [49])
+Multimodal Language Models Several prior works have developed multimodal language models which process image and text inputs to generate text outputs. Frozen [56] showed that it is possible to finetune a visual encoder to map images into the hidden space of a text-only LLM, and that this exhibits compelling few-shot, captioning, and question answering abilities. Other methods improve upon this approach by introducing adapters [19], scaling up model and data sizes [4, 64], improving the visual
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Section: A
+
+Days: MW
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: SH 238
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Riviere
+
+Spring 2024
+
+Course number: 16785
+
+Title: Integrated Intelligence in Robotics: Vision Language Planning
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Oh
+
+Spring 2024
+
+Course number: 16823
+
+Title: Physics-based Methods in Vision (Appearance Modeling):
+
+Units: 12.0
+
+Section: A,
+Title: Seminar: Multimodal Foundational Models
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ramanan
+
+Fall 2023
+
+Course number: 16895
+
+Title: Understanding and Critiquing Generative Computer Vision
+
+Units: 12.0
+
+Section: A
+
+Days: F
+
+Start: 12:30PM
+
+End: 02:50PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gupta
+
+Fall 2023
+
+Course number: 16897
+
+Title: Seminar on Robotics
+
+Units: 0.0
+In the spring, the Task Force partnered with SME Branding — a firm with more than 17 years of experience creating mascots for professional sports teams and universities — to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+
+
+Answer: 

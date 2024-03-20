@@ -1,0 +1,85 @@
+Question: Which two NLP tasks were applied with the NLPositionality framework in the study?
+
+Context: results generalize to the entire group; further, it may risk tokenizing already marginalized communities. As part of our study, we apply NLPositionality to only two tasks which have relatively straightfor- ward annotation schemes. It may be difficult to generalize to other NLP tasks which have harder annotation schemes, especially ones that require a lot of explanation to the annotators, for example, natural language inference (NLI) tasks.
+In this paper, we characterized design biases and the positionality of datasets and models in NLP. We introduced the NLPositionality framework for identifying design biases in NLP datasets and models. NLPositionality consists of a two-step process of collecting annotations from diverse an- notators for a specific task and then computing the alignment of the annotations to dataset labels and model predictions using Pearson’s r. We applied NLPositionality to two tasks: social acceptability and
+We apply NLPositionality to two case studies of NLP tasks—social acceptability and hate speech detection—which are known to exhibit design bi- ases (Talat et al., 2022; Sap et al., 2022; Ghosh et al., 2021). We examine datasets and supervised models related to these tasks as well as general- purpose large language models (i.e., GPT-4). As of May 25 2023, a total of 16, 299 annotations were collected from 1, 096 annotators from 87 countries, with an average of 38 annotations per day. We dis-
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Machine Translation
+
+Spring 2:
+
+Comp Semantics for NLP
+
+Neural Networks for NLP
+
+Elective
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in deepening their expertise in Human Language area of concentration
+
+Fall 1:
+
+Natural Language Processing
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+
+
+Answer: 

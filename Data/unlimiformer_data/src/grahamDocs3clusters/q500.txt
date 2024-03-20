@@ -1,0 +1,172 @@
+Question: What is the full name of the conference where the paper The Devil Is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation, got published?
+
+Context: Paper title: 'INSTRUCTSCORE: Towards Explainable Text Generation Evaluation with Automatic Feedback' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Lei Li, William Yang Wang, Markus Freitag, Danqing Wang, Wenda Xu, Zhenqiao Song, Liangming Pan Summary: This work fine-tunes a LLAMA model to create an evaluative metric that can produce a diagnostic report aligned with human judgment, and achieves performance levels on
+Thompson B. and Post M. (2020). Automatic machine translation evaluation in many languages via zero-shot paraphrasing.
+
+In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 90–121.
+
+https://doi.org/10.1017/S1351324923000505 Published online by Cambridge University Press
+
+Natural Language Engineering
+
+Tu Z., Lu Z., Liu Y., Liu X. and Li H. (2016). Modeling coverage for neural machine translation. In Proceedings of the 54th
+Paper title: 'Don't Take This Out of Context! : On the Need for Contextual Models and Evaluations for Stylistic Rewriting' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Elizabeth Clark, Xuhui Zhou, Maarten Sap, Akhila Yerukola Summary: No TLDR summary available
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Room:  ,POS 146
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Paulisick
+
+Fall 2023
+
+Course number: 11663
+
+Title: Applied Machine Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: SH 105
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11667
+
+Title: Large Language Models Methods and Application
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: BH A51
+
+Locations: Pittsburgh, Pennsylvania
+Language Technologies Institute - Faculty Name: Lei Li Email: leili@andrew.cmu.edu Research Areas: Machine Learning, Machine Translation, Large Language Models, AI Drug Discovery Phone: 412-268-6355
+equivalent (an oral presentation that at least t wo SCS faculty certify as being of
+
+conference- talk quality).
+
+Programming:  This is satisfied by demonstrating competence in computer programming
+
+of language technology; this is normally satisfied in the course of the student's research
+
+and/or project work.
+
+LTI Ph.D.  Graduate Student Handbook  Page 16
+
+Teaching:  This is satisfied by two (2) successful Teaching Assistantships ( TA-ships), as
+Language Technologies Institute - Faculty Name: Ralf Brown Email: ralf@andrew.cmu.edu Office: 5711 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Translation, Natural Language Processing and Computational Linguistics Phone: 412-268-8298
+
+
+Answer: 

@@ -1,0 +1,199 @@
+Question: The analysis in the paper Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models, includes how many diverse languages?
+
+Context: 3 2 0 2
+
+y a M 3 2
+
+] L C . s c [
+
+1 v 7 0 7 3 1 . 5 0 3 2 : v i X r a
+
+Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
+
+♢
+
+♠
+
+♢
+
+Orevaoghene Ahia
+
+Sachin Kumar
+
+Hila Gonen ♢♡
+
+Jungo Kasai
+
+♠
+
+♢
+
+David R. Mortensen
+
+Noah A. Smith
+
+Yulia Tsvetkov
+
+♢
+
+♢
+
+Paul G. Allen School of Computer Science & Engineering, University of Washington Language Technologies Institute, Carnegie Mellon University Allen Institute for Artificial Intelligence
+
+♠
+
+♡
+
+Abstract
+Julien Abadji, Pedro Ortiz Suarez, Laurent Romary, and Benoît Sagot. 2022. Towards a Cleaner Document- Oriented Multilingual Crawled Corpus. arXiv e- prints, page arXiv:2201.06642.
+
+Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Jungo Kasai, David R. Mortensen, Noah A. Smith, and Yu- lia Tsvetkov. 2023. Do all languages cost the same? tokenization in the era of commercial language mod- els.
+information in different languages. In this work, we analyze the effect of this non- uniformity on the fairness of an API’s pricing policy across languages. We conduct a system- atic analysis of the cost and utility of OpenAI’s language model API on multilingual bench- marks in 22 typologically diverse languages. We show evidence that speakers of a large num- ber of the supported languages are overcharged while obtaining poorer results. These speak- ers tend to also come from regions where the
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gomez
+
+Fall 2023
+
+Course number: 82383
+
+Title: Second Language Acquisition: Theories and Research
+
+Units: 9.0
+
+Section: A
+
+Days: R
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: PH 125D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Burns
+
+Fall 2023
+
+Course number: 82387
+
+Title: Introduction to Linguistic Data Analysis Using R
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+The war is over, and we won! This week, the 100 Years of Buggy History series brings back Fraternities, Spring Carnival, and most importantly, Buggy! The post-war era brought a whole new style of buggy, but also brought with it some controversies. It also saw the entry of multiple non-Greek organizations for the first time! (As a reminder, the Men’s Dorms were permitted to enter in 1928, though it’s unclear if they actually did).
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+22. Language learning software, 2010 Learning a second language has always been challenging, but a CMU spinoff called Duolingo is proving that it doesn’t have to be expensive. Duolingo has developed language tutoring software that enables users to learn Spanish, English, Italian, German, Portuguese or French for free through its website and mobile apps. In the process, Duolingo users are helping to translate the Web.
+(11-761) - Multimodal Affective Computing (11-776) - The Nature of Language (80-180)
+
+
+Answer: 

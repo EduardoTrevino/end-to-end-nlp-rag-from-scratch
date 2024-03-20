@@ -1,0 +1,25 @@
+Question: What are the three aspects assessed by the holistic evaluation in MultiZoo & MultiBench?
+
+Context: In this section, we outline the design principles and process of evaluating multi-modal LLMs (i.e., AudioGPT). Speciﬁcally, we evaluate the LLMs in the following three aspects: 1) Consistency, which measures whether the LLMs properly understand the intention of a user, and assigns the audio foundation models closely aligned with human cognition and problem-solving; 2) Capabilitity, which measures the performance of audio foundation models in handling complex audio tasks, understanding and
+We present Pentathlon, a benchmark for holistic and realistic evaluation of inference efficiency. Pentathlon targets multiple aspects of efficiency including latency, throughput, memory overhead, number of parameters, and energy consumption, on a strictly-controlled hardware platform. Inte- grating evaluation with Pentathlon is seamless and can drastically reduce the workload to make fair and reproducible efficiency comparisons. Pentathlon offers both testing in real-world application scenarios
+[64] Rishabh Mehrotra, James McInerney, Hugues Bouchard, Mounia Lalmas, and Fernando Diaz. 2018. Towards a Fair Mar- ketplace: Counterfactual Evaluation of the trade-off between Relevance, Fairness and Satisfaction in Recommendation Systems. In Proceedings of the 27th ACM conference on Information and knowledge management.
+
+[65] Silvia Milano, Mariarosaria Taddeo, and Luciano Floridi. 2021. Ethical aspects of multi-stakeholder recommendation
+3.7 Grading and Evaluation  ................................................................................................................. 20
+
+3.7.1  University Policy on Grades  .................................................................................................  20
+
+3.7.2  University Policy on Grades for Transfer Courses  ......................................................... 20
+Academic Coaching: Academic Coaching provides holistic one -on-one peer  support and
+
+group workshops to help students find and implement their conditions for success. We assist students in improving time management, productive habits, organization, stress management, and study skills. Students will request support through the Academic
+
+Success Center website and attend in- person meetings or meet using video and audio
+
+conferencing technology to provide all students with support.
+end of the semester, the faculty evaluates each student's academic progress. The student's advisor serves as the student's advocate in this process. The result of the evaluation is a letter from the faculty to the student that indicates whether the student is making satisfactory progress  towards completing the degre e.
+
+A good letter  typically indicates that the student is making satisfactory progress. If the student
+
+
+Answer: 

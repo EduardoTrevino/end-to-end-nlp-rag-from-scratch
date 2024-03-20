@@ -1,0 +1,159 @@
+Question: In fall 2024, When are Mid-Semester & Mini-1 grades due by 4 pm?
+
+Context: Fall 2023
+
+Course number: 60454
+
+Title: Adv Studio: Small Things:Quiet interventions, Miniatures & the Power of Everyday
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: DH C300
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yeh
+
+Fall 2023
+
+Course number: 60470
+
+Title: Advanced DP3: Special Topic: Painting The Unconscious
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 310
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ray
+
+Fall 2023
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A1
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33224
+
+Title: Stars, Galaxies and the Universe
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,T
+
+Start: 03:00PM,07:00PM
+
+End: 07:50PM,03:50PM
+
+Room: HH B103,POS 151
+Title: Data-Driven Decision Analysis
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5310
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rode
+
+Fall 2023
+
+Course number: 88397
+
+Title: SDS Undergraduate Research - mini
+
+Units: VAR
+
+Section: S2,V2,T2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Downs,Jarbo,Oppenheimer
+
+Fall 2023
+
+Course number: 88398
+
+Title: Independent Study
+
+Units: 1-18
+
+Section: A
+
+Days: TBA
+
+Start:
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+close Date -  March 4 ; Event - 8 M-F Spring Break; No Classes Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 12 ; Day - Tuesday ; Event - Summer 2024 Registration Opens Date -  March 15 ; Day - Friday ; Event - Mini-4
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+
+
+Answer: 

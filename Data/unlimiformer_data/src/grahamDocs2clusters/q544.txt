@@ -1,0 +1,121 @@
+Question: In fall 2023, When is the deadline to drop a Mini-1 course with a withdrawal grade assigned?
+
+Context: Fall 2023
+
+Course number: 60454
+
+Title: Adv Studio: Small Things:Quiet interventions, Miniatures & the Power of Everyday
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: DH C300
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yeh
+
+Fall 2023
+
+Course number: 60470
+
+Title: Advanced DP3: Special Topic: Painting The Unconscious
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 310
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ray
+
+Fall 2023
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A1
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33224
+
+Title: Stars, Galaxies and the Universe
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,T
+
+Start: 03:00PM,07:00PM
+
+End: 07:50PM,03:50PM
+
+Room: HH B103,POS 151
+Instructors: Bjorndahl,Glymour,Spirtes,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Seidenfeld,Awodey,Simons,Werner,Ramsey,Avigad
+
+Fall 2023
+
+Course number: 80992
+
+Title: Directed Reading Mini
+
+Units: 3,6,12,15
+
+Section: I2,S2,E2,O2,Q2,P2,C2,R2,L2,G2,B2,J2,N2,F2,D2,H2,M2,T2,K2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+; Day - Monday ; Event - Mini-1 drop deadline; withdrawal grade assigned after this date (2) Date -  September 30 ; Day - Monday ; Event - Mini-1 Pass/no pass & withdrawal deadline (3) Date -  September 30 ; Day - Monday ; Event - Mini-1 Faculty Course Evaluations open Date -  October 7 ; Day - Monday ; Event - Semester drop deadline; withdrawal grade assigned after this date (2) Date -  October 11 ; Day - Friday ; Event - Mini-1 Last Day of Classes Date -  October 11 ; Day - Friday ; Event -
+October 2 ; Day - Monday ; Event - Mini-1 Pass/no pass & withdrawal deadline (3) Date -  October 2 ; Day - Monday ; Event - Mini-1 Faculty Course Evaluations open Date -  October 9 ; Day - Monday ; Event - Semester drop deadline; withdrawal grade assigned after this date Date -  October 13 ; Day - Friday ; Event - Mini-1 Last Day of Classes Date -  October 13 ; Day - Friday ; Event - Mini-1 voucher election deadline (4) Date -  October 13 ; Event - 14 F-Sa Family Weekend Date -  October 14 ;
+add, audit & tuition adjustment drop deadline (1) Date -  April 1 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  April 3 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week Date -  April 15 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -  April 15 ; Day -
+
+
+Answer: 

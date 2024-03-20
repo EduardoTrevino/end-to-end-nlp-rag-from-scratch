@@ -1,0 +1,39 @@
+Question: Who generates ValuePrism's contextualized values?
+
+Context: To examine how context can be leveraged for explaining offensiveness, we train CHARM, a Context-aware Harm Reasoning Model, using COBRACORPUS. Through context-aware and context-agnostic model ablations, we show per- formance improvements with the use of context when generating COBRA explanations, as mea- sured by automatic and human evaluations. Surpris- ingly, on the challenging counterfactual contexts (COBRACORPUS-CF), CHARM surpasses the per- formance of GPT-3.5—which provided CHARM’s
+Shapley values (Hart, 1989), originating from co- operative game theory, have emerged as a powerful model-agnostic tool to explain the predictions of machine learning models. This approach provides a way to fairly distribute the contribution of each feature to the overall prediction for a specific in- stance. By calculating the Shapley value for each feature, we gain insight into the importance of in- dividual features within the context of a specific prediction. This interpretability technique
+4 COBRACORPUS-CF: Generating
+
+Counterfactual Contexts
+
+To examine the limits of context-aware ex- planations generate COBRACORPUS-CF, a challenge set of counterfac- tual context pairs that invert the offensiveness of statements, inspired by adversarial and counterfac- tual test sets in NLP (Gardner et al., 2020; Li et al., 2020; Chang et al., 2021). Illustrated in Figure 1, our motivating question asks, how does the toxicity of a statement change with a different context?
+
+of
+create and disseminate knowledge and art through research and artistic expression, teaching
+
+and learning and transfer to society, to serve students by teaching them leadership and
+
+problem -solving skills, and the values of quality, ethical behavior, responsibility to society and
+
+commitments to work, to pursue the advantages provided by a diverse community, open to the
+
+exchange of ideas, where discovery and artistic creativity can flourish.
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+Design and execute experimental data collection and present resulting analyses using appropriate user experience (UX) techniques including interactive data visualizations.
+
+Apply and customize analytics, systems and human
+
+centered data science techniques to application
+
+specific data science requirements and objectives.
+
+Identify tradeoffs among data science techniques (analytics, systems and/or human
+
+
+Answer: 

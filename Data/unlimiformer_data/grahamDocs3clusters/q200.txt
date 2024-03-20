@@ -1,0 +1,258 @@
+Question: What is the number of the HR person at LTI?
+
+Context: We would like to thank our workers on MTurk for their responses. We are also grateful to the anonymous reviewers for their helpful comments. Special thanks to Saadia Gabriel, Jocelyn Shen, Ashutosh Baheti, and the members of the CMU LTI COMEDY group for their feedback, and Ope- nAI for providing access to the GPT-3.5 API. This research was supported in part by the Meta Fun- damental AI Research Laboratories (FAIR) “Dyn- abench Data Collection and Benchmarking Plat- form” award “ContExTox:
+LTS+CM (this work) LTS+NN [Orseau and Lelis, 2021]
+
+100.00 100.00
+
+41.7 40.1
+
+2 132.3 2 640.4
+
+124 19 500
+
+The Witness
+
+LTS+CM (this work) LTS+NN [Orseau and Lelis, 2021]
+
+100.00 100.00
+
+15.5 14.8
+
+102.8 520.2
+
+9 3 200
+
+STP (24-puzzle) LTS+CM (this work)
+
+LTS+NN [Orseau and Lelis, 2021]
+
+100.00 0.90
+
+211.2 145.1
+
+5 667.4 39 005.6
+
+236 31 100
+
+Boxoban hard
+
+LTS+CM (this work) LTS+NN [Guez et al., 2019] ExPoSe [Mittal et al., 2022]
+
+100.00 94.00 97.30
+
+67.8 n/a n/a
+
+48 058.6 n/a n/a
+3.2 Ranking Regimes Here, we distinguish between two LTR regimes: (i) tabular search for head queries; and (ii) general LTR model for tail queries. Note that the majority of previous studies focused only on the general LTR regime [e.g., 35, 44], or the tabular regime [e.g., 6, 43]. In contrast, we follow [49] and consider both LTR regimes.
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hovis, Pinnow
+
+Spring 2024
+
+Course number: 38110
+
+Title: ENGAGE in Service
+
+Units: 1.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+Room: BH A51, ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11490
+
+Title: LTI Minor Project - Seniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11492
+
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+The Language Technologies Institute is located primarily on the 5th and 6th floors of the Gates
+
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus . The address and contact
+
+information of the LTI are :
+
+Language Technologies Institute
+
+Carnegie Mellon University
+
+5000 Forbes Avenue
+
+Gates Hillman Complex 5404 , LTI
+
+Pittsburgh, PA 15241 -3891
+
+412-268-6591  (phone)
+
+412-268-6298 (fax)
+
+http://www.lti.cs.cmu.edu/
+
+1.5 Carnegie Mellon University Statement of Assurance
+conflicts.
+
+The Language Technologies Institute is located primarily on the 5
+
+th and 6th floors  of the Gates
+
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus. The address and contact
+
+information of the LTI are:
+
+Language Technologies Institute
+
+Carnegie Mellon University
+
+5000 Forbes Avenue
+
+Gates Hillman Complex 5402, LTI
+
+Pittsburgh, PA 152 41-3891
+
+412- 268-6591 (phone)
+
+412- 268-6298 (fax)
+
+http://www.lti.cs.cmu.edu/
+
+MLT Graduate Student Handbook  Page 8
+Offices are assigned by the LTI’s Office Manager (see Section 1.2 , Department Personnel, for
+
+contact information).
+
+2.3 Mailboxes and Office Supplies
+
+Mailboxes and office supplies are in GHC 5404.
+
+2.4 Photocopies and Printers
+
+Printers and photocopies are available to LTI students. The use of a photocopier or printer
+
+requires you to log in with your CMU ID card. LTI students may use printers/photocopiers
+
+
+Answer: 

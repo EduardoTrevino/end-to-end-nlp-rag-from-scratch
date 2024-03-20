@@ -1,0 +1,160 @@
+Question: Which conference was the paper Cross-Modal Fine-Tuning: Align then Refine published in?
+
+Context: Chung, Y.-A., Weng, W.-H., Tong, S., & Glass, J. (2018). Unsupervised cross-modal alignment of speech and text embedding spaces. In: Proceedings of the 32nd International Conference on Neural Infor- mation Processing Systems. NIPS’18, pp. 7365–7375. Curran Associates Inc., Red Hook, NY, USA. Churchland, P. M., & Churchland, P. S. (1990). Could a machine think? Scientific American, 262(1),
+
+32–7.
+Paper title: 'INSTRUCTSCORE: Towards Explainable Text Generation Evaluation with Automatic Feedback' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Lei Li, William Yang Wang, Markus Freitag, Danqing Wang, Wenda Xu, Zhenqiao Song, Liangming Pan Summary: This work fine-tunes a LLAMA model to create an evaluative metric that can produce a diagnostic report aligned with human judgment, and achieves performance levels on
+Paper title: 'LoFT: Local Proxy Fine-tuning For Improving Transferability Of Adversarial Attacks Against Large Language Model' Published year: 2023 Publication venue or conference: arXiv.org Authors: Ankit Shah, Muhammad Ahmed Shah, Soham Deshmukh, R. Olivier, Roshan Sharma, Michael Kuhlmann, Hira Dhamyal, Dareen Alharthi, Massa Baali, Rita Singh, Bhiksha Raj, Hazim T Bukhari Summary: Local fine-tuning of proxy models improves attack transferability and increases attack success rate by $39, $7,
+Title: Seminar in Finance IV (Corporate Finance)
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mayer
+
+Spring 2024
+
+Course number: 47744
+
+Title: Analytical and Structural Marketing Models
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Srinivasan
+
+Spring 2024
+
+Course number: 47770
+
+Title: Strategic Queueing Models
+
+Units: 6.0
+Days: T
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: MM 103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Vavasis
+
+Spring 2024
+
+Course number: 48410
+
+Title: Advanced Synthesis Options Studio II
+
+Units: 18.0
+
+Section: A,E,B,F,G,C,D,Lec
+
+Days: TR
+
+Start: 01:00PM
+
+End: 04:50PM
+
+Room: CFA 200,POS 146,MM 312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hayes,Bista,Cupkova,Arscott,Damiani,Garofalo,Lee,Bizon
+
+Spring 2024
+
+Course number: 48425
+
+Title: EX-CHANGE: Exhibition & Publication in Practice
+Title: Advanced Topics in Stage Management: Cross-Boundaries
+
+Units: 6.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH 226A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wei
+
+Spring 2024
+
+Course number: 54994
+
+Title: Design Thesis Practicum:
+
+Units: 9-21
+
+Section: A,E,B,C,D,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Shea,Pino, Blackwood,Thomson, Limauro, Stebbins,Warren, Block, Downs,Tsu, Eshelman
+
+Spring 2024
+5.2 Conference Travel Funding  LTI Ph.D.  Graduate Student Handbook  Page 33
+
+Students funded by research projects receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to p resent a refereed conference paper . There is an LTI
+
+form that must be filled out in advance.
+
+5.3 Research Funding
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+
+
+Answer: 

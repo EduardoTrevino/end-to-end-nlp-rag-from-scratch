@@ -1,0 +1,160 @@
+Question: What is the procedure whereby one pusher finishes pushing a buggy and the next pusher in sequence starts to push that same buggy?
+
+Context: other pushes a marble through them. This marble activates the marble generator upon contact with it. In MarblePass one participant pushed the marble to the right side of the room, and then the other pushes it towards the marble generator. In the remaining four problems, one participant is presented with two boxes of different colors. The other participant is presented with two objects of the same colors as the two boxes and of the type defined by the problem parameter (e.g. two generators).
+Figure 5: Depiction of an experiment on role reversal from Fletcher et al. (2012). The task consists of two roles: one participant pushes a ball into the apparatus, and the other redirects it with their finger. The ball then pushes two marbles toward each of the participants. In the pretraining phase, children collaborate until they master the task (three consecutive successful trials). Then, in the role reversal phase, their roles are reversed and they master the task again. Total number of
+process and reverse process; we present them as follows. Forward Process. The forward process produces a sequence {xt}t=0:T that perturbs the initial x0 ∼ q(·) into a Gaussian noise, which follows the next stochastic diﬀerential equation (SDE),
+Instructors: Hoffmann
+
+Spring 2024
+
+Course number: 15614
+
+Title: Bug Catching: Automated Program Verification
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martins
+
+Spring 2024
+
+Course number: 15617
+
+Title: HOT Compilation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Crary
+
+Spring 2024
+
+Course number: 15618
+Fall 2023
+
+Course number: 94886
+
+Title: Advances in Robotic Process Automation
+
+Units: 6.0
+
+Section: A2
+
+Days: R
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Morrow, Honig
+
+Fall 2023
+
+Course number: 94889
+
+Title: Machine Learning for Public Policy Lab
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: W,TR
+
+Start: 05:00PM,06:30PM
+
+End: 08:10PM,06:20PM
+
+Room: HBH 1006,HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ghani
+
+Fall 2023
+Section: A
+
+Days: R
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HBH 1204
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Spangler, Bowser
+
+Spring 2024
+
+Course number: 93854
+
+Title: Film Acquisition
+
+Units: 3.0
+
+Section: L
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Los Angeles, California
+
+Instructors: Iyengar
+
+Spring 2024
+
+Course number: 93855
+
+Title: Intellectual Property
+
+Units: 6.0
+
+Section: L
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Los Angeles, California
+Transition: Procedure whereby one pusher finishes pushing a buggy and the next pusher in sequence starts to push that same buggy.
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+Teams in the outside lane are given a 3 yard head start due to being required to go the long way around the traffic dummy Each pusher must have at least 1 hand on the buggy at all times, except in the transition zone; but no more than 1 pusher may be in contact with the buggy at any time In addition to the driver, pushers, and alternates, Rosters also included all designers and builders Buggies entered in Design Comp must also finish the race in order to qualify (but exceptions are permitted)
+
+
+Answer: 

@@ -1,0 +1,103 @@
+Question: In fall 2023, When are the Semester & Mini-2 Faculty Course Evaluations open?
+
+Context: Instructors: Glymour,Wu,Bjorndahl,Spirtes,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Seidenfeld,Simons,Awodey,Smith,Werner,Avigad
+
+Fall 2023
+
+Course number: 80496
+
+Title: Undergraduate Independent Study Mini
+
+Units: VAR
+
+Section: I2,S2,E2,O2,Q2,P2,C2,R2,L2,G2,B2,J2,N2,F2,D2,H2,M2,T2,K2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Title: Data-Driven Decision Analysis
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5310
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rode
+
+Fall 2023
+
+Course number: 88397
+
+Title: SDS Undergraduate Research - mini
+
+Units: VAR
+
+Section: S2,V2,T2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Downs,Jarbo,Oppenheimer
+
+Fall 2023
+
+Course number: 88398
+
+Title: Independent Study
+
+Units: 1-18
+
+Section: A
+
+Days: TBA
+
+Start:
+Instructors: Bjorndahl,Glymour,Spirtes,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Seidenfeld,Awodey,Simons,Werner,Ramsey,Avigad
+
+Fall 2023
+
+Course number: 80992
+
+Title: Directed Reading Mini
+
+Units: 3,6,12,15
+
+Section: I2,S2,E2,O2,Q2,P2,C2,R2,L2,G2,B2,J2,N2,F2,D2,H2,M2,T2,K2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+November 25 ; Day - Monday ; Event - Semester & Mini-2 Faculty Course Evaluations open Date -  November 27 ; Event - W-F Thanksgiving Break; No Classes Date -  December 6 ; Day - Friday ; Event - Semester & Mini-2 Last Day of Classes Date -  December 6 ; Day - Friday ; Event - Semester & Mini-2 voucher deadline (4) Date -  December 9 ; Event - 10 M-Tu Final Exams Date -  December 11 ; Day - Monday ; Event - Reading Day Date -  December 12 ; Event - 13 Th-F Final Exams Date -  December 14 ;
+(2) Date -  July 22 ; Day - Friday ; Event - Mini-6 pass/no pass & withdrawal deadline (3) Date -  July 29 ; Day - Monday ; Event - Semester & Mini-6 Faculty Course Evalutations open Date -  August 1 ; Event - Semester & Mini-6 Last Day of ClassesSummer Semester 2024 (M24) Date - August 1 ; Day - Thursday ; Event - Semester & Mini-6 voucher deadline (4) Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Final Exams*** Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Faculty
+
+
+Answer: 

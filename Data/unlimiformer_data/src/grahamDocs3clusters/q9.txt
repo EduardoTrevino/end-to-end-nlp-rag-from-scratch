@@ -1,0 +1,194 @@
+Question: What class room was advanced NLP taught last semester?
+
+Context: Andrew Caines, Helen Yannakoudakis, Helena Edmond- son, Helen Allen, Pascual Pérez-Paredes, Bill Byrne, and Paula Buttery. 2020. The teacher-student chat- room corpus. In Proceedings of the 9th Workshop on NLP for Computer Assisted Language Learning, pages 10–20.
+▶ Proposition 23. The classes coLP and NLP are incomparable, even when restricted to graphs of bounded structural degree. More precisely, coLP|graph(∆) (cid:1)(cid:1)⋚ NLP|graph(∆) for all ∆ ≥ 3, and a fortiori coLP (cid:1)(cid:1)⋚ NLP.
+Lower barriers Beyond time saved (re-) imple- menting methods, many participants identified a lower barrier to entry into the field as a notable ben- efit of centralization on specific software infrastruc- ture. Participants described students getting state of the art results within an hour of tackling a problem; seeing the average startup time for new students decreasing from six months to a few weeks; and teaching students with no computer science back- ground to build NLP applications with
+End: 08:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: John
+
+Spring 2024
+
+Course number: 98020
+
+Title: Student Taught Courses (StuCo): Deconstructing the Barbie Cinematic Universe:
+
+Units: 3.0
+
+Section: A,
+
+Days: W,
+
+Start:  ,07:00PM
+
+End:  ,08:20PM
+
+Room:  ,GHC 4211
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Thai-Tang
+
+Spring 2024
+
+Course number: 98031
+
+Title: Student Taught Courses (StuCo): NLP Ethics in a Nutshell
+
+Units: 3.0
+
+Section: W3
+
+Days: UT
+Room: SH 105,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Bisk, Diaz
+
+Spring 2024
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: TEP 1403,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Neubig
+
+Spring 2024
+
+Course number: 11712
+
+Title: Lab in Natural Language Processing: Self-Paced
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Johnson
+
+Spring 2024
+
+Course number: 60457
+
+Title: Advanced DP3: Painting - Reverence And Representation
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 415
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Henderson
+
+Spring 2024
+
+Course number: 60462
+
+Title: Advanced DP3: Painting Matter & Substance
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: CFA 304
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+10-708, Probabilistic Graphical Models
+
+16-720, Computer Vision
+
+17-631 Information Security, Privacy & Policy
+
+17-781, Mobile and IoT Computing Services
+
+4.4.1 Breadth Courses:  Human Language
+
+11-611, Natural Language Processing
+
+11-624, Human Language for Artificial Intelligence
+
+11-711, Advanced NLP
+
+11-722, Grammar Formalisms
+
+11-724, Human Language for Artificial Intelligence
+
+11-727, Computational Semantics for NLP
+
+11-737, Multilingual NLP
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

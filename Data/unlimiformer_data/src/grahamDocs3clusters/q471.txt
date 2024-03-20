@@ -1,0 +1,196 @@
+Question: What does FACTORCL mean?
+
+Context: 1. A new analysis of contrastive learning performance showing that standard multimodal CL fails to capture task-relevant unique information under low shared or high unique information cases.
+
+2. A new contrastive learning algorithm called FACTORCL:
+
+(a) FACTORCL factorizes task-relevant information into shared and unique information, expand-
+
+ing contrastive learning to better handle low shared or high unique information.
+contained in modality-unique regions: information that is only present in one modality but still relevant to the task. How can we learn self-supervised multimodal representations to capture both shared and unique information relevant to down- stream tasks? This paper proposes FACTORCL, a new multimodal representation learning method to go beyond multi-view redundancy. FACTORCL is built from three new contributions: (1) factorizing task-relevant information into shared and unique
+Paper title: 'Factorized Contrastive Learning: Going Beyond Multi-view Redundancy' Published year: 2023 Publication venue or conference: arXiv.org Authors: Louis-Philippe Morency, P. Liang, Martin Q. Ma, R. Salakhutdinov, James Y. Zou, Zihao Deng Summary: FactorCL is a new multimodal representation learning method to go beyond multi-view redundancy and captures both shared and unique information and achieves state-of-the-art results on six benchmarks.
+Instructors: Carrington,Steinfeld,Wu,Harrison
+
+Fall 2023
+
+Course number: 05410
+
+Title: User-Centered Research and Evaluation:
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec,
+
+Days:  ,MW
+
+Start: 12:30PM, ,02:00PM
+
+End:  ,01:50PM,03:20PM
+
+Room: DH 2315,WEH 8427,PH 225B, ,GHC 4101,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Musuraca, Eslami,Eslami, Musuraca
+
+Fall 2023
+
+Course number: 05413
+
+Title: Human Factors
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: BH A53
+End: 10:50AM,
+
+Room:  ,GHC 5222
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Hammer
+
+Fall 2023
+
+Course number: 05813
+
+Title: Human Factors
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: BH A53
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dabbish
+
+Fall 2023
+
+Course number: 05814
+
+Title: Perception
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: BH 336B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Klatzky
+
+Fall 2023
+Title: Meaning in Language
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: PH 125B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Werner
+
+Fall 2023
+
+Course number: 80711
+
+Title: Proof Theory
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: PH 226C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Avigad
+
+Fall 2023
+
+Course number: 80713
+
+Title: Category Theory
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: GHC 4215
+A.3.1 Counseling & Psychological  Services
+
+https://www.cmu.edu/counseling/
+
+Counseling & Psychological Services (CaPS) affords the opportunity for students to talk privately
+
+about academic and personal concerns in a safe, confidential setting. An initial consultation at
+
+CaPS can help clarify the nature of the concern, provide immediate support, and explore further
+An “SCS course” is any 12 -unit course with a course number indicating a unit of the
+
+School of Computer Science (including LTI); a 6 -unit course with such a number counts
+
+as 1/2 of an SCS course. Unless otherwise specified, "course" means an actual classroom
+
+course, not credit given for research or independent study. Note: Recommended
+
+electives that are technically outside  of the SCS now count towards this requirement; for
+and review of allegations of research misconduct. 49
+
+14.3 Key Offices for Health, Wellness & Safety
+
+14.3.1  Counseling & Psychological Services
+
+https://www.cmu.edu/counseling/
+
+Counseling & Psychological Services (CaPS) af fords the opportunity for students to talk
+
+privately about academic and personal concerns in a safe, confidential setting. An initial
+
+consultation at CaPS can help cl arify the nature of the concern,  provide immediate support, and
+
+
+Answer: 

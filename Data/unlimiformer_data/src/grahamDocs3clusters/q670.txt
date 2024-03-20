@@ -1,0 +1,206 @@
+Question: What LTI professor co-authored "CONVOIFILTER: A CASE STUDY OF DOING COCKTAIL PARTY SPEECH RECOGNITION"?
+
+Context: 4 2 0 2
+
+n a J
+
+8
+
+]
+
+D S . s c [
+
+2 v 0 8 3 1 1 . 8 0 3 2 : v i X r a
+
+CONVOIFILTER: A CASE STUDY OF DOING COCKTAIL PARTY SPEECH RECOGNITION
+
+Thai-Binh Nguyen1, Alexander Waibel1,2
+
+1Karlsruhe Institute of Technology 2Carnegie Mellon University thai-binh.nguyen@kit.edu
+
+ABSTRACT
+This paper details a case study on cocktail party speech recog- nition. Instead of recognizing all speakers, our system focuses on enhancing the target speaker’s voice before conducting speech recognition. Through rigorous experiments, we show- cased the effectiveness of our improved end-to-end model. Noteworthy enhancements include a cross-extraction speaker encoder, an improved mask estimation model, and an opti- mized loss function. We also publicly share our pre-trained ConVoiFilter to
+This paper presents an end-to-end model designed to im- prove automatic speech recognition (ASR) for a particular speaker in a crowded, noisy environment. The model utilizes a single-channel speech enhancement module that isolates the speaker’s voice from background noise (ConVoiFilter) and an ASR module. The model can decrease ASR’s word error rate (WER) from 80% to 26.4% through this approach. Typically, these two components are adjusted independently due to vari- ations in data requirements.
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Spring 2024
+
+Course number: 11753
+
+Title: Advanced Laboratory in Speech Recognition
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11754
+
+Title: Project Course: Conversational Systems
+
+Units: 6.0
+
+Section: A
+
+Days: T
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: BH 154A
+
+Locations: Pittsburgh, Pennsylvania
+Room: BH A51, ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11490
+
+Title: LTI Minor Project - Seniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11492
+
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+Course number: 11743
+
+Title: Self-Paced Lab: IR
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+
+Course number: 11751
+
+Title: Speech Recognition and Understanding
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Fall 2023
+
+Course number: 11755
+
+Title: Machine Learning for Signal Processing
+
+Units: 12.0
+
+Section: A,B
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+At least two CMU faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the chair of graduate programs (the form for this is available on the LTI website). This feedback will help the student refine speaking skills with respect to talk structure, content, and delivery.
+
+4.1.3 Withdrawal of a Degree
+
+
+Answer: 

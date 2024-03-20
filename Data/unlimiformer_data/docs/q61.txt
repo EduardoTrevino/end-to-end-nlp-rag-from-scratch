@@ -1,0 +1,191 @@
+Question: What defines a tartan pattern in fabric?
+
+Context: where Lf t/Lf t are finetuning/pretraining loss functions, Df t/Dpt are finetuning/pretraining datasets, and w(·; λ) is the data reweighting network. Following the experiment setup in TARTAN [11], we use task-specific data and a masked language modeling loss in our auxiliary task and perform experiments with RoBERTa-base on 4 datasets from the original DAPT/TAPT paper. We compare our SAMA- based data optimization against DAPT and TARTAN-MT. We exclude TAPT and TARTAN-Meta respectively because
+Baselines We adopt DAPT [24] and TARTAN-MT [11] as our baselines for this experiment. In detail, DAPT [24] performs additional masked language model pretraining on domain-specific data on top of the pretrained RoBERTa-base model and then finetunes the model on the downstream text classification task. We follow [24] (see Table 14 in the original paper) for setting downstream finetuning hyperparameters. Alternatively, TARTAN-MT [11] performs masked language modeling with task specific data and
+reweighting samples from the continued pretraining task with meta learning. To this end, we adopt the auxiliary learning technique from TARTAN [11] and simplify the two-stage pretraining- finetuning pipeline into a one-stage multitask learning pipeline with the reweighting scheme applied to the pretraining loss. The bilevel optimization formulation is as follows:
+Section: A,
+
+Days:  ,MW
+
+Start:  ,07:00PM
+
+End:  ,08:20PM
+
+Room: WEH 5312,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Tardio
+
+Fall 2023
+
+Course number: 82250
+
+Title: Digital Realities: Introducing Immersive Technologies for Arts and Culture
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1024
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Caspar
+
+Fall 2023
+
+Course number: 82267
+
+Title: Beyond the Mafia and Michelangelo
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Tardio
+
+Summer 2024
+
+Course number: 82171
+
+Title: Elementary Japanese I
+
+Units: 12.0
+
+Section: U
+
+Days: MTWRF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PH A19A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasuhara
+
+Summer 2024
+
+Course number: 82183
+
+Title: AI for Humanities: The Multi-dimensions of World Languages, Arts, and Cultures
+
+Units: 9.0
+
+Section: U
+
+Days: MTWRF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PH 225B
+Course number: 90975
+
+Title: Independent Study
+
+Units: 1-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Tarr
+
+Spring 2024
+
+Course number: 90976
+
+Title: Independent Study
+
+Units: 1-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Taylor
+
+Spring 2024
+
+Course number: 90977
+
+Title: Independent Study
+
+Units: 1-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+You'll know it's a tartan if... • "It's a check or pattern in a variety of colours in woven fabric in which bands of colour are repeated in equal proportion in warp (running lengthwise) and weft (running across)." • "Each stripe of the warp crosses every stripe of the weft, so when vertical and horizontal stripes of the same color cross, the result is solid color at the point of intersection." • "The arrangement of colored threads is the same in the warp as in the weft."
+The Carnegie Mellon athletic teams are nicknamed the "Tartans" as a nod to Andrew Carnegie's Scottish heritage. A tartan is often misrepresented as a fierce warrior from either the Asian tundra or Scottish highlands. In actuality, a Tartan is a twilled woolen fabric with a plaid design. It is of Scottish origin and consists of stripes of various colors and widths against a solid ground, denoting a particular family lineage. The school's founder, Andrew Carnegie, was born in Dunfermline,
+What is a Tartan?
+the Tartan Emergency Support Fund. Inquiring students will be provided with additional
+
+information about the various types of funding during a consultation meeting with a member
+
+of the Dean of Students team. Tuition costs are not eligible for Student Emergency Support funding.
+
+College Liaisons and the Student Support Resources team serve as additional resources for graduate students. College Liaisons are senior members of the Division of Student Affairs who
+students through an intentional first year undergraduate experience with the goals of
+
+enhancing the cohort’s skill and community buil ding through a lens of self -authorship,
+
+growth mindset, and a sense of belonging. As part of the Student Academic Success
+
+Center, Tartan Scholars are invited to jo in the University and participate in summer
+
+initiatives and pre-orientation activities prio r to their first year at the University.
+mailing services, and postal services. Tartan Ink is located on the Lower Level of the Cohon University Center. More information regarding these services, business hours, locations and
+
+contact information can be foun d on the Office of Tartan Ink website at:
+
+https://www.cmu.edu/tartanink/aboutus/index.html
+
+.
+
+6.16 University Center
+
+www.cmu.edu/university -center
+
+The Jared L. Cohon  University Center is a centerpiece of the campus that provides a space for
+
+
+Answer: 

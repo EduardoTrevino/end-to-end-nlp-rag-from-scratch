@@ -1,0 +1,96 @@
+Question: How many courses are offered by BXA Intercollege Degree Programs in Spring 2024 (exclude the BXA Studio courses)?
+
+Context: Sample: The experiment was carried out with 100 students of the course “Introduction to Programming” in professional technical education, INACAP Ñuñoa branch.
+
+Type of test: multiple-choice test of 45 items with four answer
+
+options (only one correct) (Belmar, 2023).
+
+Estimated completion time: 90 min.
+
+Didactics: Ten principles for teaching programming by Brown
+
+and Wilson.
+Reference LM, Reward model and Training We choose LLaMA-7B base architecture (Touvron et al., 2023a) with QLoRA adapter (Dettmers et al., 2023) pretrained on HHA dataset6 as the reference policy. We also test PPO7 in this experiment, along with the aforementioned offline RL baselines and A-LOL variants. In total, we executed 36 different training runs for 12 learning methods, each with three random seeds. For all algorithms using rewards, we employ a 1.4B parameter classifier8 trained on human
+The third round of interviews was conducted in July and August 2022, and coincided with the soft launch of the beta version of the toolkit. The purpose was to gather feedback to help us refine and finalize the toolkit in preparation for a full launch in the autumn. Five interviews were conducted with participants from all three institutions. This round proved to be very valuable with regard to the functionality of the website and what content we should include or exclude. We asked our
+Spring 2024
+
+Course number: 52390
+
+Title: BXA Undergraduate Research Project
+
+Units: 3-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Murray, Hagan
+
+Spring 2024
+
+Course number: 52392
+
+Title: BXA Seminar III: Deconstructing Disciplines
+
+Units: 9.0
+
+Section: A
+
+Days: M
+
+Start: 06:00PM
+
+End: 06:50PM
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Marcum, Hagan
+
+Spring 2024
+
+Course number: 52401
+Instructors: Howard,Dealmeida,Pukinskis,Sullivan,Almarza,Kostyniak,Vosburgh,Cardenes,Wu,Houlik,Spacagna,Caballero,Howell,Schepkin,Instructor TBA,Van Hoesen,Gruber,Cherian,McGhee,Knox,Branson, Evans, Allen,Goeres,Dee,Rusinek,Aylmer,Whipple,Kush,Carlisle,Marcinizyn,van der Sloot,Laduke,Williams,Berntsen,Harding,Premo,Teadt,Galbraith,Chiu
+
+Spring 2024
+
+Course number: 57498
+
+Title: BXA Studio (3rd semester)
+
+Units: 9.0
+Instructors: Howard,Dealmeida,Pukinskis,Sullivan,Almarza,Kostyniak,Vosburgh,Cardenes,Wu,Houlik,Spacagna,Caballero,Howell,Schepkin,Instructor TBA,Van Hoesen,Gruber,Cherian,McGhee,Knox,Goeres,Dee,Rusinek,Aylmer,Whipple,Kush,Carlisle,Marcinizyn,van der Sloot,Laduke,Allen, Evans, Branson,Williams,Berntsen,Harding,Premo,Teadt,Galbraith,Chiu
+
+Spring 2024
+
+Course number: 57499
+
+Title: BXA Studio (4th semester)
+
+Units: 9.0
+3.3.6.3 Areas of Concentration In addition to the common MCDS core, all students must complete at least one area of concentration, which consists of three courses in Analytics, Systems, or Human- Centered Data Science. Students consult with their academic advisor and choose one or more areas of concentration during their first semester, in preparation for enrolling in Spring classes.
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+MCDS students must also pass the undergraduate course 15-513 Introduction to Computer Systems (6 units), typically in the summer before their program commences. The student must pass with a grade of B- or better. Failure to pass the course means that the student takes 15-213 during either the fall or spring semester. Note that in both cases the units do not count toward the 144 eligible units of study. Click here to see the MCDS Course Map. Some example courses of study are included below.
+
+
+Answer: 

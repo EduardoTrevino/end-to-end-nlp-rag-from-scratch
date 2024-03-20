@@ -1,0 +1,25 @@
+Question: What is the task success rate of the GPT-4-based agent in WebArena?
+
+Context: that humans routinely perform on the internet. We experiment with several baseline agents, integrating recent techniques such as reasoning before acting. The results demonstrate that solving complex tasks is challenging: our best GPT-4-based agent only achieves an end-to-end task success rate of 14.41%, significantly lower than the human performance of 78.24%. These results highlight the need for further development of robust agents, that current state-of-the-art large language models are far
+We use this benchmark to evaluate several agents that can follow NL command and perform web- based tasks (§4). These agents are implemented in a few-shot in-context learning fashion with powerful large language models (LLMs) such as GPT-4 and PALM-2. Experiment results show that the best GPT-4 agent performance is somewhat limited, with an end-to-end task success rate of only 14.41%, while the human performance is 78.24%. We hypothesize that the limited performance of current LLMs stems from a
+Table 1: Comparison of LLM-based agents on two SocialAI environments parsed into pure text (see figure 16). The best model (gpt-4) reached the success rates of 100% on AsocialBox, and 75% on ColorBoxes. The score of 75% suggests that the model is levering the peer to choose the correct box. When tested for generalization this model reached 55% success rate implying it is not able to generalize to a novel object. These expriments demontrate how LLM-based agents can be used in the SocialAI
+AI Innovation (11-654) – Prereq uisite is the completion of 11- 695 with a grade of “B” or
+
+better.
+
+Capstone (11-699) – Prerequisite is the completion of 11-654 with a grade of “B” or better.
+
+Students are required to repeat any required cour se that they have completed with a grade less
+
+than the required minimum, preferably at the nex t offering. (Please note that Core courses and
+
+Knowledge courses are only offered once per year.) Students will be  allowed to retake a required
+https://www.cmu.edu/student-success/ The Student Academic Success Center’s (SASC) work to support success focuses on creating spaces for students to engage in their coursework and approach to learning through many group and individual program options. SASC supports student success by providing academic coaching, subject-specific tutoring, effective communication strategies, accommodations for students with disabilities, and language support for multilingual learners.
+4.1.4  Pass/Fail Grades ...................................................................................................................... 25
+
+4.1.5  Transfer Credit  ........................................................................................................................ 25
+
+4.1.6  Residency Requirements  ...................................................................................................... 25
+
+
+Answer: 

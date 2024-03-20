@@ -1,0 +1,150 @@
+Question: For additional information about the LT concentration for undergraduates, who should you contact?
+
+Context: of macro actions — this assumes access to more information about the environment than just a simulator. The two approaches, focused macro-actions and learning a policy, are very much composable, and it would be interesting to see whether such macro actions could help make LTS+CM more efficient in training time or converge to a faster policy. As far as we are aware, LTS+CM is the first machine-learning algorithm to learn a fast policy for the Rubik’s cube — while using only little
+Table 1: Results on the test sets. The last 3 columns are the averages over the test instances. The first three domains allow for a fair comparison between LTS with context models and LTS with neural networks [Orseau and Lelis, 2021] using the same 50k training instances and initial budget. For the last two domains, comparison to prior work is more cursory and is provided for information only, in particular because the objective of DeepCubeA is to provide near-optimal-length solutions rather
+LTS+CM (this work) @5M GBFS(A+M) [Allen et al., 2021]
+
+100.00 100.00
+
+78.6 378.0
+
+431.7 †171 300.0
+
+16 n/a
+
+Table 2: More test results. See Table 1 and the text in Appendix H for more information. The line splits in Boxoban and STP are because the second group uses different training sets from the rest. The test set used by DeepCubeA for STP is different from that of LTS+{CM,NN}, but we expect the comparison to be meaningful anyway. †Does not account for the cost of macro-actions.
+Instructors: Kirmayer,Rose
+
+Spring 2024
+
+Course number: 11345
+
+Title: Undergrad Independent Study
+
+Units: 3-12
+
+Section: A,C,M,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rosenfeld,Mortensen,Fried,Callan
+
+Spring 2024
+
+Course number: 11390
+
+Title: LTI Minor Project - Juniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11411
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+Instructors: Woolford
+
+Fall 2023
+
+Course number: 03445
+
+Title: Undergraduate Research
+
+Units: 1-18
+
+Section: E,I,FF,F,HH,CC,D,WW,GG,BB,II,P,C,EE,DD,J,A,K,Y,W,B,Lec,H,L,YY,M,AA,O,X,Z,G,N,XX
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+Learn at LTI The LTI's degree programs draw from a common set of courses and core skills, but emphasize different types of expertise that prepare you for a wide range of career options. All of our programs provide the hands-on experience and rigorous curriculum that are the hallmark of computer science at Carnegie Mellon. Program Type: Undergraduate Programs Program Name: LT Concentration Overview: Human language technologies have become an increasingly central component of computer science.
+Offices are assigned by the LTI’s Office Manager (see Section 1.2 , Department Personnel, for
+
+contact information).
+
+2.3 Mailboxes and Office Supplies
+
+Mailboxes and office supplies are in GHC 5404.
+
+2.4 Photocopies and Printers
+
+Printers and photocopies are available to LTI students. The use of a photocopier or printer
+
+requires you to log in with your CMU ID card. LTI students may use printers/photocopiers
+outside of the SCS now count towards this requirement; for example, Digital Signal Processing in
+
+ECE. Please see the Program Director for approval of electives as “SCS.”
+
+“LTI Focus Areas” are sets of courses defined on the LTI course webpage under “Course Categories.” If a student believes a new course should be added to a Focus Area, they should make a request to  the Ph.D. Program Director . They  will decide, with advice from faculty in the
+
+
+Answer: 

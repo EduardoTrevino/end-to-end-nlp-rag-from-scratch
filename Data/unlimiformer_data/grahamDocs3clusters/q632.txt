@@ -1,0 +1,150 @@
+Question: How many times larger was the monoT5-3B ranker compared to the MiniLM ranker used in the InPars-Light study?
+
+Context: original InPars study) we obtained substantial (7%-30%) and statistically significant improvements over BM25 (in nDCG and MRR) using only a 30M parameter six-layer MiniLM-30M ranker and a single three-shot prompt. In contrast, in the InPars study only a 100x larger monoT5-3B model consistently outperformed BM25, whereas their smaller monoT5-220M model (which is still 7x larger than our MiniLM ranker) outperformed BM25 only on MS MARCO and TREC DL 2020. In the same three-shot prompting scenario,
+our 435M parameter DeBERTA v3 ranker was at par with the 7x larger monoT5-3B (average gain over BM25 of 1.3 vs 1.32): In fact, on three out of five datasets, DeBERTA slightly outperformed monoT5-3B. Finally, these good results were achieved by re-ranking only 100 candidate documents compared to 1000 used by Bonifacio et al. (2022). We believe that InPars-light is the first truly cost-effective prompt-based unsupervised recipe to train and deploy neural ranking models that outperform BM25. Our
+However, both of these models are quite large and we aspired to show that an InPars-like training recipe can be used with smaller models too. In contrast, Bonifacio et al. (2022) were able to show that only a big monoT5-3B model with 3B parameters could outperform BM25 on all five datasets: The smaller monoT5-200M ranker with 200 million parameters, which is still quite large, outperformed BM25 only on MS MARCO and TREC-DL 2020.
+
+3.2 Generation of Synthetic Training Data
+Instructors: Li,Labash,Ciccone,Kolowitz,Lightman,Smalley,Shaikh,Meyer,Costa,DeSantis,Dwivedi,Yucel,Vadlamudi,Stephens,Trzeciak,Yasar,Tucker,Smith,Bigrigg,Kowalsky,Jafry O'Connor,Spooner,Chen
+
+Fall 2023
+
+Course number: 95721
+
+Title: Information Systems Research Practicum
+
+Units: VAR
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhang
+
+Fall 2023
+
+Course number: 95722
+
+Title: Digital Transformation
+
+Units: 6.0
+
+Section: D2,A2
+
+Days: TR
+Instructors: Tribendis,Newman,Vazirani,El Hajj,Copinga,Robinson,Gelman,Tankova
+
+Fall 2023
+
+Course number: 21259
+
+Title: Calculus in Three Dimensions
+
+Units: 10.0
+
+Section: A,E,I,W,B,F,G,C,D,Lec 1,Lec 3,J,Lec 2,H
+
+Days: MWF,UTWR,TR
+
+Start: 03:00PM,09:00AM,02:00PM,01:00PM,12:00PM,11:00AM,10:00AM
+
+End: 12:50PM,01:50PM,09:50AM,03:50PM,02:50PM,11:50AM,10:50AM
+
+Room: CMB 2147,SH 238,WEH 8220,BH A51,WEH 4625,MI 348,DH 1211,BH 237B,DH 1112,POS 151
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+Course number: 17423
+
+Title: Designing Large-scale Software Systems
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 09:30AM,10:00AM
+
+End: 10:50AM
+
+Room: SH 238,SH 236
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Durschmid, Kang,Kang, Durschmid
+
+Spring 2024
+
+Course number: 17437
+
+Title: Web Application Development
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HOA 160
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lee, Eppinger
+
+Spring 2024
+Semester : (M
+
+13, T
+
+14, W
+
+14, Th
+
+13, F
+
+13) Total=67
+
+Mini
+
+3: (M
+
+6, T
+
+7, W
+
+7, Th
+
+7, F
+
+7) Total=34
+
+Mini
+
+4: (M
+
+7, T
+
+7, W
+
+7, Th
+
+6, F
+
+6) Total=33
+Tartan, Heat 1 saw a very tight race between KapSig, DTD, and PiKA, with KapSig winning in 3:24.5, DTD finishing in 3:25.1, and PiKA finishing in 3:26.3. Those were the top 3 times and they advanced to the finals. Prelim Heat 2 paired Beta, SAE, and DU, and SAE won the heat by default, as Beta was DQ’d for a pushbar violation and DU was DQ’d for a Hill 4-5 transition violation (the Tartan reports that they “shoved the buggy into the last zone instead of pushing it”). Prelims Heat 3 was a battle
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+
+
+Answer: 

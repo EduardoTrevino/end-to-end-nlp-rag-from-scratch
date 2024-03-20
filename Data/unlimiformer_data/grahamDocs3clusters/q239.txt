@@ -1,0 +1,200 @@
+Question: What does POMDP stand for?
+
+Context: The WebArena environment is denoted as E= ⟨S, A, O, T ⟩ with state space S, action space A (§2.4) and observation space O (§2.3). The transition function T : S × A−→ S is deterministic, and it is defined by the underlying implementation of each website in the environment. Performing a task described by a natural language intent i can be formulated as a partially observable Markov decision process (POMDP): at each time step t, an agent issues an action at∈ A given the partial observation ot∈ O.
+Acc. TP. Latency Mem. Energy & CO2
+
+BSZ
+
+Fixed batching Poisson batching Single stream Offline
+
+✓ ✗ ✗ ✗
+
+✓ ✓ ✗ ✓
+
+✓ ✓ ✓ ✗
+
+✓ ✓ ✓ ✓
+
+✓ ✓ ✓ ✓
+
+User specified Random 1 User specified
+The Neyman-Scott process (NSP) was ﬁrst proposed by Neyman and Scott (1958). NSPs are a class of hierarchical point process models built by stacking Poisson processes into a network. NSPs were originally univariate, i.e., can only be applied to events with one type or mark. Hong and Shelton (2022) introduce multivariate NSPs with hi- erarchical structures, called deep Neyman-Scott processes (DNSPs). We use “deep” to differentiate our work from other work that only has one hidden layer (e.g.,
+Course number: 19694
+
+Title: Leadership and Innovation Management
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cohon
+
+Fall 2023
+
+Course number: 19695
+
+Title: Internship Practicum
+
+Units: 0-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Matthews
+
+Fall 2023
+
+Course number: 19700
+
+Title: Directed Study in EPP: Graduate
+
+Units: 0-36
+
+Section: A,PP
+Start: 01:00PM,12:00PM,11:00AM,02:00PM
+
+End: 11:50AM,12:50PM,01:50PM,03:20PM
+
+Room: PH A18B,POS 153,SH 105,POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sherry
+
+Fall 2023
+
+Course number: 15445
+
+Title: Database Systems
+
+Units: 12.0
+
+Section: A,W,B
+
+Days: MW
+
+Start: 10:00AM,02:00PM
+
+End: 11:20AM,03:20PM
+
+Room: TEP 1403,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Patel, Pavlo,Pavlo, Patel
+
+Fall 2023
+
+Course number: 15451
+
+Title: Algorithm Design and Analysis
+End: 12:20PM
+
+Room: POS 147
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Habib
+
+Fall 2023
+
+Course number: 17607
+
+Title: Privacy by Design Practicum
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Habib
+
+Fall 2023
+
+Course number: 17608
+
+Title: Privacy Engineering Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sadeh, Habib
+
+Fall 2023
+Multi-processor machines emerge CSD emerged from the brief crisis as a highly agile, interdisciplinary entity, with many new faculty members taking joint appointments with other CMU departments. Several large projects emerged in the Computer Science Department, including C.mmp, the first shared-memory multiprocessor computer, with 16 processing units, and Cm*, a 50-processor computer. These computers were the forerunners of today’s ubiquitous multi-core desktops and laptops.
+campus phone), by approaching an escort team, or by stopping by the SafeWalk dispatch area in
+
+the University Center, Lower Level near the Po st Office Package Pick-Up window between
+
+10pm-2am. SafeWalk will escort to locations ap proximately one mile from campus. Additional 40
+
+SafeWalk information can be found at https://www.cmu.edu/admission/campus-
+
+experience/student-services.
+
+13.16  Copying, Printing and Mailing Services
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

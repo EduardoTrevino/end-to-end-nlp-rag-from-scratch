@@ -1,0 +1,184 @@
+Question: In Yonatan Bisk's MOSAIC paper, what does MOSAIC stand for?
+
+Context: Paper title: 'MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception' Published year: 2023 Publication venue or conference: arXiv.org Authors: Yonatan Bisk, Jonathan M Francis, Gyan Tatiya, Ho-Hsiang Wu, J. Sinapov Summary: This work pioneers the application of CLIP-based sensory grounding in robotics, promising a significant leap in multi-sensory perception capabilities for autonomous systems.
+3 2 0 2
+
+p e S 5 1
+
+]
+
+O R . s c [
+
+1 v 8 0 5 8 0 . 9 0 3 2 : v i X r a
+
+MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception
+
+Gyan Tatiya1∗
+
+Jonathan Francis2 Ho-Hsiang Wu2 Yonatan Bisk3
+
+Jivko Sinapov1
+We introduce MOSAIC (Multi-modal Object property learning with Self-Attention and Integrated Comprehension), an approach to acquire versatile representations adaptable to various interactive perception tasks within robotics. MO- SAIC is designed to extract unified multi-sensory object property representations, enabling understanding of object properties by leveraging diverse sensory modalities. This approach rests on the premise that natural language provides a versatile embedding space whose
+Start: 11:00AM
+
+End: 12:50PM
+
+Room: MM 321
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cupkova
+
+Fall 2023
+
+Course number: 62344
+
+Title: Introduction to Mosaics
+
+Units: 3.0
+
+Section: A
+
+Days: F
+
+Start: 09:30AM
+
+End: 12:30PM
+
+Room: OFF CAMP
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mcgowan
+
+Fall 2023
+
+Course number: 62347
+
+Title: Hot Glass II:
+
+Units: 3.0
+
+Section: A,C, ,B
+
+Days: R, ,T,S
+
+Start: 12:30PM, ,09:30AM
+
+End: 12:30PM, ,03:30PM
+
+Room: OFF CAMPUS,
+Title: Photography and the Ephemeral
+
+Units: 10.0
+
+Section: A
+
+Days: F
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: MM B14
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martello
+
+Spring 2024
+
+Course number: 62344
+
+Title: Introduction to Mosaics:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,U
+
+Start:  ,03:00PM
+
+End:  ,06:00PM
+
+Room: OFF CAMPUS,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Mcgowan
+
+Spring 2024
+
+Course number: 62347
+
+Title: Hot Glass II:
+
+Units: 3.0
+
+Section: A, ,B
+
+Days:  ,T,S
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bisk
+
+Fall 2023
+
+Course number: 11910
+
+Title: Directed Research:
+
+Units: 1-48
+
+Section: A, ,PP
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room: TBA,
+
+Locations:  ,Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+
+Course number: 11920
+
+Title: Independent Study: Breadth
+
+Units: 1-48
+
+Section: E,I,AC,BC,AD,AE,F,CC,D,AH,U,BD,PP,BB,AW,P,C,EE,DD,J,AV,AB,A,S,K,Y,SS,W,B,T,AI,H,L,M,R,AA,N,O,Q,X,Z,G,AJ,QQ,AF,V
+
+Days: TBA
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+standards. It is designed to provide all students with the tools, guidance, and insights to help you
+
+achieve your full potential as a member of the Carnegie Mellon community. Graduate students are
+
+encouraged to bookmark this site and refer to it often. University policies can also be  found in full
+
+text at: https://www.cmu.edu/policies/ .
+services, stops, routes, tracking and schedules.
+
+A.4 The WORD
+
+https://www.cmu.edu/student- affairs/theword/
+
+The WORD is Carnegie Mellon University’s online student handbook and serves as the
+
+foundation for the department (and so metimes college) handbook. The WORD contains
+
+university -wide academic policy information and resources, community policies and resources,
+
+and describes the university level procedures used to review possible violations of these
+
+
+Answer: 

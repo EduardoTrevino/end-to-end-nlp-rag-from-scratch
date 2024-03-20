@@ -1,0 +1,146 @@
+Question: Which faculty were involved in the CSurF paper?
+
+Context: Paper title: 'CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms' Published year: 2023 Publication venue or conference: International Conference on the Theory of Information Retrieval Authors: Zhen Fan, Jamie Callan, Luyu Gao Summary: This paper proposes to directly bridge the surface form space and the term semantics space in lexical exact-match retrieval via contextualized surface forms (CSF), reaching comparable accuracy as lexical all-to-all soft match systems as an
+Claudio Carpineto and Giovanni Romano. 2012. A survey of automatic query expansion in information retrieval. Acm Computing Surveys (CSUR), 44(1):1– 50.
+
+Danqi Chen, Adam Fisch, Jason Weston, and Antoine Bordes. 2017. Reading Wikipedia to Answer Open- Domain Questions. In Proceedings of the 55th An- nual Meeting of the Association for Computational Linguistics, pages 1870–1879.
+[Jannach et al., 2021] Dietmar Jannach, Ahtsham Manzoor, Wanling Cai, and Li Chen. A survey on conversational recommender systems. ACM Computing Surveys (CSUR), 54(5):1–36, 2021.
+
+[Jegou et al., 2010] Herve Jegou, Matthijs Douze,
+
+and Cordelia Schmid. Product quantization for nearest neigh- bor search. IEEE transactions on pattern analysis and ma- chine intelligence, 33(1):117–128, 2010.
+Spring 2024
+
+Course number: 15744
+
+Title: Computer Networks:
+
+Units: 12.0
+
+Section: A,
+
+Days: MWF,
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room:  ,GHC 4303
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Sherry, Atre
+
+Spring 2024
+
+Course number: 15751
+
+Title: CS Theory Toolkit:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room:  ,POS 152
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: O'Donnell, Jain
+
+Spring 2024
+
+Course number: 15772
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Wigginton,Szalkowski-Ference,Muller, Matthews,Matthews, Muller
+
+Summer 2024
+
+Course number: 76229
+
+Title: Special Topics in Creative Writing:
+
+Units: 9.0
+
+Section:  ,S
+
+Days:  ,MTWRF
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,CMU REMOTE
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Turnshek
+
+Summer 2024
+
+Course number: 76239
+
+Title: Introduction to Film Studies
+
+Units: 9.0
+
+Section: S
+
+Days: MTWRF
+
+Start: 11:00AM
+Instructors: Matthews, Muller
+
+Summer 2024
+
+Course number: 19797
+
+Title: Reading and Research: Project Research
+
+Units: 5,18,36
+
+Section: PP,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Muller, Matthews,Matthews, Muller
+
+Summer 2024
+
+Course number: 19798
+
+Title: Reading and Research: Thesis Research
+
+Units: 5,18,36
+
+Section: PP,R,T,S
+
+Days: TBA,MTWRF
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,CMU REMOTE
+Language Technologies Institute - Faculty Name: Scott Fahlman Email: sef@cs.cmu.edu Office: 6417 Gates & Hillman Centers Research Areas: AI, Knowledge Representation and Reasoning, Natural Language Understanding Phone: 412-268-2575
+
+Language Technologies Institute - Faculty Name: Robert Frederking Email: ref@cs.cmu.edu Office: 6515 Gates & Hillman Centers Phone: 412-268-6656
+A “school of computer science” is proposed Feeling that CSD’s needs were inadequately represented in MCS, CSD head A. Nico Habermann and then-CMU provost Angel Jordan in 1986 wrote a white paper proposing the creation of “a School of Computer Science.” Responding to concerns from the faculty that the change might be taking place too quickly, the university first established a free-floating Department of Computer Science. The experiment, which lasted two years, was an unqualified success.
+Language Technologies Institute - Faculty Name: Alexander Hauptmann Email: alex@cs.cmu.edu Office: 5519 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Learning, Multimodal Computing and Interaction Phone: 412-268-1448
+
+
+Answer: 

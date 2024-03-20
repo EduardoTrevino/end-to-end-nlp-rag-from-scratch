@@ -1,0 +1,203 @@
+Question: In spring 2024, What is the course number for Generative AI?
+
+Context: Generative artificial intelligence (AI) technology, exemplified by GPT-4 (OpenAI, 2023) consoli- dates various tasks in natural language process- ing into a single sequence generation problem. This unified architecture enables users to complete multiple tasks (e.g., question answering (Thop- pilan et al., 2022), code generation (Chen et al., 2021), math problem solving (Lewkowycz et al., 2022), and scientific literature generation (Taylor et al., 2022)) through a natural language inter- face
+Irene Solaiman. 2023. The gradient of generative ai
+
+release: Methods and considerations.
+
+Anselm Strauss and Juliet Corbin. 1990. Basics of qual-
+
+itative research. Sage publications.
+
+Norman Makoto Su and David J. Crandall. 2021. The affective growth of computer vision. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 9291–9300.
+
+Richard S Sutton and Andrew G Barto. 2018. Reinforce-
+
+ment learning: An introduction. MIT press.
+Generative Artificial Intelligence (AI) [Brown et al., 2020, Ramesh et al., 2022, Saharia et al., 2022, OpenAI, 2023a] has achieved significant progress in recent years, spanning from computer vision (CV) to natural language processing (NLP). Large language models (LLMs) such as ChatGPT [OpenAI, 2022] can generate coherent and contextually relevant long-form text in response to user-specified prompts. However, the ease of using LLMs has raised concerns about their potential misuse [Zellers et
+Spring 2024
+
+Course number: 94843
+
+Title: Research Studio: Arts Futures
+
+Units: 6.0
+
+Section: A
+
+Days: W
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HBH 1208
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Crawford
+
+Spring 2024
+
+Course number: 94844
+
+Title: Generative AI Lab
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HBH 1202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 94854
+
+Title: Developing as a Leader
+
+Units: 6.0
+Instructors: Gordon, Talwalkar
+
+Spring 2024
+
+Course number: 10422
+
+Title: Foundations of Learning, Game Theory, and Their Connections
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: GHC 4211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Balcan
+
+Spring 2024
+
+Course number: 10423
+
+Title: Generative AI
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gormley, Li, Lipton
+
+Spring 2024
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Synnott
+
+Spring 2024
+
+Course number: 94815
+
+Title: Agent-Based Modeling & Digital Twins
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 1006
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rao
+
+Spring 2024
+
+Course number: 94816
+
+Title: Generative AI: Applications, Implications, and Governance
+
+Units: 6.0
+
+Section: A3
+
+Days: W
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+course. No undergraduat e courses count toward the 195-unit requirement.
+
+All Core courses are organized in sequence, and must be taken in the following order:
+
+Artificial Intelligence and Future Markets (11-651) – No prerequisite.
+
+AI Engineering (11-695) – Prerequisite is the co mpletion of 11-651 with a grade of “B” or
+
+better.
+
+LTI Practicum (11-935) – Three credit units for completing the required Internship.
+
+
+Answer: 

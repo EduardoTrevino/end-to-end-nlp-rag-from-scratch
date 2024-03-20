@@ -1,0 +1,57 @@
+Question: In "Aligning Large Multimodal Models with Factually Augmented RLHF," what is the name of the method that they propose for alignment?
+
+Context: Paper title: 'Aligning Large Multimodal Models with Factually Augmented RLHF' Published year: 2023 Publication venue or conference: arXiv.org Authors: Liangyan Gui, Yu-Xiong Wang, Chuang Gan, Zhiqing Sun, Yikang Shen, Chunyuan Li, Sheng Shen, K. Keutzer, Yiming Yang, Shengcao Cao, Trevor Darrell, Haotian Liu Summary: A new alignment algorithm called Factually Augmented RLHF is proposed that augments the reward model with additional factual information such as image captions and ground-truth
+3 2 0 2
+
+p e S 5 2
+
+]
+
+V C . s c [
+
+1 v 5 2 5 4 1 . 9 0 3 2 : v i X r a
+
+Preprint
+
+ALIGNING LARGE MULTIMODAL MODELS WITH FACTUALLY AUGMENTED RLHF
+
+Zhiqing Sun∗♠, Sheng Shen∗♣, Shengcao Cao∗ ♢ Haotian Liu♡, Chunyuan Li♮, Yikang Shen△, Chuang Gan†∇△, Liang-Yan Gui†♢ Yu-Xiong Wang†♢, Yiming Yang†♠, Kurt Keutzer†♣, Trevor Darrell†♣ ♣UC Berkeley, ♠CMU, ♢UIUC, ♡UW–Madison, ∇UMass Amherst ♮Microsoft Research, △MIT-IBM Watson AI Lab
+
+ABSTRACT
+Table 2: The instruction to the crowdworkers for human preference collection.
+
+2 METHOD
+
+2.1 MULTIMODAL RLHF
+
+Reinforcement Learning from Human Feedback (RLHF) (Ziegler et al., 2019; Stiennon et al., 2020; Ouyang et al., 2022; Bai et al., 2022a) has emerged as a powerful and scalable strategy for aligning Large Language Models (LLMs) with human values. In this work, we use RLHF to align LMMs. The basic pipeline of our multimodal RLHF can be summarized into three stages:
+15. Model checking, 1994 CMU professor Edmund Clarke had long stressed the importance of verifying computer hardware and software through a formal problem-solving technique called “model checking.” In 1994, his arguments gained new weight with the discovery that Intel’s amazing new Pentium chip made errors on certain math problems. Clarke would go on to receive the Turing Award for his role in the development of model checking.
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+17 Implement and evaluate complex, scalable data science systems, with emphasis on providing experimental evidence for design decisions.  Anticipate and avert structural and/or implementation problems with systems design, especially with scaling and tail distributions.
+
+HCDS. Students electing to complete the Human-Centered Data Science (HCDS) concentration will also learn to:
+
+
+Answer: 

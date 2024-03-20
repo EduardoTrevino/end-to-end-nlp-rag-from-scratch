@@ -1,0 +1,161 @@
+Question: Who were the instructors for 11667?
+
+Context: Course number: 11663
+
+Title: Applied Machine Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 7500
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11671
+
+Title: Foundations of Computational Data I:
+
+Units: 6.0
+
+Section:  ,A3
+
+Days: R,
+
+Start:  ,07:30PM
+
+End:  ,08:50PM
+
+Room:  ,CMU REMOTE
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11672
+Room:  ,POS 146
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Paulisick
+
+Fall 2023
+
+Course number: 11663
+
+Title: Applied Machine Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: SH 105
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11667
+
+Title: Large Language Models Methods and Application
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: BH A51
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Mitamura
+
+Fall 2023
+
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar:
+
+Units: 6.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11697
+
+Title: Introduction to Question Answering:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: PH A18A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg, Mitamura
+
+Fall 2023
+
+Course number: 11700
+Discuss the matter with the course instructor;  provide evidence th at the grade issued was
+
+not the grade earned. 17
+
+If the instructor agrees, the student should contact the prog ram administrator to process
+
+a Change of Grade Form in or der to correct the grade that was issued in error. Generally,
+
+the instructor is the final authority for a course grade.
+
+If a grade has not been assigned, please notify  the course instructor for the completion of
+
+a Missing Grade Form.
+Important Note: MCDS implements the above policy’s option of “conven[ing] a disciplinary hearing according to the procedures of the department/program”. We have adopted the following hearing procedure and “two strikes” rule:  If an instructor determines that an academic integrity violation has occurred, both the instructor and students are given the opportunity to explain the situation to the MCDS program committee. A written hearing by email suffices for this purpose.  The program committee
+21The instructor must record the permanent course grade by the last day of the examination period of the following semester, or the Registrar will automatically assign the default grade.
+
+
+Answer: 

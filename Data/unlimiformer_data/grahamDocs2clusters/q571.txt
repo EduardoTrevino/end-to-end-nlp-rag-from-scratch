@@ -1,0 +1,21 @@
+Question: What is the DAE achieved by the CRL-COM (D) system from the paper Improving Factuality of Abstractive Summarization via Contrastive Reward Learning, on the XSUM dataset?
+
+Context: (2020) proposed an unsupervised abstractive summarization model that generates summaries directly from source documents by optimizing coverage, ﬂuency, and brevity using reinforcement learning (RL)-based rewards. Yadav et al. (2021) introduced two novel question-aware semantic rewards for abstractive question summarization: (1) question-type identiﬁcation and (2) question-focus recognition. They integrated these rewards into an encoder- decoder-based ProphetNet transformer model (Qi et al.
+With the resulting plot shown in Figure 3, PICL outperforms Incre-RSA along both dimensions. In comparison with E-S, PICL achieves better dis- criminativeness with a loss in fluency. For E-S and Incre-RSA, the trade-off patterns are different from that under ALBEF (Figure 2). While optimizing for ALBEF accuracy consistently induces more disfluent generation, the optimal informativeness under human judgment is likely to be achieved with a moderate level of disfluency.
+In the evaluation process, the participants were given the news article and three generated summaries from the MLE-only, MLE + RL model with ROUGE-L reward and the bi-encoder or cross-encoder reward. They were asked to rate each predicted summary on a scale of 1 (very bad) to 5 (very good) in terms of relevance (selection of important content from the source), consis- tency (the factual alignment between the summary and the summarized source), and ﬂuency (the quality of individual sentences)
+Language Technologies Institute - Faculty Name: Daniel Fried Email: dfried@andrew.cmu.edu Research Areas: Natural Language Processing: Language and Code, Conversational AI, Intelligent Agents, and Dialogue, Discourse and Pragmatics, Multimodal AI
+
+Language Technologies Institute - Faculty Name: Anatole Gershman Email: anatole.gershman@cs.cmu.edu Office: 6415 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering Phone: 412-268-8259
+of this handbook. 1.1 The MCDS Degree The MCDS Degree The Master of Computational Data Science (MCDS) degree is a professional Master of Science degree offered by the Language Technologies Institute (LTI), a department in the School of Computer Science at Carnegie Mellon University. The MCDS degree offers students with a Bachelor's degree the opportunity to improve their training with advanced study in Computer Science and Machine Learning. We cater to students with basic analytic skills and a
+development programs to support graduate students as teaching assistants or instructors of
+
+record during their time at Carnegie Mellon University and as future faculty members at other
+
+institutions. Regardless of one's current or future teaching context an d duties, Eberly’s goal is
+
+to disseminate evidence -based teaching strategies in ways that are accessible and actionable.
+
+Programs and services include campus -wide Graduate Student Instructor Orientation events
+
+
+Answer: 

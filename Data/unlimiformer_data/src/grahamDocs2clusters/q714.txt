@@ -1,0 +1,175 @@
+Question: What's the title for 11700?
+
+Context: Instructors: Rudnicky
+
+Spring 2024
+
+Course number: 11775
+
+Title: Large-Scale Multi-Media Analysis:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,05:00PM
+
+End:  ,06:20PM
+
+Room:  ,GHC 4102
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Hauptmann
+
+Spring 2024
+
+Course number: 11777
+
+Title: Multimodal Machine Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PH 100
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bisk
+
+Spring 2024
+
+Course number: 11785
+Title: Meaning in Language Lab (Self Paced):
+
+Units: 6.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11741
+
+Title: Machine Learning with Graphs
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Spring 2024
+
+Course number: 11742
+
+Title: Search Engines
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+Instructors: Li
+
+Fall 2023
+
+Course number: 11741
+
+Title: Machine Learning for Text and Graph-based Mining
+
+Units: 12.0
+
+Section: A,PP
+
+Days: TBA,TR
+
+Start: ,11:00AM
+
+End: ,12:20PM
+
+Room: TBA,HH B131
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 11742
+
+Title: Search Engines:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room:  ,MI 348
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+Information regarding the application of Title IX, including to admission and employment decisions, the sexual misconduct grievance procedures and process, including how to file a report or a complaint of sex discrimination, how to file a report of sexual harassment, and how the university responds to such reports is available at www.cmu.edu/title-ix . The Title IX 10coordinator may be reached at 412-268-7125 or tix@cmu.edu .
+
+1.7 The Carnegie Mellon Code
+decisions, the sexual misconduct grievance procedures and process, including how to file a report or a complaint of sex discrimination, how to file a report of sexual harassment, and how MLT Graduate Student Handbook  Page 9
+
+the university responds to such reports is available at www.cmu.edu/title -ix. The Title IX
+
+coordinator may be reached at 5000 Forbes Ave., 140 Cyert Hall, Pittsburgh, PA 1 5213; 412-
+
+268- 7125; or tix@cmu.edu.
+
+1.6 The Carnegie Mellon Code
+Information regarding the application of Title IX, including to admission and employment
+
+decisions, the sexual misconduct grievance procedures and process, including how to file a
+
+report or a complaint of sex discrimination, how to file a report of sexual harassment, and how
+
+the university responds to such reports is available at www.cmu.edu/title -ix. The Title IX
+
+coordinator may be reached at 5000 Forbes Ave., 140 Cyert Hall, Pittsburgh, PA 15213; 412 -268-
+
+
+Answer: 

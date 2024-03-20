@@ -1,0 +1,233 @@
+Question: Which CMU professor was on the "Efficiency Pentathlon: A Standardized Arena for Efficiency Evaluation" paper?
+
+Context: Paper title: 'Efficiency Pentathlon: A Standardized Arena for Efficiency Evaluation' Published year: 2023 Publication venue or conference: arXiv.org Authors: Emma Strubell, Jesse Dodge, Tom Sherborne, Noah A. Smith, Darrell Plessas, Pete Walsh, Iz Beltagy, Matthew E. Peters, Sam Skjonsberg, Kyle Lo, Hannaneh Hajishirzi, Qingqing Cao, Jared Fernandez, Hao Peng Summary: Pentathlon is a benchmark for holistic and realistic evaluation of model efficiency, which focuses on inference, which accounts
+3 2 0 2
+
+l u J
+
+9 1
+
+] L C . s c [
+
+1 v 1 0 7 9 0 . 7 0 3 2 : v i X r a
+
+Efficiency Pentathlon:
+
+A Standardized Arena for Efficiency Evaluation
+
+Hao Peng♠ Qingqing Cao♢
+
+Jesse Dodge♠ Matthew E. Peters♠
+
+Jared Fernandez♡
+
+Tom Sherborne♣∗ Kyle Lo♠†
+
+Sam Skjonsberg♠† Emma Strubell♡♠†
+
+Darrell Plessas♠†
+
+Iz Beltagy♠† Evan Pete Walsh♠†
+We envision that by offering standardized efficiency evaluation, Pentathlon will stimulate the devel- opment of more efficient models and foster a deeper awareness of the computational costs of AI research, and accelerate progress on reducing them.
+
+2
+
+2
+
+Efficiency Pentathlon
+
+This section discusses the current challenges in efficiency evaluation and outlines the design choices we adopted in Pentathlon to effectively address them.
+
+2.1 Controlling the Hardware for Fair Efficiency Comparisons
+Title: Grand Challenge Seminar: Equitable Access and Success in Higher Education at CMU:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: PH A18B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Walsh, Ballesteros Soria
+
+Spring 2024
+
+Course number: 66142
+
+Title: DC 1st Year Seminar: The Mirror of Technology: Biases in Computation & Cognition
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5310
+
+Locations: Pittsburgh, Pennsylvania
+Room: BH A51,DNM DNM,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors:  ,Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Fall 2023
+
+Course number: 11831
+
+Title: Self-Paced Computational Ethics Lab
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Strubell
+
+Fall 2023
+
+Course number: 11851
+
+Title: Talking to Robots
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 11:50AM
+Room:  ,TEP 2112
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Kim
+
+Fall 2023
+
+Course number: 45747
+
+Title: Accelerate Leadership Assessment
+
+Units: 0.0
+
+Section: A1,M1
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hermann
+
+Fall 2023
+
+Course number: 45748
+
+Title: Leadership Feedback
+
+Units: 0.0
+
+Section: M2,A1
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hermann
+
+Fall 2023
+
+Course number: 45749
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+15. Model checking, 1994 CMU professor Edmund Clarke had long stressed the importance of verifying computer hardware and software through a formal problem-solving technique called “model checking.” In 1994, his arguments gained new weight with the discovery that Intel’s amazing new Pentium chip made errors on certain math problems. Clarke would go on to receive the Turing Award for his role in the development of model checking.
+Language Technologies Institute - Faculty Name: Fernando Diaz Email: diazf@cmu.edu Research Areas: Information Retrieval: Recommender Systems, Retrieval and Ranking Models, Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation Phone: 412-268-4229
+coursework and team projects lead ing to a full-semester capstone project to produce a working
+
+prototype.
+
+8.2 Program Contacts
+
+Michael I. Shamos
+
+Director, MSAII      Distinguished Career Professor
+
+G H C  6 7 0 7
+
+shamos@cs.cmu.edu
+
+Amber Vivis
+
+Academic Program Manager, MSAII  TCS 357
+
+412-268-9998
+
+avivis@cs.cmu.edu
+
+Carolyn Penstein Rosé      Interim Director, Language Technologies Institute  Professor  GHC 5415
+
+412-268-7130
+
+cprose@cs.cmu.edu
+
+8.3 The Reasonable Person Principle (RPP)
+
+
+Answer: 

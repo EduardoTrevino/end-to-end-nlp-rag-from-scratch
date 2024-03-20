@@ -1,0 +1,59 @@
+Question: According to the paper PWESUITE: Phonetic Word Embeddings and Tasks They Facilitate, what is the percentage accuracy for rhymes, achieved by the autoencoder model on the evaluation suite?
+
+Context: 4 2 0 2
+
+b e F 0 2
+
+] L C . s c [
+
+2 v 1 4 5 2 0 . 4 0 3 2 : v i X r a
+
+PWESUITE: Phonetic Word Embeddings and Tasks They Facilitate
+
+Vilém Zouhar E =
+
+Kalvin Chang C =
+
+Chenxuan Cui C
+
+Nathaniel Carlson Y
+
+Nathaniel R. Robinson C Mrinmaya Sachan E David Mortensen C
+We introduce four phonetic word embedding methods—count-based, autoencoder, and metric and contrastive learning. Though some of these techniques are inspired by previous work, we are the first to apply them with supervision from articu- latory feature vectors, a seldom-exploited form of
+
+=Co-first authors.
+
+1The technically correct term is phonological word embeddings but prior literature uses the term phonetic.
+
+linguistic knowledge for representation learning.
+We evaluate both (1) intrinsic aspects of phonetic word embeddings, such as word retrieval and correlation with sound similarity, and (2) extrinsic performance on tasks such as rhyme and cognate detection and sound analogies. We hope our task suite will promote reproducibility and inspire future phonetic embedding research.
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+How to talk about yourself as a professional in the U.S.
+
+Developing clearer pronunciation
+
+Using accurate grammar
+
+Building fluency
+
+and more. Students can make an appointment with a Language Development Specialist to get
+
+individualized coaching on language or cross -cultural issues.
+expectations and strategies for clear academic writing,
+
+how to talk about yourself as  a professional in the U.S.,
+
+developing clearer pronunciation,
+
+using accurate grammar,
+
+building fluency, and more.
+
+Students can make an appointment with a La nguage Development Specialist to get
+
+individualized coaching on langua ge or cross-cultural issues.
+
+The Student Academic Success Center is also charged with certifying the language of
+
+
+Answer: 

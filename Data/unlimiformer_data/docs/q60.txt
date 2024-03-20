@@ -1,0 +1,195 @@
+Question: What are the majors offered in the MCDS program?
+
+Context: Mel-cepstral Distortion (MCD). We follow previous work (Hayashi et al. 2021) and use MCD to measure the reconstruction error between ground truth and synthesis, given the same text and speaker reference speech. We extract 23 mel-cepstral coefﬁcients (MCEPs) and use Euclidean distance as the metric. Dynamic Time Wraping (Giorgino 2009) is applied for the alignment. We calculate MCD using the ground truth utterances from the validation split.
+
+5 Results
+FID, LMD
+
+Text-to-Speech Text-to-Audio Audio-to-Text
+
+Fastspeech2 Make-an-Audio MAAC
+
+LJSpeech AudioCaption Clotho-v2
+
+MCD, FFE, MOS FID, KL, CLAP, MOS CIDEr-D
+
+Image-to-Audio
+
+Make-An-Audio
+
+AudioCaption
+
+MOS
+
+Singing Synthesis
+
+DiffSinger, VISinger
+
+OpencPOP
+
+MCD, FFE, MOS
+
+4.4 Robustness
+
+We evaluate the robustness of multi-modal LLMs by assessing their ability to handle special cases. These cases can be classiﬁed into the following categories:
+Vector Institute for AI, Canada CIFAR AI Chairs program, an NSERC discovery grant, DARPA MCS program through NIWC Pacific (N66001-19-2-4031), and AI2.
+Title: Software Management Capstone Project
+
+Units: 3,6,12,24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: San Jose, California
+
+Instructors: Mercier
+
+Summer 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Summer 2024
+
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: T
+
+Start: 08:00AM
+Title: ConLanging: Lrng. Ling.⟪ Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11634
+
+Title: MCDS Capstone Planning Seminar:
+
+Units: 12.0
+Days: TR
+
+Start: 09:30AM,11:00AM
+
+End: 10:50AM,12:20PM
+
+Room: GHC 4307,BH A36
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sap, Strubell,Strubell, Sap
+
+Fall 2023
+
+Course number: 11632
+
+Title: Data Science Capstone
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Fall 2023
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+To support the athletics department’s fundraising initiatives, including, but not limited to, annual giving to the Tartan Funds, and major gifts for capital projects. To regularly engage athletics alumni, both on and off campus. To communicate major athletics department and Club initiatives to university stakeholders. To provide advice and counsel to the athletics department administration. To raise awareness of athletics programs to students, alumni and the community at-large. Other goals as
+The Kiltie Band is a campus organization recognized by Student Senate and administered by the Department of Athletics, Physical Education and Recreation. Membership is open to all members of the campus/community without audition. Participants must do their best to promote the success of the ensemble through attendance, attitude, and dependability.
+“Buggy is a sport that encompasses all elements that CMU has to offer,” he said. “Everything that goes into it, the challenge, the teamwork, the fun, the rewards. It’s a real-life challenge working with a team. I learned to work together with people with different personalities and visions toward the same goal to make it happen.”
+information technology, software services and social media companies. Requirements: The MCDS program offers three majors: Systems, Analytics, and Human-Centered Data Science. All three require the same total number of course credits, split among required core courses, electives, data science seminar and capstone courses specifically defined for each major. The degree can also be earned in two different ways, depending on the length of time you spend working on it.
+of this handbook. 1.1 The MCDS Degree The MCDS Degree The Master of Computational Data Science (MCDS) degree is a professional Master of Science degree offered by the Language Technologies Institute (LTI), a department in the School of Computer Science at Carnegie Mellon University. The MCDS degree offers students with a Bachelor's degree the opportunity to improve their training with advanced study in Computer Science and Machine Learning. We cater to students with basic analytic skills and a
+The MCDS Program offers a core curriculum and several concentrations; students entering the program enroll in core courses in their first semester and select further courses to satisfy at least one concentration (see Section 3.3.6). Students construct their own course of study, in consultation with their academic advisor, in order to satisfy broad guidelines. Thus, a student may tailor their coursework in a given concentration to follow a particular area of emphasis. The MCDS program is
+
+
+Answer: 

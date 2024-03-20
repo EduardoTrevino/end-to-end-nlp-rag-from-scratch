@@ -1,0 +1,182 @@
+Question: In spring 2024, What is the title of course 17634?
+
+Context: Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+4
+
+Preprint 2023
+9Limitations&EthicalConsiderationsDespitetakingthefirststeptowardsincorporatingcontextintostylisticrewritinganditsevaluationframeworks,thereareseverallimitationsandethi-calconcerns,whichwelistbelow.LimitedContextScopeInthisstudy,ourpri-maryfocusisonincorporatingtextualcontext,particularlyfromprecedingsentencesorpreviousturnsinaconversation.Futureworkshouldex-plorehowtoincorporateotherformsofcontextintorewritingmodelsandevaluations,suchasdis-coursestructure(Wellecketal.,2019),externalknowledge(G
+Spring 2024
+
+Course number: 17612
+
+Title: Business and Marketing Strategy
+
+Units: 6.0
+
+Section: 44,D4,A4
+
+Days: F,TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Berardone
+
+Spring 2024
+
+Course number: 17628
+
+Title: Applied Quantum Computing
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Wang
+
+Spring 2024
+
+Course number: 17630
+Course number: 17637
+
+Title: Web Application Development
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HOA 160
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eppinger, Lee
+
+Spring 2024
+
+Course number: 17639
+
+Title: Applied Distributed Systems
+
+Units: 6.0
+
+Section: D3
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasar
+
+Spring 2024
+
+Course number: 17643
+
+Title: Quality Management
+
+Units: 6.0
+Course number: 17635
+
+Title: Software Architectures
+
+Units: 6.0
+
+Section: 13,A3,D3
+
+Days: F,MW,TR
+
+Start: 11:00AM,07:00PM
+
+End: 08:20PM,12:20PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Merson,Ashok, Pavetti
+
+Spring 2024
+
+Course number: 17636
+
+Title: DevOps: Engineering for Secure Development and Deployment
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasar
+
+Spring 2024
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+
+
+Answer: 

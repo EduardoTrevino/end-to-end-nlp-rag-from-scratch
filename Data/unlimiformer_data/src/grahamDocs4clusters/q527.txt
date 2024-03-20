@@ -1,0 +1,203 @@
+Question: For LTI PhD students what room are the mailboxes and office supplies located in?
+
+Context: Research, Curtin University, Bentley WA 6102, Australia *peterxy.ma@mail.utoronto.ca
+Shi Yu Tsinghua University Beijing, China yus21@mails.tsinghua.edu.cn
+
+Zhiyuan Liu Tsinghua University Beijing, China liuzy@tsinghua.edu.cn
+
+Yu Gu Northeastern University Shenyang, China guyu@mail.neu.edu.cn
+
+Ge Yu Northeastern University Shenyang, China yuge@mail.neu.edu.cn
+1Dept. of Comp. Sci. & Tech., Institute for AI, Tsinghua University, Beijing, China 2Microsoft Research, Redmond, USA 3Beijing National Research Center for Information Science and Technology, Beijing, China {yuzc19, yus21}@mails.tsinghua.edu.cn; chenyan.xiong@microsoft.com liuzy@tsinghua.edu.cn
+
+Abstract
+Units: 1-48
+
+Section: PP,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Summer 2024
+
+Course number: 11935
+
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: P,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking,Callan
+
+Summer 2024
+
+Course number: 11936
+
+Title: PhD Internship
+
+Units: VAR
+
+Section: P,S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mortensen,Morency
+
+Fall 2023
+
+Course number: 11390
+
+Title: LTI Minor Project - Juniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11411
+
+Title: Natural Language Processing:
+
+Units: 12.0
+
+Section: A, ,B
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,CMU REMOTE,POS A35
+You can find our official tartan on various items in the University Store.
+
+Source: "Tartan: Romancing the Plaid," by Jeffrey Banks and Doria De La Chapelle
+Mailing Address:  5000 Forbes Avenue / Pittsburgh, PA 15213
+This year Fringe is planning to roll four different vehicles, built and maintained in the Fringe workshop in the basement of the East Campus Garage, known as the "Froom."
+
+"We're used to saying everything with 'fr' in front of it but when we say something in front of other people, it gets them confused," said Fringe head mechanic Dave Singh, who will graduate in May with a bachelor's degree in mechanical engineering and biomedical engineering.
+Offices are assigned by the LTI’s Office Manager (see Section 1.2 , Department Personnel, for
+
+contact information).
+
+2.3 Mailboxes and Office Supplies
+
+Mailboxes and office supplies are in GHC 5404.
+
+2.4 Photocopies and Printers
+
+Printers and photocopies are available to LTI students. The use of a photocopier or printer
+
+requires you to log in with your CMU ID card. LTI students may use printers/photocopiers
+2.3 Mailboxes and Office Supplies ...................................................................................................... 13
+
+2.4 Photocopies and Printers ................................................................................................................ 13
+
+2.5 Computers for LTI Ph.D. Students  ............................................................................................... 13
+Except for restrictions due to COVID, full-time students in the LTI’s MS degree programs on the
+
+Pittsburgh campus have access to a shared working space to create a sense of community and
+
+provide space for working when on campus.
+
+9.2 Photocopies and Printers
+
+Mailboxes, printers, copiers, and other depa rtmental resources are located in GHC 5404
+
+The use of a photocopier requires only a CMU ID card. The School of Computer Science
+
+
+Answer: 

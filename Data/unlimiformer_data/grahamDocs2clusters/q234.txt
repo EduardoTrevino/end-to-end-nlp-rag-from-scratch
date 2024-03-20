@@ -1,0 +1,63 @@
+Question: Who is the first author of the paper BASS: Block-wise Adaptation for Speech Summarization?
+
+Context: Paper title: 'Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints' Published year: 2023 Publication venue or conference: arXiv.org Authors: Emma Strubell, Rajshekhar Das, Jean Oh, Jose Moura, Jonathan M Francis, Sanket Vaibhav Mehta Summary: The regularizer significantly improves top performing self-training methods in various UDA benchmarks for semantic segmentation and introduces a contrastive pixel-level objectness constraint that pulls the pixel
+Paper title: 'Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech' Published year: 2023 Publication venue or conference: arXiv.org Authors: Kai-Wei Chang, Chi-Yuan Hsiao, Yifan Peng, Haibin Wu, Shi Wang, Roshan Sharma, Chun-Yi Kuan, Siddhant Arora, Shady Shehata, Jiatong Shi, Hung-yi Lee, Ke-Han Lu, Chien-yu Huang, Shinji Watanabe, Bhiksha Ramakrishnan Summary: This work presents Dynamic-SUPERB, a benchmark designed for building universal
+Paper title: 'Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Zichun Yu, S. Yu, Chenyan Xiong, Zhiyuan Liu Summary: This paper proposes augmentation-adapted retriever (AAR), which learns LM’s preferences obtained from a known source LM to assist target LMs that may not be known beforehand or are unable to be fine-tuned
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+
+
+Answer: 

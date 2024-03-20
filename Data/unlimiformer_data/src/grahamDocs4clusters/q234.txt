@@ -1,0 +1,199 @@
+Question: Who is the first author of the paper BASS: Block-wise Adaptation for Speech Summarization?
+
+Context: Paper title: 'Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints' Published year: 2023 Publication venue or conference: arXiv.org Authors: Emma Strubell, Rajshekhar Das, Jean Oh, Jose Moura, Jonathan M Francis, Sanket Vaibhav Mehta Summary: The regularizer significantly improves top performing self-training methods in various UDA benchmarks for semantic segmentation and introduces a contrastive pixel-level objectness constraint that pulls the pixel
+Paper title: 'Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech' Published year: 2023 Publication venue or conference: arXiv.org Authors: Kai-Wei Chang, Chi-Yuan Hsiao, Yifan Peng, Haibin Wu, Shi Wang, Roshan Sharma, Chun-Yi Kuan, Siddhant Arora, Shady Shehata, Jiatong Shi, Hung-yi Lee, Ke-Han Lu, Chien-yu Huang, Shinji Watanabe, Bhiksha Ramakrishnan Summary: This work presents Dynamic-SUPERB, a benchmark designed for building universal
+Paper title: 'Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Zichun Yu, S. Yu, Chenyan Xiong, Zhiyuan Liu Summary: This paper proposes augmentation-adapted retriever (AAR), which learns LM’s preferences obtained from a known source LM to assist target LMs that may not be known beforehand or are unable to be fine-tuned
+Title: Writing the Adaptation for Stage and Screen
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Swenson, Kirk
+
+Fall 2023
+
+Course number: 54191
+
+Title: Acting for Non-Majors
+
+Units: 9.0
+
+Section: A,B
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: PCA 115,PCA 313
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pazos,Swierc
+
+Fall 2023
+
+Course number: 54195
+
+Title: Creative and Dramatic Writing for Engineers
+Section: A, ,B
+
+Days:  ,TR
+
+Start:  ,10:00AM,02:00PM
+
+End: 11:50AM, ,03:50PM
+
+Room: HL A5, ,HL 106B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Barbuto,Pinchuk
+
+Fall 2023
+
+Course number: 62183
+
+Title: Documentary Theater
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A20
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Thoni, Miller
+
+Fall 2023
+
+Course number: 62187
+
+Title: Writing the Adaptation for Stage and Screen
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+Instructors: Brockmann, Dworkin, Alghazzi
+
+Spring 2024
+
+Course number: 66145
+
+Title: DC First Year Seminar: Appalachia: Development, Decline, and Identity in America
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: BH 255A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Haggerty
+
+Spring 2024
+
+Course number: 66182
+
+Title: Grand Challenges Seminar: Preserving History with Blockchain Technology:
+
+Units: 9.0
+
+Section: W,
+
+Days:  ,UT
+
+Start:  ,11:30AM
+
+End: 12:45PM,
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+You can find our official tartan on various items in the University Store.
+
+Source: "Tartan: Romancing the Plaid," by Jeffrey Banks and Doria De La Chapelle
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+
+
+Answer: 

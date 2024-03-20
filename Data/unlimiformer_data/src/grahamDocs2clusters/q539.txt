@@ -1,0 +1,15 @@
+Question: Who all led the School of Computer Science in 1986?
+
+Context: Since its beginnings in the 20th century with the theoretical conceptualization by Alan Turing of a machine capable of making calculations and with memory to store data, computing has led us in a spiral of technological advances, which has evolved exponentially. The Englishman Alan Turing was the founder of Computer Science, he was a mathematician, philosopher and cryptographer, a visionary of his time. Turing lived from (1912 to 1954). It should be noted that, without that initial idea and the
+Kong, S., Hoppe, H., Hsu, T., Huang, R., Kuo, B., Li, K., et al. (eds) (2020). Proceedings of International Conference on Computational Thinking Education 2020. Hong Kong: The Education University of Hong Kong.
+
+Kulkarni, V. (2015). Looking Back: Alan Turing-The Father of Computer Science. CSI
+
+Communications, India.
+computer science in the public school system. It also promotes the implementation of computer science in the classroom, for which it develops curricular courses from the ﬁrst year of primary education to the fourth year of secondary education, which are available as a public good for the entire school system, articulating an ecosystem to train and accompany teachers and develop a network of leading schools in the teaching of computer science, which by July 2022 there were more than 80 schools
+A “school of computer science” is proposed Feeling that CSD’s needs were inadequately represented in MCS, CSD head A. Nico Habermann and then-CMU provost Angel Jordan in 1986 wrote a white paper proposing the creation of “a School of Computer Science.” Responding to concerns from the faculty that the change might be taking place too quickly, the university first established a free-floating Department of Computer Science. The experiment, which lasted two years, was an unqualified success.
+1948: The Graduate School of Industrial Administration, later renamed the David A. Tepper School of Business, focusing on quantitative analysis and pioneering the field of management science. 1968: School of Urban and Public Affairs, later renamed the H. John Heinz III College, providing graduate training for work in the public sector. 1986: School of Computer Science, pioneering computing and artificial intelligence, led by interdisciplinary efforts of Allen Newell and Herbert Simon.
+Undergraduate degrees begin For several years, undergraduates interested in computer science pursued an “applied math/CS” bachelor’s degree offered by the Mathematics Department. CSD professor Mary Shaw (CS’72) led CMU’s first effort to design an undergraduate curriculum solely in computer science. She and her colleagues were guided by the Carnegie Plan—guidelines established in 1938 under Carnegie Tech President Robert Doherty (A’40, E’48, H’50), outlining the principles of a sound
+
+
+Answer: 

@@ -1,0 +1,185 @@
+Question: In fall 2023, What is the course title for unit 02801?
+
+Context: Fall 2023
+
+Course number: 49796
+
+Title: Software Management Independent Study
+
+Units: VAR
+
+Section: A1,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: San Jose, California
+
+Instructors: Fang, Mercier, Shaikh,Mercier
+
+Fall 2023
+
+Course number: 49800
+
+Title: Start Up Creation in Practice:
+
+Units: 6.0
+
+Section:  ,A1,A2
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: B23 212,
+
+Locations:  ,San Jose, California
+
+Instructors: Root
+
+Fall 2023
+
+Course number: 49802
+Fall 2023
+
+Course number: 57780
+
+Title: Black American Music Seminar
+
+Units: 6.0
+
+Section: A,B
+
+Days: MW
+
+Start: 01:00PM,02:00PM
+
+End: 01:50PM,02:50PM
+
+Room: HOA 224
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Keeling
+
+Fall 2023
+
+Course number: 57781
+
+Title: Collaborative Piano I
+
+Units: 3-9
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carver
+
+Fall 2023
+
+Course number: 57782
+
+Title: Collaborative Piano II
+
+Units: 3-9
+
+Section: A
+Fall 2023
+
+Course number: 76801
+
+Title: Directed Study in Literary and Cultural Studies
+
+Units: 3-18
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 76825
+
+Title: Rhetoric, Science, and the Public Sphere
+
+Units: 9,12
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: PH A21A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wynn
+
+Fall 2023
+
+Course number: 76839
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+Classes can be found at https://enr-apps.as.cmu.edu/o pen/SOC/SOCServlet/search .
+
+Students are then required to take and su ccessfully complete the courses below:
+
+2) The Core Courses (87 units) - Must be taken in THIS SEQUENCE:
+
+11-651 – AI & Future Markets – (12 units). First  Fall semester. Only open to MSAII.
+
+17-762 – Law of Computer Technolo gy (12 units). First Fall semester
+
+11-695 – AI Engineering (12 un its). First Spring semester
+
+
+Answer: 

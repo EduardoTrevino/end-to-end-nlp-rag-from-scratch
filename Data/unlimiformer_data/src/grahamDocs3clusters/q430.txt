@@ -1,0 +1,158 @@
+Question: In summer 2024, When is the deadline for withdrawing from a Mini-5 course and receiving a withdrawal grade?
+
+Context: Developers who do not wish their source code to be used for training code LLMs are given the op- portunity to opt-out of The Stack (Kocetkov et al., 2022). We received 9 opt-out requests before the cut-off date for removing data (31 October 2022). These individuals accounted for 299 repositories. Of these, 161 were already excluded from The Stack v1.0 (because they did not have a permissive license), and 138 were in The Stack v1.0. We honored the requests to opt-out and removed these
+The details of the training process are as follows. We started ﬁne-tuning the mT5, by mini- mizing the maximum-likelihood loss for 15 epochs, using a batch size of 8, accumulation steps of 4, and learning rate of 10e-5 with Adafactor optimization and cosine annealing learning rate decay schedule (Loshchilov and Hutter 2016). The maximum news length was set to 512 and max- imum summary length was determined as 120. We initialized our reinforcement learning models with the ﬁne-tuned models that
+[74] N. S. Keskar and et. al., “On large-batch training for deep learning: Generalization gap and sharp minima,” in 5th International Conference on Learning Representations, ICLR 2017, Toulon, France, April 24-26, 2017, Conference Track Proceedings, 2017.
+
+14
+Title: Special Topics in ICT Mini:
+
+Units: 6.0
+
+Section:  ,A1,N1
+
+Days:  ,MW,TR
+
+Start: 08:00AM, ,04:00PM
+
+End:  ,05:50PM,09:50AM
+
+Room: CMR F305, ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Rodriguez-Perez,Ostheimer
+
+Fall 2023
+
+Course number: 04900
+
+Title: MSIT Practicum
+
+Units: 24.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:20PM
+
+Room: CMR F305
+
+Locations: Kigali, Rwanda
+
+Instructors: Okeyo
+
+Fall 2023
+
+Course number: 04910
+
+Title: Entrepreneurship Project
+
+Units: VAR
+
+Section: A
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mandal
+
+Spring 2024
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A3
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: GHC 4102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mandal
+
+Spring 2024
+
+Course number: 33226
+
+Title: Physics of Energy
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 7500
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dodelson
+
+Spring 2024
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A1
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33224
+
+Title: Stars, Galaxies and the Universe
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,T
+
+Start: 03:00PM,07:00PM
+
+End: 07:50PM,03:50PM
+
+Room: HH B103,POS 151
+assigned after this date (2) Date -  June 9 ; Day - Monday ; Event - Summer One & Mini-5 pass/no pass & withdrawal deadline (3) Date -  June 13 ; Day - Friday ; Event - Summer One & Mini-5 Faculty Course Evaluations open Date -  June 17 ; Day - Tuesday ; Event - Summer All course drop deadline; withdrawal grade assigned after this date (2) Date -  June 18 ; Day - Wednesday ; Event - Summer One & Mini-5 Last Day of Classes Date -  June 18 ; Day - Wednesday ; Event - Summer One & Mini-5 voucher
+7 ; Day - Friday ; Event - Mini-5 pass/no pass & withdrawal deadline (3) Date -  June 14 ; Day - Friday ; Event - Mini-5 Faculty Course Evaluations open Date -  June 18 ; Day - Tuesday ; Event - Semester course drop deadline; withdrawal grade assigned after this date (2) Date -  June 19 ; Day - Wednesday ; Event - Juneteenth; University Closed & No Classes Date -  June 20 ; Event - Mini-5 Last Day of Classes Date -  June 20 ; Event - Mini-5 voucher deadline (4) Date -  June 21 ; Day - Friday ;
+; Day - Monday ; Event - Summer Two & Mini-6 drop deadline; withdrawal grade assigned after this date (2) Date -  July 21 ; Day - Monday ; Event - Summer Two & Mini-6 pass/no pass & withdrawal deadline (3) Date -  July 28 ; Day - Monday ; Event - Summer All, Two & Mini-6 Faculty Course Evalutations open Date - July 31 ; Thursday ; Event - Summer All, Two & Mini-6 Last Day of Classes Date -  July 31 ; Event - Summer All, Two & Mini-6 voucher deadline Date -  August 1 ; Day - Friday ; Event -
+
+
+Answer: 

@@ -1,0 +1,141 @@
+Question: Are there any auditions to join The Kiltie Band?
+
+Context: In this section, we explore if the multi-task training of AAR can endow the retriever with better gener- alization to the target task. Specifically, we choose KILT (Petroni et al.) as our multi-task data source, which consists of 5 categories (Fact Checking, En- tity Linking, Slot Filling, Open Domain QA, and Dialogue). We take one representative subtask per category to form a mixture of multiple source tasks. Figure 7 illustrates that ANCE trained with multi-task KILT can consistently
+Fabio Petroni, Aleksandra Piktus, Angela Fan, Patrick Lewis, Majid Yazdani, Nicola De Cao, James Thorne, Yacine Jernite, Vladimir Karpukhin, Jean Mail- lard, et al. 2020. Kilt: a benchmark for knowl- arXiv preprint edge intensive language tasks. arXiv:2009.02252.
+Figure 7: Comparison between single-task (MS- MARCO QA) and multi-task (KILT) trained AAR. TART (Asai et al., 2022) is a multi-task instruction- finetuned retriever that has not been finetuned with LM- preferred signals.
+Units: 6.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PCA 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 54372
+
+Title: Theatre for the Ear
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 09:00AM
+
+End: 10:50AM
+
+Room: PCA 103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pino
+
+Spring 2024
+
+Course number: 54374
+
+Title: Musical Theater Audition
+
+Units: 5.0
+
+Section: A
+
+Days: TR
+
+Start: 10:30AM
+
+End: 11:50AM
+
+Room: PCA 321
+Instructors: Dueck,Howard,Dealmeida,Kim,Pukinskis,Sullivan,Almarza,Kostyniak,Vosburgh,Cardenes,Wu,Houlik,Spacagna,Caballero,Carver,Howell,Schepkin,Instructor TBA,Gruber,Cherian,McGhee,Knox,Mead,Goeres,Dee,Rusinek,Aylmer,Whipple,Manriquez,Kush,Carlisle,Marcinizyn,van der Sloot,Laduke,Shields, Van Hoesen,Williams,Berntsen,Harding,Park,Evans, Branson, Allen,Teadt,Galbraith,Chiu
+
+Spring 2024
+
+Course number: 57988
+
+Title: Advanced Music Studies Studio (Chamber Music)
+
+Units: 18.0
+Course number: 62236
+
+Title: Kiln 1: Fusing and Casting:
+
+Units: 3.0
+
+Section: A,
+
+Days: W,
+
+Start: 09:30AM,
+
+End: 12:30PM,
+
+Room: OFF CAMPUS,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Mcgowan
+
+Spring 2024
+
+Course number: 62241
+
+Title: Black and White Photography II
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: MM B10D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gruzska
+
+Spring 2024
+
+Course number: 62247
+
+Title: Introduction to Hot Glass I:
+Q: Are there auditions? A: No, any member of the campus community with music experience is able to join the Kiltie Band!
+
+Q: Do I have to memorize music? A: No, the music is changed for every show. You should invest in a good and trusty lyre.
+
+Q: When is the first rehearsal? A: On the first day of class (Monday) at 5:30 p.m. in the CUC Studio Theater. If you have questions, please email the Direcator at jolisar@andrew.cmu.edu.
+The Kiltie Band is a campus organization recognized by Student Senate and administered by the Department of Athletics, Physical Education and Recreation. Membership is open to all members of the campus/community without audition. Participants must do their best to promote the success of the ensemble through attendance, attitude, and dependability.
+Interested in Joining?
+
+Please email the following information to Kiltie Band Director Jeremy Olisar.
+
+Name High School Address at Carnegie Mellon (if known) Home address Cell number Home number Whether you plan on being in the band or colorguard If in the band what instrument(s) you play Whether you need to borrow an instrument or equipment
+
+To see and hear the band in action, visit our YouTube channel
+Successful applicants will have a minimum TOEFL score of 100 (Reading, Listening, Speaking, Writing scores all 25 or above), IELTS score of 7.5 (Reading 7 or above, Listening 7 or above, Speaking 7.5 or above, Writing 6.5 or above), or DuoLingo score of 120 (Literacy 115 or above, Comprehension 125 or above, Production 100 or above, Conversation 105 or above). Our Institution Code is 4256; the Department Code is 78. Additional details about English proficiency requirements are provided on the
+Students that are already enrolled in an LTI degree  program are not required to retake GRE
+
+and TOEFL /IELTS/Duolingo  exams or to produce new transcripts from other universities.
+
+The MIIS program will conduct an expedited admissions process after receiving such a request. The program will explicitly consider whether the coursework done prior to the
+
+transfer will allow the student to be “on schedule” by the end of the spring semest er, so that
+described above you are required to submit proof of English proficiency, your TOEFL, IELTS or Duolingo test scores will be considered valid as follows: If you have not received a bachelor’s degree in the U.S., you will need to submit an English proficiency score no older than two years. (scores from exams taken before Sept. 1, 2021, will not be accepted.)
+
+
+Answer: 

@@ -1,0 +1,169 @@
+Question: What does the MLT program prepare students for?
+
+Context: The ML model and training architecture
+and then ML models are optimized by minimizing certain loss criteria on the training data. A common underlying assumption in the learning environment is that the training data can be instantly accessed or easily distributed across computing nodes without communication constraints, i.e. data are centralized. However, in a system with multiple clients (i.e. data hold- ers), to ensure data centralization, clients have to upload local data to a centralized device (e.g. a central server) to conduct
+employed in the training of the ML model.
+Course number: 15989
+
+Title: Advanced/Special Topics in AI/ML DATA MINING RECIPES
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: WEH 5302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Faloutsos
+
+Fall 2023
+
+Course number: 15990
+
+Title: Computer Science Colloquium
+
+Units: 0.0
+
+Section: A
+
+Days: TR
+
+Start: 03:00PM
+
+End: 05:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 15996
+Start: 10:00AM
+
+End: 11:20AM
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kossoff, Irwin
+
+Spring 2024
+
+Course number: 51706
+
+Title: Thesis Preparation II
+
+Units: 3.0
+
+Section: A
+
+Days: F
+
+Start: 09:00AM
+
+End: 10:50AM
+
+Room: MM 215
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hanington
+
+Spring 2024
+
+Course number: 51712
+
+Title: Graduate Design Studio II
+
+Units: 15.0
+
+Section: A
+
+Days: MW
+
+Start: 01:30PM
+
+End: 04:20PM
+
+Room: MM 215
+
+Locations: Pittsburgh, Pennsylvania
+Days: T
+
+Start: 06:00PM
+
+End: 08:50PM
+
+Room: MM 415IW
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mondor
+
+Spring 2024
+
+Course number: 48715
+
+Title: MSCD Pre-Thesis 1
+
+Units: 6.0
+
+Section: A
+
+Days: W
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: MM 307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Byrne, Erdolu
+
+Spring 2024
+
+Course number: 48721
+
+Title: Building Controls and Diagnostics
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: GHC 4101
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+Mission:  The Carnegie Mellon University Tartan Athletics Club strives to support, grow and develop the athletics program by engagement of alumni, students, friends and leadership of Carnegie Mellon University. The Club will support the goals and mission of the athletics department, within the context of the University’s goals and mission. The Club will pursue targeted strategies to develop and enhance alumni relations, fundraising, development and other initiatives as determined by the Club
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+Learn at LTI The LTI's degree programs draw from a common set of courses and core skills, but emphasize different types of expertise that prepare you for a wide range of career options. All of our programs provide the hands-on experience and rigorous curriculum that are the hallmark of computer science at Carnegie Mellon. Program Type: Master's Programs Program Name: Master of Language Technologies Overview: The MLT program prepares students for a research career in academia or industry. In this
+Students must begin their study at CMU in the program that admitted them; this  is a university
+
+policy.
+
+Students may request to transfer into the MLT program after completing their first semester. The student must make the request in writing (or email) to the MLT/PhD Admissions Chair. The
+
+MLT/PhD Admissions Chair will inform the student about what application materials are
+
+required;  for example, an explanation of why a transfer is desired, a proposed plan of study, a
+The remaining units may also be taken from the LTI, or with approval from the faculty advisor, any other senior- or graduate-level course offered at CMU or Pitt. Directed research is another integral part of the MLT program; MLT students carry out directed research during their studies, with guidance from their faculty advisors. Students may also choose to complete an optional MLT thesis. Guidelines can be found in the MLT Handbook. Curriculum: Here's an example of how your two years in the MLT
+
+
+Answer: 

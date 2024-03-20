@@ -1,0 +1,65 @@
+Question: Scotty was officially accepted as CMU's first mascot in which year?
+
+Context: References
+
+Robert P Abelson and David E Kanouse. 1966. Subjec- tive acceptance of verbal generalizations. In Cogni- tive consistency, pages 171–197. Elsevier.
+
+Emily Allaway, Jena D Hwang, Chandra Bhagavatula, Kathleen McKeown, Doug Downey, and Yejin Choi. 2023. Penguins don’t ﬂy: Reasoning about generics through instantiations and exceptions. In EACL.
+
+Anonymous. 2020. Paper title anonymized to preserve
+
+double-blindness.
+Room: CMU REMOTE,CMR F307
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Fall 2023
+
+Course number: 18726
+
+Title: Projects in Integrated Circuit Design: First Silicon
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mai
+
+Fall 2023
+
+Course number: 18729
+
+Title: Special Topics in Circuits:
+
+Units: 12.0
+
+Section: C,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,ANS C02
+the views of the NSF, NIH, Facebook, or CMLH, and no official endorsement should be in- ferred. Additionally, we express our appreciation to the anonymous reviewers for their insightful sug- gestions, which greatly improved our work. Further- more, we would like to acknowledge the contribu- tions of our colleagues, Atishay Jain and Praneetha Vaddamanu, who played a significant role in the development of this research.
+Official Mascot? More than a century after Carnegie Mellon University opened its doors, an official mascot finally made its mark. Although students have dressed as a Scottish terrier — typically referred to as Scotty — for 50 years, it wasn't until 2007 that Carnegie Mellon officially welcomed the Scottish terrier as the university's first mascot.
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Carnegie Mellon's official mascot debuted at the Nov. 10, 2007 home football game. The graphic features a profile of a distinguished, bold Scottish terrier sporting a plaid scarf around his neck. The dog is contained in a shield, representing Carnegie Mellon's Scottish heritage.
+
+The Task Force then partnered with a mascot costume company to design our Scottish terrier in the winter of 2007. The official Scotty costume was unveiled at the 2008 Spring Carnival.
+
+
+Answer: 

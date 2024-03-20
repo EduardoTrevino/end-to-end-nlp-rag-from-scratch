@@ -1,0 +1,183 @@
+Question: Where is FACTORCL published?
+
+Context: Paper title: 'Factorized Contrastive Learning: Going Beyond Multi-view Redundancy' Published year: 2023 Publication venue or conference: arXiv.org Authors: Louis-Philippe Morency, P. Liang, Martin Q. Ma, R. Salakhutdinov, James Y. Zou, Zihao Deng Summary: FactorCL is a new multimodal representation learning method to go beyond multi-view redundancy and captures both shared and unique information and achieves state-of-the-art results on six benchmarks.
+FACTORCL on a suite of synthetic datasets and large-scale real-world multimodal benchmarks involving images and figurative language [87], prediction of human sentiment [90], emotions [92], humor [27], and sarcasm [12], as well as patient disease and mortality prediction from health indicators and sensor readings [37], achieving new state-of-the-art performance on six datasets. Overall, we summarize our key technical contributions here:
+contained in modality-unique regions: information that is only present in one modality but still relevant to the task. How can we learn self-supervised multimodal representations to capture both shared and unique information relevant to down- stream tasks? This paper proposes FACTORCL, a new multimodal representation learning method to go beyond multi-view redundancy. FACTORCL is built from three new contributions: (1) factorizing task-relevant information into shared and unique
+Instructors: Carrington,Steinfeld,Wu,Harrison
+
+Fall 2023
+
+Course number: 05410
+
+Title: User-Centered Research and Evaluation:
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec,
+
+Days:  ,MW
+
+Start: 12:30PM, ,02:00PM
+
+End:  ,01:50PM,03:20PM
+
+Room: DH 2315,WEH 8427,PH 225B, ,GHC 4101,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Musuraca, Eslami,Eslami, Musuraca
+
+Fall 2023
+
+Course number: 05413
+
+Title: Human Factors
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: BH A53
+End: 10:50AM
+
+Room: MM B4
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Elder
+
+Fall 2023
+
+Course number: 51317
+
+Title: Publication
+
+Units: 9.0
+
+Section: A
+
+Days: R
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: MM 121
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasko
+
+Fall 2023
+
+Course number: 51323
+
+Title: Communications Studio III: Designing for Complex Communication Systems
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: MM 211
+
+Locations: Pittsburgh, Pennsylvania
+End: 10:50AM,
+
+Room:  ,GHC 5222
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Hammer
+
+Fall 2023
+
+Course number: 05813
+
+Title: Human Factors
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: BH A53
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dabbish
+
+Fall 2023
+
+Course number: 05814
+
+Title: Perception
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: BH 336B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Klatzky
+
+Fall 2023
+If you can ID any of the unknown buggies, let us know.
+
+1949 – Design Competition (from the 1966 Buggy Book). Buggies are KapSig (far left), SAE’s design winner (#4, 2nd from the left), Men’s Dorms (#7, 3rd from the left), and DU (#11, far right).
+
+1949 – SAE’s Design-winning buggy getting worked on (from the November 1949 issue of The Record, the SAE National Publication)
+
+1949 – Citcom Clan Buggy (#9) (from the 1950 Thistle).
+Mailing Address:  5000 Forbes Avenue / Pittsburgh, PA 15213
+seen it yet! And On New Roads! This is the first record we have of the roads being paved! 2 weeks before Raceday, the City of Pittsburgh re-paved the Buggy course, allowing the buggies to race on fresh roadways. Pittsburgh Police were also out in full force on Raceday to assist with course control…Though as you’ll see, this was probably only during the Prelims. New Rules in Place. The April 9, 1946 Tartan printed the 12 rules for Buggy, our first look at the rules in several years. A lot of the
+13.7 Academic Calendar
+
+The official academic calendar is published by Enro llment Services. It is not uncommon for
+
+departments and colleges to have academic requir ements that differ from or are in addition to
+
+those presented in the academic calendar provided to the campus community by Enrollment Services. See https://www.cmu.edu/hub/calendar/ docs/2223-academic-calendar.pdf ..
+
+13.8 Professional Development
+7.7 Academic Calendar
+
+The official academic calendar is published by Enrollment Services. It is not uncommon for
+
+departments and colleges to have academic requirements that differ from or are in addition to those presented in the academic calendar provided to the campus community by Enrollment MLT Graduate Student Handbook  Page 32
+
+Services. You may find the CMU academic calendar here : www.cmu.edu/hub/calendar.html .
+Inquiries concerning the application of and compliance with this statement should be directed to the university ombudsman, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA
+
+15213, telephone 412- 268- 1018. Obtain general information about Carnegie Mellon University
+
+by calling 41 2-268- 2000.
+
+Carnegie Mellon University publishes an annual campus security and fire safety report describing the university's security, alcohol and drug, sexual assault and fire safety policies, and
+
+
+Answer: 

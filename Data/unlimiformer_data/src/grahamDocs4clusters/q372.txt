@@ -1,0 +1,165 @@
+Question: How many authors contributed to the paper Generalized Glossing Guidelines: An Explicit, Human- and Machine-Readable, Item-and-Process Convention for Morphological Annotation?
+
+Context: Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang. 2016. SQuAD: 100,000+ questions for machine comprehension of text. In Proceedings of the 2016 Conference on Empirical Methods in Natu- ral Language Processing, pages 2383–2392, Austin, Texas. Association for Computational Linguistics.
+Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang. SQuAD: 100,000+ questions for machine comprehension of text. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pp. 2383–2392, Austin, Texas, 2016. Association for Computational Linguistics. doi: 10.18653/v1/D16-1264. URL https://aclanthology.org/D16-1264.
+GeneralizedGlossingGuidelines:AnExplicit,Human-andMachine-Readable,Item-and-ProcessConventionforMorphologicalAnnotationDavidR.Mortensen∗†ElaGulsen∗†TaiqiHe†NathanielRobinson†JonathanD.Amith‡LindiaTjuatja†LoriLevin††CarnegieMellonUniversity‡GettysburgCollege†{dmortens,egulsen,taiqih,nrrobins,lindiat,levin}@andrew.cmu.edu‡jonamith@gmail.comAbstractWeintroduceaYAMLnotationformulti-lineinterlinearglossedtext(IGT)thatrepresentsnon-concatentativeprocessessuchasinfixa-tion,reduplication,mutation,trunc
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Patterson
+
+Spring 2024
+
+Course number: 88302
+
+Title: Behavioral Decision Making
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: GHC 4211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carbone
+
+Spring 2024
+
+Course number: 88308
+
+Title: Human and Machine Decisions from Experience
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A20
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Malloy
+Title: ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11424
+
+Title: Subword Modeling
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH 100
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mortensen
+
+Spring 2024
+
+Course number: 11441
+
+Title: Machine Learning with Graphs
+
+Units: 9.0
+Course number: 80788
+
+Title: Acoustics of Human Speech: Theory, Data, and Analysis
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bjorndahl
+
+Spring 2024
+
+Course number: 80811
+
+Title: Professional Development Seminar
+
+Units: 6.0
+
+Section: A,C,B
+
+Days: M
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: BH 145C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zaffora Blando
+
+Spring 2024
+
+Course number: 80814
+But a few of the specific rules changed slightly, or are worth noting again: All drivers, pushers, designers and builders were required to members of the organization they’re competing for All team members (including designers and builders) must be “eligible” under the Executive Board’s requirements, which include a minimum of 36 units and being in good academic standing (with a minimum GPA requirement). The buggy/driver combo must weigh a minimum of 180 pounds (up from the previous 160 lbs)
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+1946 – PiKA’s Buggy (from the 1947 Thistle). It didn’t win Design Competition, but it had the best aesthetic design. Prelim Heats and Results. The Prelims were run in 3 heats, with 3 teams in each. The rules initially stated that the winner of each heat would compete in the finals, but it seems that the rules changed to be the three fastest times instead, as the Prelim results printed in the May 7, 1946 Tartan indicate that the Finals was just a rematch of Prelim Heat 1. According to the May 7
+elective courses that satisfy human language, machine learning, and language technology
+
+applications breadth requirements and 66 practice units for a total of 150 units to attain the
+
+Standard MIIS degree.
+
+MIIS -21 students must take at least 108 units (typically 9 12 -unit courses) of qualifying and
+
+elective courses and 66 practice units to satisfy their degree requirements, making it a total of 174 units to attain the MIIS: Advanced Study degree.
+4.4 Approved Qualifying Courses  ...................................................................................................... 14
+
+4.4.1  Breadth Courses:  Human Language  ................................................................................. 15
+
+4.4.2  Breadth Courses:  Language Technology Applications  ............................................... 15
+Learning for Language Technologies Part-time education option is available in some cases. MIIS-16 students must take at least 84 units (typically 7 courses) of qualifying and elective courses that satisfy human language, machine learning, and language technology applications breadth requirements.
+
+
+Answer: 

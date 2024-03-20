@@ -1,0 +1,148 @@
+Question: What is the main goal of event grounding?
+
+Context: Event grounding aims at linking mention references in text corpora to events from a knowledge base (KB). Previous work on this task focused primarily on linking to a single KB event, thereby overlooking the hierarchical aspects of events. Events in documents are typically described at various lev- els of spatio-temporal granularity (Glavaˇs et al. 2014). These hierarchical relations are utilized in downstream tasks of nar- rative understanding and schema construction. In this work, we present
+3 Hierarchical Event Grounding The task of grounding involves linking event references in text documents to the corresponding entries in a knowl- edge base (Chandu, Bisk, and Black 2021). Pratapa, Gupta, and Mitamura (2022) studied linking event references from Wikipedia and Wikinews articles to Wikidata items. How- ever, they restrict the dictionary of Wikidata items to leaf events. This ignores important parent events such as ‘Op- eration Overlord’ and ‘Western Front (World War II)’ from
+an extension to the event grounding task that re- quires tackling hierarchical event structures from the KB. Our proposed task involves linking a mention reference to a set of event labels from a subevent hierarchy in the KB. We pro- pose a retrieval methodology that leverages event hierarchy through an auxiliary hierarchical loss (Murty et al. 2018). On an automatically created multilingual dataset from Wikipedia and Wikidata, our experiments demonstrate the effectiveness of the hierarchical
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: POS 146
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chandler
+
+Spring 2024
+
+Course number: 98258
+
+Title: Student Taught Courses (StuCo): Introduction to Competitive Pokemon
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 07:50PM
+
+Room: DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kim, Sbaschnig
+
+Spring 2024
+
+Course number: 98266
+
+Title: Student Taught Courses (StuCo): Private Pilot Ground School
+
+Units: 3.0
+
+Section: A
+
+Days: T
+Instructors: Gordon, Talwalkar
+
+Spring 2024
+
+Course number: 10422
+
+Title: Foundations of Learning, Game Theory, and Their Connections
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: GHC 4211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Balcan
+
+Spring 2024
+
+Course number: 10423
+
+Title: Generative AI
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gormley, Li, Lipton
+
+Spring 2024
+Title: Foundations of Computational Data Science II:
+
+Units: 6.0
+
+Section:  ,A4
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11681
+
+Title: AI Venture Studio:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,F
+
+Start:  ,02:00PM
+
+End:  ,04:50PM
+
+Room:  ,POS 152
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Ammirati, Paulisick
+
+Spring 2024
+
+Course number: 11685
+
+Title: Introduction to Deep Learning
+
+Units: 12.0
+awarded to Mao Yisheng, a student from China. It laid the groundwork for a research institution, recruiting leading scientists, offering sponsored fellowships with government and industry leaders and pioneering nontraditional interdisciplinary research, which brought together physicists, chemists and metallurgists, for example. Interdisciplinary research would become the hallmark of Carnegie Mellon research. It initiated the 'Carnegie Plan' in 1938, a new curriculum that required science and
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+graduate students as teaching assistants or instructors of record during their time at Carnegie Mellon University and as future faculty members at other institutions. Regardless of one's current or future teaching context and duties, Eberly’s goal is to disseminate evidence-based teaching strategies in ways that are accessible 4 and actionable. Programs and services include campus-wide Graduate Student Instructor Orientation events and our Future Faculty Program, both of which are designed to
+
+
+Answer: 

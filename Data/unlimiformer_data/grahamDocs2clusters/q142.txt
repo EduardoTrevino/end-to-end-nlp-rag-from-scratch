@@ -1,0 +1,35 @@
+Question: Carnegie Mellon University is home to how many members of the National Academy of Engineering (NAE)?
+
+Context: We thank the anonymous reviewers for their help- ful feedback. We express sincere gratitude to the members of the ArticuLabo at Inria Paris for their invaluable assistance in the successful completion of this research, and to the members of the Artic- uLab at Carnegie Mellon University in Pittsburgh for answering our questions about their prior work. This study received support from the French gov- ernment, administered by the Agence Nationale de la Recherche, as part of the "Investissements
+We thank the anonymous reviewers for their help- ful feedback. We express sincere gratitude to the members of the ArticuLab at Inria Paris for their invaluable assistance in the successful completion of this research, and to the members of the Articu- Lab at Carnegie Mellon Pittsburgh for answering our questions about their prior work. This study re- ceived support from the French government, admin- istered by the Agence Nationale de la Recherche, as part of the "Investissements d’avenir"
+1Machine Learning Department, Carnegie Mellon Uni- versity 2Department of Computer Sciences, University of Wisconsin-Madison 3Sony Group Corporation 4Mohamed bin Zayed University of Artiﬁcial Inc. 6Department of Electrical and Computer Engineering, Univer- sity of Wisconsin-Madison. Correspondence to: Hongyi Wang <hongyiwa@andrew.cmu.edu>.
+
+Intelligence 5Petuum,
+Committed to extending our founders’ vision The School of Computer Science at Carnegie Mellon University enters its second quarter century as a world-leading educational and research institution, embracing all facets of computing. Its graduate programs are consisted ranked with the best in the world by a leading U.S. magazine, while its undergraduate programs are also rated the best in the U.S. by corporate recruiters. In 2013, SCS had 284 faculty members and a total student enrollment of
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Inductees will be selected by a committee comprised of Carnegie Mellon University staff, faculty, a board of trustee member, coaches and a student representative. The Athletics Hall of Fame will endeavor to induct not less than 15 individuals for induction in its first year and not less than 6 in any year thereafter, subject to the discretion of the Nominating Committee. The below will set forth the criteria for selection to the Athletics Hall of Fame.
+
+
+Answer: 

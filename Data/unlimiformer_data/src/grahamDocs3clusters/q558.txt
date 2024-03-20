@@ -1,0 +1,178 @@
+Question: Where can the code of OpenMatch be found?
+
+Context: LMs. Our code is open-sourced at https://github.com/OpenMatch/Augmentation- Adapted-Retriever.
+models and returning more appropriate and text-relevant items to satisfy users. All codes are available at https://github.com/OpenMatch/TASTE.
+Paper title: 'OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit' Published year: 2023 Publication venue or conference: Annual International ACM SIGIR Conference on Research and Development in Information Retrieval Authors: Zhenghao Liu, Chenyan Xiong, Zhiyuan Liu, Shi Yu Summary: As a full upgrade of OpenMatch proposed in 2021, OpenMatch-v2 incorporates the most recent advancements of PLM-based IR research, providing support for new, cross-modality models and
+Units: 10.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,CFA 303,CFA 317
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors:  ,Liu, DeYoung
+
+Spring 2024
+
+Course number: 60424
+
+Title: Advanced ETB: Animation Studio::
+
+Units: 10.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,07:00PM
+
+End: 09:50PM,
+
+Room:  ,CFA 317
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Andrew
+
+Spring 2024
+
+Course number: 60430
+
+Title: Advanced SIS: Open Sculpture
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+Title: Ethical Penetration Testing
+
+Units: 6.0
+
+Section: A2
+
+Days: T
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1208
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Spooner
+
+Fall 2023
+
+Course number: 95499
+
+Title: Linux and Open Source
+
+Units: 6.0
+
+Section: A1
+
+Days: R
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Moul
+
+Fall 2023
+
+Course number: 95702
+
+Title: Distributed Systems for Information Systems Management
+
+Units: 12.0
+
+Section: A,C,B
+Section: A,
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,04:50PM
+
+Room:  ,CFA 303
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Pedercini
+
+Fall 2023
+
+Course number: 60430
+
+Title: Advanced SIS: Open Sculpture
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: DH B302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bowling
+
+Fall 2023
+
+Course number: 60443
+
+Title: Adv. SIS: Special Topic:
+
+Units: 10.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 08:00AM,
+
+End: 10:50AM,
+The Carnegie Mellon Code can also be found on-line at: https://www.cmu.edu/student-affairs/theword/ . 2 The Language Technologies Institute 2.1 Main Office The Gates Hillman Complex: Mailboxes, printers, copiers, and other departmental resources are in GHC 5404. 112.2 Photocopies and Printers The use of a printer/copier requires a CS user id (see the ‘Computers’ section). The School of Computer Science provides several black-and-white and color printers for use by students. SCS Computing
+The commitment of its faculty, staff and students to these standards contributes to the high respect in which the Carnegie Mellon degree is held. Students must not destroy that respect by their failure to meet these standards. Students who cannot meet them should voluntarily withdraw from the university.
+
+The Carnegie Mellon Code can also be found on -line at
+
+http://www.cmu.edu/student-
+
+affairs/theword/code.html
+
+1.7 Vision
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+
+
+Answer: 

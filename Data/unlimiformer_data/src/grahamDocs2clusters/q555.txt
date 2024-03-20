@@ -1,0 +1,45 @@
+Question: In Yonatan Bisk's MOSAIC paper, what does MOSAIC stand for?
+
+Context: Paper title: 'MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception' Published year: 2023 Publication venue or conference: arXiv.org Authors: Yonatan Bisk, Jonathan M Francis, Gyan Tatiya, Ho-Hsiang Wu, J. Sinapov Summary: This work pioneers the application of CLIP-based sensory grounding in robotics, promising a significant leap in multi-sensory perception capabilities for autonomous systems.
+3 2 0 2
+
+p e S 5 1
+
+]
+
+O R . s c [
+
+1 v 8 0 5 8 0 . 9 0 3 2 : v i X r a
+
+MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception
+
+Gyan Tatiya1∗
+
+Jonathan Francis2 Ho-Hsiang Wu2 Yonatan Bisk3
+
+Jivko Sinapov1
+Paper title: 'Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: So Yeon Min, Shrimai Prabhumoye, R. Salakhutdinov, Tom M. Mitchell, Yue Wu, Yonatan Bisk, A. Azaria, Yuan-Fang Li Summary: A framework to use the knowledge in LLMs to simplify the control problem, rather than solving it is proposed, which leads to a significant 15% improvement over SOTA for generalization to human goal
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+standards. It is designed to provide all students with the tools, guidance, and insights to help you
+
+achieve your full potential as a member of the Carnegie Mellon community. Graduate students are
+
+encouraged to bookmark this site and refer to it often. University policies can also be  found in full
+
+text at: https://www.cmu.edu/policies/ .
+services, stops, routes, tracking and schedules.
+
+A.4 The WORD
+
+https://www.cmu.edu/student- affairs/theword/
+
+The WORD is Carnegie Mellon University’s online student handbook and serves as the
+
+foundation for the department (and so metimes college) handbook. The WORD contains
+
+university -wide academic policy information and resources, community policies and resources,
+
+and describes the university level procedures used to review possible violations of these
+
+
+Answer: 

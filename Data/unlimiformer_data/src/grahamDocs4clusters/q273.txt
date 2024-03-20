@@ -1,0 +1,241 @@
+Question: What saying by Andrew Carnegie is now CMU's school moto?
+
+Context: 3 2 0 2
+
+y a M 7 1
+
+] L C . s c [
+
+2 v 9 6 9 7 0 . 5 0 3 2 : v i X r a
+
+GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content
+
+Yutian Chen† School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213 yutianch@andrew.cmu.edu
+
+Hao Kang† School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213 haok@andrew.cmu.edu
+
+Vivian Zhai† College of Engineering Carnegie Mellon University Pittsburgh, PA 15213 yiyanz@andrew.cmu.edu
+3 2 0 2
+
+r p A 4 2
+
+] L C . s c [
+
+1 v 2 7 8 1 1 . 4 0 3 2 : v i X r a
+
+Generation-driven Contrastive Self-training for Zero-shot Text Classiﬁcation with Instruction-tuned GPT
+
+Ruohong Zhang Yau-Shian Wang Yiming Yang Carnegie Mellon University ruohongz@andrew.cmu.edu king6101@gmail.com yiming@cs.cmu.edu
+
+Abstract
+3 2 0 2
+
+p e S 4 1
+
+] L C . s c [
+
+1 v 2 1 4 7 0 . 9 0 3 2 : v i X r a
+
+Advancing Regular Language Reasoning in Linear Recurrent Neural Networks Ting-Han Fan∗ Independent Researcher tinghanf@alumni.princeton.edu
+
+Ta-Chung Chi∗ Carnegie Mellon University tachungc@andrew.cmu.edu
+
+Alexander I. Rudnicky Carnegie Mellon University air@cs.cmu.edu
+
+Abstract
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Barbuto
+
+Spring 2024
+
+Course number: 99385
+
+Title: Technology, Humanity, and Social Justice: Criminal Justice:
+
+Units: 3.0
+
+Section: B4, ,A4
+
+Days: TBA, ,F
+
+Start: , ,05:00PM
+
+End: , ,08:00PM
+
+Room:  ,DNM DNM,CMU REMOTE
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Mozisek
+
+Spring 2024
+
+Course number: 99400
+
+Title: Interdisciplinary Undergraduate Research
+
+Units: 3-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Room: DNM DNM,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mozisek
+
+Spring 2024
+
+Course number: 94865
+
+Title: Data Analytics for Decision Making
+
+Units: 6.0
+
+Section: A4
+
+Days: MWF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Escallon Barrios
+
+Spring 2024
+
+Course number: 94866
+
+Title: Design Thinking
+
+Units: 6.0
+
+Section: A3
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HBH 2003
+
+Locations: Pittsburgh, Pennsylvania
+Title: Technology, Humanity, and Social Justice: Health:
+
+Units: 3.0
+
+Section:  ,B2,A2
+
+Days: TBA, ,F
+
+Start: , ,05:00PM
+
+End: , ,08:00PM
+
+Room:  ,DNM DNM,CMU REMOTE
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Mozisek
+
+Fall 2023
+
+Course number: 99400
+
+Title: Interdisciplinary Undergraduate Research
+
+Units: 3-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Burkert
+
+Fall 2023
+
+Course number: 99405
+
+Title: Directed Study
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+14.4 The WORD ............................................................................................................................... .... 50
+
+6
+
+1 Welcome
+
+Welcome to Carnegie Mellon University! Being in the CMU School of Computer Science (SCS)
+
+is a unique experience because of the size of the school (over 2000 students, staff and faculty),
+
+the quality of its members, the variety of research being conducted, and unparalleled learning
+the arrival of an IBM 650 computer on the campus of what was then known as Carnegie Institute of Technology. The IBM 650 had magnetic-drum memory and a processing speed of approximately 60 instructions per second. Herb Simon (H’90), associate dean of the Graduate School of Industrial Administration—now known as CMU’s Tepper School of Business—established Carnegie Tech’s first Computation Center with the help of its first director, Alan Perlis (S’42).
+Carnegie Mellon University has been a birthplace
+
+of innovation since its founding in 1900.
+
+Today, CMU is a global leader bringing groundbreaking
+
+ideas to market and creating successful startup
+
+businesses. Our award-winning faculty are renowned for
+
+working closely with students to solve major scientific,
+
+technological and societal challenges. We put a strong
+
+emphasis on creating things — from art to robots. We
+
+have become a model for economic development in
+
+
+Answer: 

@@ -1,0 +1,151 @@
+Question: What is the course name/title for CMU 03128?
+
+Context: Course number: 03125
+
+Title: Evolution
+
+Units: 9.0
+
+Section: A,W
+
+Days: MW,TR
+
+Start: 08:00AM,04:00PM
+
+End: 09:20AM,05:15PM
+
+Room: WEH 7500,CMB 2052
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Hinman, Laperuta,Bouaouina
+
+Fall 2023
+
+Course number: 03128
+
+Title: Biology for Life Special Topics
+
+Units: 9.0
+
+Section: W
+
+Days: UTR
+
+Start: 08:45AM
+
+End: 09:35AM
+
+Room: CMB 3044
+
+Locations: Doha, Qatar
+
+Instructors: Vincent
+
+Fall 2023
+
+Course number: 03129
+Fall 2023
+
+Course number: 07128
+
+Title: First Year Immigration Course
+
+Units: 3.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cortina, Peet
+
+Fall 2023
+
+Course number: 07129
+
+Title: Freshmen Immigration Course
+
+Units: 3.0
+
+Section: W1
+
+Days: MW
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 1202
+
+Locations: Doha, Qatar
+
+Instructors: Harras
+
+Fall 2023
+
+Course number: 07131
+
+Title: Great Practical Ideas for Computer Scientists
+Title: Biology for Life Special Topics Micro:
+
+Units: 3.0
+
+Section:  ,W4,X4
+
+Days: MW, ,UTR
+
+Start:  ,06:00PM
+
+End:  ,07:30PM
+
+Room:  ,CMB 1030,CMB 1031
+
+Locations:  ,Doha, Qatar
+
+Instructors: Rule
+
+Spring 2024
+
+Course number: 03121
+
+Title: Modern Biology
+
+Units: 9.0
+
+Section: B
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: DH 2315
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wong-Noonan, Wisniewski
+
+Spring 2024
+
+Course number: 03124
+
+Title: Modern Biology Laboratory
+
+Units: 9.0
+Language Technologies Institute - Faculty Name: Louis-Philippe Morency Email: morency@cs.cmu.edu Office: 5411 Gates & Hillman Centers Research Areas: Machine Learning, Multimodal Computing and Interaction, Spoken Interfaces and Dialogue Processing Phone: 412-268-5508
+Language Technologies Institute - Faculty Name: Alexander Hauptmann Email: alex@cs.cmu.edu Office: 5519 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Learning, Multimodal Computing and Interaction Phone: 412-268-1448
+Language Technologies Institute - Faculty Name: Maarten Sap Email: msap2@andrew.cmu.edu Research Areas: Fairness and Ethics in Language Technology, Computational Social Science, Discourse and Pragmatics, Conversational AI, Intelligent Agents, and Dialogue
+
+Language Technologies Institute - Faculty Name: Michael Shamos Email: shamos@cs.cmu.edu Office: 6707 Gates & Hillman Centers Phone: 412-268-8193
+
+
+Answer: 

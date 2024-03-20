@@ -1,0 +1,161 @@
+Question: In fall 2023, When are the final grades due for the semester?
+
+Context: Fall 2023
+
+Course number: 42890
+
+Title: M.S. Research
+
+Units: 9-48 4
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rakach
+
+Fall 2023
+
+Course number: 42899
+
+Title: M.S. Research Final Report:
+
+Units: 0.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room: TBA,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rakach
+
+Fall 2023
+
+Course number: 42990
+
+Title: Ph.D. Thesis Research
+
+Units: 3-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+Fall 2023
+
+Course number: 03210
+
+Title: Independent Study
+
+Units: 1-12
+
+Section: W2,W1,A1,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Willard,Younis,Bouaouina
+
+Fall 2023
+
+Course number: 03220
+
+Title: Genetics
+
+Units: 9.0
+
+Section: A,W,B,C,Lec 1,Lec 2
+
+Days: MWF,R,UTR
+
+Start: 04:00PM,02:30PM,03:00PM,05:00PM,09:00AM,11:30AM
+
+End: 09:50AM,03:50PM,03:20PM,12:20PM,04:50PM,05:50PM
+
+Room: WEH 4625,CMB 3048,GHC 4102,WEH 5409,DH 2302
+Fall 2023
+
+Course number: 57780
+
+Title: Black American Music Seminar
+
+Units: 6.0
+
+Section: A,B
+
+Days: MW
+
+Start: 01:00PM,02:00PM
+
+End: 01:50PM,02:50PM
+
+Room: HOA 224
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Keeling
+
+Fall 2023
+
+Course number: 57781
+
+Title: Collaborative Piano I
+
+Units: 3-9
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carver
+
+Fall 2023
+
+Course number: 57782
+
+Title: Collaborative Piano II
+
+Units: 3-9
+
+Section: A
+Event - Reading Day Date -  December 17 ; Event - Final Exams Date -  December 18 ; Day - Monday ; Event - Make-Up Final Exams Date -  December 18 ; Day - Monday ; Event - Semester & Mini-2 Faculty Course Evaluations close Date -  December 20 ; Day - Wednesday ; Event - Final Grades Due by 4 pm Date -  December 23 ; Event - 2 Sa-Tu Winter Break; University Closed Date -  January 8 ; Day - Monday ; Event - Fall Deans' Lists Posted
+May 5 ; Day - Monday ; Event - Semester & Mini-4 Faculty Course Evaluations close Date -  May 6 ; Event - Make-Up Final Examinations Date -  May 8 ; Day - Wednesday ; Event - Graduating Students' Final Grades Due by 4 pm Date -  May 11 ; Event - Commencement Date -  May 13 ; Event - Final Grades Due by 4 pm Date -  May 20 ; Event - Spring Deans' Lists Posted
+Event - Reading Day Date -  December 15 ; Event - Final Exams Date -  December 15 ; Event - Semester & Mini-2 Faculty Course Evaluations close Date -  December 16 ; Day - Monday ; Event - Make-Up Final Exams Date -  December 18 ; Day - Wednesday ; Event - Final Grades Due by 4 pm Date -  December 24 ; Event - 25 T-W University Closed Date -  December 31 ; Event - 1 T-W University Closed Date -  January 6 ; Day - Monday ; Event - Fall Deans' Lists Posted
+
+
+Answer: 

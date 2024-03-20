@@ -1,0 +1,23 @@
+Question: What does the MLT program prepare students for?
+
+Context: and then ML models are optimized by minimizing certain loss criteria on the training data. A common underlying assumption in the learning environment is that the training data can be instantly accessed or easily distributed across computing nodes without communication constraints, i.e. data are centralized. However, in a system with multiple clients (i.e. data hold- ers), to ensure data centralization, clients have to upload local data to a centralized device (e.g. a central server) to conduct
+The Masked LM (MLM) is another type of language model for visual generation, such as: MaskGIT (Chang et al., 2022), MAGVIT (Yu et al., 2023a), Phenaki (Villegas et al., 2022), and MUSE (Chang et al., 2023), among others. An MLM is trained using a masked token objective (De-
+
+2
+
+Work in progress
+The ML model and training architecture
+Learn at LTI The LTI's degree programs draw from a common set of courses and core skills, but emphasize different types of expertise that prepare you for a wide range of career options. All of our programs provide the hands-on experience and rigorous curriculum that are the hallmark of computer science at Carnegie Mellon. Program Type: Master's Programs Program Name: Master of Language Technologies Overview: The MLT program prepares students for a research career in academia or industry. In this
+Students must begin their study at CMU in the program that admitted them; this  is a university
+
+policy.
+
+Students may request to transfer into the MLT program after completing their first semester. The student must make the request in writing (or email) to the MLT/PhD Admissions Chair. The
+
+MLT/PhD Admissions Chair will inform the student about what application materials are
+
+required;  for example, an explanation of why a transfer is desired, a proposed plan of study, a
+The remaining units may also be taken from the LTI, or with approval from the faculty advisor, any other senior- or graduate-level course offered at CMU or Pitt. Directed research is another integral part of the MLT program; MLT students carry out directed research during their studies, with guidance from their faculty advisors. Students may also choose to complete an optional MLT thesis. Guidelines can be found in the MLT Handbook. Curriculum: Here's an example of how your two years in the MLT
+
+
+Answer: 

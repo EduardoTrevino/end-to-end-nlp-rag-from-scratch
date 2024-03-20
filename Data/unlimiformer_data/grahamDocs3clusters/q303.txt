@@ -1,0 +1,160 @@
+Question: How many languages does GlobalBench currently cover?
+
+Context: Several existing benchmarks also include multilingual SSL models [13–15]. Lebenchmark primarily evaluates speech tasks in French [13]; IndicSUPERB focuses mostly on Indian lan- guages [14]. XTREME-S focuses on multilingual speech rep- resentation benchmarks, including ASR, speech translation, speech classification, and speech retrieval [15]. There are three main differences between XTREME-S and ML-SUPERB. Firstly, ML-SUPERB covers a wider range of languages, with 143 languages compared to
+Existing research classiﬁes world languages into Resource 0 to 5, with 0 having the lowest resource and 5 having the highest (Joshi et al., 2020). We choose 10 target languages ranging from Resource 0 to 5 (Table 2). For each target language we choose ten neighboring languages as source lan- guages (Table 2). We prioritize Resource 0 to 2 languages as real endangered languages, and we use Resource 3 to 5 languages as hypothetical ones. To translate into these languages, our text is the Bible in
+In all the heretofore mentioned works combined, researchers explored only 18 languages, including five LRLs. This few-language approach does not
+
+14In this section, we define LRLs as languages having fewer
+
+than 1M Wikipedia pages.
+Spring 2024
+
+Course number: 82282
+
+Title: Interpreting Global Texts & Cultures
+
+Units: 9.0
+
+Section: A,B
+
+Days: MW,TR
+
+Start: 11:00AM,02:00PM
+
+End: 12:20PM,03:20PM
+
+Room: CFA 102,HOA 107
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Parker,Estrada
+
+Spring 2024
+
+Course number: 82283
+
+Title: Language Diversity & Cultural Identity
+
+Units: 9.0
+
+Section: A,B
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5320,POS 343
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Al Masaeed,McCombie
+End: ,03:45PM,08:15PM,06:45PM,05:45PM,09:45PM
+
+Room: TBA,TEP 2110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rakach,Ytsma,Sudbury
+
+Spring 2024
+
+Course number: 45711
+
+Title: Global Economics:
+
+Units: 6.0
+
+Section: B4, ,A4,C4
+
+Days:  ,TR
+
+Start: 08:00AM, ,10:00AM,02:00PM
+
+End: 03:45PM,09:45AM, ,11:45AM
+
+Room:  ,TEP 2110
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Ales
+
+Spring 2024
+
+Course number: 45741
+
+Title: Managing Networks & Organizations:
+
+Units: 6.0
+
+Section: B4, ,A4,C4
+Title: Global Histories
+
+Units: 9.0
+
+Section: W
+
+Days: UTR
+
+Start: 04:00PM
+
+End: 04:50PM
+
+Room: CMB 2147
+
+Locations: Doha, Qatar
+
+Instructors: Nair
+
+Spring 2024
+
+Course number: 79106
+
+Title: Introduction to Asian Religions
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: BH 235B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pemaratana
+
+Spring 2024
+
+Course number: 79110
+
+Title: Introduction to the Medieval Mediterranean World
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+A.1.6  Policy Against Retaliation  ...................................................................................... 39
+
+A.1.7  Graduate Student Assembly  ................................................................................. 39
+
+A.1.8  Language and Cross -Cultural Support  ................................................................... 40
+
+A.1.9  Office of International Education (OIE)  .................................................................  40
+contacting the language support team at the SASC website or attend a Language Support Orientation at the SASC or in your department.
+
+A.1.9  Office of International Education (OIE)
+
+www.studentaffairs.cmu.edu/oie/
+
+Carnegie Mellon hosts international graduate and undergraduate students who come from more than 90 countries. The Office of International Education (OIE) is the liaison to the University for all non -immigrant students and scholars, as well the repository for study abroad
+22. Language learning software, 2010 Learning a second language has always been challenging, but a CMU spinoff called Duolingo is proving that it doesn’t have to be expensive. Duolingo has developed language tutoring software that enables users to learn Spanish, English, Italian, German, Portuguese or French for free through its website and mobile apps. In the process, Duolingo users are helping to translate the Web.
+
+
+Answer: 

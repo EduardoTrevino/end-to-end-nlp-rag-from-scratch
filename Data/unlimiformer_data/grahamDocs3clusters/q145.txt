@@ -1,0 +1,226 @@
+Question: What are the course numbers for question answering courses at LTI?
+
+Context: Number of different instructions
+
+Image Captioning - Classification - Visual Question Answering - Knowledgeable Visual QA - Reasoning - Generation
+
+400 52 113 95 40 60 40
+
+Tokens per instruction
+
+24.4 ± 9.6
+
+Instruction edit distance among the same task
+
+76.6 ± 37.2
+
+Instruction edit distance across tasks
+
+106.6 ± 39.5
+ToMi Adjustments (ToMi’) ToMi stories are in question-answering format. We randomly sam- pled 30 stories (each story has 6 questions, 180 questions in total) from the ToMi dataset and mod- ified them to match a sentence completion format with the same meaning.5 For example the question: “Where does Oliver think that Emma searches for the grapes?”. Was adjusted to the following sen- tence completion task: “Oliver thinks that Emma searches for the grapes in the”.
+for expensive experiments) required a nu- meric answer. Finally, 𝑄9, 𝑄18, and 𝑄19 allowed free text answers. Participants were asked to pro- vide answers to 13 questions, while six questions (𝑄4, 𝑄9, 𝑄11, 𝑄12, 𝑄14, 𝑄19) were optional. All questions are provided in Table 1.
+Title: LTI Minor Project - Advanced
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11601
+
+Title: Coding & Algorithms Bootcamp:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: DH 2315,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11611
+
+Title: Natural Language Processing:
+
+Units: 12.0
+
+Section: A,R, ,B
+
+Days:  ,TR
+Instructors: Mitamura
+
+Fall 2023
+
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar:
+
+Units: 6.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11697
+
+Title: Introduction to Question Answering:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: PH A18A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg, Mitamura
+
+Fall 2023
+
+Course number: 11700
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hovis, Pinnow
+
+Spring 2024
+
+Course number: 38110
+
+Title: ENGAGE in Service
+
+Units: 1.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+by actual classroom courses, not credit given for research or independent study.
+
+An “LTI course ” is any 12 -unit course with a number of 11 -XXX; a  6-unit course with 11 -XXX
+
+counts as one- half of an LTI course. Unless otherwise specified, "course" means an actual
+
+classroom course, not  credit given for research or independent study. Note that the LTI  allow s
+
+any one MLD (10 -XXX) graduate course to count as an "LTI course".
+MLT Graduate Student Handbook  Page 17
+
+4.4 Definitions of LTI Terminology
+
+We define here some of the terms as used in this handbook:
+
+An “LTI course” is any 12 -unit course with a number of 11 -XXX; a 6 -unit course with an
+
+11-XXX counts as 1/2 of an LTI course. Unless otherwise specified, "course" means an
+
+actual classroom course, not  credit given for research or independent study. Note that
+
+we will allow any one MLD (10 -xxx) graduate- level course to count as an “LTI course.”
+
+
+Answer: 

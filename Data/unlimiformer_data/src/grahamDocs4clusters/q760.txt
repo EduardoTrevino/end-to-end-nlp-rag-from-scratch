@@ -1,0 +1,127 @@
+Question: What computation is offloaded to a k-nearest-neighbor (kNN) index in the Unlimiformer approach?
+
+Context: Since the proposal of transformers (Vaswani et al., 2017), these models have been limited to bounded input lengths, because of their need to attend to every token in the input. In this work, we propose Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores. This kNN index can be kept on either the
+Paper title: 'Unlimiformer: Long-Range Transformers with Unlimited Length Input' Published year: 2023 Publication venue or conference: arXiv.org Authors: Amanda Bertsch, Graham Neubig, Uri Alon, Matthew R. Gormley Summary: This work proposes Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores.
+We introduce Unlimiformer, a retrieval-based approach to augment pretrained language mod- els to accept inputs of unbounded length at test time. Given a long input sequence, Unlimi- former constructs a k-nearest-neighbor (kNN) index over the hidden states of all input tokens. Then, every standard cross-attention head in ev- ery decoder layer queries the kNN index, such that the kNN distances are the attention dot- product scores, and attends only to the top-k input tokens. In preliminary
+Start: 09:30AM,04:00PM,03:00PM,05:00PM,09:00AM,02:00PM,02:30PM,01:00PM,10:00AM,11:00AM,12:00PM
+
+End: 12:50PM,01:50PM,03:45PM,09:50AM,03:20PM,03:50PM,02:50PM,04:50PM,11:50AM,10:50AM,05:50PM
+
+Room: GHC CLSTR,POS 146,WEH 4709,WEH 4625,GHC 4301,PH 126A,DH 2105,BH 235A,CMB 2152,HOA 107,PH A18A,DH 1112,PH 125B,DH 2210
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors:  ,Riley, Gedawy,Taylor, Kosbie
+
+Spring 2024
+
+Course number: 15122
+
+Title: Principles of Imperative Computation
+Room: CMB 3069,WEH 5302,PH A18A,WEH 5310,POS 151
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Riley,Xhakaj
+
+Fall 2023
+
+Course number: 15122
+
+Title: Principles of Imperative Computation
+
+Units: 12.0
+
+Section: E,I,F,D,U, ,P,C,J,S,A,K,B,T,Lec 1,Lec 2,H,L,M,O,Q,G,N
+
+Days: M,F,TR
+
+Start: 08:00AM,09:30AM,04:00PM,03:00PM,05:00PM,09:00AM,02:00PM,01:00PM,10:00AM,11:00AM,12:00PM
+
+End: 12:50PM,01:50PM,09:50AM,03:50PM,02:50PM,04:50PM,11:50AM,10:50AM,05:50PM,09:20AM,08:50AM
+End: 12:45PM,12:50PM,02:50PM,03:50PM
+
+Room: DH A302,CMB 1185,BH 140A,CYH 100A
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Park,Koerner
+
+Fall 2023
+
+Course number: 36350
+
+Title: Statistical Computing:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room:  ,POS 152
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Townes
+
+Fall 2023
+
+Course number: 36395
+
+Title: Independent Study
+
+Units: VAR
+
+Section: A,C,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Tartan, Heat 1 saw a very tight race between KapSig, DTD, and PiKA, with KapSig winning in 3:24.5, DTD finishing in 3:25.1, and PiKA finishing in 3:26.3. Those were the top 3 times and they advanced to the finals. Prelim Heat 2 paired Beta, SAE, and DU, and SAE won the heat by default, as Beta was DQ’d for a pushbar violation and DU was DQ’d for a Hill 4-5 transition violation (the Tartan reports that they “shoved the buggy into the last zone instead of pushing it”). Prelims Heat 3 was a battle
+1948 – Design Competition (from the 1949 Thistle). Identified buggies: KapSig (3rd from the left, back row); PiKA (4th from the left, back row); Beta Sigma Rho (far left, back row). We also believe that the bottom buggy in the front row (3 wheels, no shell) belongs to Citcom Clan.
+
+1948 – Hill 1 of the Finals (from the 1949 Thistle). KapSig in Lane 1 (left), DTD in Lane 2 (middle), PiKA in Lane 3 (right)
+1947 – KapSig being pushed on the back hills (unknown buggy trailing) (from the 1948 Thistle). 1948 Raceday: Prelims on Friday, May 14 at 1:00pm; Finals on Saturday, May 15 at 1:00pm
+
+Sweepstakes Committee: Robert Kerr (Chair)
+
+Race Results: (1) DTD (2:48); (2) KapSig (~2:48.5); (3) PiKA
+
+Design Comp: (1) KapSig
+
+Weather: Sunny; High of 62/72, Low of 54/50
+MS students will be given access to the LTI’s comp uter cluster on an as-needed basis, to be used
+
+for course assignments, directed study projects, and/or the capstone project. The LTI cluster
+
+provides storage and computation for projects  involving large datasets and/or lengthy
+
+computation. 12
+
+10 Degree Requirements
+
+MSAII students are expected to complete their degr ee requirements within five consecutive semesters,
+including off-campus/ wireless access to databases and e-journals, offer online access. There are 38
+
+also two neighboring libraries open to Carnegie Mellon graduate students: Carnegie Library of
+
+Pittsburgh and University of Pittsburgh Libraries. Visit the University Libraries website for
+
+information about all mentioned library locatio ns and hours, on-line resources and FAQ’s.
+
+13.10  Computing Services
+
+www.cmu.edu/computing/
+20. Kidney donor matching, 2008 Organ transplants save lives every day, but more people could likely be saved if it was easier to match recipients with donors who are unrelated. An algorithm developed by CMU scientists is close to enabling a nationwide network that would match living kidney donors with potential recipients whom they've never met in real life.
+
+
+Answer: 

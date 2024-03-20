@@ -1,0 +1,70 @@
+Question: What does SYNTACC stand for from Alexander Waibel's paper?
+
+Context: Thus, we also tried utilizing syntax as a proxy using Google Syntactic Ngrams biarcs (Goldberg and Orwant, 2013), as it is significantly larger. The biarcs portion of the corpus covers dependency relations between three connected content words, which includes transitive predicates. To calculate a similar ratio, we divide the number of times a noun occurs as a subject by the total number of subject and direct object occurrences (we call this the sub- ject ratio). A value closer to 1 should
+Chiou, R., Jeffries, E., Duncan, J., Humphreys, G.F., and Lambon Ralph, M.A. (2022). A middle ground
+
+where executive control meets semantics: the neural substrates of semantic control are topographically
+
+sandwiched between the multiple-demand and default-mode systems. Cerebral Cortex bhac358.
+
+Chomsky, N. (1957). Syntactic Structures. The Hague: Mouton de Gruyter.
+
+Chomsky, N. (1967). The formal nature of language. E. Lenneberg (Ed). Biological Foundations of
+Bai Li, Zining Zhu, Guillaume Thomas, Frank Rudzicz, and Yang Xu. 2022. Neural reality of argument struc- ture constructions. In Proceedings of the 60th Annual Meeting of the Association for Computational Lin- guistics (Volume 1: Long Papers), pages 7410–7423, Dublin, Ireland. Association for Computational Lin- guistics.
+
+Tal Linzen and Marco Baroni. 2021. Syntactic structure from deep learning. Annual Review of Linguistics, 7(1):195–212.
+Instructors: Bisk,Yang,Eskenazi,Gormley,Mortensen,Waibel,Brown,Lee,Cassell,Sycara,Morency,Frederking,Rosenfeld,Kolter,Instructor TBA,Poczos,Salakhutdinov,Mitamura,Lipton,Mostow,Berg-Kirkpatrick,Levin,Cohen,Oh,Strubell,Fahlman,Hauptmann,Callan,Mitchell,Xing,Nyberg,Neubig,Smith,Young,Tsvetkov,Rose,Stern,Rudnicky,Ramakrishnan,Watanabe,Hong,Tomasic
+
+Spring 2024
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+Instructors: Yang,Eskenazi,Mortensen,Waibel,Ganapathiraju,Brown,Cassell,Koedinger,Sycara,Frederking,Metze,Rosenfeld,Instructor TBA,Mitamura,Mostow,Levin,Cohen,Fahlman,Singh,Hauptmann,Callan,Smith,TBA,Xing,Mitchell,Nyberg,Langmead,Schultz,Bar-Joseph,Rose,Lavie,Rudnicky,Carley
+
+Spring 2024
+
+Course number: 11930
+
+Title: Dissertation Research
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Spring 2024
+
+Course number: 11935
+Section: E,I,AC,FF,AD,AE,F,HH,D,U,PP,GG,BB,P,C,J,AB,A,S,K,Y,W,B,AG,T,H,L,JJ,AQ,M,AA,N,O,Q,R,X,Z,G,QQ,AF,V
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Yang,Eskenazi,Waibel,Ganapathiraju,Brown,Cassell,Koedinger,Sycara,Morency,Frederking,Metze,Rosenfeld,Instructor TBA,Mitamura,Mostow,Hovy,Levin,Cohen,Fahlman,Singh,Hauptmann,Fink,Callan,Xing,Mitchell,Nyberg,Neubig,Young,Langmead,Bar-Joseph,Rose,Rudnicky,Ramakrishnan,Just,Tomasic
+Language Technologies Institute - Faculty Name: Alexander Waibel Email: waibel@cs.cmu.edu Office: 205 407 South Craig Street Research Areas: Spoken Language Translation, Machine Translation, Speech Processing, Neural Networks, Machine Learning, Multimodal Interaction, Dialog Processing Phone: 412-268-7676
+provided by the Intercultural Communication Center (ICC) and the Global Communication Center (GCC). 223.3.26 Academic Integrity and Policies on Plagiarism and Cheating The university considers any form of cheating or plagiarism to be a serious violation of student ethics. The student is required to understand and rigorously follow only the permitted forms of collaboration as defined by the instructor in every class. The work you submit must be your own, unless you have clearly attributed it to
+Engineering, Ph.D. in Information Security) Universidade Nova de Lisboa, Faculdade de Ciências e Tecnologia – FCTUNL (Ph.D. in Computer Science) Universidade de Coimbra, Faculdade de Ciências e Tecnologia – FCTUC (Ph.D. in Information Science and Technology) Students jointly enrolled in the LTI Ph.D program spend a year in Portugal, then two years at Carnegie Mellon taking classes in linguistics, computer science, statistical learning and task orientation.
+
+
+Answer: 

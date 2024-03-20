@@ -1,0 +1,177 @@
+Question: What's the paper title for the paper that released a method called IPA?
+
+Context: been asked for experiments that were too expensive for them, a clear majority of the partic- ipants (83.7%) would like to require reviewers to justify their petitions for more experiments (𝑄16). Lastly, we also see a large majority (75.6%) that be- lieved that their work could benefit from the release of small versions of pretrained models alongside large ones (𝑄17). To promote this, a majority of our respondents thought that venues should have a visible branding of papers to release a model
+Paper title: 'AutoReply: Detecting Nonsense in Dialogue with Discriminative Replies' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Adi Renduchintala, Emily Dinan, Mike Lewis, Daniel Fried, Zhou Yu, Weiyan Shi, Athul Paul Jacob Summary: No TLDR summary available
+Paper title: 'Active Retrieval Augmented Generation' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Jane Dwivedi-Yu, Frank F. Xu, Luyu Gao, Zhiqing Sun, Jamie Callan, Qian Liu, Graham Neubig, Zhengbao Jiang, Yiming Yang Summary: This work proposes Forward-Looking Active REtrieval augmented generation (FLARE), a generic method which iteratively uses a prediction of the upcoming sentence to anticipate future content,
+Course number: 57402
+
+Title: Alexander Technique for Musicians
+
+Units: 3.0
+
+Section: A,B
+
+Days: W
+
+Start: 01:00PM,12:00PM
+
+End: 12:50PM,01:50PM
+
+Room: MM 119
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levinson
+
+Fall 2023
+
+Course number: 57403
+
+Title: Yoga for Musicians
+
+Units: 3.0
+
+Section: A
+
+Days: M
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: MM 119
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Moskal
+
+Fall 2023
+
+Course number: 57405
+
+Title: Concerto: Virtuosity and Contrast
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Bedillion
+
+Fall 2023
+
+Course number: 24354
+
+Title: Mechatronics Applications in Mechanical Engineering
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: SH 236
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Webster-Wood
+
+Fall 2023
+
+Course number: 24370
+
+Title: Mechanical Design: Methods and Applications
+
+Units: 12.0
+
+Section: A,B,Lec
+
+Days: W,T,MW
+
+Start: 10:00AM,07:00PM
+
+End: 11:50AM,08:50PM
+
+Room: DH A302,GHC 4215
+Course number: 15627
+
+Title: Monte Carlo Methods and Applications:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room: DH A302,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Crane, Iyer
+
+Fall 2023
+
+Course number: 15635
+
+Title: Foundations of Blockchains
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shi
+
+Fall 2023
+
+Course number: 15639
+If you can ID any of the unknown buggies, let us know.
+
+1949 – Design Competition (from the 1966 Buggy Book). Buggies are KapSig (far left), SAE’s design winner (#4, 2nd from the left), Men’s Dorms (#7, 3rd from the left), and DU (#11, far right).
+
+1949 – SAE’s Design-winning buggy getting worked on (from the November 1949 issue of The Record, the SAE National Publication)
+
+1949 – Citcom Clan Buggy (#9) (from the 1950 Thistle).
+Transition: Procedure whereby one pusher finishes pushing a buggy and the next pusher in sequence starts to push that same buggy.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+The MLT thesis may focus on either a significant research result or a significant implementation of a new technology. The student should work with their adv isor to
+
+define an interesting but bounded thesis research project. The MLT thesis culminates in MLT Graduate Student Handbook  Page 16
+
+a publication -quality paper that clearly describes the work in terms of its research
+
+significance.
+
+The MLT thesis committee will be composed of a thesis advisor  and two additional
+decisions, the sexual misconduct grievance procedures and process, including how to file a report or a complaint of sex discrimination, how to file a report of sexual harassment, and how MLT Graduate Student Handbook  Page 9
+
+the university responds to such reports is available at www.cmu.edu/title -ix. The Title IX
+
+coordinator may be reached at 5000 Forbes Ave., 140 Cyert Hall, Pittsburgh, PA 1 5213; 412-
+
+268- 7125; or tix@cmu.edu.
+
+1.6 The Carnegie Mellon Code
+and a discussion of its scientific contributions. There are no fixed style or document length guidelines or requirements; the only format requirement is that the title page should be suitable to be issued as an LTI Technical Report. The dissertation defense is a public
+
+presentation and defense of the dissertation results.
+
+
+Answer: 

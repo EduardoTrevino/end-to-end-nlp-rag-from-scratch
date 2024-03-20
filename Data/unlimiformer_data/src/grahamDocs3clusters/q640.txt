@@ -1,0 +1,156 @@
+Question: How many credits is Human Language for AI worth?
+
+Context: The problem of aligning large language models (LLMs) to human values and intentions in terms of being comprehensive, respectful, and compliant1 [10, 32, 30, 4, 5, 27] has gained significant attention in research as recent AI systems (like ChatGPT or GPT-4) have rapidly advanced in their capabilities [12, 33, 7, 9]. Presently, state-of-the-art AI systems predominantly depend on supervised fine-tuning (SFT) with human instructions and annotations, as well as reinforcement learning from human
+the prefer- ences with the reward model, subsequently influencing the behavior of the RL- trained policies, and eliminating the reliance on the collection of online human preferences. Applying our method to the LLaMA-2-70b base language model, we developed an AI assistant named Dromedary-2. With only 6 exemplars for in-context learning and 31 human-defined principles, Dromedary-2 signifi- cantly surpasses the performance of several state-of-the-art AI systems, including LLaMA-2-Chat-70b, on
+diversity, self-consistency, and undesirable biases. To address these challenges, we propose a novel approach called SELF-ALIGN, which combines principle-driven reasoning and the generative power of LLMs for the self-alignment of the AI agents with minimal human supervision. Applying SELF-ALIGN to the LLaMA-65b base language model, we develop an AI assistant named Dromedary . With fewer than 300 lines of human anno- tations (including < 200 seed prompts, 16 generic principles, and 5 exemplars
+Title: Applied AI (Artificial Intelligence):
+
+Units: 6.0
+
+Section:  ,A3,R3
+
+Days: R,
+
+Start:  ,05:30PM
+
+End:  ,07:20PM
+
+Room: TBA, ,B23 118
+
+Locations:  ,San Jose, California
+
+Instructors: Dai
+
+Spring 2024
+
+Course number: 49780
+
+Title: Human Computer Interaction & User Experience:
+
+Units: 6.0
+
+Section: B4, ,R4
+
+Days: R,
+
+Start:  ,07:30PM
+
+End:  ,09:20PM
+
+Room: TBA, ,B23 109
+
+Locations:  ,San Jose, California
+
+Instructors: Prayaga
+
+Spring 2024
+
+Course number: 49781
+Instructors: Martelaro, Saffer,Zimmerman, Musuraca
+
+Fall 2023
+
+Course number: 05618
+
+Title: Human AI Interaction
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: SH 234
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhu
+
+Fall 2023
+
+Course number: 05630
+
+Title: Programming Usable Interfaces:
+
+Units: 15.0
+
+Section: A,E,B,C,D,Lec,
+
+Days: M, ,W,MW
+
+Start: 08:00AM, ,09:30AM
+
+End: 10:50AM,09:20AM,
+
+Room: WEH 5310,TEP 1403,PH 226B,WEH 6403, ,PH 125B
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Spring 2024
+
+Course number: 11695
+
+Title: AI Engineering
+
+Units: 12.0
+
+Section: A,E,B,F,C,D,Lec
+
+Days: F,MW
+
+Start: 09:30AM,11:00AM,02:00PM
+
+End: 10:50AM,12:20PM,03:20PM
+
+Room: PH 226C,PH A22,GHC 4215,WEH 5310,PH 100,WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kaestner, Le Goues
+
+Spring 2024
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+Core Course: - Human Language for Artificial Intelligence (11-411)
+course. No undergraduat e courses count toward the 195-unit requirement.
+
+All Core courses are organized in sequence, and must be taken in the following order:
+
+Artificial Intelligence and Future Markets (11-651) – No prerequisite.
+
+AI Engineering (11-695) – Prerequisite is the co mpletion of 11-651 with a grade of “B” or
+
+better.
+
+LTI Practicum (11-935) – Three credit units for completing the required Internship.
+
+
+Answer: 

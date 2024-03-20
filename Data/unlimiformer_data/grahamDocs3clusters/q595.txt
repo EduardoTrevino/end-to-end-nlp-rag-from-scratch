@@ -1,0 +1,184 @@
+Question: In the MCDS degree, what are the two names of the tracks you can take in your plan of study? One of these is a 16 month degree and the other is a 20 month degree. Answer with the names of the two tracks with an 'and' in between.
+
+Context: More formally, each node u ∈ G of degree d is represented in G′ by two cycles of length (2d + 3), which we will call the “top” and “bottom” cycles. As in the proof of Proposition 16, for each neighbor v of u, each of the two cycles contains two adjacent nodes, which can be thought of as the “ports” that allow us to “go to” and “come from” the corresponding cycle of v. That is, there are two adjacent nodes utop v in the “top” cycle of u, which are (cid:1) connected to the corresponding nodes
+abandoned that pretty quickly and wandered quite a bit in college, trying to find a major, and finally ended up in history and was pretty happy with that. I would have shifted to music, but I didn’t really have an image of what you could do with that, and at that point, people usually graduated in four years. The idea of stretching it on seemed odd, so I stayed with a history major and had no real direction. It ended up being almost an accident that I went to graduate school.
+3.3.2 Popularity Bias and Music Discovery In addition we formalize the inverse relationship between music discovery and popularity bias. For each song track, 𝑡𝑖 ∈ 𝑇𝑂𝐺 , we generate a counterfactual example song, 𝑡 ∗ 𝑖 ∈ 𝑇𝐶𝐹 , where everything about the features is exactly the same and the only difference is that 𝑡𝑖 has a high degree while 𝑡 ∗ 𝑖 has a degree of one. We calculate the distance between an original song node, 𝑡𝑖 and its counterfactual duplicate, 𝑡 ∗ 𝑖 . A system with high potential
+Course number: 57392
+
+Title: Keyboard Studies (Music Ed)
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Larocca
+
+Spring 2024
+
+Course number: 57393
+
+Title: Keyboard Studies Test (Music Ed)
+
+Units: 0.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Larocca
+
+Spring 2024
+
+Course number: 57394
+
+Title: Guitar Test (Music Ed)
+
+Units: 0.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+Title: Software Management Capstone Project
+
+Units: 3,6,12,24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: San Jose, California
+
+Instructors: Mercier
+
+Summer 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Summer 2024
+
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: T
+
+Start: 08:00AM
+Title: ConLanging: Lrng. Ling.⟪ Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11634
+
+Title: MCDS Capstone Planning Seminar:
+
+Units: 12.0
+Professional Preparation Track – a 16
+
+month degree consisting of study for Fall and Spring semesters, a summer internship, and Fall semester of study. Each semester consists of a minimum of 48 units of study. This timing is typical for most students. The student graduates in December.
+
+Research Preparation Track – a 20
+Regardless of the timing option, all MCDS students must complete a minimum of 144 units to graduate. Here are the options: Standard Timing — a 16-month degree consisting of study for fall and spring semesters, a summer internship, and fall semester of study. Each semester comprises a minimum of 48 units. This timing is typical for most students. Students graduate in December. Extended Timing — a 20-month degree consisting of study for fall and spring semesters, a summer internship, and a second
+The MIIS degree is offered in  two options:
+
+Option 1. Standard MIIS degree  (MIIS -16) - A 16 -month track that is completed in three
+
+academic semesters (fall, spring, fall) and a summer internship.
+
+Option 2. MIIS: Advanced Study degree  (MIIS -21) - A 21 -month track that is completed in
+
+four academic semesters (fall, spring, fall, spring) and a summer internship.
+
+MIIS: Advanced Study track offers in depth  degree in one of the following areas of
+
+concentration:
+
+
+Answer: 

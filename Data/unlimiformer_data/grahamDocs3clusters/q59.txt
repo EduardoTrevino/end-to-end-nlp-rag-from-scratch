@@ -1,0 +1,172 @@
+Question: What are the course number(s) for the courses on LLMs?
+
+Context: Math Reasoning The prompts for the Base LLM are sourced from PaL (Gao et al., 2022) as ⟨xi, yi⟩. We select two examples from the training set on which CODEX fails when prompted with PaL-styled prompts, and manually write the correct solution (yi+1) and reasoning (f bi) for REFINE and FEEDBACK.
+instruction prompt p(u, i), e.g., “how would user 1234 rate item 5678”, such that LLM can understand this task. Af- ter feeding p(u, i) into the LLM, it can generate a numerical string in the scale of 1 to 5 such as “4.12”, indicating that the user is likely to interact with the item.
+74.8 ±0.0 90.7 ±0.0 77.7 ±0.0 91.5 ±0.0 77.2 ±0.0 91.9 ±0.0
+
+Instructor-XL (GPT-3.5 prompt)
+
+- -
+
+70.8 ±0.0 88.6 ±0.0
+
+Table 3: We compare the effect of LLM intervention without demonstrations or without instructions. We see that GPT-3.5-based Keyphrase Clustering outperforms instruction-finetuned encoders of different sizes, even when we provide the same prompt.
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Synnott
+
+Spring 2024
+
+Course number: 94812
+
+Title: Applications of NL(X) and LLM
+
+Units: 6.0
+
+Section: A3
+
+Days: TRF
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 1007
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rao
+
+Spring 2024
+
+Course number: 94813
+
+Title: Project Management
+
+Units: 6.0
+
+Section: A3,B3
+
+Days: MW
+
+Start: 03:30PM,02:00PM
+
+End: 04:50PM,03:20PM
+
+Room: HBH 2009
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cardoso Llach, Cupkova, Gutschow, Krishnamurti, Sawyer, Gruber
+
+Fall 2023
+
+Course number: 48702
+
+Title: Master's Project
+
+Units: 18-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cochran, Loftness, Karaguzel, Cardoso Llach
+
+Fall 2023
+
+Course number: 48705
+
+Title: Urban Design Studio I
+
+Units: 18.0
+
+Section: A
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: MM 312
+End: 12:20PM
+
+Room: MM 409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bizon
+
+Fall 2023
+
+Course number: 48788
+
+Title: Proseminar in Computational Design
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 10:00AM
+
+End: 12:20PM
+
+Room: MM 307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cardoso Llach
+
+Fall 2023
+
+Course number: 48792
+
+Title: Ph.D. Independent Study
+
+Units: 0-99
+
+Section: M,E,O,R,X,B,P,N,J,V
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+An “SCS course” is any 12 -unit course with a course number indicating a unit of the
+
+School of Computer Science (including LTI); a 6 -unit course with such a number counts
+
+as 1/2 of an SCS course. Unless otherwise specified, "course" means an actual classroom
+
+course, not credit given for research or independent study. Note: Recommended
+
+electives that are technically outside  of the SCS now count towards this requirement; for
+also complete at least one concentration, consisting of three courses in one of three areas: Analytics, Systems, or Human-Centered Data Science. The remaining elective course can be any course with number 600 or above chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.  To maintain full-time enrollment status, a student must enroll in a minimum of 36 course units per semester.
+
+
+Answer: 

@@ -1,0 +1,107 @@
+Question: In spring carnival, Scotch'n'Soda's theatre carnival shows are on what days of the week?
+
+Context: Section: A,E,G,C,D, ,L
+
+Days:  ,MTWRF
+
+Start:  ,06:30PM
+
+End:  ,10:30PM
+
+Room: TBA,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Tsu,Thomson
+
+Spring 2024
+
+Course number: 54636
+
+Title: Musical Theater History
+
+Units: 6.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Olmstead
+
+Spring 2024
+
+Course number: 54639
+
+Title: Production Prep: SOM 3:
+
+Units: VAR
+
+Section: A,E,I,K,F,G,C,D,J, ,H,L
+
+Days:  ,MTWRF
+Title: Special Topics in Drama:
+
+Units: 6.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room: WEH 5304,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Arons
+
+Spring 2024
+
+Course number: 54384
+
+Title: Lighting Forum
+
+Units: 1.0
+
+Section: A
+
+Days: R
+
+Start: 01:00PM
+
+End: 01:50PM
+
+Room: PCA 103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Thomson, Stebbins
+
+Spring 2024
+
+Course number: 54385
+
+Title: Automated Lighting Rig Engineering
+
+Units: 6.0
+
+Section: A
+
+Days: F
+INSTRUCTSCORE Input: Reference: It is understood that the activities held during the “Children’s Day” by China Children’s Center this year include the “Cool Maker Loves Family” carnival of children’s future learning, the first children’s visual art festival, the “Book Carnival” event and the “Whole Family Loves Reading” Picture Book Reading activity. Output: It is understood that the activities held by the China children’s center during this year’s "June 1" children’s day include the "love
+Fight Over Carnival Schedule. Now that Spring Carnival was back on, the students had to decide how they wanted it – As 2 days in May (losing a day of vacation) or one day in April (not sacrificing any other off days). Buggy was going to happen either way, but ultimately the students voted on a 2 day Carnival, keeping the tradition intact and putting Raceday on the schedule for May 2-3. Time Trials. It looks like this post-war period was when the race changed from a head-to-head to a time trial.
+The Finals, initially scheduled for 2pm on Saturday, May 4, were ultimately postponed until Saturday, May 11, due to a downpour that cast a damper on an otherwise exciting Spring Carnival. Controversial Finals. An overcast sky threatened rain on the makeup date as well, though it held off long enough for the race to be run. But some of the spectators may have wished the rain came sooner. Although signs were posted about the makeup date, cars ignored the notices and ended up blocking part of the
+Buggy is Back! The War is over, and Spring Carnival is back with Buggy! The first year back was a short one though, as Spring Carnival was only a 2-day event, kicking off with Buggy at 4:30pm on Friday. The field was small (only 9 teams), as not all of the fraternities on campus had reactivated following the War. Buggy secrecy came back as well, as the April 30, 1946 Tartan reported that DU was building their new buggy off-campus, and were so secretive about it that not even their brothers had
+
+
+Answer: 

@@ -1,0 +1,180 @@
+Question: What types of prompts can PaintSeg be configured to work with?
+
+Context: Bonifacio et al. (2022) evaluated two types of the prompts of which we use only the so-called vanilla prompt (see Table 2).
+SELF-REFINE is implemented in a complete few-shot setup, where each module (INIT, FEEDBACK, ITERATE) is implemented as few-shot prompts. We execute the self-improvement loop for a maximum of k = 4 iterations. The iterations continue until the target sentiment is reached.
+
+P.1 Details
+necessitating any manual system modifications. As previously mentioned, GLoRA supports VPT-Deep level prompts via the support tensor C, however, it does not impose any computational overhead due to its completely structural re-parameterization design.
+Title: Prompt Engineering
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Breaux
+
+Spring 2024
+
+Course number: 17734
+
+Title: Usable Privacy and Security
+
+Units: 12.0
+
+Section: A,B
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HH B103,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cranor, Agarwal
+
+Spring 2024
+
+Course number: 17735
+
+Title: Engineering Privacy in Software
+
+Units: 12.0
+
+Section: A,B
+Title: Prompt Engineering
+
+Units: 12.0
+
+Section: A,D,Lec 4
+
+Days: T,TR
+
+Start: 05:00PM,02:00PM
+
+End: 06:20PM,03:20PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Breaux
+
+Spring 2024
+
+Course number: 17632
+
+Title: Software Project Management
+
+Units: 6.0
+
+Section: C3,A3,B3
+
+Days: TR
+
+Start: 08:00AM,11:00AM,03:30PM
+
+End: 09:20AM,12:20PM,04:50PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Miranda,Chick, Kumar
+
+Spring 2024
+
+Course number: 17633
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PCA 107
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carter
+
+Spring 2024
+
+Course number: 54712
+
+Title: Painting for the Theatrical Designer
+
+Units: 9.0
+
+Section: A
+
+Days: W
+
+Start: 09:00AM
+
+End: 12:20PM
+
+Room: PCA 305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gajic
+
+Spring 2024
+
+Course number: 54722
+
+Title: Graduate Directing: Text to Stage
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 05:00PM
+
+Room: OFF CAMPUS
+Clients meet with a c onsultant to improve the logic, clarity, and flow of writing or
+
+presentation and receive expert feedback that will strengthen a project. When making an appointment, clients upload a draft, instructor prompts, and rubrics so the consultants can use specific  criteria to give relevant feedback. See the
+
+appointment types offered here:
+
+https://www.cmu.edu/student-
+
+success/programs/communication -support/make- an-appointment.html
+Faculty Research Talks, nor do they receive a grade, however the department is serious about its expectation that new students will attend these talks.
+
+The LTI Orientation Canvas course
+
+is a mandatory course designed to increase incoming LTI
+
+graduate students' awareness and understanding of CMU's community standards and the
+
+resources that CMU offers the students. The course includes several administrative tasks,
+The Office of Research Integrity & Complian ce (ORIC) is designed to support research at
+
+Carnegie Mellon University. The staff work with  researchers to ensure research is conducted
+
+with integrity and in accordance with federa l and Pennsylvania regulation. ORIC assists
+
+researchers with human subject re search, conflicts of interest, re sponsible conduct of research,
+
+export controls, and institutional animal care & us e.  ORIC also provides consultation, advice,
+
+
+Answer: 

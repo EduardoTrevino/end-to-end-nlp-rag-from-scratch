@@ -1,0 +1,19 @@
+Question: What is the accuracy using SHAP reduction?
+
+Context: The SHAP method works by evaluating the model’s prediction for each instance while permuting the values of a specific feature. This involves shuffling the values of the chosen feature while keeping the rest of the features unchanged. The difference between the model’s prediction with the original feature values and the prediction with the
+
+PRECISION =
+
+TP TP + FP
+
+RECALL =
+
+TP TP + FN
+ument frequency) and MLP-NN (multilayer perceptron neural network), achieving an overall classiﬁcation performance of 89% accuracy, 88% recall, and 89% precision. Moreover, spar- sity reduction signiﬁcantly affected classiﬁer performance in downstream tasks, and a generative AE (autoencoder) learning algorithm effectively leveraged sparsity reduction to help the MLP-NN classiﬁer achieve 92% accuracy, 91% recall, 91% precision, and 91% F1-score. These ﬁndings suggest that the simpler frameworks
+Our methodology is based on the idea introduced by Yang (2022) as this paper also tries to solve a text-to-text style transfer problem. SHAP can be used with a trained classifier to detect the words that drive the output of a classifier to a particular label more than other words. Hence, in our work, we used the trained regard classifier from Sheng
+24. Encrypting online information, 2012 Credit card numbers and other data used online is safer thanks to an encryption scheme developed by CMU alumna Shafi Goldwasser (S’79). She shared the 2012 Turing Award for her role in developing practical encoding schemes that are difficult to break.
+out how many pedestrians they had hit”). The impact was severe enough that KapSig’s buggy was dented, and the time it lost from the impact made it impossible for them to catch up. PiKA eventually passed DTD in the freeroll and went on to win by 30 yards, but by then it didn’t matter. The judges decided to DQ PiKA for interference. The brothers of PiKA didn’t take it lightly though; they immediately lodged a protest against the judge’s decision.
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+
+
+Answer: 

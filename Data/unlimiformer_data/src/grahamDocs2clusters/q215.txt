@@ -1,0 +1,33 @@
+Question: Which LTI faculty member does the most work on robots?
+
+Context: We would also like to thank the whole Hello Robot team, but especially Binit Shah and Blaine Mat- ulevich for their help with the robots, and Aaron Edsinger and Charlie Kemp for helpful discussions.
+Tuomas Haarnoja, Vitchyr Pong, Aurick Zhou, Murtaza Dalal, Pieter Abbeel, and Sergey Levine. Composable deep reinforcement learning for robotic manipulation. In 2018 IEEE international conference on robotics and automation (ICRA), pages 6244–6251. IEEE, 2018a. (Cited on page 5.)
+Tim Pearce, Tabish Rashid, Anssi Kanervisto, Dave Bignell, Mingfei Sun, Raluca Georgescu, Sergio Valcarcel Macua, Shan Zheng Tan, Ida Momennejad, Katja Hofmann, et al. Imi- tating human behaviour with diﬀusion models. In International Conference on Learning Representations (ICLR), 2023. (Cited on page 12.)
+
+Karl Pertsch, Youngwoon Lee, and Joseph Lim. Accelerating reinforcement learning with learned skill priors. In Conference on robot learning (CORL), pages 188–204, 2021. (Cited on page 13.)
+nearly 1,700, including undergraduate, master’s and Ph.D. students, and conducted $124 million in research. Indeed, by itself, the Robotics Institute is the largest university robotics research group in the world, with more than 500 people and more than 100 ongoing research projects. A half-century ago, Perlis, Simon and Newell outlined a vision for computer science. The School of Computer Science at CMU remains committed to continuing and extending their vision in the context of big data and
+Launching a Robotics Institute In 1979, an executive at Pittsburgh’s Westinghouse Electric Corp., Tom Murrin, collaborated with Jordan and Reddy to create the Robotics Institute, with Reddy as its first director. By 1982, the Computer Science Department included more than 30 faculty members and 100 graduate students.
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+
+
+Answer: 

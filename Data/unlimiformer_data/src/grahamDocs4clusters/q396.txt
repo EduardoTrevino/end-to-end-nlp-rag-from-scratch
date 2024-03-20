@@ -1,0 +1,253 @@
+Question: What city is CMU LTI located in?
+
+Context: We would like to thank our workers on MTurk for their responses. We are also grateful to the anonymous reviewers for their helpful comments. Special thanks to Saadia Gabriel, Jocelyn Shen, Ashutosh Baheti, and the members of the CMU LTI COMEDY group for their feedback, and Ope- nAI for providing access to the GPT-3.5 API. This research was supported in part by the Meta Fun- damental AI Research Laboratories (FAIR) “Dyn- abench Data Collection and Benchmarking Plat- form” award “ContExTox:
+First of all, we thank our workers on MTurk for their hard work and thoughtful responses. We thank the anonymous reviewers for their helpful com- ments. We also thank Shengyu Feng and mem- bers of the CMU LTI COMEDY group for their feedback, and OpenAI for providing access to the GPT-3.5 API. This research was supported in part by the Meta Fundamental AI Research Laboratories (FAIR) “Dynabench Data Collection and Benchmarking Platform” award “ContExTox: Context-Aware and Explainable Toxicity
+Carolyn Rosé
+
+cp3a@andrew.cmu.edu
+
+Alyssa Friend Wise alyssa.wise@nyu.edu
+
+Sanna Järvelä sanna.jarvela@oulu.fi
+
+1 NYU Steinhardt, New York, NY, USA 2 Carnegie Mellon University Language Technologies Institute and HCI Institute, Pittsburgh, PA,
+
+USA
+
+3 University of Oulu, Oulu, Finland
+
+2
+
+A. F. Wise et al.
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mortensen,Morency
+
+Fall 2023
+
+Course number: 11390
+
+Title: LTI Minor Project - Juniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11411
+
+Title: Natural Language Processing:
+
+Units: 12.0
+
+Section: A, ,B
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,CMU REMOTE,POS A35
+End: 10:50AM,05:50PM
+
+Room: CMR F309,CMU REMOTE
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Spring 2024
+
+Course number: 18691
+
+Title: Digital Signal Processing
+
+Units: 12.0
+
+Section: A,B,Lec
+
+Days: F,MW
+
+Start: 12:00PM,10:00AM,02:00PM
+
+End: 11:50AM,01:50PM,03:50PM
+
+Room: SH 234,DH 1117,WEH 5320
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stern
+
+Spring 2024
+
+Course number: 18698
+
+Title: Neural Signal Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+Room: CMU REMOTE,CMR F307
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Fall 2023
+
+Course number: 18726
+
+Title: Projects in Integrated Circuit Design: First Silicon
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mai
+
+Fall 2023
+
+Course number: 18729
+
+Title: Special Topics in Circuits:
+
+Units: 12.0
+
+Section: C,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,ANS C02
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+https://www.cmu.edu/police/   x2323  LTI Ph.D.  Graduate Student Handbook  Page 49
+
+The University Police Department is located at 4551 Filmore  Street . The department’s services
+
+include police patrols and call response, criminal investigations, fixed officer and foot officer
+
+patrols, event security, and crime prevention and education programming as well as bicycle and
+
+laptop registration. Visit the department’s website for additional information about the staff,
+The use of a photocopier or printer requires you to log in with your CMU ID card. LTI’s printers
+
+are located in GHC 5404 and GHC 6604. The School of Computer Science provides a number of
+
+black -and-white and color printers for use by students. The SCS Computer Facilities publishes a
+
+list of printers online at http://www.cs.cmu.edu/~help/printing/.
+
+2.1.3 Office Space for MS Students
+
+To help create a sense of community, full time students in the LTI’s MIIS program have access to a
+The Language Technologies Institute is located primarily on the 5th and 6th floors of the Gates
+
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus . The address and contact
+
+information of the LTI are :
+
+Language Technologies Institute
+
+Carnegie Mellon University
+
+5000 Forbes Avenue
+
+Gates Hillman Complex 5404 , LTI
+
+Pittsburgh, PA 15241 -3891
+
+412-268-6591  (phone)
+
+412-268-6298 (fax)
+
+http://www.lti.cs.cmu.edu/
+
+1.5 Carnegie Mellon University Statement of Assurance
+
+
+Answer: 

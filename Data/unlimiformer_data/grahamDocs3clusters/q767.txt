@@ -1,0 +1,196 @@
+Question: What LTI professor was on "SYNTACC : Synthesizing Multi-Accent Speech By Weight Factorization"?
+
+Context: Wenhao Zhu, Shuang Liu, and Chaoming Liu. 2021. Incorporating syntactic and phonetic infor- mation into multimodal word embeddings using graph convolutional networks. In ICASSP Inter- national Conference on Acoustics, Speech and Signal Processing, pages 7588–7592. IEEE.
+
+Wenhao Zhu, Shuang Liu, Chaoming Liu, Xiaoya Yin, and Xiaping Xv. 2020. Learning multimodal word representations by explicitly embedding syntactic and phonetic information. IEEE Ac- cess, 8:223306–223315.
+[41] Y. Peng, S. Dalmia, I. Lane, and S. Watanabe,
+
+“Branch- former: Parallel MLP-attention architectures to capture local and global context for speech recognition and understanding,” in Proc. ICML, 2022.
+
+[42] T. Maekaku, Y. Fujita, Y. Peng, and S. Watanabe, “Attention Weight Smoothing Using Prior Distributions for Transformer- Based End-to-End ASR,” in Proc. Interspeech, 2022.
+
+[43] F. Wu, K. Kim, S. Watanabe, et al.,
+Angeliki Lazaridou, Anna Potapenko, and Olivier Tiele- man. 2020. Multi-agent communication meets natu- ral language: Synergies between functional and struc- tural language learning. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 7663–7674, Online. Association for Computational Linguistics.
+Room: BH A51, ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11490
+
+Title: LTI Minor Project - Seniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11492
+
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Spring 2024
+
+Course number: 11695
+
+Title: AI Engineering
+
+Units: 12.0
+
+Section: A,E,B,F,C,D,Lec
+
+Days: F,MW
+
+Start: 09:30AM,11:00AM,02:00PM
+
+End: 10:50AM,12:20PM,03:20PM
+
+Room: PH 226C,PH A22,GHC 4215,WEH 5310,PH 100,WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kaestner, Le Goues
+
+Spring 2024
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

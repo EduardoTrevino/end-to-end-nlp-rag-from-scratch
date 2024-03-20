@@ -1,0 +1,179 @@
+Question: What is the benefit of FLARE over existing retrieval augmented LMs?
+
+Context: to retrieve, it is important to consider what LMs intend to gen- erate in the future, as the goal of active retrieval is to benefit future generations. Therefore, we propose anticipating the future by generating a temporary next sentence, using it as a query to retrieve rel- evant documents, and then regenerating the next sentence conditioning on the retrieved documents. Combining the two aspects, we propose Forward- Looking Active REtrieval augmented generation (FLARE), as illustrated in
+Our intuition is that (1) LMs should only retrieve information when they do not have the necessary knowledge to avoid unnecessary or inappropriate retrieval, and (2) the retrieval queries should reflect the intents of future generations. We propose two forward-looking active retrieval augmented gener- ation (FLARE) methods to implement the active retrieval augmented generation framework. The first method prompts the LM to generate retrieval queries when necessary while generating the an- swer
+tioned in Krishna et al. (2021) such as difficulties of grounding generation in retrieval and evalua- tion, both single-time retrieval and FLARE did not provide significant gains over not using retrieval. From an engineering perspective, interleaving gen- eration and retrieval with a naive implementation increases both overheads and the cost of generation. LMs need to be activated multiple times (once for each retrieval) and a caching-free implementation also requires recomputing the previous
+Title: ConLanging: Lrng. Ling.⟪ Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11634
+
+Title: MCDS Capstone Planning Seminar:
+
+Units: 12.0
+Title: Design Center: The Emerging Ecological Worldview
+
+Units: 12.0
+
+Section: A
+
+Days: T
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: MM 121
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kossoff
+
+Fall 2023
+
+Course number: 51950
+
+Title: Progress Reviews I
+
+Units: VAR
+
+Section: B2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chapman
+
+Fall 2023
+
+Course number: 51954
+
+Title: Progress Reviews III
+
+Units: VAR
+
+Section: B2,A2
+
+Days: TBA
+
+Start:
+
+End:
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 32102
+
+Title: Seapower and Maritime Affairs
+
+Units: 6.0
+
+Section: A
+
+Days: TR
+
+Start: 07:30AM
+
+End: 08:50AM
+
+Room: HBH 1006
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Oberley
+
+Spring 2024
+
+Course number: 32200
+
+Title: Naval Laboratory
+
+Units: 3.0
+
+Section: A
+
+Days: W
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: FRB 210
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Oberley
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+This year Fringe is planning to roll four different vehicles, built and maintained in the Fringe workshop in the basement of the East Campus Garage, known as the "Froom."
+
+"We're used to saying everything with 'fr' in front of it but when we say something in front of other people, it gets them confused," said Fringe head mechanic Dave Singh, who will graduate in May with a bachelor's degree in mechanical engineering and biomedical engineering.
+Carnegie Mellon Athletics strives to provide an exceptional experience for all of its student-athletes. Contributions to the Tartan Fund allow our programs and coaches to remain at the cutting edge of their sport with specialty equipment, travel, and training opportunities. To join the Tartan Athletics Club,
+consultation at CaPS can help clarify the nature of the concern, provide immediate support,
+
+and explore further options if needed. These may include a referral for counseling within CaPS, to another resource at Carnegie Mellon, or to another resource within the larger
+
+Pittsburgh community. CaPS also provides workshops and group sessions on mental health
+
+related topics specifically for graduate students on campus. CaPS services are provided at no
+An initial consultation at CaPS can help clarify the nature 8 of the concern, provide immediate support, and explore further options if needed. These may include a referral for counseling within CaPS, to another resource at Carnegie Mellon, or to another resource within the larger Pittsburgh community. CaPS also provides workshops and group sessions on mental health related topics specifically for graduate students on campus. CaPS services are provided at no cost. Appointments can be made in
+Counseling & Psychological Serv ices (Ca PS) affords the opportunity for students to talk privately
+
+about academic and personal concerns  in a saf e, confidential setting. An initial consultation at
+
+CaPS can help clarify the nature of the concern, provide immediate support, and explore further options if needed. These may include a referral for counseling within CaPS, to another resource at Carnegie Mellon, or to another resource within the larger Pittsburgh community.
+
+
+Answer: 

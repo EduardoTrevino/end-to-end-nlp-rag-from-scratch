@@ -1,0 +1,169 @@
+Question: In the Paaploss paper, in which speech enhancement workflows did the proposed method show improvement?
+
+Context: forward. The experiments on the LibriSpeech dataset show that the proposed methods can achieve competitive results com- pared to conventional acoustic features. Future research could involve investigating other discretization techniques and ensem- bling discrete tokens to further enhance speech recognition per- formance.
+This paper details a case study on cocktail party speech recog- nition. Instead of recognizing all speakers, our system focuses on enhancing the target speaker’s voice before conducting speech recognition. Through rigorous experiments, we show- cased the effectiveness of our improved end-to-end model. Noteworthy enhancements include a cross-extraction speaker encoder, an improved mask estimation model, and an opti- mized loss function. We also publicly share our pre-trained ConVoiFilter to
+In this paper, we take a deep dive into blockwise encoders and blockwise streaming beam search for simultaneous speech translation. We propose a modified incremental blockwise beam search, which incorporates local agreement or hold-n policies for quality-latency control. This enables incremen- tal SST and facilitates latency control without the need to re- train the model. Furthermore, we document that the proposed changes bring improvement to both quality and latency. Ad- ditionally, we show
+Course number: 18495
+
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Spring 2024
+
+Course number: 18500
+
+Title: ECE Design Experience
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: TBA,HH 1307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Fedder,Kim,Sullivan,Mukherjee,Savvides
+
+Spring 2024
+
+Course number: 18525
+Course number: 82881
+
+Title: Research Methods in Second Language Acquisition
+
+Units: 9.0
+
+Section: A
+
+Days: R
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: POS 235
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Koda
+
+Spring 2024
+
+Course number: 82888
+
+Title: Topics in Second Language Acquisition:
+
+Units: 9.0
+
+Section: A, ,B
+
+Days: M, ,W
+
+Start:  ,06:00PM,02:00PM
+
+End:  ,08:50PM,04:50PM
+
+Room:  ,POS 235,BH 235B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Van Compernolle,Burns
+
+Spring 2024
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Spring 2024
+
+Course number: 11753
+
+Title: Advanced Laboratory in Speech Recognition
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11754
+
+Title: Project Course: Conversational Systems
+
+Units: 6.0
+
+Section: A
+
+Days: T
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: BH 154A
+
+Locations: Pittsburgh, Pennsylvania
+1948 saw the first independent orgs and the start of DTD’s run of greatness, but it wasn’t easy, as they barely held off KapSig for the championship.
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+To emphasize student research, improve public speaking skills , and increase internal awareness
+
+of LTI work, all MLT students must complete an oral presentation in their second year (by the
+
+end of May). The presentation should consist of a 20 -minute talk plus time for discussion. It
+
+must be advertised to the LTI mailing lists at least one week before your presentation, and the
+
+public will be invited.
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+To emphasize student research, improve public speaking skills and increase internal awareness of LTI work, all LTI Ph.D.  students must complete an oral presentation at the LTI each year (by
+
+the end of May). The presentation should consist of a 20- minute ta lk plus time for discussion. It
+
+must be advertised to the LTI mailing lists at least one week before your presentation, and the public will be invited. (The thesis proposal and defense each count towards this requirement.)
+
+
+Answer: 

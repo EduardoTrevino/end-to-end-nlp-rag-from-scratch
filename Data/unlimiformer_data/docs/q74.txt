@@ -1,0 +1,255 @@
+Question: When was The Kiltie Band founded?
+
+Context: Retrievers. We adopt two widely used retriev- ers to initialize AAR: ANCE initialized from T5Base (Raffel et al., 2020; Ge et al., 2023) and Contriever (Izacard et al., 2021) initialized from BERTBase (Devlin et al., 2019). Both of them have been fine-tuned on MS MARCO (Bajaj et al., 2016) previously. For the retrieval corpus, we choose the MS MARCO (Bajaj et al., 2016) for MMLU and the KILT-Wikipedia (Petroni et al.) for PopQA.
+
+(6)
+
+(7)
+Figure 7: Comparison between single-task (MS- MARCO QA) and multi-task (KILT) trained AAR. TART (Asai et al., 2022) is a multi-task instruction- finetuned retriever that has not been finetuned with LM- preferred signals.
+Fabio Petroni, Aleksandra Piktus, Angela Fan, Patrick Lewis, Majid Yazdani, Nicola De Cao, James Thorne, Yacine Jernite, Vladimir Karpukhin, Jean Maillard, Vassilis Plachouras, Tim Rocktäschel, and Sebastian Riedel. KILT: a benchmark for knowledge intensive In Proceedings of NAACL, pages language tasks. 2523–2544.
+Course number: 57834
+
+Title: Fundamentals of Marching Band
+
+Units: 3.0
+
+Section: A
+
+Days: M
+
+Start: 04:00PM
+
+End: 04:50PM
+
+Room: HOA 224
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gerlach
+
+Fall 2023
+
+Course number: 57847
+
+Title: Electronic and Computer Music
+
+Units: 6.0
+
+Section: A,B
+
+Days: TR
+
+Start: 08:00AM,09:00AM
+
+End: 08:50AM,09:50AM
+
+Room: HOA A10
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Opie
+
+Fall 2023
+
+Course number: 57856
+
+Title: Elementary Guided Teaching
+Spring 2024
+
+Course number: 57300
+
+Title: Advanced Bagpipe and Drum Band
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carlisle
+
+Spring 2024
+
+Course number: 57301
+
+Title: Bagpipe History
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carlisle
+
+Spring 2024
+
+Course number: 57302
+
+Title: Bagpipe Construction
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+Course number: 18785
+
+Title: Data, Inference, and Applied Machine Learning
+
+Units: 12.0
+
+Section: A,R
+
+Days: TR
+
+Start: 08:00AM,02:00PM
+
+End: 09:20AM,03:20PM
+
+Room: CMU REMOTE,HOA 160
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: McSharry
+
+Fall 2023
+
+Course number: 18790
+
+Title: Introduction to Deep Learning and Pattern Recognition for Computer Vision Part I
+
+Units: 6.0
+
+Section: A1
+
+Days: M
+
+Start: 04:00PM
+
+End: 04:50PM
+
+Room: SH 236
+
+Locations: Pittsburgh, Pennsylvania
+The Kiltie Band
+
+The Kiltie Band began in 1908 with a group of just seven students dedicated to supporting Carnegie Tech football, and today's Kiltie Band continues a tradition of excellence originated over a century ago. The Band took the field for its first official performance on November 25th, 1922, on what would have been Andrew Carnegie's 87th birthday.
+The Kiltie Band is a campus organization recognized by Student Senate and administered by the Department of Athletics, Physical Education and Recreation. Membership is open to all members of the campus/community without audition. Participants must do their best to promote the success of the ensemble through attendance, attitude, and dependability.
+The Kiltie Marching Band consists of musicians and colorguard and plays at all Carnegie Mellon home football games. There is a new show every week with music ranging from traditional marches and oldies to current pop tunes and jazz standards.
+
+After football season, the Kiltie Concert Band plays a holiday concert and two spring concerts, including a performance at Carnegie Mellon’s Spring Carnival. Additionally, a part of the band gets together and acts as a pep band for the basketball teams.
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+robotics department ,
+
+founded in 1979
+
+Alumnus Andy Warhol
+
+(CFA1949), pop artist pioneer
+
+and cultural icon
+
+One of only 29 universities
+
+invited to be a member of the
+
+World Economic Forum’s
+
+Global University
+
+Leaders Forum
+
+CMU.EDU
+
+ECONOMIC IMPACT
+
+Attracting major companies  —
+
+including Google, Intel, Uber and GE —
+
+to locate operations and create new
+
+jobs in Pittsburgh
+
+To date, the CMU community has
+
+launched more than 400 startups
+
+and created more than 152 spinoff
+
+companies .
+
+
+Answer: 

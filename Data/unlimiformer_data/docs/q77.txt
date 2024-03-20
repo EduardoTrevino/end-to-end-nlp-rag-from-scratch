@@ -1,0 +1,175 @@
+Question: Was Training Language Models to Follow Instructions with Human Feedback ('InstructGPT') published?
+
+Context: [40] L. Ouyang, J. Wu, X. Jiang, D. Almeida, C. L. Wainwright, P. Mishkin, C. Zhang, S. Agarwal, K. Slama, A. Ray, J. Schulman, J. Hilton, et al., “Training language models to follow instructions with human feedback,” in Int. Conf. Neural Inf. Process. Syst., vol. 35, 2022, pp. 27 730–27 744. [41] A. Madaan, N. Tandon, P. Clark, and Y. Yang, “Memory-assisted prompt editing to improve GPT-3 after deployment,” in Conf. Emp. Meth. Nat. Lang. Proc., 2022, pp. 2833–2861.
+L. Ouyang, J. Wu, X. Jiang, D. Almeida, C. Wainwright, P. Mishkin, C. Zhang, S. Agarwal, K. Slama, A. Ray, et al., “Training language models to follow instructions with human feedback,” Advances in Neural Information Processing Systems, vol. 35, pp. 27 730–27 744, 2022.
+Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., Zhang, C., Agarwal, S., Slama, K., Ray, A., et al. Training language models to follow instructions with human feedback. Advances in Neural Information Processing Systems, 35:27730–27744, 2022.
+
+Radford, A., Kim, J. W., Xu, T., Brockman, G., McLeavey, C., and Sutskever, I. Robust speech
+
+recognition via large-scale weak supervision. arXiv preprint arXiv:2212.04356, 2022.
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rode
+
+Fall 2023
+
+Course number: 88198
+
+Title: Research Training: Social and Decision Sciences
+
+Units: 6,9
+
+Section: C,M,G
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Downs,Chapman,Oppenheimer
+
+Fall 2023
+
+Course number: 88230
+
+Title: Human Intelligence and Human Stupidity
+
+Units: 9.0
+
+Section: A,B
+
+Days: MW
+
+Start: 03:30PM,07:00PM
+
+End: 08:20PM,04:50PM
+
+Room: POS 152,BH A36
+Start:  ,08:00PM,02:00PM
+
+End:  ,10:20PM,03:20PM
+
+Room:  ,CMU REMOTE,POS A35
+
+Locations:  ,Pittsburgh, Pennsylvania,Kigali, Rwanda
+
+Instructors: Oflazer, Mortensen,Mortensen, Oflazer
+
+Fall 2023
+
+Course number: 11624
+
+Title: Human Language for Artificial Intelligence
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Fall 2023
+
+Course number: 11631
+
+Title: Data Science Seminar
+
+Units: 12.0
+
+Section: A,B
+Instructors: Bruder,Thiessen, Ezrina
+
+Fall 2023
+
+Course number: 85213
+
+Title: Human Information Processing and Artificial Intelligence:
+
+Units: 9.0
+
+Section: A,
+
+Days: MWF,
+
+Start:  ,11:00AM
+
+End: 11:50AM,
+
+Room:  ,GHC 4301
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Anderson
+
+Fall 2023
+
+Course number: 85219
+
+Title: Foundations of Brain and Behavior
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: POS 153
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Tarr
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+10-708, Probabilistic Graphical Models
+
+16-720, Computer Vision
+
+17-631 Information Security, Privacy & Policy
+
+17-781, Mobile and IoT Computing Services
+
+4.4.1 Breadth Courses:  Human Language
+
+11-611, Natural Language Processing
+
+11-624, Human Language for Artificial Intelligence
+
+11-711, Advanced NLP
+
+11-722, Grammar Formalisms
+
+11-724, Human Language for Artificial Intelligence
+
+11-727, Computational Semantics for NLP
+
+11-737, Multilingual NLP
+Core Course: - Human Language for Artificial Intelligence (11-411)
+4.4 Approved Qualifying Courses  ...................................................................................................... 14
+
+4.4.1  Breadth Courses:  Human Language  ................................................................................. 15
+
+4.4.2  Breadth Courses:  Language Technology Applications  ............................................... 15
+
+
+Answer: 

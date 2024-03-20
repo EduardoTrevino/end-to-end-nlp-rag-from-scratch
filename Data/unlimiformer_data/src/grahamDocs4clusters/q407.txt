@@ -1,0 +1,217 @@
+Question: What is the publicly available website for WebArena
+
+Context: from perfect performance in these real-life tasks, and that WebArena can be used to measure such progress. Our code, data, environment reproduction resources, and video demonstrations are publicly available at https://webarena.dev/.
+Figure 1: WebArena is a standalone, self-hostable web environment for building autonomous agents. WebArena creates websites from four popular categories with functionality and data mimicking their real-world equivalents. To emulate human problem-solving, WebArena also embeds tools and knowledge resources as independent websites. WebArena introduces a benchmark on interpreting high-level realistic natural language command to concrete web-based interactions. We provide annotated programs designed
+We introduce WebArena, a realistic and reproducible web environment designed to facilitate the development of autonomous agents capable of executing tasks (§2). An overview of WebArena is in Figure 1. Our environment comprises four fully operational, self-hosted web applications, each representing a distinct domain prevalent on the internet: online shopping, discussion forums, collaborative development, and business content management. Furthermore, WebArena incorporates several utility tools,
+Title: Building Better Web Applications
+
+Units: 3.0
+
+Section: A2
+
+Days: MW
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Heimann, Huang
+
+Fall 2023
+
+Course number: 67301
+
+Title: Networks and Telecommunications
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 10:00AM
+
+End: 11:15AM
+
+Room: CMB 3044
+
+Locations: Doha, Qatar
+
+Instructors: Phelps
+
+Fall 2023
+
+Course number: 67309
+
+Title: Special Topics: Information Assurance and Security
+
+Units: 6.0
+Title: Internet Services
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: WEH 4623
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: O'Hallaron
+
+Spring 2024
+
+Course number: 18847
+
+Title: Special Topics in Computer Systems:
+
+Units: 12.0
+
+Section: C,
+
+Days:  ,MW
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,PH 225B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Sriraman
+
+Spring 2024
+
+Course number: 18848
+
+Title: Special Topics in Embedded Systems:
+
+Units: 12.0
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Webler
+
+Spring 2024
+
+Course number: 27227
+
+Title: Phase Relations and Diagrams (Minor Option)
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: HH B103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Webler
+
+Spring 2024
+
+Course number: 27305
+
+Title: Introduction to Materials Characterization
+
+Units: 6.0
+
+Section: A,C,B,Lec
+
+Days: W,T,R,F
+
+Start: 08:00AM
+
+End: 09:50AM
+
+Room: HH B131,DH A303
+You can find our official tartan on various items in the University Store.
+
+Source: "Tartan: Romancing the Plaid," by Jeffrey Banks and Doria De La Chapelle
+Interested in Joining?
+
+Please email the following information to Kiltie Band Director Jeremy Olisar.
+
+Name High School Address at Carnegie Mellon (if known) Home address Cell number Home number Whether you plan on being in the band or colorguard If in the band what instrument(s) you play Whether you need to borrow an instrument or equipment
+
+To see and hear the band in action, visit our YouTube channel
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+life/academic -integrity.html
+
+University Policies Website:  www.cmu.edu/policies/
+
+Office of Graduate and Postdoctoral Affairs :
+
+www.cmu.edu/graduate/policies/index.html
+
+Due to the changing nature of conditions and expectations surrounding public health and safety requirements, please visit www.cmu.edu/c oronavirus
+
+for the most up to date information.
+
+Please see Appendix A for additional information about The Word and other university resources.
+The Graduate Student Assembly website maintains a resource page for spouses, domestic partners and families of graduate students:
+
+https://www.cmu.edu/stugov/gsa/Resources- for-
+
+Graduate -Students/Partner- and-Family -Resources.html , including The Student Parent
+
+Association, new mother rooms, and links to resources around campus and the Pittsburgh
+
+area.
+
+Affiliate ID Cards are available for spouses and domestic partners of graduate students that
+program website .
+
+The University Student guide, The Word, which  details university-wide policies, is also
+
+available online at www.cmu.edu/student-affairs/theword .
+
+Additional resources specific to gr aduate students can be found at
+
+www.cmu.edu/graduate/policies/
+
+8.1 The MSAII Degree
+
+The M.S. in Artificial Intelli gence and Innovation (MSAII) is a professional master's program
+
+offered by the Language Technologies Institute (LTI) in the School of Computer Science at
+
+
+Answer: 

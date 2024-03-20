@@ -1,0 +1,149 @@
+Question: What is the location of the courses that will be taught by Affara in Summer 2024?
+
+Context: Title: Human Health and Disease
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 04:00PM
+
+End: 05:15PM
+
+Room: CMB 3044
+
+Locations: Doha, Qatar
+
+Instructors: Affara
+
+Fall 2023
+
+Course number: 03135
+
+Title: Structure and Function of the Human Body:
+
+Units: 9.0
+
+Section: A,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,02:50PM
+
+Room: HH B131,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: D'Antonio
+
+Fall 2023
+
+Course number: 03140
+
+Title: Ecology and Environmental Science
+
+Units: 9.0
+
+Section: A
+Room: DH A302,GHC 4307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kuang, Wong-Noonan
+
+Spring 2024
+
+Course number: 03230
+
+Title: Intro to Mammalian Physiology
+
+Units: 9.0
+
+Section: W,Lec 2
+
+Days: R,UTR
+
+Start: 08:30AM,02:30PM
+
+End: 09:20AM,03:30PM
+
+Room: CMB 3178
+
+Locations: Doha, Qatar
+
+Instructors: Affara
+
+Spring 2024
+
+Course number: 03231
+
+Title: Honors Biochemistry
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,T
+
+Start: 04:00PM,10:00AM
+
+End: 10:50AM,04:50PM
+
+Room: GHC 4215,DH 1212
+Section: W,B
+
+Days: MWF,UTR
+
+Start: 02:30PM,03:00PM
+
+End: 03:50PM,03:20PM
+
+Room: DH 2315,CMB 3046
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Affara,Linstedt, Rule, Wisniewski
+
+Fall 2023
+
+Course number: 03124
+
+Title: Modern Biology Laboratory
+
+Units: 9.0
+
+Section: A,B,Lec
+
+Days: W
+
+Start: 01:00PM,11:00AM,06:00PM
+
+End: 11:50AM,09:00PM,04:00PM
+
+Room: DH 2303,WEH 5302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Doonan, Laperuta, Wisniewski
+
+Fall 2023
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+Elective course For more information on the MSAII program curriculum and requirements, see the program website. Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+
+
+Answer: 

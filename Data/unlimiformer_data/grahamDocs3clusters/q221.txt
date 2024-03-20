@@ -1,0 +1,150 @@
+Question: How many StuCo or Student Led Courses are going to be held in Spring 2024?
+
+Context: TBD-Q1-2023 Three Bot Dialog Evaluation Cor- pus (TBD-Q1-2023 OR TBD; Quarter 1 of 2023) from Giorgi et al. (2023) consists of dialogues with three chatbots: ChatGPT (Radford et al., 2018), GPT-3 (Brown et al., 2020), and Blender- Bot3 (Shuster et al., 2022). Student participants were told to have a long conversation with the chat- bots on a range of topics of their choosing. All conversations were collected between November 2022 and March 2023. They collected 21 dialogues with an average of
+Sample: The experiment was carried out with 100 students of the course “Introduction to Programming” in professional technical education, INACAP Ñuñoa branch.
+
+Type of test: multiple-choice test of 45 items with four answer
+
+options (only one correct) (Belmar, 2023).
+
+Estimated completion time: 90 min.
+
+Didactics: Ten principles for teaching programming by Brown
+
+and Wilson.
+computer science in the public school system. It also promotes the implementation of computer science in the classroom, for which it develops curricular courses from the ﬁrst year of primary education to the fourth year of secondary education, which are available as a public good for the entire school system, articulating an ecosystem to train and accompany teachers and develop a network of leading schools in the teaching of computer science, which by July 2022 there were more than 80 schools
+Spring 2024
+
+Course number: 98193
+
+Title: Student Taught Courses (StuCo): Intro to Quantum Computing
+
+Units: 3.0
+
+Section: W3
+
+Days: W
+
+Start: 05:00PM
+
+End: 05:50PM
+
+Room: CMB 1032
+
+Locations: Doha, Qatar
+
+Instructors: Seitkaliyev
+
+Spring 2024
+
+Course number: 98195
+
+Title: Student Taught Courses (StuCo): Introduction to Divination
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: WEH 5320
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Qi
+
+Spring 2024
+Instructors: Chen, Tran
+
+Spring 2024
+
+Course number: 98226
+
+Title: Student Taught Courses (StuCo): Movies You Should Have Watched By Now
+
+Units: 3.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: HH B103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shah, Hayes
+
+Spring 2024
+
+Course number: 98230
+
+Title: Student Taught Courses (StuCo): Avatar: The Last Airbender & The Legend of Korra
+
+Units: 3.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 07:50PM
+
+Room: PH A18A
+Title: Student Taught Courses(StuCo): Introduction to Command-line Tools
+
+Units: 3.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 07:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ledon
+
+Spring 2024
+
+Course number: 98179
+
+Title: Student Taught Courses (StuCo): Introduction to Japanese Mahjong
+
+Units: 3.0
+
+Section: A
+
+Days: R
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: SH 236
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Qi, Lin
+
+Spring 2024
+
+Course number: 98184
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Democracy Day; No Classes, except Evening classes after 5 pm will still meet Date -  November 11 ; Event - Homecoming Date -  November 13 ; Event - 17 M-F Spring 2024 Registration Week Date -  November 13 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  November 15 ; Day - Wednesday ; Event - Mini-2 drop deadline; withdrawal grade assigned after this date (2) Date -  November 22 ; Event - 24 W-F Thanksgiving Break; No Classes Date -  November 27 ; Day - Monday ;
+(1) Date -  November 5 ; Day - Tuesday ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet Date -  November 11 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  November 13 ; Day - Wednesday ; Event - Mini-2 drop deadline; withdrawal grade assigned after this date (2) Date -  November 18 ; Event - 22 M-F Spring 2025 Registration Week Date -  November 25 ; Day - Monday ; Event - Mini-2 pass/no pass & withdrawal deadline (3) Date -
+
+
+Answer: 

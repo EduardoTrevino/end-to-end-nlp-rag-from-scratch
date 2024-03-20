@@ -1,0 +1,23 @@
+Question: What was the model used for early buggies in the 1930s?
+
+Context: In the supervised transfer learning setting—when pretraining on MS MARCO was used—the monoT5-220M model was still substantially more accurate than a 7x smaller MiniLM-30M ranker and this gap was not reduced by unsupervised fine-tuning using synthetically generated data.
+
+References
+– Outperforming BM25 with a small ranking model such as MiniLM-30M was possible by using: (a) a better model to generate synthetic training data (BLOOM instead of GPT-3 Curie), (b) consistency checking (Dai et al., 2022) (RQ3), and (c) all-domain pre-training, each of which helped improve outcomes.
+However, when pretraining on MS MARCO was used, the monoT5-220M model was still substantially more accurate than a 7x smaller MiniLM-30M ranker. Moreover, this gap was not reduced by subsequent unsupervised fine-tuning of MiniLM-30M using synthetically generated data. The average gain over BM25 (see Table 1) was 1.46 for monoT5-200M pre-trained on MS MARCO vs. 1.24 for MiniLM-30M pre-trained on MS MARCO and fine-tuned using synthetic training data.
+
+Our code and data are publicly available.3
+1948 – Design Competition (from the 1949 Thistle). Identified buggies: KapSig (3rd from the left, back row); PiKA (4th from the left, back row); Beta Sigma Rho (far left, back row). We also believe that the bottom buggy in the front row (3 wheels, no shell) belongs to Citcom Clan.
+
+1948 – Hill 1 of the Finals (from the 1949 Thistle). KapSig in Lane 1 (left), DTD in Lane 2 (middle), PiKA in Lane 3 (right)
+If you can ID any of the unknown buggies, let us know.
+
+1949 – Design Competition (from the 1966 Buggy Book). Buggies are KapSig (far left), SAE’s design winner (#4, 2nd from the left), Men’s Dorms (#7, 3rd from the left), and DU (#11, far right).
+
+1949 – SAE’s Design-winning buggy getting worked on (from the November 1949 issue of The Record, the SAE National Publication)
+
+1949 – Citcom Clan Buggy (#9) (from the 1950 Thistle).
+SAE’s buggy as a “sleek aluminum auto”, and DTD’s letter to the editor in 1951 complaining that if a team had used a “Buick grill” they would have placed in Design Comp, we’ve determined that Buggy #4 (2nd from the left in the Design Comp photo below) is actually SAE’s design winner. For a better look at the design, check out the 1950 photos, which is a similar style (though with different wheels, a different pushbar, and likely some other changes).] 1949 Photos. Here are photos from 1949.
+
+
+Answer: 

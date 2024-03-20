@@ -1,0 +1,25 @@
+Question: Who was the first director of the Robotics Institute?
+
+Context: This work has been supported by the Carl Zeiss Foundation through the JuBot project and by the Baden-W¨urttemberg Ministry of Science, Research and the Arts (MWK) as part of the state’s “digital@bw” digitization strategy in the context of the Real-World Lab “Robotics AI.”
+process. As the child improves, it will learn to count in its head, no longer requiring any external guidance: counting became internalized, and will be a first step towards other more complex forms of abstract thinking. Vygotsky’s theories influenced multiple works within cognitive science (Clark, 1996; Hutchins, 1996), primatology (Tomasello, 1999) and the developmental robotics branch of AI (Billard & Dautenhahn, 1998; Brooks et al., 2002; Cangelosi et al., 2010; Mirolli & Parisi, 2011).
+Sharma, K., Papavlasopoulou,
+
+S.,
+
+and Giannakos, M.
+
+Souza, I., Andrade, W., and Sampaio, M. (2019). “Analyzing the eﬀect of computational thinking on mathematics through educational robotics,” in 2019 IEEE Frontiers in Education Conference (FIE) (Covington, KY: IEEE), 1–7.
+
+Vallance, M., and Towndrow, P. (2016). Pedagogic transformation, student- J. 11, 218–234.
+
+directed design and computational doi: 10.1080/1554480X.2016.1182437
+
+thinking. Pedagog.
+
+Int.
+Launching a Robotics Institute In 1979, an executive at Pittsburgh’s Westinghouse Electric Corp., Tom Murrin, collaborated with Jordan and Reddy to create the Robotics Institute, with Reddy as its first director. By 1982, the Computer Science Department included more than 30 faculty members and 100 graduate students.
+SCS is officially formed CMU’s Faculty Senate in the fall of 1988 agreed to President Richard Cyert’s plan to elevate the Department of Computer Science to college status. In addition to the Computer Science Department, SCS also incorporated the Robotics Institute, the Center for Machine Translation, and researchers from the Information Technology Center, which had developed Andrew. On Dec. 13, 1988, Cyert (H’89) told faculty and staff that Habermann had been appointed CMU’s first Dean of
+nearly 1,700, including undergraduate, master’s and Ph.D. students, and conducted $124 million in research. Indeed, by itself, the Robotics Institute is the largest university robotics research group in the world, with more than 500 people and more than 100 ongoing research projects. A half-century ago, Perlis, Simon and Newell outlined a vision for computer science. The School of Computer Science at CMU remains committed to continuing and extending their vision in the context of big data and
+
+
+Answer: 

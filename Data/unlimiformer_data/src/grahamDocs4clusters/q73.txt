@@ -1,0 +1,171 @@
+Question: Who is the first paper on the KALE paper by Jamie Callan's group?
+
+Context: Paper title: 'KALE: Using a K-Sparse Projector for Lexical Expansion' Published year: 2023 Publication venue or conference: International Conference on the Theory of Information Retrieval Authors: Bruno Martins, Jamie Callan, Luís Borges Summary: KALE is a new lightweight method that uses a small model with a k-sparse projector to convert dense representations into a sparse set of entries from a latent vocabulary, which can replace the original lexical vocabulary with gains in accuracy and
+Paper title: 'Multi-Objective Improvement of Android Applications' Published year: 2023 Publication venue or conference: arXiv.org Authors: J. Petke, Jamie Callan Summary: This work proposes a practical approach and the first open-source tool, GIDroid, for multi-objective automated improvement of Android apps, and uses Genetic improvement, a search-based technique that navigates the space of software variants to find improved software.
+Luyu Gao and Jamie Callan. 2022. Unsupervised cor- pus aware language model pre-training for dense pas- sage retrieval. In Proceedings of the 60th Annual Meeting of the Association for Computational Lin- guistics (Volume 1: Long Papers), pages 2843–2853, Dublin, Ireland. Association for Computational Lin- guistics.
+
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. 2015. Deep residual learning for image recogni- tion.
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section:  ,A2
+
+Days: TBA,M
+
+Start: ,01:00PM
+
+End: ,01:50PM
+
+Room: PH 125C,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pinnow, Hovis,
+
+Fall 2023
+
+Course number: 38101
+
+Title: EUREKA! : Discovery and Its Impact
+
+Units: 6.0
+
+Section: A,M,E,K,W,B,F,G,C,D,Lec,N,J,H,L
+
+Days: M,R,W,T,MW
+Instructors: Yang,Eskenazi,Mortensen,Waibel,Ganapathiraju,Brown,Cassell,Koedinger,Sycara,Frederking,Metze,Rosenfeld,Instructor TBA,Mitamura,Mostow,Levin,Cohen,Fahlman,Singh,Hauptmann,Callan,Smith,TBA,Xing,Mitchell,Nyberg,Langmead,Schultz,Bar-Joseph,Rose,Lavie,Rudnicky,Carley
+
+Spring 2024
+
+Course number: 11930
+
+Title: Dissertation Research
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Spring 2024
+
+Course number: 11935
+Section: E,I,AC,FF,AD,AE,F,HH,D,U,PP,GG,BB,P,C,J,AB,A,S,K,Y,W,B,AG,T,H,L,JJ,AQ,M,AA,N,O,Q,R,X,Z,G,QQ,AF,V
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Yang,Eskenazi,Waibel,Ganapathiraju,Brown,Cassell,Koedinger,Sycara,Morency,Frederking,Metze,Rosenfeld,Instructor TBA,Mitamura,Mostow,Hovy,Levin,Cohen,Fahlman,Singh,Hauptmann,Fink,Callan,Xing,Mitchell,Nyberg,Neubig,Young,Langmead,Bar-Joseph,Rose,Rudnicky,Ramakrishnan,Just,Tomasic
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+front hills, causing more congestion for spectators on those hills. A police tow truck was present, but it was not permitted to clear the street. Up the front hills, DTD was in the lead, followed by PiKA and KapSig. DTD went into the freerolls first, but the drama was behind them. As PiKA entered the freeroll, PiKA’s buggy crowded KapSig’s buggy and forced KapSig wide, causing KapSig to swerve and hit at least 1 spectator (the Tartan says that KapSig “got out pencil and paper to try to figure
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Language Technologies Institute - Faculty Name: Jamie Callan Email: callan@cs.cmu.edu Office: 5419 Gates & Hillman Centers Research Areas: Information Retrieval, Text Mining and Analytics Phone: 412-268-4525
+
+Language Technologies Institute - Faculty Name: Justine Cassell Email: jcassell@andrew.cmu.edu Office: 5107 Gates & Hillman Centers Phone: 412-204-6268
+
+Language Technologies Institute
+
+Faculty
+
+Name: Mona Diab
+
+Email: mdiab@andrew.cmu.edu
+
+Phone: 412
+
+268
+
+3669
+
+
+Answer: 

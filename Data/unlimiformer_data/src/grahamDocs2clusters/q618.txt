@@ -1,0 +1,41 @@
+Question: What year was Fully Unsupervised Topic Clustering of Unlabelled Spoken Audio Using Self-Supervised Representation Learning and Topic Model published?
+
+Context: [4] S. Chen, C. Wang, Z. Chen, Y. Wu, S. Liu, Z. Chen, J. Li, N. Kanda, T. Yoshioka, X. Xiao et al., “Wavlm: Large-scale self- supervised pre-training for full stack speech processing,” IEEE J. Sel. Topics Signal Process., vol. 16, no. 6, pp. 1505–1518, 2022.
+
+[5] A. Baevski, W.-N. Hsu, A. Conneau, and M. Auli, “Unsupervised
+
+speech recognition,” in Proc. NeurIPS, 2021.
+[7] X. Chang et al., “An exploration of self-supervised pretrained representations for end-to-end speech recognition,” in Proc. ASRU, 2021, pp. 228–235.
+
+[8] A. Mohamed et al., “Self-supervised speech representation learning: A review,” IEEE Journal of Selected Topics in Signal Processing, vol. 16, no. 6, pp. 1179–1210, 2022.
+
+[9]
+
+S. Schneider et al., “wav2vec: Unsupervised Pre-Training for Speech Recognition,” in Proc. Interspeech, 2019, pp. 3465– 3469.
+[21] E. Fonseca, D. Ortego, K. McGuinness, N. E. O’Connor, and X. Serra. Unsupervised contrastive learning of sound event representations. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. doi: 10.1109/ICASSP39728.2021. 9415009.
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+Year 1 Fall:
+
+Grammars and Lexicons
+
+Algorithms for NLP
+
+Directed Study
+
+Year 1 Spring: - Search Engines or Machine Learning for Text Mining - Machine Translation - Self-Paced Lab - Directed Study
+
+Year 1 Summer:
+
+Required Research
+
+Year 2 Fall: - Software Engineering for LT (I) - Speech Understanding - Self-Paced Lab - Directed Study
+
+Year 2 Spring: - Software Engineering for LT (II) - Directed Study - Elective
+
+Year 2 Summer:
+
+Required Research
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+
+
+Answer: 

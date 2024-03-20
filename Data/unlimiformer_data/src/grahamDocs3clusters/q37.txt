@@ -1,0 +1,158 @@
+Question: In fall 2023, Who is the instructor for course 05315?
+
+Context: Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong. 2023a. Compositional ex- emplars for in-context learning. arXiv preprint arXiv:2302.05698.
+
+Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. 2023b. In-context instruction learning. arXiv preprint arXiv:2302.14691.
+
+Yiming Zhang, Shi Feng, and Chenhao Tan. 2022a. Active example selection for in-context learning. CoRR, abs/2211.04486.
+Xinyun Chen, Maxwell Lin, Nathanael Schärli, and Denny Zhou. 2023. Teaching large lan- arXiv preprint guage models to self-debug. arXiv:2304.05128.
+Portnoﬀ (2018) says that the 10 years he has been a teacher in an introductory computer programming course, he has used
+
+Frontiers in Computer Science
+
+05
+
+10.3389/fcomp.2023.1085507
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Levin-Decanini, Ion,Ion, Levin-Decanini
+
+Fall 2023
+
+Course number: 05631
+
+Title: Software Structures for User Interfaces
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 4SC 104
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hudson
+
+Fall 2023
+
+Course number: 05652
+
+Title: Service Design
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:50AM
+
+Room: 3SC 172
+
+Locations: Pittsburgh, Pennsylvania
+End: 03:20PM
+
+Room: 3SC 172
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kaufman
+
+Fall 2023
+
+Course number: 05317
+
+Title: Design of Artificial Intelligence Products
+
+Units: 12.0
+
+Section: A,B
+
+Days: MW,TR
+
+Start: 11:00AM,03:30PM
+
+End: 12:20PM,04:50PM
+
+Room: 4SC 104
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martelaro, Saffer,Zimmerman, Musuraca
+
+Fall 2023
+
+Course number: 05318
+
+Title: Human AI Interaction
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+Instructors: Martelaro, Saffer,Zimmerman, Musuraca
+
+Fall 2023
+
+Course number: 05618
+
+Title: Human AI Interaction
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: SH 234
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhu
+
+Fall 2023
+
+Course number: 05630
+
+Title: Programming Usable Interfaces:
+
+Units: 15.0
+
+Section: A,E,B,C,D,Lec,
+
+Days: M, ,W,MW
+
+Start: 08:00AM, ,09:30AM
+
+End: 10:50AM,09:20AM,
+
+Room: WEH 5310,TEP 1403,PH 226B,WEH 6403, ,PH 125B
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+21The instructor must record the permanent course grade by the last day of the examination period of the following semester, or the Registrar will automatically assign the default grade.
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+
+
+Answer: 

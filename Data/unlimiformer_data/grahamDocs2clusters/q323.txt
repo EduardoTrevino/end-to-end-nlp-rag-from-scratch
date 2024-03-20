@@ -1,0 +1,107 @@
+Question: What time in the day does SafeWalk end?
+
+Context: Title: Special Topics: Provably Safe Robotics
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liu
+
+Spring 2024
+
+Course number: 16886
+
+Title: Special Topics: Models & Algorithms for Interactive Robotics
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: GHC 4101
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bajcsy
+
+Spring 2024
+
+Course number: 16891
+If-needed rules are not checked until a value is explicitly requested, so adding knowledge “10:30 AM is the start time of meeting 27” and “11:30 AM is the end time of meeting 27” should not activate any triggers. The absence of any inherited triggers on {start time} and {end time} ensures this behavior. Once the value for the slot ﬁller {the duration of meeting 27} is requested, an upscan is performed on role node {duration}, which ﬁnds trigger (R C). This trigger is activated by substituting
+Title: Numerical Methods
+
+Units: 12.0
+
+Section: A,Lec 2,B,Lec 1
+
+Days: MWF,R
+
+Start: 12:30PM,09:30AM,12:00PM,10:00AM
+
+End: 10:50AM,12:50PM,01:50PM
+
+Room: BH 140A,GHC 4301,WEH 7218
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dulin,Walkington
+
+Fall 2023
+
+Course number: 21370
+
+Title: Discrete Time Finance
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 03:00PM
+
+End: 03:50PM
+
+Room: DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Handron
+
+Fall 2023
+
+Course number: 21371
+SafeWalk provides another option to campus community members walking across and around campus during late-night hours. SafeWalk is a student volunteer organization that provides campus escorts for all members of the Carnegie Mellon community. SafeWalk operates nightly during the regular academic year (except certain holidays and break periods) from 10pm until 2am. Students, faculty and staff may request an escort by calling 412-268-SAFE (8-7233 from a campus phone), by approaching an escort
+SafeWalk provides another option to campus community members walking across and around
+
+campus during late-night hours. SafeWalk is a st udent volunteer organiza tion that provides
+
+campus escorts for all members of the Carnegie  Mellon community. SafeWalk operates nightly
+
+during the regular academic year (except certain holidays and break periods) from 10pm until
+
+2am. Students, faculty, and staff may request an escort by calling 412-268-SAFE (8-7233 from a
+SafeWalk provides another option to campus community members walking across and around campus during late -night hours. SafeWalk is a student volunteer organization that provides
+
+campus escorts for all members of the Carnegie Mellon community. SafeWalk operates nightly MLT Graduate Student Handbook  Page 35
+
+during the regular academic year (except certain holidays and break periods) from 10pm until
+
+
+Answer: 

@@ -1,0 +1,21 @@
+Question: Which two faculty are co-teaching the neural code generation course?
+
+Context: Junxian He, Jiatao Gu, Jiajun Shen, and Marc’Aurelio Ranzato. 2020. Revisiting self-training for neural sequence generation. In International Conference on Learning Representations.
+
+Geoffrey Hinton, Oriol Vinyals, Jeff Dean, et al. 2015. Distilling the knowledge in a neural network. arXiv preprint arXiv:1503.02531, 2(7).
+
+Neil Houlsby, Ferenc Huszár, Zoubin Ghahramani, and Máté Lengyel. 2011. Bayesian active learning for classification and preference learning. arXiv preprint arXiv:1112.5745.
+Hiroaki Hayashi, Yusuke Oda, Alexandra Birch, Ioannis Konstas, Andrew Finch, Minh-Thang Luong, Graham Neubig, and Katsuhito Sudoh. Findings of the third workshop on neural generation and translation. In Proceedings of the 3rd Workshop on Neural Generation and Translation, pp. 1–14, Hong Kong, November 2019. Association for Computational Linguistics. doi: 10.18653/v1/ D19-5601. URL https://aclanthology.org/D19-5601.
+
+10
+Alexandra Birch, Andrew Finch, Minh-Thang Luong, Graham Neubig, and Yusuke Oda. Findings of the second workshop on neural machine translation and generation. In Proceedings of the 2nd Workshop on Neural Machine Translation and Generation, pp. 1–10, Melbourne, Australia, July 2018. Association for Computational Linguistics. doi: 10.18653/v1/W18-2701. URL https://aclanthology.org/W18-2701.
+Language Technologies Institute - Faculty Name: Alexander Waibel Email: waibel@cs.cmu.edu Office: 205 407 South Craig Street Research Areas: Spoken Language Translation, Machine Translation, Speech Processing, Neural Networks, Machine Learning, Multimodal Interaction, Dialog Processing Phone: 412-268-7676
+Language Technologies Institute - Faculty Name: Daniel Fried Email: dfried@andrew.cmu.edu Research Areas: Natural Language Processing: Language and Code, Conversational AI, Intelligent Agents, and Dialogue, Discourse and Pragmatics, Multimodal AI
+
+Language Technologies Institute - Faculty Name: Anatole Gershman Email: anatole.gershman@cs.cmu.edu Office: 6415 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering Phone: 412-268-8259
+Language Technologies Institute - Faculty Name: Daphne Ippolito Email: daphnei@cmu.edu Research Areas: Natural Language Generation, Privacy and Security, Language Technology Application Areas/Issues, Creativity Phone: 412-268-7250
+
+Language Technologies Institute - Faculty Name: Lori Levin Email: lsl@cs.cmu.edu Office: 5717 Gates & Hillman Centers Research Areas: Machine Translation, Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources Phone: 412-268-6193
+
+
+Answer: 

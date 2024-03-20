@@ -1,0 +1,162 @@
+Question: What are some diffusion models mentioned in the document, "Extracting Training Data from Diffusion Models"?
+
+Context: Paper title: 'Extracting Training Data from Diffusion Models' Published year: 2023 Publication venue or conference: USENIX Security Symposium Authors: Daphne Ippolito, Florian Tramèr, B. Balle, Milad Nasr, Matthew Jagielski, Eric Wallace, Nicholas Carlini, Vikash Sehwag, Jamie Hayes Summary: The results show that diffusion models are much less private than prior generative models such as GANs, and that mitigating these vulnerabilities may require new advances in privacy-preserving training.
+Nicholas, Jamie, Vikash, and Eric each indepen- dently proposed the problem statement of extracting training data from diffusion models.
+
+Nicholas, Eric, and Florian performed preliminary experiments to identify cases of data extraction in diffusion models.
+
+Milad performed most of the experiments on Stable Diffusion and Imagen, and Nicholas counted dupli- cates in the LAION training dataset; each wrote the corresponding sections of the paper.
+Figure 8: Selected training examples that we extract from a diffusion model trained on CIFAR-10 by sampling from the model 1 million times. Top row: generated output from a diffusion model. Bottom row: nearest ((cid:96)2) example from the training dataset. Figure 17 in the Appendix contains all 1,280 unique extracted images.
+
+5.2 Membership Inference Attacks
+Instructors: Islam, Houser,Pistorius, Houser,O'Connor, Houser,Barati Farimani, Houser,Houser, Rohrer,Dickey, Houser,Towe,Houser, Skowronski,Kurchin, Houser,Bockstaller, Houser,Houser, Porter,Houser, Degraef,Rollett, Houser,Marom, Houser,Krause, Houser,Houser,Houser, Bettinger,Houser, Whitacre,Cohen-Karni, Houser,Houser, Taheri-Mousavi,Houser, Feinberg,Houser, Salvador,Webler, Houser
+
+Fall 2023
+
+Course number: 27766
+
+Title: Defects and Diffusion in Materials
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+Fall 2023
+
+Course number: 06663
+
+Title: Analysis and Modeling of Transport Phenomena
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: PH A18C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Panagakos
+
+Fall 2023
+
+Course number: 06700
+
+Title: M.S. Research
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Robinson
+
+Fall 2023
+
+Course number: 06702
+
+Title: Advanced Reaction Kinetics
+
+Units: 12.0
+
+Section: A
+Title: Gaining Insights through Statistical Modeling and Machine Learning
+
+Units: 6.0
+
+Section: A4
+
+Days: W
+
+Start: 06:00PM
+
+End: 07:30PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Freeman
+
+Spring 2024
+
+Course number: 36660
+
+Title: Special Topics: Sports Analytics:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: SH 105,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Yurko
+
+Spring 2024
+
+Course number: 36662
+in all-things information - including locatin g and obtaining specific resources, providing
+
+specialized research support, advanced training in  the use and management of data. Sign up for
+
+workshops and hands-on topic-spe cific sessions such as data visualization with Tableau,
+
+cleaning data with OpenRefine, and getting st arted with Zotero. Weekly drop-in hours for
+
+Digital Humanities and for Rese arch Data Research Managem ent are scheduled during the
+Analytics. Students electing to complete the Analytics concentration will also learn to:
+
+Design, implement and evaluate a software system and machine
+
+learning model on real world datasets at real world scale.
+
+Analyze and document data science requirements in different application domains and survey as well as critique state of the art solutions for those requirements.
+
+Systems. Students electing to complete the Systems concentration will also learn to:
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+
+
+Answer: 

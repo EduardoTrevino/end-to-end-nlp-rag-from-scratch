@@ -1,0 +1,57 @@
+Question: Who taught the first freshman-level computer programming course at CMU?
+
+Context: Frontiers in Computer Science
+
+TYPE Original Research PUBLISHED 22 May 2023 DOI 10.3389/fcomp.2023.1085507
+
+Teaching computer programming: impact of Brown and Wilson’s didactical principles
+
+Hector Belmar1,2*
+
+1School of Computer Engineering, Ñuñoa Campus, INACAP (National Professional Training Institute), Santiago, Chile, 2UMCE (Metropolitan University of Education Sciences), Santiago, Chile
+Title: Parallel Computer Architecture and Programming
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: CUC MCCNMY
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Railing, Mowry
+
+Spring 2024
+
+Course number: 15619
+
+Title: Cloud Computing
+
+Units: 15.0
+
+Section: A,C,E,B
+
+Days: R,T,F
+
+Start: 08:00AM,04:00PM,05:00PM
+
+End: 08:50AM,04:50PM,06:20PM
+
+Room: CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Sakr, Goldstein,Sakr
+CITATION Belmar H (2023) Teaching computer programming: impact of Brown and Wilson’s didactical principles. Front. Comput. Sci. 5:1085507. doi: 10.3389/fcomp.2023.1085507
+the phenomena arising from them.” In 1958, Perlis began teaching the first freshman-level computer programming course in the United States at Carnegie Tech.
+First freshman-level computer science course In 1956 and 1957, Simon, Allen Newell (IA’57) and Cliff Shaw of RAND designed the Logic Theorist, a computer program that could develop proofs for theorems in much the same way a human would work. They also developed linked-list data structures, the foundation of computer programming. Perlis, Simon and Newell are credited with defining the term “computer science” as “the theory and design of computers,” as well as (in Newell’s words) “the study of
+12. Java, 1991 As a CMU grad student, James Gosling (CS’83) worked on the Andrew project, which stressed interoperability between computers, whether they were Macs, IBMs or Unix machines. Those lessons served Gosling well when he developed Java, the first programming language able to run on almost any platform.
+
+
+Answer: 

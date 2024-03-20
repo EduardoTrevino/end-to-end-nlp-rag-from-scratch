@@ -1,0 +1,191 @@
+Question: What number do all of the LTI classes start with?
+
+Context: Title: LTI Practicum
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hovis, Pinnow
+
+Spring 2024
+
+Course number: 38110
+
+Title: ENGAGE in Service
+
+Units: 1.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Title: LTI Minor Project - Advanced
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11601
+
+Title: Coding & Algorithms Bootcamp:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: DH 2315,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11611
+
+Title: Natural Language Processing:
+
+Units: 12.0
+
+Section: A,R, ,B
+
+Days:  ,TR
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+by actual classroom courses, not credit given for research or independent study.
+
+An “LTI course ” is any 12 -unit course with a number of 11 -XXX; a  6-unit course with 11 -XXX
+
+counts as one- half of an LTI course. Unless otherwise specified, "course" means an actual
+
+classroom course, not  credit given for research or independent study. Note that the LTI  allow s
+
+any one MLD (10 -XXX) graduate course to count as an "LTI course".
+MLT Graduate Student Handbook  Page 17
+
+4.4 Definitions of LTI Terminology
+
+We define here some of the terms as used in this handbook:
+
+An “LTI course” is any 12 -unit course with a number of 11 -XXX; a 6 -unit course with an
+
+11-XXX counts as 1/2 of an LTI course. Unless otherwise specified, "course" means an
+
+actual classroom course, not  credit given for research or independent study. Note that
+
+we will allow any one MLD (10 -xxx) graduate- level course to count as an “LTI course.”
+degree, the student must pass 96  or more course units of graduate courses, and meet the following
+
+criteria:
+
+At least 72 units of “LTI” courses and 24  units of “SCS” courses,
+
+At least one class in each “LTI Focus Area”, and
+
+At least two labs, in two different research areas .
+
+For definitions of quoted terms, see the section on “Definitions of LTI Terminology”.
+
+Unless approved by the Program Director in advance, the course requirements must be satisfied
+
+
+Answer: 

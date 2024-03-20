@@ -1,0 +1,119 @@
+Question: In spring 2024, What is the deadline for withdrawing from a semester course with a withdrawal grade assigned?
+
+Context: Spring 2024
+
+Course number: 76101
+
+Title: Interpretation and Argument
+
+Units: 9.0
+
+Section: E,I,AC,LL,FF,AD,F,HH,CC,D,WW,GG,BB,II,C,EE,DD,J,AB,A,K,W,B,KK,JJ,YY,M,O,X,Z,MM,N,XX
+
+Days: MWF,UTR,TR
+
+Start: 08:45AM,08:00AM,04:00PM,09:30AM,03:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM,03:30PM,12:30PM
+
+End: 12:50PM,01:50PM,09:50AM,03:20PM,03:50PM,09:35AM,02:50PM,04:50PM,12:20PM,11:50AM,10:50AM,09:20AM,08:50AM
+Spring 2024
+
+Course number: 98193
+
+Title: Student Taught Courses (StuCo): Intro to Quantum Computing
+
+Units: 3.0
+
+Section: W3
+
+Days: W
+
+Start: 05:00PM
+
+End: 05:50PM
+
+Room: CMB 1032
+
+Locations: Doha, Qatar
+
+Instructors: Seitkaliyev
+
+Spring 2024
+
+Course number: 98195
+
+Title: Student Taught Courses (StuCo): Introduction to Divination
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: WEH 5320
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Qi
+
+Spring 2024
+Instructors: Bjorndahl
+
+Spring 2024
+
+Course number: 80897
+
+Title: Teaching Assistant / Grader in Philosophy
+
+Units: 1.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bjorndahl
+
+Spring 2024
+
+Course number: 80898
+
+Title: Semester Support In Philosophy
+
+Units: 1.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bjorndahl
+
+Spring 2024
+
+Course number: 80900
+
+Title: Graduate Internship
+(1) Date -  November 5 ; Day - Tuesday ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet Date -  November 11 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  November 13 ; Day - Wednesday ; Event - Mini-2 drop deadline; withdrawal grade assigned after this date (2) Date -  November 18 ; Event - 22 M-F Spring 2025 Registration Week Date -  November 25 ; Day - Monday ; Event - Mini-2 pass/no pass & withdrawal deadline (3) Date -
+add, audit & tuition adjustment drop deadline (1) Date -  April 1 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  April 3 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week Date -  April 15 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -  April 15 ; Day -
+Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1) Date -  March 31 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline Date -  April 2 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 3 ; Event - 5 Th-Sa Spring Carnival; No Classes Date -  April 7 ; Event - 11 M-F Fall 2025 Registration Week Date -  April 14 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -
+
+
+Answer: 

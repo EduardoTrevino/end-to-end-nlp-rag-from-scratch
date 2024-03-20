@@ -1,0 +1,176 @@
+Question: What is the name of the proposed recommendation model in the paper "Text Matching Improves Sequential Recommendation by Reducing Popularity Biases"?
+
+Context: In this paper, we propose Text mAtching based SequenTial rEcommendation (TASTE), which represents items and users with texts, establishes relevance between them by matching their text representations and alleviates the popularity bias of previous item id based recommendation models. TASTE verbalizes users and items by designing some prompts [39] and filling up the templates with item ids and item attributes. The item information provides text- matching clues to model the dependency and
+Paper title: 'Text Matching Improves Sequential Recommendation by Reducing Popularity Biases' Published year: 2023 Publication venue or conference: International Conference on Information and Knowledge Management Authors: Zhenghao Liu, Ge Yu, Senkun Mei, Chenyan Xiong, Zhiyuan Liu, Shi Yu, Yu Gu, Xiaohua Li Summary: None
+Text Matching Improves Sequential Recommendation by Reducing Popularity Biases
+
+CIKM ’23, October 21–25, 2023, Birmingham, United Kingdom
+
+Table 2: Overall Performance. We keep the same experimental settings and report the scores of baselines from previous work [58]. Underlined scores are the highest results of baselines. †, §, ‡ indicate statistically significant improvements over DIF-SR†, T5-DPR§ and T5-ID‡, respectively. We also show relative improvements over DIF-SR.
+
+Dataset
+
+Beauty
+Instructors: Laird
+
+Fall 2023
+
+Course number: 06326
+
+Title: Optimization Modeling and Algorithms
+
+Units: 6.0
+
+Section: A2
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: GHC 4215
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gounaris
+
+Fall 2023
+
+Course number: 06400
+
+Title: Senior Research Project
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Robinson
+
+Fall 2023
+
+Course number: 06421
+
+Title: Chemical Process Systems Design
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Singh
+
+Spring 2024
+
+Course number: 47954
+
+Title: Human and Algorithmic Bias
+
+Units: 6.0
+
+Section: A4
+
+Days: T
+
+Start: 12:00PM
+
+End: 02:50PM
+
+Room: TEP 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Huang
+
+Spring 2024
+
+Course number: 47990
+
+Title: Sem. in Strategic Mgmt:Core Strategy Research/Implications for Teaching Strategy
+
+Units: 6.0
+
+Section: A3
+
+Days: R
+
+Start: 12:25PM
+
+End: 04:15PM
+
+Room: TEP 5222
+Course number: 85375
+
+Title: Crosscultural Psychology:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: BH 336B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: MacWhinney
+
+Fall 2023
+
+Course number: 85377
+
+Title: Attitudes and Persuasion
+
+Units: 9.0
+
+Section: W
+
+Days: MW
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 1031
+
+Locations: Doha, Qatar
+
+Instructors: Belanger
+
+Fall 2023
+
+Course number: 85402
+
+Title: Multilevel Modeling
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+Language Technologies Institute - Faculty Name: Fernando Diaz Email: diazf@cmu.edu Research Areas: Information Retrieval: Recommender Systems, Retrieval and Ranking Models, Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation Phone: 412-268-4229
+Clients meet with a c onsultant to improve the logic, clarity, and flow of writing or
+
+presentation and receive expert feedback that will strengthen a project. When making an appointment, clients upload a draft, instructor prompts, and rubrics so the consultants can use specific  criteria to give relevant feedback. See the
+
+appointment types offered here:
+
+https://www.cmu.edu/student-
+
+success/programs/communication -support/make- an-appointment.html
+A “school of computer science” is proposed Feeling that CSD’s needs were inadequately represented in MCS, CSD head A. Nico Habermann and then-CMU provost Angel Jordan in 1986 wrote a white paper proposing the creation of “a School of Computer Science.” Responding to concerns from the faculty that the change might be taking place too quickly, the university first established a free-floating Department of Computer Science. The experiment, which lasted two years, was an unqualified success.
+
+
+Answer: 

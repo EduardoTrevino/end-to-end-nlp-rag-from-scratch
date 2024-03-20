@@ -1,0 +1,191 @@
+Question: Was Monica Harrison ever a member of the Carnegie Mellon Hall of Fame Selection Committee?
+
+Context: We thank the anonymous reviewers for their help- ful feedback. We express sincere gratitude to the members of the ArticuLabo at Inria Paris for their invaluable assistance in the successful completion of this research, and to the members of the Artic- uLab at Carnegie Mellon University in Pittsburgh for answering our questions about their prior work. This study received support from the French gov- ernment, administered by the Agence Nationale de la Recherche, as part of the "Investissements
+We thank the anonymous reviewers for their help- ful feedback. We express sincere gratitude to the members of the ArticuLab at Inria Paris for their invaluable assistance in the successful completion of this research, and to the members of the Articu- Lab at Carnegie Mellon Pittsburgh for answering our questions about their prior work. This study re- ceived support from the French government, admin- istered by the Agence Nationale de la Recherche, as part of the "Investissements d’avenir"
+3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Little, Gauntner,Harrison,Goldcamp
+
+Fall 2023
+
+Course number: 69110
+
+Title: Personal Fitness
+
+Units: 3.0
+
+Section: B1,A1,B2,A2
+
+Days: MWF
+
+Start: 10:00AM,09:00AM
+
+End: 10:50AM,09:50AM
+
+Room: CUC FITNES
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stragar,Stragar, Gauntner
+
+Fall 2023
+
+Course number: 69129
+
+Title: Rape Agression Defense Systems (RAD):
+
+Units: 3.0
+
+Section:  ,A1,A2
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Course number: 60499
+
+Title: Studio Independent Study
+
+Units: 5-10
+
+Section: A,M,E,I,K,B,F,G,C,D,N,J,H,L
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hansen, Merrell, Henderson,Johnson,Pedercini,Levin,Barrois,Instructor TBA,DeYoung,Washko,Merrell
+
+Spring 2024
+
+Course number: 60590
+
+Title: Internship
+
+Units: 1-9
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cato
+
+Spring 2024
+
+Course number: 60703
+Inductees will be selected by a committee comprised of Carnegie Mellon University staff, faculty, a board of trustee member, coaches and a student representative. The Athletics Hall of Fame will endeavor to induct not less than 15 individuals for induction in its first year and not less than 6 in any year thereafter, subject to the discretion of the Nominating Committee. The below will set forth the criteria for selection to the Athletics Hall of Fame.
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+awarded to Mao Yisheng, a student from China. It laid the groundwork for a research institution, recruiting leading scientists, offering sponsored fellowships with government and industry leaders and pioneering nontraditional interdisciplinary research, which brought together physicists, chemists and metallurgists, for example. Interdisciplinary research would become the hallmark of Carnegie Mellon research. It initiated the 'Carnegie Plan' in 1938, a new curriculum that required science and
+the University Policies website . It is the responsibility of each member of the Carnegie Mellon
+
+community to be familiar with university policies and guidelines.
+
+1.4 MIIS Contact Information
+
+The people responsible for administering the MIIS degree are:
+
+Brianna Eriksen     Teruko Mitamura
+
+Academic Program Manager    Program Director, MIIS
+
+GHC 6415      Professor, LTI
+
+412-268-4277     GHC 6711
+
+bfreema2@andrew.cmu.edu     412-268-6596
+
+teruko@andrew.cmu.edu
+As members of the Carnegie Mellon community, individuals are expected to uphold the standards of the community in addition to holding others accountable for said standards. It is rare that the life of a student in an academic community can be so private that it will not affect the community as a whole or that the above standards do not apply.
+
+
+Answer: 

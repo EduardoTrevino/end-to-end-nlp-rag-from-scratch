@@ -1,0 +1,120 @@
+Question: Which LTI faculty members are authors on the WebArena paper?
+
+Context: Paper title: 'WebArena: A Realistic Web Environment for Building Autonomous Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: Robert Lo, Frank F. Xu, Shuyan Zhou, Xuhui Zhou, Hao Zhu, Uri Alon, Daniel Fried, Abishek Sridhar, Graham Neubig, Yonatan Bisk, Xianyi Cheng Summary: This paper builds an environment for language-guided agents that is highly realistic and reproducible, and creates an environment with fully functional websites from four common domains:
+13. Lily Todorinova and Zara T. Wilkinson, “Incentivizing faculty for open educational resources (OER) adoption and open textbook authoring,” Journal of Academic Librarianship 46, no. 6 (2020): 1–10, DOI: https://doi.org/10.1016/j.acalib.2020.102220 (accessed 12 July 2023).
+
+13
+
+14. Todorinova and Wilkinson, “Incentivizing faculty,” 9.
+Alex D Wade. 2022. The semantic scholar academic graph (s2ag). Companion Proceedings of the Web Conference 2022.
+
+Samuel Way, Daniel Larremore, and Aaron Clauset. 2016. Gender, productivity, and prestige in computer science faculty hiring networks.
+
+Robert S Weiss. 1995. Learning from strangers: The art and method of qualitative interview studies. Simon and Schuster.
+
+A Details of Qualitative Methodologies
+
+A.1 Participant demographics
+Instructors: Islam, Houser,Pistorius, Houser,O'Connor, Houser,Barati Farimani, Houser,Houser, Rohrer,Dickey, Houser,Towe,Houser, Skowronski,Kurchin, Houser,Bockstaller, Houser,Houser, Porter,Houser, Degraef,Rollett, Houser,Marom, Houser,Krause, Houser,Houser,Houser, Bettinger,Houser, Whitacre,Cohen-Karni, Houser,Houser, Taheri-Mousavi,Houser, Feinberg,Houser, Salvador,Webler, Houser
+
+Fall 2023
+
+Course number: 27766
+
+Title: Defects and Diffusion in Materials
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+Instructors: Islam, Houser,Houser, Cohen-Karni,Skowronski, Houser,O'Connor, Houser,Houser, Marom,Pistorius,Dickey,Rohrer,Barati Farimani, Houser,Mchenry,Towe,Houser, Rollett,Degraef,Houser, Webler,Bockstaller, Houser,Houser, Porter,Houser,Kurchin,Houser, Holm,Feinberg,Houser, Sokalski,Bettinger, Houser,Salvador,Whitacre, Houser
+
+Spring 2024
+
+Course number: 27761
+
+Title: Kinetics of Metallurgical Reactions and Processes
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+Room: BH A51, ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11490
+
+Title: LTI Minor Project - Seniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11492
+
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+At least two CMU faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the chair of graduate programs (the form for this is available on the LTI website). This feedback will help the student refine speaking skills with respect to talk structure, content, and delivery.
+
+4.1.3 Withdrawal of a Degree
+potential advisors determine how many new students they can take and  indicate their
+
+preferences. Finally, the entire LTI faculty meets as a " Matching  Committee" to determine the best
+
+set of matches.
+
+Until a student finds a specific advisor, the Progr am Director  of the LTI graduate programs serves
+
+as the advisor.
+
+How to change advisors:  The initial advisor selection should be made carefully. However, it is
+
+
+Answer: 

@@ -1,0 +1,57 @@
+Question: Where is Teruko Mitamura's Hierarchical Event Grounding published at?
+
+Context: 3 2 0 2
+
+b e F 8
+
+] L C . s c [
+
+1 v 7 9 1 4 0 . 2 0 3 2 : v i X r a
+
+Hierarchical Event Grounding
+
+Jiefu Ou, Adithya Pratapa, Rishubh Gupta, Teruko Mitamura
+
+Language Technologies Institute, Carnegie Mellon University {jiefuo, vpratapa, rishubhg, teruko}@andrew.cmu.edu
+
+Abstract
+
+three events (Q602744, Q8641370, Q216184) themselves constitute a hierarchical event structure.
+3 Hierarchical Event Grounding The task of grounding involves linking event references in text documents to the corresponding entries in a knowl- edge base (Chandu, Bisk, and Black 2021). Pratapa, Gupta, and Mitamura (2022) studied linking event references from Wikipedia and Wikinews articles to Wikidata items. How- ever, they restrict the dictionary of Wikidata items to leaf events. This ignores important parent events such as ‘Op- eration Overlord’ and ‘Western Front (World War II)’ from
+4 Dataset To the best of our knowledge, there are no existing datasets for the task of hierarchical event linking. Therefore, we ex- pand the XLEL-WD dataset (Pratapa, Gupta, and Mitamura 2022) to include hierarchical event structures.
+Language Technologies Institute - Faculty Name: Teruko Mitamura Email: teruko@cs.cmu.edu Office: 6711 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics Phone: 412-268-6596
+permitted  only after  registration week)
+
+Class Level, College and Department are correct (if incorrect, please contact your home
+
+academic department)
+
+The registration process can be completed within SIO (Student Information Online) by following 4 easy steps: https://www.cmu.edu/hub/registrar/docs/4 -easy -steps.pdf
+
+If students have any questions about course selection, students  may reach out to MIIS program
+
+director, Teruko Mitamura.
+
+4.7 Drop/Add/Withdraw Procedures
+the University Policies website . It is the responsibility of each member of the Carnegie Mellon
+
+community to be familiar with university policies and guidelines.
+
+1.4 MIIS Contact Information
+
+The people responsible for administering the MIIS degree are:
+
+Brianna Eriksen     Teruko Mitamura
+
+Academic Program Manager    Program Director, MIIS
+
+GHC 6415      Professor, LTI
+
+412-268-4277     GHC 6711
+
+bfreema2@andrew.cmu.edu     412-268-6596
+
+teruko@andrew.cmu.edu
+
+
+Answer: 

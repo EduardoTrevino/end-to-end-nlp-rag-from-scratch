@@ -1,0 +1,150 @@
+Question: What is StarCoderBase trained on?
+
+Context: ﬁltering ablations. One of our main ﬁndings was that ﬁltering for Github stars consistently decreased performance across all benchmarks and programming languages. Using the ﬁndings of these abla- tion studies, we trained a ﬁnal 1.1B model—dubbed SantaCoder—for 236B tokens and showed it is able to outperform previous multi-lingual code models (InCoder-6.7B and CodeGen-Multi-2.7B) on both left-to-right generation and inﬁlling tasks. We anticipate that larger architectures and more training data
+Findings We ﬁnd all BigCode Santa variants with 1.1B parameters to outperform the 6.7B In- Coder model (Fried et al., 2022), which we attribute to differences in the training datasets. Among BigCode models, variants trained on more Python perform better: The stars variant with 32% of Python in its training corpus outperforms the tokenizer fertility variant with only 28.5% of Python (see proportions in Table 3). The bfloat16 is the same as the no-ﬁm variant, except for the lat- ter being trained
+We investigate the impact of 4 preprocessing methods on the training data: ﬁltering ﬁles from repositories with 5+ GitHub stars, ﬁltering ﬁles with a high comments-to-code ratio, more aggressive ﬁltering of near-duplicates, and ﬁltering ﬁles with a low character-to-token ratio. We observe modest impact of the new ﬁlters except for the stars ﬁlter, which deterio- rates performance on text2code benchmarks signiﬁcantly. This is an interesting result given that previous work has explicitly ﬁltered
+Instructors: Stragar, Gauntner,Gauntner, Stragar
+
+Fall 2023
+
+Course number: 69153
+
+Title: Lifeguard Training:
+
+Units: 3.0
+
+Section:  ,A1
+
+Days:  ,TR
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room:  ,CUC POOL
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Gauntner, Gorman
+
+Fall 2023
+
+Course number: 69154
+
+Title: Introduction to Springboard Diving:
+
+Units: 3.0
+
+Section:  ,A2
+
+Days:  ,TR
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room:  ,CUC POOL
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Gorman
+End: 09:20PM
+
+Room: HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Werbacher
+
+Spring 2024
+
+Course number: 95748
+
+Title: Software and Security
+
+Units: 6.0
+
+Section: A3
+
+Days: M
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1206
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasar
+
+Spring 2024
+
+Course number: 95749
+
+Title: Cryptography
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: HBH 1204
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Beveridge
+Instructors: Savvides
+
+Fall 2023
+
+Course number: 18797
+
+Title: Machine Learning for Signal Processing
+
+Units: 12.0
+
+Section: A,SV,RW
+
+Days: TR
+
+Start: 08:00PM,11:00AM,02:00PM
+
+End: 12:20PM,09:20PM,03:20PM
+
+Room: B23 212,DH A302,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Ramakrishnan
+
+Fall 2023
+
+Course number: 18799
+
+Title: Special Topics in Signal Processing:
+
+Units: 12.0
+
+Section:  ,K
+
+Days:  ,MW
+
+Start:  ,10:00AM
+
+End: 11:50AM,
+21. RNA sequencing via videogames, 2010 Thanks to crowdsourcing, science isn’t just for scientists any more. People without formal training in molecular biology are producing new insights into genetic encoding through a videogame called EteRNA, developed by researchers at CMU and Stanford, that allows players to fold and shift RNA molecules to solve on-screen puzzles.
+and individual program options. SASC supports student success by providing academic
+
+coaching, subject -specific tutoring, effective communication strategies, accommodations for
+
+students with disabilities, and language support for multilingual learners. SASC engages with faculty and staff to improve the coordination and professional development for academic advisors. Visit the SASC website for more information about services offered in areas such as
+https://www.cmu.edu/student-success/ The Student Academic Success Center’s (SASC) work to support success focuses on creating spaces for students to engage in their coursework and approach to learning through many group and individual program options. SASC supports student success by providing academic coaching, subject-specific tutoring, effective communication strategies, accommodations for students with disabilities, and language support for multilingual learners.
+
+
+Answer: 

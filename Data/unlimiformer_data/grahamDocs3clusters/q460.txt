@@ -1,0 +1,164 @@
+Question: What is the code URL for the case studies presented in the framework tax paper?
+
+Context: this phenomenon as the framework tax, and ob- serve that the disparity is growing as hard- ware speed increases over time. In this work, we examine this phenomenon through a se- ries of case studies analyzing the effects of model design decisions, framework paradigms, and hardware platforms on total model latency. Code is available at https://github.com/ JaredFern/Framework-Tax.
+Paper title: 'The Framework Tax: Disparities Between Inference Efficiency in Research and Deployment' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Emma Strubell, Yonatan Bisk, Jacob Kahn, Clara Na, Jared Fernandez Summary: This work examines the effects of model design decisions, framework paradigms, and hardware platforms on total model latency through a series of case studies analyzing the effects of model design
+In the case studies in sections 5.2 and 5.3 we use the "PPO-CB" exploration bonus. The case study in section 5.4 requires raw PPO for the purposes of the study, and one in section 5.5 uses LLMs as agents. In appnedix F, we use PPO-CB and PPO-CBL (in those case-studies in which the peer provides linguistic feedback).
+
+5.2 Understanding the pointing gesture
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Jen,Colletti
+
+Spring 2024
+
+Course number: 70257
+
+Title: Optimization for Business
+
+Units: 9.0
+
+Section: A,W,B,C,D,Lec 1,Lec 2
+
+Days: F,MW,UMTR
+
+Start: 08:45AM,12:30PM,11:00AM,09:00AM
+
+End: 01:50PM,09:50AM,09:35AM,12:20PM,11:50AM
+
+Room: TEP 2611,TEP 3801,CMB 1064
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Yilma,Moseley
+
+Spring 2024
+
+Course number: 70258
+
+Title: Developing Blockchain Use Case
+
+Units: 6.0
+Course number: 82412
+
+Title: Topics in Arabic Studies:
+
+Units: 9.0
+
+Section: W,
+
+Days:  ,UMTWR
+
+Start:  ,03:00PM
+
+End: 04:30PM,
+
+Room: TBA,
+
+Locations:  ,Doha, Qatar
+
+Instructors: Al Masaeed
+
+Summer 2024
+
+Course number: 82444
+
+Title: The Structure of Spanish
+
+Units: 6.0
+
+Section: S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Tardio
+
+Summer 2024
+
+Course number: 82451
+
+Title: Studies in Latin American Literature and Culture
+
+Units: 9.0
+
+Section: S
+Instructors: Parker
+
+Fall 2023
+
+Course number: 82599
+
+Title: Russian Studies Thesis
+
+Units: 3-6
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 82701
+
+Title: Cultural Studies Elective - Graduate Level
+
+Units: VAR
+
+Section: A,E,B,F,G,C,D,H
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wu,Gomez,Niang,Iwasaki,Yasuhara,Instructor TBA,Gershkovich,Tardio
+thesis defense. The pre sentation must communicate the research work done, similar to
+
+a conference paper presentation. The committee will observe the presentation, and then decide whether the thesis and presentation were acceptable, or whether further
+
+work is required. Unlike a P hD defense, only a simple majority vote of the committee is
+
+required for approval.
+statement” that describes the claimed solution to the research problem that is the thesis
+
+topic.
+
+Thesis Proposal:  Near the end of the student’s third year, the student will compose a
+
+dissertation proposal. In this document, the student will specify the problem the research addresses (the thesis topic); the significance of the problem and expected scie ntific
+more than on e CMU degree (e.g., receiving an MLD Master’s  degree that includes courses taken
+
+as an LTI Ph.D.  student) must be explicitly approved by the LTI, on a case -by-case basis, in
+
+advance.
+
+4.1.2 External Internships
+
+The LTI provides summer support for its Ph.D.  students, so Ph.D. students are expected to do
+
+research at Carnegie Mellon during the summer. However, outside experience can be a valuable
+
+
+Answer: 

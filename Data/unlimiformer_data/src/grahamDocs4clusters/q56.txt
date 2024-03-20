@@ -1,0 +1,205 @@
+Question: By whom was Kevlar fiber invented?
+
+Context: The Harary-Ross algorithm has ﬂaws, as reported by Harary in his 1969 text, “Graph Theory” [23]. Instead of using that algorithm, I used a more modern one, the Tomita variant of the Bron-Kerbosch algorithm. In 1967, Edward Bierstone and Allen Bernholtz developed a semilattice recomposition program described in their report “HIDECS-RECOMP PROCEDURE” [19]. I coded it up to visualize the produced decompositions. Rather than trying to describe the algorithm, I’ll quote Bierstone and Bernholtz:
+istics.SalvatoreGiorgi,KeZhao,AlexanderHFeng,andLaraJMartin.2023.Authorascharacterandnar-rator:Deconstructingpersonalnarrativesfromther/amitheassholeredditcommunity.InICWSM2023.
+ACT-R, short for Adaptive Control of Thought-Rational, is developed primarily by John An- derson’s research group in the CMU Department of Psychology [1, 2]. It is another cognitive architecture that aims to model and explain the mental processes that are central to human cog- nition. The key assumption in ACT-R is that there are two kinds of knowledge: declarative knowledge and procedural knowledge. Declarative knowledge is represented as “chunks,” struc- tures with an isa pointer to what kind
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Keshav
+
+Spring 2024
+
+Course number: 70443
+
+Title: Digital Marketing and Social Media Strategy
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: TEP 2611
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stuettgen
+
+Spring 2024
+
+Course number: 70447
+
+Title: Client Consulting Project: Strategic Management of the Enterprise
+
+Units: 12.0
+
+Section: W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Doha, Qatar
+Instructors: Kushnir
+
+Fall 2023
+
+Course number: 73352
+
+Title: Public Economics
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 2612
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Fong
+
+Fall 2023
+
+Course number: 73374
+
+Title: Econometrics II
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: TBA,MW
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: DNM DNM,TEP 2612
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Keshav
+
+Fall 2023
+
+Course number: 73395
+Locations: Doha, Qatar
+
+Instructors: Salameh, Hasna
+
+Spring 2024
+
+Course number: 98081
+
+Title: Student Taught Courses (StuCo): Historical European Martial Arts:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,T
+
+Start:  ,07:00PM
+
+End:  ,08:50PM
+
+Room: CUC ACTVY,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nelson, Loria-Sklar
+
+Spring 2024
+
+Course number: 98095
+
+Title: Student Taught Courses (StuCo): Introduction to Plants vs Zombies:
+
+Units: 3.0
+
+Section: A,
+
+Days: W,
+
+Start:  ,07:00PM
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+The Kiltie Band
+
+The Kiltie Band began in 1908 with a group of just seven students dedicated to supporting Carnegie Tech football, and today's Kiltie Band continues a tradition of excellence originated over a century ago. The Band took the field for its first official performance on November 25th, 1922, on what would have been Andrew Carnegie's 87th birthday.
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+
+
+Answer: 

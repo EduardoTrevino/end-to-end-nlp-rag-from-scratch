@@ -1,0 +1,59 @@
+Question: What types of prompts can PaintSeg be configured to work with?
+
+Context: SELF-REFINE is implemented in a complete few-shot setup, where each module (INIT, FEEDBACK, ITERATE) is implemented as few-shot prompts. We execute the self-improvement loop for a maximum of k = 4 iterations. The iterations continue until the target sentiment is reached.
+
+P.1 Details
+Bonifacio et al. (2022) evaluated two types of the prompts of which we use only the so-called vanilla prompt (see Table 2).
+approach can be applied with any other pretrained models with similar function calls.
+
+6
+
+(5)
+
+How can I make this more nutritious?
+
+I want a cake with a unicorn theme, with pastel colors and a whimsical feel.
+
+I would suggest a simple sign with the name of the business and a picture of the cupcakes.
+
+“This but in green”
+
+I'm not sure what you mean by customised.
+
+Can you also show me some decorations that would work well for the party?
+
+Stable Diﬀusion
+
+Stable Diﬀusion
+
+User prompts
+Clients meet with a c onsultant to improve the logic, clarity, and flow of writing or
+
+presentation and receive expert feedback that will strengthen a project. When making an appointment, clients upload a draft, instructor prompts, and rubrics so the consultants can use specific  criteria to give relevant feedback. See the
+
+appointment types offered here:
+
+https://www.cmu.edu/student-
+
+success/programs/communication -support/make- an-appointment.html
+Faculty Research Talks, nor do they receive a grade, however the department is serious about its expectation that new students will attend these talks.
+
+The LTI Orientation Canvas course
+
+is a mandatory course designed to increase incoming LTI
+
+graduate students' awareness and understanding of CMU's community standards and the
+
+resources that CMU offers the students. The course includes several administrative tasks,
+The Office of Research Integrity & Complian ce (ORIC) is designed to support research at
+
+Carnegie Mellon University. The staff work with  researchers to ensure research is conducted
+
+with integrity and in accordance with federa l and Pennsylvania regulation. ORIC assists
+
+researchers with human subject re search, conflicts of interest, re sponsible conduct of research,
+
+export controls, and institutional animal care & us e.  ORIC also provides consultation, advice,
+
+
+Answer: 

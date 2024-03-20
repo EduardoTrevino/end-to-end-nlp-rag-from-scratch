@@ -1,0 +1,17 @@
+Question: How many scientific challenges in spoken language translation did the IWSLT 2023 shared tasks address?
+
+Context: This paper summarizes Karlsruhe Institute of Tech- nology’s speech translation system for the multilin- gual track of IWSLT 2023 (Agarwal et al., 2023). In this track, the task is to translate scientific talks in English into 10 languages: Arabic (ar), Chinese (zh), Dutch (nl), French (fr), German (de), Japanese (ja), Persian/Farsi (fa), Portuguese (pt), Russian (ru), Turkish (tr). The talks are from presentations in the 60th Annual Meeting of the Association for Computational Linguistics (ACL
+Many existing speech translation benchmarks focus on native-English speech in high-quality recording conditions, which often do not match In this the conditions in real-life use-cases. paper, we describe our speech translation sys- tem for the multilingual track of IWSLT 2023, which evaluates translation quality on scientific conference talks. The test condition features accented input speech and terminology-dense contents. The task requires translation into 10 languages of varying amounts of
+In this paper, we described our systems for the mul- tilingual speech translation track of IWSLT 2023, which translates English speech into 10 target lan- guages. To tackle the task of translating scien- tific conference talks, which feature non-native in- put speech and terminology-dense contents, our systems have several novelties. Lacking suitable training data for the target domain, we used kNN- MT for inference-time adaptation and showed an improvement of +0.8 BLEU for cascaded speech
+22. Language learning software, 2010 Learning a second language has always been challenging, but a CMU spinoff called Duolingo is proving that it doesn’t have to be expensive. Duolingo has developed language tutoring software that enables users to learn Spanish, English, Italian, German, Portuguese or French for free through its website and mobile apps. In the process, Duolingo users are helping to translate the Web.
+1.7 University Policies and Expectations  .......................................................................................... 9
+
+1.8 Academic Calendar  ......................................................................................................................... 10
+
+2 The Language Technologies Institute  10
+
+2.1.1  Mailboxes & Office Supplies  .............................................................................................. 10
+9. Machine translation, 1984 Every “Star Trek” fan knows about the universal translator. Scientists in the Language Technologies Institute are moving those gadgets from science fiction to real life. Their pioneering systems include handheld, portable speech-to-speech translators, just like those depicted on the USS Enterprise.
+
+
+Answer: 

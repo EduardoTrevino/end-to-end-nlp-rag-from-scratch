@@ -1,0 +1,178 @@
+Question: Which LTI faculty member does the most work on robots?
+
+Context: We would also like to thank the whole Hello Robot team, but especially Binit Shah and Blaine Mat- ulevich for their help with the robots, and Aaron Edsinger and Charlie Kemp for helpful discussions.
+Tuomas Haarnoja, Vitchyr Pong, Aurick Zhou, Murtaza Dalal, Pieter Abbeel, and Sergey Levine. Composable deep reinforcement learning for robotic manipulation. In 2018 IEEE international conference on robotics and automation (ICRA), pages 6244–6251. IEEE, 2018a. (Cited on page 5.)
+Ivan Kapelyukh, Vitalis Vosylius, and Edward Johns. Dall-e-bot: Introducing web-scale diﬀusion models to robotics. In CoRL 2022 Workshop on Pre-training Robot Learning, 2022. (Cited on page 12.)
+
+Changyeon Kim, Jongjin Park, Jinwoo Shin, Honglak Lee, Pieter Abbeel, and Kimin Lee. Preference transformer: Modeling human preferences using transformers for rl. In The Eleventh International Conference on Learning Representations (ICLR), 2023. (Cited on page 13.)
+Spring 2024
+
+Course number: 16467
+
+Title: Introduction to Human Robot Interaction
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: MM A14
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Admoni
+
+Spring 2024
+
+Course number: 16474
+
+Title: Robotics Capstone
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wettergreen, Riviere
+
+Spring 2024
+
+Course number: 16480
+End:  ,12:20PM
+
+Room:  ,NSH 1305
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Gkioulekas
+
+Spring 2024
+
+Course number: 16633
+
+Title: Special Topic: Robot Cognition and Learning
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:20PM
+
+Room: WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Atkeson
+
+Spring 2024
+
+Course number: 16662
+
+Title: Robot Autonomy
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: NSH 1305
+Fall 2023
+
+Course number: 16831
+
+Title: Introduction to Robot Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: SH 105
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pathak
+
+Fall 2023
+
+Course number: 16833
+
+Title: Robot Localization and Mapping
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kaess
+
+Fall 2023
+
+Course number: 16845
+
+Title: Insects and Robots
+
+Units: 12.0
+nearly 1,700, including undergraduate, master’s and Ph.D. students, and conducted $124 million in research. Indeed, by itself, the Robotics Institute is the largest university robotics research group in the world, with more than 500 people and more than 100 ongoing research projects. A half-century ago, Perlis, Simon and Newell outlined a vision for computer science. The School of Computer Science at CMU remains committed to continuing and extending their vision in the context of big data and
+Launching a Robotics Institute In 1979, an executive at Pittsburgh’s Westinghouse Electric Corp., Tom Murrin, collaborated with Jordan and Reddy to create the Robotics Institute, with Reddy as its first director. By 1982, the Computer Science Department included more than 30 faculty members and 100 graduate students.
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+
+
+Answer: 

@@ -1,0 +1,199 @@
+Question: What was the conclusion of the study regarding the effectiveness of query rewriting techniques using large language models for multilingual, document-grounded question-answering systems?
+
+Context: Paper title: 'Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA' Published year: 2023 Publication venue or conference: Workshop on Document-grounded Dialogue and Conversational Question Answering Authors: T. Mitamura, Srijan Bansal, Mitali Potnis, Soham Dinesh Tiwari, Srinivas Gowriraj, Eric Nyberg Summary: This paper assesses the effectiveness of both language-agnostic and language-aware paradigms for multilingual pre-trained
+We have categorized several techniques for making effective use of large language models, as summarized in Table 1. These techniques include strategies to improve instruction quality, use of reference text, task decomposition, promoting the model’s “thinking” process, integrating external
+
+, Vol. 00, No. 0, Article 000. Publication date: 2023.
+
+000:8
+
+Z. Chen, Y. Deng and W. Du
+
+Table 1. Classification and summary of usage techniques for large language models
+5 Conclusion
+
+In this paper, we present M3IT, a multi-modal multilingual instruction tuning dataset for aiding the development of multi-modal large language models. The dataset comprises 2.4 million carefully curated instances and 400 manually written task instructions across 40 tasks. We build Ying-VLM to validate the effectiveness of our dataset. Quantitative and qualitative results demonstrate that the
+
+9
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Room:  ,POS 146
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Paulisick
+
+Fall 2023
+
+Course number: 11663
+
+Title: Applied Machine Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: SH 105
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11667
+
+Title: Large Language Models Methods and Application
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: BH A51
+
+Locations: Pittsburgh, Pennsylvania
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+and the organizations snuck out at midnight to get some practice on the course. Avoiding Controversies. After the controversy of 1947 (which, sadly and as noted above, we don’t have details of), Sweepstakes decided to tighten up the rules to avoid any confusion for Raceday. Of course, we don’t have the rules that were tightened either. We’ll keep digging, and if we find it out, we’ll update this post. On the plus side, 1948 didn’t appear to have any controversies. Prelim Results. Raceday itself
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+such behavior, which will not be tolerated. Re peated infractions, or a serious single infraction
+
+may result in termination from the program.
+
+11.5.6  Language Policy
+
+The MSAII program is a component of the Language  Technologies Institute, which studies and
+
+celebrates the diversity of human language and fo rms of expression. The LTI also recognizes the
+
+futility and unfairness of attempting to det ermine the language students must use when
+
+
+Answer: 

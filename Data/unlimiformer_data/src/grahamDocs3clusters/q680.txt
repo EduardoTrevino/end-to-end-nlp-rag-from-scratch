@@ -1,0 +1,104 @@
+Question: Which two LLMs were explored in the SPAE paper?
+
+Context: Paper title: 'SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs' Published year: 2023 Publication venue or conference: arXiv.org Authors: Lu Jiang, Wolfgang Macherey, A. Hauptmann, David A. Ross, Irfan Essa, K. Murphy, Vivek Kumar, Ming Yang, Yonatan Bisk, Yong Cheng, Lijun Yu, Zhiruo Wang, Yanping Huang Summary: This method marks the first successful attempt to enable a frozen LLM to generate image content while surpassing state-of-the-art performance in image
+5ConclusionOurworkunveilstheuntappedpotentialoffrozenLargeLanguageModels(LLMs)intacklingmultimodalunderstandingandgenerationtasksinvolvingimagesandvideos,withoutrequiringexplicittrainingonthesemodalities.Thisisachievedbyanewmethod,SPAE,whichconvertsbetweenvisualcontentandlexicaltokensofvariablelength,imbuedwithrichsemanticmeaning.OurfindingsshowthegreatpotentialofharnessingthevastknowledgeandreasoningcapabilitiesofLLMsinthefieldofcomputervision,transcendingthelimitationsoflanguage-onlytasks.Lim
+The joint-feedback modeling with feedback models was explored by Korbak et al. (2023), who study pre-training an LLMs with a loss similar to Equation 6, based on feedback from a preference model trained on ranking-based feedback for tox- icity. They showed that this leads to models pro- ducing less toxic generations, when compared to pretraining a model with vanilla MLE.
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Howard,Dealmeida,Almarza,Kostyniak,Branson, Allen, Evans,Vosburgh,Defade,Cardenes,Wu,Ferla,Spacagna,Caballero,Schepkin,Instructor TBA,Gruber,Cherian,McGhee,Knox,Thompson, Shields,Dee,Whipple,Aylmer,Shields, Goeres,Kush,Carlisle,van der Sloot,Rusinek, Shields,Houlik, Shields,Shields, Sullivan,Laduke,Shields, Van Hoesen,Williams,Berntsen,Harding,Premo,Teadt,Galbraith,Chiu
+
+Fall 2023
+
+Course number: 57497
+Instructors: Howard,Dealmeida,Pukinskis,Sullivan,Almarza,Kostyniak,Vosburgh,Cardenes,Wu,Houlik,Spacagna,Caballero,Howell,Schepkin,Instructor TBA,Van Hoesen,Gruber,Cherian,McGhee,Knox,Papadimitriou,Branson, Evans, Allen,Goeres,Dee,Rusinek,Aylmer,Whipple,Kush,Carlisle,Marcinizyn,van der Sloot,Laduke,Williams,Berntsen,Harding,Premo,Teadt,Galbraith,Chiu
+
+Spring 2024
+
+Course number: 57500
+
+Title: Major Studio (Voice)
+
+Units: 9.0
+
+Section: A,E,B,F,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber,Lawrence
+
+Fall 2023
+
+Course number: 57501
+
+Title: Major Studio (Piano)
+
+Units: 9.0
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Schepkin,Chiu
+
+Fall 2023
+
+Course number: 57503
+
+Title: Major Studio (Harp)
+
+Units: 9.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+16. CAPTCHAs, 2000 “Spam” and malicious attacks were a growing problem on the Internet when hackers developed automated “bots” that could sign up for email and other Web services without human intervention. Luis von Ahn (CS’03,’05), Nick Hopper (CS’04), John Langford (CS’02) and CMU professor Manuel Blum invented a “Completely Automated Public Turing Test to tell Computers and Humans Apart,” or CAPTCHA, to help foil the bots. A later variation, reCAPTCHA, is helping digitize old books and
+thesis defense. The pre sentation must communicate the research work done, similar to
+
+a conference paper presentation. The committee will observe the presentation, and then decide whether the thesis and presentation were acceptable, or whether further
+
+work is required. Unlike a P hD defense, only a simple majority vote of the committee is
+
+required for approval.
+13.7 Academic Calendar
+
+The official academic calendar is published by Enro llment Services. It is not uncommon for
+
+departments and colleges to have academic requir ements that differ from or are in addition to
+
+those presented in the academic calendar provided to the campus community by Enrollment Services. See https://www.cmu.edu/hub/calendar/ docs/2223-academic-calendar.pdf ..
+
+13.8 Professional Development
+
+
+Answer: 

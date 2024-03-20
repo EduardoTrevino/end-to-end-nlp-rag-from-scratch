@@ -1,0 +1,57 @@
+Question: What is the MOS-Q achieved by the MQTTS quantizer with a code size of 1024, on the VoxCeleb test set?
+
+Context: Speaker Similarity Score (SSS). In multi-speaker TTS, it is also important to evaluate how well the synthesizer transfers speaker characteristics. Here we use the cosine
+
+5https://zenodo.org/record/4630406#.YoT0Ji-B1QI
+
+Table 1: Comparison of quantizer and vocoder reconstruc- tion quality on VoxCeleb test set. HF-GAN is HiFi-GAN.
+
+Method
+
+Code size (#groups)
+
+RCER (%)
+
+MOS-Q (95% CI)
+
+MOS-N (95% CI)
+
+GT
+
+n/a
+
+n/a
+
+3.66(.06)
+
+3.81(.05)
+
+HF-GAN
+
+n/a
+
+12.8
+
+3.47(.06)
+
+3.62(.06)
+
+MQTTS Quant.
+5.1 Quantizer Analysis Table 1 shows the reconstruction quality of the quantizer. From RCER, it is clear that using a single codebook (N = 1) drastically distorts the input phone sequence. Their distinc- tive low MOS-Q and MOS-N scores also suggest that N = 1 is not sufﬁcient to generate high-quality and natural speech. Even if we span a much larger codebook size, 65536, there is almost no difference compared to the 1024 codes across all metrics. This result indicates the necessity of having
+speech quality (MOS-Q). For the remain- der of our experiments, we use N = 4 with a 160 code size, as we observe little perceptible quality and intelligibility dif- ference when we increase from N = 4 to 8.
+The English proficiency requirement cannot be waived for any reason. Find more information under "Test Scores" on our FAQ page. Successful applicants will have a minimum TOEFL score of 100. Our Institution Code is 4256; the Department Code is 78. Official transcripts from each university you have attended, regardless of whether you received your degree there. Current resume. Statement of Purpose. Three letters of recommendation. For more details on these requirements, please see the SCS
+AI Innovation (11-654) – Prereq uisite is the completion of 11- 695 with a grade of “B” or
+
+better.
+
+Capstone (11-699) – Prerequisite is the completion of 11-654 with a grade of “B” or better.
+
+Students are required to repeat any required cour se that they have completed with a grade less
+
+than the required minimum, preferably at the nex t offering. (Please note that Core courses and
+
+Knowledge courses are only offered once per year.) Students will be  allowed to retake a required
+The Carnegie Mellon Code can also be found on-line at: https://www.cmu.edu/student-affairs/theword/ . 2 The Language Technologies Institute 2.1 Main Office The Gates Hillman Complex: Mailboxes, printers, copiers, and other departmental resources are in GHC 5404. 112.2 Photocopies and Printers The use of a printer/copier requires a CS user id (see the ‘Computers’ section). The School of Computer Science provides several black-and-white and color printers for use by students. SCS Computing
+
+
+Answer: 

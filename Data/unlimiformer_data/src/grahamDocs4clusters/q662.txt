@@ -1,0 +1,227 @@
+Question: Which two institutes merged together to form the current day Carnegie Mellon University?
+
+Context: 3 2 0 2
+
+p e S 8 1
+
+]
+
+V C . s c [
+
+1 v 3 1 0 0 1 . 9 0 3 2 : v i X r a
+
+Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin
+
+Gabriel Moreira Language Technologies Institute Carnegie Mellon University gmoreira@cs.cmu.edu
+
+Manuel Marques Institute for Systems and Robotics Instituto Superior T´ecnico manuel@isr.tecnico.ulisboa.pt
+
+Jo˜ao Paulo Costeira Institute for Systems and Robotics Instituto Superior T´ecnico jpc@isr.tecnico.ulisboa.pt
+3 2 0 2
+
+t c O 3 1
+
+] L C . s c [
+
+3 v 6 1 2 7 1 . 5 0 3 2 : v i X r a
+
+Generating Images with Multimodal Language Models
+
+Jing Yu Koh Carnegie Mellon University jingyuk@cs.cmu.edu
+
+Daniel Fried Carnegie Mellon University dfried@cs.cmu.edu
+
+Ruslan Salakhutdinov Carnegie Mellon University rsalakhu@cs.cmu.edu
+
+Abstract
+3 2 0 2
+
+n u J
+
+6 2
+
+] L C . s c [
+
+1 v 3 0 1 5 1 . 6 0 3 2 : v i X r a
+
+Structured Dialogue Discourse Parsing
+
+Ta-Chung Chi Language Technologies Institute Carnegie Mellon University tachungc@andrew.cmu.edu
+
+Alexander I. Rudnicky Language Technologies Institute Carnegie Mellon University air@cs.cmu.edu
+
+Abstract
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Title: Current Topics in Privacy Seminar
+
+Units: 3.0
+
+Section: A,B
+
+Days: T
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sadeh, Habib,Habib, Sadeh
+
+Spring 2024
+
+Course number: 17716
+
+Title: AI Governance: Identifying & Mitigating Risks in Design & Dev of AI Solutions
+
+Units: 6.0
+
+Section: A,B
+
+Days: W
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: HH B131,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sadeh
+
+Spring 2024
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Noonan
+
+Spring 2024
+
+Course number: 09912
+
+Title: Current Research in Chemistry:
+
+Units: 1.0
+
+Section: A,
+
+Days: W,
+
+Start:  ,04:00PM
+
+End:  ,05:20PM
+
+Room:  ,MI 348
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Armitage
+
+Spring 2024
+
+Course number: 09932
+
+Title: Graduate Teaching II
+
+Units: 12,24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stump
+
+Spring 2024
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+In 1967, Carnegie Tech merged with the Mellon Institute, a science research center founded by the Mellon family of Pittsburgh, to become known as Carnegie Mellon University. The merger built upon a long history of support from the Mellons. It allowed Carnegie Mellon to establish the last of its current pillars: the Mellon College of Science and the College of Humanities and Social Sciences, now known as Marianna Brown Dietrich College of Humanities and Social Sciences. In 2017, Carnegie Mellon
+nearby Mellon Institute of Industrial Research to form Carnegie-Mellon University. The Department of Computer Science moved into the newly created Mellon Institute of Science, later renamed Mellon College of Science, or MCS. Future SCS dean Raj Reddy joined the CSD in 1969 after three years as an assistant professor at Stanford. He brought with him research in speech, language and computer vision. But in 1970 and 1971, the new Computer Science Department faced its first crisis, as half of its
+celebrated the 50th anniversary of the Carnegie Tech-Mellon Institute merger, revisiting the shared vision of the founders and recognizing the impact it has had, and will continue to have, in the world of higher education, research and discovery.
+
+
+Answer: 

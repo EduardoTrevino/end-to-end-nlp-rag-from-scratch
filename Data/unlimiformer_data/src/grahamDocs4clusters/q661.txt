@@ -1,0 +1,197 @@
+Question: How many courses is Sindi teaching in Spring 2024?
+
+Context: (Dai et al., 2023). Otter (Li et al., 2023b;a) focuses on enhancing OpenFlamingo’s instruction-following capability. MiniGPT-4 (Zhu et al., 2023) suggests GPT4’s prowess is due to sophisticated LLMs and recommends using a sin- gle project layer to align visual and linguistic models. It showcases abilities akin to GPT4 but is computationally efficient. mPLUG-Owl (Ye et al., 2023) offers a new approach: initially aligning
+Vijay Janapa Reddi, David Kanter, Peter Mattson, Jared Duke, Thai Nguyen, Ramesh Chukka, Ken Shir- ing, Koan-Sin Tan, Mark Charlebois, William Chou, et al. 2022. Mlperf mobile inference benchmark: An industry-standard open-source machine learning benchmark for on-device ai. Proceedings of Machine Learning and Systems, 4:352–369.
+Sample: The experiment was carried out with 100 students of the course “Introduction to Programming” in professional technical education, INACAP Ñuñoa branch.
+
+Type of test: multiple-choice test of 45 items with four answer
+
+options (only one correct) (Belmar, 2023).
+
+Estimated completion time: 90 min.
+
+Didactics: Ten principles for teaching programming by Brown
+
+and Wilson.
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Noel,Sindi,Kwon
+
+Spring 2024
+
+Course number: 48616
+
+Title: Carnival Gateway Special Project
+
+Units: VAR
+
+Section: A4
+
+Days: M
+
+Start: 06:30PM
+
+End: 07:50PM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Khan
+
+Spring 2024
+
+Course number: 48617
+
+Title: Carnival Gateway Project Management
+
+Units: VAR
+
+Section: A,B
+
+Days: M
+
+Start: 06:30PM
+
+End: 07:50PM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+Days: M, ,W,F
+
+Start:  ,10:00AM,09:00AM
+
+End: 11:50AM, ,12:20PM,12:50PM
+
+Room:  ,MM 321,MM C4,MM 303
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Noel,Sindi,Kwon
+
+Spring 2024
+
+Course number: 48317
+
+Title: The Chair
+
+Units: 9.0
+
+Section: A
+
+Days: MF
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: CFA 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Achnani
+
+Spring 2024
+
+Course number: 48318
+
+Title: Discourse and Praxis in the Climate Emergency
+
+Units: VAR
+
+Section: A3
+
+Days: M
+Instructors: Achnani,Tannir,Sindi,Abraham, Achnani, Sindi, Tannir,Bizon
+
+Fall 2023
+
+Course number: 48307
+
+Title: Carnival Pavilion
+
+Units: VAR
+
+Section: A1,B2,A2
+
+Days: W
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: CFA 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Achnani,Khan
+
+Fall 2023
+
+Course number: 48310
+
+Title: Prototyping Stories: Experimental Children's Book and Vis Dev as An Architectura
+
+Units: 9.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CFA 211
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+Classes can be found at https://enr-apps.as.cmu.edu/o pen/SOC/SOCServlet/search .
+
+Students are then required to take and su ccessfully complete the courses below:
+
+2) The Core Courses (87 units) - Must be taken in THIS SEQUENCE:
+
+11-651 – AI & Future Markets – (12 units). First  Fall semester. Only open to MSAII.
+
+17-762 – Law of Computer Technolo gy (12 units). First Fall semester
+
+11-695 – AI Engineering (12 un its). First Spring semester
+MIIS-21 students have to take at least two more courses from the selected concentration area to satisfy their degree requirements, making it total of 108 units (typically 9 courses) of qualifying and elective courses, that also satisfy breadth requirements. For a full list of requirements, read the MIIS Handbook. Curriculum: Click one of the two options below:
+
+MIIS
+
+16
+
+MIIS
+
+21
+
+
+Answer: 

@@ -1,0 +1,173 @@
+Question: What is the accuracy using SHAP reduction?
+
+Context: The SHAP method works by evaluating the model’s prediction for each instance while permuting the values of a specific feature. This involves shuffling the values of the chosen feature while keeping the rest of the features unchanged. The difference between the model’s prediction with the original feature values and the prediction with the
+
+PRECISION =
+
+TP TP + FP
+
+RECALL =
+
+TP TP + FN
+ument frequency) and MLP-NN (multilayer perceptron neural network), achieving an overall classiﬁcation performance of 89% accuracy, 88% recall, and 89% precision. Moreover, spar- sity reduction signiﬁcantly affected classiﬁer performance in downstream tasks, and a generative AE (autoencoder) learning algorithm effectively leveraged sparsity reduction to help the MLP-NN classiﬁer achieve 92% accuracy, 91% recall, 91% precision, and 91% F1-score. These ﬁndings suggest that the simpler frameworks
+Our methodology is based on the idea introduced by Yang (2022) as this paper also tries to solve a text-to-text style transfer problem. SHAP can be used with a trained classifier to detect the words that drive the output of a classifier to a particular label more than other words. Hence, in our work, we used the trained regard classifier from Sheng
+Title: Modern Techniques in Uncertainty Quantification
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 4708
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wu
+
+Spring 2024
+
+Course number: 17765
+
+Title: Autonomous Self-Adaptive Systems Using Reinforcement Learning
+
+Units: 6.0
+
+Section: M4
+
+Days: R
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: GHC 4101
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Al-Shaer
+
+Spring 2024
+
+Course number: 17766
+Course number: 36402
+
+Title: Advanced Methods for Data Analysis
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: DH 2315
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shalizi
+
+Spring 2024
+
+Course number: 36410
+
+Title: Introduction to Probability Modeling
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Jin
+
+Spring 2024
+
+Course number: 36460
+
+Title: Special Topics: Sports Analytics
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: SH 234
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wasserman
+
+Spring 2024
+
+Course number: 36602
+
+Title: Advanced Methods for Data Analysis
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: DH 2315
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shalizi
+
+Spring 2024
+
+Course number: 36610
+
+Title: Intro to Probability Modeling
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: POS 152
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+out how many pedestrians they had hit”). The impact was severe enough that KapSig’s buggy was dented, and the time it lost from the impact made it impossible for them to catch up. PiKA eventually passed DTD in the freeroll and went on to win by 30 yards, but by then it didn’t matter. The judges decided to DQ PiKA for interference. The brothers of PiKA didn’t take it lightly though; they immediately lodged a protest against the judge’s decision.
+1948 – Another angle of the neck-and-neck finish of the Finals (from the 05-18-1948 Tartan). DTD, on the left, won the race, with KapSig, on the right, less than 1 second behind.
+
+1948 – DTD’s winning buggy (from the 1949 Thistle).
+
+1948 – KapSig’s buggy at a Back Hills transition (from the 1949 Thistle).
+
+1948 – DTD’s winning buggy (photo from the BAA Archives, courtesy of Amy Bluma) 1949 Raceday: Prelims on Friday, May 13 at 10:30am; Finals on Saturday, May 14 at 1:00pm
+24. Encrypting online information, 2012 Credit card numbers and other data used online is safer thanks to an encryption scheme developed by CMU alumna Shafi Goldwasser (S’79). She shared the 2012 Turing Award for her role in developing practical encoding schemes that are difficult to break.
+university initiative to have accurate living information for students for official program/department/college/university notices, the ability to facilitate wellness checks, ensure international students are in compliance with visa requirements.
+
+It will designate an emergency contact address of a relative or family friend to be contacted in the
+
+case of an emergency . If students do not want their name and address published in the campus
+
+directory, they must notify the HUB in writing.
+15. Model checking, 1994 CMU professor Edmund Clarke had long stressed the importance of verifying computer hardware and software through a formal problem-solving technique called “model checking.” In 1994, his arguments gained new weight with the discovery that Intel’s amazing new Pentium chip made errors on certain math problems. Clarke would go on to receive the Turing Award for his role in the development of model checking.
+
+
+Answer: 

@@ -1,0 +1,170 @@
+Question: What is the publicly available website for WebArena
+
+Context: from perfect performance in these real-life tasks, and that WebArena can be used to measure such progress. Our code, data, environment reproduction resources, and video demonstrations are publicly available at https://webarena.dev/.
+Figure 1: WebArena is a standalone, self-hostable web environment for building autonomous agents. WebArena creates websites from four popular categories with functionality and data mimicking their real-world equivalents. To emulate human problem-solving, WebArena also embeds tools and knowledge resources as independent websites. WebArena introduces a benchmark on interpreting high-level realistic natural language command to concrete web-based interactions. We provide annotated programs designed
+We introduce WebArena, a realistic and reproducible web environment designed to facilitate the development of autonomous agents capable of executing tasks (§2). An overview of WebArena is in Figure 1. Our environment comprises four fully operational, self-hosted web applications, each representing a distinct domain prevalent on the internet: online shopping, discussion forums, collaborative development, and business content management. Furthermore, WebArena incorporates several utility tools,
+Title: Building Better Web Applications
+
+Units: 3.0
+
+Section: A2
+
+Days: MW
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Heimann, Huang
+
+Fall 2023
+
+Course number: 67301
+
+Title: Networks and Telecommunications
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 10:00AM
+
+End: 11:15AM
+
+Room: CMB 3044
+
+Locations: Doha, Qatar
+
+Instructors: Phelps
+
+Fall 2023
+
+Course number: 67309
+
+Title: Special Topics: Information Assurance and Security
+
+Units: 6.0
+Title: Internet Services
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: WEH 4623
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: O'Hallaron
+
+Spring 2024
+
+Course number: 18847
+
+Title: Special Topics in Computer Systems:
+
+Units: 12.0
+
+Section: C,
+
+Days:  ,MW
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,PH 225B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Sriraman
+
+Spring 2024
+
+Course number: 18848
+
+Title: Special Topics in Embedded Systems:
+
+Units: 12.0
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Webler
+
+Spring 2024
+
+Course number: 27227
+
+Title: Phase Relations and Diagrams (Minor Option)
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: HH B103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Webler
+
+Spring 2024
+
+Course number: 27305
+
+Title: Introduction to Materials Characterization
+
+Units: 6.0
+
+Section: A,C,B,Lec
+
+Days: W,T,R,F
+
+Start: 08:00AM
+
+End: 09:50AM
+
+Room: HH B131,DH A303
+life/academic -integrity.html
+
+University Policies Website:  www.cmu.edu/policies/
+
+Office of Graduate and Postdoctoral Affairs :
+
+www.cmu.edu/graduate/policies/index.html
+
+Due to the changing nature of conditions and expectations surrounding public health and safety requirements, please visit www.cmu.edu/c oronavirus
+
+for the most up to date information.
+
+Please see Appendix A for additional information about The Word and other university resources.
+The Graduate Student Assembly website maintains a resource page for spouses, domestic partners and families of graduate students:
+
+https://www.cmu.edu/stugov/gsa/Resources- for-
+
+Graduate -Students/Partner- and-Family -Resources.html , including The Student Parent
+
+Association, new mother rooms, and links to resources around campus and the Pittsburgh
+
+area.
+
+Affiliate ID Cards are available for spouses and domestic partners of graduate students that
+14. Web search engines, 1994 The World Wide Web was still in its toddler stage when CMU researcher Michael “Fuzzy” Mauldin (CS’83,’89) developed one of the first successful search engines, Lycos. It was the most-visited site on the Web by 1999.
+
+
+Answer: 

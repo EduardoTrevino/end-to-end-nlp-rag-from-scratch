@@ -1,0 +1,221 @@
+Question: Who is the Director of the MSAII program?
+
+Context: Course number: 11696
+
+Title: MIIS Capstone Planning Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 11699
+
+Title: MSAII Program Capstone
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11700
+
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,P
+
+Days: TBA,F
+
+Start: ,02:00PM
+
+End: ,03:20PM
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Rose
+
+Fall 2023
+
+Course number: 11635
+
+Title: Data Science Capstone Research
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Fall 2023
+
+Course number: 11636
+
+Title: MSAII Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Fall 2023
+Section: A,
+
+Days:  ,MW
+
+Start: 08:00AM,
+
+End: 09:20AM,
+
+Room:  ,SH 236
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Spring 2024
+
+Course number: 11635
+
+Title: Data Science Capstone Research
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11636
+
+Title: MSAII Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+coursework and team projects lead ing to a full-semester capstone project to produce a working
+
+prototype.
+
+8.2 Program Contacts
+
+Michael I. Shamos
+
+Director, MSAII      Distinguished Career Professor
+
+G H C  6 7 0 7
+
+shamos@cs.cmu.edu
+
+Amber Vivis
+
+Academic Program Manager, MSAII  TCS 357
+
+412-268-9998
+
+avivis@cs.cmu.edu
+
+Carolyn Penstein Rosé      Interim Director, Language Technologies Institute  Professor  GHC 5415
+
+412-268-7130
+
+cprose@cs.cmu.edu
+
+8.3 The Reasonable Person Principle (RPP)
+Students must contact the MSAII Director to discuss their plans and fill out the appropriate form. The student’s place in the program will be  held until a mutually  determined time. For
+
+more information refer to www.cmu.edu/policies/student-and-student-life/student-leave.html .
+
+When planning to return from Leave of Abs ence students must complete the appropriate
+
+paperwork before returnin g to the University.
+
+MSAII students who require longer than the standard time to complete their degree
+garlan@cs.cmu.edu
+
+http://www.cs.cmu.edu/~garlan/academics.htm
+
+C a r o l y n  R o s é
+
+Interim Director, Language Technologies Institute  Professor  GHC 5415
+
+412-268-7130
+
+cprose@cs.cmu.edu
+
+8 MSAII Policies
+
+The Language Technologies Institute (LTI) ha s prepared this statement of policies, program
+
+requirements, guidance, process a nd procedures for students in the M.S. in Artificial Intelligence
+
+and Innovation (MSAII) program. A copy of this handbook is also available online at the
+
+
+Answer: 

@@ -1,0 +1,29 @@
+Question: What is the average performance improvement of Prompt2Model over gpt-3.5-turbo LLM?
+
+Context: Improvement is consistent across base LLMs sizes Generally, GPT-4+SELF-REFINE performs better than GPT-3.5+SELF-REFINE and ChatGPT+SELF-REFINE across all tasks, even in tasks where the initial base results of GPT-4 were lower than GPT-3.5 or ChatGPT. We thus believe that SELF-REFINE allows stronger models (such as GPT-4) to unlock their full potential, even in cases where this potential is not expressed in the standard, single-pass, output generation. Comparison to additional strong baselines
+The main results are shown on the top of Table 2. GPT-4 (OpenAI, 2023) with CoT prompting achieves a modest end-to-end task success rate of 11.70%, which is signifi- cantly lower than the human performance of 78.24%. GPT-3.5 (OpenAI, 2022) with CoT prompting is only able to successfully perform 8.75% of the tasks. The explicit reasoning procedure is somewhat helpful, it brings 2.34% improvement over the version without it. Further, TEXT-BISON-001 (Anil et al., 2023) underperforms GPT-3.5, with
+GPT-3.5-Turbo and GPT-4 experience a substantial decline in performance compared to their earlier counterparts when it comes to transparent access, late label (e.g., the protagonist is the one who wrote
+After an hour-long argument with the judges (and presumably the Sweepstakes committee), the decision to DQ PiKA was upheld and DTD was awarded the victory. Final Time. The Tartan reported that DTD’s winning time was 3:49, but our database has the time as 2:49. 3:49 would be significantly slower than any other race on this course, but I also think it’s possible. Bleak skies threatened the race (meaning it may have been bad weather), the best Prelim time was 3:24.5, and DTD was the 2nd buggy to
+Clients meet with a c onsultant to improve the logic, clarity, and flow of writing or
+
+presentation and receive expert feedback that will strengthen a project. When making an appointment, clients upload a draft, instructor prompts, and rubrics so the consultants can use specific  criteria to give relevant feedback. See the
+
+appointment types offered here:
+
+https://www.cmu.edu/student-
+
+success/programs/communication -support/make- an-appointment.html
+below the acceptable academic performance and/or fail to meet the sta ndards established by the
+
+MSAII program and Carnegie Mellon Universit y, the student may be dismissed from the
+
+program.
+
+Should a student’s overall QPA drop below 3.0 d uring any given semester, he/she will be placed
+
+on academic probation for the following semester and will be required to improve his/her grades
+
+to no less than overall 3.0 QPA d uring that period. Failure to im prove to an overall 3.0 QPA or
+
+
+Answer: 

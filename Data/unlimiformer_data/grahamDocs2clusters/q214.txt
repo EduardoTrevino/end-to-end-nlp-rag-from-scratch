@@ -1,0 +1,165 @@
+Question: In summer 2024, When do Semester & Mini-6 Faculty Course Evaluations open?
+
+Context: Course number: 36735
+
+Title: Statistical Analysis Mini - TBA
+
+Units: 6.0
+
+Section: A3
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36736
+
+Title: Statistical Methods Mini - TBA
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36757
+
+Title: Advanced Data Analysis I
+Title: Special Topics in ICT Mini:
+
+Units: 6.0
+
+Section:  ,A1,N1
+
+Days:  ,MW,TR
+
+Start: 08:00AM, ,04:00PM
+
+End:  ,05:50PM,09:50AM
+
+Room: CMR F305, ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Rodriguez-Perez,Ostheimer
+
+Fall 2023
+
+Course number: 04900
+
+Title: MSIT Practicum
+
+Units: 24.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:20PM
+
+Room: CMR F305
+
+Locations: Kigali, Rwanda
+
+Instructors: Okeyo
+
+Fall 2023
+
+Course number: 04910
+
+Title: Entrepreneurship Project
+
+Units: VAR
+
+Section: A
+Instructors: Cox-Boyd, Rendulic
+
+Spring 2024
+
+Course number: 85510
+
+Title: Research in Psychology - Mini
+
+Units: VAR
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cox-Boyd
+
+Spring 2024
+
+Course number: 85602
+
+Title: Senior Thesis
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Thiessen
+
+Spring 2024
+
+Course number: 85710
+
+Title: Graduate Core Course: Developmental
+(2) Date -  July 22 ; Day - Friday ; Event - Mini-6 pass/no pass & withdrawal deadline (3) Date -  July 29 ; Day - Monday ; Event - Semester & Mini-6 Faculty Course Evalutations open Date -  August 1 ; Event - Semester & Mini-6 Last Day of ClassesSummer Semester 2024 (M24) Date - August 1 ; Day - Thursday ; Event - Semester & Mini-6 voucher deadline (4) Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Final Exams*** Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Faculty
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Final Exams***
+
+Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Faculty Course Evaluations close
+
+Date -  August 6 ; Event - Semester & Mini-6 Final Grades Due by 4 pm
+
+Semester (6 weeks): (M-6, Tu-6, W-6, Th-5, F-5) Total=28
+
+Date Day Event
+
+Date -  June 24 ; Day - Monday ; Event - Summer Semester Two Classes Begin
+
+
+Answer: 

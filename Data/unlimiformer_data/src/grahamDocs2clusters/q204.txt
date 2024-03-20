@@ -1,0 +1,19 @@
+Question: What pre-trained model does MOSAIC leverage knowledge from?
+
+Context: unified multi-sensory object property representations. While it is undeniable that visual information plays a prominent role, we acknowledge that many fundamental object properties extend beyond the visual domain to encompass attributes like texture, mass distribution, or sounds, which significantly influence how we interact with objects. In MOSAIC, we leverage this profound insight by distilling knowledge from the extensive pre-trained Contrastive Language-Image Pre-training (CLIP) model,
+data obtained through robotic object exploration. MOSAIC accomplishes this by distilling knowledge from the extensive pre-trained CLIP text model. To test our learned unified representations, we rely on a dataset where a robot engages with 100 objects, executing 10 exploratory behaviors while recording multiple sensory signals. The robot tackles two tasks reliant on perceiving object properties: object catego- rization and the fetch object task. The results highlight the ef- ficiency of our
+Fig. 1: Overview of the MOSAIC Framework: Initially, the robot collects sensory data through object exploration, which is then used to train models for distilling unified multimodal representations guided by a pre-trained text encoder. These acquired representations are subsequently applied to a variety of downstream tasks.
+systems. Our comprehensive curriculum equips you with the skills and knowledge to develop the layers of technology involved in the next generation of massive information system deployments and analyze the data these systems generate. When you graduate, you’ll have a unified vision of these systems from your core courses; internship experience; and semester-long, group-oriented capstone project. MCDS graduates are sought-after software engineers, data scientists and project managers at leading
+Innovation (MSAII) program is a successor to the M.S. in Biotechnology, Innovation and Computing (MSBIC). It combines a rigorous AI and machine learning curriculum with real-world team experience in identifying an AI market niche and developing a responsive product in cooperation with external stakeholders. The core program, which lasts four semesters and leads to a capstone project, focuses on both intrapreneurship and entrepreneurship, equipping graduates to either begin a startup or develop
+CMU's career and professional development model is grounded in discipline -specific career
+
+development, experiential learning, and employ er relations shaped by strong connections with
+
+the university's seven academic colleges. The center's success is founded upon a solid
+
+understanding of career and professional development theory, integration of technology, and
+
+an unwavering commitment to providing personalized attention towards meeting the unique
+
+
+Answer: 

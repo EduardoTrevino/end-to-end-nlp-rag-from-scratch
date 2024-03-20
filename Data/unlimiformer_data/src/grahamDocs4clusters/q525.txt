@@ -1,0 +1,181 @@
+Question: What type of models does the AV-SUPURB benchmark evaluate?
+
+Context: CUTTLEFISH: Low-rank Model Training without All The Tuning
+
+Table 4. Vanilla BERTBASE, Distill BERT, Tiny BERT6, as well as CUTTLEFISH BERTBASE are evaluated on the GLUE benchmark. F1 scores are used as the metric for QQP and MRPC, while Spearman correlations are reported for STS-B, and accuracy scores are reported for the remaining tasks.
+
+Model
+
+# Params. (M )
+
+MNLI
+
+QNLI QQP
+
+RTE
+
+SST-2 MRPC CoLA STS-B Avg.
+
+BERTBASE Distill BERT
+
+108.3
+
+65.8
+
+83.9/84.4
+
+81.1/82.0
+
+90.9
+
+89.1
+
+87.6
+
+86.2
+Speech processing Universal PERformance Benchmark (SU- PERB) is a leaderboard to benchmark the performance of Self- Supervised Learning (SSL) models on various speech process- ing tasks. However, SUPERB largely considers English speech in its evaluation. This paper presents multilingual SUPERB (ML-SUPERB), covering 143 languages (ranging from high- resource to endangered), and considering both automatic speech recognition and language identification. Following the concept of SUPERB, ML-SUPERB
+We use LLaVA-Bench (Liu et al., 2023a) and our MMHAL-BENCH as our main evaluation met- rics for their high alignment with human preferences. In addition, we conducted tests on widely- recognized Large Multimodal Model benchmarks. We employed MMBench (Liu et al., 2023b), a multi-modal benchmark offering an objective evaluation framework comprising 2,974 multiple- choice questions spanning 20 ability dimensions. This benchmark utilizes ChatGPT to juxtapose model predictions against desired
+Title: Engineering AI Project Methods
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 06:00PM
+
+End: 07:50PM
+
+Room: CMR F205
+
+Locations: Kigali, Rwanda
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 04654
+
+Title: Introduction to Probabilistic Graphical Model:
+
+Units: 12.0
+
+Section: J,
+
+Days:  ,TR
+
+Start:  ,03:00PM
+
+End:  ,04:50PM
+
+Room:  ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Gueye, Mukamakuza
+
+Fall 2023
+
+Course number: 04655
+
+Title: Artificial Intelligence for Engineers
+
+Units: 12.0
+Instructors: Glymour,Wu,Bjorndahl,Spirtes,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Seidenfeld,Simons,Awodey,Smith,Werner,Avigad
+
+Fall 2023
+
+Course number: 80496
+
+Title: Undergraduate Independent Study Mini
+
+Units: VAR
+
+Section: I2,S2,E2,O2,Q2,P2,C2,R2,L2,G2,B2,J2,N2,F2,D2,H2,M2,T2,K2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Title: Applied Linear Models:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Ventura
+
+Fall 2023
+
+Course number: 36650
+
+Title: Statistical Computing
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: SH 234
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kuusela
+
+Fall 2023
+
+Course number: 36666
+
+Title: Special Topics: Statistical Methods in Finance
+
+Units: 9.0
+
+Section: A
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+Fringe vehicles often are named with the letter "B," like Boson, Blueshift, Bissa and Bumper. Other teams, such as Apex, often use names that connotate fire, while the SDC (Student Dormitory Committee) team, uses names such as Vice, Bane, Avarice and Malice.
+
+This year's buggy names will be under wraps until Thursday, when the Buggy Showcase will take place from noon to 2 p.m. in Weigand Gymnasium in the Cohon University Center. It's one of the few times spectators can see buggies up close.
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+The Office of the Assistant Vice Provost for Graduate Education (AVPGE) offers a robust schedule of professional development opportunities. Some are geared towards a specific population (master’s students, PhD students at the beginning of their program, graduate students seeking tenure track positions, etc.) and others are open to all graduate students (time management, balancing, staying healthy). A full schedule of programs can be found at: http://www.cmu.edu/graduate/.
+The Office of the Assistant Vice Provost for Graduate Education (AVPGE) offers a robust schedule of professional development opportunities. Some are geared towards a specific
+
+population (master’s students, Ph.D.  students at the beginning of their program, graduate
+
+students seeking tenure track positions, etc.) and others are open to all graduate students (time management, balancing, staying healthy) . A full schedule of programs can be found at:
+
+http://www.cmu.edu/graduate/
+
+.
+Analytics. Students electing to complete the Analytics concentration will also learn to:
+
+Design, implement and evaluate a software system and machine
+
+learning model on real world datasets at real world scale.
+
+Analyze and document data science requirements in different application domains and survey as well as critique state of the art solutions for those requirements.
+
+Systems. Students electing to complete the Systems concentration will also learn to:
+
+
+Answer: 

@@ -1,0 +1,29 @@
+Question: What percentage of the families investigated in "SHAP-based Prediction of Mother's History of Depression to Understand the Influence on Child Behavior" were white?
+
+Context: daily mood and a mother-adolescent datasets to predict affective state sequences where half the mothers experience symptoms of depression.
+We perform a human evaluation of the parent-child rela- tions in the development split of our dataset.5 We ﬁnd the accuracy to be 96.7%, highlighting the quality of our hierar- chical event structures.
+
+5 Methodology
+
+5.1 Baseline We use the standard retrieve and re-rank approach (Wu et al. 2020) as our baseline,
+https://doi.org/10.1038/s41467-023-40330-w
+
+in more distinct risk groups than single-phenotype PGS. The disorder with the largest increase in prediction accuracy from multi-PGS was ADHD, with a ninefold increased prediction R2over the single PGS (corresponding to ~40% of the SNP h2f35). This is mostly due to the inclusion of various behavioral PGS in our library (educational attain- ment, smoking status, etc.) with very large sample sizes and large genetic correlation with ADHD.
+dependency allowance of 10% of the student's monthly stipend to any student with a child, unless they have a spouse who earns more than $200 per month.
+
+The impact of outside fellowships and scholarships on departmental support -decrease by the
+
+amount, added bonus, etc.
+
+If a Ph.D.  student receives an outside graduate fellowship (e.g., NSF, Fulbright), the student is
+professional education. Drawing on Shaw’s plan and also on the work of other faculty members, an undergraduate program in computer science was created during the 1989-90 academic year. Seven CS majors were admitted to the program as sophomores. Another 73 undergraduates were admitted in 1990–91. By 1995, there were 401 undergraduates in the School of Computer Science; in fall 2013, more than 600 undergraduates made up about 37 percent of student enrollment at SCS, along with more than 600
+4.3.10  Accommodations for Gestational Parents  ........................................................................ 30
+
+4.3.11  Parental Accommodation for Doctoral Students  ............................................................. 31
+
+4.3.12  Financial Assistance for Student Parents  .......................................................................... 31
+
+4.3.13  Consensual Intimate Relationship Policy Regarding Undergraduate Students  .... 32
+
+
+Answer: 

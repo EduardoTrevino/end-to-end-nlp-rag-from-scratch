@@ -1,0 +1,189 @@
+Question: How large are the trained models by the authors of SantaCoder paper?
+
+Context: ﬁltering ablations. One of our main ﬁndings was that ﬁltering for Github stars consistently decreased performance across all benchmarks and programming languages. Using the ﬁndings of these abla- tion studies, we trained a ﬁnal 1.1B model—dubbed SantaCoder—for 236B tokens and showed it is able to outperform previous multi-lingual code models (InCoder-6.7B and CodeGen-Multi-2.7B) on both left-to-right generation and inﬁlling tasks. We anticipate that larger architectures and more training data
+Using the ﬁndings from these experiments, we train a ﬁnal 1.1B parameter model, dubbed SantaCoder, on Python, JavaScript, and Java. This model obtains comparable or stronger performance than previous open-source multilingual models, InCoder-6.7B and CodeGen- Multi-2.7B, on code generation and inﬁlling tasks on the MultiPL-E benchmark for these three languages, despite being substantially smaller.
+
+2 RELATED WORK
+6.2 FINAL MODEL
+
+Based on the insights from the architecture and dataset ablations, we train a ﬁnal model, which we call SantaCoder, with MQA and FIM and the two data ﬁlters that yielded the best results: more near- deduplication and comments-to-code ﬁlter. We train this model for 600K iterations (236B tokens) and keep all other hyper-parameters the same.
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Room:  ,POS 146
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Paulisick
+
+Fall 2023
+
+Course number: 11663
+
+Title: Applied Machine Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: SH 105
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11667
+
+Title: Large Language Models Methods and Application
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: BH A51
+
+Locations: Pittsburgh, Pennsylvania
+Course number: 17423
+
+Title: Designing Large-scale Software Systems
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 09:30AM,10:00AM
+
+End: 10:50AM
+
+Room: SH 238,SH 236
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Durschmid, Kang,Kang, Durschmid
+
+Spring 2024
+
+Course number: 17437
+
+Title: Web Application Development
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HOA 160
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lee, Eppinger
+
+Spring 2024
+But a few of the specific rules changed slightly, or are worth noting again: All drivers, pushers, designers and builders were required to members of the organization they’re competing for All team members (including designers and builders) must be “eligible” under the Executive Board’s requirements, which include a minimum of 36 units and being in good academic standing (with a minimum GPA requirement). The buggy/driver combo must weigh a minimum of 180 pounds (up from the previous 160 lbs)
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+4.4.3  Breadth Courses:  Machine Learning  ................................................................................ 15
+
+4.5 Practice Requirements  ................................................................................................................... 16
+
+4.6 Registration Process/Procedures  ................................................................................................. 17
+
+
+Answer: 

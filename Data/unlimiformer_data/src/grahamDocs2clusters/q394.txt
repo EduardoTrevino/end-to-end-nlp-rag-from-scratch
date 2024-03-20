@@ -1,0 +1,23 @@
+Question: What's the URL for the code and data of InPars-light
+
+Context: code and data is publicly available.https://github.com/searchivarius/inpars_light/
+3.3 InPars-light Training Recipe
+
+The InPars-light is not a new method. It is a training recipe, which a modification of the original InPars. Yet, it is substantially more cost effective for generation of synthetic queries, training the models, and inference. InPars-light has the following main “ingredients”:
+
+Using open-source models instead of GPT-3;
+
+Using smaller ranking BERT models instead of monoT5 rankers;
+
+Fine-tuning models on consistency-checked training data;
+Dai et al. (2022) used an InPars-like method called Promptagator and created synthetic training data using a huge proprietary FLAN-137B model with 137 billion parameters. Although they used modestly sized retrieval and ranking models with 110 million parameters, Dai et al. (2022) generated as many as million synthetic training queries for each dataset. In contrast, both InPars and InPars-light used only 100K queries per dataset, which was much less expensive (see a discussion in § A.2).
+The Carnegie Mellon Code can also be found on-line at: https://www.cmu.edu/student-affairs/theword/ . 2 The Language Technologies Institute 2.1 Main Office The Gates Hillman Complex: Mailboxes, printers, copiers, and other departmental resources are in GHC 5404. 112.2 Photocopies and Printers The use of a printer/copier requires a CS user id (see the ‘Computers’ section). The School of Computer Science provides several black-and-white and color printers for use by students. SCS Computing
+Information regarding the application of Title IX, including to admission and employment decisions, the sexual misconduct grievance procedures and process, including how to file a report or a complaint of sex discrimination, how to file a report of sexual harassment, and how the university responds to such reports is available at www.cmu.edu/title-ix . The Title IX 10coordinator may be reached at 412-268-7125 or tix@cmu.edu .
+
+1.7 The Carnegie Mellon Code
+A GPA of 3.0 or higher. (Students should report raw university GPA scores and NOT converted scores. Please DO NOT convert your international score to a US GPA or weighted GPA or other system).
+
+GRE scores: GRE is required. Our Institution Code is 2074; Department Code is 0402.
+
+
+Answer: 

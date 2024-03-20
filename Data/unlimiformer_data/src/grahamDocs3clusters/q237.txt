@@ -1,0 +1,180 @@
+Question: What is the 5 letter abbreviation for the MS in artificial intelligence and innovation degree?
+
+Context: Tushar Khot, Peter Clark, Michal Guerquin, Peter Jansen, and Ashish Sabharwal. 2020. QASC: A dataset for question answering via sentence compo- In The Thirty-Fourth AAAI Conference on sition. Artificial Intelligence, AAAI 2020, The Thirty-Second Innovative Applications of Artificial Intelligence Con- ference, IAAI 2020, The Tenth AAAI Symposium on Educational Advances in Artificial Intelligence, EAAI 2020, New York, NY, USA, February 7-12, 2020, pages 8082–8090. AAAI Press.
+[47] R. Tanaka, K. Nishida, and S. Yoshida. Visualmrc: Machine reading comprehension on In Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI 2021, document images. Thirty-Third Conference on Innovative Applications of Artificial Intelligence, IAAI 2021, The Eleventh Symposium on Educational Advances in Artificial Intelligence, EAAI 2021, Virtual Event, February 2-9, 2021, pages 13878–13888, 2021.
+Inception, Mohamed bin Zayed University of Artificial (MBZUAI), and Cerebras Systems. Arabic (MSA) and English Instruction-tuned model – 13B parameters. Text-only data. Model generates text. GPT-3 with dense attention, 40 decoder blocks, 40 attention heads, 5,120 hid- den size, SwiGLU activation, and ALiBi positional embeddings. Jais-chat was trained between 11 August 2023 and 13 August 2023. This static model has been trained using an offline dataset. As we enhance the model safety based on
+Title: Concepts in Artificial Intelligence:
+
+Units: 5.0
+
+Section:  ,A3
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,HOA 160
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Simmons
+
+Spring 2024
+
+Course number: 07400
+
+Title: Research Practicum in Computer Science
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martins
+
+Spring 2024
+
+Course number: 07590
+
+Title: Independent Study in CS Education (Undergraduate)
+Title: Applied AI (Artificial Intelligence):
+
+Units: 6.0
+
+Section:  ,A3,R3
+
+Days: R,
+
+Start:  ,05:30PM
+
+End:  ,07:20PM
+
+Room: TBA, ,B23 118
+
+Locations:  ,San Jose, California
+
+Instructors: Dai
+
+Spring 2024
+
+Course number: 49780
+
+Title: Human Computer Interaction & User Experience:
+
+Units: 6.0
+
+Section: B4, ,R4
+
+Days: R,
+
+Start:  ,07:30PM
+
+End:  ,09:20PM
+
+Room: TBA, ,B23 109
+
+Locations:  ,San Jose, California
+
+Instructors: Prayaga
+
+Spring 2024
+
+Course number: 49781
+Title: Engineering Artificial Intelligence Capstone
+
+Units: 12.0
+
+Section: A
+
+Days: T
+
+Start: 03:00PM
+
+End: 03:50PM
+
+Room: CMR F307
+
+Locations: Kigali, Rwanda
+
+Instructors: Wiecha
+
+Spring 2024
+
+Course number: 04980
+
+Title: MSIT Independent study
+
+Units: 3-15
+
+Section: A,E,I,B,F,G,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Kigali, Rwanda
+
+Instructors: Okeyo,Instructor TBA
+
+Spring 2024
+
+Course number: 04990
+
+Title: Research Project
+
+Units: VAR
+
+Section: A,E,B,F,G,C,D
+
+Days: TBA
+Master of Science in Intelligent Information Systems (MIIS)
+
+Master of Computational Data Science  (MCDS)
+
+Master of Science in Artificial Intelligence and Innovation  (MSAII)  LTI Ph.D.  Graduate Student Handbook  Page 10
+
+This handbook applies to the LTI Ph.D.
+
+The Ph.D.  in Language and Information Technologies (LTI Ph.D. ) is focused on understanding
+
+and extending the state of the art in computational linguistics, natural language processing,
+1
+
+Master of Science in
+
+Artificial Intelligence and Innovation
+
+(MSAII)
+
+Student Handbook
+
+2022-2023
+
+Revised:  October 2, 2022
+
+2
+
+Table of Contents
+
+1 Welcome  ............................................................................................................................... ................  6
+
+2 Mission, Vision and Philoso phy.............................................................................................................  6
+Innovation (MSAII) program is a successor to the M.S. in Biotechnology, Innovation and Computing (MSBIC). It combines a rigorous AI and machine learning curriculum with real-world team experience in identifying an AI market niche and developing a responsive product in cooperation with external stakeholders. The core program, which lasts four semesters and leads to a capstone project, focuses on both intrapreneurship and entrepreneurship, equipping graduates to either begin a startup or develop
+
+
+Answer: 

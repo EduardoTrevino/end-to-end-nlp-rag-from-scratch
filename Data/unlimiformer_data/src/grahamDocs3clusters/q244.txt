@@ -1,0 +1,178 @@
+Question: In fall 2023, When is Democracy Day and are there any classes?
+
+Context: Joyojeet Pal, Dinsha Mistree, and Tanya Madhani. In Ce- 2018. A friendly neighborhood hindu. DEM Asia 2018: Proceedings of the International Conference for E-Democracy and Open Govern- ment; Japan 2018, pages 97–121. Edition Donau- Universität Krems.
+Table 13: Full results on the PoliAff temporal task splits from Luu et al. (2021). This task evaluates classifica- tion of political affiliation from tweets, measured in Accuracy.
+
+Pretrain Finetune Time
+
+Time
+
+2012
+
+2013
+
+2014
+
+Eval Time
+
+2015 2016 2017 2018 2019 2020 2021
+
+LM-XL
+
+2013
+
+2016
+
+2019
+
+2022
+Mohamed Abdalla, Jan Philip Wahle, Terry Ruas, Au- rélie Névéol, Fanny Ducel, Saif M. Mohammad, and Karën Fort. 2023. The elephant in the room: Ana- lyzing the presence of big tech in natural language processing research.
+
+Nur Ahmed and Muntasir Wahed. 2020. The de- democratization of ai: Deep learning and the compute divide in artificial intelligence research.
+Instructors: Silverman
+
+Spring 2024
+
+Course number: 84324
+
+Title: The Future of Democracy
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PH 226C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chin
+
+Spring 2024
+
+Course number: 84325
+
+Title: Contemporary American Foreign Policy
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: PH 226B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stravers
+
+Spring 2024
+
+Course number: 84334
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sanford
+
+Fall 2023
+
+Course number: 79149
+
+Title: Ancient Rome: What Have the Romans Ever Done for Us?
+
+Units: 9.0
+
+Section: A,B,C,D,Lec
+
+Days: F,MW
+
+Start: 01:00PM,12:00PM,02:00PM
+
+End: 12:50PM,01:50PM,02:50PM
+
+Room: PH A22,PH 100,PH 226C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Erchak,Law,Thomas
+
+Fall 2023
+
+Course number: 79189
+
+Title: Democracy and History: Thinking Beyond the Self
+
+Units: 9.0
+
+Section: A,E,B,F,C,Lec,H
+
+Days: F,MW
+Fall 2023
+
+Course number: 80635
+
+Title: Social and Political Philosophy
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: BH 235A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wenner
+
+Fall 2023
+
+Course number: 80648
+
+Title: Health, Human Rights, and International Development
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 4623
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wenner
+
+Fall 2023
+
+Course number: 80681
+Democracy Day; No Classes, except Evening classes after 5 pm will still meet Date -  November 11 ; Event - Homecoming Date -  November 13 ; Event - 17 M-F Spring 2024 Registration Week Date -  November 13 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  November 15 ; Day - Wednesday ; Event - Mini-2 drop deadline; withdrawal grade assigned after this date (2) Date -  November 22 ; Event - 24 W-F Thanksgiving Break; No Classes Date -  November 27 ; Day - Monday ;
+(1) Date -  November 5 ; Day - Tuesday ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet Date -  November 11 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  November 13 ; Day - Wednesday ; Event - Mini-2 drop deadline; withdrawal grade assigned after this date (2) Date -  November 18 ; Event - 22 M-F Spring 2025 Registration Week Date -  November 25 ; Day - Monday ; Event - Mini-2 pass/no pass & withdrawal deadline (3) Date -
+Date -  October 27 ; Day - Friday ; Event - Mini-2 add, audit & tuition adjustment drop deadline (1)
+
+Date -  November 7 ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet
+
+Date -  November 11 ; Event - Homecoming
+
+Date -  November 13 ; Event - 17 M-F Spring 2024 Registration Week
+
+Date -  November 13 ; Day - Monday ; Event - Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+
+Answer: 

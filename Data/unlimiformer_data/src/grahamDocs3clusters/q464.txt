@@ -1,0 +1,166 @@
+Question: What number do all of the CFA Interdisciplinary classes start with?
+
+Context: 4Feature numbers start from 1. 5We report results for these two values as mild and severe cases of group bias. Our experiments with other values led to consistent results.
+
+Conference’17, July 2017, Washington, DC, USA
+Finally, regarding the number of cluster cen- ters, following the Log-Jump method of Shen et al. (2022), we choose 490 and 6687 clusters for OPIEC59k and ReVerb45k, respectively.
+Fig. 5 compares the confusion matrices obtained from six models. Each confusion matrix presents the number of true positives (TP), false positives (FP), false negatives (FN), and true negatives (TN) for binary classiﬁcation tasks. This study labels the classes ‘0’ for ‘Negative’ and ‘1’ for ‘Positive.’ The Switch Transformer model obtained the highest number of TP and TN, with 253 and 219, respectively. It misclassiﬁed 34 instances as false positives and 38 instances as false negatives.
+Course number: 57118
+
+Title: Instrumental Ensemble
+
+Units: 6.0
+
+Section: A
+
+Days: TWRF
+
+Start: 04:00PM
+
+End: 06:30PM
+
+Room: CFA ACH
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Vosburgh, Curtis, Cardenes, Story
+
+Fall 2023
+
+Course number: 57120
+
+Title: Elective Studio (Voice)
+
+Units: 3-9
+
+Section: A,E,I,B,F,G,C,D,J,H
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Aylmer,Abreu,Instructor TBA,Reyes-Mir,Teadt,Teaster,Lawrence
+
+Fall 2023
+Fall 2023
+
+Course number: 57743
+
+Title: Sonatas/Songs for Collaborative Pianists III
+
+Units: 3.0
+
+Section: A
+
+Days: M
+
+Start: 06:00PM
+
+End: 06:50PM
+
+Room: CFA ACH
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carver, Rissinger, Kim, Manriquez, Ojeda
+
+Fall 2023
+
+Course number: 57745
+
+Title: Chamber Music Coaching
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Manriquez
+
+Fall 2023
+
+Course number: 57746
+Course number: 57438
+
+Title: Multitrack Recording
+
+Units: 9.0
+
+Section: A3,A4
+
+Days: TR
+
+Start: 06:50PM
+
+End: 09:50PM
+
+Room: CFA A6
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Schulz
+
+Spring 2024
+
+Course number: 57446
+
+Title: Renaissance Counterpoint
+
+Units: 6.0
+
+Section: A
+
+Days: TR
+
+Start: 10:00AM
+
+End: 10:50AM
+
+Room: CFA A2
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Whipple
+
+Spring 2024
+
+Course number: 57447
+
+Title: Harp Pedagogy
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+also complete at least one concentration, consisting of three courses in one of three areas: Analytics, Systems, or Human-Centered Data Science. The remaining elective course can be any course with number 600 or above chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.  To maintain full-time enrollment status, a student must enroll in a minimum of 36 course units per semester.
+An “SCS course” is any 12 -unit course with a course number indicating a unit of the
+
+School of Computer Science (including LTI); a 6 -unit course with such a number counts
+
+as 1/2 of an SCS course. Unless otherwise specified, "course" means an actual classroom
+
+course, not credit given for research or independent study. Note: Recommended
+
+electives that are technically outside  of the SCS now count towards this requirement; for
+
+
+Answer: 

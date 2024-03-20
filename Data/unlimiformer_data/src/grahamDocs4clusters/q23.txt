@@ -1,0 +1,163 @@
+Question: When was aluminum first used to build buggies?
+
+Context: Azim T, Neamtiu I (2013) Targeted and depth-first exploration for systematic testing
+
+of android apps. In: OOPSLA. ACM, pp 641–660
+
+Bach T, Andrzejak A, Pannemans R, et al (2017) The impact of coverage on bug
+
+density in a large industrial software project. In: ESEM. IEEE, pp 307–313
+
+Baek YM, Bae D (2016) Automated model-based Android GUI testing using multi-
+
+level GUI comparison criteria. In: ASE. ACM, pp 238–249
+
+27
+
+context.
+
+guide.
+
+guide.
+
+tool.
+Disparities in compute access Many felt that building large-scale systems was increasingly out
+
+6Tambon et al. (2023) describe silent bugs in popular deep learning frameworks that escape notice due to undetected error propagation.
+I was intrigued by the idea hinted at that a program written around 1960 could solve as complex a problem as the Indian Village redesign / rebuild. The essential problem was to take a set of design requirements (141 of them), a set of interactions among them (about 1400 of them), and partition them into groups that represent coherent design subtasks (more or less) or components. Alexander’s approach was to create a goodness measure that would determine (numerically) how good a partition is.
+Instructors: Zacharias, Floyd
+
+Fall 2023
+
+Course number: 62371
+
+Title: Photography, The First 100 Years, 1839-1939
+
+Units: 9.0
+
+Section: A
+
+Days: M
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: PH A18B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: May
+
+Fall 2023
+
+Course number: 62398
+
+Title: Interdisciplinary Independent Study: Topics in Photography
+
+Units: 5,10
+
+Section: A,E,B,F,G,C,D,H
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+Title: Tech Start-up: Market Discovery
+
+Units: 6.0
+
+Section: A1
+
+Days: R
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1206
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: DeSantis
+
+Fall 2023
+
+Course number: 19672
+
+Title: Special Topics: Tech Start-up: Building Your Own Company
+
+Units: 6.0
+
+Section: A2
+
+Days: R
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: DeSantis
+
+Fall 2023
+
+Course number: 19677
+
+Title: Economics of Innovation Strategy
+Title: Physics First Year Seminar:
+
+Units: VAR
+
+Section:  ,A2
+
+Days: W,
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room: DH A325,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Luokkala
+
+Fall 2023
+
+Course number: 33104
+
+Title: Experimental Physics
+
+Units: 9.0
+
+Section: A,E,Lec 5,B,C,D,Lec 4,Lec 1,Lec 3,Lec 2
+
+Days: WF,MW,TR
+
+Start: 09:00AM,02:00PM,01:00PM,10:00AM,08:00PM,07:00PM
+
+End: 09:50PM,01:50PM,09:50AM,03:50PM,07:50PM,11:50AM
+
+Room: DH A331
+
+Locations: Pittsburgh, Pennsylvania
+SAE’s buggy as a “sleek aluminum auto”, and DTD’s letter to the editor in 1951 complaining that if a team had used a “Buick grill” they would have placed in Design Comp, we’ve determined that Buggy #4 (2nd from the left in the Design Comp photo below) is actually SAE’s design winner. For a better look at the design, check out the 1950 photos, which is a similar style (though with different wheels, a different pushbar, and likely some other changes).] 1949 Photos. Here are photos from 1949.
+The starting line from the inaugural race in June 1920 was outside what is now known as the College of Fine Arts building. Racers then traveled toward Margaret Morrison Carnegie Hall, went up Tech Street, down through Schenley Park and then turned back to campus. Buggies would then take pit stops and have their rear wheels swapped before heading back toward the starting line.
+
+Alpha Kappa Psi, the first sorority to enter a Buggy on race day, in 1922.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+14. Web search engines, 1994 The World Wide Web was still in its toddler stage when CMU researcher Michael “Fuzzy” Mauldin (CS’83,’89) developed one of the first successful search engines, Lycos. It was the most-visited site on the Web by 1999.
+Launching a Robotics Institute In 1979, an executive at Pittsburgh’s Westinghouse Electric Corp., Tom Murrin, collaborated with Jordan and Reddy to create the Robotics Institute, with Reddy as its first director. By 1982, the Computer Science Department included more than 30 faculty members and 100 graduate students.
+12. Java, 1991 As a CMU grad student, James Gosling (CS’83) worked on the Andrew project, which stressed interoperability between computers, whether they were Macs, IBMs or Unix machines. Those lessons served Gosling well when he developed Java, the first programming language able to run on almost any platform.
+
+
+Answer: 

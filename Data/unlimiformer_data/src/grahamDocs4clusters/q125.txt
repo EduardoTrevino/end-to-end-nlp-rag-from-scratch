@@ -1,0 +1,177 @@
+Question: Which ranker outperformed BM25 consistently in the InPars study?
+
+Context: original InPars study) we obtained substantial (7%-30%) and statistically significant improvements over BM25 (in nDCG and MRR) using only a 30M parameter six-layer MiniLM-30M ranker and a single three-shot prompt. In contrast, in the InPars study only a 100x larger monoT5-3B model consistently outperformed BM25, whereas their smaller monoT5-220M model (which is still 7x larger than our MiniLM ranker) outperformed BM25 only on MS MARCO and TREC DL 2020. In the same three-shot prompting scenario,
+In this scenario, we reproduce the key finding by Bonifacio et al. (2022): Generation of synthetic in-domain data using an InPars-like recipe permits training strong in-domain rankers using only a three-shot prompt and in-domain documents. However, if we use the original InPars recipe, only a large ranking model (DeBERTA- v3-435M) consistently outperforms BM25. This answers RQ1. With DeBERTA-v3-435M we obtain accuracy similar to that of monoT5-3B on four collections out of five, even though
+our 435M parameter DeBERTA v3 ranker was at par with the 7x larger monoT5-3B (average gain over BM25 of 1.3 vs 1.32): In fact, on three out of five datasets, DeBERTA slightly outperformed monoT5-3B. Finally, these good results were achieved by re-ranking only 100 candidate documents compared to 1000 used by Bonifacio et al. (2022). We believe that InPars-light is the first truly cost-effective prompt-based unsupervised recipe to train and deploy neural ranking models that outperform BM25. Our
+End: 12:45PM,12:50PM,02:50PM,03:50PM
+
+Room: DH A302,CMB 1185,BH 140A,CYH 100A
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Park,Koerner
+
+Fall 2023
+
+Course number: 36350
+
+Title: Statistical Computing:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room:  ,POS 152
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Townes
+
+Fall 2023
+
+Course number: 36395
+
+Title: Independent Study
+
+Units: VAR
+
+Section: A,C,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: BH 235B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hinkelman
+
+Spring 2024
+
+Course number: 76311
+
+Title: Independent Study in Humanities Analytics
+
+Units: 9-18
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 76317
+
+Title: Contemporary American Fiction
+
+Units: 9.0
+
+Section: A
+
+Days: R
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: BH 255B
+Spring 2024
+
+Course number: 52390
+
+Title: BXA Undergraduate Research Project
+
+Units: 3-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Murray, Hagan
+
+Spring 2024
+
+Course number: 52392
+
+Title: BXA Seminar III: Deconstructing Disciplines
+
+Units: 9.0
+
+Section: A
+
+Days: M
+
+Start: 06:00PM
+
+End: 06:50PM
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Marcum, Hagan
+
+Spring 2024
+
+Course number: 52401
+Tartan, Heat 1 saw a very tight race between KapSig, DTD, and PiKA, with KapSig winning in 3:24.5, DTD finishing in 3:25.1, and PiKA finishing in 3:26.3. Those were the top 3 times and they advanced to the finals. Prelim Heat 2 paired Beta, SAE, and DU, and SAE won the heat by default, as Beta was DQ’d for a pushbar violation and DU was DQ’d for a Hill 4-5 transition violation (the Tartan reports that they “shoved the buggy into the last zone instead of pushing it”). Prelims Heat 3 was a battle
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+1948 – Another angle of the neck-and-neck finish of the Finals (from the 05-18-1948 Tartan). DTD, on the left, won the race, with KapSig, on the right, less than 1 second behind.
+
+1948 – DTD’s winning buggy (from the 1949 Thistle).
+
+1948 – KapSig’s buggy at a Back Hills transition (from the 1949 Thistle).
+
+1948 – DTD’s winning buggy (photo from the BAA Archives, courtesy of Amy Bluma) 1949 Raceday: Prelims on Friday, May 13 at 10:30am; Finals on Saturday, May 14 at 1:00pm
+AI Innovation (11-654) – Prereq uisite is the completion of 11- 695 with a grade of “B” or
+
+better.
+
+Capstone (11-699) – Prerequisite is the completion of 11-654 with a grade of “B” or better.
+
+Students are required to repeat any required cour se that they have completed with a grade less
+
+than the required minimum, preferably at the nex t offering. (Please note that Core courses and
+
+Knowledge courses are only offered once per year.) Students will be  allowed to retake a required
+4.1.4  Pass/Fail Grades ...................................................................................................................... 25
+
+4.1.5  Transfer Credit  ........................................................................................................................ 25
+
+4.1.6  Residency Requirements  ...................................................................................................... 25
+graded on the 4.3 grading standard http://www.cmu.edu/policies/documents/Grades.html. MCDS students must maintain a 3.0 overall average each semester to remain in good standing. A student must obtain a B- or better grade in all courses, which count towards core requirements. If a student 19receives a C- or better, that course may count as an elective towards the degree requirements. All courses must receive a letter grade; courses taken pass/fail do not count towards the MCDS degree.
+
+
+Answer: 

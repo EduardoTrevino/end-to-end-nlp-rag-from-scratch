@@ -1,0 +1,135 @@
+Question: What is Yonatan Bisk's job title?
+
+Context: Paper title: 'MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception' Published year: 2023 Publication venue or conference: arXiv.org Authors: Yonatan Bisk, Jonathan M Francis, Gyan Tatiya, Ho-Hsiang Wu, J. Sinapov Summary: This work pioneers the application of CLIP-based sensory grounding in robotics, promising a significant leap in multi-sensory perception capabilities for autonomous systems.
+Paper title: 'Reasoning about the Unseen for Efficient Outdoor Object Navigation' Published year: 2023 Publication venue or conference: arXiv.org Authors: Quanting Xie, Tianyi Zhang, Yonatan Bisk, Kedi Xu, M. Johnson-Roberson Summary: A new task OUTDOOR is introduced, a new mechanism for Large Language Models (LLMs) to accurately hallucinate possible futures, and a new computationally aware success metric for pushing research forward in this more complex domain are introduced.
+Hao Zhu, Graham Neubig, and Yonatan Bisk. Few-shot language coordination by modeling theory of mind. In International Conference on Machine Learning, pp. 12901–12911. PMLR, 2021.
+
+Hao Zhu, Yonatan Bisk, and Graham Neubig. Simulated language learning through communicative goals and linguistic input. Proceedings of the Annual Meeting of the Cognitive Science Society, 44:1351–1358, 2022.
+
+A APPENDIX
+
+A.1 FULL EFFECTS OF DISTRACTOR DIFFICULTY
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bisk
+
+Fall 2023
+
+Course number: 11910
+
+Title: Directed Research:
+
+Units: 1-48
+
+Section: A, ,PP
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room: TBA,
+
+Locations:  ,Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+
+Course number: 11920
+
+Title: Independent Study: Breadth
+
+Units: 1-48
+
+Section: E,I,AC,BC,AD,AE,F,CC,D,AH,U,BD,PP,BB,AW,P,C,EE,DD,J,AV,AB,A,S,K,Y,SS,W,B,T,AI,H,L,M,R,AA,N,O,Q,X,Z,G,AJ,QQ,AF,V
+
+Days: TBA
+Instructors: Bisk,Yang,Eskenazi,Gormley,Mortensen,Waibel,Brown,Lee,Cassell,Sycara,Morency,Frederking,Rosenfeld,Kolter,Instructor TBA,Poczos,Salakhutdinov,Mitamura,Lipton,Mostow,Berg-Kirkpatrick,Levin,Cohen,Oh,Strubell,Fahlman,Hauptmann,Callan,Mitchell,Xing,Nyberg,Neubig,Smith,Young,Tsvetkov,Rose,Stern,Rudnicky,Ramakrishnan,Watanabe,Hong,Tomasic
+
+Spring 2024
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+Room: SH 105,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Bisk, Diaz
+
+Spring 2024
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: TEP 1403,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Neubig
+
+Spring 2024
+
+Course number: 11712
+
+Title: Lab in Natural Language Processing: Self-Paced
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+Fringe vehicles often are named with the letter "B," like Boson, Blueshift, Bissa and Bumper. Other teams, such as Apex, often use names that connotate fire, while the SDC (Student Dormitory Committee) team, uses names such as Vice, Bane, Avarice and Malice.
+
+This year's buggy names will be under wraps until Thursday, when the Buggy Showcase will take place from noon to 2 p.m. in Weigand Gymnasium in the Cohon University Center. It's one of the few times spectators can see buggies up close.
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+position. Students may use their consulting time to perform unpa id work on research projects
+
+for CMU faculty for up to 10 hours per week.
+
+Students may serve as teaching assistants for CMU faculty. TA work is inconsistent with
+
+research because of the necessary time commitm ent. Students must choose one activity or the
+
+other, not both.
+
+Note that there is an English language proficienc y requirement for TAs. Graduate students are
+The Office of Research Integrity & Complian ce (ORIC) is designed to support research at
+
+Carnegie Mellon University. The staff work with  researchers to ensure research is conducted
+
+with integrity and in accordance with federa l and Pennsylvania regulation. ORIC assists
+
+researchers with human subject re search, conflicts of interest, re sponsible conduct of research,
+
+export controls, and institutional animal care & us e.  ORIC also provides consultation, advice,
+
+
+Answer: 

@@ -1,0 +1,191 @@
+Question: What is the proposed learning objective to improve perceptual quality of speech?
+
+Context: This paper makes the following contributions:
+
+1. We propose a new evaluation method for TTS that captures distributional similarity between real and synthetic speech as a proxy for perceptual speech quality tests.
+
+2. We compare the proposed metric to multiple automatic metrics and Mean Opinion Score (MOS), and show that our metric correlates well with human-provided MOS.
+
+2. BACKGROUND: SPEECH SYNTHESIS AND EVALUATION
+[37] A. Fan, E. Grave, and A. Joulin, “Reducing transformer depth on demand with structured dropout,” in Proc. ICLR, 2020.
+
+[38] J. Lee and S. Watanabe, “Intermediate loss regularization for ctc-based speech recognition,” in Proc. ICASSP, 2021.
+
+[39] C. K. Reddy, V. Gopal, and R. Cutler, “Dnsmos p.835: A non- intrusive perceptual objective speech quality metric to evaluate noise suppressors,” in Proc. ICASSP, 2022.
+we have used a mixed training objective to optimize a speciﬁc measure with reinforcement training objective Lrl as well as to increase quality and readability of the output with maximum-likelihood training objective Lml.
+
+4. Experiments and quantitative results We evaluate the effectiveness of the proposed similarity measures and abstractive summariza- tion model, along with the pre-trained language models and datasets used in our experimental framework.
+Course number: 80788
+
+Title: Acoustics of Human Speech: Theory, Data, and Analysis
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bjorndahl
+
+Spring 2024
+
+Course number: 80811
+
+Title: Professional Development Seminar
+
+Units: 6.0
+
+Section: A,C,B
+
+Days: M
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: BH 145C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zaffora Blando
+
+Spring 2024
+
+Course number: 80814
+Title: Mind and Body: The Objective and the Subjective
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: WEH 6423
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wu
+
+Spring 2024
+
+Course number: 80280
+
+Title: Linguistic Analysis
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH 125B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Werner
+
+Spring 2024
+
+Course number: 80283
+
+Title: It Matters How You Say It
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+Spring 2024
+
+Course number: 39251
+
+Title: CIT Undergraduate Projects
+
+Units: 0-18
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 39310
+
+Title: Experiential Learning III
+
+Units: 0.0
+
+Section: B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kissel, Zapanta, Larsen, Shukla, Bonime
+
+Spring 2024
+
+Course number: 39402
+
+Title: Leadership Development Seminar
+To support the athletics department’s fundraising initiatives, including, but not limited to, annual giving to the Tartan Funds, and major gifts for capital projects. To regularly engage athletics alumni, both on and off campus. To communicate major athletics department and Club initiatives to university stakeholders. To provide advice and counsel to the athletics department administration. To raise awareness of athletics programs to students, alumni and the community at-large. Other goals as
+alumni relations, increase the visibility of athletics throughout the CMU community and support additional initiatives of the CMU Athletics Department.
+Mission:  The Carnegie Mellon University Tartan Athletics Club strives to support, grow and develop the athletics program by engagement of alumni, students, friends and leadership of Carnegie Mellon University. The Club will support the goals and mission of the athletics department, within the context of the University’s goals and mission. The Club will pursue targeted strategies to develop and enhance alumni relations, fundraising, development and other initiatives as determined by the Club
+spaces for students to engage in their coursework and  approach to learning through many group
+
+and individual program options. SASC supports student success by providing academic coaching,
+
+subject -specific tutoring, effective communication strategies, accommodations for students with
+
+disabilities, and language support for multilingual learners. SASC engages with faculty and staff
+
+to improve the coordination and professional development for academic advisors. Visit the SASC
+create and disseminate knowledge and art through research and artistic expression, teaching
+
+and learning and transfer to society, to serve students by teaching them leadership and
+
+problem -solving skills, and the values of quality, ethical behavior, responsibility to society and
+
+commitments to work, to pursue the advantages provided by a diverse community, open to the
+
+exchange of ideas, where discovery and artistic creativity can flourish.
+and individual program options. SASC supports student success by providing academic
+
+coaching, subject -specific tutoring, effective communication strategies, accommodations for
+
+students with disabilities, and language support for multilingual learners. SASC engages with faculty and staff to improve the coordination and professional development for academic advisors. Visit the SASC website for more information about services offered in areas such as
+
+
+Answer: 

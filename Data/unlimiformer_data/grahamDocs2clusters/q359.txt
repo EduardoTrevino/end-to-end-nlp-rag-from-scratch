@@ -1,0 +1,103 @@
+Question: In spring 2024, Who are the instructors for course 17313?
+
+Context: Start: 07:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM,03:30PM
+
+End: 12:50PM,01:50PM,09:50AM,07:50PM,02:50PM,04:50PM,11:50AM,10:50AM
+
+Room: SH 238,PH 126A,POS 147,WEH 5316,WEH 7500,PH 125B,WEH 5328
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Aldrich, Garrod, Lacomis,Garrod, Aldrich, Lacomis
+
+Spring 2024
+
+Course number: 17313
+
+Title: Foundations of Software Engineering
+
+Units: 12.0
+
+Section: A,E,B,F,C,D,Lec
+
+Days: M,TR
+Instructors: Mozisek,Reynolds
+
+Spring 2024
+
+Course number: 99430
+
+Title: General Studies Capstone Course
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Braun, Whitworth
+
+Spring 2024
+
+Course number: 99735
+
+Title: Proseminar in Entrepreneurial Leadership
+
+Units: 1.0
+
+Section: A
+
+Days: F
+
+Start: 01:30PM
+
+End: 02:20PM
+
+Room: PH A19D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mawhinney
+
+Spring 2024
+
+Course number: 99785
+Instructors: Howard,Dealmeida,Pukinskis,Sullivan,Almarza,Kostyniak,Vosburgh,Cardenes,Wu,Houlik,Spacagna,Caballero,Howell,Schepkin,Instructor TBA,Van Hoesen,Gruber,Cherian,McGhee,Knox,Branson, Evans, Allen,Goeres,Dee,Rusinek,Aylmer,Whipple,Kush,Carlisle,Marcinizyn,van der Sloot,Laduke,Williams,Berntsen,Harding,Premo,Teadt,Galbraith,Chiu
+
+Spring 2024
+
+Course number: 57498
+
+Title: BXA Studio (3rd semester)
+
+Units: 9.0
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+By awarding an “I” grade, an instructor must spe cify the requirements for the completion of the
+
+work and designate a default letter grade in th e event that the student fails to complete the
+
+remaining work.
+
+Students must complete the required course work  by no later than th e end of the following
+
+academic semester or sooner if  required by the instructor.
+
+The instructor must record the permanent cours e grade by the last day of the examination
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+
+
+Answer: 

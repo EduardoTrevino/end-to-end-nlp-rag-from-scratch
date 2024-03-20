@@ -1,0 +1,186 @@
+Question: In spring 2024, What is the course number for Game Theoretic Probability, Statistics and Learning?
+
+Context: [109] Chenguang Wang, Yaodong Yang, Oliver Slumbers, Congying Han, Tiande Guo, Haifeng Zhang, and Jun Wang. A game-theoretic approach for improving generalization ability of TSP solvers. arXiv preprint arXiv:2110.15105, 2021.
+
+16
+
+[110] Runzhong Wang, Zhigang Hua, Gan Liu, Jiayi Zhang, Junchi Yan, Feng Qi, Shuang Yang, Jun Zhou, and Xiaokang Yang. A bi-level framework for learning to solve combinatorial optimization on graphs. arXiv preprint arXiv:2106.04927, 2021.
+Frontiers in Computer Science
+
+04
+
+10.3389/fcomp.2023.1085507
+
+diﬀerent themes (Haunted House, Wild West, Space Adventure, Amusement Park), playing a variety of small games in each theme area predestined to learn decimals. The youngster’s progress is made through a sequence of steps in the park and players are graphically shown the next game (McLaren et al., 2017).
+Fatemehsadat Mireshghallah, Kartik Goyal, and Taylor Berg-Kirkpatrick. 2022. Mix and match: Learning- free controllable text generation using energy lan- guage models. arXiv preprint arXiv:2203.13299.
+
+Karthik Narasimhan, Tejas D. Kulkarni, and Regina Barzilay. 2015. Language understanding for text- based games using deep reinforcement learning. In EMNLP, pages 1–11.
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Heidari, London
+
+Spring 2024
+
+Course number: 10880
+
+Title: Game Theoretic Probability, Statistics and Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ramdas
+
+Spring 2024
+
+Course number: 10920
+
+Title: Graduate Reading and Research
+
+Units: 12-48
+
+Section: A
+
+Days: TBA
+
+Start:
+Instructors: Gordon, Talwalkar
+
+Spring 2024
+
+Course number: 10422
+
+Title: Foundations of Learning, Game Theory, and Their Connections
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: GHC 4211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Balcan
+
+Spring 2024
+
+Course number: 10423
+
+Title: Generative AI
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gormley, Li, Lipton
+
+Spring 2024
+Spring 2024
+
+Course number: 15659
+
+Title: Probability and Computing
+
+Units: 9.0
+
+Section: A,B,C,D,Lec
+
+Days: F,TR
+
+Start: 12:30PM,01:00PM,09:00AM,02:00PM
+
+End: 01:50PM,02:50PM,09:50AM
+
+Room: GHC 4401,BH A53,WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Harchol-Balter, Wang
+
+Spring 2024
+
+Course number: 15661
+
+Title: Interaction and Expression using the Pausch Bridge Lighting
+
+Units: 4.0
+
+Section: A4
+
+Days: R
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: GHC 4301
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+
+
+Answer: 

@@ -1,0 +1,47 @@
+Question: Where was "End-to-End Speech Recognition: A Survey" published?
+
+Context: Paper title: 'End-to-End Speech Recognition: A Survey' Published year: 2023 Publication venue or conference: IEEE/ACM Transactions on Audio Speech and Language Processing Authors: Tara N. Sainath, R. Schluter, Takaaki Hori, Shinji Watanabe, Rohit Prabhavalkar Summary: A taxonomy of E2E ASR models and corresponding improvements is provided, and their properties and their relationship to classical hidden Markov model (HMM) based ASR architectures are discussed.
+S. Watanabe, T. Hori, S. Kim, J. R. Hershey, and T. Hayashi, “Hy- brid CTC/attention architecture for end-to-end speech recognition,” IEEE Journal of Selected Topics in Signal Processing, vol. 11, no. 8, pp. 1240–1253, 2017.
+
+[24] A. Graves, S. Fern´andez, F. Gomez, and J. Schmidhuber, “Connec- tionist temporal classification: Labelling unsegmented sequence data with recurrent neural networks,” in Proceedings of the 23rd interna- tional conference on Machine learning, 2006, pp. 369–376.
+[21] A. Radford, J. W. Kim, T. Xu, G. Brockman, C. McLeavey, and I. Sutskever, “Robust speech recognition via large-scale weak supervi- sion,” arXiv preprint arXiv:2212.04356, 2022.
+
+[22]
+
+S. Watanabe et al., “ESPnet: End-to-end speech processing toolkit,” in Proc. Interspeech, 2018, pp. 2207–2211.
+
+[23]
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

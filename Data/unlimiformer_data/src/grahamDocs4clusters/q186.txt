@@ -1,0 +1,253 @@
+Question: Which was the the first U.S. school to award a degree in drama?
+
+Context: 3 2 0 2
+
+y a M 6 2
+
+] L C . s c [
+
+1 v 4 7 1 7 1 . 5 0 3 2 : v i X r a
+
+1
+
+From Dogwhistles to Bullhorns: Unveiling Coded Rhetoric with Language Models
+
+Julia Mendelsohn♢ ∗
+
+Ronan Le Bras♣
+
+Yejin Choi♠♣
+
+Maarten Sap♡♣
+
+♢University of Michigan School of Information
+
+♣Allen Institute for AI
+
+♠Paul G. Allen School of Computer Science & Engineering, University of Washington ♡Language Technologies Institute, Carnegie Mellon University
+
+# juliame@umich.edu
+
+(cid:128) dogwhistles.allen.ai
+
+Abstract
+What university did Joe Biden attend?What degree did Joe Biden earn?
+
+.Ask a question to which the answer is “the University of Pennsylvania”Ask a question to which the answer is “a law degree”
+
+implicit query by maskingexplicit query by question generation
+
+Joe Biden attended the University of Pennsylvania
+
+Joe Biden attended , where he earned .LM such as ChatGPT
+
+, where he earned a law degree
+Context Sentence: a) "He graduated in 1994 with a bachelor ’s degree in sociol- ogy ." b) "In 1976 , he graduated from Oneonta with a bachelor ’s degree in so- ciology ." c) "In 1991 , he graduated with bachelor ’s degrees in linguistics and diplomacy ."
+
+Given this context, would B.A and bach- elor link to the same entity’s article on Wikipedia? Yes
+
+1) Duke of York
+Course number: 54177
+
+Title: Foundations of Drama I
+
+Units: 6.0
+
+Section: A,B
+
+Days: TR
+
+Start: 09:00AM,02:00PM
+
+End: 10:20AM,03:20PM
+
+Room: WEH 5304,PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Prendergast
+
+Fall 2023
+
+Course number: 54183
+
+Title: Documentary Theater
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A20
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Miller, Thoni
+
+Fall 2023
+
+Course number: 54187
+Fall 2023
+
+Course number: 54281
+
+Title: Foundations of Drama II
+
+Units: 6.0
+
+Section: A,B
+
+Days: TR
+
+Start: 09:30AM,02:00PM
+
+End: 10:50AM,03:20PM
+
+Room: PH A21,WEH 5328
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Olmstead
+
+Fall 2023
+
+Course number: 54284
+
+Title: Fundamentals of Directing
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 01:00PM
+
+End: 03:50PM
+
+Room: PCA 118
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Roth
+
+Fall 2023
+
+Course number: 54285
+Course number: 54241
+
+Title: Dramaturgy 5: Dramaturgy in Translation
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PH A21A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Good
+
+Fall 2023
+
+Course number: 54245
+
+Title: Who Wore What: When, Where, and Why
+
+Units: 6.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: PCA 305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brownlee
+
+Fall 2023
+
+Course number: 54247
+
+Title: Dramaturgy 6: In Company
+
+Units: 9.0
+front hills, causing more congestion for spectators on those hills. A police tow truck was present, but it was not permitted to clear the street. Up the front hills, DTD was in the lead, followed by PiKA and KapSig. DTD went into the freerolls first, but the drama was behind them. As PiKA entered the freeroll, PiKA’s buggy crowded KapSig’s buggy and forced KapSig wide, causing KapSig to swerve and hit at least 1 spectator (the Tartan says that KapSig “got out pencil and paper to try to figure
+The starting line from the inaugural race in June 1920 was outside what is now known as the College of Fine Arts building. Racers then traveled toward Margaret Morrison Carnegie Hall, went up Tech Street, down through Schenley Park and then turned back to campus. Buggies would then take pit stops and have their rear wheels swapped before heading back toward the starting line.
+
+Alpha Kappa Psi, the first sorority to enter a Buggy on race day, in 1922.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+It expanded from two buildings into an elegant 20th century campus designed in the beaux arts architectural style, housing a wealth of machine shops, studios and laboratories — the hands-on center of learning that persists today. It pioneered conservatory degree programs in music and drama, in addition to visual art and design programs. The first U.S. drama degree was awarded in 1914 at Carnegie Tech. It began offering graduate degrees. In 1919, the first doctorate (in civil engineering) was
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+
+
+Answer: 

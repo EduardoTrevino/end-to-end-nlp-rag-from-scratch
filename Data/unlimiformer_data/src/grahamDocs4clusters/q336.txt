@@ -1,0 +1,205 @@
+Question: What is the zero shot top-100 accuracy achieved by the chain-of-skills model on the dev set of HotpotQA?
+
+Context: Table 1: Zero-shot top-k accuracy on test sets for NQ, WebQ and EntityQuestions, and dev set for HotpotQA.
+
+Top-20 Top-100
+
+Top-20 Top-50 Top-100
+
+DPR-multi (Karpukhin et al., 2020) ANCE-multi (Xiong et al., 2021a)
+
+DPR-PAQ (Oguz et al., 2022) co-Condenser (Gao and Callan, 2022) SPAR-wiki (Chen et al., 2021b)
+
+79.5 82.1
+
+84.7 84.3 83.0
+
+86.1 87.9
+
+89.2 89.0 88.8
+
+CORE (Ma et al., 2022a)
+
+74.5
+
+82.9
+
+87.1
+
+COS COS w/ CORE configuration
+
+79.9 80.5
+
+88.9 88.6
+
+92.2 91.8
+We ran evaluations on VQAv2 [24] and image captioning on MS-COCO [34]. The results are presented in Tab. 7. We found that GILL is comparable to models trained with similar compute and data. On VQAv2, we achieve a zero-shot val accuracy of 0.3178, which is slightly better than prior approaches of similar model sizes and compute: FROMAGe [31] achieves a zero-shot accuracy of 0.2851, Frozen [56] achieves 0.2553, and MAGMA [19] achieves 0.2835. For image captioning on the MS-COCO (2017) validation
+In addition to the above evaluations, we also ran the zero- shot VQAv2 (Goyal et al., 2017). We apply the same nor- malization techniques from their GitHub repo6, and prompt the model with the prefix Q: {question} A: format. On zero-shot VQA, our model achieves a score of 28.51, which is better or comparable to prior methods: a reim- plementation of Frozen achieves 25.53, while running the MAGMA pretrained model (which uses 25M image-text as training data, including the VQA training set),
+Title: Strategic Presentation Skills
+
+Units: 6.0
+
+Section: M3,F4,D4,B3,A3,N3,E4
+
+Days: MW,TR
+
+Start: 09:30AM,11:00AM,02:00PM
+
+End: 10:50AM,12:20PM,03:20PM
+
+Room: HBH 1208,HBH 1007
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rosenberg,Hyatt
+
+Spring 2024
+
+Course number: 90720
+
+Title: Physical Technical Systems II
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 05:20PM
+
+Room: SH 234
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nock
+
+Spring 2024
+
+Course number: 90722
+Title: ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11424
+
+Title: Subword Modeling
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH 100
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mortensen
+
+Spring 2024
+
+Course number: 11441
+
+Title: Machine Learning with Graphs
+
+Units: 9.0
+End:  ,07:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Xing, Zhang
+
+Spring 2024
+
+Course number: 98097
+
+Title: Student Taught Courses (StuCo): Intro to 3D Modeling- Character Design Pipeline
+
+Units: 3.0
+
+Section: A
+
+Days: R
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: CYH 100A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Diel
+
+Spring 2024
+
+Course number: 98123
+
+Title: Student Taught Courses (StuCo): Introduction to Hand Lettering
+
+Units: 3.0
+
+Section: A
+
+Days: R
+Tartan, Heat 1 saw a very tight race between KapSig, DTD, and PiKA, with KapSig winning in 3:24.5, DTD finishing in 3:25.1, and PiKA finishing in 3:26.3. Those were the top 3 times and they advanced to the finals. Prelim Heat 2 paired Beta, SAE, and DU, and SAE won the heat by default, as Beta was DQ’d for a pushbar violation and DU was DQ’d for a Hill 4-5 transition violation (the Tartan reports that they “shoved the buggy into the last zone instead of pushing it”). Prelims Heat 3 was a battle
+the 3 teams qualifying for Finals, broke the post-war record. In the finals, it was another close battle, with DTD squeaking it out over PiKA. DTD’s winning time of 2:42.5 was fast enough to set the course record, and PiKA’s 2:43.5 was only ½ second behind the prior record. SAE’s Best Design. SAE took home the trophy for Design Comp with their sleek aluminum buggy. Unfortunately, we haven’t found a photo. [Ed. Update: Based on the buggies from 1950, the 1950 Thistle’s actual description of
+Sweepstakes Committee: Jack Johnson (Chair)
+
+Race Results: (1) DTD (2:42.5 – COURSE RECORD); (2) PiKA (2:43.5); (3) KapSig
+
+Design Comp: (1) SAE; (Honorable Mention) PiKA
+
+Weather: Sunny; 66-72 Degrees on Friday, 70-75 Degrees on Saturday
+
+In 1949, DTD earned its second straight nose-length victory and set a course record in doing so. Other than that, the year seemed uneventful.
+Students must demonstrate their mastery of material taught in courses and their success in applying their skills in directed stu dy by satisfying the following grade requirements .
+
+Minimum grade:  Only courses with a grade of B (3.0) or higher are counted as satisfying a degree
+
+requirement.
+
+Pass/fail:  Pass/fail grades are not permitted for courses and projects used to satisfy a degree
+
+requirement.
+
+3.1.3 Proficiency Requirements
+17. Robotic video cameras, 2001 When Baltimore Ravens quarterback Trent Dilfer dropped back to pass, TV viewers of Super Bowl XXXV saw something they’d never seen before --- the motion froze and the view suddenly rotated to show Dilfer’s opposite side. CBS called it Eyevision. The synchronized system of robotic cameras and advanced image processing was the brainchild of CMU’s Takeo Kanade, one of many advances he pioneered in computer vision.
+AI Innovation (11-654) – Prereq uisite is the completion of 11- 695 with a grade of “B” or
+
+better.
+
+Capstone (11-699) – Prerequisite is the completion of 11-654 with a grade of “B” or better.
+
+Students are required to repeat any required cour se that they have completed with a grade less
+
+than the required minimum, preferably at the nex t offering. (Please note that Core courses and
+
+Knowledge courses are only offered once per year.) Students will be  allowed to retake a required
+
+
+Answer: 

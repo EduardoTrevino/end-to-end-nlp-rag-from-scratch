@@ -1,0 +1,159 @@
+Question: Who is the first author on "Extracting Training Data from Diffusion Models"?
+
+Context: Paper title: 'Extracting Training Data from Diffusion Models' Published year: 2023 Publication venue or conference: USENIX Security Symposium Authors: Daphne Ippolito, Florian Tramèr, B. Balle, Milad Nasr, Matthew Jagielski, Eric Wallace, Nicholas Carlini, Vikash Sehwag, Jamie Hayes Summary: The results show that diffusion models are much less private than prior generative models such as GANs, and that mitigating these vulnerabilities may require new advances in privacy-preserving training.
+Nicholas, Jamie, Vikash, and Eric each indepen- dently proposed the problem statement of extracting training data from diffusion models.
+
+Nicholas, Eric, and Florian performed preliminary experiments to identify cases of data extraction in diffusion models.
+
+Milad performed most of the experiments on Stable Diffusion and Imagen, and Nicholas counted dupli- cates in the LAION training dataset; each wrote the corresponding sections of the paper.
+[11] Nicholas Carlini, Florian Tramer, Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts, Tom Brown, Dawn Song, Ul- far Erlingsson, et al. Extracting training data from large language models. In USENIX Security Sym- posium, 2021.
+
+[12] Andrew Carr. Gretel.ai: Diffusion models for document synthesis. https://gretel.ai/blog/ diffusion-models-for-document-synthesis, 2022.
+Instructors: Islam, Houser,Pistorius, Houser,O'Connor, Houser,Barati Farimani, Houser,Houser, Rohrer,Dickey, Houser,Towe,Houser, Skowronski,Kurchin, Houser,Bockstaller, Houser,Houser, Porter,Houser, Degraef,Rollett, Houser,Marom, Houser,Krause, Houser,Houser,Houser, Bettinger,Houser, Whitacre,Cohen-Karni, Houser,Houser, Taheri-Mousavi,Houser, Feinberg,Houser, Salvador,Webler, Houser
+
+Fall 2023
+
+Course number: 27766
+
+Title: Defects and Diffusion in Materials
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+Course number: 36402
+
+Title: Advanced Methods for Data Analysis
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: DH 2315
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shalizi
+
+Spring 2024
+
+Course number: 36410
+
+Title: Introduction to Probability Modeling
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Jin
+
+Spring 2024
+
+Course number: 36460
+
+Title: Special Topics: Sports Analytics
+Fall 2023
+
+Course number: 06663
+
+Title: Analysis and Modeling of Transport Phenomena
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: PH A18C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Panagakos
+
+Fall 2023
+
+Course number: 06700
+
+Title: M.S. Research
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Robinson
+
+Fall 2023
+
+Course number: 06702
+
+Title: Advanced Reaction Kinetics
+
+Units: 12.0
+
+Section: A
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+First freshman-level computer science course In 1956 and 1957, Simon, Allen Newell (IA’57) and Cliff Shaw of RAND designed the Logic Theorist, a computer program that could develop proofs for theorems in much the same way a human would work. They also developed linked-list data structures, the foundation of computer programming. Perlis, Simon and Newell are credited with defining the term “computer science” as “the theory and design of computers,” as well as (in Newell’s words) “the study of
+12. Java, 1991 As a CMU grad student, James Gosling (CS’83) worked on the Andrew project, which stressed interoperability between computers, whether they were Macs, IBMs or Unix machines. Those lessons served Gosling well when he developed Java, the first programming language able to run on almost any platform.
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+
+
+Answer: 

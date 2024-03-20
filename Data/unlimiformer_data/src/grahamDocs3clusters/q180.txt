@@ -1,0 +1,162 @@
+Question: What is the publication venue of "Assessment of quality of life after upper extremity transplantation: Framework for patient-reported outcome scale domains"?
+
+Context: Paper title: 'A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity' Published year: 2023 Publication venue or conference: arXiv.org Authors: Barret Zoph, S. Longpre, Daphne Ippolito, Emily Reif, Kevin Robinson, Jason Wei, Denny Zhou, Adam Roberts, Gregory Yauney, Katherine Lee, David M. Mimno Summary: These findings constitute the largest set of experiments to validate, quantify, and expose many undocumented intuitions about text
+[104] The Sedona Conference. 2009. Commentary on Achieving Quality in the E-Discovery Process. The Sedona Conference
+
+Journal 10 (2009).
+
+[105] Stephen Tomlinson and Bruce Hedin. 2017. Measuring Effectiveness in the TREC Legal Track. Springer Berlin Heidelberg,
+
+Berlin, Heidelberg, 163–182.
+
+[106] Anthony Trippe and Ian Ruthven. 2017. Evaluating Real Patent Retrieval Effectiveness. Springer Berlin Heidelberg,
+
+Berlin, Heidelberg, 143–162.
+In machine translation, Fernandes et al. (2022) and Freitag et al. (2022a) build upon recent ad- vances in automatic quality estimation and evalu- ation via feedback model training to improve gen- eration. Their framework comprises a candidate generation stage followed by a ranking stage, in which the candidates are scored using quality met- rics trained to regress on human assessments (re- ward models) (Rei et al., 2020a,b) via N -best list reranking or minimum Bayes risk (MBR) decod- ing
+Days: T
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: MM 103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Vavasis
+
+Spring 2024
+
+Course number: 48410
+
+Title: Advanced Synthesis Options Studio II
+
+Units: 18.0
+
+Section: A,E,B,F,G,C,D,Lec
+
+Days: TR
+
+Start: 01:00PM
+
+End: 04:50PM
+
+Room: CFA 200,POS 146,MM 312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hayes,Bista,Cupkova,Arscott,Damiani,Garofalo,Lee,Bizon
+
+Spring 2024
+
+Course number: 48425
+
+Title: EX-CHANGE: Exhibition & Publication in Practice
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: WEH 5415
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Vavasis
+
+Fall 2023
+
+Course number: 48727
+
+Title: Inquiry into Computational Design
+
+Units: 9.0
+
+Section: A
+
+Days: W
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: MM 303
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cardoso Llach
+
+Fall 2023
+
+Course number: 48729
+
+Title: Sustainability, Health and Productivity to Accelerate a Quality Built Environmen
+
+Units: 9-12
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room: PH A7F,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Christian
+
+Spring 2024
+
+Course number: 12711
+
+Title: BIM for Engineering, Construction and Facility Management:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,07:00PM
+
+End:  ,08:20PM
+
+Room: GHC 4307,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Kasireddy
+
+Spring 2024
+
+Course number: 12714
+
+Title: Environmental Life Cycle Assessment
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+The MLT thesis may focus on either a significant research result or a significant implementation of a new technology. The student should work with their adv isor to
+
+define an interesting but bounded thesis research project. The MLT thesis culminates in MLT Graduate Student Handbook  Page 16
+
+a publication -quality paper that clearly describes the work in terms of its research
+
+significance.
+
+The MLT thesis committee will be composed of a thesis advisor  and two additional
+20. Kidney donor matching, 2008 Organ transplants save lives every day, but more people could likely be saved if it was easier to match recipients with donors who are unrelated. An algorithm developed by CMU scientists is close to enabling a nationwide network that would match living kidney donors with potential recipients whom they've never met in real life.
+A review of the University’s Academic Disciplinary Actions procedures is also recommended. These procedures outline the process for investigating, reporting, and adjudicating violations of the University Policy on Academic Integrity. The procedures also outline the appeals process.
+
+https://www.cmu.edu/policies/student-and-student- life/academic -integrity.html
+
+In the midst of self- exploration, the high demands o f a challenging academic environment can
+
+
+Answer: 

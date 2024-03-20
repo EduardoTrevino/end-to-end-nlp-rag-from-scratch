@@ -1,0 +1,180 @@
+Question: In fall 2023, What is the title of course 05410?
+
+Context: Portnoﬀ (2018) says that the 10 years he has been a teacher in an introductory computer programming course, he has used
+
+Frontiers in Computer Science
+
+05
+
+10.3389/fcomp.2023.1085507
+Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong. 2023a. Compositional ex- emplars for in-context learning. arXiv preprint arXiv:2302.05698.
+
+Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. 2023b. In-context instruction learning. arXiv preprint arXiv:2302.14691.
+
+Yiming Zhang, Shi Feng, and Chenhao Tan. 2022a. Active example selection for in-context learning. CoRR, abs/2211.04486.
+Instructors: Carrington,Steinfeld,Wu,Harrison
+
+Fall 2023
+
+Course number: 05410
+
+Title: User-Centered Research and Evaluation:
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec,
+
+Days:  ,MW
+
+Start: 12:30PM, ,02:00PM
+
+End:  ,01:50PM,03:20PM
+
+Room: DH 2315,WEH 8427,PH 225B, ,GHC 4101,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Musuraca, Eslami,Eslami, Musuraca
+
+Fall 2023
+
+Course number: 05413
+
+Title: Human Factors
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: BH A53
+Fall 2023
+
+Course number: 05600
+
+Title: HCI Pro Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: W
+
+Start: 05:00PM
+
+End: 07:20PM
+
+Room: 3SC 172
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Willis
+
+Fall 2023
+
+Course number: 05610
+
+Title: User-Centered Research and Evaluation:
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec,
+
+Days:  ,MW
+
+Start: 12:30PM, ,02:00PM
+
+End:  ,01:50PM,03:20PM
+
+Room: DH 2315,WEH 8427,PH 225B, ,GHC 4101,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+Fall 2023
+
+Course number: 54101
+
+Title: Acting I
+
+Units: 10.0
+
+Section: A,C,B
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 11:20AM
+
+Room: PCA 321,PCA 314,PCA 318
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Smith,Rivera Lebron,Walker-Rhoze
+
+Fall 2023
+
+Course number: 54103
+
+Title: Speech I
+
+Units: 4.0
+
+Section: A,C,B
+
+Days: T
+
+Start: 03:00PM,10:30AM,01:30PM
+
+End: 11:50AM,02:50PM,04:20PM
+
+Room: PCA A41
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Logan
+
+Fall 2023
+
+Course number: 54105
+Elective course For more information on the MSAII program curriculum and requirements, see the program website. Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+
+
+Answer: 

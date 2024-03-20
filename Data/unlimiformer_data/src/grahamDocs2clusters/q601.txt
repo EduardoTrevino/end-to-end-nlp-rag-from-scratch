@@ -1,0 +1,57 @@
+Question: What are some of the under-served languages currently identified by GlobalBench?
+
+Context: Computational
+
+Computational
+
+Computational
+
+ACL.NasrinMostafazadeh,NathanaelChambers,XiaodongHe,DeviParikh,DhruvBatra,LucyVanderwende,PushmeetKohli,andJamesAllen.2016.Acorpusandclozeevaluationfordeeperunderstandingofcommonsensestories.In
+
+Human
+
+arXiv:1806.02847.AlexWang,YadaPruksachatkun,NikitaNangia,Aman-preetSingh,JulianMichael,FelixHill,OmerLevy,andSamuelRBowman.2019.Superglue:Astickierbenchmarkforgeneral-purposelanguageunderstand-ingsystems.
+
+Language
+Several existing benchmarks also include multilingual SSL models [13–15]. Lebenchmark primarily evaluates speech tasks in French [13]; IndicSUPERB focuses mostly on Indian lan- guages [14]. XTREME-S focuses on multilingual speech rep- resentation benchmarks, including ASR, speech translation, speech classification, and speech retrieval [15]. There are three main differences between XTREME-S and ML-SUPERB. Firstly, ML-SUPERB covers a wider range of languages, with 143 languages compared to
+onforCom-putationalLinguistics.RoldanoCattoni,MattiaAntoninoDiGangi,LuisaBen-tivogli,MatteoNegri,andMarcoTurchi.2021.Must-c:Amultilingualcorpusforend-to-endspeechtrans-lation.ComputerSpeech&Language,66:101155.SanyuanChen,ChengyiWang,ZhengyangChen,YuWu,ShujieLiu,ZhuoChen,JinyuLi,NaoyukiKanda,TakuyaYoshioka,XiongXiao,etal.2022.Wavlm:Large-scaleself-supervisedpre-trainingforfullstackspeechprocessing.IEEEJournalofSe-lectedTopicsinSignalProcessing,16(6):1505–1518.Shun-PoChuang,Yung-SungChuang,Chih-Ch
+4.4.2 Breadth Courses:  Language Technology Applications
+
+11-642, Search Engines
+
+11-688, Concepts in Digital Multimedia and Cyber Forensics
+
+11-692, Speech Processing
+
+11-697. Introduction to Q uestion Answering
+
+11-751, Speech Recognition and Understanding
+
+11-767, On -Service Machine Learning
+
+11-797, Question Answering
+
+11-830, Computational Ethics For NLP
+
+4.4.3 Breadth Courses:  Machine Learning
+
+11-641, Machine Learning for Text and Graph -Based Mining
+
+11-661, Language and Statistics
+contacting the language support team at the SASC website or attend a Language Support Orientation at the SASC or in your department.
+
+A.1.9  Office of International Education (OIE)
+
+www.studentaffairs.cmu.edu/oie/
+
+Carnegie Mellon hosts international graduate and undergraduate students who come from more than 90 countries. The Office of International Education (OIE) is the liaison to the University for all non -immigrant students and scholars, as well the repository for study abroad
+The Student Academic Success Center is also charged with certifying the language of International Teaching Assistants (ITAs), ensuring that nonnative English speakers have the language proficiency needed to succeed as te aching assistants in the Carnegie Mellon
+
+classroom. Students preparing to do an ITA Certification should plan to take classes offered by
+
+the language support team at the SASC website or attend a Language Support Orientation at
+
+the SASC or in your departmen t.
+
+
+Answer: 

@@ -1,0 +1,59 @@
+Question: Who is the first author of "Reverse-Engineering Decoding Strategies Given Blackbox Access to a Language Generation System"?
+
+Context: Paper title: 'Reverse-Engineering Decoding Strategies Given Blackbox Access to a Language Generation System' Published year: 2023 Publication venue or conference: International Conference on Natural Language Generation Authors: Daphne Ippolito, Milad Nasr, Yun William Yu, Nicholas Carlini, Katherine Lee Summary: Methods to reverse-engineer the decoding method used to generate text (i.e., top-_k_ or nucleus sampling) are presented, which has implications for detecting generated text.
+3 2 0 2
+
+p e S 9
+
+]
+
+G L . s c [
+
+1 v 8 5 8 4 0 . 9 0 3 2 : v i X r a
+
+Reverse-Engineering Decoding Strategies Given Blackbox Access to a Language Generation System
+
+Daphne Ippolito∗ dei@google.com
+
+Nicholas Carlini* ncarlini@google.com
+
+Katherine Lee* katherinelee@google.com
+
+Milad Nasr* miladnasr@google.com
+
+Yun William Yu† ywyu@math.toronto.edu
+
+Abstract
+
+sided die, we found that it only returns 14 of the 20 options, even though all should be equally likely.
+Language models are increasingly being incorporated into web applications and other user-facing tools.1 These applications typically do not provide direct access to the underlying language model or the decoding configuration used for generation. In this paper, we show how even in this blackbox setting, it is possible to identify the decoding strategy employed for generation. We consider the case where one only has access to a system that inputs a prompt and out- puts a generated response. We
+12. Java, 1991 As a CMU grad student, James Gosling (CS’83) worked on the Andrew project, which stressed interoperability between computers, whether they were Macs, IBMs or Unix machines. Those lessons served Gosling well when he developed Java, the first programming language able to run on almost any platform.
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+
+
+Answer: 

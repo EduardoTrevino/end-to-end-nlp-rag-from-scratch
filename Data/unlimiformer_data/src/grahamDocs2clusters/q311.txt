@@ -1,0 +1,31 @@
+Question: What country does the Dual-Degree Ph.D. in Language and Information Technologies have a partnership with?
+
+Context: Lan Anh Thuy Nguyen is a Ph.D. student at Doctoral School of Education, University of Szeged, Hun- gary, and she is on the Stipendium Hungaricum Scholarship program of the Hungarian government in collaboration with the Vietnamese government. Her research interests cover digital language learning, motivation in learning English as a foreign language, technology-based learning and assessment.
+Oana-Maria Camburu, Tim Rocktäschel, Thomas Lukasiewicz, and Phil Blunsom. 2018. e-snli: Natu- ral language inference with natural language expla- nations. Advances in Neural Information Processing Systems, 31.
+
+Hyung Won Chung, Le Hou, Shayne Longpre, Bar- ret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, et al. 2022. Scaling instruction-finetuned language models. arXiv preprint arXiv:2210.11416.
+
+Michael Cohen. 2021. Exploring roberta’s theory of
+Oana-Maria Camburu, Tim Rocktäschel, Thomas Lukasiewicz, and Phil Blunsom. 2018. e-snli: Natu- ral language inference with natural language expla- nations. Advances in Neural Information Processing Systems, 31.
+
+Aaron Chan, Zhiyuan Zeng, Wyatt Lake, Brihi Joshi, Hanjie Chen, and Xiang Ren. 2022. Knife: Knowl- edge distillation with free-text rationales. arXiv preprint arXiv:2212.09721.
+Language and Information Technologies in cooperation with: Universidade de Aveiro (Ph.D. in Computer Engineering), Universidade do Minho (Ph.D. in Informatics)  and the Universidade do Porto (FCUP, Ph.D. in Computer Science and FEUP, Ph.D. in Computer Science) as part of MAPi; Universidade de Lisboa, Faculdade de Ciências – FCUL (Ph.D. in Informatics) Universidade de Lisboa, Instituto Superior Técnico – IST  (Ph.D. in Computer Science and Engineering, Ph.D. in Electrical and Computer
+Learn at LTI The LTI's degree programs draw from a common set of courses and core skills, but emphasize different types of expertise that prepare you for a wide range of career options. All of our programs provide the hands-on experience and rigorous curriculum that are the hallmark of computer science at Carnegie Mellon. Program Type: Ph.D. Programs Program Name: Dual-Degree Ph.D. in Language and Information Technologies (Portugal Partnership) Overview: The LTI offers a dual-degree Ph.D. in
+Affairs web page , the Office of the Dean of Students web page , and other resources contained in
+
+Appendix A of this handbook.
+
+Welcome! We hope that your time here is a life -changing experience.
+
+1.1 Degrees Offered
+
+The Language Technologies Institute offers two Ph.D. programs and four Master degrees.
+
+Ph.D.  in Language and Information Technologies (LTI Ph.D. )
+
+Dual -Degree Ph.D. in Language and Information Technologies (CMU -PT Ph.D.)
+
+Masters in Language Technologies (MLT)
+
+
+Answer: 

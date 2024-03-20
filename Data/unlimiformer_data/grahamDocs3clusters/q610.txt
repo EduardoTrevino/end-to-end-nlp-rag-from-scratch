@@ -1,0 +1,154 @@
+Question: In 2011, an IBM computer defeated human champions on the “Jeopardy!” game show. What was the name of this computer?
+
+Context: [6] Peter Clark, Isaac Cowhey, Oren Etzioni, Tushar Khot, Ashish Sabharwal, Carissa Schoenick, and Oyvind Tafjord. Think you have solved question answering? try arc, the ai2 reasoning challenge. arXiv preprint arXiv:1803.05457, 2018. 10
+
+19
+
+[7] Together Computer. Redpajama: An open source recipe to reproduce llama train-
+
+ing dataset, 2023. 1, 3, 7, 11, 12, 17
+These and other methods have been programed for the IBM 7090, and are de- scribed in full elsewhere [3, 16]. It is important, and rather surprising, that the techniques do not suﬀer from the sampling diﬃculties often found in hill-climbing procedures, but gives extremely stable optima even for short computation times.
+
+1.4 My Failed First Attempts to Recreate Alexander’s Results
+Computers and their programs relish dwelling on ﬂaws in your thinking—Alexander was not exempt. By engaging in hermeneutics and software archeology, I was able to uncover / discover the trajectory of his thinking as he encountered failures and setbacks with his computer programs. My attempted replication also failed, and that led me to try to unearth the ﬁve diﬀerent programs he wrote, understand them, and ﬁgure out how one led to the next. They are not described in published papers, only in
+Title: Applied AI (Artificial Intelligence):
+
+Units: 6.0
+
+Section:  ,A3,R3
+
+Days: R,
+
+Start:  ,05:30PM
+
+End:  ,07:20PM
+
+Room: TBA, ,B23 118
+
+Locations:  ,San Jose, California
+
+Instructors: Dai
+
+Spring 2024
+
+Course number: 49780
+
+Title: Human Computer Interaction & User Experience:
+
+Units: 6.0
+
+Section: B4, ,R4
+
+Days: R,
+
+Start:  ,07:30PM
+
+End:  ,09:20PM
+
+Room: TBA, ,B23 109
+
+Locations:  ,San Jose, California
+
+Instructors: Prayaga
+
+Spring 2024
+
+Course number: 49781
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Touretzky
+
+Fall 2023
+
+Course number: 15888
+
+Title: Computational Game Solving:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: WEH 4625,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Sandholm, McAleer
+
+Fall 2023
+
+Course number: 15890
+
+Title: Computer Science Pedagogy:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,F
+
+Start:  ,10:00AM
+
+End:  ,12:50PM
+Room: BH 140A,WEH 5201,WEH 5202,MI AUD,BH 140B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Weinberg
+
+Fall 2023
+
+Course number: 36218
+
+Title: Probability Theory for Computer Scientists
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: R,TR
+
+Start: 09:30AM,07:00PM
+
+End: 10:50AM,07:50PM
+
+Room: DH 2315,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Genovese
+
+Fall 2023
+
+Course number: 36220
+
+Title: Engineering Statistics and Quality Control
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 11:00AM
+23. Question-answering computers, 2011 Searching the Web for information is rarely as simple as asking a question in plain English. So-called “question-answering” machines moved from laboratories to TV screens when an IBM computer called “Watson” defeated two human champions on the game show “Jeopardy!” At the heart of Watson was computer architecture developed by CMU’s Eric Nyberg and his students.
+11. Computer chess, 1990 Could a computer play chess at the level of the world’s best players? For many years, it was considered the “holy grail” of artificial intelligence. Hitech, developed by CMU researcher Hans Berliner (CS’74), was the first computer to achieve grandmaster status. CMU alumni played key roles in developing “Deep Blue,” the IBM machine that beat human chess champion Garry Kasparov in 1997.
+Turing Awards and a Nobel Prize In 1975, Simon and Newell were awarded the A.M. Turing Award for their work in artificial intelligence. (As of 2014, 12 CMU alumni or faculty have been awarded Turings, sometimes considered the Nobel Prize of computing.) Three years later, Simon received the Nobel Prize in Economics for his work on decision-making theory. As the 1970s progressed, Newell became interested in human-computer interaction, and began a long relationship with Xerox’s Palo Alto Research
+
+
+Answer: 

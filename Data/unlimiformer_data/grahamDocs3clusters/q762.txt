@@ -1,0 +1,164 @@
+Question: What is the novel architecture introduced in the paper "Efficient Sequence Transduction by Jointly Predicting Tokens and Durations"?
+
+Context: maintain dimensions that are congruent with GPT- 3 models. Additionally, all of our models are trained to handle a maximum sequence length of 2,048 tokens. The detailed architecture is shown in Table 4. Alibi [28]. Alibi introduces a more streamlined and efficient positional ap- proach called Attention with Linear Biases. Rather than adding positional em- beddings to word embeddings, ALiBi applies a bias to query-key attention scores, penalizing them based on their distance. SwiGLU [32]. SwiGLU
+Paper title: 'Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning' Published year: 2023 Publication venue or conference: Interspeech Authors: Xuankai Chang, Yuya Fujita, Takashi Maekaku, Shinji Watanabe, Brian Yan Summary: This paper proposes a new protocol that utilizes discretized token sequences in ASR tasks, which includes de-duplication and sub-word modeling to enhance the input sequence and reduces computational cost by decreasing the length of
+While this rate is efficient in most cases, we can further im- prove computational efficiency by removing repeated tokens and applying subword modeling. In [29], consecutively re- peated discrete tokens are combined into a single token. Sub- word modeling, originally proposed in [36, 37] to address the open vocabulary problem in text, was applied to discrete speech tokens from vector-quantization [30] to reduce time resolution by identifying and grouping frequently occurring patterns as a
+Title: Ethics and Policy Issues in Computing:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room: GHC 4307,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Dabbish, Skirpan
+
+Spring 2024
+
+Course number: 18390
+
+Title: ECE CO-OP
+
+Units: 0-3
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Spring 2024
+
+Course number: 18447
+
+Title: Introduction to Computer Architecture
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+Course number: 48234
+
+Title: Introduction to Structures
+
+Units: 3.0
+
+Section: A3,B3
+
+Days: W
+
+Start: 12:30PM,11:00AM
+
+End: 01:50PM,12:20PM
+
+Room: MM 303
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Segal
+
+Spring 2024
+
+Course number: 48240
+
+Title: History of World Architecture, I
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: MM A14
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shaw
+
+Spring 2024
+
+Course number: 48241
+
+Title: History of Modern Architecture
+Course number: 15735
+
+Title: Foundations of Blockchains
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shi
+
+Fall 2023
+
+Course number: 15740
+
+Title: Computer Architecture:
+
+Units: 12.0
+
+Section: A,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,GHC 4303
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Beckmann
+
+Fall 2023
+
+Course number: 15745
+
+Title: Optimizing Compilers for Modern Architectures
+for Graduate Education. The waiver request must explain the exceptional circumstances that warrant an extension. For cases in which a waiver is granted, the waiver wi ll cover specific
+
+courses and will specify a time period for completion of the program.
+
+See also the ‘Duration of Study’ policy.
+
+Information about and instructions for ordering transcripts are available at:
+
+https://www.cmu.edu/hub/registrar/student- records/transcripts/index.html
+................................................................................................. 26 4.1 MCDS Academic Policies ......................................................................................... 26 4.1.1 Duration of Study  26 4.1.2 Double-Dipping  26 4.1.3 Pass/Fail and Audit Grades  26 4.1.4 Transfer Credit  27 4.1.5 External Internships and Job Interviewing  27 4.1.6 Transferring into the MCDS Program  27 4.1.7 Transferring Out of the MCDS Program  27 4.1.8 Statute of
+Under extraordinary circumstances, such as leave of absence, military or public service, family or parental leave, or temporary disability, a school or college may, upon the relevant department's recommendation and with the written approval of the dean (or designate), defer the lapse for a period commensurate with the duration of that interruption. Students who are pursuing a master’s degree as part-time students for all semesters of their program, as approved by their program, may also appeal
+
+
+Answer: 

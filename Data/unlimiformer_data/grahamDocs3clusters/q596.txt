@@ -1,0 +1,150 @@
+Question: What is the title of the ethics course offered at LTI?
+
+Context: up to the book’s title and stated goal than others. For example, a chapter on teaching business ethics outlines an interesting lesson plan but is only tangentially related to information literacy. These minor issues are more than made up for by the stronger aspects of the book.
+Detection,” and CISCO Ethics in AI award “ExpHarm: So- cially Aware, Ethically Informed, and Explanation- Centric AI Systems.”
+Chapter 6 (‘Ethics, justice, and health AI’) presents an analysis of the challenges that emerge from the market exercised by the stakeholders behind the development and deployment of machine learning as a complement to the medical profession in the Fourth Industrial Revolution. Among the elements considered is the existence of biases, transparency that is difficult to achieve and control over the data being processed throughout the value chains that support deep medicine. As a transition to
+Fall 2023
+
+Course number: 32402
+
+Title: Leadership and Ethics
+
+Units: 9.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 32410
+
+Title: Amphibious Warfare/Operations & The Fundamentals of Maneuver Warfare:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 08:00AM,
+
+End: 09:20AM,
+
+Room:  ,FRB 215
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Faddish
+
+Fall 2023
+
+Course number: 32411
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Beck, Guidi, Hammer, Levin-Decanini, Saunders, Shelly, Vinchesi, Wahila, Tsai
+
+Spring 2024
+
+Course number: 05674
+
+Title: Ethics and Policy Issues in Computing:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room: GHC 4307,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Skirpan, Dabbish
+
+Spring 2024
+
+Course number: 05680
+
+Title: Independent Study in HCI - METALS
+
+Units: VAR
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+Fall 2023
+
+Course number: 80101
+
+Title: Dangerous Ideas in Science and Society
+
+Units: 9.0
+
+Section: A,E,I,B,F,G,C,D,Lec,J,H
+
+Days: F,MW
+
+Start: 01:00PM,02:00PM
+
+End: 01:50PM,02:50PM
+
+Room: PH 226B,CFA 102,PH 126A,WEH 8427,PH A20,PH 225B,TBA,PH A21,PH 125B,PH A19D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cullen
+
+Fall 2023
+
+Course number: 80130
+
+Title: Introduction to Ethics
+
+Units: 9.0
+
+Section: A,B,Lec
+
+Days: F,MW
+
+Start: 10:00AM,11:00AM
+
+End: 11:50AM,10:50AM
+standard course, because they provide a good introduction to the broad range of research done at
+
+the LTI. Students do not register for the LTI Orientation, nor do they receive a grade; however, the department is serious about its expectation that new students will attend these talks.
+
+For many years, these talks were called "the Immigration Course (IC)." The intuition behind this
+
+name is that the talks help orient newly -arrived students – immigrants into the CMU
+by actual classroom courses, not credit given for research or independent study.
+
+An “LTI course ” is any 12 -unit course with a number of 11 -XXX; a  6-unit course with 11 -XXX
+
+counts as one- half of an LTI course. Unless otherwise specified, "course" means an actual
+
+classroom course, not  credit given for research or independent study. Note that the LTI  allow s
+
+any one MLD (10 -XXX) graduate course to count as an "LTI course".
+Learn at LTI The LTI's degree programs draw from a common set of courses and core skills, but emphasize different types of expertise that prepare you for a wide range of career options. All of our programs provide the hands-on experience and rigorous curriculum that are the hallmark of computer science at Carnegie Mellon. Program Type: Master's Programs Program Name: Master of Science in Intelligent Information Systems (MIIS) Overview: The Master's in Intelligent Information Systems degree
+
+
+Answer: 

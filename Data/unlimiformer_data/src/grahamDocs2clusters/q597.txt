@@ -1,0 +1,13 @@
+Question: What is ESPnet-ST-v2?
+
+Context: ESPnet-ST-v2 is a revamp of the open-source ESPnet-ST toolkit necessitated by the broad- ening interests of the spoken language trans- lation community. ESPnet-ST-v2 supports 1) offline speech-to-text translation (ST), 2) simul- taneous speech-to-text translation (SST), and 3) offline speech-to-speech translation (S2ST) – each task is supported with a wide variety of approaches, differentiating ESPnet-ST-v2 from other open source spoken language trans- lation toolkits. This toolkit offers
+With this major update, ESPnet-ST-v2 keeps pace with the interests of the community and offers a va- riety of unique features, making it a valuable com- plement to Fairseq (Wang et al., 2020), NeurST (Zhao et al., 2021), and other spoken language translation toolkits.
+
+2 Related Works
+ESPnet-ST-v2 follows a long line of open-source speech processing toolkits which can support spo- ken language translation (Zenkel et al., 2018; Shen et al., 2019; Kuchaiev et al., 2019; Hayashi et al., 2020; Wang et al., 2020; Zhao et al., 2021).
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+Innovation (MSAII) program is a successor to the M.S. in Biotechnology, Innovation and Computing (MSBIC). It combines a rigorous AI and machine learning curriculum with real-world team experience in identifying an AI market niche and developing a responsive product in cooperation with external stakeholders. The core program, which lasts four semesters and leads to a capstone project, focuses on both intrapreneurship and entrepreneurship, equipping graduates to either begin a startup or develop
+366.2 Student Information Online (SIO) Student Information Online (SIO) is a secure site where students can find important, personalized information, including E-Bills and student account information, financial aid status and eligibility, grades and QPA, and course schedules. Students can update their and their spouse's or domestic partner's contact information, sign up for E-Check & E-Refund, authorize their spouses, domestic partners or other individual to receive a copy of their E-Bill,
+
+
+Answer: 

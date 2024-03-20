@@ -1,0 +1,118 @@
+Question: What are the two courses that are prerequisities for the undergraduate concentration termed the LT concentration? Include the title and course number in parentheses.
+
+Context: complement classes {coΣlp ℓ , coΠlp ℓ }ℓ∈N. The two hierarchies are illustrated in Figure 1, along with the inclusion and separation results shown in this paper.
+MLfileforGGGispre-sentedinFigure1.Thetoplevelobjectisamap,consistingofmetadatafields(obj_langfor“ob-jectlanguage”andmeta_langfor“metalanguage”arerequired),andsegs,whichisanarrayof“dis-coursesegments”(roughly,sentences).Thefieldobj_langconsistsofasingleISO639-3code(asastring).Thefieldmeta_langisanarrayofISO639-3codes.Eachdiscoursesegmentisamapwiththefollowingfields:srcTheaudioorvideodocumentfromwhichthesegmentderives.startThestarttimeoftheintervalinthesourcefilefromwhichthesegmentderives(insec-on
+I am good at sports, maths and physics. What course should I pursue at university? While academic aptitudes alone aren’t enough to determine which major is best suited for you, having strengths in areas like mathematics, science, and engineering certainly suggests potential overlap with certain fields. Some popular courses of study within those domains include computer science, electrical engineering, mechanical engineering, economics, finance, and physical sciences like chemistry and physics
+Title: Undergraduate Colloquium for Sophomores
+
+Units: 1-3
+
+Section: A,W
+
+Days: R,W
+
+Start: 10:00AM,11:30AM
+
+End: 10:50AM,12:20PM
+
+Room: CMB 2147,GHC 4307
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Willard,Younis
+
+Fall 2023
+
+Course number: 03206
+
+Title: Biomedical Engineering Laboratory
+
+Units: 9.0
+
+Section: A,B
+
+Days: MW,TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: BH 235A,BH 235B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chalacheva, Palchesko,Palchesko, Chalacheva
+Instructors: Glymour,Wu,Bjorndahl,Spirtes,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Seidenfeld,Simons,Awodey,Smith,Werner,Avigad
+
+Fall 2023
+
+Course number: 80496
+
+Title: Undergraduate Independent Study Mini
+
+Units: VAR
+
+Section: I2,S2,E2,O2,Q2,P2,C2,R2,L2,G2,B2,J2,N2,F2,D2,H2,M2,T2,K2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+3.3.6.3 Areas of Concentration In addition to the common MCDS core, all students must complete at least one area of concentration, which consists of three courses in Analytics, Systems, or Human- Centered Data Science. Students consult with their academic advisor and choose one or more areas of concentration during their first semester, in preparation for enrolling in Spring classes.
+also complete at least one concentration, consisting of three courses in one of three areas: Analytics, Systems, or Human-Centered Data Science. The remaining elective course can be any course with number 600 or above chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.  To maintain full-time enrollment status, a student must enroll in a minimum of 36 course units per semester.
+example, Dig ital Signal Processing in ECE. Please see the Program Director for approval
+
+of electives as “SCS .”
+
+“LTI Focus Areas” are sets of courses defined on the LTI course webpage under “Course Categories .” If a student believes a new course should be added to a Focus Area, they
+
+
+Answer: 

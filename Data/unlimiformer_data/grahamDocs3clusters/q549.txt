@@ -1,0 +1,194 @@
+Question: How does using random walks to estimate entity centrality on conversation entity graphs affect answer passage ranking?
+
+Context: Paper title: 'Conversational Search with Random Walks over Entity Graphs' Published year: 2023 Publication venue or conference: International Conference on the Theory of Information Retrieval Authors: Gustavo Gonçalves, Jamie Callan, João Magalhães Summary: Experiments show that using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.
+Izac- ard et al. (2021) and Wu et al. (2020) to construct examples for single retrieval and entity linking, re- spectively. For single retrieval, a pair of randomly cropped views of a passage is used as a positive
+pseudo query. Then, in each sampled passage, we randomly pick an anchor entity and take the first passage of its associated Wikipedia page as the tar- get. To avoid redundancy, if an anchor entity has been used 10 times in a source page, we no longer pick it for the given source. If the query and the target together exceed 512 tokens, we will truncate the longer of the two by randomly dropping its first token or its last token.
+Course number: 51239
+
+Title: Prototyping Lab II: Communications
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 10:30AM
+
+End: 12:20PM
+
+Room: MM 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Twigg
+
+Spring 2024
+
+Course number: 51248
+
+Title: Products Studio II: Designing Products for Interactions
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 08:30AM
+
+End: 10:20AM
+
+Room: PH A27
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hong
+
+Spring 2024
+
+Course number: 51249
+Units: 5.0
+
+Section: B4,A4
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: MM 107
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasko
+
+Spring 2024
+
+Course number: 51228
+
+Title: Communications Studio II: Designing Communications for Interactions
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 08:30AM
+
+End: 10:20AM
+
+Room: MM 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasko
+
+Spring 2024
+
+Course number: 51231
+
+Title: Calligraphy I
+
+Units: 9.0
+
+Section: A
+
+Days: W
+
+Start: 05:00PM
+Course number: 51612
+
+Title: MA Studio II: Intro Interaction Design
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: MM 121
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deal, O'Leary
+
+Spring 2024
+
+Course number: 51620
+
+Title: Sensing Place through Color
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:20PM
+
+Room: MM 203
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hughes
+
+Spring 2024
+
+Course number: 51626
+
+Title: Prototyping for Interaction Design
+.................................................................................... 1 10 The Division of Student Affairs .................................................................................. 2 11 Center for Student Diversity & Inclusion .................................................................. 2 12 Assistance for Individuals with Disabilities .............................................................. 3 13 Eberly Center for Teaching Excellence & Educational Innovation
+Fall 2:
+
+Conversational Interfaces
+
+MIIS Capstone Project
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems who has petitioned to have the summer internship waived.
+
+Fall 1: - Search Engines - Analysis of Social Media - Design and Engineering of Intelligent Systems - Directed Study
+
+Spring:
+
+Machine Learning
+
+Natural Language Processing
+
+Question Answering
+
+Directed Study
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

@@ -1,0 +1,174 @@
+Question: What is the full name of the conference where the paper Transformed Protoform Reconstruction, got published?
+
+Context: Alina Maria Ciobanu and Liviu P. Dinu. 2018. Ab ini- tio: Automatic Latin proto-word reconstruction. In Proceedings of the 27th International Conference on Computational Linguistics, pages 1604–1614, Santa Fe, New Mexico, USA. Association for Computa- tional Linguistics.
+
+Arthur P Dempster, Nan M Laird, and Donald B Rubin. 1977. Maximum likelihood from incomplete data via the em algorithm. Journal of the Royal Statistical Society: Series B (Methodological), 39(1):1–22.
+the “International Conference on Interactive Collaborative Learning” and the “47th edition of the International Conference on Engineering-Pedagogy” held in 2018 the “Aristotle University of Thessaloniki of Greece,” they at published a text with the papers presented entitled “The Challenges of the Digital Transformation in Education,” in which among the many papers presented, a section on research conducted on preschool, primary and secondary education stands out. Some of the titles observed
+3 2 0 2
+
+l u J
+
+6
+
+] L C . s c [
+
+2 v 6 9 8 1 0 . 7 0 3 2 : v i X r a
+
+Transformed Protoform Reconstruction
+
+Young Min Kim∗ and Kalvin Chang∗ and Chenxuan Cui and David Mortensen Language Technologies Institute, Carnegie Mellon University {youngmik, kalvinc, cxcui, dmortens}@cs.cmu.edu
+
+Abstract
+Title: Prototyping Algorithmic Experiences
+
+Units: 15.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Holstein
+
+Fall 2023
+
+Course number: 05391
+
+Title: Designing Human Centered Software:
+
+Units: 12.0
+
+Section: A,B,C,D,
+
+Days:  ,TR
+
+Start: 08:00AM,11:00AM,03:30PM,12:30PM,
+
+End: 01:50PM,12:20PM,04:50PM,09:20AM,
+
+Room: TEP 1403, ,3SC 172,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+End: 10:50AM
+
+Room: MM 215
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hanington
+
+Fall 2023
+
+Course number: 51824
+
+Title: Basic 3D Prototyping
+
+Units: 6.0
+
+Section: A1
+
+Days: F
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: PH A27
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stadelmeier
+
+Fall 2023
+
+Course number: 51825
+
+Title: MDES Seminar III: Advanced Interaction & Service Design Concepts
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: MM A11
+Course number: 51269
+
+Title: Prototyping Lab II: Environments
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 10:30AM
+
+End: 12:20PM
+
+Room: MM B4
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rosenberg Munoz
+
+Spring 2024
+
+Course number: 51282
+
+Title: Design Studies: Persuasion
+
+Units: 5.0
+
+Section: A3,B3
+
+Days: MW
+
+Start: 03:00PM
+
+End: 04:50PM
+
+Room: MM A11
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Garcia, Fullenwider
+
+Spring 2024
+
+Course number: 51284
+
+Title: Design Studies: Power
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+thesis defense. The pre sentation must communicate the research work done, similar to
+
+a conference paper presentation. The committee will observe the presentation, and then decide whether the thesis and presentation were acceptable, or whether further
+
+work is required. Unlike a P hD defense, only a simple majority vote of the committee is
+
+required for approval.
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+
+
+Answer: 

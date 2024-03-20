@@ -1,0 +1,186 @@
+Question: What are the names of the 15.5B parameter models introduced by The BigCode community?
+
+Context: In this tech report, we summarize the learnings of the BigCode community in developing the Santa models, a set of 1.1B-parameter models trained on the Java, JavaScript, and Python subsets of The Stack and evaluated on MultiPL-E (Cassano et al., 2022). We describe the ﬁrst steps of the commu- nity towards developing larger code models and report experiments to de-risk the model architecture and the data processing pipeline. Speciﬁcally, the contributions of this report can be summarized as
+Using the ﬁndings from these experiments, we train a ﬁnal 1.1B parameter model, dubbed SantaCoder, on Python, JavaScript, and Java. This model obtains comparable or stronger performance than previous open-source multilingual models, InCoder-6.7B and CodeGen- Multi-2.7B, on code generation and inﬁlling tasks on the MultiPL-E benchmark for these three languages, despite being substantially smaller.
+
+2 RELATED WORK
+Findings We ﬁnd all BigCode Santa variants with 1.1B parameters to outperform the 6.7B In- Coder model (Fried et al., 2022), which we attribute to differences in the training datasets. Among BigCode models, variants trained on more Python perform better: The stars variant with 32% of Python in its training corpus outperforms the tokenizer fertility variant with only 28.5% of Python (see proportions in Table 3). The bfloat16 is the same as the no-ﬁm variant, except for the lat- ter being trained
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Course number: 15605
+
+Title: Operating System Design and Implementation
+
+Units: 15.0
+
+Section: A
+
+Days: MWF
+
+Start: 11:00AM
+
+End: 11:50AM
+
+Room: POS 153
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eckhardt
+
+Spring 2024
+
+Course number: 15611
+
+Title: Compiler Design:
+
+Units: 15.0
+
+Section: A,B,C,D,Lec,
+
+Days:  ,F,TR
+
+Start: 09:30AM,04:00PM,02:00PM,01:00PM,
+
+End: 01:50PM,02:50PM,04:50PM,10:50AM,
+
+Room: BH A51,GHC 4301,BH 235A,WEH 2302, ,GHC 4211
+
+Locations:  ,Pittsburgh, Pennsylvania
+Course number: 18641
+
+Title: Design Patterns for Smartphone Development
+
+Units: 12.0
+
+Section: RW
+
+Days: TR
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: CMR F309
+
+Locations: Kigali, Rwanda
+
+Instructors: Umuhoza
+
+Spring 2024
+
+Course number: 18646
+
+Title: How to Write Fast Code II
+
+Units: 12.0
+
+Section: A,SV
+
+Days: MW
+
+Start: 09:30AM,12:30PM
+
+End: 10:50AM,01:50PM
+
+Room: B23 211,BH A53
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Low
+
+Spring 2024
+
+Course number: 18647
+10-708, Probabilistic Graphical Models
+
+16-720, Computer Vision
+
+17-631 Information Security, Privacy & Policy
+
+17-781, Mobile and IoT Computing Services
+
+4.4.1 Breadth Courses:  Human Language
+
+11-611, Natural Language Processing
+
+11-624, Human Language for Artificial Intelligence
+
+11-711, Advanced NLP
+
+11-722, Grammar Formalisms
+
+11-724, Human Language for Artificial Intelligence
+
+11-727, Computational Semantics for NLP
+
+11-737, Multilingual NLP
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+15. Model checking, 1994 CMU professor Edmund Clarke had long stressed the importance of verifying computer hardware and software through a formal problem-solving technique called “model checking.” In 1994, his arguments gained new weight with the discovery that Intel’s amazing new Pentium chip made errors on certain math problems. Clarke would go on to receive the Turing Award for his role in the development of model checking.
+
+
+Answer: 

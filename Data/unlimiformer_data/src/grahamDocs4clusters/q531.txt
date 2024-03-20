@@ -1,0 +1,239 @@
+Question: What is the full name of the conference where the paper Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models, got published?
+
+Context: 3 2 0 2
+
+y a M 3 2
+
+] L C . s c [
+
+1 v 7 0 7 3 1 . 5 0 3 2 : v i X r a
+
+Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
+
+♢
+
+♠
+
+♢
+
+Orevaoghene Ahia
+
+Sachin Kumar
+
+Hila Gonen ♢♡
+
+Jungo Kasai
+
+♠
+
+♢
+
+David R. Mortensen
+
+Noah A. Smith
+
+Yulia Tsvetkov
+
+♢
+
+♢
+
+Paul G. Allen School of Computer Science & Engineering, University of Washington Language Technologies Institute, Carnegie Mellon University Allen Institute for Artificial Intelligence
+
+♠
+
+♡
+
+Abstract
+Paper title: 'Large Language Models Enable Few-Shot Clustering' Published year: 2023 Publication venue or conference: arXiv.org Authors: Tongshuang Sherry Wu, Kiril Gashteovski, Graham Neubig, Vijay Viswanathan, Carolin (Haas) Lawrence Summary: It is found that incorporating LLMs in the first two stages can routinely provide significant improvements in cluster quality, and that LLMs enable a user to make trade-offs between cost and accuracy to produce desired clusters.
+Paper title: 'Why do Nearest Neighbor Language Models Work?' Published year: 2023 Publication venue or conference: International Conference on Machine Learning Authors: Graham Neubig, Uri Alon, Frank F. Xu Summary: This paper identifies three main reasons why k-nearest neighbor language models (kNN-LM) perform better than standard LMs: using a different input representation for predicting the next tokens, approximate kNN search, and the importance of softmax temperature for the kNN
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Title: Seminar in Finance IV (Corporate Finance)
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mayer
+
+Spring 2024
+
+Course number: 47744
+
+Title: Analytical and Structural Marketing Models
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Srinivasan
+
+Spring 2024
+
+Course number: 47770
+
+Title: Strategic Queueing Models
+
+Units: 6.0
+Spring 2024
+
+Course number: 76879
+
+Title: Model Minorities: Race, Rhetoric, & Identity in Asian America
+
+Units: 9-12
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH A20A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Idzik
+
+Spring 2024
+
+Course number: 76882
+
+Title: History of Rhetoric: The Classical Age and Its Legacy
+
+Units: 9,12
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: PH A21
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Coulson
+
+Spring 2024
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+equivalent (an oral presentation that at least t wo SCS faculty certify as being of
+
+conference- talk quality).
+
+Programming:  This is satisfied by demonstrating competence in computer programming
+
+of language technology; this is normally satisfied in the course of the student's research
+
+and/or project work.
+
+LTI Ph.D.  Graduate Student Handbook  Page 16
+
+Teaching:  This is satisfied by two (2) successful Teaching Assistantships ( TA-ships), as
+
+
+Answer: 

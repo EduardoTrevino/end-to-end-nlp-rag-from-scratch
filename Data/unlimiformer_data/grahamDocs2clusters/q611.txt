@@ -1,0 +1,113 @@
+Question: What is the semantic notion used as a case study in "Syntax and Semantics Meet in the “Middle”: Probing the Syntax-Semantics Interface of LMs Through Agentivity"?
+
+Context: 3 2 0 2
+
+l u J
+
+0 1
+
+] L C . s c [
+
+2 v 5 8 1 8 1 . 5 0 3 2 : v i X r a
+
+Syntax and Semantics Meet in the “Middle”: Probing the Syntax-Semantics Interface of LMs Through Agentivity
+
+Lindia Tjuatja, Emmy Liu, Lori Levin, Graham Neubig Language Technologies Institute Carnegie Mellon University {ltjuatja, mengyan3, lsl, gneubig}@cs.cmu.edu
+
+1
+
+Abstract
+Recent advances in large language models have prompted researchers to examine their abilities across a variety of linguistic tasks, but little has been done to investigate how models han- dle the interactions in meaning across words and larger syntactic forms—i.e. phenomena at the intersection of syntax and semantics. We present the semantic notion of agentivity as a case study for probing such interactions. We created a novel evaluation dataset by utilitiz- ing the unique linguistic properties
+Probing for LMs for their knowledge of agentiv- ity in syntactic constructions as in (1) and (2) is a particularly insightful case study as it allows us to explore three interconnected questions in a highly controlled syntactic setting:
+
+I. Do models display sensitivity to aspects of word-level semantics independent of syntactic context, and is such sensitivity aligned with human judgements? (§3.1)
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Machine Translation
+
+Spring 2:
+
+Comp Semantics for NLP
+
+Neural Networks for NLP
+
+Elective
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in deepening their expertise in Human Language area of concentration
+
+Fall 1:
+
+Natural Language Processing
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+MIIS Directed Study
+
+Spring 1:
+
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Language and Statistics
+
+Spring 2:
+
+Comp Semantics for NLP
+
+ML for Signal Processing
+
+Elective
+
+
+Answer: 

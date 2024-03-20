@@ -1,0 +1,175 @@
+Question: Which LTI faculty member is an author on the COBRA Frames paper?
+
+Context: Paper title: 'COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Haojie Zhu, Thomas Davidson, Xuhui Zhou, Akhila Yerukola, Jena D. Hwang, Swabha Swayamdipta, Maarten Sap Summary: COBRA frames are introduced, the first context-aware formalism for explaining the intents, reactions, and harms of offensive or biased statements grounded in
+Xuhui Zhou, Hao Zhu, Akhila Yerukola, Thomas David- son, Jena D. Hwang, Swabha Swayamdipta, and Maarten Sap. 2023. Cobra frames: Contextual rea- soning about effects and harms of offensive state- ments. In Findings of ACL.
+
+Jan Zienkowski, Jef Verschueren, and Jo Östman. 2011. Discursive pragmatics: A platform for the pragmatic study of discourse. In Disursive Pragmatics, pages 1–13. John Benjamins Publishing Company.
+
+A Tasks and Datasets
+Xuhui Zhou, Hao Zhu, Akhila Yerukola, Thomas David- son, Jena D. Hwang, Swabha Swayamdipta, and Maarten Sap. 2023. Cobra frames: Contextual rea- soning about effects and harms of offensive state- ments. In Findings of ACL.
+
+A Implementation Details
+
+A.1 Explanation Generation with LLMs
+Instructors: Kirmayer,Rose
+
+Spring 2024
+
+Course number: 11345
+
+Title: Undergrad Independent Study
+
+Units: 3-12
+
+Section: A,C,M,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rosenfeld,Mortensen,Fried,Callan
+
+Spring 2024
+
+Course number: 11390
+
+Title: LTI Minor Project - Juniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11411
+Instructors: Perl,Quesenberry,Weinberg,Poepping,Instructor TBA,Mertz,Moussawi,Heimann,Sooriamurthi,Liginlal
+
+Spring 2024
+
+Course number: 67393
+
+Title: Guided Research in Information Systems
+
+Units: VAR
+
+Section: A,E,I,K,B,F,G,C,D,J,H
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Quesenberry,Poepping,Instructor TBA,Mertz,Moussawi,Heimann,Sooriamurthi,Hagan,Liginlal,Tu
+
+Spring 2024
+
+Course number: 67425
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hovis, Pinnow
+
+Spring 2024
+
+Course number: 38110
+
+Title: ENGAGE in Service
+
+Units: 1.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+You can find our official tartan on various items in the University Store.
+
+Source: "Tartan: Romancing the Plaid," by Jeffrey Banks and Doria De La Chapelle
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+projects.) Even self -supporting MLT students are expected to perform research with a faculty
+
+advisor, since research experience is an important part of our graduate programs. Until a student finds a specific advisor, the chair of the LTI graduate prog rams serves as the advisor.
+
+How to change advisors:  The initial advisor selection should be made carefully. However, it is
+
+possible to change advisors. To do so, the student should find another faculty member willing
+At least two CMU faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the chair of graduate programs (the form for this is available on the LTI website). This feedback will help the student refine speaking skills with respect to talk structure, content, and delivery.
+
+4.1.3 Withdrawal of a Degree
+
+
+Answer: 

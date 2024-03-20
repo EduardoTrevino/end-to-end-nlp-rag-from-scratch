@@ -1,0 +1,129 @@
+Question: In spring 2024, Who are the instructors for course 15150?
+
+Context: Instructors:  ,Cervesato, Kohlbrenner,Hammoud
+
+Spring 2024
+
+Course number: 15150
+
+Title: Principles of Functional Programming
+
+Units: 12.0
+
+Section: E,I,F,D,U,P,C,J,S,A,K,B,T,Lec 1,Lec 2,H,L,M,R,O,Q,G,N
+
+Days: W,TR
+
+Start: 08:00AM,09:30AM,05:00PM,02:00PM,11:00AM,03:30PM,07:00PM,12:30PM
+
+End: 08:20PM,01:50PM,03:20PM,12:20PM,04:50PM,06:20PM,10:50AM,09:20AM
+
+Room: DH 2315,GHC 5208,GHC 5207,GHC 5210,DH 2210
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Erdmann, Kaynar,Kaynar, Erdmann
+Instructors: Wang,Thornton,Sheng,Xie,Quintana,Abdelghany,Gordon,Raanes,Mediratta,Hsieh,Beard,Zetune,Yu,Walker,Zhang,Khare,Hoover,Kulasiri
+
+Spring 2024
+
+Course number: 21150
+
+Title: Mathematics and the Arts
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 2049
+
+Locations: Doha, Qatar
+
+Instructors: Yilma
+
+Spring 2024
+
+Course number: 21201
+
+Title: Undergraduate Colloquium
+
+Units: 1.0
+
+Section: A3
+
+Days: T
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: SH 105
+Course number: 15642
+
+Title: Machine Learning Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chen, Jia
+
+Spring 2024
+
+Course number: 15645
+
+Title: Database Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: PH 100
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Patel
+
+Spring 2024
+
+Course number: 15650
+
+Title: Algorithms and Advanced Data Structures
+
+Units: 12.0
+
+Section: A
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+close Date -  March 4 ; Event - 8 M-F Spring Break; No Classes Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 12 ; Day - Tuesday ; Event - Summer 2024 Registration Opens Date -  March 15 ; Day - Friday ; Event - Mini-4
+
+
+Answer: 

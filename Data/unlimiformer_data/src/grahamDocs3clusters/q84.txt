@@ -1,0 +1,102 @@
+Question: How many papers does Lori S. Levin have on Semantic Scholar?
+
+Context: Computational Linguistics: Human Language Tech- nologies, pages 4460–4473, Online. Association for Computational Linguistics.
+
+David R. Mortensen, Patrick Littell, Akash Bharadwaj, Kartik Goyal, Chris Dyer, and Lori S. Levin. 2016. Panphon: A resource for mapping IPA segments In Proceedings of to articulatory feature vectors. COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers, pages 3475–3484.
+We begin with the ACL Anthology and focus on papers between 1980 and 2022. Using the Semantic- Scholar (S2) API (Wade, 2022), we obtain author and citation information of papers indexed by S2 (some venues, such as some workshops, and some Findings8 papers, are not indexed, leaving 77, 235 papers), with a focus on citations of papers identified by our participants as having been influential to the NLP community. We select from this set of influential papers to generate the bar plots for Figure
+David R. Mortensen, Patrick Littell, Akash Bharad- waj, Kartik Goyal, Chris Dyer, and Lori Levin. 2016. PanPhon: A resource for mapping IPA segments to articulatory feature vectors. In Pro- ceedings of COLING 2016, the 26th Interna- tional Conference on Computational Linguistics: Technical Papers, pages 3475–3484.
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Instructors: Yang,Eskenazi,Mortensen,Waibel,Ganapathiraju,Brown,Cassell,Koedinger,Sycara,Frederking,Metze,Rosenfeld,Instructor TBA,Mitamura,Mostow,Levin,Cohen,Fahlman,Singh,Hauptmann,Callan,Smith,TBA,Xing,Mitchell,Nyberg,Langmead,Schultz,Bar-Joseph,Rose,Lavie,Rudnicky,Carley
+
+Spring 2024
+
+Course number: 11930
+
+Title: Dissertation Research
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Spring 2024
+
+Course number: 11935
+Instructors: Bisk,Yang,Eskenazi,Gormley,Mortensen,Waibel,Brown,Lee,Cassell,Sycara,Morency,Frederking,Rosenfeld,Kolter,Instructor TBA,Poczos,Salakhutdinov,Mitamura,Lipton,Mostow,Berg-Kirkpatrick,Levin,Cohen,Oh,Strubell,Fahlman,Hauptmann,Callan,Mitchell,Xing,Nyberg,Neubig,Smith,Young,Tsvetkov,Rose,Stern,Rudnicky,Ramakrishnan,Watanabe,Hong,Tomasic
+
+Spring 2024
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+Language Technologies Institute - Faculty Name: Daphne Ippolito Email: daphnei@cmu.edu Research Areas: Natural Language Generation, Privacy and Security, Language Technology Application Areas/Issues, Creativity Phone: 412-268-7250
+
+Language Technologies Institute - Faculty Name: Lori Levin Email: lsl@cs.cmu.edu Office: 5717 Gates & Hillman Centers Research Areas: Machine Translation, Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources Phone: 412-268-6193
+nearly 1,700, including undergraduate, master’s and Ph.D. students, and conducted $124 million in research. Indeed, by itself, the Robotics Institute is the largest university robotics research group in the world, with more than 500 people and more than 100 ongoing research projects. A half-century ago, Perlis, Simon and Newell outlined a vision for computer science. The School of Computer Science at CMU remains committed to continuing and extending their vision in the context of big data and
+A.2.4  Research at CMU  .................................................................................................................. 45
+
+A.2.5  Office of Research Integrity & Compliance  ................................................................... 45
+
+A.3 Key Offices for Health, Wellness & Safety  ............................................................................. 45
+
+
+Answer: 

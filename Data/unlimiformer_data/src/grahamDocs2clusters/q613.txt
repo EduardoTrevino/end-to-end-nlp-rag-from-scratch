@@ -1,0 +1,145 @@
+Question: What are the 4 common MCDS core courses? List them in the following format: course number - title; course number - title; ...
+
+Context: Course number: 57897
+
+Title: Graduate Recital (Voice)
+
+Units: 1.0
+
+Section: B4,D4,A4,C4,E4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Spring 2024
+
+Course number: 57898
+
+Title: Graduate Recital:
+
+Units: 1.0
+
+Section: E,IA,AC,OA,VD,NA,JA, ,FB,PB,VA,C,DD,AB,S,FA,KA,B,MC,T,MA,OB,VE,H,JB,L,NB,PC,IB,AA,PA,Q,R,DC,G,KB,VC,DB,VB,DA,MB
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+Title: Software Management Capstone Project
+
+Units: 3,6,12,24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: San Jose, California
+
+Instructors: Mercier
+
+Summer 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Summer 2024
+
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: T
+
+Start: 08:00AM
+Title: ConLanging: Lrng. Ling.⟪ Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11634
+
+Title: MCDS Capstone Planning Seminar:
+
+Units: 12.0
+3.3.6.2 Common MCDS Core Courses All MCDS students are required to complete four common core courses in their first two semesters:  10-601 - Machine Learning  15-619 - Cloud Computing  05-839 - Interactive Data Science  11-631 - Data Science Seminar
+3.3.6.3 Areas of Concentration In addition to the common MCDS core, all students must complete at least one area of concentration, which consists of three courses in Analytics, Systems, or Human- Centered Data Science. Students consult with their academic advisor and choose one or more areas of concentration during their first semester, in preparation for enrolling in Spring classes.
+........................................................................................................ 13 3.3 MCDS Degree Enrollment Process and Related Information ............................. 13 3.3.1 Duration of the degree program  13 3.3.2 Residency requirements  13 3.3.3 Degree Certification: Course requirements and related policies/protocols  13 3.3.4 Prerequisite Core Course  14 3.3.5 Plan of study  14 3.3.6.1 MCDS Curriculum  15 3.3.6.2 Common MCDS Core Courses  15 3.3.6.3 Areas of
+
+
+Answer: 

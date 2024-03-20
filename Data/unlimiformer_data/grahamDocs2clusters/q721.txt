@@ -1,0 +1,19 @@
+Question: What issue is reciprocal rank found to have?
+
+Context: ABSTRACT Across a variety of ranking tasks, researchers use reciprocal rank to measure the effectiveness for users interested in exactly one relevant item. Despite its widespread use, evidence suggests that reciprocal rank is brittle when discriminating between systems. This brittleness, in turn, is compounded in modern evaluation set- tings where current, high-precision systems may be difficult to distinguish. We address the lack of sensitivity of reciprocal rank by introducing and connecting
+Despite the widespread use of reciprocal rank, recent evidence suggests that it may brittle when it comes to discriminating between ranking systems [10, 19, 20]. In particular, the low number of unique values of reciprocal rank means that, especially when evaluating multiple highly-performing systems, we are likely to observe tied performance. Voorhees et al. [21] demonstrate that these conditions exist in many modern deep learning benchmarks.
+single item. Over the years, reciprocal rank (and less so ESL1) has established itself as a core metric for retrieval [5] and recommendation [4], adopted in situations where there is actually only one relevant item as well as in situations where there are multiple relevant items. Given two rankings, reciprocal rank and ESL1 always agree in terms of which ranking is better. Because of this, we refer to them collectively as the recall level 1 or RL1 metrics.
+speaking is not scored. We do not issue waivers for non-native speakers of English. In particular, we do not issue waivers based on previous study at a U.S. high school, college, or university. We also do not issue waivers based on previous study at an English-language high school, college, or university outside of the United States. No amount of educational experience in English, regardless of which country it occurred in, will result in a test waiver. Submit valid, recent scores: If as
+Grading is a matter of sound discretion of the instructor and final grades are rarely changed without the consent of the instructor who assigned the grade. The following circumstances are
+
+the unusual exceptions that may warrant a grade appeal: (a) the final grade assigned for a course
+
+is based on manifest error (e.g., a clear error such as arithmetic error in computing a grade or
+the instructor and the department, unit, or program. Grading is a  matter of sound discretion of
+
+the instructor, and final grades are rarely changed without the consent of the instructor who assigned the grade. The following circumstances are the unusual exceptions that may warrant a grade appeal:
+
+a) The final grade assigned for a course is based on manifest error (e.g., a clear error such as arithmetic error in computing a grade or failure to grade one of the answers on an exam)
+
+
+Answer: 

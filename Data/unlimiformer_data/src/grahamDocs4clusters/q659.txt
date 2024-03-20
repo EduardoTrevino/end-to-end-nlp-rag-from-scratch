@@ -1,0 +1,253 @@
+Question: In fall, who were the instructors for the Introduction to Deep Learning course at LTI?
+
+Context: [96] Kulin Shah, Pooja Gupta, Amit Deshpande, and Chiranjib Bhattacharyya. 2021. Rawlsian Fair Adaptation of Deep Learning Classifiers. In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES ’21). Association for Computing Machinery, New York, NY, USA, 936–945.
+[18] Angelos Katharopoulos and Franc¸ois Fleuret. Not all samples are created equal: In International conference on machine
+
+Deep learning with importance sampling. learning, pages 2525–2534. PMLR, 2018. 17
+
+[19] Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, and Ping Tak Peter Tang. On large-batch training for deep learning: Generalization gap and sharp minima. arXiv preprint arXiv:1609.04836, 2016. 15, 18, 19
+Seiya Tokui, Kenta Oono, Shohei Hido, and Justin Clay- ton. 2015. Chainer: a next-generation open source framework for deep learning. In Proceedings of work- shop on machine learning systems (LearningSys) in the twenty-ninth annual conference on neural infor- mation processing systems (NIPS), volume 5, pages 1–6.
+Course number: 11485
+
+Title: Introduction to Deep Learning
+
+Units: 9.0
+
+Section: A,B,Lec
+
+Days: TBA,F,MW
+
+Start: ,08:00AM
+
+End: ,09:20AM
+
+Room: BH A51,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Fall 2023
+
+Course number: 11490
+
+Title: LTI Minor Project - Seniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11590
+Instructors: Ippolito, Xiong
+
+Fall 2023
+
+Course number: 11685
+
+Title: Introduction to Deep Learning
+
+Units: 12.0
+
+Section: A,M,R,B,Lec,
+
+Days: MWF,F,MW
+
+Start: 08:00AM,02:35PM
+
+End: 09:20AM,03:55PM
+
+Room: BH A51,CMU REMOTE
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors:  ,Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Fall 2023
+
+Course number: 11690
+
+Title: MIIS Directed Study
+
+Units: 1-48
+
+Section: C
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Shah
+
+Fall 2023
+
+Course number: 10701
+
+Title: Introduction to Machine Learning (PhD)
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 2210
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chai, Lipton
+
+Fall 2023
+
+Course number: 10703
+
+Title: Deep Reinforcement Learning & Control
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Fragkiadaki
+
+Fall 2023
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+In August 2012, the Carnegie Mellon Department of Athletics, Physical Education and Recreation launched the Tartan Athletics Club. Developed by a group of passionate alums and friends of Carnegie Mellon Athletics, the Tartan Athletics Club mission and goals are as follows:
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Applied ML
+
+Spring 2:
+
+ML for Text Mining
+
+ML for Signal Processing
+
+Elective
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in deepening their expertise in Language Technology Applications area of concentration.
+
+Fall 1:
+
+Search Engines
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+
+MIIS Directed Study
+
+Spring 1:
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Machine Translation
+
+Spring 2:
+
+Comp Semantics for NLP
+
+Neural Networks for NLP
+
+Elective
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in deepening their expertise in Human Language area of concentration
+
+Fall 1:
+
+Natural Language Processing
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+MIIS Directed Study
+
+Spring 1:
+
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Language and Statistics
+
+Spring 2:
+
+Comp Semantics for NLP
+
+ML for Signal Processing
+
+Elective
+
+
+Answer: 

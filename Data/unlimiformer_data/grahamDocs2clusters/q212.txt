@@ -1,0 +1,175 @@
+Question: What number do all of the Biomedical Engineering classes start with?
+
+Context: Fall 2023
+
+Course number: 42790
+
+Title: Practicum in Biomedical Engineering
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chalacheva
+
+Fall 2023
+
+Course number: 42798
+
+Title: Current Readings in Biomedical Engineering
+
+Units: 1-2
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 42799
+
+Title: Directed Study
+
+Units: 3-9
+
+Section: A
+Course number: 42782
+
+Title: Biomedical Engineering Systems Modeling and Analysis
+
+Units: 12.0
+
+Section: A,B
+
+Days: TR
+
+Start: 08:00AM,11:00AM
+
+End: 09:20AM,12:20PM
+
+Room: POS 152,BH A53
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chalacheva
+
+Fall 2023
+
+Course number: 42783
+
+Title: Neural Engineering Laboratory
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: M,T
+
+Start: 12:00PM,09:00AM
+
+End: 11:50AM,12:50PM
+
+Room: MI 130,EDS 125
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Smith, Weber
+Fall 2023
+
+Course number: 42200
+
+Title: Sophomore BME Research Project
+
+Units: 3-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Palchesko
+
+Fall 2023
+
+Course number: 42201
+
+Title: Professional Issues in Biomedical Engineering
+
+Units: 3.0
+
+Section: A
+
+Days: W
+
+Start: 12:00PM
+
+End: 12:50PM
+
+Room: GHC 4215
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: He
+
+Fall 2023
+
+Course number: 42202
+
+Title: Physiology
+
+Units: 9.0
+
+Section: A
+course. No undergraduat e courses count toward the 195-unit requirement.
+
+All Core courses are organized in sequence, and must be taken in the following order:
+
+Artificial Intelligence and Future Markets (11-651) – No prerequisite.
+
+AI Engineering (11-695) – Prerequisite is the co mpletion of 11-651 with a grade of “B” or
+
+better.
+
+LTI Practicum (11-935) – Three credit units for completing the required Internship.
+Classes can be found at https://enr-apps.as.cmu.edu/o pen/SOC/SOCServlet/search .
+
+Students are then required to take and su ccessfully complete the courses below:
+
+2) The Core Courses (87 units) - Must be taken in THIS SEQUENCE:
+
+11-651 – AI & Future Markets – (12 units). First  Fall semester. Only open to MSAII.
+
+17-762 – Law of Computer Technolo gy (12 units). First Fall semester
+
+11-695 – AI Engineering (12 un its). First Spring semester
+least 36 units that count toward their current degree level. (See separate
+
+
+Answer: 

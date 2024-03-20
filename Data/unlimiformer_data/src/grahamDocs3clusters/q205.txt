@@ -1,0 +1,202 @@
+Question: What are the names of the people from LTI who co-authored the paper Approach to Learning Generalized Audio Representation Through Batch Embedding Covariance Regularization and Constant-Q Transforms
+
+Context: [6] Adrien Bardes, Jean Ponce, and Yann LeCun. Vicreg: Variance-invariance-covariance regularization for
+
+self-supervised learning. In International Conference on Learning Representations, 2021.
+
+[7] Anthony J Bell. The co-information lattice.
+
+In Proceedings of the fifth international workshop on
+
+independent component analysis and blind signal separation: ICA, volume 2003, 2003.
+
+[8] Yoshua Bengio, Aaron Courville, and Pascal Vincent. Representation learning: A review and new
+Wenhao Zhu, Shuang Liu, and Chaoming Liu. 2021. Incorporating syntactic and phonetic infor- mation into multimodal word embeddings using graph convolutional networks. In ICASSP Inter- national Conference on Acoustics, Speech and Signal Processing, pages 7588–7592. IEEE.
+
+Wenhao Zhu, Shuang Liu, Chaoming Liu, Xiaoya Yin, and Xiaping Xv. 2020. Learning multimodal word representations by explicitly embedding syntactic and phonetic information. IEEE Ac- cess, 8:223306–223315.
+Vi- creg: Variance-invariance-covariance regularization for self- supervised learning. arXiv preprint arXiv:2105.04906, 2021. 4
+
+Jean Ponce, and Yann LeCun.
+
+[6] Anthony J Bell and Terrence J Sejnowski. An information- maximization approach to blind separation and blind decon- volution. Neural computation, 7(6):1129–1159, 1995. 8
+
+[7] Christopher P Burgess,
+Title: Paradigms of Research in Architecture
+
+Units: VAR
+
+Section: A
+
+Days: MW
+
+Start: 08:30AM
+
+End: 09:50AM
+
+Room: MM 415IW
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lee
+
+Spring 2024
+
+Course number: 48712
+
+Title: Graduate Seminar 2: Issue of Global Urbanization
+
+Units: 3-9
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: MM 415IW
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nisa
+
+Spring 2024
+
+Course number: 48713
+
+Title: MUD Urban Ecology
+
+Units: 9.0
+
+Section: A
+Title: Research Methods in Technical & Professional Communication
+
+Units: 9, 12
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 4625
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wolfe
+
+Fall 2023
+
+Course number: 76884
+
+Title: Discourse Analysis
+
+Units: 9,12
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH A21
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Oddo
+
+Fall 2023
+
+Course number: 76900
+
+Title: Independent Study in Rhetoric
+
+Units: 3-18
+Instructors: Li,Labash,Ciccone,Kolowitz,Lightman,Smalley,Shaikh,Meyer,Costa,DeSantis,Dwivedi,Yucel,Vadlamudi,Stephens,Trzeciak,Yasar,Tucker,Smith,Bigrigg,Kowalsky,Jafry O'Connor,Spooner,Chen
+
+Fall 2023
+
+Course number: 95721
+
+Title: Information Systems Research Practicum
+
+Units: VAR
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhang
+
+Fall 2023
+
+Course number: 95722
+
+Title: Digital Transformation
+
+Units: 6.0
+
+Section: D2,A2
+
+Days: TR
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

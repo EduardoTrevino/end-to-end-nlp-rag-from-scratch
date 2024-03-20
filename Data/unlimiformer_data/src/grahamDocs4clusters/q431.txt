@@ -1,0 +1,171 @@
+Question: What does SenteCon do to a given passage of text?
+
+Context: representations. Given a passage of text, SENTECON encodes the text as a layer of interpretable categories in which each dimension corresponds to the rele- vance of a specific category. Our empirical eval- uations indicate that encoding language with SENTECON provides high-level interpretability at little to no cost to predictive performance on downstream tasks. Moreover, we find that SENTECON outperforms existing interpretable language representations with respect to both its downstream
+and they may not perform well when used in downstream tasks. With an eye toward addressing these concerns, we present SENTECON,1 a method for introducing human interpretability in deep language represen- tations. Given a sentence,2 SENTECON encodes the text as a layer of interpretable categories in which each dimension corresponds to the relevance of a specific category (Figure 1). The output of SENTECON can itself therefore be viewed as an interpretable language representation. As language use
+1Our code and data are publicly available at https://
+
+github.com/torylin/sentecon/.
+
+2We use the term “sentence” for clarity, but our approach is also applicable to longer passages of text like paragraphs and documents, as our experiments show.
+
+Figure 1: A comparison of lexicon-based language representations and SENTECON. While lexicons encode word- level category counts, SENTECON parses whole sentences and encodes sentence-level category intensities.
+Title: Dramaturgy 1: Approaches to Text
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PCA 231
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Arons
+
+Fall 2023
+
+Course number: 54110
+
+Title: Text for Actors
+
+Units: 2.0
+
+Section: B2,C2,A2
+
+Days: MW,TR
+
+Start: 09:30AM,03:00PM,11:00AM
+
+End: 10:20AM,11:50AM,03:50PM
+
+Room: PCA 103,PCA 115
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Haden
+
+Fall 2023
+
+Course number: 54121
+
+Title: Directing I: A Director's Mindset
+Title: Writing the Adaptation for Stage and Screen
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Swenson, Kirk
+
+Fall 2023
+
+Course number: 54191
+
+Title: Acting for Non-Majors
+
+Units: 9.0
+
+Section: A,B
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: PCA 115,PCA 313
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pazos,Swierc
+
+Fall 2023
+
+Course number: 54195
+
+Title: Creative and Dramatic Writing for Engineers
+Spring 2024
+
+Course number: 82282
+
+Title: Interpreting Global Texts & Cultures
+
+Units: 9.0
+
+Section: A,B
+
+Days: MW,TR
+
+Start: 11:00AM,02:00PM
+
+End: 12:20PM,03:20PM
+
+Room: CFA 102,HOA 107
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Parker,Estrada
+
+Spring 2024
+
+Course number: 82283
+
+Title: Language Diversity & Cultural Identity
+
+Units: 9.0
+
+Section: A,B
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5320,POS 343
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Al Masaeed,McCombie
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+What is a Tartan?
+Teams in the outside lane are given a 3 yard head start due to being required to go the long way around the traffic dummy Each pusher must have at least 1 hand on the buggy at all times, except in the transition zone; but no more than 1 pusher may be in contact with the buggy at any time In addition to the driver, pushers, and alternates, Rosters also included all designers and builders Buggies entered in Design Comp must also finish the race in order to qualify (but exceptions are permitted)
+Information retrieval, machine translation and speech technology are used daily by the general public, while text mining, natural language processing and language-based tutoring are common within more specialized professional or educational environments. The LTI prepares students for this world by offering a minor that gives you the opportunity to not only learn about language technologies, but to also apply that knowledge through a directed project.
+CMU Alert sends voice and/or text messages to registered phones in the event of a campus emergency that threatens public safety or during tests of the system in the spring and fall semesters. Students are automatically registered for CMU -Alert using the current contact
+
+information that has been entered into the Student Information Online (SIO):
+
+https://www.cmu.edu/hub/sio/about.html .
+
+LTI Ph.D.  Graduate Student Handbook  Page 40
+
+Appendix A
+
+2023 -2024
+on the student's record; if the student begins making satisfactory progress again, there is no official record of the letter in the student's transcript.
+
+In the most serious cases, the faculty gives the student an N- 1 letter that specifies a list of
+
+conditions that the student must satisfy by specific deadlines. Failure to meet all of the
+
+specified conditions may result in the student's termination from the program.
+
+4.8 Enrollment Verification
+
+
+Answer: 

@@ -1,0 +1,193 @@
+Question: For additional information about the MIIS program, who should you contact?
+
+Context: Here is what Alexander wrote in the HIDECS 2 report about his approach to han-
+
+dling such errors:
+
+The links of a graph, as used in this program, are non-directional. The matrix representing the links must therefore be symmetrical about its main diagonal, i.e. = m ji. Also since no vertex may be linked to itself, the elements along the main mi j diagonal, mii, must all be zero.
+where all quantifiers range over (r, p)-bounded certificate assignments of (G, id) with the additional restriction that Mi(G, id, κ1 · . . . · κi) ≡ accept for all i ∈ [1 : ℓ]. We id, r′ ∈ N>0, polynomial p′, and now construct M ′ with appropriately chosen constants r′ ℓ such that for every graph G ∈ graph(∆) and every certificate restrictors M ′ 1, . . . , M ′ arbitrary-sized r′
+
+id-locally unique identifier assignment id ′ of G,
+
+G ∈ L ⇐⇒ ∃κ′
+
+1 ∀κ2 . . . Qκℓ : M ′(G, id ′, κ′
+Experiments on CMI estimator verification: In Table 9 and Table 10, we include experiment results which verify that computing the conditional MI lower and upper bounds via concatenation indeed yields reliable estimates. In particular, we aim to verify that the the Conditional InfoNCE objective gives a lower bound of the CMI, and the Conditional InfoNCE-CLUB objective gives an upper bound of the CMI. We follow the experiment setups in [54], presenting the true CMI and results of our estimators
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 11699
+
+Title: MSAII Program Capstone
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11700
+
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,P
+
+Days: TBA,F
+
+Start: ,02:00PM
+
+End: ,03:20PM
+Instructors: Mitamura
+
+Fall 2023
+
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar:
+
+Units: 6.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11697
+
+Title: Introduction to Question Answering:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: PH A18A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg, Mitamura
+
+Fall 2023
+
+Course number: 11700
+Section: A,B,SV,Lec 1,Lec 3,RW
+
+Days: TBA,F,MW
+
+Start: ,08:00AM
+
+End: ,09:20AM,08:20AM
+
+Room: BH A51,DNM DNM,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11690
+
+Title: MIIS Directed Study
+
+Units: 1-48
+
+Section: C
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mitamura
+
+Spring 2024
+
+Course number: 11692
+Teams in the outside lane are given a 3 yard head start due to being required to go the long way around the traffic dummy Each pusher must have at least 1 hand on the buggy at all times, except in the transition zone; but no more than 1 pusher may be in contact with the buggy at any time In addition to the driver, pushers, and alternates, Rosters also included all designers and builders Buggies entered in Design Comp must also finish the race in order to qualify (but exceptions are permitted)
+that we’re missing), let us know! We’ll come back and update this (and any other articles in the series) if we get additional information.
+Interested in Joining?
+
+Please email the following information to Kiltie Band Director Jeremy Olisar.
+
+Name High School Address at Carnegie Mellon (if known) Home address Cell number Home number Whether you plan on being in the band or colorguard If in the band what instrument(s) you play Whether you need to borrow an instrument or equipment
+
+To see and hear the band in action, visit our YouTube channel
+including information about internships, please view the MIIS Handbook. Additional Info: For more information on the MIIS program, please contact Brianna Eriksen.
+the University Policies website . It is the responsibility of each member of the Carnegie Mellon
+
+community to be familiar with university policies and guidelines.
+
+1.4 MIIS Contact Information
+
+The people responsible for administering the MIIS degree are:
+
+Brianna Eriksen     Teruko Mitamura
+
+Academic Program Manager    Program Director, MIIS
+
+GHC 6415      Professor, LTI
+
+412-268-4277     GHC 6711
+
+bfreema2@andrew.cmu.edu     412-268-6596
+
+teruko@andrew.cmu.edu
+recommendation. For more details on these requirements, please see the SCS Master's Admissions page. In addition to the SCS guidelines, the MIIS requires: A short (1-3 minute) video of yourself. There will be a prompt question that you will respond to. You will have three attempts. No incomplete applications will be eligible for consideration. For specific application/admissions questions, please contact Brianna Eriksen. Handbook: For a complete breakdown of the MIIS program and its policies,
+
+
+Answer: 

@@ -1,0 +1,178 @@
+Question: Which institute did Carnegie Tech merge with in 1967?
+
+Context: EDepartment of Computer Science, ETH Zurich CLanguage Technologies Institute, Carnegie Mellon University YDepartment of Computer Science, Brigham Young University {vzouhar,msachan}@ethz.ch natbcar@gmail.com {kalvinc,cxcui,nrrobins,dmortens}@cs.cmu.edu
+
+Abstract
+Liangze Li Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 liangzel@andrew.cmu.edu
+
+Rita Singh Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 rsingh@cs.cmu.edu
+
+Bhiksha Raj Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 bhiksha@cs.cmu.edu
+
+Abstract
+3 2 0 2
+
+r p A 6 2
+
+] L C . s c [
+
+1 v 4 6 6 3 1 . 4 0 3 2 : v i X r a
+
+USING IMPLICIT FEEDBACK TO IMPROVE QUESTION GENERATION
+
+Hugo Rodrigues Instituto Superior Técnico, Universidade de Lisboa INESC-ID Language Technologies Institute, Carnegie Mellon University hugo.p.rodrigues@tecnico.ulisboa.pt
+
+Eric Nyberg Language Technologies Institute, Carnegie Mellon University ehn@cs.cmu.edu
+
+Luisa Coheur Instituto Superior Técnico, Universidade de Lisboa INESC-ID luisa.coheur@tecnico.ulisboa.pt
+Title: Tech Start-up: Market Discovery
+
+Units: 6.0
+
+Section: A1
+
+Days: R
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1206
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: DeSantis
+
+Fall 2023
+
+Course number: 19672
+
+Title: Special Topics: Tech Start-up: Building Your Own Company
+
+Units: 6.0
+
+Section: A2
+
+Days: R
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: DeSantis
+
+Fall 2023
+
+Course number: 19677
+
+Title: Economics of Innovation Strategy
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Course number: 19682
+
+Title: The Strategy and Management of Technological Innovation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: POS 153
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brence
+
+Spring 2024
+
+Course number: 19689
+
+Title: Finance for Innovation Management
+
+Units: 6.0
+
+Section: A3
+
+Days: F
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wasson
+
+Spring 2024
+
+Course number: 19690
+
+Title: M.S. Project
+In 1967, Carnegie Tech merged with the Mellon Institute, a science research center founded by the Mellon family of Pittsburgh, to become known as Carnegie Mellon University. The merger built upon a long history of support from the Mellons. It allowed Carnegie Mellon to establish the last of its current pillars: the Mellon College of Science and the College of Humanities and Social Sciences, now known as Marianna Brown Dietrich College of Humanities and Social Sciences. In 2017, Carnegie Mellon
+Computer Science Department established In 1965, Carnegie Tech established its Computer Science Department, or CSD, with a $5 million grant from the R.K. Mellon Foundation. Perlis was the first department head. There were no undergraduates; only Ph.D. students were admitted, and the department’s focus was on research, much of it funded by the federal government through the Defense Department’s Advanced Research Projects Agency, or DARPA. In 1967, Carnegie Institute of Technology merged with the
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+
+
+Answer: 

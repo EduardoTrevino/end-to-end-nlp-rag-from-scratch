@@ -1,0 +1,69 @@
+Question: What year did Andrew Carnegie die?
+
+Context: 3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+Multihop QA For “Why did the founder of Ver- sus die?”, the output we aim to generate is “The founder of Versus was Gianni Versace. Gianni Ver- sace was shot and killed on the steps of his Miami Beach mansion on July 15, 1997. So the answer is shot.” We use 8 exemplars from Trivedi et al. (2022) listed in Prompt D.4 for in-context learn- ing, BM25 as the retriever, and Wikipedia articles as the retrieval corpus. Similar to the observation in Trivedi et al. (2022), we found incorporating
+[18] B. M. Elizalde. Never-ending learning of sounds. Carnegie Mellon University, 2020. [19] J. Engel, C. Resnick, A. Roberts, S. Dieleman, M. Norouzi, D. Eck, and K. Simonyan. Neural audio synthesis of musical notes with wavenet autoencoders. In International Conference on Machine Learning, pages 1068–1077. PMLR, 2017.
+engineer students to take courses in humanities and social sciences in order to better understand the needs of society. Carnegie died in 1919, but his vision for an educated public lived on after him.
+At one point the richest man in the world, Carnegie believed that "to die rich is to die disgraced." He turned his attention to writing, social activism and philanthropy, determined to establish educational opportunities for the general public where few existed. In 1900, he donated $1 million for the creation of a technical institute for the city of Pittsburgh, envisioning a school where working-class men and women of Pittsburgh could learn practical skills, trades and crafts that would enhance
+SCIENCE’S FIRST-
+
+YEAR STUDENTS
+
+WERE WOMEN
+
+IN 2019
+
+Nearly triple the
+
+national average“ My Heart is in the Work. ”
+
+Andrew Carnegie, Founder
+
+November 15, 1900
+
+49.8 %
+
+87%  U.S. 13%  InternationalSCHOOLS AND COLLEGES
+
+College of Engineering
+
+College of Fine Arts
+
+Dietrich College of Humanities
+
+and Social Sciences
+
+Heinz College of Information Systems
+
+and Public Policy
+
+Mellon College of Science
+
+School of Computer Science
+
+Tepper School of Business
+
+
+Answer: 

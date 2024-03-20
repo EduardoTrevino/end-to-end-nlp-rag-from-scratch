@@ -1,0 +1,235 @@
+Question: In "Deriving Vocal Fold Oscillation Information from Recorded Voice Signals Using Models of Phonation", what is the proposed forward-backward algorithm?
+
+Context: Paper title: 'Deriving Vocal Fold Oscillation Information from Recorded Voice Signals Using Models of Phonation' Published year: 2023 Publication venue or conference: Entropy Authors: Wayne Zhao, Rita Singh Summary: A novel analysis-by-synthesis approach that allows us to infer the VFOs directly from recorded speech signals on an individualized, speaker- by-speaker basis is proposed and it is shown how the V FOs can be quantified from a dynamical systems perspective for classification purposes.
+least over these specific neural populations. There also appears to be a causal role
+
+for α oscillations in perceptual binding (Zhang et al., 2019).
+
+At the same time, in the realm of speech it has been suggested that ‘forward
+
+entrainment’ (neural entrainment that outlasts the entraining stimulus) “may instantiate
+
+46
+
+a dynamic auditory afterimage that lasts a fraction of a second to minimize prediction
+
+error in signal processing” (Saberi and Hickok, 2022). Speech envelope tracking via θ
+may “leverage forward entrainment as a generative model of speech-segment timing
+
+to more efficiently process upcoming segments (where timing is inferred from
+
+expectations and priors in a Bayesian sense)” (Ibid.). This particular topic remains a
+
+contested space.
+
+Regardless, as noted by Earl K. Miller, questions about the causal role of oscillations
+
+could also be asked of spikes. Both are signals that work together, and decoupling
+Title: IDeATe: Experimental Sound Synthesis
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: HL A10A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hsieh
+
+Spring 2024
+
+Course number: 60409
+
+Title: Advanced ETB:  Decolonizing Data Beyond Metaphor
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Morehshin
+
+Spring 2024
+
+Course number: 60415
+
+Title: Advanced ETB: Animation Studio:
+Title: Practicum
+
+Units: 0-3
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Johnston
+
+Fall 2023
+
+Course number: 57693
+
+Title: Graduate Vocal Coaching
+
+Units: 2.0
+
+Section: A,C,D,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rissinger,Carver,Irwin,Dueck
+
+Fall 2023
+
+Course number: 57694
+
+Title: Elective Recital
+
+Units: 1.0
+
+Section: A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Course number: 80788
+
+Title: Acoustics of Human Speech: Theory, Data, and Analysis
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bjorndahl
+
+Spring 2024
+
+Course number: 80811
+
+Title: Professional Development Seminar
+
+Units: 6.0
+
+Section: A,C,B
+
+Days: M
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: BH 145C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zaffora Blando
+
+Spring 2024
+
+Course number: 80814
+1947 – KapSig being pushed on the back hills (unknown buggy trailing) (from the 1948 Thistle). 1948 Raceday: Prelims on Friday, May 14 at 1:00pm; Finals on Saturday, May 15 at 1:00pm
+
+Sweepstakes Committee: Robert Kerr (Chair)
+
+Race Results: (1) DTD (2:48); (2) KapSig (~2:48.5); (3) PiKA
+
+Design Comp: (1) KapSig
+
+Weather: Sunny; High of 62/72, Low of 54/50
+Q: Are there auditions? A: No, any member of the campus community with music experience is able to join the Kiltie Band!
+
+Q: Do I have to memorize music? A: No, the music is changed for every show. You should invest in a good and trusty lyre.
+
+Q: When is the first rehearsal? A: On the first day of class (Monday) at 5:30 p.m. in the CUC Studio Theater. If you have questions, please email the Direcator at jolisar@andrew.cmu.edu.
+the 3 teams qualifying for Finals, broke the post-war record. In the finals, it was another close battle, with DTD squeaking it out over PiKA. DTD’s winning time of 2:42.5 was fast enough to set the course record, and PiKA’s 2:43.5 was only ½ second behind the prior record. SAE’s Best Design. SAE took home the trophy for Design Comp with their sleek aluminum buggy. Unfortunately, we haven’t found a photo. [Ed. Update: Based on the buggies from 1950, the 1950 Thistle’s actual description of
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

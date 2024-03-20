@@ -1,0 +1,191 @@
+Question: For the MCDS degree do you need to do a capstone project? Yes/no
+
+Context: World knowledge. The FROMAGe approach involves finetuning just linear layers on the Conceptual Cap- tions (Sharma et al., 2018) dataset, which contains image- caption data. Similar to Frozen (Tsimpoukelli et al., 2021), we find that since our frozen LLM was trained on web-scale text data, it contains knowledge about the world that it can reference for performance on multimodal tasks. For exam- ple, we show (Fig. 8) that the model knows what the weather at 0 degrees Celsius is likely to look
+As we see in Figure 2, the Transformer cap- tures more of the phylogenetic relationships among the languages correctly for the Rom-phon dataset. Indeed, the Generalized Quartet Distance (GQD) (Sand et al., 2013; Pompei et al., 2011; Rama et al., 2018) between the gold and predicted tree, calcu- lated using quartetDist from the tqDist library (Sand et al., 2014), is 0.4 for the Transformer but 0.8 for the RNN. See Figure 5 in the Appendix for
+
+Dataset Sinitic
+Q: is the man alone?A: yes, the man is alone
+
+Q: can you tell what breed they are?A: i can't really tell what breed they are, perhaps german shepherd
+
+Q: is the man wearing a cap?A: the man is wearing a black cap
+
+“Snow mountain and tree reﬂection in the lake”
+
+Q: are they looking at each other?A: no, they are facing away from each other
+
+I think you should wear a headband
+
+Q: are they both wearing a hat?A: only 1 is wearing a hat
+
+I'm a big fan
+Title: Software Management Capstone Project
+
+Units: 3,6,12,24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: San Jose, California
+
+Instructors: Mercier
+
+Summer 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Summer 2024
+
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: T
+
+Start: 08:00AM
+Title: ConLanging: Lrng. Ling.⟪ Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11634
+
+Title: MCDS Capstone Planning Seminar:
+
+Units: 12.0
+Title: BXA Seminar IV: Capstone Project Research
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Murray, Hagan
+
+Spring 2024
+
+Course number: 52402
+
+Title: BXA Seminar V: Capstone Project Production
+
+Units: 9.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Murray, Hagan
+
+Spring 2024
+
+Course number: 52590
+
+Title: BXA Internship
+
+Units: 3-12
+
+Section: A
+
+Days: TBA
+
+Start:
+Q: Are there auditions? A: No, any member of the campus community with music experience is able to join the Kiltie Band!
+
+Q: Do I have to memorize music? A: No, the music is changed for every show. You should invest in a good and trusty lyre.
+
+Q: When is the first rehearsal? A: On the first day of class (Monday) at 5:30 p.m. in the CUC Studio Theater. If you have questions, please email the Direcator at jolisar@andrew.cmu.edu.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+This year Fringe is planning to roll four different vehicles, built and maintained in the Fringe workshop in the basement of the East Campus Garage, known as the "Froom."
+
+"We're used to saying everything with 'fr' in front of it but when we say something in front of other people, it gets them confused," said Fringe head mechanic Dave Singh, who will graduate in May with a bachelor's degree in mechanical engineering and biomedical engineering.
+completing courses in the core curriculum, the MCDS seminar, electives and capstone project.  The capstone project consists of students working at CMU on a research project, or on an industry-sponsored project.  The student must complete 144 eligible units of study. This includes eight core and concentration courses, two 12-unit seminar courses and two 12-unit capstone courses. All students complete a common MCDS core in their first two semesters, consisting of five courses. All students must
+The program consists entirely of coursework and a Capstone Project, and no Master’s Thesis is required. All Capstone projects are structured as research activities and may lead to a publication. There is no Doctoral program in Computational Data Science. Because of the highly selective nature of the MCDS program and quality of the MCDS curriculum, performing well in the program will give a boost to a PhD application. MS graduates are welcome to apply to CMU PhD programs but will not receive
+typically a 16-month program consisting of courses, seminars, a required Capstone Project and a required summer internship or practical training. While some MCDS graduates continue on to PhD programs in the LTI or other leading universities, most graduates go on to jobs in 7corporate research and development laboratories.
+
+
+Answer: 

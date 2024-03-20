@@ -1,0 +1,154 @@
+Question: What are the protected attributes that CMU does not use in deciding the admission of PhD students?
+
+Context: protected attributes (e.g., race, gender), (4) all models trained on affect recognition datasets use only pre-extracted non-invertible features that rely on general visual or audio features such as the presence of a smile or magnitude of voice which cannot be used to identify the speaker [90, 92], and (5) we studied the videos collected in these affective computing datasets and found no offensive words used or personal attacks recorded in the video. Finally, we only use these datasets for
+6.1 Setup Dataset. We use four datasets with provided sensitive attributes and two with synthesized sensitive attributes. (i) IIT-JEE: The dataset comprises the scores of candidates who took the Indian Institutes of Technology Joint Entrance Exam (IIT-JEE) in 2009. This information was made public in June 2009, following a Right to Information request [26]. It contains the scores of about 385𝑘 students, the student’s gender (98𝑘 women and 287𝑘 men), their birth category (see [3]), and zip code.
+Sensitive attribute for LTR datasets. We extend prior work [11, 49, 53] and utilize a data-driven approach for selecting features as sensitive attributes and dividing items into two groups based on some threshold on that feature. Our criterion for selecting a feature as a sensitive attribute is as follows: For each feature we divide the items in two groups based on a threshold equal to the mean minus one standard deviation of that feature. If more than 95% of queries have at least one item from
+End: 08:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Barati Farimani
+
+Spring 2024
+
+Course number: 24892
+
+Title: Locomotion Seminar
+
+Units: 0.0
+
+Section: A
+
+Days: F
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4623
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Johnson
+
+Spring 2024
+
+Course number: 24992
+
+Title: Professional Development for PhD students II
+
+Units: 2.0
+
+Section: A
+
+Days: F
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: SH 234
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 05684
+
+Title: METALS Capstone II Part II
+
+Units: 24.0
+
+Section: U
+
+Days: W
+
+Start: 03:30PM
+
+End: 05:20PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McLaren, Koedinger
+
+Summer 2024
+
+Course number: 11936
+
+Title: PhD Internship
+
+Units: VAR
+
+Section: U
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 21127
+Title: Grand Challenge Seminar: Equitable Access and Success in Higher Education at CMU:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: PH A18B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Walsh, Ballesteros Soria
+
+Spring 2024
+
+Course number: 66142
+
+Title: DC 1st Year Seminar: The Mirror of Technology: Biases in Computation & Cognition
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5310
+
+Locations: Pittsburgh, Pennsylvania
+Students must begin their study at CMU in the program that admitted them; this  is a university
+
+policy.
+
+Students may request to transfer into the MLT program after completing their first semester. The student must make the request in writing (or email) to the MLT/PhD Admissions Chair. The
+
+MLT/PhD Admissions Chair will inform the student about what application materials are
+
+required;  for example, an explanation of why a transfer is desired, a proposed plan of study, a
+Office of Graduate and Post-Doc Affairs: http://www.cmu.edu/graduate/policies/index.html Please see Appendix A for additional information about university resources. 1.6 Carnegie Mellon University Statement of Assurance Carnegie Mellon University does not discriminate in admission, employment or administration of its programs or activities on the basis of race, color, national origin, sex, handicap or disability, age, sexual orientation, gender identity, religion, creed, ancestry, belief,
+enrolled in the program (CMU policy), or less if required by a more restrictive department, school, or college policy. This statutory p eriod can be extended by the SCS Associate Dean for Graduate
+
+Education for special circumstances that do not make it possible for the student to complete the requirements within the statutory period. Any request for a waiver of the statute of limitations for the Ph.D. degree must be approved by the Department Head and by the SCS Associate Dean
+
+
+Answer: 

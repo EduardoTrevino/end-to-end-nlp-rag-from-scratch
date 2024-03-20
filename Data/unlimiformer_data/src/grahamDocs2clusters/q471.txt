@@ -1,0 +1,45 @@
+Question: What does FACTORCL mean?
+
+Context: 1. A new analysis of contrastive learning performance showing that standard multimodal CL fails to capture task-relevant unique information under low shared or high unique information cases.
+
+2. A new contrastive learning algorithm called FACTORCL:
+
+(a) FACTORCL factorizes task-relevant information into shared and unique information, expand-
+
+ing contrastive learning to better handle low shared or high unique information.
+Paper title: 'Factorized Contrastive Learning: Going Beyond Multi-view Redundancy' Published year: 2023 Publication venue or conference: arXiv.org Authors: Louis-Philippe Morency, P. Liang, Martin Q. Ma, R. Salakhutdinov, James Y. Zou, Zihao Deng Summary: FactorCL is a new multimodal representation learning method to go beyond multi-view redundancy and captures both shared and unique information and achieves state-of-the-art results on six benchmarks.
+contained in modality-unique regions: information that is only present in one modality but still relevant to the task. How can we learn self-supervised multimodal representations to capture both shared and unique information relevant to down- stream tasks? This paper proposes FACTORCL, a new multimodal representation learning method to go beyond multi-view redundancy. FACTORCL is built from three new contributions: (1) factorizing task-relevant information into shared and unique
+A.3.1 Counseling & Psychological  Services
+
+https://www.cmu.edu/counseling/
+
+Counseling & Psychological Services (CaPS) affords the opportunity for students to talk privately
+
+about academic and personal concerns in a safe, confidential setting. An initial consultation at
+
+CaPS can help clarify the nature of the concern, provide immediate support, and explore further
+An “SCS course” is any 12 -unit course with a course number indicating a unit of the
+
+School of Computer Science (including LTI); a 6 -unit course with such a number counts
+
+as 1/2 of an SCS course. Unless otherwise specified, "course" means an actual classroom
+
+course, not credit given for research or independent study. Note: Recommended
+
+electives that are technically outside  of the SCS now count towards this requirement; for
+and review of allegations of research misconduct. 49
+
+14.3 Key Offices for Health, Wellness & Safety
+
+14.3.1  Counseling & Psychological Services
+
+https://www.cmu.edu/counseling/
+
+Counseling & Psychological Services (CaPS) af fords the opportunity for students to talk
+
+privately about academic and personal concerns in a safe, confidential setting. An initial
+
+consultation at CaPS can help cl arify the nature of the concern,  provide immediate support, and
+
+
+Answer: 

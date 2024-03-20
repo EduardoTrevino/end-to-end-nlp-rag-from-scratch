@@ -1,0 +1,37 @@
+Question: How many components or phases are in the MultiBench toolkit pipeline?
+
+Context: for different tasks. MultiBench spans 10 diverse modalities (images, video, audio, text, time-series, various robotics sensors, sets, and tables), 15 prediction tasks (humor, sentiment, emotions, mortality rate, ICD-9 codes, image-captions, human activities, digits, robot pose, object pose, robot contact, and design interfaces), and 5 research areas (affective computing, healthcare, multimedia, robotics, and HCI). These datasets are designed to test a combination of feature learning and
+Tool Details. Each tool ki within the toolkit KT is comprised of a concise introduction and its cor- responding code implementation. The introduction provides a brief overview of ki’s utility, inputs, and outputs, facilitating effective planning and calling in subsequent steps. In Figure 2A, the target task T = Navigate is decomposed into t1 (movement in a single direction) and t2 (change of orienta- tion). Each component is represented by a spe- cific implementation encapsulated within a tool
+ments on multicore platforms with 20 and 56 cores, respectively. The results show that the versatility of DaphneSched enabled combinations of scheduling strategies that outperform commonly used scheduling tech- niques by up to 13%. This work confirms the benefits of employing Daph- neSched for the efficient execution of applications with IDA pipelines.
+Multi-processor machines emerge CSD emerged from the brief crisis as a highly agile, interdisciplinary entity, with many new faculty members taking joint appointments with other CMU departments. Several large projects emerged in the Computer Science Department, including C.mmp, the first shared-memory multiprocessor computer, with 16 processing units, and Cm*, a 50-processor computer. These computers were the forerunners of today’s ubiquitous multi-core desktops and laptops.
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+4.4.3  Breadth Courses:  Machine Learning  ................................................................................ 15
+
+4.5 Practice Requirements  ................................................................................................................... 16
+
+4.6 Registration Process/Procedures  ................................................................................................. 17
+
+
+Answer: 

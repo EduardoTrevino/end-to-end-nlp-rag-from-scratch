@@ -1,0 +1,71 @@
+Question: When did Kappa Kappa Gamma enter the first all-women’s team in buggy history?
+
+Context: feedback on model-generated outputs, and has led to the emergence of the first widely-used general- purpose language assistants (OpenAI, 2023a). Hu- man feedback not only enhances system perfor- mance, but also serves as a mechanism to steer the system in alignment with desired outcomes or goals (Rosenblueth et al., 1943; Wiener, 1948).
+participants recalled the rise of bench- marks in the late 1990s and early 2000s, coinciding with a major expansion in the NLP community in the wake of the “statistical revolution,” where participants described statistical models displacing more traditional rules-based work (see Figure 2). In the words of one participant, the field became of “such a big snowballing size that nobody owned the first evers anymore.” (26). Instead, after the release of the Penn Treebank in 1993 and the reporting of
+49.06 (6.627)
+
+59.55 (3.678)
+
+58.283 (0.4)
+
+79.059 (0.436)
+
+65.96 (0.27)
+
+26.3 (9.545)
+
+naive-masking
+
+50.637 (0.585)
+
+43.607 (1.449)
+
+61.49 (1.486)
+
+59.521 (0.458)
+
+83.325 (0.62)
+
+67.456 (0.414)
+
+1.0 (0.0)
+
+naive-masking
+
+random-phrase-masking
+
+52.673 (1.374)
+
+49.057 (5.998)
+
+58.253 (5.906)
+
+58.05 (0.851)
+
+78.218 (0.633)
+
+65.618 (0.937)
+
+30.045 (8.019)
+
+neutral-masking
+
+female-first- random-phrase-masking
+
+53.44 (0.0)
+
+53.46 (0.891)
+
+53.4 (1.372)
+
+58.246 (0.285)
+
+87.182 (0.391)
+The starting line from the inaugural race in June 1920 was outside what is now known as the College of Fine Arts building. Racers then traveled toward Margaret Morrison Carnegie Hall, went up Tech Street, down through Schenley Park and then turned back to campus. Buggies would then take pit stops and have their rear wheels swapped before heading back toward the starting line.
+
+Alpha Kappa Psi, the first sorority to enter a Buggy on race day, in 1922.
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+
+
+Answer: 

@@ -1,0 +1,202 @@
+Question: Where does the sharp right-hand turn of the buggy course occur?
+
+Context: , where p−k(θ) ∝ pglobal(θ) pk(θ)
+
+Unfortunately, the right-hand side of the divergence is the intractable posterior we would like to approximate in the ﬁrst place. Instead, EP solves the following problem (Eq. 3),
+
+qnew k
+
+(θ) = arg min
+
+q∈Q
+
+D
+
+(cid:18)
+
+pk(θ) q−k(θ) (cid:107) q(θ) q−k(θ)
+
+(cid:19)
+
+, where q−k(θ) ∝ qglobal(θ) qk(θ)
+
+A.3 ADDITIONAL EXPERIMENTS AND DETAILS
+
+StackOverﬂow. Please see Fig. 5 for additional visualizations.
+
+14
+
+.
+
+.
+
+Published as a conference paper at ICLR 2023
+trans- formations approximating 2F0 have their spurious root-pole pairs placed on the positive real axis. The phase portraits are sharp along the branch cut with the stopping criterion, though the accuracy of the Drummond transformation deteriorates most noticeably in the right-half complex plane.
+The incident occurred in a technology store in the capital, Tbilisi. A 32-year-old man entered the store and took a female employee hostage with a knife. The robber tried to rob the store. In the footage reﬂected on the security camera, it was seen that the suspect grabbed the woman by the neck with his arm and threatened other employees by waving the knife in his hand. The suspect, who saw the police teams coming, left the woman, raised his hands in the air and surrendered. It is stated that
+Room: BH A51,GHC 4301,BH 235A,WEH 2302, ,GHC 4211
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Hoffmann
+
+Spring 2024
+
+Course number: 15414
+
+Title: Bug Catching: Automated Program Verification
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martins
+
+Spring 2024
+
+Course number: 15417
+
+Title: HOT Compilation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5312
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: PTC 2301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Klug
+
+Fall 2023
+
+Course number: 54737
+
+Title: Scenic Painting I
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: PCA 107
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zamborsky
+
+Fall 2023
+
+Course number: 54741
+
+Title: Fundamentals of Costume Design
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PCA 305
+
+Locations: Pittsburgh, Pennsylvania
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: WEH 5320
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Butkovic
+
+Spring 2024
+
+Course number: 84387
+
+Title: Remote Systems and the Cyber Domain in Conflict
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Schwartz
+
+Spring 2024
+
+Course number: 84389
+
+Title: Terrorism and Insurgency
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: WEH 5312
+Sweepstakes Slang
+
+Buggy: Vehicle being raced and also a nickname for the competition.
+
+Chute: A section of the freeroll portion of the buggy course (near the southwestern end of Frew Street at its intersection with Schenley Drive) where buggies make the sharp righthand turn from Schenley Drive onto Frew Street.
+
+Chute Flagger: Team member who provides a signal for buggy drivers to know when to start the right-hand turn from Schenley Drive onto Frew Street.
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+1948 – Another angle of the neck-and-neck finish of the Finals (from the 05-18-1948 Tartan). DTD, on the left, won the race, with KapSig, on the right, less than 1 second behind.
+
+1948 – DTD’s winning buggy (from the 1949 Thistle).
+
+1948 – KapSig’s buggy at a Back Hills transition (from the 1949 Thistle).
+
+1948 – DTD’s winning buggy (photo from the BAA Archives, courtesy of Amy Bluma) 1949 Raceday: Prelims on Friday, May 13 at 10:30am; Finals on Saturday, May 14 at 1:00pm
+
+
+Answer: 

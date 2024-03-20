@@ -1,0 +1,131 @@
+Question: How many authors are listed on the SPAE paper?
+
+Context: Paper title: 'SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs' Published year: 2023 Publication venue or conference: arXiv.org Authors: Lu Jiang, Wolfgang Macherey, A. Hauptmann, David A. Ross, Irfan Essa, K. Murphy, Vivek Kumar, Ming Yang, Yonatan Bisk, Yong Cheng, Lijun Yu, Zhiruo Wang, Yanping Huang Summary: This method marks the first successful attempt to enable a frozen LLM to generate image content while surpassing state-of-the-art performance in image
+We present an alternative view of data, similar to that seen in Figure 1, in Figure 4. Here, we define members of the community as authors with at least three papers total in *CL venues. Authors are counted as “leaving” the community the year after their last *CL publication. We only consider trends in authorship until 2020, as it is difficult to determine if authors who did not publish in the last few years have left the community indefinitely.
+Figure 1: The number of unique researchers publishing in ACL venues has increased dramatically, from 715 unique authors in 1980 to 17,829 in 2022.
+Instructors: Howard,Dealmeida,Almarza,Kostyniak,Vosburgh,Defade,Cardenes,Wu,Ferla,Spacagna,Caballero,Schepkin,Instructor TBA,Gruber,Van Hoesen, Shields,Evans, Allen, Branson,Cherian,McGhee,Knox,Thompson, Shields,Dee,Whipple,Aylmer,Kush,Carlisle,van der Sloot,Rusinek, Shields,Houlik, Shields,Shields, Sullivan,Laduke,Williams,Berntsen,Harding,Goeres, Shields,Premo,Teadt,Galbraith,Chiu
+
+Fall 2023
+
+Course number: 57500
+
+Title: Major Studio (Voice)
+
+Units: 9.0
+
+Section: A,E,B,F,C,D
+
+Days: TBA
+Instructors: Howard,Dealmeida,Pukinskis,Sullivan,Almarza,Kostyniak,Vosburgh,Cardenes,Wu,Houlik,Spacagna,Caballero,Howell,Schepkin,Instructor TBA,Van Hoesen,Gruber,Cherian,McGhee,Knox,Branson, Evans, Allen,Goeres,Dee,Rusinek,Aylmer,Whipple,Kush,Carlisle,Marcinizyn,van der Sloot,Laduke,Williams,Berntsen,Harding,Premo,Teadt,Galbraith,Chiu
+
+Spring 2024
+
+Course number: 57498
+
+Title: BXA Studio (3rd semester)
+
+Units: 9.0
+Instructors: Dueck,Howard,Dealmeida,Kim,Almarza,Kostyniak,Vosburgh,Cardenes,Shields, Thompson,Wu,Ferla,Spacagna,Caballero,Carver,Schepkin,Instructor TBA,Gruber,Evans, Allen, Branson,Cherian,McGhee,Knox,Mead,Dee,Whipple,Aylmer,Manriquez,Shields, Goeres,Kush,Carlisle,van der Sloot,Rusinek, Shields,Laduke,Sullivan, Shields,Shields, Van Hoesen,Williams,Berntsen,Harding,Premo,Teadt,Galbraith,Chiu,Shields, Houlik
+
+Fall 2023
+
+Course number: 57987
+
+Title: Advanced Music Studies Studio (Orchestral):
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+Inductees will be selected by a committee comprised of Carnegie Mellon University staff, faculty, a board of trustee member, coaches and a student representative. The Athletics Hall of Fame will endeavor to induct not less than 15 individuals for induction in its first year and not less than 6 in any year thereafter, subject to the discretion of the Nominating Committee. The below will set forth the criteria for selection to the Athletics Hall of Fame.
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+professional education. Drawing on Shaw’s plan and also on the work of other faculty members, an undergraduate program in computer science was created during the 1989-90 academic year. Seven CS majors were admitted to the program as sophomores. Another 73 undergraduates were admitted in 1990–91. By 1995, there were 401 undergraduates in the School of Computer Science; in fall 2013, more than 600 undergraduates made up about 37 percent of student enrollment at SCS, along with more than 600
+
+
+Answer: 

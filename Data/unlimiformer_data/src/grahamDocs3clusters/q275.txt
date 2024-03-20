@@ -1,0 +1,166 @@
+Question: What are some benefits of using a hybrid model approach for identifying hedges?
+
+Context: Paper title: '"You might think about slightly revising the title”: Identifying Hedges in Peer-tutoring Interactions' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: C. Clavel, Yann Raphalen, Justine Cassell Summary: A model explainability tool is employed to explore the features that characterize hedges in peer-tutoring conversations, and some novel features, and the benefits of a such a hybrid model approach are
+layers, capturing the semantic information of the previous turns, sig- nificantly improves the model’s performance. Additionally, the study provides insights into the importance of various features, such as in- terpersonal rapport and nonverbal behaviors, in predicting hedges by using Shapley values (Hart, 1989) for feature explanation. We dis- cover that the eye gaze of both the tutor and the tutee has a significant impact on hedge pre- diction. We further validate this observation through a
+To summarize results on the fine-tuning versus re- ranking approaches we observe that: 1) With the help of a hedge classifier, the reranking approach can do a good job at generating hedges, 2) Blender- Bot is better suited to the task of generating long utterances, as described in Section 5.1. This could be because BlenderBot is pretrained with various social dialogue datasets, giving it a certain ability to generate the social aspects of dialogue.
+Course number: 17416
+
+Title: AI Governance: Identifying & Mitigating Risks in Design & Dev of AI Solutions
+
+Units: 6.0
+
+Section: A,B
+
+Days: W
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: HH B131,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sadeh
+
+Spring 2024
+
+Course number: 17422
+
+Title: Building User-Focused Sensing Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Agarwal, Goel
+
+Spring 2024
+Title: Methods of Policy Analysis: Future of Work
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: HBH 2003
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Branstetter
+
+Spring 2024
+
+Course number: 90747
+
+Title: Cost Benefit Analysis
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 1202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gogolak
+
+Spring 2024
+
+Course number: 90749
+
+Title: Cost Benefit Analysis: A Capital Budgeting Approach
+Title: Generative Modeling (GRAD)
+
+Units: 9.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bard
+
+Fall 2023
+
+Course number: 48785
+
+Title: MAAD Research by Design Project
+
+Units: 18.0
+
+Section: A
+
+Days: TR
+
+Start: 01:00PM
+
+End: 04:50PM
+
+Room: MM 312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bard, Ficca
+
+Fall 2023
+
+Course number: 48786
+
+Title: PORTFOLIO & RESUME PREPARATION (G)
+
+Units: 3.0
+
+Section: A2
+
+Days: F
+
+Start: 11:00AM
+Innovation (MSAII) program is a successor to the M.S. in Biotechnology, Innovation and Computing (MSBIC). It combines a rigorous AI and machine learning curriculum with real-world team experience in identifying an AI market niche and developing a responsive product in cooperation with external stakeholders. The core program, which lasts four semesters and leads to a capstone project, focuses on both intrapreneurship and entrepreneurship, equipping graduates to either begin a startup or develop
+Many Ph.D. advisors also provide access to computer clusters, cloud computing, or other resources to support computationally -intense research.
+
+Ph.D. students are given access to the LTI’s computer cluster on an as- needed basis, to be used for
+
+course assignments, directed study projects, and/or capstone projects. The LTI cluster provides
+
+storage and computation for projects involving large datasets and/or lengthy computation.
+“Just in Time” Workshops: The Student Academic Success team is available to partner
+
+with instructors and departments to identify skills or concepts that would benefit from
+
+supplemental offerings (workshops, boot camps) to support students’ academic success
+
+and learning. We are eager to help convene and coordinate outside of the classroom skill- building opportunities that can be open to any student interested in building skill or
+
+reinforcing course concept mastery.
+
+
+Answer: 

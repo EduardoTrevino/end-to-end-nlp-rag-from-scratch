@@ -1,0 +1,151 @@
+Question: What time in eastern time was the final application deadline for the PhD program in language and information technology? Give your answer in 12h time format with either an am or pm label.
+
+Context: Series in 2022. Again, this of course says noth- ing about the fundamental limits of language models, and even GPT-2, for example, seems to be able to infer from distributional evidence, that the answer to Is 1900 in the past or in the future? is It is in the past, while the answer to Is 2022 in the past or in the future?, is It is in the future. Obviously, since lan- guage models are not generally trained on time-stamped text, there is a limit to what can be inferred from distributional
+The algorithm ﬁnds the partially substituted x-y-z-predicate “A is the start time of meeting 27” so it allocates a marker pair and marks all elements E such that “E is the start time of meeting 27” (again only marking proper elements). This time, it marks {10:30 AM} given that “10:30 AM is the start time of meeting 27” is in the knowledge base. For each marked element E, the rule engine tries substituting E for B in R, so it tries substituting {10:30 AM} for B in R. This substitution does not
+Albert Webson and Ellie Pavlick. 2022. Do prompt- based models really understand the meaning of their prompts? In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Tech- nologies, NAACL 2022, Seattle, WA, United States, July 10-15, 2022, pages 2300–2344. Association for Computational Linguistics.
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Title: Applied Microeconomics Seminar
+
+Units: 0.0
+
+Section: A
+
+Days: T
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 2003
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Jha
+
+Spring 2024
+
+Course number: 90989
+
+Title: Phd Internship
+
+Units: VAR
+
+Section: A,M4
+
+Days: TBA,MW
+
+Start: ,02:00PM
+
+End: ,03:20PM
+
+Room: DNM DNM,WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chen,Kantor
+
+Spring 2024
+
+Course number: 16224
+
+Title: IDeATe: Re-Crafting Computational Thinking with Soft Technologies
+Instructors: Tomon
+
+Spring 2024
+
+Course number: 86800
+
+Title: PhD Thesis Research
+
+Units: 6-60
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stupka
+
+Spring 2024
+
+Course number: 80100
+
+Title: Introduction to Philosophy
+
+Units: 9.0
+
+Section: A,E,I,B,F,G,C,D,Lec 1,Lec 3,J,Lec 2,H
+
+Days: F,MW
+
+Start: 09:00AM,02:00PM,01:00PM,10:00AM,11:00AM,12:00PM
+
+End: 12:50PM,01:50PM,09:50AM,02:50PM,11:50AM,10:50AM
+Q: Can I borrow a school instrument? A: There are several Kiltie-owned instruments available for your use. Loans begin at 4:30 p.m. before the first rehearsal.
+
+Q: What do they wear under those kilts? A: Join and you’ll find out!
+Q: Are there auditions? A: No, any member of the campus community with music experience is able to join the Kiltie Band!
+
+Q: Do I have to memorize music? A: No, the music is changed for every show. You should invest in a good and trusty lyre.
+
+Q: When is the first rehearsal? A: On the first day of class (Monday) at 5:30 p.m. in the CUC Studio Theater. If you have questions, please email the Direcator at jolisar@andrew.cmu.edu.
+cross the finish line in the Finals. So is it possible that DTD rolled 35 seconds faster during the Finals? Sure. But I think I buy that they were 25 seconds slower a little more. 1947 Raceday: Prelims on Friday, May 2 at 1:00pm; Finals on Saturday, May 3 at 2:30pm
+29, 2023 at 3 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship. For more information, please refer to the School of Computer Science Fee Waiver page. Requirements The School of Computer Science requires the following for all Ph.D. applications. GRE scores: GREs are now optional, but if you want to submit GRE scores:These must be less than five years old. The GRE Subject Test is not required, but is recommended. Our Institution Code is 2074;
+be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application Deadline December 13, 2023 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted by November 29, 2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select programs. For more information, please refer to the School of Computer Science Fee Waiver page. Requirements The School of Computer Science
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29, 2023 at 3PM EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science Fee Waiver
+
+
+Answer: 

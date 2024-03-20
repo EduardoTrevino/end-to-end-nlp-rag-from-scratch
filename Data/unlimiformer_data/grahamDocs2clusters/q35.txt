@@ -1,0 +1,151 @@
+Question: In fall 2023, What is the title of course 05391?
+
+Context: Fall 2023
+
+Course number: 09344
+
+Title: Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,W
+
+Start: 11:00AM,07:00PM
+
+End: 11:50AM,07:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hendrich
+
+Fall 2023
+
+Course number: 09381
+
+Title: Environmental Systems on a Changing Planet: Science & Engineering Addendum
+
+Units: 12.0
+
+Section: A
+
+Days: F
+
+Start: 12:00PM
+
+End: 12:50PM
+
+Room: DH 1112
+Fall 2023
+
+Course number: 05600
+
+Title: HCI Pro Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: W
+
+Start: 05:00PM
+
+End: 07:20PM
+
+Room: 3SC 172
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Willis
+
+Fall 2023
+
+Course number: 05610
+
+Title: User-Centered Research and Evaluation:
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec,
+
+Days:  ,MW
+
+Start: 12:30PM, ,02:00PM
+
+End:  ,01:50PM,03:20PM
+
+Room: DH 2315,WEH 8427,PH 225B, ,GHC 4101,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+Fall 2023
+
+Course number: 09518
+
+Title: Bioorganic Chemistry: Nucleic Acids and Carbohydrates
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 5328
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ly
+
+Fall 2023
+
+Course number: 09522
+
+Title: Kinetics and Mechanisms of Chemical and Enzymatic Reactions
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: MI 448
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Collins, Ryabov
+
+Fall 2023
+Elective course For more information on the MSAII program curriculum and requirements, see the program website. Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+
+
+Answer: 

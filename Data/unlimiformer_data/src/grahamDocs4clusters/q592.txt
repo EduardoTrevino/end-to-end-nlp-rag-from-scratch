@@ -1,0 +1,235 @@
+Question: Which professor from LTI worked on the paper Advancing Regular Language Reasoning in Linear Recurrent Neural Networks?
+
+Context: 3 2 0 2
+
+p e S 4 1
+
+] L C . s c [
+
+1 v 2 1 4 7 0 . 9 0 3 2 : v i X r a
+
+Advancing Regular Language Reasoning in Linear Recurrent Neural Networks Ting-Han Fan∗ Independent Researcher tinghanf@alumni.princeton.edu
+
+Ta-Chung Chi∗ Carnegie Mellon University tachungc@andrew.cmu.edu
+
+Alexander I. Rudnicky Carnegie Mellon University air@cs.cmu.edu
+
+Abstract
+In recent studies, linear recurrent neural net- works (LRNNs) have achieved Transformer- level performance in natural language modeling and long-range modeling while offering rapid parallel training and constant inference costs. With the resurged interest in LRNNs, we study whether they can learn the hidden rules in train- ing sequences, such as the grammatical struc- tures of regular language. We theoretically ana- lyze some existing LRNNs and discover their limitations on regular language.
+Stephen Merity, Nitish Shirish Keskar, and Richard Socher. Regularizing and optimizing LSTM language
+
+models. In Proceedings of ICLR, 2018.
+
+Hermann Ney, Ute Essen, and Reinhard Kneser. On structuring probabilistic dependences in stochastic
+
+language modelling. Computer Speech & Language, 8(1):1–38, 1994.
+
+Gabriel Pereyra, George Tucker, Jan Chorowski, Łukasz Kaiser, and Geoffrey Hinton. Regularizing neural
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Instructors: Kurnikova
+
+Spring 2024
+
+Course number: 09616
+
+Title: Neural Networks & Deep Learning in Science
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 3SC 110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Isayev
+
+Spring 2024
+
+Course number: 09621
+
+Title: Welcome to the Future Lab - Science in the Cloud
+
+Units: 6.0
+
+Section: A3
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: WEH 5202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Das
+
+Spring 2024
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+garlan@cs.cmu.edu
+
+http://www.cs.cmu.edu/~garlan/academics.htm
+
+C a r o l y n  R o s é
+
+Interim Director, Language Technologies Institute  Professor  GHC 5415
+
+412-268-7130
+
+cprose@cs.cmu.edu
+
+8 MSAII Policies
+
+The Language Technologies Institute (LTI) ha s prepared this statement of policies, program
+
+requirements, guidance, process a nd procedures for students in the M.S. in Artificial Intelligence
+
+and Innovation (MSAII) program. A copy of this handbook is also available online at the
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

@@ -1,0 +1,122 @@
+Question: What computation is offloaded to a k-nearest-neighbor (kNN) index in the Unlimiformer approach?
+
+Context: Since the proposal of transformers (Vaswani et al., 2017), these models have been limited to bounded input lengths, because of their need to attend to every token in the input. In this work, we propose Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores. This kNN index can be kept on either the
+Paper title: 'Unlimiformer: Long-Range Transformers with Unlimited Length Input' Published year: 2023 Publication venue or conference: arXiv.org Authors: Amanda Bertsch, Graham Neubig, Uri Alon, Matthew R. Gormley Summary: This work proposes Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores.
+We introduce Unlimiformer, a retrieval-based approach to augment pretrained language mod- els to accept inputs of unbounded length at test time. Given a long input sequence, Unlimi- former constructs a k-nearest-neighbor (kNN) index over the hidden states of all input tokens. Then, every standard cross-attention head in ev- ery decoder layer queries the kNN index, such that the kNN distances are the attention dot- product scores, and attends only to the top-k input tokens. In preliminary
+Start: 09:30AM,04:00PM,03:00PM,05:00PM,09:00AM,02:00PM,02:30PM,01:00PM,10:00AM,11:00AM,12:00PM
+
+End: 12:50PM,01:50PM,03:45PM,09:50AM,03:20PM,03:50PM,02:50PM,04:50PM,11:50AM,10:50AM,05:50PM
+
+Room: GHC CLSTR,POS 146,WEH 4709,WEH 4625,GHC 4301,PH 126A,DH 2105,BH 235A,CMB 2152,HOA 107,PH A18A,DH 1112,PH 125B,DH 2210
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors:  ,Riley, Gedawy,Taylor, Kosbie
+
+Spring 2024
+
+Course number: 15122
+
+Title: Principles of Imperative Computation
+Room: CMB 3069,WEH 5302,PH A18A,WEH 5310,POS 151
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Riley,Xhakaj
+
+Fall 2023
+
+Course number: 15122
+
+Title: Principles of Imperative Computation
+
+Units: 12.0
+
+Section: E,I,F,D,U, ,P,C,J,S,A,K,B,T,Lec 1,Lec 2,H,L,M,O,Q,G,N
+
+Days: M,F,TR
+
+Start: 08:00AM,09:30AM,04:00PM,03:00PM,05:00PM,09:00AM,02:00PM,01:00PM,10:00AM,11:00AM,12:00PM
+
+End: 12:50PM,01:50PM,09:50AM,03:50PM,02:50PM,04:50PM,11:50AM,10:50AM,05:50PM,09:20AM,08:50AM
+End: 12:45PM,12:50PM,02:50PM,03:50PM
+
+Room: DH A302,CMB 1185,BH 140A,CYH 100A
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Park,Koerner
+
+Fall 2023
+
+Course number: 36350
+
+Title: Statistical Computing:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room:  ,POS 152
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Townes
+
+Fall 2023
+
+Course number: 36395
+
+Title: Independent Study
+
+Units: VAR
+
+Section: A,C,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+MS students will be given access to the LTI’s comp uter cluster on an as-needed basis, to be used
+
+for course assignments, directed study projects, and/or the capstone project. The LTI cluster
+
+provides storage and computation for projects  involving large datasets and/or lengthy
+
+computation. 12
+
+10 Degree Requirements
+
+MSAII students are expected to complete their degr ee requirements within five consecutive semesters,
+including off-campus/ wireless access to databases and e-journals, offer online access. There are 38
+
+also two neighboring libraries open to Carnegie Mellon graduate students: Carnegie Library of
+
+Pittsburgh and University of Pittsburgh Libraries. Visit the University Libraries website for
+
+information about all mentioned library locatio ns and hours, on-line resources and FAQ’s.
+
+13.10  Computing Services
+
+www.cmu.edu/computing/
+used for course assignments, directed study projects , and/or capstone projects. The LTI cluster
+
+provides storage and computation for projects involving large datasets and/or lengthy computation.
+
+3 Master’s Degree Completion and Certification
+
+3.1 Standard Degree Requirements an d Degree Certification
+
+3.1.1 Graduate Students
+
+
+Answer: 

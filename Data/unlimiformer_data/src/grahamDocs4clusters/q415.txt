@@ -1,0 +1,155 @@
+Question: What are the number of credits MCDS students must complete to graduate?
+
+Context: all met- rics except MCD, which we explained earlier. This sug- gests MQTTS is generally better than VITS, given enough resources. Additionally, we observed overﬁtting for both 100M and 200M of MQTTS, but with a higher severity for the 200M version. This explains the little improvement from 100M to 200M and suggests that a larger training corpus is needed for further improvement.
+Track module Since sub-task alignment information is not provided by the environment, we explore an alternative performance metric for the detection of the event of completion. Ideally, a sub-task tracker should record the last sub-task as “ﬁnished” if and only if the environment is “fully solved” by the expert. As an agreement measure, we report a precision of 0.99 and a recall of 0.78 for Macaw-11B and a precision of 0.96 and a recall of 0.96 for Macaw-large. The larger model (Macaw-11b) is
+Mel-cepstral Distortion (MCD). We follow previous work (Hayashi et al. 2021) and use MCD to measure the reconstruction error between ground truth and synthesis, given the same text and speaker reference speech. We extract 23 mel-cepstral coefﬁcients (MCEPs) and use Euclidean distance as the metric. Dynamic Time Wraping (Giorgino 2009) is applied for the alignment. We calculate MCD using the ground truth utterances from the validation split.
+
+5 Results
+Course number: 57897
+
+Title: Graduate Recital (Voice)
+
+Units: 1.0
+
+Section: B4,D4,A4,C4,E4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Spring 2024
+
+Course number: 57898
+
+Title: Graduate Recital:
+
+Units: 1.0
+
+Section: E,IA,AC,OA,VD,NA,JA, ,FB,PB,VA,C,DD,AB,S,FA,KA,B,MC,T,MA,OB,VE,H,JB,L,NB,PC,IB,AA,PA,Q,R,DC,G,KB,VC,DB,VB,DA,MB
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+Title: Software Management Capstone Project
+
+Units: 3,6,12,24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: San Jose, California
+
+Instructors: Mercier
+
+Summer 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Summer 2024
+
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: T
+
+Start: 08:00AM
+Title: ConLanging: Lrng. Ling.⟪ Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11634
+
+Title: MCDS Capstone Planning Seminar:
+
+Units: 12.0
+But a few of the specific rules changed slightly, or are worth noting again: All drivers, pushers, designers and builders were required to members of the organization they’re competing for All team members (including designers and builders) must be “eligible” under the Executive Board’s requirements, which include a minimum of 36 units and being in good academic standing (with a minimum GPA requirement). The buggy/driver combo must weigh a minimum of 180 pounds (up from the previous 160 lbs)
+This year Fringe is planning to roll four different vehicles, built and maintained in the Fringe workshop in the basement of the East Campus Garage, known as the "Froom."
+
+"We're used to saying everything with 'fr' in front of it but when we say something in front of other people, it gets them confused," said Fringe head mechanic Dave Singh, who will graduate in May with a bachelor's degree in mechanical engineering and biomedical engineering.
+the 3 teams qualifying for Finals, broke the post-war record. In the finals, it was another close battle, with DTD squeaking it out over PiKA. DTD’s winning time of 2:42.5 was fast enough to set the course record, and PiKA’s 2:43.5 was only ½ second behind the prior record. SAE’s Best Design. SAE took home the trophy for Design Comp with their sleek aluminum buggy. Unfortunately, we haven’t found a photo. [Ed. Update: Based on the buggies from 1950, the 1950 Thistle’s actual description of
+Regardless of the timing option, all MCDS students must complete a minimum of 144 units to graduate. Here are the options: Standard Timing — a 16-month degree consisting of study for fall and spring semesters, a summer internship, and fall semester of study. Each semester comprises a minimum of 48 units. This timing is typical for most students. Students graduate in December. Extended Timing — a 20-month degree consisting of study for fall and spring semesters, a summer internship, and a second
+year of fall and spring study. Each semester comprises a minimum of 36 units. Students graduate in May. For a complete overview of the MCDS requirements, visit the MCDS website or read the MCDS Handbook. Curriculum: To earn an MCDS degree, student must pass courses in the core curriculum, the MCDS seminar, a concentration area and electives. Students must also complete a capstone project in which they work on a research project at CMU or on an industry-sponsored project. In total, students must
+MCDS students must also pass the undergraduate course 15-513 Introduction to Computer Systems (6 units), typically in the summer before their program commences. The student must pass with a grade of B- or better. Failure to pass the course means that the student takes 15-213 during either the fall or spring semester. Note that in both cases the units do not count toward the 144 eligible units of study. Click here to see the MCDS Course Map. Some example courses of study are included below.
+
+
+Answer: 

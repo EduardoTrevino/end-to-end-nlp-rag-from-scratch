@@ -1,0 +1,174 @@
+Question: In the paper "Accelerating Diffusion-based Combinatorial Optimization Solvers by Progressive Distillation", what is the performance degradation of the progressively distilled model on the TSP-50 dataset?
+
+Context: Paper title: 'DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization' Published year: 2023 Publication venue or conference: arXiv.org Authors: Zhiqing Sun, Yiming Yang Summary: DIFUSCO is introduced, a new graph-based diffusion framework for NPC combinatorial optimization that outperforms the previous state-of-the-art neural solvers on the challenging SATLIB benchmark and investigates two types of diffusion models with Gaussian and Bernoulli noise, respectively.
+Motivated by the recent remarkable success of diffusion models in probabilistic generation [102, 40, 94, 120, 96], we introduce a novel approach named DIFUSCO, which stands for the graph-based DIFfUsion Solvers for Combinatorial Optimization. To apply the iterative denoising process of diffusion models to graph-based settings, we formulate each NPC problem as to find a {0, 1}-valued vector that indicates the optimal selection of nodes or edges in a candidate solution for the task. Then we use a
+Neural network-based Combinatorial Optimization (CO) methods have shown promising results in solving various NP-complete (NPC) problems without relying on hand-crafted domain knowledge. This paper broadens the current scope of neural solvers for NPC problems by introducing a new graph-based diffusion framework, namely DIFUSCO. Our framework casts NPC problems as discrete {0, 1}-vector optimization problems and leverages graph-based denoising diffusion models to generate high-quality solutions.
+End: 12:50PM,01:50PM,12:20PM,02:50PM
+
+Room: PH A22,WEH 8427,HOA 160,WEH 2302,PH 125B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sandholm, Shah
+
+Spring 2024
+
+Course number: 15288
+
+Title: Special Topic: Machine Learning in a Nutshell
+
+Units: 9.0
+
+Section: W
+
+Days: UTR
+
+Start: 11:30AM
+
+End: 12:45PM
+
+Room: CMB 1190
+
+Locations: Doha, Qatar
+
+Instructors: Di Caro
+
+Spring 2024
+
+Course number: 15294
+
+Title: Rapid Prototyping Technologies
+
+Units: 5.0
+
+Section: A3
+
+Days: MW
+
+Start: 07:00PM
+Instructors: Laird
+
+Fall 2023
+
+Course number: 06326
+
+Title: Optimization Modeling and Algorithms
+
+Units: 6.0
+
+Section: A2
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: GHC 4215
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gounaris
+
+Fall 2023
+
+Course number: 06400
+
+Title: Senior Research Project
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Robinson
+
+Fall 2023
+
+Course number: 06421
+
+Title: Chemical Process Systems Design
+Days: MWF,UMTW
+
+Start: 09:30AM,04:00PM
+
+End: 10:50AM,05:15PM
+
+Room: CMB 2049,TEP 1308
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Balcan,Di Caro
+
+Fall 2023
+
+Course number: 10414
+
+Title: Deep Learning Systems: Algorithms and Implementation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kolter, Chen
+
+Fall 2023
+
+Course number: 10417
+
+Title: Intermediate Deep Learning
+
+Units: 12.0
+
+Section: A
+review sessions on course materials outside th e classroom. SI is a non-remedial approach
+
+to learning as the program targets high-risk  courses and is available in select courses
+
+based on data related to past stu dent performance and feasibility.
+
+Peer Tutoring:  Weekly Tutoring Appointments are offered in a one-on-one and small
+
+group format to students from any discipli ne who need assistance with a course that may
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+Transition: Procedure whereby one pusher finishes pushing a buggy and the next pusher in sequence starts to push that same buggy.
+
+
+Answer: 

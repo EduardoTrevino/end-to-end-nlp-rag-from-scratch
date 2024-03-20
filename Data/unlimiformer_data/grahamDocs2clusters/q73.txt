@@ -1,0 +1,65 @@
+Question: Who is the first paper on the KALE paper by Jamie Callan's group?
+
+Context: Paper title: 'KALE: Using a K-Sparse Projector for Lexical Expansion' Published year: 2023 Publication venue or conference: International Conference on the Theory of Information Retrieval Authors: Bruno Martins, Jamie Callan, Luís Borges Summary: KALE is a new lightweight method that uses a small model with a k-sparse projector to convert dense representations into a sparse set of entries from a latent vocabulary, which can replace the original lexical vocabulary with gains in accuracy and
+Paper title: 'Multi-Objective Improvement of Android Applications' Published year: 2023 Publication venue or conference: arXiv.org Authors: J. Petke, Jamie Callan Summary: This work proposes a practical approach and the first open-source tool, GIDroid, for multi-objective automated improvement of Android apps, and uses Genetic improvement, a search-based technique that navigates the space of software variants to find improved software.
+Luyu Gao and Jamie Callan. 2022. Unsupervised cor- pus aware language model pre-training for dense pas- sage retrieval. In Proceedings of the 60th Annual Meeting of the Association for Computational Lin- guistics (Volume 1: Long Papers), pages 2843–2853, Dublin, Ireland. Association for Computational Lin- guistics.
+
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. 2015. Deep residual learning for image recogni- tion.
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+
+
+Answer: 

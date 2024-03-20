@@ -1,0 +1,160 @@
+Question: What's the theme for the booths at Spring Carnival this year?
+
+Context: Frontiers in Computer Science
+
+04
+
+10.3389/fcomp.2023.1085507
+
+diﬀerent themes (Haunted House, Wild West, Space Adventure, Amusement Park), playing a variety of small games in each theme area predestined to learn decimals. The youngster’s progress is made through a sequence of steps in the park and players are graphically shown the next game (McLaren et al., 2017).
+Theme
+
+378
+INSTRUCTSCORE Input: Reference: Activities include the “Cool Maker Loves Family” carnival of children’s future learning, the first children’s visual art festival, the “Book Carnival” event and the “Whole Family Loves Reading” Picture Book Reading activity. Output: Activities include the "love family and create cool" children’s future learning carnival, the first chil- dren’s visual arts festival, the "book carnival" activity, the "family love reading" picture book series activity.
+Instructors: Hayes,Bista,Cupkova,Arscott,Damiani,Garofalo,Lee,Bizon
+
+Spring 2024
+
+Course number: 48516
+
+Title: Carnival Gateway Special Project
+
+Units: VAR
+
+Section: A4
+
+Days: M
+
+Start: 06:30PM
+
+End: 07:50PM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Khan
+
+Spring 2024
+
+Course number: 48517
+
+Title: Carnival Gateway Project Management:
+
+Units: VAR
+
+Section: A, ,B
+
+Days: M,
+
+Start:  ,06:30PM
+
+End:  ,07:50PM
+
+Room:  ,CFA 206A
+
+Locations:  ,Pittsburgh, Pennsylvania
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Noel,Sindi,Kwon
+
+Spring 2024
+
+Course number: 48616
+
+Title: Carnival Gateway Special Project
+
+Units: VAR
+
+Section: A4
+
+Days: M
+
+Start: 06:30PM
+
+End: 07:50PM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Khan
+
+Spring 2024
+
+Course number: 48617
+
+Title: Carnival Gateway Project Management
+
+Units: VAR
+
+Section: A,B
+
+Days: M
+
+Start: 06:30PM
+
+End: 07:50PM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Achnani,Tannir,Sindi,Abraham, Achnani, Sindi, Tannir,Bizon
+
+Fall 2023
+
+Course number: 48307
+
+Title: Carnival Pavilion
+
+Units: VAR
+
+Section: A1,B2,A2
+
+Days: W
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: CFA 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Achnani,Khan
+
+Fall 2023
+
+Course number: 48310
+
+Title: Prototyping Stories: Experimental Children's Book and Vis Dev as An Architectura
+
+Units: 9.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CFA 211
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+The Finals, initially scheduled for 2pm on Saturday, May 4, were ultimately postponed until Saturday, May 11, due to a downpour that cast a damper on an otherwise exciting Spring Carnival. Controversial Finals. An overcast sky threatened rain on the makeup date as well, though it held off long enough for the race to be run. But some of the spectators may have wished the rain came sooner. Although signs were posted about the makeup date, cars ignored the notices and ended up blocking part of the
+
+
+Answer: 

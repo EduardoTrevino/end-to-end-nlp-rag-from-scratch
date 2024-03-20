@@ -1,0 +1,179 @@
+Question: What are the number of units for independent study: breadth?
+
+Context: The human annotation study was conducted on the online research platform Prolific.4 To avoid annotator fatigue, the 52 categories were randomly split into 5 sets of roughly equal size, and each set was given its own annotation task. Sentences were annotated in batches of 20, and each annota- tion task had 6 independent annotators. During the study, each annotator was shown one sentence at a time, alongside one set of 8 to 10 LIWC categories. Annotators were then asked to rate on a scale from 0
+Representations (atomic units of computation), Operations (manipulation and
+
+transformation of representations into a novel format), Structures (arrangements of
+
+representations into hierarchical relations with independent identities not reliant purely
+
+on the properties of individual units) and Encoding (the real-time maintenance of
+
+structures, and the ‘shielding’ of their identity against decay and transformation). As
+
+such, I will defend what I will term the ROSE model.
+out, and we will receive calls to dismantle models of sentence parsing. Regardless of
+
+one’s philosophical bent, single-unit and other types of intracranial recordings are
+
+plainly the most direct and reliable means to further test and refine ROSE (McCarty et
+
+al., 2022), in particular given recent independent assessments that spontaneous
+
+BOLD activity may be more closely aligned with offline plasticity and homeostatic
+Units: VAR
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 4625,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Fried, Welleck
+
+Spring 2024
+
+Course number: 11910
+
+Title: Directed Research
+
+Units: 1-48
+
+Section: A,P,B,PP
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Frederking,Callan
+
+Spring 2024
+
+Course number: 11920
+
+Title: Independent Study: Breadth
+
+Units: 1-48
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bisk
+
+Fall 2023
+
+Course number: 11910
+
+Title: Directed Research:
+
+Units: 1-48
+
+Section: A, ,PP
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room: TBA,
+
+Locations:  ,Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+
+Course number: 11920
+
+Title: Independent Study: Breadth
+
+Units: 1-48
+
+Section: E,I,AC,BC,AD,AE,F,CC,D,AH,U,BD,PP,BB,AW,P,C,EE,DD,J,AV,AB,A,S,K,Y,SS,W,B,T,AI,H,L,M,R,AA,N,O,Q,X,Z,G,AJ,QQ,AF,V
+
+Days: TBA
+Title: Master's Independent Study
+
+Units: 0-99
+
+Section: A,M,E,I,K,O,R,X,B,F,G,D,N,J,V,H,L,S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cochran,Pangaro,Cupkova,Kim,Huber,Byrne,Kurland,Cardoso Llach,Instructor TBA,Baird,Gruber,Bard,Loftness,Ficca,Sawyer
+
+Spring 2024
+
+Course number: 48737
+
+Title: Detailing Architecture
+
+Units: 9.0
+
+Section: A
+
+Days: F
+
+Start: 09:30AM
+
+End: 12:20PM
+
+Room: MM 307
+
+Locations: Pittsburgh, Pennsylvania
+But a few of the specific rules changed slightly, or are worth noting again: All drivers, pushers, designers and builders were required to members of the organization they’re competing for All team members (including designers and builders) must be “eligible” under the Executive Board’s requirements, which include a minimum of 36 units and being in good academic standing (with a minimum GPA requirement). The buggy/driver combo must weigh a minimum of 180 pounds (up from the previous 160 lbs)
+1948 saw the first independent orgs and the start of DTD’s run of greatness, but it wasn’t easy, as they barely held off KapSig for the championship.
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+will be evaluated, and submit it to the Program Director before the end of the Add period of the semester of the proposed study. The study should be planned so that it is finished in time for the supervising faculty member to give a grade at the end of the semester. Independent studies may be undertaken for 6 or 12 units. Normally only one Independent Study would be
+
+approved during a student’s MLT coursework.
+
+5.1.5 Transfer Credit
+c. A student may not use the same course to satisfy both a qualifying course
+
+requirement and an elective course requirement.
+
+3. Breadth requirements : Students must demonstrate breadth by passing one  course in
+
+each of the following areas. In addition, MIIS -21 students must take two more LTI
+
+courses (24 units total) in one of the following areas of concentration:
+
+Human language;
+
+Machine learning; and
+
+Language technology applications.
+elective courses that satisfy human language, machine learning, and language technology
+
+applications breadth requirements and 66 practice units for a total of 150 units to attain the
+
+Standard MIIS degree.
+
+MIIS -21 students must take at least 108 units (typically 9 12 -unit courses) of qualifying and
+
+elective courses and 66 practice units to satisfy their degree requirements, making it a total of 174 units to attain the MIIS: Advanced Study degree.
+
+
+Answer: 

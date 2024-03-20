@@ -1,0 +1,205 @@
+Question: Which LTI prof co-authored the paper titled "Self-Refine: Iterative Refinement with Self-Feedback"?
+
+Context: Paper title: 'Self-Refine: Iterative Refinement with Self-Feedback' Published year: 2023 Publication venue or conference: arXiv.org Authors: A. Yazdanbakhsh, Niket Tandon, Luyu Gao, Shrimai Prabhumoye, Aman Madaan, Sarah Wiegreffe, Prakhar Gupta, Uri Alon, Nouha Dziri, Bodhisattwa Prasad Majumder, Skyler Hallinan, Yiming Yang, Shashank Gupta, S. Welleck, Peter Clark Summary: Self-Refine is introduced, an approach for improving initial outputs from LLMs through iterative feedback and refinement
+Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, et al. Self-refine: Iterative refinement with self-feedback. arXiv preprint arXiv:2303.17651, 2023.
+
+Subhabrata Mukherjee, Arindam Mitra, Ganesh Jawahar, Sahaj Agarwal, Hamid Palangi, and Ahmed Awadallah. Orca: Progressive learning from complex explanation traces of gpt-4. arXiv preprint arXiv:2306.02707, 2023.
+Iterative self -refinement is a fundamental characteristic of human problem-solving (Simon, 1962; Flower and Hayes, 1981; Amabile, 1983). Iterative self-refinement is a process that involves creating an initial draft and subsequently refining it based on self-provided feedback. For example, when
+
+1Code and data at https://selfrefine.info/
+
+Preprint. Under review.
+
+2
+
+Use M to reﬁne its previous output, given its feedback
+
+Model M
+
+Input
+
+0
+
+Refine
+
+1
+
+Feedback
+Title: Modern Techniques in Uncertainty Quantification
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 4708
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wu
+
+Spring 2024
+
+Course number: 17765
+
+Title: Autonomous Self-Adaptive Systems Using Reinforcement Learning
+
+Units: 6.0
+
+Section: M4
+
+Days: R
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: GHC 4101
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Al-Shaer
+
+Spring 2024
+
+Course number: 17766
+Room: BH A51,DNM DNM,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors:  ,Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Fall 2023
+
+Course number: 11831
+
+Title: Self-Paced Computational Ethics Lab
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Strubell
+
+Fall 2023
+
+Course number: 11851
+
+Title: Talking to Robots
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 11:50AM
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Fall 2023
+
+Course number: 11726
+
+Title: Meaning in Language Lab (Self Paced)
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11737
+
+Title: Multilingual Natural Language Processing.
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+At least two CMU faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the chair of graduate programs (the form for this is available on the LTI website). This feedback will help the student refine speaking skills with respect to talk structure, content, and delivery.
+
+4.1.3 Withdrawal of a Degree
+Graduate Program Manager, LTI   Principal Systems Scientist
+
+GHC 6415      GHC 6515
+
+412- 268-4788      412- 268-6656
+
+kschaich@cs.cmu.edu     ref@cs.cmu.edu
+
+Robert Frederking     Mona Diab
+
+Cha ir of Graduate Programs, LTI   Director, LTI
+
+Principal Systems Scientist    GHC 5415
+
+GHC 6515      412- 268-6656
+
+mdiab@andrew.cmu.edu
+
+In addition, students may confer with the Graduate Education Office (graded@andrew.cmu.edu
+
+) regarding issues of process or other concerns as they navigate
+
+
+Answer: 

@@ -1,0 +1,166 @@
+Question: When did the MLT application period for Fall 2024 admissions start?
+
+Context: Received: 14 October 2022 – Discussion started: 27 February 2023 Revised: 9 May 2023 – Accepted: 17 July 2023 – Published: 1 September 2023
+Interviews were semi-structured (Weiss, 1995), including a dedicated notetaker, and recorded with participant consent, lasting between 45-73 minutes (mean: 58 minutes). Interviews followed an in- terview guide (see Appendix A.3) and began by contrasting the participant’s experience of the NLP community at the start of their career and the cur- rent moment, then moved to discussion of shifts in the community during their career. Interviews were conducted between November 2022 and May 2023;
+Attention heads 6.1, 5.8, and 6.15, write into 7.2, 9.9, 11.1, and 11.5, 13.12, 14.14, MLPs 14 and 15. In turn these latter components write into MLPs 17-23. To summarize, the earlier induction heads (7.2, 9.9, 11.1, etc. see Figure 17) attend from the last token (e.g., “17”) to the last two digits in the start year (e.g., the “32” in “1732”). 14.14 is a significant mover head in the Colored Objects task and has the same pattern. Similarly to Hanna et al. (2023), the MLPs perform the majority
+Title: Blockchain Applications
+
+Units: 9.0
+
+Section: W
+
+Days: MW
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 2035
+
+Locations: Doha, Qatar
+
+Instructors: AAZAM
+
+Fall 2023
+
+Course number: 67410
+
+Title: Clinical Data Science
+
+Units: 9.0
+
+Section: W
+
+Days: MW
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 3044
+
+Locations: Doha, Qatar
+
+Instructors: Phelps
+
+Fall 2023
+
+Course number: 67415
+
+Title: Cyber Ethics and Regulation
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 04:00PM
+
+End: 05:15PM
+
+Room: CMB 2051
+Section: 12,A2
+
+Days: M,W
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: POS 145,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Perl
+
+Fall 2023
+
+Course number: 67328
+
+Title: Full-Stack Application Development
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hershberger, Dobson
+
+Fall 2023
+
+Course number: 67331
+
+Title: Technology Consulting in the Global Community
+
+Units: VAR
+
+Section: A1,A2
+
+Days: TBA
+
+Start:
+Fall 2023
+
+Course number: 07128
+
+Title: First Year Immigration Course
+
+Units: 3.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cortina, Peet
+
+Fall 2023
+
+Course number: 07129
+
+Title: Freshmen Immigration Course
+
+Units: 3.0
+
+Section: W1
+
+Days: MW
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 1202
+
+Locations: Doha, Qatar
+
+Instructors: Harras
+
+Fall 2023
+
+Course number: 07131
+
+Title: Great Practical Ideas for Computer Scientists
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail
+
+
+Answer: 

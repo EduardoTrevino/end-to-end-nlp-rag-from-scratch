@@ -1,0 +1,57 @@
+Question: The analysis in the paper Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models, includes how many diverse languages?
+
+Context: 3 2 0 2
+
+y a M 3 2
+
+] L C . s c [
+
+1 v 7 0 7 3 1 . 5 0 3 2 : v i X r a
+
+Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
+
+♢
+
+♠
+
+♢
+
+Orevaoghene Ahia
+
+Sachin Kumar
+
+Hila Gonen ♢♡
+
+Jungo Kasai
+
+♠
+
+♢
+
+David R. Mortensen
+
+Noah A. Smith
+
+Yulia Tsvetkov
+
+♢
+
+♢
+
+Paul G. Allen School of Computer Science & Engineering, University of Washington Language Technologies Institute, Carnegie Mellon University Allen Institute for Artificial Intelligence
+
+♠
+
+♡
+
+Abstract
+Julien Abadji, Pedro Ortiz Suarez, Laurent Romary, and Benoît Sagot. 2022. Towards a Cleaner Document- Oriented Multilingual Crawled Corpus. arXiv e- prints, page arXiv:2201.06642.
+
+Orevaoghene Ahia, Sachin Kumar, Hila Gonen, Jungo Kasai, David R. Mortensen, Noah A. Smith, and Yu- lia Tsvetkov. 2023. Do all languages cost the same? tokenization in the era of commercial language mod- els.
+information in different languages. In this work, we analyze the effect of this non- uniformity on the fairness of an API’s pricing policy across languages. We conduct a system- atic analysis of the cost and utility of OpenAI’s language model API on multilingual bench- marks in 22 typologically diverse languages. We show evidence that speakers of a large num- ber of the supported languages are overcharged while obtaining poorer results. These speak- ers tend to also come from regions where the
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+(11-761) - Multimodal Affective Computing (11-776) - The Nature of Language (80-180)
+22. Language learning software, 2010 Learning a second language has always been challenging, but a CMU spinoff called Duolingo is proving that it doesn’t have to be expensive. Duolingo has developed language tutoring software that enables users to learn Spanish, English, Italian, German, Portuguese or French for free through its website and mobile apps. In the process, Duolingo users are helping to translate the Web.
+
+
+Answer: 

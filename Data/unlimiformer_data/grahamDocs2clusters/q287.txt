@@ -1,0 +1,161 @@
+Question: What street is CMU LTI located one?
+
+Context: Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mortensen,Morency
+
+Fall 2023
+
+Course number: 11390
+
+Title: LTI Minor Project - Juniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11411
+
+Title: Natural Language Processing:
+
+Units: 12.0
+
+Section: A, ,B
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,CMU REMOTE,POS A35
+We would like to thank our workers on MTurk for their responses. We are also grateful to the anonymous reviewers for their helpful comments. Special thanks to Saadia Gabriel, Jocelyn Shen, Ashutosh Baheti, and the members of the CMU LTI COMEDY group for their feedback, and Ope- nAI for providing access to the GPT-3.5 API. This research was supported in part by the Meta Fun- damental AI Research Laboratories (FAIR) “Dyn- abench Data Collection and Benchmarking Plat- form” award “ContExTox:
+Room: CMU REMOTE,CMR F307
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Fall 2023
+
+Course number: 18726
+
+Title: Projects in Integrated Circuit Design: First Silicon
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mai
+
+Fall 2023
+
+Course number: 18729
+
+Title: Special Topics in Circuits:
+
+Units: 12.0
+
+Section: C,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,ANS C02
+https://www.cmu.edu/police/   x2323  LTI Ph.D.  Graduate Student Handbook  Page 49
+
+The University Police Department is located at 4551 Filmore  Street . The department’s services
+
+include police patrols and call response, criminal investigations, fixed officer and foot officer
+
+patrols, event security, and crime prevention and education programming as well as bicycle and
+
+laptop registration. Visit the department’s website for additional information about the staff,
+conflicts.
+
+The Language Technologies Institute is located primarily on the 5
+
+th and 6th floors  of the Gates
+
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus. The address and contact
+
+information of the LTI are:
+
+Language Technologies Institute
+
+Carnegie Mellon University
+
+5000 Forbes Avenue
+
+Gates Hillman Complex 5402, LTI
+
+Pittsburgh, PA 152 41-3891
+
+412- 268-6591 (phone)
+
+412- 268-6298 (fax)
+
+http://www.lti.cs.cmu.edu/
+
+MLT Graduate Student Handbook  Page 8
+The Language Technologies Institute is located primarily on the 5th and 6th floors of the Gates
+
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus . The address and contact
+
+information of the LTI are :
+
+Language Technologies Institute
+
+Carnegie Mellon University
+
+5000 Forbes Avenue
+
+Gates Hillman Complex 5404 , LTI
+
+Pittsburgh, PA 15241 -3891
+
+412-268-6591  (phone)
+
+412-268-6298 (fax)
+
+http://www.lti.cs.cmu.edu/
+
+1.5 Carnegie Mellon University Statement of Assurance
+
+
+Answer: 

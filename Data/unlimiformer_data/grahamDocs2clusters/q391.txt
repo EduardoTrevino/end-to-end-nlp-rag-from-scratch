@@ -1,0 +1,55 @@
+Question: Which LTI faculty member is an author on "Aligning Large Multimodal Models with Factually Augmented RLHF"?
+
+Context: Paper title: 'Aligning Large Multimodal Models with Factually Augmented RLHF' Published year: 2023 Publication venue or conference: arXiv.org Authors: Liangyan Gui, Yu-Xiong Wang, Chuang Gan, Zhiqing Sun, Yikang Shen, Chunyuan Li, Sheng Shen, K. Keutzer, Yiming Yang, Shengcao Cao, Trevor Darrell, Haotian Liu Summary: A new alignment algorithm called Factually Augmented RLHF is proposed that augments the reward model with additional factual information such as image captions and ground-truth
+3 2 0 2
+
+p e S 5 2
+
+]
+
+V C . s c [
+
+1 v 5 2 5 4 1 . 9 0 3 2 : v i X r a
+
+Preprint
+
+ALIGNING LARGE MULTIMODAL MODELS WITH FACTUALLY AUGMENTED RLHF
+
+Zhiqing Sun∗♠, Sheng Shen∗♣, Shengcao Cao∗ ♢ Haotian Liu♡, Chunyuan Li♮, Yikang Shen△, Chuang Gan†∇△, Liang-Yan Gui†♢ Yu-Xiong Wang†♢, Yiming Yang†♠, Kurt Keutzer†♣, Trevor Darrell†♣ ♣UC Berkeley, ♠CMU, ♢UIUC, ♡UW–Madison, ∇UMass Amherst ♮Microsoft Research, △MIT-IBM Watson AI Lab
+
+ABSTRACT
+Nisan Stiennon, Long Ouyang, Jeffrey Wu, Daniel Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, and Paul F Christiano. Learning to summarize with human feedback. Advances in Neural Information Processing Systems, 33:3008–3021, 2020.
+
+Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liang-Yan Gui, Yu-Xiong Wang, Yiming Yang, et al. Aligning large multimodal models with factually augmented rlhf. arXiv preprint arXiv:2309.14525, 2023a.
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+projects.) Even self -supporting MLT students are expected to perform research with a faculty
+
+advisor, since research experience is an important part of our graduate programs. Until a student finds a specific advisor, the chair of the LTI graduate prog rams serves as the advisor.
+
+How to change advisors:  The initial advisor selection should be made carefully. However, it is
+
+possible to change advisors. To do so, the student should find another faculty member willing
+Language Technologies Institute - Faculty Name: Alexander Rudnicky Email: alex.rudnicky@cs.cmu.edu Office: 6511 Gates & Hillman Centers Research Areas: Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing Phone: 412-268-2622
+
+
+Answer: 

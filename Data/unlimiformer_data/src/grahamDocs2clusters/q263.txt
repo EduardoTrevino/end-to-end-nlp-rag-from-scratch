@@ -1,0 +1,19 @@
+Question: What is HomeRobot?
+
+Context: HomeRobot is a simple, easy-to-set-up library that works in multiple environments and Figure 4: requires only relatively affordable hardware. Computationally intensive operations are performed on a desktop PC with a GPU, and a dedicated consumer-grade router provides a network interface to a robot running low-level control and SLAM.
+homerobot-info@googlegroups.com
+
+(noun): An affordable compliant robot that navigates Abstract: HomeRobot homes and manipulates a wide range of objects in order to complete everyday tasks.
+HomeRobot: We also propose HomeRobot,1 a software framework to facilitate extensive bench- marking in both simulated and physical environments. It comprises identical APIs that are imple- mented across both settings, enabling researchers to conduct experiments that can be replicated in both simulated and real-world environments. Table 1 compares HomeRobot OVMM to the literature. Notably, HomeRobot provides a robotics stack for the Hello Robot Stretch which supports a range of capabilities in
+What is a Tartan?
+“Buggy is a sport that encompasses all elements that CMU has to offer,” he said. “Everything that goes into it, the challenge, the teamwork, the fun, the rewards. It’s a real-life challenge working with a team. I learned to work together with people with different personalities and visions toward the same goal to make it happen.”
+Driver: Person who travels with a buggy and controls the vehicles via steering and braking systems.
+
+Pushbar: Structure attached to a buggy that a person pushes to propel that buggy forward.
+
+Pusher: Person who propels a buggy via a pushbar along one of the five hills of the buggy course.
+
+Shell: Entire outer structure or covering of a buggy that determines that buggy's aerodynamic characteristics.
+
+
+Answer: 

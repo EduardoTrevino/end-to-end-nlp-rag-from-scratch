@@ -1,0 +1,162 @@
+Question: What is the mechanism that is critical to language learning in young children?
+
+Context: Unlike current state-of-the-art language models, young children actively acquire language through interactions with their surrounding environment and caretakers. One mechanism that has been argued to be critical to language learning is the abil- ity to infer the mental states of other agents in social environments, coined Theory of Mind (ToM) by Premack & Woodruff (1978). Drawing inspiration from the modern operationalized versions of ToM implemented in Rabinowitz et al. (2018) and Zhu et al.
+In this paper, we study how an internal ToM mechanism and external environmental pressure con- tribute to language learning. We use an image referential game setting consisting of a series of training episodes between a speaker, which represents a language learner (Zhu et al., 2022), and a listener, which represents a ﬂuent teacher. When presented with a set of images, one of which is the target referent, the speaker must learn to generate an English utterance that the listener can use to
+Tsuji, S., Jincho, N., Mazuka, R., & Cristia, A. (2020). Communicative cues in the absence of a human interaction partner enhance 12-month-old infants’ word learning. Journal of Experimental Child Psychology, 191, 104740.
+
+Ulker, M. (2019). The approach of learning a foreign language by watching tv series. Educational
+
+Research and Reviews, 14, 608–617.
+
+Van den Bussche, E., Van den Noortgate, W., & Reynvoet, B. (2009). Mechanisms of masked priming: A
+Course number: 82793
+
+Title: Teaching Methodologies for the Foreign Language Classroom
+
+Units: 9.0
+
+Section: A
+
+Days: W
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: POS 235
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Youngs
+
+Fall 2023
+
+Course number: 82795
+
+Title: Ideologies of Critical Language Awareness
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 235
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Austin
+
+Fall 2023
+
+Course number: 82888
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Title: Meaning in Language Lab (Self Paced):
+
+Units: 6.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11741
+
+Title: Machine Learning with Graphs
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Spring 2024
+
+Course number: 11742
+
+Title: Search Engines
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+22. Language learning software, 2010 Learning a second language has always been challenging, but a CMU spinoff called Duolingo is proving that it doesn’t have to be expensive. Duolingo has developed language tutoring software that enables users to learn Spanish, English, Italian, German, Portuguese or French for free through its website and mobile apps. In the process, Duolingo users are helping to translate the Web.
+Information retrieval, machine translation and speech technology are used daily by the general public, while text mining, natural language processing and language-based tutoring are common within more specialized professional or educational environments. The LTI prepares students for this world by offering a minor that gives you the opportunity to not only learn about language technologies, but to also apply that knowledge through a directed project.
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+
+
+Answer: 

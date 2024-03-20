@@ -1,0 +1,29 @@
+Question: What can PhD students use LTI's computer cluster for?
+
+Context: This work was supported in part by IBM research, the Microsoft Accelerate Foundation Models Research award, and the Google PhD Fellowship. We would also like to thank the computation support from AiMOS, a server cluster for the IBM Research AI Hardware Center. We thank Yizhong Wang, Frank Xu, and Zhengbao Jiang for their insightful discussions and help with the experiments. We thank the anonymous reviewers for their helpful suggestions.
+Levin Tree Search (LTS) is a search algorithm that makes use of a policy (a probability distribution over actions) and comes with a theoretical guar- antee on the number of expansions before reach- ing a goal node, depending on the quality of the policy. This guarantee can be used as a loss func- tion, which we call the LTS loss, to optimize neu- ral networks representing the policy (LTS+NN). In this work we show that the neural network can be substituted with parameterized context models
+In Table 1 and Table 2, we see that the “Keyphrase Clustering” approach is our strongest approach, achieving the best results on 3 of 5 datasets (and giving comparable performance to the next strongest method, pseudo-oracle PCKMeans, on the other 2 datasets). This suggests that LLMs are useful for expanding the contents of text to facili- tate clustering.
+
+Instructor-base Instructor-large Instructor-XL (Su et al., 2022)
+
+- - - - - - - -
+Many Ph.D. advisors also provide access to computer clusters, cloud computing, or other resources to support computationally -intense research.
+
+Ph.D. students are given access to the LTI’s computer cluster on an as- needed basis, to be used for
+
+course assignments, directed study projects, and/or capstone projects. The LTI cluster provides
+
+storage and computation for projects involving large datasets and/or lengthy computation.
+MS students will be given access to the LTI’s computer cluster on an as-needed basis, to be used for course assignments, directed study projects, and/or the capstone project. The LTI cluster provides storage and computation for projects involving large datasets and/or lengthy computation. 3 MCDS Degree Completion and Certification This section describes the various rules and regulations that determine the attainment of a MCDS degree by the student. 3.1 CMU Degree Completion and Statute of
+used for course assignments, directed study projects , and/or capstone projects. The LTI cluster
+
+provides storage and computation for projects involving large datasets and/or lengthy computation.
+
+3 Master’s Degree Completion and Certification
+
+3.1 Standard Degree Requirements an d Degree Certification
+
+3.1.1 Graduate Students
+
+
+Answer: 

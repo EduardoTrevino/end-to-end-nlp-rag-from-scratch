@@ -1,0 +1,183 @@
+Question: What are the four categories of low-level acoustic descriptors used in the TAP loss?
+
+Context: where Lf t/Lf t are finetuning/pretraining loss functions, Df t/Dpt are finetuning/pretraining datasets, and w(·; λ) is the data reweighting network. Following the experiment setup in TARTAN [11], we use task-specific data and a masked language modeling loss in our auxiliary task and perform experiments with RoBERTa-base on 4 datasets from the original DAPT/TAPT paper. We compare our SAMA- based data optimization against DAPT and TARTAN-MT. We exclude TAPT and TARTAN-Meta respectively because
+to perform evaluations of four metrics: SSIM, FSIM, MSE, and PSNR. No training is performed, and the weights of the encoder and the decoder are frozen.
+
+In Fig. 9, we show the reconstruction analysis using the origi- nal patch size design in MAE. Similar to the result in the main text, higher patch sizes produce image reconstructions capturing high- level similarities better, while low patch sizes have reconstructions better on low-level metrics.
+port level in play when the model over-generated and under-generated hedges. Since rapport is anno- tated from 1 to 7 in the dataset, for convenience, we divided it into 3 levels: high (5-7), medium (3-5), and low rapport (1-3), as shown in Table 3.
+Title: Tap III: Expand Percussive Rhythms
+
+Units: 2.0
+
+Section: A,B
+
+Days: R,T
+
+Start: 04:30PM
+
+End: 05:20PM
+
+Room: PCA 306
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cousin,Conte
+
+Spring 2024
+
+Course number: 54326
+
+Title: Actor Dance III
+
+Units: 2.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:00PM
+
+Room: PCA 313
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cousin
+
+Spring 2024
+
+Course number: 54328
+
+Title: Advanced Digital Sound Design Skills
+
+Units: 9.0
+
+Section: A
+
+Days: W
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cody
+
+Spring 2024
+
+Course number: 54224
+
+Title: Tap II: Rhythmic Technique/Foundational to Complex
+
+Units: 2.0
+
+Section: A,B
+
+Days: T,F
+
+Start: 12:30PM
+
+End: 01:20PM
+
+Room: PCA 306
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Conte
+
+Spring 2024
+
+Course number: 54230
+
+Title: Make-Up for Designers
+
+Units: 6.0
+
+Section: A
+
+Days: R
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: PCA A19
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Russman
+Title: Mediated Narrative
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: HL A10A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Tapia, Vituccio
+
+Spring 2024
+
+Course number: 76390
+
+Title: Style
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 5328
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Idzik
+
+Spring 2024
+
+Course number: 76392
+
+Title: Special Topics in Literature & Culture:
+
+Units: 9.0
+
+Section: A, ,B
+
+Days:  ,MW,TR
+1948 – Design Competition (from the 1949 Thistle). Identified buggies: KapSig (3rd from the left, back row); PiKA (4th from the left, back row); Beta Sigma Rho (far left, back row). We also believe that the bottom buggy in the front row (3 wheels, no shell) belongs to Citcom Clan.
+
+1948 – Hill 1 of the Finals (from the 1949 Thistle). KapSig in Lane 1 (left), DTD in Lane 2 (middle), PiKA in Lane 3 (right)
+thanks to the 1948 Thistle, we know that DTD, DU, and PiKA had the top 3 times from the Prelims and advanced to the Finals. We also know that storms moved in right after the Prelims on Friday, creating some concern about whether the Finals would run as scheduled. ANOTHER Controversial Finals. For the second year in a row, there was a major controversy during the finals. Unfortunately, this time we don’t actually know what the controversy was.
+Fringe vehicles often are named with the letter "B," like Boson, Blueshift, Bissa and Bumper. Other teams, such as Apex, often use names that connotate fire, while the SDC (Student Dormitory Committee) team, uses names such as Vice, Bane, Avarice and Malice.
+
+This year's buggy names will be under wraps until Thursday, when the Buggy Showcase will take place from noon to 2 p.m. in Weigand Gymnasium in the Cohon University Center. It's one of the few times spectators can see buggies up close.
+5.1.2  Double -Dipping  ..................................................................................................... 20
+
+5.1.3  Pass/Fail Grades  .................................................................................................... 21
+
+5.1.4  Independent Study ................................................................................................ 21
+4.1.4  Pass/Fail Grades ...................................................................................................................... 25
+
+4.1.5  Transfer Credit  ........................................................................................................................ 25
+
+4.1.6  Residency Requirements  ...................................................................................................... 25
+Graduate students will find informat ion about parking and availability, parking policies,
+
+transportation options and Port Authority Transit usage with a valid university ID on the Parking and Transportation Services site. The Parking and Transportation Services office is located in
+
+the lower  level o f the East Campus Garage. There is limited parking on campus and the varying
+
+permit rat es can be found on the website. All parking areas of campus are either by permit,
+
+
+Answer: 

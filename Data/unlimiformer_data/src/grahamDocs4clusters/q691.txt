@@ -1,0 +1,161 @@
+Question: In the paper "Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations", what does ILL leverage for modeling the imprecise label information?
+
+Context: Paper title: 'Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations' Published year: 2023 Publication venue or conference: arXiv.org Authors: Jindong Wang, B. Raj, Masashi Sugiyama, Ankit Shah, R. Tao, Xingxu Xie, Yidong Wang, Hao Chen, Rita Singh Summary: Imprecise label learning (ILL) is introduced, a framework for the unification of learning with various imprecise label configurations, marking the first unified framework with robust and
+learning with various imprecise label configurations. ILL leverages expectation- maximization (EM) for modeling the imprecise label information, treating the precise labels as latent variables. Instead of approximating the correct labels for training, it considers the entire distribution of all possible labeling entailed by the imprecise information. We demonstrate that ILL can seamlessly adapt to partial label learning, semi-supervised learning, noisy label learning, and, more impor- tantly, a
+Learning with reduced labeling standards, such as noisy label, partial label, and multiple label candidates, which we generically refer to as imprecise labels, is a commonplace challenge in machine learning tasks. Previous methods tend to propose specific designs for every emerging imprecise label configuration, which is usually unsustainable when multiple configurations of imprecision coexist. In this paper, we introduce imprecise label learning (ILL), a framework for the unification of
+Title: Student Taught Courses (StuCo):UXplore: Uncover the Best of Modern UX Design:
+
+Units: 3.0
+
+Section: A,
+
+Days: M,
+
+Start:  ,07:00PM
+
+End:  ,07:50PM
+
+Room: PH A18A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Addepalli
+
+Fall 2023
+
+Course number: 98097
+
+Title: Student Taught Courses (StuCo): Intro to 3D Modeling- Character Design Pipeline:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,F
+
+Start:  ,07:00PM
+
+End:  ,08:50PM
+
+Room:  ,CFA 317
+
+Locations:  ,Pittsburgh, Pennsylvania
+End: 03:20PM
+
+Room: 3SC 110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Urbanic Jr
+
+Fall 2023
+
+Course number: 38615
+
+Title: Computational Modeling, Statistical Analysis and Machine Learning in Science
+
+Units: 12.0
+
+Section: A,B
+
+Days: MWF,TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CUC MCCNMY,3SC 110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Isayev,Chai, Gormley
+
+Fall 2023
+
+Course number: 10315
+
+Title: Introduction to Machine Learning (SCS Majors)
+
+Units: 12.0
+
+Section: A,W
+Title: Computational Modeling, Statistical Analysis and Machine Learning in Science
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 3SC 110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Isayev
+
+Fall 2023
+
+Course number: 09700
+
+Title: Introduction to Research
+
+Units: 3.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 08:50AM
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Armitage
+
+Fall 2023
+
+Course number: 09707
+
+Title: Nanoparticles:
+
+Units: 12.0
+In the spring, the Task Force partnered with SME Branding — a firm with more than 17 years of experience creating mascots for professional sports teams and universities — to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.
+“Buggy is a sport that encompasses all elements that CMU has to offer,” he said. “Everything that goes into it, the challenge, the teamwork, the fun, the rewards. It’s a real-life challenge working with a team. I learned to work together with people with different personalities and visions toward the same goal to make it happen.”
+You'll know it's a tartan if... • "It's a check or pattern in a variety of colours in woven fabric in which bands of colour are repeated in equal proportion in warp (running lengthwise) and weft (running across)." • "Each stripe of the warp crosses every stripe of the weft, so when vertical and horizontal stripes of the same color cross, the result is solid color at the point of intersection." • "The arrangement of colored threads is the same in the warp as in the weft."
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+Analytics. Students electing to complete the Analytics concentration will also learn to:
+
+Design, implement and evaluate a software system and machine
+
+learning model on real world datasets at real world scale.
+
+Analyze and document data science requirements in different application domains and survey as well as critique state of the art solutions for those requirements.
+
+Systems. Students electing to complete the Systems concentration will also learn to:
+Carnegie Mellon University. This program seeks to educate students in the innovative use of
+
+artificial intelligence to create practical soluti ons in a wide variety of application areas. As
+
+artificial intelligence matures, th ere is a great need for students who can envision, design, plan
+
+and deliver solutions that integrate AI technolo gies such as deep learning, natural language
+
+processing, robotics and big data analytics into  new applications. The program stresses both 10
+
+
+Answer: 

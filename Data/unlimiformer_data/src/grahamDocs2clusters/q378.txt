@@ -1,0 +1,97 @@
+Question: Is the Wiegand Gymnasium located in the Jared L. Cohon University Center?
+
+Context: Instructors: Pisztora,Wiesel,Hrusa,Bukh,Bohman,Tkocz,Shkolnikov,Grossberg,Frieze,Neumayer,Pegden,Frick,Anderson,Rosenzweig,Instructor TBA,Schimmerling,Tice,Statman,Tetali,Conley,Kinderlehrer,Fonseca,Young,Loh,Cummings,Slepcev,Iyer,Walkington,Leoni,Kramkov,Larsson,Tikhomirov
+
+Spring 2024
+
+Course number: 21901
+
+Title: Master's Degree Research
+
+Units: 0-99
+
+Section: E,I,F,D,P,C,J,S,A,K,B,T,H,L,M,R,O,Q,G,N
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+End:  ,04:50PM
+
+Room:  ,WEH 5328
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Wiesel
+
+Spring 2024
+
+Course number: 21900
+
+Title: Reading and Research
+
+Units: 0-99
+
+Section: E,I,FF,F,HH,CC,D,U,GG,BB,P,C,EE,DD,J,S,A,K,Y,W,B,T,H,L,M,R,AA,O,Q,X,Z,G,N,V
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Greg Brockman, Vicki Cheung, Ludwig Pettersson, Jonas Schneider, John Schulman, Jie Tang, and Wojciech Zaremba. Openai gym, 2016. URL https://arxiv.org/abs/1606.01540.
+
+Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Ponde, Jared Kaplan, Harri Edwards, Yura Burda, Nicholas Joseph, Greg Brockman, et al. Evaluating large language models trained on code. ArXiv preprint, abs/2107.03374, 2021. URL https://arxiv.org/abs/2107. 03374.
+mailing services, and postal services. Tartan Ink is located on the Lower Level of the Cohon University Center. More information regarding these services, business hours, locations and
+
+contact information can be foun d on the Office of Tartan Ink website at:
+
+https://www.cmu.edu/tartanink/aboutus/index.html
+
+.
+
+6.16 University Center
+
+www.cmu.edu/university -center
+
+The Jared L. Cohon  University Center is a centerpiece of the campus that provides a space for
+sports, physical education classes and club sports. The Athletics Department also offers aerobics
+
+classes in the University Center as well as occasional workshops and instruction related to fitness and health . The administrative offices are located in the Cohon University Fitness Center .
+
+The University Center’s recreational facilities include an eight -lane pool, racquetball and squash
+
+courts, aerobics room, fitness center and gym for basketball and volleyball. With renovations to
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+
+
+Answer: 

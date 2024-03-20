@@ -1,0 +1,154 @@
+Question: In the BiasX paper, how much do imperfect machine-generated explanations help in correctly identifying subtly (non-)toxic content?
+
+Context: explanations for cor- rectly identifying subtly (non-)toxic content. The quality of explanations is critical: imper- fect machine-generated explanations (+2.4% on hard toxic examples) help less compared to expert-written human explanations (+7.2%). Our results showcase the promise of using free- text explanations to encourage more thoughtful toxicity moderation.
+of varying difficulties. We explore three primary research questions: (1) When do free-text explana- tions help improve the content moderation quality, and how? (2) Is the explanation format in BIASX effective? and (3) How might the quality of the explanations affect their helpfulness? Our results show that BIASX indeed helps moderators better detect hard, subtly toxic instances, as reflected both in increased moderation performance and subjec- tive feedback. Contrasting prior work that use
+BIASX improves moderation quality, especially on hard-toxic examples. Shown in Figure 2a, we find that HUMAN-EXPL leads to substantial gains in moderation accuracy over the NO-EXPL base- line on both hard-toxic (+7.2%) and hard-non-toxic examples (+7.7%), which as a result is reflected as a +4.7% accuracy improvement overall. This indi- cates that explicitly calling out statements’ implied stereotypes or prejudices does encourage content moderators to think more thoroughly about the tox- icity
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Singh
+
+Spring 2024
+
+Course number: 47954
+
+Title: Human and Algorithmic Bias
+
+Units: 6.0
+
+Section: A4
+
+Days: T
+
+Start: 12:00PM
+
+End: 02:50PM
+
+Room: TEP 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Huang
+
+Spring 2024
+
+Course number: 47990
+
+Title: Sem. in Strategic Mgmt:Core Strategy Research/Implications for Teaching Strategy
+
+Units: 6.0
+
+Section: A3
+
+Days: R
+
+Start: 12:25PM
+
+End: 04:15PM
+
+Room: TEP 5222
+Title: Student Taught Courses (StuCo):UXplore: Uncover the Best of Modern UX Design:
+
+Units: 3.0
+
+Section: A,
+
+Days: M,
+
+Start:  ,07:00PM
+
+End:  ,07:50PM
+
+Room: PH A18A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Addepalli
+
+Fall 2023
+
+Course number: 98097
+
+Title: Student Taught Courses (StuCo): Intro to 3D Modeling- Character Design Pipeline:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,F
+
+Start:  ,07:00PM
+
+End:  ,08:50PM
+
+Room:  ,CFA 317
+
+Locations:  ,Pittsburgh, Pennsylvania
+Title: Ethics, Social Biases, and Positive Impact in Language Technologies
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 153
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sap
+
+Spring 2024
+
+Course number: 11860
+
+Title: Quantum Computing, Cryptography and Machine Learning Lab
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Singh, Ramakrishnan
+
+Spring 2024
+could solve logic puzzles in the same way that a human might solve them. Newell demonstrated that it worked by writing the instructions on 3-by-5 index cards that were manipulated on the kitchen table by Newell, his wife, and a group of Carnegie Tech grad students.
+Bias Reporting  MLT Graduate Student Handbook  Page 39
+
+Discriminatory Harassment/Sexual Misconduct/Title IX
+
+Employee Misconduct
+
+Employment Related
+
+Environmental Health and Safety /Pandemic Safety
+
+Financial Matters
+
+Health and Wellness
+
+Information Systems and Data Privacy
+
+Public Safety and Criminal Activity
+
+Research and Intellectual Property
+
+Students, faculty , and staff can anonymously file a report by calling 1- 844- 587- 0793  or visiting -
+In any presentation, creative, artistic or research, it is the ethical responsibility of each student to identify the conceptual sources of the work submitted. Failure to do so is dishonest and is the basis for a charge of cheating or plagiarism, which is subject to disciplinary action.
+
+
+Answer: 

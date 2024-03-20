@@ -1,0 +1,151 @@
+Question: What kind of vulnerabilities do diffusion models have according to the paper "Extracting Training Data from Diffusion Models"?
+
+Context: Paper title: 'Extracting Training Data from Diffusion Models' Published year: 2023 Publication venue or conference: USENIX Security Symposium Authors: Daphne Ippolito, Florian Tramèr, B. Balle, Milad Nasr, Matthew Jagielski, Eric Wallace, Nicholas Carlini, Vikash Sehwag, Jamie Hayes Summary: The results show that diffusion models are much less private than prior generative models such as GANs, and that mitigating these vulnerabilities may require new advances in privacy-preserving training.
+In total, we believe that publishing our paper and pub- licly disclosing these privacy vulnerabilities is both eth- ical and responsible. Indeed, at the moment, no one ap- pears to be immediately harmed by the (lack of) privacy of diffusion models; our goal with this work is thus to make sure to preempt these harms and encourage respon- sible training of diffusion models in the future.
+
+4 Extracting Training Data from State-of-
+
+the-art Diffusion Models
+train hundreds of diffusion models in various settings to an- alyze how different modeling and data decisions affect privacy. Overall, our results show that diffusion models are much less private than prior generative models such as GANs, and that mitigating these vulnerabilities may require new advances in privacy-preserving training.
+Instructors: Islam, Houser,Pistorius, Houser,O'Connor, Houser,Barati Farimani, Houser,Houser, Rohrer,Dickey, Houser,Towe,Houser, Skowronski,Kurchin, Houser,Bockstaller, Houser,Houser, Porter,Houser, Degraef,Rollett, Houser,Marom, Houser,Krause, Houser,Houser,Houser, Bettinger,Houser, Whitacre,Cohen-Karni, Houser,Houser, Taheri-Mousavi,Houser, Feinberg,Houser, Salvador,Webler, Houser
+
+Fall 2023
+
+Course number: 27766
+
+Title: Defects and Diffusion in Materials
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+Fall 2023
+
+Course number: 06663
+
+Title: Analysis and Modeling of Transport Phenomena
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: PH A18C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Panagakos
+
+Fall 2023
+
+Course number: 06700
+
+Title: M.S. Research
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Robinson
+
+Fall 2023
+
+Course number: 06702
+
+Title: Advanced Reaction Kinetics
+
+Units: 12.0
+
+Section: A
+Title: Uncertainty and Risk Modeling
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: TEP 2702
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Akshat
+
+Fall 2023
+
+Course number: 70467
+
+Title: Machine Learning for Business Analytics
+
+Units: 9.0
+
+Section: A,B
+
+Days: TR
+
+Start: 12:30PM,02:00PM
+
+End: 01:50PM,03:20PM
+
+Room: TEP 2610
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Singh
+
+Fall 2023
+
+Course number: 70469
+
+Title: End to End Business Analytics
+
+Units: 9.0
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+and the organizations snuck out at midnight to get some practice on the course. Avoiding Controversies. After the controversy of 1947 (which, sadly and as noted above, we don’t have details of), Sweepstakes decided to tighten up the rules to avoid any confusion for Raceday. Of course, we don’t have the rules that were tightened either. We’ll keep digging, and if we find it out, we’ll update this post. On the plus side, 1948 didn’t appear to have any controversies. Prelim Results. Raceday itself
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+10.9.2 University  Policy on Grades for Transfer Courses & PCHE ..................................................  21
+
+10.10 Academic  Integrity ..................................................................................................................  21
+
+11  Academic  Policies ............................................................................................................................  23
+Analytics. Students electing to complete the Analytics concentration will also learn to:
+
+Design, implement and evaluate a software system and machine
+
+learning model on real world datasets at real world scale.
+
+Analyze and document data science requirements in different application domains and survey as well as critique state of the art solutions for those requirements.
+
+Systems. Students electing to complete the Systems concentration will also learn to:
+5.6 Policy on Grades for Transfer Courses  ...................................................................................... 21
+
+5.7 End of Semester Evaluation ......................................................................................................... 22
+
+5.8 Satisfactory Progress  ...................................................................................................................... 22
+
+
+Answer: 

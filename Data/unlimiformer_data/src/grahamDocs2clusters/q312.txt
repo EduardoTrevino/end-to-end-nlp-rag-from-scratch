@@ -1,0 +1,133 @@
+Question: Carnegie Mellon University is ranked #1 according to which report in 2022?
+
+Context: Michael Heilman. Automatic Factual Question Generation from Text. PhD thesis, School of Computer Science,
+
+Carnegie Mellon University, Pittsburgh, PA, 2011.
+
+Michael Heilman and Noah A. Smith. Question generation via overgenerating transformations and ranking. Technical
+
+report, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA, 2009.
+3 2 0 2
+
+p e S 1
+
+] L P . s c [
+
+1 v 5 2 2 3 0 . 9 0 3 2 : v i X r a
+
+Amortizing Pragmatic Program Synthesis with Rankings
+
+Yewen Pu1, Saujas Vaduguru2, Priyan Vaithilingam3, Elena Glassman3, Daniel Fried2 1 Autodesk Research, 2 Carnegie Mellon University, 3 Harvard University yewen.pu@autodesk.com, svadugur@cs.cmu.edu, pvaithilingam@g.harvard.edu glassman@seas.harvard.edu, dfried@andrew.cmu.edu
+
+Abstract
+3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+Committed to extending our founders’ vision The School of Computer Science at Carnegie Mellon University enters its second quarter century as a world-leading educational and research institution, embracing all facets of computing. Its graduate programs are consisted ranked with the best in the world by a leading U.S. magazine, while its undergraduate programs are also rated the best in the U.S. by corporate recruiters. In 2013, SCS had 284 faculty members and a total student enrollment of
+2024-2025 OFFICIAL Academic Calendar Carnegie Mellon University Proposed: 13 June 2023 Approved: 4 December 2023 Updated: 4 December 2023
+
+Semester : (M
+
+13, T
+
+13, W
+
+13, Th
+
+13, F
+
+13) Total=65
+
+Mini
+
+1: (M
+
+6, T
+
+7, W
+
+7, Th
+
+7, F
+
+7) Total=34
+
+Mini
+
+2: (M
+
+7, T
+
+6, W
+
+6, Th
+
+6, F
+
+6) Total=31
+2023-2024 OFFICIAL Academic Calendar Carnegie Mellon University
+
+Semester : (M
+
+13, T
+
+13, W
+
+13, Th
+
+13, F
+
+13) Total=65
+
+Mini
+
+1: (M
+
+6, T
+
+7, W
+
+7, Th
+
+7, F
+
+7) Total=34
+
+Mini
+
+2: (M
+
+7, T
+
+6, W
+
+6, Th
+
+6, F
+
+65) Total=31
+
+Date Day Event
+
+
+Answer: 

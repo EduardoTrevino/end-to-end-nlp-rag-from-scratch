@@ -1,0 +1,152 @@
+Question: What does FLARE stand for?
+
+Context: FLARE is applicable to any existing LMs at inference time without additional training. Con-
+long texts, where continually gathering in- formation throughout generation is essential. In this work, we provide a generalized view of ac- tive retrieval augmented generation, methods that actively decide when and what to retrieve across the course of the generation. We propose Forward-Looking Active REtrieval augmented generation (FLARE), a generic method which iteratively uses a prediction of the upcoming sentence to anticipate future content, which is then utilized as a query to retrieve
+The initial query of FLARE. FLARE starts with the user input x as the initial query to re- trieve documents to generate the first sentence ˆs1 = LM([Dx, x]) to bootstrap the iterative gener- ation process. For the following steps, the tempo- rary forward-looking sentence is generated without retrieved documents.
+Title: Business Presentations
+
+Units: 9.0
+
+Section: A,E,X,W,B,C,D
+
+Days: UT,MW,TR
+
+Start: 09:30AM,02:30PM,02:00PM,11:00AM,03:30PM,12:30PM,11:30AM
+
+End: 03:45PM,01:50PM,03:20PM,12:20PM,04:50PM,10:50AM,12:45PM
+
+Room: CMB 1064,TEP 2702
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Bevins,Depretis,Burke,Mcginnis
+
+Spring 2024
+
+Course number: 70350
+
+Title: Acting for Business
+
+Units: 9.0
+
+Section: A,C,B
+
+Days: TR
+
+Start: 12:30PM,09:30AM,11:00AM
+
+End: 10:50AM,01:50PM,12:20PM
+Title: Entertainment Lighting Programming
+
+Units: 9.0
+
+Section: A
+
+Days: F
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: PCA 115
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 54944
+
+Title: Advanced SM: Management Styles
+
+Units: 6.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shackleford
+
+Fall 2023
+
+Course number: 54949
+
+Title: Directing Thesis
+
+Units: 9.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+Title: Acting for the Camera
+
+Units: 6.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: PCA 115
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kovitz
+
+Fall 2023
+
+Course number: 54524
+
+Title: Dance Lighting Design 2
+
+Units: 3.0
+
+Section: A2
+
+Days: W
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: PCA 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Thomson
+
+Fall 2023
+
+Course number: 54525
+
+Title: Entertainment Lighting Programming
+
+Units: 9.0
+
+Section: A
+
+Days: F
+
+Start: 02:00PM
+retaliation any individual who makes a good faith report of a suspected violation of any applicable law or regulation, university Policy or procedure, any contractual obligation of the university, and any report made pursuant to the Carnegie Mellon University Code of Business Ethics and Conduct.
+might look like.
+that program.
+
+
+Answer: 

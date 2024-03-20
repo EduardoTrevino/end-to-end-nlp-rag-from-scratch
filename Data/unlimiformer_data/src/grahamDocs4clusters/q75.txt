@@ -1,0 +1,187 @@
+Question: What does ICTIR stand for?
+
+Context: [11] Luca Busin and Stefano Mizzaro. 2013. Axiometrics: An Axiomatic Approach to Information Retrieval Effectiveness Metrics. In Proceedings of the 2013 Conference on the Theory of Information Retrieval (ICTIR ’13). Association for Computing Machinery, New York, NY, USA, 22–29.
+[17] Charles L.A. Clarke, Alexandra Vtyurina, and Mark D. Smucker. 2020. Offline Evaluation without Gain. In Proceedings of the 2020 ACM SIGIR on International Conference on Theory of Information Retrieval (ICTIR ’20). Association for Computing Machinery, New York, NY, USA, 185–192.
+[28] Fernando Diaz. 2015. Condensed List Relevance Models. In Proceedings of the 2015 International Conference on The
+
+Theory of Information Retrieval (ICTIR ’15). ACM, New York, NY, USA, 313–316.
+
+[29] Fernando Diaz and Andres Ferraro. 2022. Offline Retrieval Evaluation Without Evaluation Metrics. In Proceedings of
+
+the 45th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval.
+Title: Special Topics in ICT:
+
+Units: 12.0
+
+Section: C,AG,AF, ,AB
+
+Days: MW, ,TR
+
+Start: 08:00AM, ,12:00PM,04:00PM
+
+End:  ,01:50PM,05:50PM,09:50AM
+
+Room: CMR F203,CMR F305,CMR F307,CMU REMOTE,
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Busogi,Perkins,Racz, McSharry,Luhanga
+
+Spring 2024
+
+Course number: 04801
+
+Title: Special Topics in ICT:
+
+Units: 6.0
+
+Section: S3,V3,T4,U3,O3,
+
+Days:  ,MW,TR
+
+Start: 08:00AM, ,10:00AM
+
+End: 11:50AM, ,09:50AM
+
+Room: CMR F305, ,CMR F307
+
+Locations:  ,Kigali, Rwanda
+Title: Special Topics in ICT Mini:
+
+Units: 6.0
+
+Section:  ,A1,N1
+
+Days:  ,MW,TR
+
+Start: 08:00AM, ,04:00PM
+
+End:  ,05:50PM,09:50AM
+
+Room: CMR F305, ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Rodriguez-Perez,Ostheimer
+
+Fall 2023
+
+Course number: 04900
+
+Title: MSIT Practicum
+
+Units: 24.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:20PM
+
+Room: CMR F305
+
+Locations: Kigali, Rwanda
+
+Instructors: Okeyo
+
+Fall 2023
+
+Course number: 04910
+
+Title: Entrepreneurship Project
+
+Units: VAR
+
+Section: A
+Fall 2023
+
+Course number: 04605
+
+Title: ICT Professional Development Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: CMR F203
+
+Locations: Kigali, Rwanda
+
+Instructors: Niyizamwiyitira
+
+Fall 2023
+
+Course number: 04606
+
+Title: Academic Skills for Engineers I
+
+Units: 6.0
+
+Section: A,C,B
+
+Days: MW,TR
+
+Start: 12:00PM,02:00PM
+
+End: 01:50PM,03:50PM
+
+Room: CMR F205
+
+Locations: Kigali, Rwanda
+
+Instructors: Thompson
+
+Fall 2023
+
+Course number: 04608
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+What is a Tartan?
+offered by the Language Technologies Institute (LTI), a graduate department in the School of
+
+Computer Science at Carnegie Mellon University. The MIIS degree provides advanced study
+
+and practical experience in areas of Computer Science focused on the processing and analysis
+
+of unstructured and semi -structured information, for example, text, image, video, speech, and
+
+audio information. It is a practice -oriented professional degree designed for students who
+Innovation (MSAII) program is a successor to the M.S. in Biotechnology, Innovation and Computing (MSBIC). It combines a rigorous AI and machine learning curriculum with real-world team experience in identifying an AI market niche and developing a responsive product in cooperation with external stakeholders. The core program, which lasts four semesters and leads to a capstone project, focuses on both intrapreneurship and entrepreneurship, equipping graduates to either begin a startup or develop
+Student Information Online (SIO) is a secure site where students can find important,
+
+personalized information, including E -Bills and student account information, financial aid
+
+status and eligibility, grades and QPA, and course schedules. Students can updat e their and
+
+their spouse's or domestic partner's contact information, sign up for E -Check & E -Refund,
+
+
+Answer: 

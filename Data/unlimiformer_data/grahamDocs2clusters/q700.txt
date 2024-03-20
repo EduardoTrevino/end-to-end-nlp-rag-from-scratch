@@ -1,0 +1,81 @@
+Question: In spring 2024, When is Martin Luther King Day observed?
+
+Context: Instructors: Martin
+
+Spring 2024
+
+Course number: 76370
+
+Title: Independent Study in Literary and Cultural Studies
+
+Units: 3-18
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Mitchell,Instructor TBA
+
+Spring 2024
+
+Course number: 76373
+
+Title: Argument
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 4708
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Coulson
+
+Spring 2024
+
+Course number: 76374
+13112 Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 13112–13120 December 6-10, 2023 ©2023 Association for Computational Linguistics
+
+Feed-forward MLP
+
+Decoder Block
+
+⋯Next-tokenProbability Distribution
+
+<extra_id0><extra_id1>
+[cs.CV] 28 Oct 2023
+Date Day Event Date -  January 15 ; Day - Monday ; Event - Martin Luther King Day; No Classes Date -  January 16 ; Event - First Day of Class Date -  January 22 ; Day - Monday ; Event - Mini-3 add, audit & tuition adjustment drop deadline (1) Date -  January 29 ; Day - Monday ; Event - Semester add, audit & tuition adjustment drop deadline (1) Date -  February 7 ; Day - Wednesday ; Event - Mini-3 course drop deadline; withdrawal grade assigned after this date (2) Date -  February 19 ; Day -
+Date Day Event Date -  January 13 ; Day - Monday ; Event - First Day of Classes Date -  January 17 ; Day - Friday ; Event - Mini-3 add, audit & tuition adjustment drop deadline (1) Date -  January 20 ; Day - Monday ; Event - Martin Luther King Day; No Classes & University Closed Date -  January 27 ; Day - Monday ; Event - Semester add, audit & tuition adjustment drop deadline (1) Date -  February 5 ; Day - Wednesday ; Event - Mini-3 course drop deadline; withdrawal grade assigned after this
+Semester : (M-13, T-14, W-14, Th-13, F-13) Total=67
+
+Mini-3 : (M-6, T-7, W-7, Th-7, F-7) Total=34
+
+Mini-4 : (M-7, T-7, W-7, Th-6, F-6) Total=33
+
+Date Day Event
+
+Date -  January 15 ; Day - Monday ; Event - Martin Luther King Day; No Classes
+
+Date -  January 16 ; Event - First Day of Class
+
+Date -  January 22 ; Day - Monday ; Event - Mini-3 add, audit & tuition adjustment drop deadline (1)
+
+Date -  January 29 ; Day - Monday ; Event - Semester add, audit & tuition adjustment drop deadline (1)
+
+
+Answer: 

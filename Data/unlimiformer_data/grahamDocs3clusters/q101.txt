@@ -1,0 +1,228 @@
+Question: In the "Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research," how many participants were in the survey from the NLP community?
+
+Context: Paper title: 'Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research' Published year: 2023 Publication venue or conference: arXiv.org Authors: Roy Schwartz, Andreas Ruckl'e, Iryna Gurevych, Betty van Aken, Emma Strubell, J. Forde, Jesse Dodge, Ji-Ung Lee, Haritz Puerto, Leon Derczynski, Yuki Arase Summary: This work captures existing (dis)parities between different and within groups with respect to seniority, academia, and industry; and their impact on the peer reviewing process;
+3 2 0 2
+
+v o N 9
+
+] L C . s c [
+
+2 v 0 0 9 6 1 . 6 0 3 2 : v i X r a
+
+Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research
+surveys that investigate In this work, we provide a first at- them. tempt to quantify these concerns regarding three topics, namely, environmental impact, equity, and impact on peer reviewing. By conducting a survey with 312 participants from the NLP community, we capture exist- ing (dis)parities between different and within groups with respect to seniority, academia, and industry; and their impact on the peer re- viewing process. For each topic, we provide an analysis and devise
+Course number: 45850
+
+Title: Applications of Operations Research:
+
+Units: 6.0
+
+Section:  ,A1
+
+Days:  ,MW
+
+Start:  ,04:00PM
+
+End:  ,05:45PM
+
+Room:  ,TEP 2111
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Fall 2023
+
+Course number: 45851
+
+Title: Data Mining
+
+Units: 6.0
+
+Section: B2,A2
+
+Days: MW
+
+Start: 04:00PM,02:00PM
+
+End: 03:45PM,05:45PM
+
+Room: TEP 2112
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Collier
+
+Fall 2023
+
+Course number: 45861
+
+Title: Six Sigma Tools and Techniques
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Fall 2023
+
+Course number: 02602
+
+Title: Professional Issues for Computational and Automated Scientists
+
+Units: 3.0
+
+Section: A
+
+Days: R
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brasier, DeBlasio
+
+Fall 2023
+
+Course number: 02613
+
+Title: Algorithms and Advanced Data Structures
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: DH 2315
+Title: Computational Photography
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: GHC 4303
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gkioulekas
+
+Fall 2023
+
+Course number: 15666
+
+Title: Computer Game Programming
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:00PM
+
+End: 04:50PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCann
+
+Fall 2023
+
+Course number: 15669
+
+Title: Special Topics: Visual Computing Systems
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+Year 1 Fall:
+
+Grammars and Lexicons
+
+Algorithms for NLP
+
+Directed Study
+
+Year 1 Spring: - Search Engines or Machine Learning for Text Mining - Machine Translation - Directed Study
+
+Year 1 Summer:
+
+Required Research
+
+Year 2 Fall: - Software Engineering for LT (I) - Speech Understanding - Self-Paced Lab - Directed Study
+
+Year 2 Spring: - Software Engineering for LT (II) - Self-Paced Lab - Directed Study
+
+Year 2 Summer:
+
+Required Research
+
+Year 3 Fall:
+
+Directed Research
+
+Year 3 Spring:
+Year 1 Fall:
+
+Grammars and Lexicons
+
+Algorithms for NLP
+
+Directed Study
+
+Year 1 Spring: - Search Engines or Machine Learning for Text Mining - Machine Translation - Self-Paced Lab - Directed Study
+
+Year 1 Summer:
+
+Required Research
+
+Year 2 Fall: - Software Engineering for LT (I) - Speech Understanding - Self-Paced Lab - Directed Study
+
+Year 2 Spring: - Software Engineering for LT (II) - Directed Study - Elective
+
+Year 2 Summer:
+
+Required Research
+
+
+Answer: 

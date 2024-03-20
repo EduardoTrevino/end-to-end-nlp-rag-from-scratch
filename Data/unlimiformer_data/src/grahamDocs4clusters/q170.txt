@@ -1,0 +1,165 @@
+Question: Where was the paper titled "Computational Language Acquisition with Theory of Mind" published?
+
+Context: Paper title: 'Computational Language Acquisition with Theory of Mind' Published year: 2023 Publication venue or conference: International Conference on Learning Representations Authors: Hao Zhu, Graham Neubig, Yonatan Bisk, Andy T. Liu, Emmy Liu Summary: It is found that training speakers with a highly weighted ToM listener component leads to performance gains in the authors' image referential game setting, and suggests the potential utility of further incorporating ToM, as well as other
+3 2 0 2
+
+r a
+
+M 2
+
+] L C . s c [
+
+1 v 2 0 5 1 0 . 3 0 3 2 : v i X r a
+
+Published as a conference paper at ICLR 2023
+
+COMPUTATIONAL LANGUAGE ACQUISITION WITH THEORY OF MIND
+
+Andy Liu Harvey Mudd College Claremont, CA, USA {ajliu}@g.hmc.edu
+
+Hao Zhu, Emmy Liu, Yonatan Bisk, Graham Neubig Language Technologies Institute Carnegie Mellon University Pittsburgh, PA, USA {zhuhao, mengyan3, ybisk, gneubig}@cs.}cmu.edu
+
+ABSTRACT
+Le, M., Boureau, Y.-L., & Nickel, M. (2019). Revisiting the evaluation of theory of mind through question answering. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pp. 5872–5877, Hong Kong, China. Association for Computational Linguistics.
+Title: Topics in Second Language Acquisition:
+
+Units: 9.0
+
+Section: A,B,C,D,
+
+Days: M, ,MW,TR
+
+Start: 12:30PM, ,04:00PM,02:00PM
+
+End:  ,01:50PM,06:50PM,03:20PM
+
+Room: DH 1209,WEH 5304, ,PH A21,PH A19D
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Van Compernolle,Al Masaeed,Amgott,Wiener
+
+Fall 2023
+
+Course number: 82989
+
+Title: Second Language Acquisition Dissertation Research
+
+Units: 3-36
+
+Section: A,E,B,F,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+Course number: 82783
+
+Title: Second Language Acquisition: Theories and Research
+
+Units: 9.0
+
+Section: A
+
+Days: R
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: PH 125D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Burns
+
+Fall 2023
+
+Course number: 82789
+
+Title: Guided Research
+
+Units: 3-36
+
+Section: A,E,I,B,F,G,C,D,H
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Burns,Al Masaeed,Koda,Iwasaki,Wiener,Instructor TBA,Dworkin
+
+Fall 2023
+Course number: 82881
+
+Title: Research Methods in Second Language Acquisition
+
+Units: 9.0
+
+Section: A
+
+Days: R
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: POS 235
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Koda
+
+Spring 2024
+
+Course number: 82888
+
+Title: Topics in Second Language Acquisition:
+
+Units: 9.0
+
+Section: A, ,B
+
+Days: M, ,W
+
+Start:  ,06:00PM,02:00PM
+
+End:  ,08:50PM,04:50PM
+
+Room:  ,POS 235,BH 235B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Van Compernolle,Burns
+
+Spring 2024
+Scotland, in 1835. Carnegie came to the United States in 1848 and founded Carnegie Technical Schools in Pittsburgh in 1900.
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+If you can ID any of the unknown buggies, let us know.
+
+1949 – Design Competition (from the 1966 Buggy Book). Buggies are KapSig (far left), SAE’s design winner (#4, 2nd from the left), Men’s Dorms (#7, 3rd from the left), and DU (#11, far right).
+
+1949 – SAE’s Design-winning buggy getting worked on (from the November 1949 issue of The Record, the SAE National Publication)
+
+1949 – Citcom Clan Buggy (#9) (from the 1950 Thistle).
+Language Technologies Institute / School of Computer Science Graduate Student Handbook Academic Year 2023-2024 Master of Computational Data Science Program
+
+Last revision date: July 20, 2023
+
+The information contained in this graduate handbook template focuses on the resources and locations available at the Carnegie Mellon Pittsburgh Campus.
+61 Welcome Welcome to the Language Technologies Institute, Master of Computational Data Science Program. While this handbook is specific to your academic experience in the department, there are several other resources and offices graduate students are encouraged to consult during their tenure at Carnegie Mellon University. Information about The Word, the student handbook, the Office of Graduate and Postdoctoral Affairs, the Office of the Dean of Students, and others are included in Appendix A
+Language Technologies Institute - Faculty Name: Ralf Brown Email: ralf@andrew.cmu.edu Office: 5711 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Translation, Natural Language Processing and Computational Linguistics Phone: 412-268-8298
+
+
+Answer: 

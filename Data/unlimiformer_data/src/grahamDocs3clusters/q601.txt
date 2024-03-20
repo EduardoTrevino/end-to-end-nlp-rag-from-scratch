@@ -1,0 +1,190 @@
+Question: What are some of the under-served languages currently identified by GlobalBench?
+
+Context: Computational
+
+Computational
+
+Computational
+
+ACL.NasrinMostafazadeh,NathanaelChambers,XiaodongHe,DeviParikh,DhruvBatra,LucyVanderwende,PushmeetKohli,andJamesAllen.2016.Acorpusandclozeevaluationfordeeperunderstandingofcommonsensestories.In
+
+Human
+
+arXiv:1806.02847.AlexWang,YadaPruksachatkun,NikitaNangia,Aman-preetSingh,JulianMichael,FelixHill,OmerLevy,andSamuelRBowman.2019.Superglue:Astickierbenchmarkforgeneral-purposelanguageunderstand-ingsystems.
+
+Language
+Existing research classiﬁes world languages into Resource 0 to 5, with 0 having the lowest resource and 5 having the highest (Joshi et al., 2020). We choose 10 target languages ranging from Resource 0 to 5 (Table 2). For each target language we choose ten neighboring languages as source lan- guages (Table 2). We prioritize Resource 0 to 2 languages as real endangered languages, and we use Resource 3 to 5 languages as hypothetical ones. To translate into these languages, our text is the Bible in
+1
+
+Introduction
+
+Despite the majority of the world’s languages be- ing low-resource, current MT systems still perform poorly on them or do not include them at all. Some commercial systems like Google Translate1 sup- port a number of LRLs, but many systems do not support any, and in either case the majority of LRLs are largely neglected in language technologies.
+Spring 2024
+
+Course number: 82282
+
+Title: Interpreting Global Texts & Cultures
+
+Units: 9.0
+
+Section: A,B
+
+Days: MW,TR
+
+Start: 11:00AM,02:00PM
+
+End: 12:20PM,03:20PM
+
+Room: CFA 102,HOA 107
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Parker,Estrada
+
+Spring 2024
+
+Course number: 82283
+
+Title: Language Diversity & Cultural Identity
+
+Units: 9.0
+
+Section: A,B
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5320,POS 343
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Al Masaeed,McCombie
+End: ,03:45PM,08:15PM,06:45PM,05:45PM,09:45PM
+
+Room: TBA,TEP 2110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rakach,Ytsma,Sudbury
+
+Spring 2024
+
+Course number: 45711
+
+Title: Global Economics:
+
+Units: 6.0
+
+Section: B4, ,A4,C4
+
+Days:  ,TR
+
+Start: 08:00AM, ,10:00AM,02:00PM
+
+End: 03:45PM,09:45AM, ,11:45AM
+
+Room:  ,TEP 2110
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Ales
+
+Spring 2024
+
+Course number: 45741
+
+Title: Managing Networks & Organizations:
+
+Units: 6.0
+
+Section: B4, ,A4,C4
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Farooqi,Hollifield
+
+Fall 2023
+
+Course number: 70100
+
+Title: Global Business:
+
+Units: 9.0
+
+Section: A, ,B
+
+Days:  ,TR
+
+Start: 09:30AM, ,11:00AM
+
+End: 10:50AM, ,12:20PM
+
+Room:  ,TEP 2700
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Alleruzzo
+
+Fall 2023
+
+Course number: 70104
+
+Title: Business Leadership Endeavor I:
+
+Units: 3.0
+
+Section:  ,B2,C2,A2
+
+Days:  ,T
+4.4.2 Breadth Courses:  Language Technology Applications
+
+11-642, Search Engines
+
+11-688, Concepts in Digital Multimedia and Cyber Forensics
+
+11-692, Speech Processing
+
+11-697. Introduction to Q uestion Answering
+
+11-751, Speech Recognition and Understanding
+
+11-767, On -Service Machine Learning
+
+11-797, Question Answering
+
+11-830, Computational Ethics For NLP
+
+4.4.3 Breadth Courses:  Machine Learning
+
+11-641, Machine Learning for Text and Graph -Based Mining
+
+11-661, Language and Statistics
+contacting the language support team at the SASC website or attend a Language Support Orientation at the SASC or in your department.
+
+A.1.9  Office of International Education (OIE)
+
+www.studentaffairs.cmu.edu/oie/
+
+Carnegie Mellon hosts international graduate and undergraduate students who come from more than 90 countries. The Office of International Education (OIE) is the liaison to the University for all non -immigrant students and scholars, as well the repository for study abroad
+The Student Academic Success Center is also charged with certifying the language of International Teaching Assistants (ITAs), ensuring that nonnative English speakers have the language proficiency needed to succeed as te aching assistants in the Carnegie Mellon
+
+classroom. Students preparing to do an ITA Certification should plan to take classes offered by
+
+the language support team at the SASC website or attend a Language Support Orientation at
+
+the SASC or in your departmen t.
+
+
+Answer: 

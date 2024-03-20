@@ -1,0 +1,245 @@
+Question: Did CMU found the world’s first university robotics department? Answer with True or False
+
+Context: 3 2 0 2
+
+p e S 8 1
+
+]
+
+V C . s c [
+
+1 v 3 1 0 0 1 . 9 0 3 2 : v i X r a
+
+Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin
+
+Gabriel Moreira Language Technologies Institute Carnegie Mellon University gmoreira@cs.cmu.edu
+
+Manuel Marques Institute for Systems and Robotics Instituto Superior T´ecnico manuel@isr.tecnico.ulisboa.pt
+
+Jo˜ao Paulo Costeira Institute for Systems and Robotics Instituto Superior T´ecnico jpc@isr.tecnico.ulisboa.pt
+E. Xing is with the Machine Learning Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, USA; and also with Mohamed bin Zayed University of Artificial Intelligence, Masdar City, Abu Dhabi, UAE (email: epxing@cs.cmu.edu)
+[40] L. D. Jackel, E. Krotkov, M. Perschbacher, J. Pippine, and C. Sullivan. The darpa lagr program: Goals, challenges, methodology, and phase i results. Journal of Field Robotics, 2006.
+
+[41] M. Müller and V. Koltun. Openbot: Turning smartphones into robots. In ICRA, 2021.
+
+[42] N. Kau, A. Schultz, N. Ferrante, and P. Slade. Stanford doggo: An open-source, quasi-direct-
+
+drive quadruped. In ICRA, 2019.
+Room: CMU REMOTE,CMR F307
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Fall 2023
+
+Course number: 18726
+
+Title: Projects in Integrated Circuit Design: First Silicon
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mai
+
+Fall 2023
+
+Course number: 18729
+
+Title: Special Topics in Circuits:
+
+Units: 12.0
+
+Section: C,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,ANS C02
+Room: BH A51,DNM DNM,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors:  ,Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Fall 2023
+
+Course number: 11831
+
+Title: Self-Paced Computational Ethics Lab
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Strubell
+
+Fall 2023
+
+Course number: 11851
+
+Title: Talking to Robots
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 11:50AM
+Instructors: Savvides
+
+Fall 2023
+
+Course number: 18797
+
+Title: Machine Learning for Signal Processing
+
+Units: 12.0
+
+Section: A,SV,RW
+
+Days: TR
+
+Start: 08:00PM,11:00AM,02:00PM
+
+End: 12:20PM,09:20PM,03:20PM
+
+Room: B23 212,DH A302,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Ramakrishnan
+
+Fall 2023
+
+Course number: 18799
+
+Title: Special Topics in Signal Processing:
+
+Units: 12.0
+
+Section:  ,K
+
+Days:  ,MW
+
+Start:  ,10:00AM
+
+End: 11:50AM,
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+nearly 1,700, including undergraduate, master’s and Ph.D. students, and conducted $124 million in research. Indeed, by itself, the Robotics Institute is the largest university robotics research group in the world, with more than 500 people and more than 100 ongoing research projects. A half-century ago, Perlis, Simon and Newell outlined a vision for computer science. The School of Computer Science at CMU remains committed to continuing and extending their vision in the context of big data and
+robotics department ,
+
+founded in 1979
+
+Alumnus Andy Warhol
+
+(CFA1949), pop artist pioneer
+
+and cultural icon
+
+One of only 29 universities
+
+invited to be a member of the
+
+World Economic Forum’s
+
+Global University
+
+Leaders Forum
+
+CMU.EDU
+
+ECONOMIC IMPACT
+
+Attracting major companies  —
+
+including Google, Intel, Uber and GE —
+
+to locate operations and create new
+
+jobs in Pittsburgh
+
+To date, the CMU community has
+
+launched more than 400 startups
+
+and created more than 152 spinoff
+
+companies .
+robotics department ,
+
+founded in 1979
+
+Alumnus Andy Warhol
+
+(CFA1949), pop artist pioneer
+
+and cultural icon
+
+One of only 29 universities
+
+invited to be a member of the
+
+World Economic Forum’s
+
+Global University
+
+Leaders Forum
+
+CMU.EDU
+
+ECONOMIC IMPACT
+
+Attracting major companies  —
+
+including Google, Intel, Uber and GE —
+
+to locate operations and create new
+
+jobs in Pittsburgh
+
+To date, the CMU community has
+
+launched more than 400 startups
+
+and created more than 152 spinoff
+
+companies .
+
+
+Answer: 

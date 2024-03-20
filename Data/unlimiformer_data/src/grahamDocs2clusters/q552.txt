@@ -1,0 +1,25 @@
+Question: What is the full name of the conference where the paper An Approach to Ontological Learning from Weak Labels, got published?
+
+Context: Renzhi Wu, Shen-En Chen, Jieyu Zhang, and Xu Chu. Learning hyper label model for programmatic weak supervision. In International Conference on Learning Representations (ICLR), 2023a.
+
+Zhenguo Wu, Jiaqi Lv, and Masashi Sugiyama. Learning with proper partial labels. Neural Computation, 35(1):58–81, Jan 2023b. ISSN 1530-888X. doi: 10.1162/neco_a_01554. URL http://dx.doi.org/10.1162/neco_a_01554.
+Paper title: 'Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations' Published year: 2023 Publication venue or conference: arXiv.org Authors: Jindong Wang, B. Raj, Masashi Sugiyama, Ankit Shah, R. Tao, Xingxu Xie, Yidong Wang, Hao Chen, Rita Singh Summary: Imprecise label learning (ILL) is introduced, a framework for the unification of learning with various imprecise label configurations, marking the first unified framework with robust and
+layer. In International Conference on Learning Representations (ICLR), 2016.
+
+Chen Gong, Tongliang Liu, Yuanyan Tang, Jian Yang, Jie Yang, and Dacheng Tao. A regularization approach for instance-based superset label learning. IEEE transactions on cybernetics, 48(3): 967–978, 2017.
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+The LTI Ph.D.  does not require any Qualifying Exams. Instead, a LTI Ph.D.  student is required to
+
+demonstrate proficiency in the following four areas.
+
+Writing: This is satisfied by producing a peer -reviewed conference paper, or the
+
+equivalent (a written report that at least two SCS faculty certify as being of conference -
+
+paper quality).
+
+Presentation: This is satisfied by the oral presentation of a conference paper, or the
+visit the Human Resources Service website to learn more about Form I-9 and E-Verify and to schedule an appointment to complete the Form I-9. 5.2 Conference Travel Funding Students funded by a research project may receive travel funding according to policies set by the individual projects. Students who have no project funding may be provided with partial funding, with a larger amount available for travel to present a refereed conference paper.
+
+
+Answer: 

@@ -1,0 +1,167 @@
+Question: How many courses is Sindi teaching in Spring 2024?
+
+Context: Days: M, ,W,F
+
+Start:  ,10:00AM,09:00AM
+
+End: 11:50AM, ,12:20PM,12:50PM
+
+Room:  ,MM 321,MM C4,MM 303
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Noel,Sindi,Kwon
+
+Spring 2024
+
+Course number: 48317
+
+Title: The Chair
+
+Units: 9.0
+
+Section: A
+
+Days: MF
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: CFA 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Achnani
+
+Spring 2024
+
+Course number: 48318
+
+Title: Discourse and Praxis in the Climate Emergency
+
+Units: VAR
+
+Section: A3
+
+Days: M
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Noel,Sindi,Kwon
+
+Spring 2024
+
+Course number: 48616
+
+Title: Carnival Gateway Special Project
+
+Units: VAR
+
+Section: A4
+
+Days: M
+
+Start: 06:30PM
+
+End: 07:50PM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Khan
+
+Spring 2024
+
+Course number: 48617
+
+Title: Carnival Gateway Project Management
+
+Units: VAR
+
+Section: A,B
+
+Days: M
+
+Start: 06:30PM
+
+End: 07:50PM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Achnani,Tannir,Sindi,Abraham, Achnani, Sindi, Tannir,Bizon
+
+Fall 2023
+
+Course number: 48307
+
+Title: Carnival Pavilion
+
+Units: VAR
+
+Section: A1,B2,A2
+
+Days: W
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: CFA 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Achnani,Khan
+
+Fall 2023
+
+Course number: 48310
+
+Title: Prototyping Stories: Experimental Children's Book and Vis Dev as An Architectura
+
+Units: 9.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CFA 211
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+Classes can be found at https://enr-apps.as.cmu.edu/o pen/SOC/SOCServlet/search .
+
+Students are then required to take and su ccessfully complete the courses below:
+
+2) The Core Courses (87 units) - Must be taken in THIS SEQUENCE:
+
+11-651 – AI & Future Markets – (12 units). First  Fall semester. Only open to MSAII.
+
+17-762 – Law of Computer Technolo gy (12 units). First Fall semester
+
+11-695 – AI Engineering (12 un its). First Spring semester
+MIIS-21 students have to take at least two more courses from the selected concentration area to satisfy their degree requirements, making it total of 108 units (typically 9 courses) of qualifying and elective courses, that also satisfy breadth requirements. For a full list of requirements, read the MIIS Handbook. Curriculum: Click one of the two options below:
+
+MIIS
+
+16
+
+MIIS
+
+21
+
+
+Answer: 

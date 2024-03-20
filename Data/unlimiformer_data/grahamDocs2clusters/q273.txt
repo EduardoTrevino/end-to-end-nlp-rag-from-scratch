@@ -1,0 +1,61 @@
+Question: What saying by Andrew Carnegie is now CMU's school moto?
+
+Context: 3 2 0 2
+
+y a M 7 1
+
+] L C . s c [
+
+2 v 9 6 9 7 0 . 5 0 3 2 : v i X r a
+
+GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content
+
+Yutian Chen† School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213 yutianch@andrew.cmu.edu
+
+Hao Kang† School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213 haok@andrew.cmu.edu
+
+Vivian Zhai† College of Engineering Carnegie Mellon University Pittsburgh, PA 15213 yiyanz@andrew.cmu.edu
+3 2 0 2
+
+p e S 4 1
+
+] L C . s c [
+
+1 v 2 1 4 7 0 . 9 0 3 2 : v i X r a
+
+Advancing Regular Language Reasoning in Linear Recurrent Neural Networks Ting-Han Fan∗ Independent Researcher tinghanf@alumni.princeton.edu
+
+Ta-Chung Chi∗ Carnegie Mellon University tachungc@andrew.cmu.edu
+
+Alexander I. Rudnicky Carnegie Mellon University air@cs.cmu.edu
+
+Abstract
+3 2 0 2
+
+r p A 4 2
+
+] L C . s c [
+
+1 v 2 7 8 1 1 . 4 0 3 2 : v i X r a
+
+Generation-driven Contrastive Self-training for Zero-shot Text Classiﬁcation with Instruction-tuned GPT
+
+Ruohong Zhang Yau-Shian Wang Yiming Yang Carnegie Mellon University ruohongz@andrew.cmu.edu king6101@gmail.com yiming@cs.cmu.edu
+
+Abstract
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+14.4 The WORD ............................................................................................................................... .... 50
+
+6
+
+1 Welcome
+
+Welcome to Carnegie Mellon University! Being in the CMU School of Computer Science (SCS)
+
+is a unique experience because of the size of the school (over 2000 students, staff and faculty),
+
+the quality of its members, the variety of research being conducted, and unparalleled learning
+the arrival of an IBM 650 computer on the campus of what was then known as Carnegie Institute of Technology. The IBM 650 had magnetic-drum memory and a processing speed of approximately 60 instructions per second. Herb Simon (H’90), associate dean of the Graduate School of Industrial Administration—now known as CMU’s Tepper School of Business—established Carnegie Tech’s first Computation Center with the help of its first director, Alan Perlis (S’42).
+
+
+Answer: 

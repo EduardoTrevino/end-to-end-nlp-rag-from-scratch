@@ -1,0 +1,164 @@
+Question: In which semester do the Buggy Races happen?
+
+Context: Generate a yes or no answer to the following question. Question: Is it common to see frost during some college commencements? Answer: College commencement ceremonies can happen in December, May, and June. December is in the winter, so there can be frost. Thus, there could be frost at some commencements. So the final answer is yes.
+Figure 4A shows the bifurcation plots for I = 1.5 and k = 1.5, which demonstrates period-2 spiking ﬁring patterns with the increase of the locations of these ﬁring patterns possess a step-by-step structure and their dynamic amplitude is identical. In addition, the memristor initial condition applies at 2π initial condition-offset, which is the period of the sinusoidal memductance function sin(φ). In this case, the step change happens periodically. In addition, the LE1 and LE2 exponents
+De- spite implementing a majority voting system to lessen this issue, it cannot completely eliminate the chance of bugs in the code generation pro- cess. For example, in the “HumanEval/79” sam- ple, all the generated solutions failed to correctly
+Units: 12.0
+
+Section: A
+
+Days: TWR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: GHC 4303
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mowry
+
+Fall 2023
+
+Course number: 15746
+
+Title: Storage Systems:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,DH 2210
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Amvrosiadis, Ganger
+
+Fall 2023
+
+Course number: 15750
+
+Title: Algorithms in the Real World
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+Units: 6-9
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gerlach, Dell, Kelly, Raponi
+
+Spring 2024
+
+Course number: 57492
+
+Title: Solfege for Conductors II
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 12:50PM
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Story
+
+Spring 2024
+
+Course number: 57496
+
+Title: BXA Studio (1st semester)
+
+Units: 9.0
+Title: Gaining Insights through Statistical Modeling and Machine Learning
+
+Units: 6.0
+
+Section: A4
+
+Days: W
+
+Start: 06:00PM
+
+End: 07:30PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Freeman
+
+Spring 2024
+
+Course number: 36660
+
+Title: Special Topics: Sports Analytics:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: SH 105,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Yurko
+
+Spring 2024
+
+Course number: 36662
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+Drivers, have the closest connection to the vehicles, aside from the mechanics who spent countless hours building and maintaining individual buggies. While races are brief, each driver must log a number of practice runs to qualify to race. Teams practice nights and weekends throughout the fall and spring semesters as weather permits. Buggies are often built around drivers, so the fit can be snug, and drivers are often less than 5 feet, 3 inches in height. Most — but not all — are women.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+
+
+Answer: 

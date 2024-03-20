@@ -1,0 +1,73 @@
+Question: According to the paper PWESUITE: Phonetic Word Embeddings and Tasks They Facilitate, what is the percentage accuracy for analogies, achieved by the count-based model on the evaluation suite?
+
+Context: 4 2 0 2
+
+b e F 0 2
+
+] L C . s c [
+
+2 v 1 4 5 2 0 . 4 0 3 2 : v i X r a
+
+PWESUITE: Phonetic Word Embeddings and Tasks They Facilitate
+
+Vilém Zouhar E =
+
+Kalvin Chang C =
+
+Chenxuan Cui C
+
+Nathaniel Carlson Y
+
+Nathaniel R. Robinson C Mrinmaya Sachan E David Mortensen C
+We evaluate both (1) intrinsic aspects of phonetic word embeddings, such as word retrieval and correlation with sound similarity, and (2) extrinsic performance on tasks such as rhyme and cognate detection and sound analogies. We hope our task suite will promote reproducibility and inspire future phonetic embedding research.
+phonetic word embeddings, contain phonetic in- formation and have been of recent interest (Par- rish, 2017; Yang and Hirschberg, 2019; Hu et al., 2020; Sharma et al., 2021).1 The objective is that words with similar pronunciation should be mapped to vectors near each other in embedding space. Many tasks have benefited from incorpo- rating phonetic word embeddings, including cog- nate and loanword detection (Rama, 2016; Nath et al., 2022b,a), named entity recognition (Bharad- waj et al., 2016;
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+4.4.2 Breadth Courses:  Language Technology Applications
+
+11-642, Search Engines
+
+11-688, Concepts in Digital Multimedia and Cyber Forensics
+
+11-692, Speech Processing
+
+11-697. Introduction to Q uestion Answering
+
+11-751, Speech Recognition and Understanding
+
+11-767, On -Service Machine Learning
+
+11-797, Question Answering
+
+11-830, Computational Ethics For NLP
+
+4.4.3 Breadth Courses:  Machine Learning
+
+11-641, Machine Learning for Text and Graph -Based Mining
+
+11-661, Language and Statistics
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

@@ -1,0 +1,216 @@
+Question: What was David A. Tepper School of Business's original name?
+
+Context: 3 2 0 2
+
+y a M 3 2
+
+] L C . s c [
+
+1 v 7 0 7 3 1 . 5 0 3 2 : v i X r a
+
+Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
+
+♢
+
+♠
+
+♢
+
+Orevaoghene Ahia
+
+Sachin Kumar
+
+Hila Gonen ♢♡
+
+Jungo Kasai
+
+♠
+
+♢
+
+David R. Mortensen
+
+Noah A. Smith
+
+Yulia Tsvetkov
+
+♢
+
+♢
+
+Paul G. Allen School of Computer Science & Engineering, University of Washington Language Technologies Institute, Carnegie Mellon University Allen Institute for Artificial Intelligence
+
+♠
+
+♡
+
+Abstract
+Bojan Kolosnjaji, Ambra Demontis, Battista Biggio, Davide Maiorca, Giorgio Giacinto, Claudia Eckert, and Fabio Roli. Adversarial malware binaries: Evading deep learning for malware de- tection in executables. In 2018 26th European signal processing conference (EUSIPCO), pages 533–537. IEEE, 2018.
+
+Junnan Li, Dongxu Li, Silvio Savarese, and Steven Hoi. Blip-2: Bootstrapping language- arXiv preprint
+
+image pre-training with frozen image encoders and large language models. arXiv:2301.12597, 2023.
+Your task will be considered successful if the entities are clustered into groups that consistently refer to the same Wikipedia articles.
+
+1) B.A
+
+Context Sentences: a) "He matriculated at Jesus College , Oxford on 26 April
+
+1616 , aged 16 , then transferred to Christ ’s College , Cambridge ( B.A 1620 , M.A. 1623 , D.D. 1640 ) ."
+
+2) M.D.
+
+Context Sentence: a) "David Satcher , M.D. , Ph.D. ." b) "Livingston Farrand , M.D. , LL.D ." c) "Dr. James Curtis Hepburn , M.D. , LL.D ."
+Instructors: Lessem,Instructor TBA,Ales,Gasper
+
+Fall 2023
+
+Course number: 73501
+
+Title: Tepper College Honors Thesis II
+
+Units: 3-18
+
+Section: A,A2
+
+Days: TBA,R
+
+Start: ,08:00AM
+
+End: ,09:20AM
+
+Room: ANS B10,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bain,Ales
+
+Fall 2023
+
+Course number: 18050
+
+Title: Study Abroad
+
+Units: 0.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Fall 2023
+
+Course number: 18095
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rapp
+
+Summer 2024
+
+Course number: 47998
+
+Title: Tepper PhD Internship
+
+Units: 3-36
+
+Section: M
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shourideh
+
+Summer 2024
+
+Course number: 70257
+
+Title: Optimization for Business:
+
+Units: 9.0
+
+Section:  ,S
+
+Days:  ,MTWRF
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,TEP 2612
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Shen
+
+Summer 2024
+Section: A2
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: TEP 5219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Aven
+
+Fall 2023
+
+Course number: 47900
+
+Title: Tepper PhD:
+
+Units: 1-36
+
+Section: A,E,B,F,G,C,D, ,H
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Routledge,Tayur,Bonaldi,Shourideh,Derdenger,Moseley,Huang,Hahl
+
+Fall 2023
+
+Course number: 47920
+
+Title: Seminar in Ethical Theory
+
+Units: 6.0
+
+Section: A1
+
+Days: TR
+
+Start: 10:00AM
+1948: The Graduate School of Industrial Administration, later renamed the David A. Tepper School of Business, focusing on quantitative analysis and pioneering the field of management science. 1968: School of Urban and Public Affairs, later renamed the H. John Heinz III College, providing graduate training for work in the public sector. 1986: School of Computer Science, pioneering computing and artificial intelligence, led by interdisciplinary efforts of Allen Newell and Herbert Simon.
+the arrival of an IBM 650 computer on the campus of what was then known as Carnegie Institute of Technology. The IBM 650 had magnetic-drum memory and a processing speed of approximately 60 instructions per second. Herb Simon (H’90), associate dean of the Graduate School of Industrial Administration—now known as CMU’s Tepper School of Business—established Carnegie Tech’s first Computation Center with the help of its first director, Alan Perlis (S’42).
+Notes: *Students taking courses in Heinz College and Tepper School of Business (MBA and Computational Finance programs) must review and follow separate academic calendars; Similarly, students taking doctoral courses must review and follow the doctoral calendar for those courses. **Summer Semester includes semester-length courses, as well as mini-5 and mini-6. Courses previously offered as Summer Session One (6-weeks) correspond & follow the Mini-5 dates and deadlines. Summer Semester Two
+
+
+Answer: 

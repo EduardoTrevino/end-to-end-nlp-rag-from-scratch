@@ -1,0 +1,168 @@
+Question: What are the codes/numbers of the distinct courses, all titled "Introduction to Computer Systems", that will be offered in the Summer of 2024?
+
+Context: Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+Introduction
+
+1Code is available here: https://github.com/microsoft/Pengi
+
+37th Conference on Neural Information Processing Systems (NeurIPS 2023).
+computer science in the public school system. It also promotes the implementation of computer science in the classroom, for which it develops curricular courses from the ﬁrst year of primary education to the fourth year of secondary education, which are available as a public good for the entire school system, articulating an ecosystem to train and accompany teachers and develop a network of leading schools in the teaching of computer science, which by July 2022 there were more than 80 schools
+Title: Introduction to Computer Systems
+
+Units: 12.0
+
+Section: A
+
+Days: TWRF
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: SH 105
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Railing
+
+Summer 2024
+
+Course number: 15513
+
+Title: Introduction to Computer Systems
+
+Units: 6,12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Railing
+
+Summer 2024
+
+Course number: 15591
+
+Title: Independent Study in Computer Science
+
+Units: 3-18
+
+Section: A
+
+Days: TBA
+Title: Introduction to Computer Systems
+
+Units: 12.0
+
+Section: A,E,B,F,G,C,D,Lec,H
+
+Days: M,TR
+
+Start: 04:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM
+
+End: 12:50PM,01:50PM,09:50AM,03:20PM,02:50PM,04:50PM,11:50AM,10:50AM
+
+Room: PH A18C,WEH 5421,WEH 4625,PH A22,GHC 4401,GHC 4301,POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Andersen, Railing, Beckmann
+
+Spring 2024
+
+Course number: 15251
+
+Title: Great Ideas in Theoretical Computer Science
+
+Units: 12.0
+Course number: 15112
+
+Title: Fundamentals of Programming and Computer Science
+
+Units: 12.0
+
+Section: W
+
+Days: UMTWR
+
+Start: 11:00AM
+
+End: 12:30PM
+
+Room: TBA
+
+Locations: Doha, Qatar
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 15150
+
+Title: Principles of Functional Programming
+
+Units: 12.0
+
+Section: A,B
+
+Days: MTWRF
+
+Start: 09:30AM,11:00AM
+
+End: 10:50AM,12:20PM
+
+Room: GHC CLSTR
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Grodin
+
+Summer 2024
+
+Course number: 15213
+MCDS students must also pass the undergraduate course 15-513 Introduction to Computer Systems (6 units), typically in the summer before their program commences. The student must pass with a grade of B- or better. Failure to pass the course means that the student takes 15-213 during either the fall or spring semester. Note that in both cases the units do not count toward the 144 eligible units of study. Click here to see the MCDS Course Map. Some example courses of study are included below.
+Analytics concentration: o One (1) Machine Learning course o One (1) Software Systems course o One (1) big data course
+
+Systems concentration: o 15
+
+513 Introduction to Computer Systems (elective, prerequisite for many advanced Systems courses) o Three (3) systems project courses
+
+Human
+
+Centered Data Science concentration: o One (1) Methods course o Two (2) HCI courses 16 A detailed list of courses satisfying each concentration is contained in the MCDS Program FAQ.
+procedures. See Section 4.5.2, be low. However, a decision to te rminate a student after appeal
+
+because of conditions a), b), c) or d) is not appealable.
+
+10.2 Course Requirements  14
+
+1) Summer Before Entrance
+
+Admitted students are required to take, pa y for, and pass 15-513 Introduction to
+
+Computer Systems OR 11-637 Foundations of Computational Data Science during the
+
+summer prior to their arrival at Carnegie Mellon. The units earned in these courses are
+
+
+Answer: 

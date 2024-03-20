@@ -1,0 +1,182 @@
+Question: What dataset does the BASS paper by Bhiksha Raj's group evaluate on?
+
+Context: Paper title: 'Evaluating Speech Synthesis by Training Recognizers on Synthetic Speech' Published year: 2023 Publication venue or conference: arXiv.org Authors: Roshan Sharma, Hira Dhamyal, Dareen Alharthi, Rita Singh, Bhiksha Raj, Soumi Maiti Summary: This paper proposes an evaluation technique involving the training of an ASR model on synthetic speech and assessing its performance on real speech, and demonstrates a strong correlation with both MOS naturalness and MOS intelligibility when
+Paper title: 'Token Prediction as Implicit Classification to Identify LLM-Generated Text' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Yutian Chen, Hao Kang, Liangze Li, Vivian Zhai, Rita Singh, Bhiksha Raj Summary: Evaluation shows the exceptional performance of the method in the text classification task, highlighting its simplicity and efficiency, and interpretability studies on the features extracted by the
+We would like to express our sincere appreciation to Professor Bhiksha Raj and our TA mentor Liangze (Josh) Li for their invaluable guidance, insightful comments, and constant support throughout the course of this research. Their expertise in the ﬁeld have been instrumental in shaping our work.
+
+References
+
+[1] Ganesh Jawahar, Muhammad Abdul-Mageed, and Laks V. S. Lakshmanan. Automatic detection
+
+of machine generated text: A critical survey. CoRR, abs/2011.01314, 2020.
+Course number: 18744
+
+Title: Autonomous Driving
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: BH 237B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rajkumar
+
+Spring 2024
+
+Course number: 18745
+
+Title: Rapid Prototyping of Computer Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: DH A302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Smailagic, Martelaro
+
+Spring 2024
+
+Course number: 18750
+
+Title: Wireless Networks and Applications
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rajkumar
+
+Spring 2024
+
+Course number: 95913
+
+Title: Independent Study
+
+Units: 1-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 95914
+
+Title: Independent Study
+
+Units: 1-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pastor
+
+Spring 2024
+
+Course number: 95915
+Course number: 57133
+
+Title: Elective Studio (Bassoon)
+
+Units: 3-9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Whipple,Instructor TBA
+
+Spring 2024
+
+Course number: 57134
+
+Title: Elective Studio (Saxophone)
+
+Units: 3-9
+
+Section: A,C,D,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kush,Defade,Marcus,Houlik
+
+Spring 2024
+
+Course number: 57135
+
+Title: Elective Studio (Horn)
+
+Units: 3-9
+Language Technologies Institute - Faculty Name: Bhiksha Ramakrishnan Email: bhiksha@cs.cmu.edu Office: 6705 Gates & Hillman Centers Research Areas: Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy Phone: 412-268-9826
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+semester, the faculty evaluates each student's academic progress. The student's advisor serves
+
+as the student's advocate in this process. The result of the evaluation is a letter from the faculty to the student that indicates whether the student is making satisfactory progress towards
+
+completing the degree.
+
+A good letter  typically indicates that the student is making satisfactory progress. If the student
+
+
+Answer: 

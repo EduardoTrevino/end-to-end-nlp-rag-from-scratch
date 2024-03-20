@@ -1,0 +1,190 @@
+Question: In the paper "Decoder-only Architecture for Speech Recognition with CTC Prompts and Text Data Augmentation, what is the reduction in word error rates achieved by the proposed models on LibriSpeech testother?
+
+Context: 2https://github.com/google/sentencepiece
+
+the joint CTC/attention-based encoder-decoder models that are used in acoustic feature-based end-to-end speech recognition systems [38]. Note that a randomly initialized linear embedding layer is used before the encoder to extract learnable features for input discrete tokens.
+
+2.3. Data Augmentation for ASR with Discretized Input
+This paper presents an end-to-end model designed to im- prove automatic speech recognition (ASR) for a particular speaker in a crowded, noisy environment. The model utilizes a single-channel speech enhancement module that isolates the speaker’s voice from background noise (ConVoiFilter) and an ASR module. The model can decrease ASR’s word error rate (WER) from 80% to 26.4% through this approach. Typically, these two components are adjusted independently due to vari- ations in data requirements.
+Self-supervised learning of speech representations [13] has recently shown its effectiveness in utilizing unlabeled speech data, resulting in outperforming the state-of-the-art (SoTA) in many automatic speech recognition (ASR) datasets. For our study, we utilized the pre-trained wav2vec2 model [10] to construct our ASR model. The wav2vec2 model acts as a speech encoder, and for the decoder, we used an RNN trans- ducer [14]. Despite having a speech enhancement module to eliminate noise from the
+Course number: 18495
+
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Spring 2024
+
+Course number: 18500
+
+Title: ECE Design Experience
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: TBA,HH 1307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Fedder,Kim,Sullivan,Mukherjee,Savvides
+
+Spring 2024
+
+Course number: 18525
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Spring 2024
+
+Course number: 11753
+
+Title: Advanced Laboratory in Speech Recognition
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11754
+
+Title: Project Course: Conversational Systems
+
+Units: 6.0
+
+Section: A
+
+Days: T
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: BH 154A
+
+Locations: Pittsburgh, Pennsylvania
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Spring 2024
+
+Course number: 11695
+
+Title: AI Engineering
+
+Units: 12.0
+
+Section: A,E,B,F,C,D,Lec
+
+Days: F,MW
+
+Start: 09:30AM,11:00AM,02:00PM
+
+End: 10:50AM,12:20PM,03:20PM
+
+Room: PH 226C,PH A22,GHC 4215,WEH 5310,PH 100,WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kaestner, Le Goues
+
+Spring 2024
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+
+
+Answer: 

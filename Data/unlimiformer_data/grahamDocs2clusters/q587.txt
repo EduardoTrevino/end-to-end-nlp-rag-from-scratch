@@ -1,0 +1,103 @@
+Question: In fall 2023, What is the last day of classes for Mini-2, Semester, and Mini-2?
+
+Context: Instructors: Glymour,Wu,Bjorndahl,Spirtes,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Seidenfeld,Simons,Awodey,Smith,Werner,Avigad
+
+Fall 2023
+
+Course number: 80496
+
+Title: Undergraduate Independent Study Mini
+
+Units: VAR
+
+Section: I2,S2,E2,O2,Q2,P2,C2,R2,L2,G2,B2,J2,N2,F2,D2,H2,M2,T2,K2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Bjorndahl,Glymour,Spirtes,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Seidenfeld,Awodey,Simons,Werner,Ramsey,Avigad
+
+Fall 2023
+
+Course number: 80992
+
+Title: Directed Reading Mini
+
+Units: 3,6,12,15
+
+Section: I2,S2,E2,O2,Q2,P2,C2,R2,L2,G2,B2,J2,N2,F2,D2,H2,M2,T2,K2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Title: Data-Driven Decision Analysis
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5310
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rode
+
+Fall 2023
+
+Course number: 88397
+
+Title: SDS Undergraduate Research - mini
+
+Units: VAR
+
+Section: S2,V2,T2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Downs,Jarbo,Oppenheimer
+
+Fall 2023
+
+Course number: 88398
+
+Title: Independent Study
+
+Units: 1-18
+
+Section: A
+
+Days: TBA
+
+Start:
+Event - Mini-2 pass/no pass & withdrawal deadline (2) Date -  November 27 ; Day - Monday ; Event - Semester & Mini-2 Faculty Course Evaluations open Date -  December 8 ; Day - Friday ; Event - Semester & Mini-2 Last Day of Classes Date -  December 8 ; Day - Friday ; Event - Semester & Mini-2 voucher deadline (4) Date -  December 11 ; Event - 12 M-Tu Final Exams Date -  December 13 ; Day - Wednesday ; Event - Reading Day Date -  December 14 ; Event - 15 Th-F Final Exams Date -  December 16 ;
+Event - Mini-1 Exams Date -  October 14 ; Event - Mini-1 Faculty Course Evaluations close Date -  October 16 ; Event - 20 M-F Fall Break; No Classes Date -  October 23 ; Day - Monday ; Event - Mini-2 Classes Begin Date -  October 23 ; Day - Monday ; Event - Mid-Semester & Mini-1 grades due by 4 pm Date -  October 27 ; Day - Friday ; Event - Mini-2 add, audit & tuition adjustment drop deadline (1) Date -  November 7 ; Day - Tuesday ; Event
+November 25 ; Day - Monday ; Event - Semester & Mini-2 Faculty Course Evaluations open Date -  November 27 ; Event - W-F Thanksgiving Break; No Classes Date -  December 6 ; Day - Friday ; Event - Semester & Mini-2 Last Day of Classes Date -  December 6 ; Day - Friday ; Event - Semester & Mini-2 voucher deadline (4) Date -  December 9 ; Event - 10 M-Tu Final Exams Date -  December 11 ; Day - Monday ; Event - Reading Day Date -  December 12 ; Event - 13 Th-F Final Exams Date -  December 14 ;
+
+
+Answer: 

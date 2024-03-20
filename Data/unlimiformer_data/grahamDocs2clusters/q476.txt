@@ -1,0 +1,123 @@
+Question: Which invention by Professor Luis von Ahn was named Apple’s 2013 app of the year?
+
+Context: Azim T, Neamtiu I (2013) Targeted and depth-first exploration for systematic testing
+
+of android apps. In: OOPSLA. ACM, pp 641–660
+
+Bach T, Andrzejak A, Pannemans R, et al (2017) The impact of coverage on bug
+
+density in a large industrial software project. In: ESEM. IEEE, pp 307–313
+
+Baek YM, Bae D (2016) Automated model-based Android GUI testing using multi-
+
+level GUI comparison criteria. In: ASE. ACM, pp 238–249
+
+27
+
+context.
+
+guide.
+
+guide.
+
+tool.
+The first initially seemed a tangent: With Mike Haller, the creator of Interclipper, I co-developed a new modality we called “PixStori” – a local smartphone app for adding brief audio stories or comments to still photographs and sharing these via email or upload to dedicated web galleries.5 The original PixStori was an IOS app for I-phones; it is still useful and available as a free download from the Apple App Store. But we went on to de- velop a new web-app version, www.pixstoriplus.com, fully
+[Korf, 1997] Richard E. Korf. Finding optimal solutions to In Proceedings of rubik’s cube using pattern databases. the Fourteenth National Conference on Artificial Intelli- gence and Ninth Conference on Innovative Applications of Artificial Intelligence, AAAI’97/IAAI’97, page 700–705. AAAI Press, 1997.
+
+[Mattern, 2013] Christopher Mattern. Linear and geometric mixtures - analysis. Proceedings of the Data Compression Conference, pages 301–310, 02 2013.
+10 million downloads in 12 months
+
+and was named Apple’s 2013 app
+
+of the year.
+
+:-)
+
+LEADERSHIP
+
+Farnam Jahanian
+
+President
+
+David Coulter
+
+Chair, Board of Trustees
+
+James H. Garrett Jr.
+
+Provost2 National Academy of Engineering       3 National Academy of Sciences        4 National Academy of Medicine
+
+Won by alumni and current/former faculty
+
+The leading university center
+
+for cybersecurity , providing
+
+support to more than 110
+
+centers around the world
+
+The world’s first university
+10 million downloads in 12 months
+
+and was named Apple’s 2013 app
+
+of the year.
+
+:-)
+
+LEADERSHIP
+
+Farnam Jahanian
+
+President
+
+David Coulter
+
+Chair, Board of Trustees
+
+James H. Garrett Jr.
+
+Provost2 National Academy of Engineering       3 National Academy of Sciences        4 National Academy of Medicine
+
+Won by alumni and current/former faculty
+
+The leading university center
+
+for cybersecurity , providing
+
+support to more than 110
+
+centers around the world
+
+The world’s first university
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+
+
+Answer: 

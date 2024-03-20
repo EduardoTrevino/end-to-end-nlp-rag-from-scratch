@@ -1,0 +1,119 @@
+Question: In spring 2024, Who are the instructors for course 15122?
+
+Context: Start: 09:30AM,04:00PM,03:00PM,05:00PM,09:00AM,02:00PM,02:30PM,01:00PM,10:00AM,11:00AM,12:00PM
+
+End: 12:50PM,01:50PM,03:45PM,09:50AM,03:20PM,03:50PM,02:50PM,04:50PM,11:50AM,10:50AM,05:50PM
+
+Room: GHC CLSTR,POS 146,WEH 4709,WEH 4625,GHC 4301,PH 126A,DH 2105,BH 235A,CMB 2152,HOA 107,PH A18A,DH 1112,PH 125B,DH 2210
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors:  ,Riley, Gedawy,Taylor, Kosbie
+
+Spring 2024
+
+Course number: 15122
+
+Title: Principles of Imperative Computation
+Instructors: Xhakaj,Reis,Rivers
+
+Spring 2024
+
+Course number: 15111
+
+Title: College Programming and Computer Science
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pre-College Pittsburgh
+
+Instructors: Stehlik
+
+Spring 2024
+
+Course number: 15112
+
+Title: Fundamentals of Programming and Computer Science
+
+Units: 12.0
+
+Section: E,I,F,D, ,P,C,J,A,K,W,B,Lec 1,Lec 2,H,L,M,R,O,Q,G,N
+
+Days: W,F,UTR,TR
+Instructors: Gkioulekas
+
+Spring 2024
+
+Course number: 15672
+
+Title: Real-Time Graphics
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCann
+
+Spring 2024
+
+Course number: 15686
+
+Title: Neural Computation
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lee
+
+Spring 2024
+
+Course number: 15689
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+
+
+Answer: 

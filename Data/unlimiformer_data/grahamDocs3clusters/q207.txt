@@ -1,0 +1,140 @@
+Question: What models does ESPnet-ST-v2 offer?
+
+Context: 5.2 Results
+
+Toolkit Comparison Table 2 summarizes ESPnet-ST-v2 performance, showing one best example model (§4) for each task. ESPnet-ST-v1, Fairseq, and NeurST models are also referenced for comparison. On ST/SST, ESPnet-ST-v2 is 4-7 BLEU higher with 4.5 sec lower AL.3 On S2ST ESPnet-ST-v2 is on par with Fairseq.
+told, ESPnet-ST-v2 offers the greatest variety across ST, SST, and S2ST – however, we view these toolkits as complementary. The following section elaborates on the unique features of ESPnet-ST-v2.
+Figure 1 illustrates the software architecture of ESPnet-ST-v2. This modular design is an improve- ment over the ESPnet-ST-v1 where monolithic model and task definitions made it more difficult to extend and modify the toolkit. We also designed ESPnet-ST-v2 such that modules developed for ad- jacent tasks (e.g. ASR, TTS, MT) can also be readily used for spoken language translation.
+Locations:  ,New York, New York,Pittsburgh, Pennsylvania
+
+Instructors: Mccarthy, Sooriamurthi
+
+Fall 2023
+
+Course number: 46915
+
+Title: Advanced Derivative Models:
+
+Units: 6.0
+
+Section: I2, ,M2
+
+Days: M,
+
+Start:  ,05:00PM
+
+End:  ,08:00PM
+
+Room: BRD 507, ,TCS 250
+
+Locations:  ,New York, New York,Pittsburgh, Pennsylvania
+
+Instructors: Greco
+
+Fall 2023
+
+Course number: 46921
+
+Title: Financial Data Science I
+
+Units: 6.0
+
+Section: I1,M1,R1
+
+Days: MW
+
+Start: 03:00PM
+
+End: 04:30PM
+Title: Seminar: Multimodal Foundational Models
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ramanan
+
+Fall 2023
+
+Course number: 16895
+
+Title: Understanding and Critiquing Generative Computer Vision
+
+Units: 12.0
+
+Section: A
+
+Days: F
+
+Start: 12:30PM
+
+End: 02:50PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gupta
+
+Fall 2023
+
+Course number: 16897
+
+Title: Seminar on Robotics
+
+Units: 0.0
+End: 11:50AM,10:50AM,12:45PM
+
+Room: TEP 2611,TEP 2612,CMB 1030,TEP 2701,TEP 2700,TEP 3801,DH 2210
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Zetlin-Jones,Castano Zuluaga
+
+Spring 2024
+
+Course number: 73155
+
+Title: Markets, Models, and Math
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: TEP 2611
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Spear
+
+Spring 2024
+
+Course number: 73230
+
+Title: Intermediate Microeconomics
+
+Units: 9.0
+
+Section: A,B,Lec
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+MIIS students gain three types of practical experience: software development supervised by their advisor (24 units equivalent to two courses); a summer internship (which can be waived for students that have sufficient prior professional experience); and a capstone project executed in a group of peers (42 units equivalent to three 12-unit courses and one 6-unit course). This combination is proven to help IIS students to broaden their skills quickly. The MIIS degree is offered in two options:
+SAE’s buggy as a “sleek aluminum auto”, and DTD’s letter to the editor in 1951 complaining that if a team had used a “Buick grill” they would have placed in Design Comp, we’ve determined that Buggy #4 (2nd from the left in the Design Comp photo below) is actually SAE’s design winner. For a better look at the design, check out the 1950 photos, which is a similar style (though with different wheels, a different pushbar, and likely some other changes).] 1949 Photos. Here are photos from 1949.
+
+
+Answer: 

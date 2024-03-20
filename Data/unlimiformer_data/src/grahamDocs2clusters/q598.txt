@@ -1,0 +1,187 @@
+Question: What is the target duration of the LTI PhD program in years?
+
+Context: Title: LTI Practicum
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hovis, Pinnow
+
+Spring 2024
+
+Course number: 38110
+
+Title: ENGAGE in Service
+
+Units: 1.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Units: 1-48
+
+Section: PP,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Summer 2024
+
+Course number: 11935
+
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: P,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking,Callan
+
+Summer 2024
+
+Course number: 11936
+
+Title: PhD Internship
+
+Units: VAR
+
+Section: P,S
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11929
+
+Title: Masters Thesis II
+
+Units: 5-36
+
+Section: BC,TT
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: TBA,Instructor TBA
+
+Fall 2023
+
+Course number: 11930
+
+Title: Dissertation Research
+
+Units: 1-48
+
+Section: A,PP
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+
+Course number: 11935
+
+Title: LTI Practicum
+
+Units: 1-36
+4.1 Duration of Study
+
+The target duration of the LTI Ph.D.  is five years, although six years is also common.
+
+Carnegie Mellon graduate students are expected to complete their degree requirements within the standard length of time for their program of study as outlined in this Graduate Student Handbook. Upon completion of the graduate program degree requirements, the degree will be certified by the student’s academic program in the semester in which the student completes the
+
+requirements.
+typically a 16-month program consisting of courses, seminars, a required Capstone Project and a required summer internship or practical training. While some MCDS graduates continue on to PhD programs in the LTI or other leading universities, most graduates go on to jobs in 7corporate research and development laboratories.
+5.1 Graduate Student Funding
+
+For all LTI Ph.D.  students, full funding (tuition plus stipend) is guaranteed for the first year . This
+
+support is normally continued for at least 5 years, with possibility of further continuance, subject to continuing satisfactory progress and availability of funding. The fellowship includes full tuition
+
+and fees, and a monthly Ph.D.  stipend that is fixed across SCS. In addition, the LTI pays a
+
+
+Answer: 

@@ -1,0 +1,122 @@
+Question: Have Professors Bhiksha Raj and Rita Singh co-authored a paper?
+
+Context: Paper title: 'Prompting Audios Using Acoustic Properties For Emotion Representation' Published year: 2023 Publication venue or conference: arXiv.org Authors: Soham Deshmukh, Benjamin Elizalde, Huaming Wang, Hira Dhamyal, Rita Singh, Bhiksha Raj Summary: This work addresses the challenge of automatically generating prompts and training a model to better learn emotion representations from audio and prompt pairs by using acoustic properties that are correlated to emotion like pitch, intensity,
+Paper title: 'Token Prediction as Implicit Classification to Identify LLM-Generated Text' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Yutian Chen, Hao Kang, Liangze Li, Vivian Zhai, Rita Singh, Bhiksha Raj Summary: Evaluation shows the exceptional performance of the method in the text classification task, highlighting its simplicity and efficiency, and interpretability studies on the features extracted by the
+Paper title: 'Evaluating Speech Synthesis by Training Recognizers on Synthetic Speech' Published year: 2023 Publication venue or conference: arXiv.org Authors: Roshan Sharma, Hira Dhamyal, Dareen Alharthi, Rita Singh, Bhiksha Raj, Soumi Maiti Summary: This paper proposes an evaluation technique involving the training of an ASR model on synthetic speech and assessing its performance on real speech, and demonstrates a strong correlation with both MOS naturalness and MOS intelligibility when
+Room: BH A51,DNM DNM,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors:  ,Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Fall 2023
+
+Course number: 11831
+
+Title: Self-Paced Computational Ethics Lab
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Strubell
+
+Fall 2023
+
+Course number: 11851
+
+Title: Talking to Robots
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 11:50AM
+Instructors: Hofstad,Singh,Quintana,McDermott
+
+Spring 2024
+
+Course number: 21256
+
+Title: Multivariate Analysis
+
+Units: 9.0
+
+Section: A,E,B,F,C,D,Lec 1,Lec 2
+
+Days: MWF,T
+
+Start: 09:00AM,01:00PM,12:00PM,10:00AM,11:00AM
+
+End: 12:50PM,01:50PM,09:50AM,11:50AM,10:50AM
+
+Room: MM 103,WEH 4625,BH 235B,MM A14,WEH 5302,PH A18A,DH 1112
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Tribendis,Cho,Robinson,Kidonakis,Flaherty,Tankova
+
+Spring 2024
+
+Course number: 21259
+Section: A,B,SV,Lec 1,Lec 3,RW
+
+Days: TBA,F,MW
+
+Start: ,08:00AM
+
+End: ,09:20AM,08:20AM
+
+Room: BH A51,DNM DNM,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11690
+
+Title: MIIS Directed Study
+
+Units: 1-48
+
+Section: C
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mitamura
+
+Spring 2024
+
+Course number: 11692
+Language Technologies Institute - Faculty Name: Rita Singh Email: rsingh@cs.cmu.edu Office: 6703 Gates & Hillman Centers Phone: 412-268-9859
+
+Language Technologies Institute - Faculty Name: Emma Strubell Email: estrubel@andrew.cmu.edu Office: Gates & Hillman Centers
+Language Technologies Institute - Faculty Name: Bhiksha Ramakrishnan Email: bhiksha@cs.cmu.edu Office: 6705 Gates & Hillman Centers Research Areas: Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy Phone: 412-268-9826
+nearby Mellon Institute of Industrial Research to form Carnegie-Mellon University. The Department of Computer Science moved into the newly created Mellon Institute of Science, later renamed Mellon College of Science, or MCS. Future SCS dean Raj Reddy joined the CSD in 1969 after three years as an assistant professor at Stanford. He brought with him research in speech, language and computer vision. But in 1970 and 1971, the new Computer Science Department faced its first crisis, as half of its
+
+
+Answer: 

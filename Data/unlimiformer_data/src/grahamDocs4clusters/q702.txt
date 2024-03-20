@@ -1,0 +1,199 @@
+Question: Where is advanced NLP taught this semester?
+
+Context: Natural language processing (NLP) is in a period of flux. The unprecedented advances of deep neu- ral networks and large language models (LLMs) in NLP coincides with a shift not only in the nature of our research questions and methodology, but also in the size and visibility of our field. Since the mid- 2010s, the number of first-time authors publishing in the ACL Anthology has been increasing expo- nentially (Figure 1). Recent publicity around NLP technology, most notably ChatGPT, has brought
+et al., 2023; Lu et al., 2023; Liang et al., 2023). By combining plans, decisions, and executions into a pipeline, these frameworks aim to construct more advanced and versatile NLP systems for improving the performance of LLMs.
+using NLP to advance dogwhistle research. Even though LLMs’ performance is likely due to vast training data, and even then, their outputs require manual verification, our experiments with GPT-3 demonstrate that LLMs have some ability to sur- face dogwhistles and explain their covert meanings. This is particularly valuable as dogwhistles are in- tentionally hidden from out-group members, and out-group researchers may have no other way to access this information. There is thus a unique op-
+End: 08:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: John
+
+Spring 2024
+
+Course number: 98020
+
+Title: Student Taught Courses (StuCo): Deconstructing the Barbie Cinematic Universe:
+
+Units: 3.0
+
+Section: A,
+
+Days: W,
+
+Start:  ,07:00PM
+
+End:  ,08:20PM
+
+Room:  ,GHC 4211
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Thai-Tang
+
+Spring 2024
+
+Course number: 98031
+
+Title: Student Taught Courses (StuCo): NLP Ethics in a Nutshell
+
+Units: 3.0
+
+Section: W3
+
+Days: UT
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Johnson
+
+Spring 2024
+
+Course number: 60457
+
+Title: Advanced DP3: Painting - Reverence And Representation
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 415
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Henderson
+
+Spring 2024
+
+Course number: 60462
+
+Title: Advanced DP3: Painting Matter & Substance
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: CFA 304
+Room: SH 105,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Bisk, Diaz
+
+Spring 2024
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: TEP 1403,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Neubig
+
+Spring 2024
+
+Course number: 11712
+
+Title: Lab in Natural Language Processing: Self-Paced
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+This year Fringe is planning to roll four different vehicles, built and maintained in the Fringe workshop in the basement of the East Campus Garage, known as the "Froom."
+
+"We're used to saying everything with 'fr' in front of it but when we say something in front of other people, it gets them confused," said Fringe head mechanic Dave Singh, who will graduate in May with a bachelor's degree in mechanical engineering and biomedical engineering.
+1946 was the first clue, since the 3 buggies advancing to the Finals were from the same Prelim Heat. But in 1947, it became more obvious, as there were 4 Prelim Heats but only the 3 teams with the fastest Prelim times advanced to the Finals. Prelims. Sadly, the 1947 Tartan was not very interested in Buggy, so we don’t know much about the race. In fact, all we really know from the Tartan is that PhiKap’s buggy was built by DeBolt, Malenock, Butters, and Gregg, and was driven by Danny Gallo. But
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+10-708, Probabilistic Graphical Models
+
+16-720, Computer Vision
+
+17-631 Information Security, Privacy & Policy
+
+17-781, Mobile and IoT Computing Services
+
+4.4.1 Breadth Courses:  Human Language
+
+11-611, Natural Language Processing
+
+11-624, Human Language for Artificial Intelligence
+
+11-711, Advanced NLP
+
+11-722, Grammar Formalisms
+
+11-724, Human Language for Artificial Intelligence
+
+11-727, Computational Semantics for NLP
+
+11-737, Multilingual NLP
+
+
+Answer: 

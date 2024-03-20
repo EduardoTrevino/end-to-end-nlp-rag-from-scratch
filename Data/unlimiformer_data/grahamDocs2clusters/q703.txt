@@ -1,0 +1,147 @@
+Question: In spring 2024, When are final examinations for the semester and Mini-4?
+
+Context: Spring 2024
+
+Course number: 98193
+
+Title: Student Taught Courses (StuCo): Intro to Quantum Computing
+
+Units: 3.0
+
+Section: W3
+
+Days: W
+
+Start: 05:00PM
+
+End: 05:50PM
+
+Room: CMB 1032
+
+Locations: Doha, Qatar
+
+Instructors: Seitkaliyev
+
+Spring 2024
+
+Course number: 98195
+
+Title: Student Taught Courses (StuCo): Introduction to Divination
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: WEH 5320
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Qi
+
+Spring 2024
+Spring 2024
+
+Course number: 09302
+
+Title: Undergraduate Seminar IV
+
+Units: 1.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 11:50AM
+
+Room: DH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stump
+
+Spring 2024
+
+Course number: 09322
+
+Title: Laboratory IV: Molecular Spectroscopy and Dynamics:
+
+Units: 12.0
+
+Section: A, ,Lec
+
+Days:  ,TR
+
+Start:  ,01:00PM,02:00PM
+
+End:  ,01:50PM,04:50PM
+
+Room: DH 1302, ,CYH 100A
+
+Locations:  ,Pittsburgh, Pennsylvania
+Spring 2024
+
+Course number: 24789
+
+Title: Intermediate Deep Learning for Engineers
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Barati Farimani
+
+Spring 2024
+
+Course number: 24790
+
+Title: Thesis Research
+
+Units: 3-36
+
+Section: A3
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hertz
+
+Spring 2024
+
+Course number: 24791
+
+Title: Graduate Seminar I
+
+Units: 0.0
+
+Section: A
+May 5 ; Day - Monday ; Event - Semester & Mini-4 Faculty Course Evaluations close Date -  May 6 ; Event - Make-Up Final Examinations Date -  May 8 ; Day - Wednesday ; Event - Graduating Students' Final Grades Due by 4 pm Date -  May 11 ; Event - Commencement Date -  May 13 ; Event - Final Grades Due by 4 pm Date -  May 20 ; Event - Spring Deans' Lists Posted
+; Event - Semester & Mini-4 Faculty Course Evaluations close Date -  May 7 ; Event - Make-Up Final Examinations Date -  May 8 ; Day - Wednesday ; Event - Graduating Final Grades Due by 4 pm Date -  May 12 ; Event - Commencement Date -  May 14 ; Event - Final Grades Due by 4 pm Date -  May 21 ; Event - Spring Deans' Lists Posted
+April 14 ; Day - Monday ; Event - Semester & Mini-4 Faculty Course Evaluations open Date -  April 25 ; Day - Friday ; Event - Last Day of Classes Date -  April 25 ; Day - Friday ; Event - Semester & Mini-4 voucher deadline (4) Date -  April 28 ; Event - 29 M-Tu Final Examinations Date -  April 30 ; Day - Wednesday ; Event - Reading Day Date -  May 1 ; Event - 2 Th-F Final Examinations Date -  May 3 ; Event - 4 Sa-Su Reading Days Date -  May 5 ; Day - Monday ; Event - Final Examinations Date -
+
+
+Answer: 

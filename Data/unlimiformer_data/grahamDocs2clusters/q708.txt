@@ -1,0 +1,25 @@
+Question: In which types of benchmarks has SoftMatch shown substantial improvements?
+
+Context: RLHF improves human alignment benchmarks further. From another angle, even though high- quality instruction data demonstrates large gains in capability assessment, it does not improve much on human-alignment benchmarks including LLaVA-Bench and MMHAL-BENCH, which is also evident in recent LLM studies (Wang et al., 2023). LLaVA-RLHF show a significant improvement in aligning with human values. It attains scores of 2.05 (7b) and 2.53 (13b) on MMHAL-BENCH and improves LLaVA-SFT+ by over 10% on
+Experimental results on widely-used IR bench- marks, namely MS MARCO (Nguyen et al., 2016) and TREC DL 2019 (Craswell et al., 2020) & 2020 (Craswell et al., 2021), demonstrate that FiT5 exhibits substantial improvements over traditional retrieve-and-rerank pipelines. Furthermore, FiT5 outperforms systems with more re-ranking stages and/or larger models on the MS MARCO dataset. Further analysis reveals that FiT5 effectively lever- ages ranking features through its global attention architecture,
+noticeable improvements for the JavaScript versions of the text2code benchmarks. However, it should be noted that the MHA model has more parameters (1.3B) than the MQA model (1.1B), and a head-to-head comparison might, therefore, not be entirely fair. We think that the inference speed-ups of MQA might outweigh the small drop in performance.
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+Clients meet with a c onsultant to improve the logic, clarity, and flow of writing or
+
+presentation and receive expert feedback that will strengthen a project. When making an appointment, clients upload a draft, instructor prompts, and rubrics so the consultants can use specific  criteria to give relevant feedback. See the
+
+appointment types offered here:
+
+https://www.cmu.edu/student-
+
+success/programs/communication -support/make- an-appointment.html
+3. Tutoring machines, 1973 Games and drills, such as flash cards, have long been used to help students learn tough subjects. But the cognitive tutoring programs developed at Carnegie Mellon, beginning in the 1970s, did more than simply drill students on math problems. Cognitive tutors were able to adapt, presenting harder or easier problems as students learned or stumbled. Today, cognitive tutors teach subjects such as algebra to hundreds of thousands of students every year.
+
+
+Answer: 

@@ -1,0 +1,19 @@
+Question: What does CLIP stand for?
+
+Context: Table 1: Retrieval accuracy on ImageCoDe test split with human-written contextual captions as input. In the proposed method, we use CLIP-zero-shot as the base listener and ALBEF-finetuned as the listener for evaluation. CLIP-finetuned denotes the best-performing model in previous work. The fine-tuned ALBEF outper- forms the best CLIP model with a large margin on static images while improving slightly on video frames. Com- paring with performances on static images, all models struggle on video
+ities, making them exceptionally valuable for a wide range of AI applications [16]–[18]. One such model, Contrastive Language-Image Pre-training (CLIP) [16], is trained from scratch on an extensive dataset comprising 400 million (im- age, text) pairs. CLIP’s representations can seamlessly trans- fer to many downstream tasks without fine-tuning. While prior research has primarily focused on integrating audio modalities into CLIP’s embedding space [19], including a robot’s haptic data into this
+Representations with CLIP. Recent advances have revealed the potential of contrastive objectives to yield generalized representations for both text and images [16], [17]. Contrastive Language-Image Pre-training (CLIP) [16] has delivered state-of-the-art representations that excel in diverse tasks, including zero-shot image classification, image retrieval via text, and guiding generative models [25]. While CLIP’s knowledge has been distilled for audio [19], our MOSAIC approach is the first to
+newspapers.
+retaliation any individual who makes a good faith report of a suspected violation of any applicable law or regulation, university Policy or procedure, any contractual obligation of the university, and any report made pursuant to the Carnegie Mellon University Code of Business Ethics and Conduct.
+A.3.1 Counseling & Psychological  Services
+
+https://www.cmu.edu/counseling/
+
+Counseling & Psychological Services (CaPS) affords the opportunity for students to talk privately
+
+about academic and personal concerns in a safe, confidential setting. An initial consultation at
+
+CaPS can help clarify the nature of the concern, provide immediate support, and explore further
+
+
+Answer: 

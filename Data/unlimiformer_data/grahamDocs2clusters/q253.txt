@@ -1,0 +1,177 @@
+Question: Does LTI offer a course on ethics?
+
+Context: Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Spring 2024
+
+Course number: 11590
+
+Title: LTI Minor Project - Advanced
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11604
+
+Title: Python for Data Science I
+
+Units: 6.0
+
+Section: A3
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11605
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hovis, Pinnow
+
+Spring 2024
+
+Course number: 38110
+
+Title: ENGAGE in Service
+
+Units: 1.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+by actual classroom courses, not credit given for research or independent study.
+
+An “LTI course ” is any 12 -unit course with a number of 11 -XXX; a  6-unit course with 11 -XXX
+
+counts as one- half of an LTI course. Unless otherwise specified, "course" means an actual
+
+classroom course, not  credit given for research or independent study. Note that the LTI  allow s
+
+any one MLD (10 -XXX) graduate course to count as an "LTI course".
+The LTI may grant transfer credit or issue an exemption  for equivalent graduate courses
+
+previously completed at another institution. This decision rests with the chair of the particular program. If a student is exempt  from a required course due to prior courses or experience, the
+An LTI Ph.D.  student who uses courses taken as a M aster ’s degree student (at Carnegie Mellon
+
+or elsewhere) toward their program requirements cannot use those same courses toward any
+
+other Master’s degree offered by the school . The LTI (like other SCS units) allows its Ph.D.
+
+students who have passed the requirements for an LTI Master’s degree to receive the master’s
+
+degree without any additional work. Any other sharing of coursework by an LTI student between
+
+
+Answer: 

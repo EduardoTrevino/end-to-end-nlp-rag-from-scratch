@@ -1,0 +1,59 @@
+Question: What are the two key factors addressed by CSurF?
+
+Context: Paper title: 'CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms' Published year: 2023 Publication venue or conference: International Conference on the Theory of Information Retrieval Authors: Zhen Fan, Jamie Callan, Luyu Gao Summary: This paper proposes to directly bridge the surface form space and the term semantics space in lexical exact-match retrieval via contextualized surface forms (CSF), reaching comparable accuracy as lexical all-to-all soft match systems as an
+framing the relation between units and coherence. LFP coherence appears to be
+
+determined by two factors (Schneider et al., 2021): (i) coherence due to the direct
+
+contribution of afferent synaptic inputs; (ii) coherence between the sender LFP and
+
+the summed population spiking activity in the receiver. Coherence therefore depends
+
+on connectivity strength and oscillation power, and does not need purely oscillatory
+
+coupling or spike-phase locking in a receiver.
+Some controlling factors allow one to relate un, vn and wn directly to pn and qn. One such choice is the remainder estimate ωn = ∆sn = an+1, so that the numerator recurrence becomes:
+
+pnN (0)
+
+n+1 = qnN (0)
+
+n + qn.
+
+Another reasonable choice is the remainder estimate ωn = ∆sn−1 = an. In this case, an+1/ωn+1 = 1, and the numerator recurrence becomes:
+
+pnN (0)
+
+n+1 = qnN (0)
+
+n + pn.
+
+The other two choices in Eq. (8) are acceptable, though the polynomial coefficients are more involved.
+grade appeal: (a) the final grade assigned for a cours e is based on manifest error (e.g. a clear error
+
+such as arithmetic error in computing a grade or failure to grade one of the answers on an exam),
+
+or (b) the faculty or staff member who assigned the grade did so in violation of a University
+
+policy
+
+11.5.4  Safeguarding Educational Equity:
+
+Policy Against Sexual Harassment and Sexual Assault
+
+The University prohibits sex-based discriminati on, sexual harassment, sexual assault, dating/
+This policy addresses the circumstances in which romantic, sexual or amorous relationships/interactions with undergraduate students, even if consensual, are inappropriate and prohibited. The purpose of this policy is to assure healthy professional relationships. This policy is not intended to discourage consensual intimate relationships unless there is a conflicting professional relationship in which one party has authority over the other as in the policy. 4.3.5 Gestational and Parental
+4) Academic Integrity Violation (AIV) according to  the university policies. This includes any
+
+AIV letter received in during the summer preceding matriculation.
+
+A student may be terminated from the program under any of the following circumstances:
+
+a) A student who has received two Academic  Integrity Violation (AIV) letters will  be
+
+terminated. There are no exceptions  and the Program Director has no discretion over
+
+such a termination as it is an LTI policy.
+
+
+Answer: 

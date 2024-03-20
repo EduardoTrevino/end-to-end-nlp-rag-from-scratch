@@ -1,0 +1,31 @@
+Question: What is the name of the open-scientific collaboration working on the responsible development of Large Language Models for Code?
+
+Context: BigCode2 is an open scientiﬁc collaboration working on the responsible development of large lan- guage models for code, empowering the machine learning and open-source communities through open governance. BigCode was inspired by the BigScience project, an open-scientiﬁc collaboration which culminated in July 2022 with the release of a large multi-lingual language model (Scao et al., 2022). As in BigScience, various BigCode working groups focus on relevant subtopics such as collecting datasets,
+The BigCode project is an open-scientiﬁc collaboration working on the responsi- ble development of large language models for code.1 This tech report describes the progress of the collaboration until December 2022, outlining the current state of the Personally Identiﬁable Information (PII) redaction pipeline, the experi- ments conducted to de-risk the model architecture, and the experiments investi- gating better preprocessing methods for the training data. We train 1.1B param- eter models on
+RedPajama [7] aims to develop open-source large language models and be- gins by replicating the LLaMA training dataset [36], which boasts over 1.2 tril- lion tokens. This collaborative effort involves entities such as Together, Onto- cord.ai, ETH DS3Lab, Stanford CRFM, Hazy Research, and the MILA Qu´ebec AI Institute. SlimPajama [33] stands as the highly deduplicated, multi-source, open-source dataset tailored for training large language models. This dataset emerged by refining and eliminating
+Language Technologies Institute - Faculty Name: Lei Li Email: leili@andrew.cmu.edu Research Areas: Machine Learning, Machine Translation, Large Language Models, AI Drug Discovery Phone: 412-268-6355
+Language Technologies Institute - Faculty Name: Daniel Fried Email: dfried@andrew.cmu.edu Research Areas: Natural Language Processing: Language and Code, Conversational AI, Intelligent Agents, and Dialogue, Discourse and Pragmatics, Multimodal AI
+
+Language Technologies Institute - Faculty Name: Anatole Gershman Email: anatole.gershman@cs.cmu.edu Office: 6415 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering Phone: 412-268-8259
+Semester One: - Artificial Intelligence and Future Markets - Law of Computer Technology - Coding Bootcamp - Machine Learning
+
+Semester Two - AI Engineering - Machine Learning with Large Datasets - Cloud Computing* - Software Engineering for Startups*
+
+Semester Three
+
+AI Innovation
+
+Natural Language Processing
+
+Applied Machine Learning
+
+Web Application Development*
+
+Semester Four
+
+Deep Learning
+
+Capstone Project(36 units)
+
+
+Answer: 

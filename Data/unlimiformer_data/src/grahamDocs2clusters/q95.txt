@@ -1,0 +1,181 @@
+Question: Does SCS Interdisciplinary offer more than 1 course in Summer 2024?
+
+Context: Summer 2024
+
+Course number: 99412
+
+Title: Summer Internship
+
+Units: 1.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mozisek
+
+Summer 2024
+
+Course number: 99520
+
+Title: Collaborative Research through Projects:
+
+Units: VAR
+
+Section: A,M,X,Y,Z,W,B,C,D,N, ,L
+
+Days: R,W,MTW,F,MWF,MW,TBA,
+
+Start: ,04:30PM,12:30PM,09:30AM,11:00AM,07:00PM,
+
+End: ,01:50PM,12:20PM,10:00PM,03:00PM,10:50AM,05:50PM,
+
+Room: TBD TBD,CMU REMOTE,TBA, ,DNM DNM
+Summer 2024
+
+Course number: 90934
+
+Title: Independent Study
+
+Units: 1-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Borzutzky
+
+Summer 2024
+
+Course number: 90935
+
+Title: Independent Study
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Padman
+
+Summer 2024
+
+Course number: 90936
+
+Title: Independent Study
+
+Units: 1-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Summer 2024
+
+Course number: 95904
+
+Title: Independent Study
+
+Units: 1-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 95905
+
+Title: Independent Study
+
+Units: 1-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 95906
+
+Title: Independent Study
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+Mellon or elsewhere) toward their program requirements cannot use those same courses
+
+toward any other M.S. degree offered by the School of Computer Science without prior approval. (SCS policy)
+
+6.1.2 Duration of Study
+
+MIIS -16 students enrolled for full- time study are expected to complete the degree in three
+
+semesters of academic study and one summer internship (16 months  total).
+
+MIIS -21 students  enrolled for full- time study are expected to complete the degree in four
+Note: recommended electives outside of the SCS count towards the “SCS” course requirement. Please see the Program Director for approval of electives as “SCS. ”
+
+Note also that students need advance approval for any courses not covered by their normal tuition (e.g., summer courses ). The grading of outside courses is the responsibility of the
+
+department offering the course; however , the LTI's Minimum Course Grade Policy described
+complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+
+
+Answer: 

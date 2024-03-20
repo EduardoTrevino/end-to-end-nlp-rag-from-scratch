@@ -1,0 +1,25 @@
+Question: What are the two standard benchmarks used to evaluate the performance of FREDOM?
+
+Context: In the generation task, models generate full-sentence answers given the question. The benchmark evaluates the model’s performance on both questions to measure truthful models and the intersection of truthful and informative. As shown in Table 4 (right), Dromedary achieves higher scores than GPT-3, LLaMA, Alpaca in both categories, while failing behind the ChatGPT-distilled Vicuna model.
+
+4.2.2 BIG-bench HHH Eval
+Evaluation Dataset To evaluate LLM’s performance on non-English languages, we use two benchmark cross-lingual datasets, XQUAD (Artetxe et al., 2020) and MLQA (Lewis et al., 2020), which requires the model to reason over the given context and answer the given question. In addi- tion, we create a new multilingual evaluation set MI-EVAL (introduced in Appendix B) to assess the capability of LLM in following multilingual instructions. These multilingual multi-way test sets also allow us to compare
+tion set of SemanticSTF. For both benchmarks, the Baseline is a source-only model that is trained by using the training data of SemanticKITTI or SynLiDAR. We can see that the Baseline achieves very low mIoU while evaluated over the validation set of SemanticSTF, indicating the large domain discrepancy between point clouds of normal and adverse weather conditions. In addition, all three data augmentation methods improve the model generalization consistently but the performance gains are limited
+graded on the 4.3 grading standard http://www.cmu.edu/policies/documents/Grades.html. MCDS students must maintain a 3.0 overall average each semester to remain in good standing. A student must obtain a B- or better grade in all courses, which count towards core requirements. If a student 19receives a C- or better, that course may count as an elective towards the degree requirements. All courses must receive a letter grade; courses taken pass/fail do not count towards the MCDS degree.
+1948 – Design Competition (from the 1949 Thistle). Identified buggies: KapSig (3rd from the left, back row); PiKA (4th from the left, back row); Beta Sigma Rho (far left, back row). We also believe that the bottom buggy in the front row (3 wheels, no shell) belongs to Citcom Clan.
+
+1948 – Hill 1 of the Finals (from the 1949 Thistle). KapSig in Lane 1 (left), DTD in Lane 2 (middle), PiKA in Lane 3 (right)
+Students must demonstrate their mastery of material taught in courses and their success in applying their skills in directed stu dy by satisfying the following grade requirements .
+
+Minimum grade:  Only courses with a grade of B (3.0) or higher are counted as satisfying a degree
+
+requirement.
+
+Pass/fail:  Pass/fail grades are not permitted for courses and projects used to satisfy a degree
+
+requirement.
+
+3.1.3 Proficiency Requirements
+
+
+Answer: 

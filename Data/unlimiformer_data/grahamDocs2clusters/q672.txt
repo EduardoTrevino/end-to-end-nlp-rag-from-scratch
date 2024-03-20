@@ -1,0 +1,111 @@
+Question: What number do all of the Chemistry classes start with?
+
+Context: Spring 2024
+
+Course number: 09105
+
+Title: Introduction to Modern Chemistry I
+
+Units: 10.0
+
+Section: A,B,C,D,Lec
+
+Days: MWF,TR
+
+Start: 08:00PM,10:00AM,07:00PM
+
+End: 10:50AM,07:50PM,08:50PM
+
+Room: PH A18B,DH 2315,PH A18C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Vuocolo
+
+Spring 2024
+
+Course number: 09106
+
+Title: Modern Chemistry II
+
+Units: 10.0
+
+Section: A,W,B,C,Lec
+
+Days: MWF,TR,UMTWR
+
+Start: 08:00PM,11:00AM,11:30AM,07:00PM
+
+End: 11:50AM,07:50PM,08:50PM,12:20PM
+Course number: 33121
+
+Title: Physics I for Science Students:
+
+Units: 12.0
+
+Section: A,W,B,C,D,Lec,
+
+Days: MWF, ,UTR,TR
+
+Start: 08:00AM,04:00PM,09:00AM,10:00AM,11:00AM,12:00PM,
+
+End: 12:50PM,08:50AM,09:50AM,11:50AM,10:50AM, ,05:15PM
+
+Room: DH A301D, ,CMB 1190,DH 2210
+
+Locations:  ,Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Zhou,Li,Ryan,Zayed
+
+Fall 2023
+
+Course number: 33122
+
+Title: Physics II for Biological Sciences & Chemistry Students:
+
+Units: 9.0
+
+Section: A,B,C,Lec,
+
+Days:  ,MW,TR
+Instructors: Peteanu
+
+Fall 2023
+
+Course number: 09105
+
+Title: Introduction to Modern Chemistry I
+
+Units: 10.0
+
+Section: A,E,W,B,G,C,D,Lec 1,Lec 3
+
+Days: MWF,MW,UTR,TR
+
+Start: 07:00PM,08:00PM,10:00AM,11:45AM
+
+End: 12:35PM,10:50AM,07:50PM,08:50PM
+
+Room: PH A18C,WEH 4625,CMB 1030,BH 235B,WEH 5302,DH 2210
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Murshid,Vuocolo
+
+Fall 2023
+
+Course number: 09106
+
+Title: Modern Chemistry II
+
+Units: 10.0
+
+Section: A,B,Lec
+
+Days: MWF,TR
+complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+least 36 units that count toward their current degree level. (See separate
+also complete at least one concentration, consisting of three courses in one of three areas: Analytics, Systems, or Human-Centered Data Science. The remaining elective course can be any course with number 600 or above chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.  To maintain full-time enrollment status, a student must enroll in a minimum of 36 course units per semester.
+
+
+Answer: 

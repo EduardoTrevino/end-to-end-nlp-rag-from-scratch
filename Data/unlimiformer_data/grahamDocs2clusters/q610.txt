@@ -1,0 +1,25 @@
+Question: In 2011, an IBM computer defeated human champions on the “Jeopardy!” game show. What was the name of this computer?
+
+Context: [6] Peter Clark, Isaac Cowhey, Oren Etzioni, Tushar Khot, Ashish Sabharwal, Carissa Schoenick, and Oyvind Tafjord. Think you have solved question answering? try arc, the ai2 reasoning challenge. arXiv preprint arXiv:1803.05457, 2018. 10
+
+19
+
+[7] Together Computer. Redpajama: An open source recipe to reproduce llama train-
+
+ing dataset, 2023. 1, 3, 7, 11, 12, 17
+These and other methods have been programed for the IBM 7090, and are de- scribed in full elsewhere [3, 16]. It is important, and rather surprising, that the techniques do not suﬀer from the sampling diﬃculties often found in hill-climbing procedures, but gives extremely stable optima even for short computation times.
+
+1.4 My Failed First Attempts to Recreate Alexander’s Results
+Joseph Weizenbaum. 1976. Computer power and hu- man reason: From judgment to calculation. WH Freeman & Co.
+
+Jason Weston, Antoine Bordes, Sumit Chopra, Alexan- der M Rush, Bart Van Merriënboer, Armand Joulin, and Tomas Mikolov. 2015. Towards ai-complete question answering: A set of prerequisite toy tasks. arXiv preprint arXiv:1502.05698.
+
+Oliver Whang. 2023. Can a machine know that we
+
+know what it knows? The New York Times.
+23. Question-answering computers, 2011 Searching the Web for information is rarely as simple as asking a question in plain English. So-called “question-answering” machines moved from laboratories to TV screens when an IBM computer called “Watson” defeated two human champions on the game show “Jeopardy!” At the heart of Watson was computer architecture developed by CMU’s Eric Nyberg and his students.
+11. Computer chess, 1990 Could a computer play chess at the level of the world’s best players? For many years, it was considered the “holy grail” of artificial intelligence. Hitech, developed by CMU researcher Hans Berliner (CS’74), was the first computer to achieve grandmaster status. CMU alumni played key roles in developing “Deep Blue,” the IBM machine that beat human chess champion Garry Kasparov in 1997.
+Turing Awards and a Nobel Prize In 1975, Simon and Newell were awarded the A.M. Turing Award for their work in artificial intelligence. (As of 2014, 12 CMU alumni or faculty have been awarded Turings, sometimes considered the Nobel Prize of computing.) Three years later, Simon received the Nobel Prize in Economics for his work on decision-making theory. As the 1970s progressed, Newell became interested in human-computer interaction, and began a long relationship with Xerox’s Palo Alto Research
+
+
+Answer: 

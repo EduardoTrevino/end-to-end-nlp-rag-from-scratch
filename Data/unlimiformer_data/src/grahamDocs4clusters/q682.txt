@@ -1,0 +1,195 @@
+Question: How many components or phases are in the MultiBench toolkit pipeline?
+
+Context: for different tasks. MultiBench spans 10 diverse modalities (images, video, audio, text, time-series, various robotics sensors, sets, and tables), 15 prediction tasks (humor, sentiment, emotions, mortality rate, ICD-9 codes, image-captions, human activities, digits, robot pose, object pose, robot contact, and design interfaces), and 5 research areas (affective computing, healthcare, multimedia, robotics, and HCI). These datasets are designed to test a combination of feature learning and
+Tool Details. Each tool ki within the toolkit KT is comprised of a concise introduction and its cor- responding code implementation. The introduction provides a brief overview of ki’s utility, inputs, and outputs, facilitating effective planning and calling in subsequent steps. In Figure 2A, the target task T = Navigate is decomposed into t1 (movement in a single direction) and t2 (change of orienta- tion). Each component is represented by a spe- cific implementation encapsulated within a tool
+ments on multicore platforms with 20 and 56 cores, respectively. The results show that the versatility of DaphneSched enabled combinations of scheduling strategies that outperform commonly used scheduling tech- niques by up to 13%. This work confirms the benefits of employing Daph- neSched for the efficient execution of applications with IDA pipelines.
+Title: Multi-Robot Planning and Coordination
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 16897
+
+Title: Seminar on Robotics
+
+Units: 0.0
+
+Section: A
+
+Days: F
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pathak
+
+Spring 2024
+
+Course number: 16990
+
+Title: Practicum
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Spring 2024
+
+Course number: 15744
+
+Title: Computer Networks:
+
+Units: 12.0
+
+Section: A,
+
+Days: MWF,
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room:  ,GHC 4303
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Sherry, Atre
+
+Spring 2024
+
+Course number: 15751
+
+Title: CS Theory Toolkit:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room:  ,POS 152
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: O'Donnell, Jain
+
+Spring 2024
+
+Course number: 15772
+Units: 10.0
+
+Section: A,B
+
+Days: MW,TR
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 318,WEH 5202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin,Pedercini
+
+Spring 2024
+
+Course number: 60125
+
+Title: IDeATe: Introduction to 3D Animation Pipeline
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: CFA 317
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mahler
+
+Spring 2024
+
+Course number: 60135
+
+Title: Foundations: Sculpture II
+
+Units: 10.0
+
+Section: A,C,B
+
+Days: MW,TR
+Safety is a top priority for teams. All drivers are required to have five pieces of safety gear: mouth guard, goggles, a harness that includes three points of contact to the body of the buggy, gloves and a helmet. And during practice runs and races, flaggers man the course to let drivers know if it's safe to proceed.
+Depending on Friday and Saturday's conditions, most heats may run just two lanes instead of three. But still, despite some of the challenges, Chen said she wouldn't miss it.
+
+"Being a driver is really fun," Chen said. "I love going fast and going around the course."
+rules carried over from the pre-war era, including that track and cross-country runners were ineligible, buggies must stay in their lanes on the front hills, buggies may have no less than 3 and no more than 5 wheels, and no switching of drivers.
+Multi-processor machines emerge CSD emerged from the brief crisis as a highly agile, interdisciplinary entity, with many new faculty members taking joint appointments with other CMU departments. Several large projects emerged in the Computer Science Department, including C.mmp, the first shared-memory multiprocessor computer, with 16 processing units, and Cm*, a 50-processor computer. These computers were the forerunners of today’s ubiquitous multi-core desktops and laptops.
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+4.4.3  Breadth Courses:  Machine Learning  ................................................................................ 15
+
+4.5 Practice Requirements  ................................................................................................................... 16
+
+4.6 Registration Process/Procedures  ................................................................................................. 17
+
+
+Answer: 

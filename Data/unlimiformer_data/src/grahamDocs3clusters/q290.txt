@@ -1,0 +1,202 @@
+Question: What is the minimum GPA for the MSAII program?
+
+Context: Inception, Mohamed bin Zayed University of Artificial (MBZUAI), and Cerebras Systems. Arabic (MSA) and English Instruction-tuned model – 13B parameters. Text-only data. Model generates text. GPT-3 with dense attention, 40 decoder blocks, 40 attention heads, 5,120 hid- den size, SwiGLU activation, and ALiBi positional embeddings. Jais-chat was trained between 11 August 2023 and 13 August 2023. This static model has been trained using an offline dataset. As we enhance the model safety based on
+Inception, Mohamed bin Zayed University of Artificial (MBZUAI), and Cerebras Systems. Arabic (MSA) and English Pretrained model – 13B parameters. Text-only data. Model generates text. GPT-3 with dense attention, 40 decoder blocks, 40 attention heads, 5,120 hid- den size, SwiGLU activation and ALiBi positional embeddings. Jais was trained between 23 June 2023 and 18 July 2023 This static model has been trained using an offline dataset. As we enhance the model safety based on community feedback,
+Finetuned GPT-Based Models Using OpenAI API GPT-3 Ada GPT-3 Babbage GPT-3 Curie GPT-3 Davinci Finetuned Open-Sourced Decoder-Only Models 89.18 GPT2 94.29 GPT2-Large GPT2-XL 94.30 91.98 LLaMA-7B LLaMa2-7B 92.92 Finetuned BERT-Based Models 69.29 BERT-Base 85.26 BERT-Large 87.60 RoBERTa-Base RoBERTa-Large 89.10 Finetuned BERT-Based NLI Models BERT-Base MNLI BERT-Large MNLI RoBERTa-Base MNLI RoBERTa-Large MNLI
+
+79.85 78.19 81.23 85.52
+
+70.47 69.98 75.00 80.26
+
+88.03 92.18 91.94 88.62 90.11
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 11699
+
+Title: MSAII Program Capstone
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11700
+
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,P
+
+Days: TBA,F
+
+Start: ,02:00PM
+
+End: ,03:20PM
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Rose
+
+Fall 2023
+
+Course number: 11635
+
+Title: Data Science Capstone Research
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Fall 2023
+
+Course number: 11636
+
+Title: MSAII Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Fall 2023
+Section: A,
+
+Days:  ,MW
+
+Start: 08:00AM,
+
+End: 09:20AM,
+
+Room:  ,SH 236
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Spring 2024
+
+Course number: 11635
+
+Title: Data Science Capstone Research
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11636
+
+Title: MSAII Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+established by the MSAII program, the stud ent may be dismissed from the program.
+
+After each academic progress revi ew, a student may receive one or  more letters, indicating the
+
+result of the review. See Section 3.1, Co urse Grade and GPA Requirements, above.
+
+At the end of the semester, the faculty evaluate s each student's academic progress. If a student
+
+seems to be having trouble, th e faculty determines whether it believes that the student can
+below the acceptable academic performance and/or fail to meet the sta ndards established by the
+
+MSAII program and Carnegie Mellon Universit y, the student may be dismissed from the
+
+program.
+
+Should a student’s overall QPA drop below 3.0 d uring any given semester, he/she will be placed
+
+on academic probation for the following semester and will be required to improve his/her grades
+
+to no less than overall 3.0 QPA d uring that period. Failure to im prove to an overall 3.0 QPA or
+notice of this finding, including a list of meas ures that need to be tak en to be removed from 13
+
+academic probation. A student on academic pr obation for two consecutive semesters may be
+
+dropped from the program.
+
+The MSAII program conducts an academic progress re view at the conclusion of each semester in
+
+order to monitor individual student progress towa rd graduation. Should a student’s effort fall
+
+
+Answer: 

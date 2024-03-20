@@ -1,0 +1,249 @@
+Question: What city is the Language Technologies Institute at Carnegie Mellon University located in?
+
+Context: Liangze Li Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 liangzel@andrew.cmu.edu
+
+Rita Singh Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 rsingh@cs.cmu.edu
+
+Bhiksha Raj Language Technologies Institute Carnegie Mellon University Pittsburgh, PA 15213 bhiksha@cs.cmu.edu
+
+Abstract
+Alexander Hauptmann Language Technologies Institute Carnegie Mellon University alex@cs.cmu.edu
+
+Abstract
+3 2 0 2
+
+n u J
+
+6 2
+
+] L C . s c [
+
+1 v 3 0 1 5 1 . 6 0 3 2 : v i X r a
+
+Structured Dialogue Discourse Parsing
+
+Ta-Chung Chi Language Technologies Institute Carnegie Mellon University tachungc@andrew.cmu.edu
+
+Alexander I. Rudnicky Language Technologies Institute Carnegie Mellon University air@cs.cmu.edu
+
+Abstract
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Title: Ethics, Social Biases, and Positive Impact in Language Technologies
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 153
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sap
+
+Spring 2024
+
+Course number: 11860
+
+Title: Quantum Computing, Cryptography and Machine Learning Lab
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Singh, Ramakrishnan
+
+Spring 2024
+Room: SH 105,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Bisk, Diaz
+
+Spring 2024
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: TEP 1403,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Neubig
+
+Spring 2024
+
+Course number: 11712
+
+Title: Lab in Natural Language Processing: Self-Paced
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Scotland, in 1835. Carnegie came to the United States in 1848 and founded Carnegie Technical Schools in Pittsburgh in 1900.
+The Language Technologies Institute is located primarily on the 5th and 6th floors of the Gates Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus:
+
+Language Technologies Institute Carnegie Mellon University 5000 Forbes Avenue Gates Hillman Complex 5402, LTI Pittsburgh, PA 15241-3891
+The Language Technologies Institute is located primarily on the 5th and 6th floors of the Gates
+
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus . The address and contact
+
+information of the LTI are :
+
+Language Technologies Institute
+
+Carnegie Mellon University
+
+5000 Forbes Avenue
+
+Gates Hillman Complex 5404 , LTI
+
+Pittsburgh, PA 15241 -3891
+
+412-268-6591  (phone)
+
+412-268-6298 (fax)
+
+http://www.lti.cs.cmu.edu/
+
+1.5 Carnegie Mellon University Statement of Assurance
+conflicts.
+
+The Language Technologies Institute is located primarily on the 5
+
+th and 6th floors  of the Gates
+
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus. The address and contact
+
+information of the LTI are:
+
+Language Technologies Institute
+
+Carnegie Mellon University
+
+5000 Forbes Avenue
+
+Gates Hillman Complex 5402, LTI
+
+Pittsburgh, PA 152 41-3891
+
+412- 268-6591 (phone)
+
+412- 268-6298 (fax)
+
+http://www.lti.cs.cmu.edu/
+
+MLT Graduate Student Handbook  Page 8
+
+
+Answer: 

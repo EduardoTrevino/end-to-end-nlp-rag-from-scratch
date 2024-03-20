@@ -1,0 +1,197 @@
+Question: How many units is the MIIS Capstone Project with course number 11927 for?
+
+Context: Sample: The experiment was carried out with 100 students of the course “Introduction to Programming” in professional technical education, INACAP Ñuñoa branch.
+
+Type of test: multiple-choice test of 45 items with four answer
+
+options (only one correct) (Belmar, 2023).
+
+Estimated completion time: 90 min.
+
+Didactics: Ten principles for teaching programming by Brown
+
+and Wilson.
+The details of the training process are as follows. We started ﬁne-tuning the mT5, by mini- mizing the maximum-likelihood loss for 15 epochs, using a batch size of 8, accumulation steps of 4, and learning rate of 10e-5 with Adafactor optimization and cosine annealing learning rate decay schedule (Loshchilov and Hutter 2016). The maximum news length was set to 512 and max- imum summary length was determined as 120. We initialized our reinforcement learning models with the ﬁne-tuned models that
+epoch. We only finetune the LoRa weights [17] in the multi-head attention modules. We use a batch size of 768, a maximal sequence length of 768, and a max learning rate of 4e − 4. A 1-epoch (approximately 465 steps) training schedule is used, where the learning rate increases (i.e., warm-up) in the first 100 steps with a log curve, and decays linearly to zero in the rest of the training steps.
+Instructors: Li,Instructor TBA,Strubell,Morency
+
+Fall 2023
+
+Course number: 11927
+
+Title: MIIS Capstone Project
+
+Units: 36.0
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11928
+
+Title: Masters Thesis I
+
+Units: 5-36
+
+Section: E,I,BC,AE,F,D,U,PP,BB,P,C,TT,DD,J,AB,A,S,K,Y,SS,W,B,T,H,L,M,R,O,Q,X,Z,G,N,V
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+Instructors: Callan, Frederking
+
+Summer 2024
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 11927
+
+Title: MIIS Capstone Project
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 11930
+
+Title: Dissertation Research
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 11699
+
+Title: MSAII Program Capstone
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11700
+
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,P
+
+Days: TBA,F
+
+Start: ,02:00PM
+
+End: ,03:20PM
+But a few of the specific rules changed slightly, or are worth noting again: All drivers, pushers, designers and builders were required to members of the organization they’re competing for All team members (including designers and builders) must be “eligible” under the Executive Board’s requirements, which include a minimum of 36 units and being in good academic standing (with a minimum GPA requirement). The buggy/driver combo must weigh a minimum of 180 pounds (up from the previous 160 lbs)
+Today, it takes six people to maneuver the .84 -mile course around Schenley Park's Flagstaff Hill.
+
+But while five pushers and a driver navigate the course's hills, dozens of people are needed to make a successful race happen. A year of planning goes into just over two minutes of racing.
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+requirement. Participation is required unless waived in writing by the MIIS Program
+
+Director.
+
+3. Capstone requirements:  Students must complete a capstone project (36 units) and a
+
+capstone planning seminar (6 units). The capstone requirement gives students
+
+experience with collaborative, team -oriented software development; significant hands -
+
+on experience with the techniques studied in the classroom; and an opportunity to work on a large software application.
+a. The capstone project (36 units) is a large, group- oriented demonstration of
+
+student skill in one or more areas covered by the degree. Typically,  the result of
+
+the capstone project is a major software application. The capstone project is
+
+supervised by a member of the faculty who meets with students on a weekly
+
+basis to monitor progress and provide guidance. MIIS Graduate Student Handbook  Page 17
+
+b. The capstone planning seminar (6 units) organizes students into groups; defines
+MIIS students gain three types of practical experience: software development supervised by their advisor (24 units equivalent to two courses); a summer internship (which can be waived for students that have sufficient prior professional experience); and a capstone project executed in a group of peers (42 units equivalent to three 12-unit courses and one 6-unit course). This combination is proven to help IIS students to broaden their skills quickly. The MIIS degree is offered in two options:
+
+
+Answer: 

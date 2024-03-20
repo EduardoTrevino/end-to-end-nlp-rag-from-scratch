@@ -1,0 +1,41 @@
+Question: What year was "End-to-End Speech Recognition: A Survey" published?
+
+Context: Paper title: 'End-to-End Speech Recognition: A Survey' Published year: 2023 Publication venue or conference: IEEE/ACM Transactions on Audio Speech and Language Processing Authors: Tara N. Sainath, R. Schluter, Takaaki Hori, Shinji Watanabe, Rohit Prabhavalkar Summary: A taxonomy of E2E ASR models and corresponding improvements is provided, and their properties and their relationship to classical hidden Markov model (HMM) based ASR architectures are discussed.
+S. Watanabe, T. Hori, S. Kim, J. R. Hershey, and T. Hayashi, “Hy- brid CTC/attention architecture for end-to-end speech recognition,” IEEE Journal of Selected Topics in Signal Processing, vol. 11, no. 8, pp. 1240–1253, 2017.
+
+[24] A. Graves, S. Fern´andez, F. Gomez, and J. Schmidhuber, “Connec- tionist temporal classification: Labelling unsegmented sequence data with recurrent neural networks,” in Proceedings of the 23rd interna- tional conference on Machine learning, 2006, pp. 369–376.
+[21] X. Chang et al., “An exploration of self-supervised pretrained representations for end-to-end speech recognition,” in Proc. ASRU, 2021, pp. 228–235.
+
+[22] B. Thomas, S. Kessler, and S. Karout, “Efficient adapter transfer of self-supervised speech models for automatic speech recogni- tion,” in Proc. ICASSP, 2022, pp. 7102–7106.
+
+[23] A. Nautsch et al., “Preserving privacy in speaker and speech characterisation,” Computer Speech & Language, vol. 58, pp. 441–480, 2019.
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+
+
+Answer: 

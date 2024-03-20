@@ -1,0 +1,203 @@
+Question: How many authors contributed to the work Understanding Political Polarisation using Language Models: A dataset and method?
+
+Context: [38] Irene Solaiman and Christy Dennison. Process for adapting language models to society (palms) with values-targeted datasets. Advances in Neural Information Processing Systems, 34:5861– 5873, 2021.
+Paper title: 'Generating Images with Multimodal Language Models' Published year: 2023 Publication venue or conference: arXiv.org Authors: Daniel Fried, R. Salakhutdinov, Jing Yu Koh Summary: This work proposes a method to fuse frozen text-only large language models (LLMs) with pre-trained image encoder and decoder models, by mapping between their embedding spaces, and exhibits a wider range of capabilities compared to prior multimodal language models.
+Sourabrata Mukherjee, Zdenˇek Kasner, and Ondˇrej Dušek. 2022. Balancing the style-content trade-off in sentiment transfer using polarity-aware denoising. In Text, Speech, and Dialogue, pages 172–186, Cham. Springer International Publishing.
+
+Ramesh Nallapati, Bowen Zhou, Cicero dos Santos, Çaglar Gulçehre, and Bing Xiang. 2016. Abstractive text summarization using sequence-to-sequence rnns and beyond. CoNLL 2016, page 280.
+
+An Nguyen. 2021.
+
+Language model evaluation arXiv preprint
+Title: Engineering AI Project Methods
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 06:00PM
+
+End: 07:50PM
+
+Room: CMR F205
+
+Locations: Kigali, Rwanda
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 04654
+
+Title: Introduction to Probabilistic Graphical Model:
+
+Units: 12.0
+
+Section: J,
+
+Days:  ,TR
+
+Start:  ,03:00PM
+
+End:  ,04:50PM
+
+Room:  ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Gueye, Mukamakuza
+
+Fall 2023
+
+Course number: 04655
+
+Title: Artificial Intelligence for Engineers
+
+Units: 12.0
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Course number: 36402
+
+Title: Advanced Methods for Data Analysis
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: DH 2315
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shalizi
+
+Spring 2024
+
+Course number: 36410
+
+Title: Introduction to Probability Modeling
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Jin
+
+Spring 2024
+
+Course number: 36460
+
+Title: Special Topics: Sports Analytics
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+In the spring, the Task Force partnered with SME Branding — a firm with more than 17 years of experience creating mascots for professional sports teams and universities — to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.
+The mascot selection process included a series of surveys and a university Town Hall meeting. Nearly 78 percent of 2,370 students surveyed in February 2007 voted for the Scottish terrier, and approximately 25 percent of 400 alumni surveyed thought the Scottish terrier was already the mascot.
+10-708, Probabilistic Graphical Models
+
+16-720, Computer Vision
+
+17-631 Information Security, Privacy & Policy
+
+17-781, Mobile and IoT Computing Services
+
+4.4.1 Breadth Courses:  Human Language
+
+11-611, Natural Language Processing
+
+11-624, Human Language for Artificial Intelligence
+
+11-711, Advanced NLP
+
+11-722, Grammar Formalisms
+
+11-724, Human Language for Artificial Intelligence
+
+11-727, Computational Semantics for NLP
+
+11-737, Multilingual NLP
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+
+
+Answer: 

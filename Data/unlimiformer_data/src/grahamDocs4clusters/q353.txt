@@ -1,0 +1,309 @@
+Question: What are the SCS CMU classes grading standard for max GPA?
+
+Context: 3 2 0 2
+
+r p A 4 2
+
+] L C . s c [
+
+1 v 2 7 8 1 1 . 4 0 3 2 : v i X r a
+
+Generation-driven Contrastive Self-training for Zero-shot Text Classiﬁcation with Instruction-tuned GPT
+
+Ruohong Zhang Yau-Shian Wang Yiming Yang Carnegie Mellon University ruohongz@andrew.cmu.edu king6101@gmail.com yiming@cs.cmu.edu
+
+Abstract
+SAMA-NA
+
+20
+
+250
+
+100
+
+150
+
+15
+
+350
+
+25GPU Memory Usage (GB)
+
+400Throughput (samples/s)
+
+200
+
+betterNoisy Finetuning w/ BERT-base
+
+SAMA (4 GPUs)
+
+400Parameter Count (M)
+
+RoBERTa-largeContinued Pretraining w/ RoBERTa Variants
+
+SAMA
+
+0
+
+50
+
+250
+
+200
+
+50Memory Usage (GB)
+
+CG
+
+RoBERTa-base
+
+0
+
+10
+
+Distill-RoBERTa
+
+100
+
+20
+
+350
+
+40
+
+150
+
+30
+
+300
+
+A6000 Max Memory (48GB)
+
+Neumann
+Figure 5: GPT-4 evaluation results for Jais-chat compared to open- and closed-source models on Arabic open- ended questions. The minimum and the maximum possible scores are 0 and 4,000, respectively.
+
+JAIS-chat (13B)
+
+BXBLOOM (7B)
+
+1250
+
+Claude
+
+1750
+
+250
+
+JAIS-chat (6.7B)
+
+1000
+
+ChatGPT
+
+18551776174114201165892
+
+2000Total Score
+
+500
+
+750
+
+BXLLaMA (13B)
+
+1500
+
+0
+Course number: 10315
+
+Title: Introduction to Machine Learning (SCS Majors)
+
+Units: 12.0
+
+Section: A,E,B,F,C,D,Lec
+
+Days: F,MW
+
+Start: 03:00PM,01:00PM,12:00PM,10:00AM,11:00AM,12:30PM
+
+End: 12:50PM,01:50PM,03:50PM,11:50AM,10:50AM
+
+Room: WEH 4625,GHC 4301,GHC 4102,WEH 2302,SH 105
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Virtue
+
+Spring 2024
+
+Course number: 10335
+
+Title: Art and Machine Learning
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: TEP 1403
+Instructors: Berardone, Gennari, Miranda, Pavetti, Riley, Schmerl
+
+Fall 2023
+
+Course number: 17675
+
+Title: Software Engineering Practicum
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Berardone, Gennari, Miranda, Pavetti, Riley, Telang, Yasar, Schmerl
+
+Fall 2023
+
+Course number: 17679
+
+Title: Thesis Writing for Industrial Software Research
+
+Units: 6.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: CMU REMOTE
+Course number: 90898
+
+Title: Advanced Placement
+
+Units: 1-72
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 90899
+
+Title: Fellowship
+
+Units: 1.0
+
+Section: W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: CMU REMOTE
+
+Locations: Washington, District of Columbia
+
+Instructors: Coleman
+
+Fall 2023
+
+Course number: 90901
+
+Title: Ph.D. Seminar I
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+But a few of the specific rules changed slightly, or are worth noting again: All drivers, pushers, designers and builders were required to members of the organization they’re competing for All team members (including designers and builders) must be “eligible” under the Executive Board’s requirements, which include a minimum of 36 units and being in good academic standing (with a minimum GPA requirement). The buggy/driver combo must weigh a minimum of 180 pounds (up from the previous 160 lbs)
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+graded on the 4.3 grading standard http://www.cmu.edu/policies/documents/Grades.html. MCDS students must maintain a 3.0 overall average each semester to remain in good standing. A student must obtain a B- or better grade in all courses, which count towards core requirements. If a student 19receives a C- or better, that course may count as an elective towards the degree requirements. All courses must receive a letter grade; courses taken pass/fail do not count towards the MCDS degree.
+Independent study contracts must be submitted no later than on the last day of the first week of classes in a given semester. 3.3.14 Double counting courses No course may be used to complete two MCDS degree requirements, nor may a course satisfy requirements in two degree programs. 3.3.15 Courses outside of the School of Computer Science Elective courses in other Schools at Carnegie Mellon may be taken with prior permission of the Director. 3.3.16 Grades All courses offered by the SCS CMU are
+To receive the M.S. degree, all students  must take and successfully complete at least 195 units
+
+of coursework . All required Core Courses must be completed with a grade of B or better . For
+
+the Knowledge Area Courses, students must maintain a B average . No grade lower than C (or
+
+Pass in the case of Pass/No Pass courses) shall be used for credit appli ed toward graduation.
+
+Under SCS policy, only a grade of C or higher will be regarded as a Pass in a Pass/No Pass
+
+
+Answer: 

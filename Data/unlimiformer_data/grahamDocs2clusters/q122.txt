@@ -1,0 +1,35 @@
+Question: What is the full name of the conference where the paper Why do Nearest Neighbor Language Models Work?, got published?
+
+Context: Paper title: 'Why do Nearest Neighbor Language Models Work?' Published year: 2023 Publication venue or conference: International Conference on Machine Learning Authors: Graham Neubig, Uri Alon, Frank F. Xu Summary: This paper identifies three main reasons why k-nearest neighbor language models (kNN-LM) perform better than standard LMs: using a different input representation for predicting the next tokens, approximate kNN search, and the importance of softmax temperature for the kNN
+Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, and Mike Lewis. 2020. Generalization through memorization: Nearest neighbor language models. In 8th International Conference on Learning Representations, ICLR 2020, Addis Ababa, Ethiopia, April 26-30, 2020. OpenReview.net.
+Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, and Mike Lewis. Generalization through Memorization: Nearest Neighbor Language Models. In International Conference on Learning Representa- tions (ICLR), 2020b.
+
+Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, and Veselin Stoyanov. Roberta: A robustly optimized bert pretraining approach. arXiv preprint arXiv:1907.11692, 2019.
+equivalent (an oral presentation that at least t wo SCS faculty certify as being of
+
+conference- talk quality).
+
+Programming:  This is satisfied by demonstrating competence in computer programming
+
+of language technology; this is normally satisfied in the course of the student's research
+
+and/or project work.
+
+LTI Ph.D.  Graduate Student Handbook  Page 16
+
+Teaching:  This is satisfied by two (2) successful Teaching Assistantships ( TA-ships), as
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+The LTI Ph.D.  does not require any Qualifying Exams. Instead, a LTI Ph.D.  student is required to
+
+demonstrate proficiency in the following four areas.
+
+Writing: This is satisfied by producing a peer -reviewed conference paper, or the
+
+equivalent (a written report that at least two SCS faculty certify as being of conference -
+
+paper quality).
+
+Presentation: This is satisfied by the oral presentation of a conference paper, or the
+
+
+Answer: 

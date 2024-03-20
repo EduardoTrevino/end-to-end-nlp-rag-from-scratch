@@ -1,0 +1,201 @@
+Question: Which LTI faculty member is an author on "Aligning Large Multimodal Models with Factually Augmented RLHF"?
+
+Context: Paper title: 'Aligning Large Multimodal Models with Factually Augmented RLHF' Published year: 2023 Publication venue or conference: arXiv.org Authors: Liangyan Gui, Yu-Xiong Wang, Chuang Gan, Zhiqing Sun, Yikang Shen, Chunyuan Li, Sheng Shen, K. Keutzer, Yiming Yang, Shengcao Cao, Trevor Darrell, Haotian Liu Summary: A new alignment algorithm called Factually Augmented RLHF is proposed that augments the reward model with additional factual information such as image captions and ground-truth
+3 2 0 2
+
+p e S 5 2
+
+]
+
+V C . s c [
+
+1 v 5 2 5 4 1 . 9 0 3 2 : v i X r a
+
+Preprint
+
+ALIGNING LARGE MULTIMODAL MODELS WITH FACTUALLY AUGMENTED RLHF
+
+Zhiqing Sun∗♠, Sheng Shen∗♣, Shengcao Cao∗ ♢ Haotian Liu♡, Chunyuan Li♮, Yikang Shen△, Chuang Gan†∇△, Liang-Yan Gui†♢ Yu-Xiong Wang†♢, Yiming Yang†♠, Kurt Keutzer†♣, Trevor Darrell†♣ ♣UC Berkeley, ♠CMU, ♢UIUC, ♡UW–Madison, ∇UMass Amherst ♮Microsoft Research, △MIT-IBM Watson AI Lab
+
+ABSTRACT
+Nisan Stiennon, Long Ouyang, Jeffrey Wu, Daniel Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, and Paul F Christiano. Learning to summarize with human feedback. Advances in Neural Information Processing Systems, 33:3008–3021, 2020.
+
+Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liang-Yan Gui, Yu-Xiong Wang, Yiming Yang, et al. Aligning large multimodal models with factually augmented rlhf. arXiv preprint arXiv:2309.14525, 2023a.
+Title: Seminar: Multimodal Foundational Models
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ramanan
+
+Fall 2023
+
+Course number: 16895
+
+Title: Understanding and Critiquing Generative Computer Vision
+
+Units: 12.0
+
+Section: A
+
+Days: F
+
+Start: 12:30PM
+
+End: 02:50PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gupta
+
+Fall 2023
+
+Course number: 16897
+
+Title: Seminar on Robotics
+
+Units: 0.0
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Instructors: Rudnicky
+
+Spring 2024
+
+Course number: 11775
+
+Title: Large-Scale Multi-Media Analysis:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,05:00PM
+
+End:  ,06:20PM
+
+Room:  ,GHC 4102
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Hauptmann
+
+Spring 2024
+
+Course number: 11777
+
+Title: Multimodal Machine Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PH 100
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bisk
+
+Spring 2024
+
+Course number: 11785
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+projects.) Even self -supporting MLT students are expected to perform research with a faculty
+
+advisor, since research experience is an important part of our graduate programs. Until a student finds a specific advisor, the chair of the LTI graduate prog rams serves as the advisor.
+
+How to change advisors:  The initial advisor selection should be made carefully. However, it is
+
+possible to change advisors. To do so, the student should find another faculty member willing
+Language Technologies Institute - Faculty Name: Alexander Rudnicky Email: alex.rudnicky@cs.cmu.edu Office: 6511 Gates & Hillman Centers Research Areas: Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing Phone: 412-268-2622
+
+
+Answer: 

@@ -1,0 +1,31 @@
+Question: What kind of vulnerabilities do diffusion models have according to the paper "Extracting Training Data from Diffusion Models"?
+
+Context: Paper title: 'Extracting Training Data from Diffusion Models' Published year: 2023 Publication venue or conference: USENIX Security Symposium Authors: Daphne Ippolito, Florian Tramèr, B. Balle, Milad Nasr, Matthew Jagielski, Eric Wallace, Nicholas Carlini, Vikash Sehwag, Jamie Hayes Summary: The results show that diffusion models are much less private than prior generative models such as GANs, and that mitigating these vulnerabilities may require new advances in privacy-preserving training.
+In total, we believe that publishing our paper and pub- licly disclosing these privacy vulnerabilities is both eth- ical and responsible. Indeed, at the moment, no one ap- pears to be immediately harmed by the (lack of) privacy of diffusion models; our goal with this work is thus to make sure to preempt these harms and encourage respon- sible training of diffusion models in the future.
+
+4 Extracting Training Data from State-of-
+
+the-art Diffusion Models
+train hundreds of diffusion models in various settings to an- alyze how different modeling and data decisions affect privacy. Overall, our results show that diffusion models are much less private than prior generative models such as GANs, and that mitigating these vulnerabilities may require new advances in privacy-preserving training.
+10.9.2 University  Policy on Grades for Transfer Courses & PCHE ..................................................  21
+
+10.10 Academic  Integrity ..................................................................................................................  21
+
+11  Academic  Policies ............................................................................................................................  23
+Analytics. Students electing to complete the Analytics concentration will also learn to:
+
+Design, implement and evaluate a software system and machine
+
+learning model on real world datasets at real world scale.
+
+Analyze and document data science requirements in different application domains and survey as well as critique state of the art solutions for those requirements.
+
+Systems. Students electing to complete the Systems concentration will also learn to:
+5.6 Policy on Grades for Transfer Courses  ...................................................................................... 21
+
+5.7 End of Semester Evaluation ......................................................................................................... 22
+
+5.8 Satisfactory Progress  ...................................................................................................................... 22
+
+
+Answer: 

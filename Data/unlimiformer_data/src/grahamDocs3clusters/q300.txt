@@ -1,0 +1,92 @@
+Question: How many papers does Alexander Hauptmann have on Semantic Scholar?
+
+Context: We begin with the ACL Anthology and focus on papers between 1980 and 2022. Using the Semantic- Scholar (S2) API (Wade, 2022), we obtain author and citation information of papers indexed by S2 (some venues, such as some workshops, and some Findings8 papers, are not indexed, leaving 77, 235 papers), with a focus on citations of papers identified by our participants as having been influential to the NLP community. We select from this set of influential papers to generate the bar plots for Figure
+Paper title: 'Towards Open-Domain Twitter User Profile Inference' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Haoyang Wen, Zhenxin Xiao, Alexander Hauptmann, E. Hovy Summary: None
+Paper title: 'SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs' Published year: 2023 Publication venue or conference: arXiv.org Authors: Lu Jiang, Wolfgang Macherey, A. Hauptmann, David A. Ross, Irfan Essa, K. Murphy, Vivek Kumar, Ming Yang, Yonatan Bisk, Yong Cheng, Lijun Yu, Zhiruo Wang, Yanping Huang Summary: This method marks the first successful attempt to enable a frozen LLM to generate image content while surpassing state-of-the-art performance in image
+Instructors: Bisk,Yang,Eskenazi,Gormley,Mortensen,Waibel,Brown,Lee,Cassell,Sycara,Morency,Frederking,Rosenfeld,Kolter,Instructor TBA,Poczos,Salakhutdinov,Mitamura,Lipton,Mostow,Berg-Kirkpatrick,Levin,Cohen,Oh,Strubell,Fahlman,Hauptmann,Callan,Mitchell,Xing,Nyberg,Neubig,Smith,Young,Tsvetkov,Rose,Stern,Rudnicky,Ramakrishnan,Watanabe,Hong,Tomasic
+
+Spring 2024
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+Instructors: Yang,Eskenazi,Mortensen,Waibel,Ganapathiraju,Brown,Cassell,Koedinger,Sycara,Frederking,Metze,Rosenfeld,Instructor TBA,Mitamura,Mostow,Levin,Cohen,Fahlman,Singh,Hauptmann,Callan,Smith,TBA,Xing,Mitchell,Nyberg,Langmead,Schultz,Bar-Joseph,Rose,Lavie,Rudnicky,Carley
+
+Spring 2024
+
+Course number: 11930
+
+Title: Dissertation Research
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Spring 2024
+
+Course number: 11935
+End:  ,06:20PM
+
+Room: GHC 4307,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Hauptmann
+
+Fall 2023
+
+Course number: 11777
+
+Title: Multimodal Machine Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: MM A14
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Morency
+
+Fall 2023
+
+Course number: 11785
+
+Title: Introduction to Deep Learning
+
+Units: 12.0
+
+Section: A,M,R,B,SV,Lec,
+
+Days: TBA,F,MW
+
+Start: ,08:00AM,02:35PM
+
+End: ,09:20AM,03:55PM
+Language Technologies Institute - Faculty Name: Alexander Hauptmann Email: alex@cs.cmu.edu Office: 5519 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Learning, Multimodal Computing and Interaction Phone: 412-268-1448
+Language Technologies Institute - Faculty Name: Alexander Rudnicky Email: alex.rudnicky@cs.cmu.edu Office: 6511 Gates & Hillman Centers Research Areas: Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing Phone: 412-268-2622
+Language Technologies Institute - Faculty Name: Alexander Waibel Email: waibel@cs.cmu.edu Office: 205 407 South Craig Street Research Areas: Spoken Language Translation, Machine Translation, Speech Processing, Neural Networks, Machine Learning, Multimodal Interaction, Dialog Processing Phone: 412-268-7676
+
+
+Answer: 

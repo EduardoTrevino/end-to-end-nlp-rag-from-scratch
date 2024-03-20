@@ -1,0 +1,241 @@
+Question: In fall, who were the instructors for the Introduction to Deep Learning course at LTI?
+
+Context: Course number: 11485
+
+Title: Introduction to Deep Learning
+
+Units: 9.0
+
+Section: A,B,Lec
+
+Days: TBA,F,MW
+
+Start: ,08:00AM
+
+End: ,09:20AM
+
+Room: BH A51,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Fall 2023
+
+Course number: 11490
+
+Title: LTI Minor Project - Seniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11590
+Instructors: Ippolito, Xiong
+
+Fall 2023
+
+Course number: 11685
+
+Title: Introduction to Deep Learning
+
+Units: 12.0
+
+Section: A,M,R,B,Lec,
+
+Days: MWF,F,MW
+
+Start: 08:00AM,02:35PM
+
+End: 09:20AM,03:55PM
+
+Room: BH A51,CMU REMOTE
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors:  ,Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Fall 2023
+
+Course number: 11690
+
+Title: MIIS Directed Study
+
+Units: 1-48
+
+Section: C
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Shah
+
+Fall 2023
+
+Course number: 10701
+
+Title: Introduction to Machine Learning (PhD)
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 2210
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chai, Lipton
+
+Fall 2023
+
+Course number: 10703
+
+Title: Deep Reinforcement Learning & Control
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Fragkiadaki
+
+Fall 2023
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Applied ML
+
+Spring 2:
+
+ML for Text Mining
+
+ML for Signal Processing
+
+Elective
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in deepening their expertise in Language Technology Applications area of concentration.
+
+Fall 1:
+
+Search Engines
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+
+MIIS Directed Study
+
+Spring 1:
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Machine Translation
+
+Spring 2:
+
+Comp Semantics for NLP
+
+Neural Networks for NLP
+
+Elective
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in deepening their expertise in Human Language area of concentration
+
+Fall 1:
+
+Natural Language Processing
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+MIIS Directed Study
+
+Spring 1:
+
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Language and Statistics
+
+Spring 2:
+
+Comp Semantics for NLP
+
+ML for Signal Processing
+
+Elective
+
+
+Answer: 

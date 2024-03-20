@@ -1,0 +1,91 @@
+Question: How many months is the longer track of the MIIS program?
+
+Context: >360 times speedup, from ∼6.5 months to ∼13 hours.
+We estimate the total GPU time for results presented in this paper did not exceed approximately 116 days of time on a single 48-GB A6000. The longest-training models, SLED and retrieval training for GovReport, took approximately 10 days to train.
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 11699
+
+Title: MSAII Program Capstone
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11700
+
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,P
+
+Days: TBA,F
+
+Start: ,02:00PM
+
+End: ,03:20PM
+Option 1. Standard MIIS degree (MIIS-16) - A 16-month track that is completed in three academic semesters (fall, spring, fall) and a summer internship. Option 2. MIIS: Advanced Study degree (MIIS-21) - A 21-month track that is completed in four academic semesters (fall, spring, fall, spring) and a summer internship. MIIS: Advanced Study track offers indepth degree in one of the following areas of concentration: Human Language for Language Technologies Language Technology Application Machine
+The MIIS degree is offered in  two options:
+
+Option 1. Standard MIIS degree  (MIIS -16) - A 16 -month track that is completed in three
+
+academic semesters (fall, spring, fall) and a summer internship.
+
+Option 2. MIIS: Advanced Study degree  (MIIS -21) - A 21 -month track that is completed in
+
+four academic semesters (fall, spring, fall, spring) and a summer internship.
+
+MIIS: Advanced Study track offers in depth  degree in one of the following areas of
+
+concentration:
+semesters of academic study and one summer internship (21 months total).
+
+MIIS -16 students enrolled for part -time study are expected to complete the program in six
+
+semesters of academic stu dy and  one summer internship (27  months  total ).
+
+MIIS -21 students enrolled for part -time study are expected to complete the program in seven
+
+semesters of academic study and one summer internship (31 months total).
+
+See also the ‘Statute of Limitations’ policy.
+
+6.1.3 Deferral
+
+
+Answer: 

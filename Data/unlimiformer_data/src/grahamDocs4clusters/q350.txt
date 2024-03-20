@@ -1,0 +1,183 @@
+Question: What is the title of the paper that proposes a novel re-ranker model abbreviated FiT5?
+
+Context: Common IR pipelines are typically cascade sys- tems that may involve multiple rankers and/or fusion models to integrate different informa- tion step-by-step. In this paper, we propose a novel re-ranker named Fusion-in-T5 (FiT5), which integrates document text information, retrieval features, and global document in- formation into a single unified model using templated-based input and global attention. Ex- periments on passage ranking benchmarks MS MARCO and TREC DL show that FiT5 sig-
+Paper title: 'Fusion-in-T5: Unifying Document Ranking Signals for Improved Information Retrieval' Published year: 2023 Publication venue or conference: arXiv.org Authors: Technology, N. University, Zhenghao Liu Tsinghua University, Cheng-Chung Fan, Microsoft Research, Chenyan Xiong, S. Yu, Zhiyuan Liu, David Jin, Huazhong University of Science, M. I. O. Technology Summary: A novel re-ranker named Fusion-in-T5 (FiT5), which integrates document text information, retrieval features, and global
+In this paper, we introduce Fusion-in-T5 (FiT5), a T5-based (Raffel et al., 2020) re-ranking model that collects ranking signals and ranks documents within a unified framework. FiT5 is designed to consolidate multiple IR features, including doc- ument texts, ranking features, and global docu- ment information, into a single learnable model. Specifically, the input to FiT5 is formulated us- ing a template that incorporates the document text with the ranking feature, which is represented as
+Course number: 99359
+
+Title: IDeATe: 3D Modeling and 3D Printing
+
+Units: 1.0
+
+Section: A1,A2
+
+Days: S,U
+
+Start: 12:30PM,12:00PM
+
+End: 03:00PM,03:30PM
+
+Room: HL A5
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Patton
+
+Fall 2023
+
+Course number: 99360
+
+Title: IDeATe: E-Textiles
+
+Units: 1.0
+
+Section: A2
+
+Days: S
+
+Start: 11:00AM
+
+End: 03:00PM
+
+Room: HL A10
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Albaugh
+
+Fall 2023
+
+Course number: 99384
+Instructors: Schmerl, Bloch
+
+Fall 2023
+
+Course number: 17415
+
+Title: Software Engineering Reflection
+
+Units: 6.0
+
+Section: A,B
+
+Days: F
+
+Start: 12:30PM,11:00AM
+
+End: 01:50PM,12:20PM
+
+Room: PH 125D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sunshine, Schmerl
+
+Fall 2023
+
+Course number: 17437
+
+Title: Web Application Development
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: BH A51
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eppinger
+
+Fall 2023
+Section: A3,B3
+
+Days: U,S
+
+Start: 12:30PM,12:00PM
+
+End: 04:30PM,04:00PM
+
+Room: HL 106C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dyar
+
+Spring 2024
+
+Course number: 99359
+
+Title: IDeATe: 3D Modeling and 3D Printing
+
+Units: 1.0
+
+Section: A3,B3
+
+Days: U,S
+
+Start: 12:30PM,12:00PM
+
+End: 03:00PM,03:30PM
+
+Room: HL A5
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Patton
+
+Spring 2024
+
+Course number: 99360
+
+Title: IDeATe: E-Textiles
+
+Units: 1.0
+
+Section: A3
+
+Days: S
+
+Start: 11:00AM
+If you can ID any of the unknown buggies, let us know.
+
+1949 – Design Competition (from the 1966 Buggy Book). Buggies are KapSig (far left), SAE’s design winner (#4, 2nd from the left), Men’s Dorms (#7, 3rd from the left), and DU (#11, far right).
+
+1949 – SAE’s Design-winning buggy getting worked on (from the November 1949 issue of The Record, the SAE National Publication)
+
+1949 – Citcom Clan Buggy (#9) (from the 1950 Thistle).
+1948 – Design Competition (from the 1949 Thistle). Identified buggies: KapSig (3rd from the left, back row); PiKA (4th from the left, back row); Beta Sigma Rho (far left, back row). We also believe that the bottom buggy in the front row (3 wheels, no shell) belongs to Citcom Clan.
+
+1948 – Hill 1 of the Finals (from the 1949 Thistle). KapSig in Lane 1 (left), DTD in Lane 2 (middle), PiKA in Lane 3 (right)
+Fringe vehicles often are named with the letter "B," like Boson, Blueshift, Bissa and Bumper. Other teams, such as Apex, often use names that connotate fire, while the SDC (Student Dormitory Committee) team, uses names such as Vice, Bane, Avarice and Malice.
+
+This year's buggy names will be under wraps until Thursday, when the Buggy Showcase will take place from noon to 2 p.m. in Weigand Gymnasium in the Cohon University Center. It's one of the few times spectators can see buggies up close.
+5.5 Process for Appealing Final Grades
+
+Final grades will be changed only in exceptional circumstances and only with the approval of the instructor and the department, unit or program. Grading is a matter of sound discretion of
+
+the instructor and final grades are rarely changed without the consent of the instructor who
+5.3 Independent Study  .......................................................................................................................... 21
+
+5.4 University Policy on Grades  ......................................................................................................... 21
+
+5.5 Process for Appealing Final Grades ............................................................................................ 21
+AI Innovation (11-654) – Prereq uisite is the completion of 11- 695 with a grade of “B” or
+
+better.
+
+Capstone (11-699) – Prerequisite is the completion of 11-654 with a grade of “B” or better.
+
+Students are required to repeat any required cour se that they have completed with a grade less
+
+than the required minimum, preferably at the nex t offering. (Please note that Core courses and
+
+Knowledge courses are only offered once per year.) Students will be  allowed to retake a required
+
+
+Answer: 

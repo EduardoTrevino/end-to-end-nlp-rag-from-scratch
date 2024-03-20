@@ -1,0 +1,25 @@
+Question: What is the name of the proposed approach that extends pretrained transformer models to handle unlimited input lengths?
+
+Context: Since the proposal of transformers (Vaswani et al., 2017), these models have been limited to bounded input lengths, because of their need to attend to every token in the input. In this work, we propose Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores. This kNN index can be kept on either the
+Paper title: 'Unlimiformer: Long-Range Transformers with Unlimited Length Input' Published year: 2023 Publication venue or conference: arXiv.org Authors: Amanda Bertsch, Graham Neubig, Uri Alon, Matthew R. Gormley Summary: This work proposes Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores.
+We present Unlimiformer, an approach for augmenting pretrained encoder-decoders and offloading the cross-attention computation to a kNN index, to allow for unlimited length input. Instead of attending to all keys, this kNN index allows every cross-attention head in every decoder layer to retrieve and attend only to its top-k keys. We evaluate Unlimiformer on several long-document and book-summarization benchmarks having inputs of up to 500K tokens, and show that Unlimiformer improves existing
+review sessions on course materials outside th e classroom. SI is a non-remedial approach
+
+to learning as the program targets high-risk  courses and is available in select courses
+
+based on data related to past stu dent performance and feasibility.
+
+Peer Tutoring:  Weekly Tutoring Appointments are offered in a one-on-one and small
+
+group format to students from any discipli ne who need assistance with a course that may
+................................................................................... 11 3 MCDS Degree Completion and Certification ...................................................... 11 3.1 CMU Degree Completion and Statute of Limitations .......................................... 11 Early Completion  11 Extended or Longer-than-Standard Completion  12 Policy on Master’s Student Statute of Limitations  12 Additional Guidance for Students  12 3.2 Full-time Status
+3.1.1  Graduate Students  ................................................................................................ 11
+
+3.1.2  Early Completion  ................................................................................................... 11
+
+3.1.3  Extended or Longer -than- Standard Completion (Statute of Limitations)  .............. 12
+
+3.1.4  Additional Guidance for Students  ......................................................................... 12
+
+
+Answer: 

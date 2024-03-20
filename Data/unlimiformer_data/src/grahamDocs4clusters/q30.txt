@@ -1,0 +1,291 @@
+Question: What percentage of CMU's Computer Science first year students in 2019 were women?
+
+Context: Of the academics interviewed, there was an even split between early, mid, and late career (6/33% each). Of those in industry, 6 (75%) were individual contributors and 2 (25%) were research managers. Our sample is only 19% women, which is likely representative, as women comprise approximately 15% of tenure-track computer science faculty in the US (Way et al., 2016). For more discussion of the sample characteristics, see 7. Our positive response rate was 82%.
+
+Demographic trait
+
+% of sample
+tions, 3(6):16–23.
+
+Batya Friedman and Helen Nissenbaum. 1996. Bias in computer systems. ACM Transactions on Informa- tion Systems, 14(3):330–347.
+
+Aparna Garimella, Carmen Banea, Dirk Hovy, and Rada Mihalcea. 2019. Women’s syntactic resilience and men’s grammatical luck: Gender-bias in part-of- speech tagging and dependency parsing. In Annual Meeting of the Association for Computational Lin- guistics, pages 3493–3498.
+
+Timnit Gebru,
+We recruited 26 researchers to participate in inter- views using purposive (Campbell et al., 2020) and snowball sampling (Parker et al., 2019): asking participants to recommend other candidates, and purposively selecting for diversity in affiliation, ca- reer stage, geographic position, and research area (see participant demographics in Appendix A.1). Our sample had a 69-31% academia-industry split, was 19% women, and 27% of participants identi- fied as part of a minoritized group in the field.
+Title: Grand Challenge Seminar: Equitable Access and Success in Higher Education at CMU:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: PH A18B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Walsh, Ballesteros Soria
+
+Spring 2024
+
+Course number: 66142
+
+Title: DC 1st Year Seminar: The Mirror of Technology: Biases in Computation & Cognition
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5310
+
+Locations: Pittsburgh, Pennsylvania
+Room: BH 140A,WEH 5201,WEH 5202,MI AUD,BH 140B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Weinberg
+
+Fall 2023
+
+Course number: 36218
+
+Title: Probability Theory for Computer Scientists
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: R,TR
+
+Start: 09:30AM,07:00PM
+
+End: 10:50AM,07:50PM
+
+Room: DH 2315,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Genovese
+
+Fall 2023
+
+Course number: 36220
+
+Title: Engineering Statistics and Quality Control
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 11:00AM
+Fall 2023
+
+Course number: 07128
+
+Title: First Year Immigration Course
+
+Units: 3.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cortina, Peet
+
+Fall 2023
+
+Course number: 07129
+
+Title: Freshmen Immigration Course
+
+Units: 3.0
+
+Section: W1
+
+Days: MW
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 1202
+
+Locations: Doha, Qatar
+
+Instructors: Harras
+
+Fall 2023
+
+Course number: 07131
+
+Title: Great Practical Ideas for Computer Scientists
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+SCIENCE’S FIRST-
+
+YEAR STUDENTS
+
+WERE WOMEN
+
+IN 2019
+
+Nearly triple the
+
+national average“ My Heart is in the Work. ”
+
+Andrew Carnegie, Founder
+
+November 15, 1900
+
+49.8 %
+
+87%  U.S. 13%  InternationalSCHOOLS AND COLLEGES
+
+College of Engineering
+
+College of Fine Arts
+
+Dietrich College of Humanities
+
+and Social Sciences
+
+Heinz College of Information Systems
+
+and Public Policy
+
+Mellon College of Science
+
+School of Computer Science
+
+Tepper School of Business
+SCIENCE’S FIRST-
+
+YEAR STUDENTS
+
+WERE WOMEN
+
+IN 2019
+
+Nearly triple the
+
+national average“ My Heart is in the Work. ”
+
+Andrew Carnegie, Founder
+
+November 15, 1900
+
+49.8 %
+
+87%  U.S. 13%  InternationalSCHOOLS AND COLLEGES
+
+College of Engineering
+
+College of Fine Arts
+
+Dietrich College of Humanities
+
+and Social Sciences
+
+Heinz College of Information Systems
+
+and Public Policy
+
+Mellon College of Science
+
+School of Computer Science
+
+Tepper School of Business
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+
+
+Answer: 

@@ -1,0 +1,152 @@
+Question: According to authors of the FLARE paper, what is one limitation of existing retrieval augmented LMs?
+
+Context: Due to the emerging real-world demands and the limitations of black-box APIs, fine-tuning retrieval-augmented LM for each possible down- stream task can be infeasible. Hence, we intro- duce Augmentation-Adapted Retriever (AAR) as a generic plug-in for black-box LMs. As illustrated in Figure 2, AAR can learn the preferences of LMs without the need for fine-tuning them.
+Existing passive multi-time retrieval augmented LMs can also be formulated using our framework (subsection 2.3). In this section, we formally in- troduce three baseline categories based on when and what to retrieve. These baselines are not exact reproductions of the corresponding paper because many design choices differ which makes direct comparisons impossible. We implemented them using the same settings, with the only variation being when and what to retrieve.
+they lack the required knowledge to avoid unneces- sary or inappropriate retrieval that occurs in passive retrieval augmented LMs (Khandelwal et al., 2020; Borgeaud et al., 2022; Ram et al., 2023; Trivedi et al., 2022). Given the observation that large LMs tend to be well-calibrated and low probability/con- fidence often indicates a lack of knowledge (Ka- davath et al., 2022), we adopt an active retrieval strategy that only retrieves when LMs generate low- probability tokens. When deciding what
+Title: ConLanging: Lrng. Ling.⟪ Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11634
+
+Title: MCDS Capstone Planning Seminar:
+
+Units: 12.0
+Units: VAR
+
+Section: A,E,I,K,F,G,C,D,J, ,H,L
+
+Days: W, ,MTWRF,S
+
+Start: 11:00AM, ,05:00PM,06:30PM
+
+End:  ,10:30PM,03:00PM,06:20PM
+
+Room: TBA,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Block,Boevers, Hines,Thomson,Holcomb,Pino,Tsu,Brown,Instructor TBA,Cody, ,Shackleford
+
+Fall 2023
+
+Course number: 54798
+
+Title: Expanded Theater
+
+Units: 6.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: MEL 102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shea, Warren
+
+Fall 2023
+Title: ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11824
+
+Title: Subword Modeling
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH 100
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mortensen
+
+Spring 2024
+
+Course number: 11830
+5.1.9  Drop/Add/Withdraw Procedures  .......................................................................... 22
+
+5.1.10  Statute of Limitations  ............................................................................................ 22
+
+5.1.11  Teaching Requirements  ........................................................................................ 23
+
+5.2 LTI Academic Policies .................................................................................................... 23
+Limitations  28 4.2 LTI Academic Policies
+3.1.1  Graduate Students  ................................................................................................ 11
+
+3.1.2  Early Completion  ................................................................................................... 11
+
+3.1.3  Extended or Longer -than- Standard Completion (Statute of Limitations)  .............. 12
+
+3.1.4  Additional Guidance for Students  ......................................................................... 12
+
+
+Answer: 

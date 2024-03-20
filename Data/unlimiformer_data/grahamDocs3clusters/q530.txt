@@ -1,0 +1,184 @@
+Question: Who taught Urban Design Methods and Theory in Fall 2023?
+
+Context: drawing shapes to scripting shapes: Architectural theory mediated by shape machine’ in Conference Proceedings of the Symposium on Simulation for Architecture and Urban Design (SimAUD), pp. 278-286. Nanda, U., Pati, D., Ghamari, H., and Bajema, R. (2013). ‘Lessons from neuroscience: form follows function, emotions follow form’, Intelligent Buildings International, 5(1), pp. 61-78.
+
+spatializing
+
+test
+
+REFERENCES Abbas, Y. (2019). ‘Architecture as Landscape’ in SHS
+Samalavičius, A. (2023). ‘Christopher Alexander As An Architectural Thinker’, Urban Planning, 8(3). DOI: https://doi.org/10.17645/up.v8i3.6682 Stiny, G. (1980). ‘Introduction to shape and shape grammars’, Environment and planning B: planning and design, 7(3), pp. 343-351.
+
+Sussman, A., and Hollander, J. B. (2021). Cognitive
+
+architecture: Designing for how we respond to the built environment. Routledge.
+Prakhar Gupta, Cathy Jiao, Yi-Ting Yeh, Shikib Mehri, Maxine Eskenazi, and Jeffrey P Bigham. Instructdial: improving zero and few-shot generalization in dialogue through instruction tuning. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pp. 505–525, 2022.
+
+Patrick Haluptzok, Matthew Bowers, and Adam Tauman Kalai. Language models can teach themselves to
+
+program better. arXiv preprint arXiv:2207.14502, 2022.
+Title: Master's Independent Study
+
+Units: 0-99
+
+Section: M,E,I,O,R,X,F,C,J,V
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cochran,Cupkova,Byrne,Huber,Cardoso Llach,Baird,Gruber,Loftness,Lee,Sawyer
+
+Fall 2023
+
+Course number: 48740
+
+Title: Urban Design Methods and Theory
+
+Units: 9.0
+
+Section: A
+
+Days: F
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: CFA 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kline
+
+Fall 2023
+
+Course number: 48742
+Title: Planning and Public Policy for the Future of Urbanism
+
+Units: VAR
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: MM 415IW
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chambers
+
+Fall 2023
+
+Course number: 48743
+
+Title: Introduction to Ecological Design Thinking
+
+Units: 9.0
+
+Section: A
+
+Days: W
+
+Start: 10:00AM
+
+End: 12:20PM
+
+Room: MM 321
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cupkova
+
+Fall 2023
+
+Course number: 48750
+
+Title: Histories of Urban Design:
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,CFA 102
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Shaw
+
+Fall 2023
+
+Course number: 48753
+
+Title: Intro to Urban Design Media
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 09:00AM
+
+End: 10:50AM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Abraham
+
+Fall 2023
+
+Course number: 48755
+
+Title: Introduction to Architectural Robotics:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,02:00PM
+Ubiquitous Computing: - Fall: DHCS, ML, ARM - Spring: Interactive Data Science, Rapid Prototyping, Gadgets, Usable Priv & Security, Advanced ML
+
+Educational Software Design: - Fall: DHCS, ML, ARM, Learning Analytics and EDS - Spring: Learning with Peers, Psych Found for Design Impact, ML with Big Data, ML with Text Analysis
+Fall 2:
+
+Conversational Interfaces
+
+MIIS Capstone Project
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems who has petitioned to have the summer internship waived.
+
+Fall 1: - Search Engines - Analysis of Social Media - Design and Engineering of Intelligent Systems - Directed Study
+
+Spring:
+
+Machine Learning
+
+Natural Language Processing
+
+Question Answering
+
+Directed Study
+First freshman-level computer science course In 1956 and 1957, Simon, Allen Newell (IA’57) and Cliff Shaw of RAND designed the Logic Theorist, a computer program that could develop proofs for theorems in much the same way a human would work. They also developed linked-list data structures, the foundation of computer programming. Perlis, Simon and Newell are credited with defining the term “computer science” as “the theory and design of computers,” as well as (in Newell’s words) “the study of
+
+
+Answer: 

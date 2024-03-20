@@ -1,0 +1,207 @@
+Question: Who are the instructors for the data science capstone (11632)?
+
+Context: Section: A,
+
+Days:  ,MW
+
+Start: 08:00AM,
+
+End: 09:20AM,
+
+Room:  ,SH 236
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Spring 2024
+
+Course number: 11635
+
+Title: Data Science Capstone Research
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11636
+
+Title: MSAII Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Rose
+
+Fall 2023
+
+Course number: 11635
+
+Title: Data Science Capstone Research
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Fall 2023
+
+Course number: 11636
+
+Title: MSAII Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Fall 2023
+Days: TR
+
+Start: 09:30AM,11:00AM
+
+End: 10:50AM,12:20PM
+
+Room: GHC 4307,BH A36
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sap, Strubell,Strubell, Sap
+
+Fall 2023
+
+Course number: 11632
+
+Title: Data Science Capstone
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Fall 2023
+
+Course number: 11633
+
+Title: MCDS Independent Study:
+
+Units: 3-36
+
+Section: A, ,B
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+839 Interactive Data Science; 15
+
+619 Cloud Computing; 11
+
+631 Data Science Seminar; 48 units)
+
+Three courses (3) from one area of concentration curriculum (36 units)
+
+Three (3) MCDS Capstone courses (11
+
+634, 11
+
+635 and 11
+
+632) (36 units)
+
+One (1) Elective: any graduate level course 600 and above in the School of Computer Science (12 units)
+Data Science Analytics Capstone
+
+Example 2: Systems Major, 16 Months
+
+Year 1 Fall:
+
+Computational Data Science Seminar
+
+Advanced Storage Systems
+
+Cloud Computing
+
+istributed Systems
+
+Machine Learning
+
+Year 1 Spring: - Computational Data Science Seminar - Parallel Computer Architecture and Programming - Advanced Databases - Search Engines
+
+Year 1 Summer:
+
+Summer Internship
+
+Year 2: - Computational Data Science Systems Capstone - Operating Systems or Web Applications
+
+
+Answer: 

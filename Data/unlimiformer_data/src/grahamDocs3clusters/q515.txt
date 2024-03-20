@@ -1,0 +1,148 @@
+Question: When are the grades due for the Fall 2024 semester?
+
+Context: [cs.CV] 28 Oct 2023
+2023). In our work, we use the classifier employed by PaLM and GLaM, which assigns each document a score from 0 (high quality) to 1 (low quality). We experiment with removing documents that fall above four quality thresholds: 0.975, 0.95, 0.9, 0.7, along with an inverse filter that instead removes the highest quality documents below a threshold.
+Received: 14 October 2022 – Discussion started: 27 February 2023 Revised: 9 May 2023 – Accepted: 17 July 2023 – Published: 1 September 2023
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Duesing
+
+Fall 2023
+
+Course number: 60223
+
+Title: IDeATe Portal: Introduction to Physical Computing
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: HL A10
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zacharias
+
+Fall 2023
+
+Course number: 60232
+
+Title: Intermediate Studio: Interactive Objects
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: DH B305
+
+Locations: Pittsburgh, Pennsylvania
+Fall 2023
+
+Course number: 57627
+
+Title: Independent Study in Supervised Teaching
+
+Units: VAR
+
+Section: A,E,B,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 57651
+
+Title: Special Topics in Music:
+
+Units: VAR
+
+Section: A,E,B,C,D,
+
+Days: TBA,M, ,MW
+
+Start: ,02:00PM,08:30AM,10:00AM,
+
+End: ,02:50PM,11:50AM,09:20AM,
+
+Room: TBA, ,CFA KRESGE,WQE ST B
+
+Locations:  ,Pittsburgh, Pennsylvania
+Fall 2023
+
+Course number: 03210
+
+Title: Independent Study
+
+Units: 1-12
+
+Section: W2,W1,A1,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Willard,Younis,Bouaouina
+
+Fall 2023
+
+Course number: 03220
+
+Title: Genetics
+
+Units: 9.0
+
+Section: A,W,B,C,Lec 1,Lec 2
+
+Days: MWF,R,UTR
+
+Start: 04:00PM,02:30PM,03:00PM,05:00PM,09:00AM,11:30AM
+
+End: 09:50AM,03:50PM,03:20PM,12:20PM,04:50PM,05:50PM
+
+Room: WEH 4625,CMB 3048,GHC 4102,WEH 5409,DH 2302
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+close Date -  March 4 ; Event - 8 M-F Spring Break; No Classes Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 12 ; Day - Tuesday ; Event - Summer 2024 Registration Opens Date -  March 15 ; Day - Friday ; Event - Mini-4
+
+
+Answer: 

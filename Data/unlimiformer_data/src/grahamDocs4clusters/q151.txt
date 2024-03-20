@@ -1,0 +1,173 @@
+Question: What are the two key factors addressed by CSurF?
+
+Context: Paper title: 'CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms' Published year: 2023 Publication venue or conference: International Conference on the Theory of Information Retrieval Authors: Zhen Fan, Jamie Callan, Luyu Gao Summary: This paper proposes to directly bridge the surface form space and the term semantics space in lexical exact-match retrieval via contextualized surface forms (CSF), reaching comparable accuracy as lexical all-to-all soft match systems as an
+framing the relation between units and coherence. LFP coherence appears to be
+
+determined by two factors (Schneider et al., 2021): (i) coherence due to the direct
+
+contribution of afferent synaptic inputs; (ii) coherence between the sender LFP and
+
+the summed population spiking activity in the receiver. Coherence therefore depends
+
+on connectivity strength and oscillation power, and does not need purely oscillatory
+
+coupling or spike-phase locking in a receiver.
+Participants were also asked to rate which considerations they applied when choosing material. Appropriateness of content and availability through the library were the two most important considerations, with price, simultaneous access and ease of access for students showing as lower considerations.
+Section: A,W
+
+Days: UT,MW
+
+Start: 11:30AM,03:30PM
+
+End: 12:45PM,04:50PM
+
+Room: CMB 2147,TEP 2610
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Mathur,Monroe
+
+Fall 2023
+
+Course number: 70460
+
+Title: Mathematical Models for Consulting
+
+Units: 9.0
+
+Section: A,W
+
+Days: UT,TR
+
+Start: 09:30AM,04:00PM
+
+End: 10:50AM,05:15PM
+
+Room: CMB 1031,TEP 2701
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: De Roux Uribe,Safak
+
+Fall 2023
+
+Course number: 70462
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Su, Zhao
+
+Summer 2024
+
+Course number: 82269
+
+Title: Immersive Digital Storytelling:Using VR/AR to Explore, Language Culture Identity
+
+Units: 9.0
+
+Section: U
+
+Days: MTWRF
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: TEP 1024
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: DeYoung, Liu, Caspar
+
+Summer 2024
+
+Course number: 82278
+
+Title: Japanese Film and Literature: The Art of Storytelling
+
+Units: 9.0
+
+Section: U
+
+Days: MTWRF
+
+Start: 11:00AM
+Units: 12.0
+
+Section: S
+
+Days: MTWRF
+
+Start: 09:30AM
+
+End: 10:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasuhara
+
+Summer 2024
+
+Course number: 82272
+
+Title: Intermediate Japanese II
+
+Units: 12.0
+
+Section: S
+
+Days: MTWRF
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: PH 125B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasuhara
+
+Summer 2024
+
+Course number: 82275
+
+Title: Queer Representations in Contemporary Literature and Culture from Japan
+
+Units: 9.0
+
+Section: S
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+According to the CIT Alumnus from May, the finals were “undecided”, and per the 1948 Thistle, the race ended in protest. But whatever happened seemed to be between PiKA and DU, because the two of them were granted a reroll to determine the winner. And in that reroll, DU’s “Flying Pork Barrel” buggy, with cowboy hat-wearing driver, crossed the finish line first, earning the victory. DTD apparently came in 3rd, finishing in a time of 3:00. If you know anything about this protest (or anything else
+“Buggy is a sport that encompasses all elements that CMU has to offer,” he said. “Everything that goes into it, the challenge, the teamwork, the fun, the rewards. It’s a real-life challenge working with a team. I learned to work together with people with different personalities and visions toward the same goal to make it happen.”
+grade appeal: (a) the final grade assigned for a cours e is based on manifest error (e.g. a clear error
+
+such as arithmetic error in computing a grade or failure to grade one of the answers on an exam),
+
+or (b) the faculty or staff member who assigned the grade did so in violation of a University
+
+policy
+
+11.5.4  Safeguarding Educational Equity:
+
+Policy Against Sexual Harassment and Sexual Assault
+
+The University prohibits sex-based discriminati on, sexual harassment, sexual assault, dating/
+This policy addresses the circumstances in which romantic, sexual or amorous relationships/interactions with undergraduate students, even if consensual, are inappropriate and prohibited. The purpose of this policy is to assure healthy professional relationships. This policy is not intended to discourage consensual intimate relationships unless there is a conflicting professional relationship in which one party has authority over the other as in the policy. 4.3.5 Gestational and Parental
+4) Academic Integrity Violation (AIV) according to  the university policies. This includes any
+
+AIV letter received in during the summer preceding matriculation.
+
+A student may be terminated from the program under any of the following circumstances:
+
+a) A student who has received two Academic  Integrity Violation (AIV) letters will  be
+
+terminated. There are no exceptions  and the Program Director has no discretion over
+
+such a termination as it is an LTI policy.
+
+
+Answer: 

@@ -1,0 +1,161 @@
+Question: In fall 2023, When does unit 02601 take place on Fridays?
+
+Context: Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Fall 2023
+
+Course number: 02602
+
+Title: Professional Issues for Computational and Automated Scientists
+
+Units: 3.0
+
+Section: A
+
+Days: R
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brasier, DeBlasio
+
+Fall 2023
+
+Course number: 02613
+
+Title: Algorithms and Advanced Data Structures
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: DH 2315
+Fall 2023
+
+Course number: 05600
+
+Title: HCI Pro Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: W
+
+Start: 05:00PM
+
+End: 07:20PM
+
+Room: 3SC 172
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Willis
+
+Fall 2023
+
+Course number: 05610
+
+Title: User-Centered Research and Evaluation:
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec,
+
+Days:  ,MW
+
+Start: 12:30PM, ,02:00PM
+
+End:  ,01:50PM,03:20PM
+
+Room: DH 2315,WEH 8427,PH 225B, ,GHC 4101,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carja, Schwartz
+
+Fall 2023
+
+Course number: 02518
+
+Title: Computational Medicine
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wu
+
+Fall 2023
+
+Course number: 02601
+
+Title: Programming for Scientists
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: POS 152
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1) Date -  March 31 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline Date -  April 2 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 3 ; Event - 5 Th-Sa Spring Carnival; No Classes Date -  April 7 ; Event - 11 M-F Fall 2025 Registration Week Date -  April 14 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+
+
+Answer: 

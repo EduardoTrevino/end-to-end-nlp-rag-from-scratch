@@ -1,0 +1,47 @@
+Question: What is Martial Herbert's one word title, this is not the one with the word professor in it?
+
+Context: 4 In Philosophical Investigations (6), Wittgenstein writes, for example, that ‘[ostensive teaching of words] is an important part of the training, because it is so with human beings; not because it could not be imagined otherwise.’
+
+37
+
+2 The Octopus in the Chinese Room
+
+2.1 Searle’s Chinese Room
+experiment with a neural language model. The Octopus thought experiment was awarded a best paper prize and was widely debated in the AI community. Again, however, even its fiercest opponents accepted the premise that what a word refers to cannot be induced in the absence of direct supervision. I will argue that what a word refers to is probably learnable from raw text alone. Here’s why: higher-order concept co-occurrence statistics are stable across languages and across modalities, because
+We hypothesize that this is because by just adding more embeddings, while still using the same training procedure as the original LM, the multiple embeddings for each word type after learning could still be very close to each other, and thus do not increase the softmax capacity much. This suggests that some regularization terms may be needed during training to make the multiple embeddings not converge to the same vector, rendering over-parameterization useless.
+provides information on all deadl ines including registration date s, class start dates, add/drop
+
+deadlines, exam dates and more.
+
+7 School and Departmental Information
+
+The following are key personnel with whom you may  interact during your time at Carnegie
+
+Mellon:
+
+Martial Hebert
+
+Dean, School of Computer Science 9
+
+University Professor
+
+GHC 6105  412-268-5704
+
+hebert@cs.cmu.edu
+
+https://www.cs.cmu.edu/~hebert/
+
+David Garlan Associate Dean for Master’s Programs, SCS Professor TCS 420
+1032 The WORD https://www.cmu.edu/student-affairs/theword/ The WORD is Carnegie Mellon University’s online student handbook and serves as the foundation for the department (and sometimes college) handbook. The WORD contains university-wide academic policy information and resources, community policies and resources, and describes the university level procedures used to review possible violations of these standards. It is designed to provide all students with the tools, guidance, and insights to
+the department (and sometimes college) handbook. The WORD contains University -wide
+
+academic policies and resources, community policies and resources, and describes the
+
+University -level procedures used to review possible violations of these standards. It is designed
+
+to provide all students with the tools, guidance, and insights to help you achieve your  full
+
+potential as a member of the Carnegie Mellon community. Information about the following is
+
+
+Answer: 

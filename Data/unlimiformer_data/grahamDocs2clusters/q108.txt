@@ -1,0 +1,27 @@
+Question: What is the term for the discrepancies between increases in computational throughput and reductions in floating point operations, and improvements in wall-clock inference latency?
+
+Context: Increased focus on the computational efficiency of NLP systems has motivated the design of ef- ficient model architectures and improvements to underlying hardware accelerators. How- ever, the resulting increases in computational throughput and reductions in floating point op- erations have not directly translated to improve- ments in wall-clock inference latency. We demonstrate that these discrepancies can be largely attributed to bottlenecks introduced by deep learning frameworks. We denote
+Models (e.g. over API) introduces a new computational trade-off. Specifically, the interplay between Computational Time (CT) and Travel Time (TT). An increase in computation that results in reduced travel time might lead to overall efficiency gains depending on the amount of computational time required. Colloquially, when is it faster to think before acting, versus acting on a hunch?
+The CASR metric serves as both a metric for method comparison and a tool for understanding the balance between computational time and task efficiency. Key observations are: 1) Positive Correlation with CT: An increase in CT leading to a higher CASR suggests that more computa- tion can reduce travel time (TT), enhancing efficiency. 2) Negative Correlation with CT: A drop in CASR with increased CT indicates diminishing returns from additional computation (e.g. saturation).
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+3.1.3 Extended or Longer -than -Standard Completion (Statute of Limitations)
+
+Longer -than -standard degree completion may occur due to academic interruptions in making
+
+progress toward the degree as defined by the academic  program, interruptions of full -time
+
+study or progress towards the degree due to  serious, documented medical iss ues, or other
+
+unusual or unforeseen  circumstances.
+
+Master’s students who require longer than the standard time to complete their  degree
+Extended or Longer-than-Standard Completion Longer-than-standard degree completion may occur due to academic interruptions in making progress toward the degree as defined by the academic program, interruptions of full-time study or progress towards the degree due to serious, documented medical issues, or other unusual or unforeseen circumstances. Master’s students who require longer than the standard time to complete their degree requirements are expected to remain in close contact with their
+
+
+Answer: 

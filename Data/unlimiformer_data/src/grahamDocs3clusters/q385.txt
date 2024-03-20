@@ -1,0 +1,158 @@
+Question: What course did Lanni teach in Spring 2023?
+
+Context: Mingda Chen, Jingfei Du, Ramakanth Pasunuru, Todor Mihaylov, Srini Iyer, Veselin Stoyanov, and Zornitsa Kozareva. 2022a. Improving in- context few-shot learning via self-supervised training. In Proceedings of the 2022 Conference of the North American Chapter of the Associa- tion for Computational Linguistics: Human Lan- guage Technologies, pages 3558–3573, Seattle, United States. Association for Computational Linguistics.
+Xinyun Chen, Maxwell Lin, Nathanael Schärli, and Denny Zhou. 2023. Teaching large lan- arXiv preprint guage models to self-debug. arXiv:2304.05128.
+Nicholas Meade, Spandana Gella, Devamanyu Hazarika, Prakhar Gupta, Di Jin, Siva Reddy, Yang Liu, and Dilek Hakkani-Tür. 2023. Using in-context learning to improve dialogue safety. arXiv preprint arXiv:2302.00871.
+
+Sewon Min, Mike Lewis, Hannaneh Hajishirzi, and Luke Zettlemoyer. 2022a. Noisy channel lan- guage model prompting for few-shot text clas- sification. In Proc. of ACL, pages 5316–5330, Dublin, Ireland. Association for Computational Linguistics.
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Linstedt, Lanni
+
+Spring 2024
+
+Course number: 03741
+
+Title: Advanced Cell Biology
+
+Units: 12.0
+
+Section: A
+
+Days: F
+
+Start: 02:00PM
+
+End: 04:20PM
+
+Room: MI 355
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lee, Linstedt, Campbell, Zhang
+
+Spring 2024
+
+Course number: 03744
+
+Title: Membrane Trafficking
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lee, Linstedt
+Days: MWF
+
+Start: 04:00PM
+
+End: 04:50PM
+
+Room: WEH 4623
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lanni
+
+Fall 2023
+
+Course number: 03151
+
+Title: Honors Modern Biology
+
+Units: 10.0
+
+Section: A,W,Lec 2,Lec 1
+
+Days: MWF,R,UTR
+
+Start: 03:45PM,02:30PM,03:00PM,07:00PM
+
+End: 05:35PM,07:50PM,03:50PM,03:20PM
+
+Room: HH B131,CMB 3046,DH 1212
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Minden,Affara
+
+Fall 2023
+
+Course number: 03201
+End: 12:20PM
+
+Room: OFF CAMPUS
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lanni
+
+Fall 2023
+
+Course number: 03900
+
+Title: Doctoral Thesis Research
+
+Units: 5-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hinman, Hiller
+
+Fall 2023
+
+Course number: 42101
+
+Title: Introduction to Biomedical Engineering
+
+Units: 12.0
+
+Section: A
+
+Days: MF
+
+Start: 01:00PM
+
+End: 01:50PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Abbott
+Elective course For more information on the MSAII program curriculum and requirements, see the program website. Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+
+
+Answer: 

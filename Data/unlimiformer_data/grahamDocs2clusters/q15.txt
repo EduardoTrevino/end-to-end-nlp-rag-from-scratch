@@ -1,0 +1,31 @@
+Question: In the BiasX paper, how much do imperfect machine-generated explanations help in correctly identifying subtly (non-)toxic content?
+
+Context: explanations for cor- rectly identifying subtly (non-)toxic content. The quality of explanations is critical: imper- fect machine-generated explanations (+2.4% on hard toxic examples) help less compared to expert-written human explanations (+7.2%). Our results showcase the promise of using free- text explanations to encourage more thoughtful toxicity moderation.
+of varying difficulties. We explore three primary research questions: (1) When do free-text explana- tions help improve the content moderation quality, and how? (2) Is the explanation format in BIASX effective? and (3) How might the quality of the explanations affect their helpfulness? Our results show that BIASX indeed helps moderators better detect hard, subtly toxic instances, as reflected both in increased moderation performance and subjec- tive feedback. Contrasting prior work that use
+BIASX improves moderation quality, especially on hard-toxic examples. Shown in Figure 2a, we find that HUMAN-EXPL leads to substantial gains in moderation accuracy over the NO-EXPL base- line on both hard-toxic (+7.2%) and hard-non-toxic examples (+7.7%), which as a result is reflected as a +4.7% accuracy improvement overall. This indi- cates that explicitly calling out statements’ implied stereotypes or prejudices does encourage content moderators to think more thoroughly about the tox- icity
+could solve logic puzzles in the same way that a human might solve them. Newell demonstrated that it worked by writing the instructions on 3-by-5 index cards that were manipulated on the kitchen table by Newell, his wife, and a group of Carnegie Tech grad students.
+Bias Reporting  MLT Graduate Student Handbook  Page 39
+
+Discriminatory Harassment/Sexual Misconduct/Title IX
+
+Employee Misconduct
+
+Employment Related
+
+Environmental Health and Safety /Pandemic Safety
+
+Financial Matters
+
+Health and Wellness
+
+Information Systems and Data Privacy
+
+Public Safety and Criminal Activity
+
+Research and Intellectual Property
+
+Students, faculty , and staff can anonymously file a report by calling 1- 844- 587- 0793  or visiting -
+In any presentation, creative, artistic or research, it is the ethical responsibility of each student to identify the conceptual sources of the work submitted. Failure to do so is dishonest and is the basis for a charge of cheating or plagiarism, which is subject to disciplinary action.
+
+
+Answer: 

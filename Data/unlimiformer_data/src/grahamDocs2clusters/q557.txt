@@ -1,0 +1,29 @@
+Question: FLARE method from Jiang et al., was evaluated on four knowledge-intensive tasks. What are these tasks?
+
+Context: We evaluate the effectiveness of FLARE on 4 di- verse knowledge-intensive tasks using few-shot in- context learning (Radford et al., 2019; Brown et al., 2020; Liu et al., 2023). We follow previous works (Trivedi et al., 2022) to sub-sample at most 500 examples from each dataset due to the cost of run- ning experiments. Datasets, metrics, and settings are summarized in Table 7 of Appendix B. The hyperparameters of FLARE are selected based on the development set and listed in Table 9. FLARE
+sidering the impressive performance achieved by GPT-3.5 (Ouyang et al., 2022) on a variety of tasks, we examine the effectiveness of our meth- ods on text-davinci-003. We evaluate FLARE on 4 diverse tasks/datasets involving generating long outputs, including multihop QA (2WikiMul- tihopQA), commonsense reasoning (StrategyQA), long-form QA (ASQA), and open-domain summa- rization (WikiAsp) (Ho et al., 2020; Geva et al., 2021; Stelmakh et al., 2022; Hayashi et al., 2021). Over all tasks, FLARE
+relevant doc- uments to regenerate the sentence if it contains low-confidence tokens. We test FLARE along with baselines comprehensively over 4 long- form knowledge-intensive generation tasks/- datasets. FLARE achieves superior or compet- itive performance on all tasks, demonstrating the effectiveness of our method.1
+17 Implement and evaluate complex, scalable data science systems, with emphasis on providing experimental evidence for design decisions.  Anticipate and avert structural and/or implementation problems with systems design, especially with scaling and tail distributions.
+
+HCDS. Students electing to complete the Human-Centered Data Science (HCDS) concentration will also learn to:
+Analytics. Students electing to complete the Analytics concentration will also learn to:
+
+Design, implement and evaluate a software system and machine
+
+learning model on real world datasets at real world scale.
+
+Analyze and document data science requirements in different application domains and survey as well as critique state of the art solutions for those requirements.
+
+Systems. Students electing to complete the Systems concentration will also learn to:
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+
+
+Answer: 

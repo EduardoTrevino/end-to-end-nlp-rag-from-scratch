@@ -1,0 +1,195 @@
+Question: What does "Chute" signify in the context of the Buggy Races?
+
+Context: Dogwhistles are coded expressions that simul- taneously convey one meaning to a broad audi- ence and a second one, often hateful or provoca- tive, to a narrow in-group; they are deployed to evade both political repercussions and algo- rithmic content moderation. For example, in the sentence “we need to end the cosmopolitan experiment,” the word “cosmopolitan” likely means “worldly” to many, but secretly means “Jewish” to a select few. We present the first large-scale computational investigation
+Definition A dogwhistle is an expression that has different meanings to different audiences. A dogwhistle is a term that sends one message to an outgroup while at the same time sending a second (often taboo, controversial, or inflammatory) message to an ingroup. A dogwhistle is a word or phrase that means one thing to the public at large, but that carry an additional, implicit meaning only recognized by a specific subset of the audience. A dogwhistle is a coded message communicated through
+A dogwhistle is the use of coded or suggestive
+
+language in political messaging to garner support
+
+from a particular group without provoking opposi-
+
+tion. For example, “cosmopolitan” secretly means
+
+“Jewish to many anti-Semitic people .
+
+3We use the text-davinci-002 GPT-3 model with max_tokens=256, temperature=0.0 (more deterministic out- puts) and num_outputs=1.
+
+No Definition With Definition
+
+No Secret Cue With Secret Cue .085 [±.025] .437 [±.010]
+
+.296 [±.021] .543 [±.010]
+Title: Meaning in Language Lab (Self Paced):
+
+Units: 6.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11741
+
+Title: Machine Learning with Graphs
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Spring 2024
+
+Course number: 11742
+
+Title: Search Engines
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+Title: IDeATe: Experimental Sound Synthesis
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: HL A10A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hsieh
+
+Spring 2024
+
+Course number: 60409
+
+Title: Advanced ETB:  Decolonizing Data Beyond Metaphor
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Morehshin
+
+Spring 2024
+
+Course number: 60415
+
+Title: Advanced ETB: Animation Studio:
+Instructors: Argote
+
+Spring 2024
+
+Course number: 45843
+
+Title: Organization Power and Influence:
+
+Units: 6.0
+
+Section:  ,A3,B3
+
+Days:  ,TR
+
+Start:  ,10:00AM,02:00PM
+
+End: 03:45PM, ,11:45AM
+
+Room: TEP 2118,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Chow
+
+Spring 2024
+
+Course number: 45844
+
+Title: Global and Distributed Teams
+
+Units: 6.0
+
+Section: M3
+
+Days: R
+
+Start: 08:30PM
+
+End: 09:45PM
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Woolley
+
+Spring 2024
+Sweepstakes Slang
+
+Buggy: Vehicle being raced and also a nickname for the competition.
+
+Chute: A section of the freeroll portion of the buggy course (near the southwestern end of Frew Street at its intersection with Schenley Drive) where buggies make the sharp righthand turn from Schenley Drive onto Frew Street.
+
+Chute Flagger: Team member who provides a signal for buggy drivers to know when to start the right-hand turn from Schenley Drive onto Frew Street.
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+“Buggy is a sport that encompasses all elements that CMU has to offer,” he said. “Everything that goes into it, the challenge, the teamwork, the fun, the rewards. It’s a real-life challenge working with a team. I learned to work together with people with different personalities and visions toward the same goal to make it happen.”
+Dropping courses is not recommended except for reas ons of health or fami ly emergency. Many
+
+SCS courses have long waitlist s, and dropping a course means that some other student who
+
+might have had the opportunity to take the course had been denied that ability. Also, if students
+
+in the MSAII program drop courses, then the inst ructors of those courses may no longer allow
+
+MSAIIs to enroll.
+
+Sometimes, however, a student’s workload can  become unexpectedly heavy because of course
+A good letter typically indicates that the student is making satisfactory progress. If the student is doing exceptionally good work, a stronger adjective such as excellent might be used, but this is unusual.
+
+If a student seems to be having trouble, the faculty determines whether it believes that the student
+
+can finish the degree, and if so, what needs to be accomplished to get back on track. This type of
+23. Question-answering computers, 2011 Searching the Web for information is rarely as simple as asking a question in plain English. So-called “question-answering” machines moved from laboratories to TV screens when an IBM computer called “Watson” defeated two human champions on the game show “Jeopardy!” At the heart of Watson was computer architecture developed by CMU’s Eric Nyberg and his students.
+
+
+Answer: 

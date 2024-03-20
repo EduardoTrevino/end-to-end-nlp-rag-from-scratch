@@ -1,0 +1,35 @@
+Question: Who is the current Associate Director of Athletics, Recreational Programs?
+
+Context: frontiersin.org
+
+Belmar
+
+which directs and contributes to the development of the exercise of training, which we call pedagogical model (Ortiz et al., 2015).
+This editorial represents a collaborative effort between the current co-editors-in-chief of the International Journal of Computer-Supported Collaborative Learning (ijCSCL) and the recent co-editor-in-chief of the Journal of Learning Analytics (JLA), Alyssa Wise, who is also a member of the ijC(LA) have made a presence in ijCSCL. This issue in particular comprises four full articles within this scope, in addition to a timely exposition on Col- laborative Learning from an ethics perspective.
+Conditional augmentation
+
+Label prompt embeddingGenerated “sports-like” instance
+
+Decision boundary
+
+Instruction: Discuss the sportsaspect of the article.
+
+GPTConditionally Augmented TextSmith is a lifelong sports fan and has been an avid athlete throughout his life. He has long been a supporter of youth sports programs and has worked tirelessly to promote sports to promote health, fitness, and teamwork.+Instruction/Prompt
+
+Label prompt for sportsTrue label: businessPseudo label: sports
+In August 2012, the Carnegie Mellon Department of Athletics, Physical Education and Recreation launched the Tartan Athletics Club. Developed by a group of passionate alums and friends of Carnegie Mellon Athletics, the Tartan Athletics Club mission and goals are as follows:
+sports, physical education classes and club sports. The Athletics Department also offers aerobics c lasses in the University Center, as well as occasional workshops and instruction
+
+related to fitness and health. The Athletics Office is located in the Skibo Gymnasium. MLT Graduate Student Handbook  Page 36
+
+The University Center’s recreational facilities include an eight -lane pool, racquetball and squash
+sports, physical education classes and club sports. The Athletics Department also offers aerobics
+
+classes in the University Center as well as occasional workshops and instruction related to fitness and health . The administrative offices are located in the Cohon University Fitness Center .
+
+The University Center’s recreational facilities include an eight -lane pool, racquetball and squash
+
+courts, aerobics room, fitness center and gym for basketball and volleyball. With renovations to
+
+
+Answer: 

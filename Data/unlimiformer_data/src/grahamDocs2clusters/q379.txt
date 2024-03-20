@@ -1,0 +1,17 @@
+Question: What's the cost in us dollars per program for the masters degrees in language technologies if you submit before the early deadline?
+
+Context: for Google Translate is roughly $2.66 re- gardless of the target language, since Google’s API only charges for input characters.
+We estimated cost values for each MT system and language: the expense, in USD, of translat- ing the full FLORES-200 devtest English set into the language. We estimated costs of GPT models using the prompts employed in our experiments,
+
+model NLLB ChatGPT (0-shot) ChatGPT (5-shot) Google GPT-4 (5-shot)
+
+cost $0.09 $0.35 $1.32 $2.66 $25.93
+
+Table 10: Estimated cost in USD to translate FLORES- 200 devtest ENG→X with each system, averaged across all languages we evaluated with each
+These visualizations are also available on our repository. (Also see our Zeno browser for interac- tive visualizations of our results.) We also include cost estimates and scores divided thereby for all languages and MT systems in Table 14. We ex- clude cost estimates by language for NLLB and Google because there is very little variation be- tween languages. Our estimated cost of translat- ing FLORES-200 devtest ENG→ is approximately $0.09 for every target language. And the respective estimate
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29, 2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29,2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science
+anything to the admissions office. If you are accepted to a program, you will be given instruction to then mail your materials. Final Application Deadline December 13, 2023 at 3 p.m. EST. Cost $100 per program, $80 for applications submitted before November 29, 2023 at 3PM EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select "pipeline" programs. For more information, please refer to the School of Computer Science Fee Waiver
+
+
+Answer: 

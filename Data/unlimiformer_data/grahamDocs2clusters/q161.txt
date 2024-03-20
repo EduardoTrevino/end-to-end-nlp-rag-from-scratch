@@ -1,0 +1,39 @@
+Question: What is the BartScore achieved by the CRL-COM (R) system from the paper Improving Factuality of Abstractive Summarization via Contrastive Reward Learning, on the XSUM dataset?
+
+Context: Yuan W., Neubig G. and Liu P. (2021). BARTScore: Evaluating generated text as text generation. In Advances in Neural
+
+Information Processing Systems 34, pp. 27263–27277.
+
+Zhang J., Zhao Y., Saleh M. and Liu P. (2020a). Pegasus: Pre-training with extracted gap-sentences for abstractive
+
+summarization. In International Conference on Machine Learning. PMLR, pp. 11328–11339.
+(2020) proposed an unsupervised abstractive summarization model that generates summaries directly from source documents by optimizing coverage, ﬂuency, and brevity using reinforcement learning (RL)-based rewards. Yadav et al. (2021) introduced two novel question-aware semantic rewards for abstractive question summarization: (1) question-type identiﬁcation and (2) question-focus recognition. They integrated these rewards into an encoder- decoder-based ProphetNet transformer model (Qi et al.
+For the case of the proposed evaluation models (similarity-based evaluation), we see that train- ing the summarization model with the RL paradigm gives the best results for both the bi-encoder or cross-encoder models (rows 4 and 8 of the results), compared to MLE-only or RL with ROUGE- L score as the reward metric. This is not the case for ROUGE or BERTScore. We thus see that improving the evaluation measure yields an improvement in overall quality of the summaries, as we already showed that
+The Office of Research Integrity & Complian ce (ORIC) is designed to support research at
+
+Carnegie Mellon University. The staff work with  researchers to ensure research is conducted
+
+with integrity and in accordance with federa l and Pennsylvania regulation. ORIC assists
+
+researchers with human subject re search, conflicts of interest, re sponsible conduct of research,
+
+export controls, and institutional animal care & us e.  ORIC also provides consultation, advice,
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+processes available to graduate students who se ek review of academic and non-academic issues.
+
+Graduate students are expected to seek informal resolution of all concerns within the applicable
+
+department, unit or program before invoking fo rmal processes. When an informal resolution
+
+cannot be reached, however, a gr aduate student who seeks furthe r review of the matter is to
+
+follow the formal procedures outlined here. Th ese appeal and grievanc e procedures shall apply
+
+
+Answer: 

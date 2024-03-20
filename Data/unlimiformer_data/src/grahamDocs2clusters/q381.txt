@@ -1,0 +1,39 @@
+Question: How many authors are on the paper "Pragmatic Inference with a CLIP Listener for Contrastive Captioning"?
+
+Context: Paper title: 'Pragmatic Inference with a CLIP Listener for Contrastive Captioning' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Benno Krojer, Daniel Fried, Jiefu Ou Summary: This work proposes a simple yet effective and robust method for contrastive captioning: generating discriminative captions that distinguish target images from very similar alternative distractor images by leveraging an off-the-shelf CLIP model
+3 2 0 2
+
+n u J
+
+5 1
+
+] L C . s c [
+
+1 v 8 1 8 8 0 . 6 0 3 2 : v i X r a
+
+Pragmatic Inference with a CLIP Listener for Contrastive Captioning
+
+Jiefu Ou1 Benno Krojer2 Daniel Fried1 Carnegie Mellon University1 Mila/McGill University2 jiefuo@andrew.cmu.edu
+
+Abstract
+We propose an incremental pragmatic inference ap- proach with a CLIP listener, which combines the strengths of previous approaches that conduct in- cremental pragmatic reasoning with a separately modeled listener. We identify strengths and weak- nesses of automatic model-based evaluation of dis- criminative captioning systems, and suggest that future work 1) control for the disfluency of gener- ated captions and not solely optimize for predicted informativity and 2) use human evaluations. In
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+16. CAPTCHAs, 2000 “Spam” and malicious attacks were a growing problem on the Internet when hackers developed automated “bots” that could sign up for email and other Web services without human intervention. Luis von Ahn (CS’03,’05), Nick Hopper (CS’04), John Langford (CS’02) and CMU professor Manuel Blum invented a “Completely Automated Public Turing Test to tell Computers and Humans Apart,” or CAPTCHA, to help foil the bots. A later variation, reCAPTCHA, is helping digitize old books and
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+
+
+Answer: 

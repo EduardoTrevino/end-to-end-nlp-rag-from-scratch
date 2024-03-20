@@ -1,0 +1,182 @@
+Question: What is the proposed approach in the paper "Rethinking Voice-Face Correlation: A Geometry View"?
+
+Context: To investigate and understand the voice-face correlation at a more fine-grained phoneme level, we propose an anal- ysis pipeline that leverages a common feature extractor with a regression head to predict human anthropometric measure- ments (AM) from phoneme. Specifically, Human anthropomet- ric measurements are a set of facial measurements summarized from cognitive science studies that can effectively represent the identity of a human. We decompose the audio recordings into phonemes and learn
+and movements in the face. Therefore, it is advanta- geous to discover the hidden link between phonemes and face attributes. In this paper, we propose an analysis pipeline to help us explore the voice-face relationship in a fine-grained manner, i.e., phonemes vs. facial anthropometric measurements (AM). We build an estimator for each phoneme-AM pair and evaluate the correlation through hypothesis testing. Our results indicate that AMs are more predictable from vowels compared to conso- nants,
+by using advanced Generative Adversarial Networks [12]. Go- ing beyond, recent works [13, 14] attempt to recover 3D face geometry meshes from voice to avoid the impact of inevitable background area modeling in 2D images. However, all these approaches rely on a long period of voice and potentially ne- glect the advantage of exploring a more fine-grained voice-face correspondence.
+Instructors: Warman
+
+Fall 2023
+
+Course number: 54209
+
+Title: Voice and Speech II: Practicums
+
+Units: 3.0
+
+Section: A,B
+
+Days: F
+
+Start: 10:30AM,09:00AM
+
+End: 10:20AM,11:50AM
+
+Room: PCA A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stewart
+
+Fall 2023
+
+Course number: 54211
+
+Title: Actor Dance II
+
+Units: 3.0
+
+Section: A
+
+Days: TR
+
+Start: 01:30PM
+
+End: 02:50PM
+
+Room: PCA 306
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Caton
+
+Fall 2023
+
+Course number: 54213
+Start: 01:00PM
+
+End: 03:20PM
+
+Room: PCA 321,PCA 314,PCA 318
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rivera Lebron,Walker-Rhoze,Moore
+
+Spring 2024
+
+Course number: 54204
+
+Title: Voice and Speech II
+
+Units: 4.0
+
+Section: A,B
+
+Days: MW
+
+Start: 10:30AM,09:00AM
+
+End: 10:20AM,11:50AM
+
+Room: PCA A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Logan
+
+Spring 2024
+
+Course number: 54206
+
+Title: Dance II: Pillars to Build Dance Technique
+
+Units: 3.0
+
+Section: A,B
+
+Days: TR
+
+Start: 09:00AM
+Fall 2023
+
+Course number: 57588
+
+Title: Junior Recital Voice
+
+Units: 1.0
+
+Section: E2,B2,D2,C2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Fall 2023
+
+Course number: 57589
+
+Title: Senior Recital Voice
+
+Units: 1.0
+
+Section: E2,B2,D2,C2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Fall 2023
+
+Course number: 57591
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+topics. Consultants support communication excellence on essays, technical reports, oral presentations, slides, data visualization, advanced English language learning, and many other project types. Clients can bring in a project at any stage, including bra instorming
+
+ideas, organizing thoughts, responding to instructor feedback, or putting finishing touches on the final draft. Support is offered in several modes:
+
+o One-on-one Communication Tutoring (in-person or synchronous Zoom meeting):
+review sessions on course materials outside th e classroom. SI is a non-remedial approach
+
+to learning as the program targets high-risk  courses and is available in select courses
+
+based on data related to past stu dent performance and feasibility.
+
+Peer Tutoring:  Weekly Tutoring Appointments are offered in a one-on-one and small
+
+group format to students from any discipli ne who need assistance with a course that may
+
+
+Answer: 

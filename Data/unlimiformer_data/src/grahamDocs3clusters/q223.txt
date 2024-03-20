@@ -1,0 +1,218 @@
+Question: What is Robert Frederking's phone number according to the MCDS handbook?
+
+Context: Alan W Black, Ralf D Brown, Robert Frederking, Rita Singh, John Moody, and Eric Steinbrecher. 2002. Tongues: Rapid development of a speech-to-speech translation system. In Proceedings of Second Interna- tional Conference on Human Language Technology Research HLT, pages 183–186.
+[BCP+90]
+
+Peter F. Brown, John Cocke, Stephen A. Della Pietra, Vincent J. Della Pietra, Fredrick Jelinek, John D. Lafferty, Robert L. Mercer, and Paul S. Roossin. A statistical approach to machine translation. Computational Linguistics, 16(2):79–85, June 1990.
+
+[BJN+22]
+BERTScore
+
+45.5
+
+45.8
+
+25.1
+
+22.5
+
+24.7
+
+19.9
+
+37.9
+
+38.1
+
+Bi-Encoder BERTurk
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hovis, Pinnow
+
+Spring 2024
+
+Course number: 38110
+
+Title: ENGAGE in Service
+
+Units: 1.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 11722
+
+Title: Grammar Formalisms
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4707
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11723
+
+Title: Linguistics Lab: Self-Paced
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11726
+Instructors: Callan, Frederking
+
+Summer 2024
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 11927
+
+Title: MIIS Capstone Project
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 11930
+
+Title: Dissertation Research
+268-4525 Fax: (412) 268-7287 Robert Frederking Graduate Program Chair Language Technologies Institute School of Computer Science Carnegie Mellon University Gates-Hillman Center 6515 5000 Forbes Avenue, Pgh, PA 15213 Phone: (412) 268 -6656 Mona Diab, LTI Director Language Technologies Institute School of Computer Science Carnegie Mellon University Gates-Hillman Center 5723 5000 Forbes Avenue, Pgh, PA 15213 Phone: (412) 268-3669
+Language Technologies Institute - Faculty Name: Scott Fahlman Email: sef@cs.cmu.edu Office: 6417 Gates & Hillman Centers Research Areas: AI, Knowledge Representation and Reasoning, Natural Language Understanding Phone: 412-268-2575
+
+Language Technologies Institute - Faculty Name: Robert Frederking Email: ref@cs.cmu.edu Office: 6515 Gates & Hillman Centers Phone: 412-268-6656
+Kate Schaich      Robert Frederking
+
+Administrative Manager    Chair of Graduate Programs, LTI
+
+GHC 6415      Principal Systems Scientist
+
+412-268-4788      412-268-6656
+
+kschaich@andrew.cmu.edu   ref@cs.cmu.edu
+
+Mona Diab
+
+Director, LTI
+
+GHC 5415
+
+412-268-3669
+
+mdiab@andrew.cmu.edu
+
+In addition, students may confer with the Graduate Education Office
+
+(graded@andrew.cmu.edu ) regarding issues of process or other concerns as they navigate
+
+conflicts. MIIS Graduate Student Handbook  Page 8
+
+
+Answer: 

@@ -1,0 +1,157 @@
+Question: Are there any authors of the paper Understanding Political Polarisation using Language Models: A dataset and method, not from CMU?
+
+Context: Paper title: 'Understanding the Effect of Model Compression on Social Bias in Large Language Models' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Emma Strubell, Gustavo Gonçalves Summary: A carefully controlled study of the impact of model compression via quantization and knowledge distillation on measures of social bias in LLMs finds that longer pretraining and larger models led to higher social bias, and
+Paper title: 'Generating Images with Multimodal Language Models' Published year: 2023 Publication venue or conference: arXiv.org Authors: Daniel Fried, R. Salakhutdinov, Jing Yu Koh Summary: This work proposes a method to fuse frozen text-only large language models (LLMs) with pre-trained image encoder and decoder models, by mapping between their embedding spaces, and exhibits a wider range of capabilities compared to prior multimodal language models.
+Paper title: 'Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Louis-Philippe Morency, P. Liang, Praneetha Vaddamanu, Atishay Jain, Himanshu Thakur Summary: This paper empirically shows that by fine-tuning a pre-trained model on only 10 debiased (intervened) training examples, the tendency to favor any gender is
+Title: Gaining Insights through Statistical Modeling and Machine Learning
+
+Units: 6.0
+
+Section: A4
+
+Days: W
+
+Start: 06:00PM
+
+End: 07:30PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Freeman
+
+Spring 2024
+
+Course number: 36660
+
+Title: Special Topics: Sports Analytics:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: SH 105,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Yurko
+
+Spring 2024
+
+Course number: 36662
+Title: Engineering AI Project Methods
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 06:00PM
+
+End: 07:50PM
+
+Room: CMR F205
+
+Locations: Kigali, Rwanda
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 04654
+
+Title: Introduction to Probabilistic Graphical Model:
+
+Units: 12.0
+
+Section: J,
+
+Days:  ,TR
+
+Start:  ,03:00PM
+
+End:  ,04:50PM
+
+Room:  ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Gueye, Mukamakuza
+
+Fall 2023
+
+Course number: 04655
+
+Title: Artificial Intelligence for Engineers
+
+Units: 12.0
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+Tau Delta Phi Tries To Make Its Debut; PhiKap Struggles. Tau Delta Phi put together a buggy with a bubbled canopy for its first try on the course. Unfortunately, they broke their rear wheel axle (presumably during practice) and were unable to compete on Raceday. On another note, PhiKap lent their buggy to the PhiKap chapter of Pitt for Pitt’s buggy race. Unfortunately, the buggy didn’t have a very good year, as it lost the Pitt race and didn’t qualify for Finals at CMU. Beta Defeats PiKA in
+Q: Are there auditions? A: No, any member of the campus community with music experience is able to join the Kiltie Band!
+
+Q: Do I have to memorize music? A: No, the music is changed for every show. You should invest in a good and trusty lyre.
+
+Q: When is the first rehearsal? A: On the first day of class (Monday) at 5:30 p.m. in the CUC Studio Theater. If you have questions, please email the Direcator at jolisar@andrew.cmu.edu.
+15. Model checking, 1994 CMU professor Edmund Clarke had long stressed the importance of verifying computer hardware and software through a formal problem-solving technique called “model checking.” In 1994, his arguments gained new weight with the discovery that Intel’s amazing new Pentium chip made errors on certain math problems. Clarke would go on to receive the Turing Award for his role in the development of model checking.
+Language Technologies Institute - Faculty Name: Fernando Diaz Email: diazf@cmu.edu Research Areas: Information Retrieval: Recommender Systems, Retrieval and Ranking Models, Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation Phone: 412-268-4229
+Language Technologies Institute - Faculty Name: Lei Li Email: leili@andrew.cmu.edu Research Areas: Machine Learning, Machine Translation, Large Language Models, AI Drug Discovery Phone: 412-268-6355
+
+
+Answer: 

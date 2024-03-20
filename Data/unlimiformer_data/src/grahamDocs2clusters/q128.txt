@@ -1,0 +1,157 @@
+Question: In spring 2025, What is the deadline for adding, auditing, and tuition adjustment drop for Mini-3?
+
+Context: Fall 2023
+
+Course number: 60454
+
+Title: Adv Studio: Small Things:Quiet interventions, Miniatures & the Power of Everyday
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: DH C300
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yeh
+
+Fall 2023
+
+Course number: 60470
+
+Title: Advanced DP3: Special Topic: Painting The Unconscious
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 310
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ray
+
+Fall 2023
+Title: Special Topics in ICT Mini:
+
+Units: 6.0
+
+Section:  ,A1,N1
+
+Days:  ,MW,TR
+
+Start: 08:00AM, ,04:00PM
+
+End:  ,05:50PM,09:50AM
+
+Room: CMR F305, ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Rodriguez-Perez,Ostheimer
+
+Fall 2023
+
+Course number: 04900
+
+Title: MSIT Practicum
+
+Units: 24.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:20PM
+
+Room: CMR F305
+
+Locations: Kigali, Rwanda
+
+Instructors: Okeyo
+
+Fall 2023
+
+Course number: 04910
+
+Title: Entrepreneurship Project
+
+Units: VAR
+
+Section: A
+Course number: 36735
+
+Title: Statistical Analysis Mini - TBA
+
+Units: 6.0
+
+Section: A3
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36736
+
+Title: Statistical Methods Mini - TBA
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36757
+
+Title: Advanced Data Analysis I
+add, audit & tuition adjustment drop deadline (1) Date -  April 1 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  April 3 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week Date -  April 15 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -  April 15 ; Day -
+Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1) Date -  March 31 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline Date -  April 2 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 3 ; Event - 5 Th-Sa Spring Carnival; No Classes Date -  April 7 ; Event - 11 M-F Fall 2025 Registration Week Date -  April 14 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -
+Date -  October 27 ; Day - Friday ; Event - Mini-2 add, audit & tuition adjustment drop deadline (1)
+
+Date -  November 7 ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet
+
+Date -  November 11 ; Event - Homecoming
+
+Date -  November 13 ; Event - 17 M-F Spring 2024 Registration Week
+
+Date -  November 13 ; Day - Monday ; Event - Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+
+Answer: 

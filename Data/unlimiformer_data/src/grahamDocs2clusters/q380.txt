@@ -1,0 +1,143 @@
+Question: In fall 2024, What is the deadline for Semester add, audit & tuition adjustment drop (deadline 1)?
+
+Context: Fall 2023
+
+Course number: 09344
+
+Title: Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,W
+
+Start: 11:00AM,07:00PM
+
+End: 11:50AM,07:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hendrich
+
+Fall 2023
+
+Course number: 09381
+
+Title: Environmental Systems on a Changing Planet: Science & Engineering Addendum
+
+Units: 12.0
+
+Section: A
+
+Days: F
+
+Start: 12:00PM
+
+End: 12:50PM
+
+Room: DH 1112
+Fall 2023
+
+Course number: 80101
+
+Title: Dangerous Ideas in Science and Society
+
+Units: 9.0
+
+Section: A,E,I,B,F,G,C,D,Lec,J,H
+
+Days: F,MW
+
+Start: 01:00PM,02:00PM
+
+End: 01:50PM,02:50PM
+
+Room: PH 226B,CFA 102,PH 126A,WEH 8427,PH A20,PH 225B,TBA,PH A21,PH 125B,PH A19D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cullen
+
+Fall 2023
+
+Course number: 80130
+
+Title: Introduction to Ethics
+
+Units: 9.0
+
+Section: A,B,Lec
+
+Days: F,MW
+
+Start: 10:00AM,11:00AM
+
+End: 11:50AM,10:50AM
+Fall 2023
+
+Course number: 24892
+
+Title: Locomotion Seminar
+
+Units: 0.0
+
+Section: A
+
+Days: F
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: BH 235A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Johnson
+
+Fall 2023
+
+Course number: 24991
+
+Title: Professional Development for PhD students
+
+Units: 2.0
+
+Section: A
+
+Days: F
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wolfe
+
+Fall 2023
+
+Course number: 92848
+
+Title: Organizational Ethics
+
+Units: 4.0
+add, audit & tuition adjustment drop deadline (1) Date -  April 1 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  April 3 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week Date -  April 15 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -  April 15 ; Day -
+Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1) Date -  March 31 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline Date -  April 2 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 3 ; Event - 5 Th-Sa Spring Carnival; No Classes Date -  April 7 ; Event - 11 M-F Fall 2025 Registration Week Date -  April 14 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -
+Date -  October 27 ; Day - Friday ; Event - Mini-2 add, audit & tuition adjustment drop deadline (1)
+
+Date -  November 7 ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet
+
+Date -  November 11 ; Event - Homecoming
+
+Date -  November 13 ; Event - 17 M-F Spring 2024 Registration Week
+
+Date -  November 13 ; Day - Monday ; Event - Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+
+Answer: 

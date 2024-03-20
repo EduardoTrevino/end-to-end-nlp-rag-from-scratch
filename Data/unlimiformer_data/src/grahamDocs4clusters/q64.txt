@@ -1,0 +1,135 @@
+Question: What are the two standard benchmarks used to evaluate the performance of FREDOM?
+
+Context: In the generation task, models generate full-sentence answers given the question. The benchmark evaluates the model’s performance on both questions to measure truthful models and the intersection of truthful and informative. As shown in Table 4 (right), Dromedary achieves higher scores than GPT-3, LLaMA, Alpaca in both categories, while failing behind the ChatGPT-distilled Vicuna model.
+
+4.2.2 BIG-bench HHH Eval
+Evaluation Dataset To evaluate LLM’s performance on non-English languages, we use two benchmark cross-lingual datasets, XQUAD (Artetxe et al., 2020) and MLQA (Lewis et al., 2020), which requires the model to reason over the given context and answer the given question. In addi- tion, we create a new multilingual evaluation set MI-EVAL (introduced in Appendix B) to assess the capability of LLM in following multilingual instructions. These multilingual multi-way test sets also allow us to compare
+Next, a major challenge is the significant variability of measuring performance on real hardware due to server workload and configuration issues. Indeed, we find that benchmarking on real hardware can lead to large, phantom performance “improvements” due only to random chance. To address this challenge, we evaluate performance using the gem5 CPU simulator (Binkert et al., 2011), the gold standard CPU simulator in academia and industry, and models state-of-the-art general-purpose processors.
+Instructors: Bisk,Yang,Eskenazi,Gormley,Mortensen,Waibel,Brown,Lee,Cassell,Sycara,Morency,Frederking,Rosenfeld,Kolter,Instructor TBA,Poczos,Salakhutdinov,Mitamura,Lipton,Mostow,Berg-Kirkpatrick,Levin,Cohen,Oh,Strubell,Fahlman,Hauptmann,Callan,Mitchell,Xing,Nyberg,Neubig,Smith,Young,Tsvetkov,Rose,Stern,Rudnicky,Ramakrishnan,Watanabe,Hong,Tomasic
+
+Spring 2024
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+Title: Viola Studio Performance Class
+
+Units: 1.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: CFA KRESGE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Harding
+
+Spring 2024
+
+Course number: 57018
+
+Title: Double Bass Studio Performance Class
+
+Units: 1.0
+
+Section: A
+
+Days: M
+
+Start: 07:30PM
+
+End: 09:20PM
+
+Room: CFA ACH
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Howard
+
+Spring 2024
+
+Course number: 57020
+
+Title: Flute Studio Performance Class:
+
+Units: 1.0
+
+Section: A,
+Instructors: Holmes,Sontag
+
+Fall 2023
+
+Course number: 48116
+
+Title: Introduction to Building Performance
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: MM 303
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sawyer
+
+Fall 2023
+
+Course number: 48200
+
+Title: Architecture Design Studio: POIESIS STUDIO 3
+
+Units: 18.0
+
+Section: A,E,B,C,D,Lec
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 200,MM A14
+
+Locations: Pittsburgh, Pennsylvania
+1948 – Design Competition (from the 1949 Thistle). Identified buggies: KapSig (3rd from the left, back row); PiKA (4th from the left, back row); Beta Sigma Rho (far left, back row). We also believe that the bottom buggy in the front row (3 wheels, no shell) belongs to Citcom Clan.
+
+1948 – Hill 1 of the Finals (from the 1949 Thistle). KapSig in Lane 1 (left), DTD in Lane 2 (middle), PiKA in Lane 3 (right)
+If you can ID any of the unknown buggies, let us know.
+
+1949 – Design Competition (from the 1966 Buggy Book). Buggies are KapSig (far left), SAE’s design winner (#4, 2nd from the left), Men’s Dorms (#7, 3rd from the left), and DU (#11, far right).
+
+1949 – SAE’s Design-winning buggy getting worked on (from the November 1949 issue of The Record, the SAE National Publication)
+
+1949 – Citcom Clan Buggy (#9) (from the 1950 Thistle).
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+graded on the 4.3 grading standard http://www.cmu.edu/policies/documents/Grades.html. MCDS students must maintain a 3.0 overall average each semester to remain in good standing. A student must obtain a B- or better grade in all courses, which count towards core requirements. If a student 19receives a C- or better, that course may count as an elective towards the degree requirements. All courses must receive a letter grade; courses taken pass/fail do not count towards the MCDS degree.
+Students must demonstrate their mastery of material taught in courses and their success in applying their skills in directed stu dy by satisfying the following grade requirements .
+
+Minimum grade:  Only courses with a grade of B (3.0) or higher are counted as satisfying a degree
+
+requirement.
+
+Pass/fail:  Pass/fail grades are not permitted for courses and projects used to satisfy a degree
+
+requirement.
+
+3.1.3 Proficiency Requirements
+If you will be studying on an F-1 or J-1 visa, and English is not a native language for you (native language…meaning spoken at home and from birth), we are required to formally evaluate your English proficiency. We require applicants who will be studying on an F-1 or J-1 visa, and for whom English is not a native language, to demonstrate English proficiency via one of these standardized tests: TOEFL (preferred), IELTS, or Duolingo. We discourage the use of the "TOEFL ITP Plus for China," since
+
+
+Answer: 

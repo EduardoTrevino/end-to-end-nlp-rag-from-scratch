@@ -1,0 +1,169 @@
+Question: In summer 2024, What is the deadline for adding, auditing, and tuition adjustment drop for Mini-6?
+
+Context: 9
+
+Preprint 2023
+
+6 LIMITATIONS AND FUTURE WORK
+4.6 Ablation on the student model size
+weights (Fried et al., 2022; Nijkamp et al., 2022) or provided access to the model through a paid API service (Chen et al., 2021; Athiwaratkun et al., 2022), but these works did not release the full training data or the preprocessing methods that were used.
+Title: Special Topics in ICT Mini:
+
+Units: 6.0
+
+Section:  ,A1,N1
+
+Days:  ,MW,TR
+
+Start: 08:00AM, ,04:00PM
+
+End:  ,05:50PM,09:50AM
+
+Room: CMR F305, ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Rodriguez-Perez,Ostheimer
+
+Fall 2023
+
+Course number: 04900
+
+Title: MSIT Practicum
+
+Units: 24.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:20PM
+
+Room: CMR F305
+
+Locations: Kigali, Rwanda
+
+Instructors: Okeyo
+
+Fall 2023
+
+Course number: 04910
+
+Title: Entrepreneurship Project
+
+Units: VAR
+
+Section: A
+Course number: 36735
+
+Title: Statistical Analysis Mini - TBA
+
+Units: 6.0
+
+Section: A3
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36736
+
+Title: Statistical Methods Mini - TBA
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36757
+
+Title: Advanced Data Analysis I
+Course number: 94433
+
+Title: Optimization for DAS
+
+Units: 6.0
+
+Section: A3,B3
+
+Days: TR,TRF
+
+Start: 03:30PM,02:00PM
+
+End: 04:50PM,03:20PM
+
+Room: HBH 1204,HBH 1005
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhang
+
+Spring 2024
+
+Course number: 94465
+
+Title: Data Analytics for Decision Making
+
+Units: 6.0
+
+Section: A4
+
+Days: MWF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Escallon Barrios
+
+Spring 2024
+
+Course number: 94470
+The Finals, initially scheduled for 2pm on Saturday, May 4, were ultimately postponed until Saturday, May 11, due to a downpour that cast a damper on an otherwise exciting Spring Carnival. Controversial Finals. An overcast sky threatened rain on the makeup date as well, though it held off long enough for the race to be run. But some of the spectators may have wished the rain came sooner. Although signs were posted about the makeup date, cars ignored the notices and ended up blocking part of the
+Q: Can I borrow a school instrument? A: There are several Kiltie-owned instruments available for your use. Loans begin at 4:30 p.m. before the first rehearsal.
+
+Q: What do they wear under those kilts? A: Join and you’ll find out!
+Fight Over Carnival Schedule. Now that Spring Carnival was back on, the students had to decide how they wanted it – As 2 days in May (losing a day of vacation) or one day in April (not sacrificing any other off days). Buggy was going to happen either way, but ultimately the students voted on a 2 day Carnival, keeping the tradition intact and putting Raceday on the schedule for May 2-3. Time Trials. It looks like this post-war period was when the race changed from a head-to-head to a time trial.
+June 24 ; Day - Monday ; Event - Mini-6 First Day of Classes Date -  June 25 ; Day - Tuesday ; Event - Mini-5 Final Grades Due by 4 pm Date -  June 28 ; Day - Friday ; Event - Mini-6 add, audit, & tuition adjustment drop deadline (1) Date -  July 4 ; Event - Independence Day; University Closed & No Classes Date -  July 5 ; Day - Friday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  July 8 ; Day - Monday ; Event - Mini-6 drop deadline; withdrawal grade assigned after this date
+add, audit & tuition adjustment drop deadline (1) Date -  April 1 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  April 3 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week Date -  April 15 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -  April 15 ; Day -
+Date -  October 27 ; Day - Friday ; Event - Mini-2 add, audit & tuition adjustment drop deadline (1)
+
+Date -  November 7 ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet
+
+Date -  November 11 ; Event - Homecoming
+
+Date -  November 13 ; Event - 17 M-F Spring 2024 Registration Week
+
+Date -  November 13 ; Day - Monday ; Event - Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+
+Answer: 

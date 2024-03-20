@@ -1,0 +1,146 @@
+Question: What was the name of the CMU project that created its first high-speed computer network?
+
+Context: With the rapid development of deep learning, object detection techniques based on deep learning are widely used in computer vision. Girshick et al. (2014) combined region proposal and convolutional neural networks (CNNs) to design the ﬁrst two-stage network Regions with CNN features (R-CNN). Some researchers improved R-CNN, and a faster and more accurate network called Fast R-CNN (Girshick, 2015) was proposed. Subsequently, Ren et al. (2015) proposed the Faster-RCNN network based on Fast-RCNN,
+Since its beginnings in the 20th century with the theoretical conceptualization by Alan Turing of a machine capable of making calculations and with memory to store data, computing has led us in a spiral of technological advances, which has evolved exponentially. The Englishman Alan Turing was the founder of Computer Science, he was a mathematician, philosopher and cryptographer, a visionary of his time. Turing lived from (1912 to 1954). It should be noted that, without that initial idea and the
+Soar was ﬁrst developed by Allen Newell’s research group in the CMU Department of Computer Science, and work on Soar has continued primarily under John Laird at the University of Michi- gan and Paul Rosenbloom at the University of Southern California [12, 13, 14]. It is designed to be a uniﬁed cognitive architecture, a theory that can explain how cognition works across a wide range of tasks. Some of its key design objectives include being goal-oriented, meaning it makes rational decisions in
+Room: CMU REMOTE,CMR F307
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Fall 2023
+
+Course number: 18726
+
+Title: Projects in Integrated Circuit Design: First Silicon
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mai
+
+Fall 2023
+
+Course number: 18729
+
+Title: Special Topics in Circuits:
+
+Units: 12.0
+
+Section: C,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,ANS C02
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Summer 2024
+
+Course number: 18613
+
+Title: Foundations of Computer Systems
+
+Units: 12.0
+
+Section: A,SV
+
+Days: TWR
+
+Start: 09:30AM,06:30AM
+
+End: 07:50AM,10:50AM
+
+Room: CMU REMOTE
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Kesden
+
+Summer 2024
+
+Course number: 18980
+
+Title: M.S. Graduate Project I
+
+Units: 0-48
+
+Section: A,R,SV,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Title: Parallel Computer Architecture and Programming
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: CUC MCCNMY
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Railing, Mowry
+
+Spring 2024
+
+Course number: 15619
+
+Title: Cloud Computing
+
+Units: 15.0
+
+Section: A,C,E,B
+
+Days: R,T,F
+
+Start: 08:00AM,04:00PM,05:00PM
+
+End: 08:50AM,04:50PM,06:20PM
+
+Room: CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Sakr, Goldstein,Sakr
+The best-wired campus in the world Working with IBM in the early 1980s, the university and the Computer Science Department established another new research frontier: Development of a high-speed computer network that would reach virtually every room on campus, along with a GUI-based computing environment, and providing networked PCs or workstations for 7,000 students, faculty members and employees. Called the Andrew Project, it turned Carnegie Mellon into the best-connected, most-wired
+Multi-processor machines emerge CSD emerged from the brief crisis as a highly agile, interdisciplinary entity, with many new faculty members taking joint appointments with other CMU departments. Several large projects emerged in the Computer Science Department, including C.mmp, the first shared-memory multiprocessor computer, with 16 processing units, and Cm*, a 50-processor computer. These computers were the forerunners of today’s ubiquitous multi-core desktops and laptops.
+the arrival of an IBM 650 computer on the campus of what was then known as Carnegie Institute of Technology. The IBM 650 had magnetic-drum memory and a processing speed of approximately 60 instructions per second. Herb Simon (H’90), associate dean of the Graduate School of Industrial Administration—now known as CMU’s Tepper School of Business—established Carnegie Tech’s first Computation Center with the help of its first director, Alan Perlis (S’42).
+
+
+Answer: 

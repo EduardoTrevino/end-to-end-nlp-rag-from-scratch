@@ -1,0 +1,249 @@
+Question: Who is the Employment Processes Manager for LTI
+
+Context: We would like to thank our workers on MTurk for their responses. We are also grateful to the anonymous reviewers for their helpful comments. Special thanks to Saadia Gabriel, Jocelyn Shen, Ashutosh Baheti, and the members of the CMU LTI COMEDY group for their feedback, and Ope- nAI for providing access to the GPT-3.5 API. This research was supported in part by the Meta Fun- damental AI Research Laboratories (FAIR) “Dyn- abench Data Collection and Benchmarking Plat- form” award “ContExTox:
+First of all, we thank our workers on MTurk for their hard work and thoughtful responses. We thank the anonymous reviewers for their helpful com- ments. We also thank Shengyu Feng and mem- bers of the CMU LTI COMEDY group for their feedback, and OpenAI for providing access to the GPT-3.5 API. This research was supported in part by the Meta Fundamental AI Research Laboratories (FAIR) “Dynabench Data Collection and Benchmarking Platform” award “ContExTox: Context-Aware and Explainable Toxicity
+Figure 5: AAR’s training process. (a) exhibits the re- triever’s (ANCE) performance on MS MARCO. (b) presents the Lt’s (Flan-T5Base) performance on MS- MARCO QA and MMLU.
+Title: LTI Minor Project - Advanced
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11601
+
+Title: Coding & Algorithms Bootcamp:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: DH 2315,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11611
+
+Title: Natural Language Processing:
+
+Units: 12.0
+
+Section: A,R, ,B
+
+Days:  ,TR
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mortensen,Morency
+
+Fall 2023
+
+Course number: 11390
+
+Title: LTI Minor Project - Juniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11411
+
+Title: Natural Language Processing:
+
+Units: 12.0
+
+Section: A, ,B
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,CMU REMOTE,POS A35
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+412-268-4525  Stacey Young
+
+Ph.D. Academic Program Manager
+
+LTI Graduate Program Manager
+
+GHC 6415
+
+staceyy@cs.cmu.edu
+
+412-268-2623
+
+Mona Diab
+
+LTI Director
+
+Professor
+
+GHC 5723
+
+mdiab@andrew.cmu.edu
+
+412-268-3669
+
+Joan Axelson
+
+Office Manager
+
+GHC 5405
+
+jaxelson@andrew.cmu.edu
+
+412-268-7517
+
+Julie Nys
+
+Employment Processes Manger
+
+GHC 5405
+
+jnys@andrew.cmu.edu
+
+412-268-3515
+
+1.3 University Policies and Expectations
+Graduate Program Manager, LTI   Principal Systems Scientist
+
+GHC 6415      GHC 6515
+
+412- 268-4788      412- 268-6656
+
+kschaich@cs.cmu.edu     ref@cs.cmu.edu
+
+Robert Frederking     Mona Diab
+
+Cha ir of Graduate Programs, LTI   Director, LTI
+
+Principal Systems Scientist    GHC 5415
+
+GHC 6515      412- 268-6656
+
+mdiab@andrew.cmu.edu
+
+In addition, students may confer with the Graduate Education Office (graded@andrew.cmu.edu
+
+) regarding issues of process or other concerns as they navigate
+Kate Schaich      Robert Frederking
+
+Administrative Manager    Chair of Graduate Programs, LTI
+
+GHC 6415      Principal Systems Scientist
+
+412-268-4788      412-268-6656
+
+kschaich@andrew.cmu.edu   ref@cs.cmu.edu
+
+Mona Diab
+
+Director, LTI
+
+GHC 5415
+
+412-268-3669
+
+mdiab@andrew.cmu.edu
+
+In addition, students may confer with the Graduate Education Office
+
+(graded@andrew.cmu.edu ) regarding issues of process or other concerns as they navigate
+
+conflicts. MIIS Graduate Student Handbook  Page 8
+
+
+Answer: 

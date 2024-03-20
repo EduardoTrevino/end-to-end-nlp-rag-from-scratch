@@ -1,0 +1,154 @@
+Question: What year was Exploration on HuBERT with Multiple Resolutions published?
+
+Context: Paper title: 'Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute' Published year: 2023 Publication venue or conference: Interspeech Authors: Yifan Peng, Xuankai Chang, William Chen, Shinji Watanabe, Zhaoheng Ni, Soumi Maiti Summary: This work optimizing HuBERT SSL to fit in academic constraints, and reproducibility, and explores a semi-supervised route, using an ASR model to skip the first pre-training iteration.
+The article Fusion of overexposed and underexposed images using caputo differential operator for resolution and texture based enhancement, written by Liang Zhou, Fayadh S. Alenezi, Amita Nandal, Arvind Dhaka, Tao Wu, Deepika Koundal, Adi Alhudhaif and Kemal Polat, was originally pub- lished electronically on the publisher’s internet portal on November 29, 2022 without open access. With the author(s)’ decision to opt for Open Choice the copyright of the article changed December 7, 2022 to © The
+Paper title: 'Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning' Published year: 2023 Publication venue or conference: Interspeech Authors: Xuankai Chang, Yuya Fujita, Takashi Maekaku, Shinji Watanabe, Brian Yan Summary: This paper proposes a new protocol that utilizes discretized token sequences in ASR tasks, which includes de-duplication and sub-word modeling to enhance the input sequence and reduces computational cost by decreasing the length of
+Fall 2023
+
+Course number: 85714
+
+Title: Cognitive Neuropsychology:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Plaut
+
+Fall 2023
+
+Course number: 85735
+
+Title: Biologically Intelligent Exploration:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room: BH 336B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Verstynen
+
+Fall 2023
+
+Course number: 85738
+Course number: 54726
+
+Title: Physics of Stage Machinery
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PCA 209
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hines
+
+Fall 2023
+
+Course number: 54731
+
+Title: Scenic Design: Explorations
+
+Units: 9.0
+
+Section: A
+
+Days: M
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: PCA 307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Warren
+
+Fall 2023
+
+Course number: 54733
+
+Title: Role Playing Game Writing Workshop
+
+Units: 12.0
+
+Section: A
+Title: Special Topics in Physical Chemistry:Explorations Comp Quantum Chemistry:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,07:00PM
+
+End:  ,08:20PM
+
+Room:  ,MI 355
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Kowalewski
+
+Fall 2023
+
+Course number: 09805
+
+Title: Special Topics in Bioorganic and Bioinorganic Chemistry: Biocatalysis
+
+Units: 6.0
+
+Section: A2
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: MI 348
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Guo
+
+Fall 2023
+Center, or PARC, which released the Xerox Alto in 1973. Considered a forerunner to many of the computing environments that followed, Alto featured a graphical-user interface and was among the first commercially available workstations controlled with a mouse. Inspired by Alto, Reddy launched a drive for development of CMU’s own “three-M” machine—a personal workstation with a megabyte of memory, a megapixel display and at least one million instructions per second of processing power.
+Language Technologies Institute / School of Computer Science Graduate Student Handbook Academic Year 2023-2024 Master of Computational Data Science Program
+
+Last revision date: July 20, 2023
+
+The information contained in this graduate handbook template focuses on the resources and locations available at the Carnegie Mellon Pittsburgh Campus.
+14. Web search engines, 1994 The World Wide Web was still in its toddler stage when CMU researcher Michael “Fuzzy” Mauldin (CS’83,’89) developed one of the first successful search engines, Lycos. It was the most-visited site on the Web by 1999.
+
+
+Answer: 

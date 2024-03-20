@@ -1,0 +1,178 @@
+Question: Which LTI faculty member works on recommender systems?
+
+Context: [Covington et al., 2016] Paul Covington, Jay Adams, and Emre Sargin. Deep neural networks for youtube recom- mendations. In Proceedings of the 10th ACM conference on recommender systems, pages 191–198, 2016.
+
+[Cui et al., 2022] Zeyu Cui, Jianxin Ma, Chang Zhou, Jin- gren Zhou, and Hongxia Yang. M6-rec: Generative pre- trained language models are open-ended recommender systems. arXiv preprint arXiv:2205.08084, 2022.
+[18] Robin D Burke, Himan Abdollahpouri, Bamshad Mobasher, and Trinadh Gupta. 2016. Towards multi-stakeholder
+
+utility evaluation of recommender systems. UMAP (Extended Proceedings) 750 (2016).
+Julian McAuley and Jure Leskovec. Hidden factors and hidden topics: understanding rating dimen- sions with review text. In Proceedings of the 7th ACM conference on Recommender systems, pp. 165–172, 2013.
+
+Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, and Shin Ishii. Virtual adversarial training: a regularization method for supervised and semi-supervised learning. IEEE transactions on Pattern Analysis and Machine Intelligence, 41(8):1979–1993, 2018.
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hovis, Pinnow
+
+Spring 2024
+
+Course number: 38110
+
+Title: ENGAGE in Service
+
+Units: 1.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Instructors: Li,Labash,Ciccone,Kolowitz,Lightman,Smalley,Shaikh,Meyer,Costa,DeSantis,Dwivedi,Yucel,Vadlamudi,Stephens,Trzeciak,Yasar,Tucker,Smith,Bigrigg,Kowalsky,Jafry O'Connor,Spooner,Chen
+
+Fall 2023
+
+Course number: 95721
+
+Title: Information Systems Research Practicum
+
+Units: VAR
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhang
+
+Fall 2023
+
+Course number: 95722
+
+Title: Digital Transformation
+
+Units: 6.0
+
+Section: D2,A2
+
+Days: TR
+Room: BH A51, ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11490
+
+Title: LTI Minor Project - Seniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11492
+
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+potential advisors determine how many new students they can take and  indicate their
+
+preferences. Finally, the entire LTI faculty meets as a " Matching  Committee" to determine the best
+
+set of matches.
+
+Until a student finds a specific advisor, the Progr am Director  of the LTI graduate programs serves
+
+as the advisor.
+
+How to change advisors:  The initial advisor selection should be made carefully. However, it is
+Each student has a faculty advisor charged with guiding the education and monitoring the
+
+progress of the student through the program. The advisor also supervises the student's directed LTI Ph.D.  Graduate Student Handbook  Page 18
+
+study projects. This personal student -advisor relationship ensures that every student receives the
+
+necessary faculty mentoring. The advisor also provides the student with career advice.
+
+
+Answer: 

@@ -1,0 +1,237 @@
+Question: In fall 2023, Where is unit 02518 held?
+
+Context: COC (2022). present. Public-Safety/Crimes-2001-to-Present/ ijzp-q8t2. Accessed: 2022-08-14.
+
+City of Chicago, Crimes - 2001 to https://data.cityofchicago.org/
+
+Hendrycks, D. and Gimpel, K. (2016). Gaussian error lin-
+
+ear units (GELUs).
+Search-Based Software Engineering
+
+15th International Symposium, SSBSE 2023 San Francisco, CA, USA, December 8, 2023 Proceedings
+
+Editors Paolo Arcaini National Institute of Informatics Tokyo, Japan
+
+Tao Yue Beihang University Beijing, China
+
+Erik M. Fredericks Grand Valley State University Allendale, MI, USA
+
+ISSN 0302-9743 Lecture Notes in Computer Science ISBN 978-3-031-48795-8 https://doi.org/10.1007/978-3-031-48796-5
+
+ISSN 1611-3349 (electronic)
+
+ISBN 978-3-031-48796-5 (eBook)
+0.02399,2022.2[40]OriolVinyals,CharlesBlundell,TimothyLillicrap,DaanWierstra,etal.Matchingnetworksforoneshotlearning.InNeurIPS,2016.6[41]AlexWang,YadaPruksachatkun,NikitaNangia,AmanpreetSingh,JulianMichael,FelixHill,OmerLevy,andSamuelBowman.SuperGLUE:Astickierbenchmarkforgeneral-purposelanguageunderstandingsystems.InNeurIPS,2019.3[42]JasonWei,YiTay,RishiBommasani,ColinRaffel,BarretZoph,SebastianBorgeaud,DaniYogatama,MaartenBosma,DennyZhou,DonaldMetzler,etal.Emergentabilitiesoflargelanguagemodels
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carja, Schwartz
+
+Fall 2023
+
+Course number: 02518
+
+Title: Computational Medicine
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wu
+
+Fall 2023
+
+Course number: 02601
+
+Title: Programming for Scientists
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: POS 152
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Fall 2023
+
+Course number: 02602
+
+Title: Professional Issues for Computational and Automated Scientists
+
+Units: 3.0
+
+Section: A
+
+Days: R
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brasier, DeBlasio
+
+Fall 2023
+
+Course number: 02613
+
+Title: Algorithms and Advanced Data Structures
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: DH 2315
+Title: String Algorithms
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: CFA 102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kingsford
+
+Fall 2023
+
+Course number: 02500
+
+Title: Undergraduate Research in Computational Biology
+
+Units: 6-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Fall 2023
+
+Course number: 02512
+
+Title: Computational Methods for Biological Modeling and Simulation
+
+Units: 9.0
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+
+
+Answer: 

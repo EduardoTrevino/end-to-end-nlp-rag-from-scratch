@@ -1,0 +1,49 @@
+Question: Which languages are included in the dataset released by "Multi-lingual and Multi-cultural Figurative Language Understanding"?
+
+Context: Paper title: 'Multi-lingual and Multi-cultural Figurative Language Understanding' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Alham Fikri Aji, Samuel Cahyawijaya, Perez Ogayo, Anuoluwapo Aremu, Graham Neubig, Anubha Kabra, Genta Indra Winata, Simran Khanuja, Emmy Liu Summary: This work assesses multilingual LMs' abilities to interpret figurative language in zero-shot and few-shot settings, and reveals that each
+dataset, MABL, for seven diverse languages associated with a variety of cultures: Hindi, Indonesian, Javanese, Kannada, Sundanese, Swahili and Yoruba. Our dataset reveals that each language relies on cultural and regional concepts for fig- urative expressions, with the highest overlap between languages originating from the same region. We assess multilingual LMs’ abili- ties to interpret figurative language in zero- shot and few-shot settings. All languages ex- hibit a significant deficiency
+2 Linguistic and Cultural Biases of
+
+Existing Figurative Language Datasets
+
+To confirm the importance of building a multi- lingual, multi-cultural figurative language dataset, we first performed a pilot study to examine the fea- sibility of instead translating an existing figurative language dataset, Fig-QA (Liu et al., 2022), from
+
+Lang.
+
+fr
+
+hi
+
+ja
+
+Incorrect Culturally irrelevant
+
+13% 40% 21% 17% 20% 17%
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+(11-761) - Multimodal Affective Computing (11-776) - The Nature of Language (80-180)
+10-708, Probabilistic Graphical Models
+
+16-720, Computer Vision
+
+17-631 Information Security, Privacy & Policy
+
+17-781, Mobile and IoT Computing Services
+
+4.4.1 Breadth Courses:  Human Language
+
+11-611, Natural Language Processing
+
+11-624, Human Language for Artificial Intelligence
+
+11-711, Advanced NLP
+
+11-722, Grammar Formalisms
+
+11-724, Human Language for Artificial Intelligence
+
+11-727, Computational Semantics for NLP
+
+11-737, Multilingual NLP
+
+
+Answer: 

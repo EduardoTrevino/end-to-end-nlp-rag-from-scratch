@@ -1,0 +1,199 @@
+Question: In fall 2023, What is the location of course 05317?
+
+Context: Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong. 2023a. Compositional ex- emplars for in-context learning. arXiv preprint arXiv:2302.05698.
+
+Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. 2023b. In-context instruction learning. arXiv preprint arXiv:2302.14691.
+
+Yiming Zhang, Shi Feng, and Chenhao Tan. 2022a. Active example selection for in-context learning. CoRR, abs/2211.04486.
+s,ChenhaoTan,YangfengJi,andNoahASmith.2018.Creativewritingwithamachineintheloop:Casestudiesonslogansandstories.In23rdInternationalConferenceonIntelligentUserInterfaces,pages329–340.HerbertHClark.1996.Usinglanguage.Cambridgeuniversitypress.HerbertHClark.1997.Dogmasofunderstanding.Dis-courseProcesses,23(3):567–598.DavidDale,AntonVoronov,DarynaDementieva,Var-varaLogacheva,OlgaKozlova,NikitaSemenov,andAlexanderPanchenko.2021.Textdetoxificationus-inglargepre-trainedneuralmodels.InProceedingsofthe2021
+Zhenyu Wu, YaoXiang Wang, Jiacheng Ye, Jiangtao Feng, Jingjing Xu, Yu Qiao, and Zhiyong Wu. 2023. Openicl: An open-source framework for in-context learning. arXiv preprint arXiv:2303.02913.
+
+Wenda Xu, Xian Qian, Mingxuan Wang, Lei Li, and William Yang Wang. 2022a. Sescore2: Retrieval augmented pretraining for text generation evaluation. arXiv preprint arXiv:2212.09305.
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Perer
+
+Fall 2023
+
+Course number: 05863
+
+Title: Introduction to Human Computer Interaction for Technology Executives
+
+Units: 6.0
+
+Section: A1
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pileggi
+
+Fall 2023
+
+Course number: 05888
+
+Title: Practicum in HCI:
+
+Units: 3-48
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+End: 03:20PM
+
+Room: 3SC 172
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kaufman
+
+Fall 2023
+
+Course number: 05317
+
+Title: Design of Artificial Intelligence Products
+
+Units: 12.0
+
+Section: A,B
+
+Days: MW,TR
+
+Start: 11:00AM,03:30PM
+
+End: 12:20PM,04:50PM
+
+Room: 4SC 104
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martelaro, Saffer,Zimmerman, Musuraca
+
+Fall 2023
+
+Course number: 05318
+
+Title: Human AI Interaction
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Levin-Decanini, Ion,Ion, Levin-Decanini
+
+Fall 2023
+
+Course number: 05631
+
+Title: Software Structures for User Interfaces
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 4SC 104
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hudson
+
+Fall 2023
+
+Course number: 05652
+
+Title: Service Design
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:50AM
+
+Room: 3SC 172
+
+Locations: Pittsburgh, Pennsylvania
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+Today, it takes six people to maneuver the .84 -mile course around Schenley Park's Flagstaff Hill.
+
+But while five pushers and a driver navigate the course's hills, dozens of people are needed to make a successful race happen. A year of planning goes into just over two minutes of racing.
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+
+
+Answer: 

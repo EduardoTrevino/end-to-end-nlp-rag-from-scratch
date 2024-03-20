@@ -1,0 +1,51 @@
+Question: What are some diffusion models mentioned in the document, "Extracting Training Data from Diffusion Models"?
+
+Context: Paper title: 'Extracting Training Data from Diffusion Models' Published year: 2023 Publication venue or conference: USENIX Security Symposium Authors: Daphne Ippolito, Florian Tramèr, B. Balle, Milad Nasr, Matthew Jagielski, Eric Wallace, Nicholas Carlini, Vikash Sehwag, Jamie Hayes Summary: The results show that diffusion models are much less private than prior generative models such as GANs, and that mitigating these vulnerabilities may require new advances in privacy-preserving training.
+Nicholas, Jamie, Vikash, and Eric each indepen- dently proposed the problem statement of extracting training data from diffusion models.
+
+Nicholas, Eric, and Florian performed preliminary experiments to identify cases of data extraction in diffusion models.
+
+Milad performed most of the experiments on Stable Diffusion and Imagen, and Nicholas counted dupli- cates in the LAION training dataset; each wrote the corresponding sections of the paper.
+We now extract training data from Stable Diffusion: the largest and most popular open-source diffusion model [58]. This model is an 890 million parameter text- conditioned diffusion model trained on 160 million im- ages. We generate from the model using the default PLMS sampling scheme at a resolution of 512 × 512 pix- els. As the model is trained on publicly-available images, we can easily verify our attack’s success and also mit- igate potential harms from exposing the extracted data. We
+in all-things information - including locatin g and obtaining specific resources, providing
+
+specialized research support, advanced training in  the use and management of data. Sign up for
+
+workshops and hands-on topic-spe cific sessions such as data visualization with Tableau,
+
+cleaning data with OpenRefine, and getting st arted with Zotero. Weekly drop-in hours for
+
+Digital Humanities and for Rese arch Data Research Managem ent are scheduled during the
+Analytics. Students electing to complete the Analytics concentration will also learn to:
+
+Design, implement and evaluate a software system and machine
+
+learning model on real world datasets at real world scale.
+
+Analyze and document data science requirements in different application domains and survey as well as critique state of the art solutions for those requirements.
+
+Systems. Students electing to complete the Systems concentration will also learn to:
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+
+
+Answer: 

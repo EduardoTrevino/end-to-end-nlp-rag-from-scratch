@@ -1,0 +1,154 @@
+Question: How many courses does Abdelghany teach in Summer 2024?
+
+Context: El Moatez Billah Nagoudi, Muhammad Abdul-Mageed, AbdelRahim Elmadany, Alcides Alcoba Inciarte, and Md. Tawkat Islam Khondaker. 2022. Jasmine: Arabic gpt models for few-shot learning. ArXiv, abs/2212.10755.
+
+Graham Neubig and Kevin Duh. 2013. How much is said in a tweet? a multilingual, information-theoretic perspective. In AAAI Spring Symposium: Analyzing Microtext.
+Portnoﬀ (2018) says that the 10 years he has been a teacher in an introductory computer programming course, he has used
+
+Frontiers in Computer Science
+
+05
+
+10.3389/fcomp.2023.1085507
+3.6M Arabic instructions and about 6M English instructions are part of the instruction-tuning set. Prompt and response pairs in English have been col- lected from multiple publicly available sources, and suitable instruction– response pairs have been translated automatically to Arabic using an in-house machine translation system. The instruction-tuning data has been collected up to July 2023.
+
+Evaluation Results
+
+See downstream, general evaluation (Section 5); and Safety 6
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Flaherty
+
+Summer 2024
+
+Course number: 21127
+
+Title: Concepts of Mathematics
+
+Units: 12.0
+
+Section: S
+
+Days: MTWRF
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: SH 105
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Abdelghany
+
+Summer 2024
+
+Course number: 21241
+
+Title: Matrices and Linear Transformations
+
+Units: 12.0
+
+Section: S
+
+Days: MTWRF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: BH A36
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Wang,Thornton,Sheng,Xie,Quintana,Abdelghany,Gordon,Raanes,Mediratta,Hsieh,Beard,Zetune,Yu,Walker,Zhang,Khare,Hoover,Kulasiri
+
+Spring 2024
+
+Course number: 21150
+
+Title: Mathematics and the Arts
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 2049
+
+Locations: Doha, Qatar
+
+Instructors: Yilma
+
+Spring 2024
+
+Course number: 21201
+
+Title: Undergraduate Colloquium
+
+Units: 1.0
+
+Section: A3
+
+Days: T
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: SH 105
+End: 11:50AM,10:50AM
+
+Room: SH 234,SH 236
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Abdelghany
+
+Fall 2023
+
+Course number: 21108
+
+Title: Introduction to Mathematical Concepts
+
+Units: 6.0
+
+Section: B1,W2,11,A1,B2,12,A2
+
+Days: MWF,TR,UMTWR
+
+Start: 08:00AM,02:30PM,01:00PM
+
+End: 08:50AM,01:50PM,03:20PM
+
+Room: CMB 2147,PH A18A,HH B103,DH 1212
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Wang,Gheorghiciuc,Marun,Yilma
+
+Fall 2023
+
+Course number: 21111
+
+Title: Calculus I
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+All MS students are required to take a minimum of 96 units of coursework at CMU. 4.1.5 External Internships and Job Interviewing MCDS students are expected to attain an external internship during the summer. International students must coordinate carefully with the University, due to visa restrictions. International students are required to consult with the Office of International Education for eligibility before seeking an internship/co-op or signing an offer contract.
+
+
+Answer: 

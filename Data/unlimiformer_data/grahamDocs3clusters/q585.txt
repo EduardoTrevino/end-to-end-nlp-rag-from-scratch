@@ -1,0 +1,150 @@
+Question: What does KALE use to convert dense representations into a sparse set?
+
+Context: Paper title: 'KALE: Using a K-Sparse Projector for Lexical Expansion' Published year: 2023 Publication venue or conference: International Conference on the Theory of Information Retrieval Authors: Bruno Martins, Jamie Callan, Luís Borges Summary: KALE is a new lightweight method that uses a small model with a k-sparse projector to convert dense representations into a sparse set of entries from a latent vocabulary, which can replace the original lexical vocabulary with gains in accuracy and
+Dense retrievers are widely used in recent litera- ture for ODQA (Lee et al., 2019; Karpukhin et al., 2020). While most previous work focuses on sin- gle retrieval (Xiong et al., 2021a; Qu et al., 2021), some efforts have also been made towards better handling of other query types. Xiong et al. (2021b) propose a joint model to handle both single retrieval and expanded query retrieval. Chen et al. (2021b) train a dense model to learn salient phrase retrieval.
+The objective of the retriever is to find an aug- mentation document set Da from a corpus C that helps the LM handle a given query q. Previous researches (Karpukhin et al., 2020; Xiong et al., 2021) concentrate primarily on the dense retrieval system that searches in the dense vector space since dense retrieval usually performs more accurately and efficiently than sparse one.
+
+A dense retrieval model first represents q and the document d into an embedding space using a pre-trained encoder g,
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 11:50AM
+
+Room: BH 232M
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ventura
+
+Spring 2024
+
+Course number: 36759
+
+Title: Statistical Models of the Brain
+
+Units: 12.0
+
+Section: A,B
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: MI 130,MI 115
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pitkow,Kass
+
+Spring 2024
+
+Course number: 36795
+
+Title: Independent Study
+
+Units: 12.0
+
+Section: E,I,F,D,U,P,C,J,S,A,K,Y,W,B,T,H,L,M,R,O,Q,X,G,N,V
+End: 10:50AM,
+
+Room:  ,POS 145
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Lei
+
+Fall 2023
+
+Course number: 36719
+
+Title: Topics in Experimental Design and Data Analysis for Neuroscience:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room: BH 229A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Kass
+
+Fall 2023
+
+Course number: 36731
+
+Title: Foundations of Causal Inference
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: GHC 4102
+End: 12:20PM,03:20PM
+
+Room: PH 226C,PH A22,GHC 4215,CMU REMOTE,PH 100
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Kaestner, Le Goues,Le Goues, Kaestner
+
+Spring 2024
+
+Course number: 17756
+
+Title: Computational Social Science Research Design and Data Analytics
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: GHC 4101
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Park
+
+Spring 2024
+
+Course number: 17757
+front hills, causing more congestion for spectators on those hills. A police tow truck was present, but it was not permitted to clear the street. Up the front hills, DTD was in the lead, followed by PiKA and KapSig. DTD went into the freerolls first, but the drama was behind them. As PiKA entered the freeroll, PiKA’s buggy crowded KapSig’s buggy and forced KapSig wide, causing KapSig to swerve and hit at least 1 spectator (the Tartan says that KapSig “got out pencil and paper to try to figure
+used for course assignments, directed study projects , and/or capstone projects. The LTI cluster
+
+provides storage and computation for projects involving large datasets and/or lengthy computation.
+
+3 Master’s Degree Completion and Certification
+
+3.1 Standard Degree Requirements an d Degree Certification
+
+3.1.1 Graduate Students
+Fringe vehicles often are named with the letter "B," like Boson, Blueshift, Bissa and Bumper. Other teams, such as Apex, often use names that connotate fire, while the SDC (Student Dormitory Committee) team, uses names such as Vice, Bane, Avarice and Malice.
+
+This year's buggy names will be under wraps until Thursday, when the Buggy Showcase will take place from noon to 2 p.m. in Weigand Gymnasium in the Cohon University Center. It's one of the few times spectators can see buggies up close.
+
+
+Answer: 

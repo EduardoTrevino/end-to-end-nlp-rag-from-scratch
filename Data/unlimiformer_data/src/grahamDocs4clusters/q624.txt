@@ -1,0 +1,165 @@
+Question: When was the first Interfraternity Sweepstakes Race held?
+
+Context: The first round of interviews took place in January 2022 with four academics from different departments at the University of York. The purpose was to gain insight into how they created their reading lists and found materials to include, specifically exploring the availability of OER and their inclusion on those lists. A thematic analysis was conducted and a copy of the report can be found in the Supplemental files. Suggestions from the first round about what should be included in the toolkit
+participants recalled the rise of bench- marks in the late 1990s and early 2000s, coinciding with a major expansion in the NLP community in the wake of the “statistical revolution,” where participants described statistical models displacing more traditional rules-based work (see Figure 2). In the words of one participant, the field became of “such a big snowballing size that nobody owned the first evers anymore.” (26). Instead, after the release of the Penn Treebank in 1993 and the reporting of
+Phyllis Ang, Bhuwan Dhingra, and Lisa Wu Wills. Characterizing the efficiency vs. accuracy trade-off for long-context NLP models. In Proceedings of NLP Power! The First Workshop on Efficient Benchmarking in NLP, pp. 113–121, Dublin, Ireland, May 2022. Association for Computational Linguistics. doi: 10.18653/v1/2022.nlppower-1.12. URL https://aclanthology.org/2022. nlppower-1.12.
+
+9
+
+Colby Banbury, Vijay Janapa Reddi, Peter Torelli, Jeremy Holleman, Nat Jeffries, Csaba Kiraly,
+Instructors: Zacharias, Floyd
+
+Fall 2023
+
+Course number: 62371
+
+Title: Photography, The First 100 Years, 1839-1939
+
+Units: 9.0
+
+Section: A
+
+Days: M
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: PH A18B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: May
+
+Fall 2023
+
+Course number: 62398
+
+Title: Interdisciplinary Independent Study: Topics in Photography
+
+Units: 5,10
+
+Section: A,E,B,F,G,C,D,H
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+Title: Physics First Year Seminar:
+
+Units: VAR
+
+Section:  ,A2
+
+Days: W,
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room: DH A325,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Luokkala
+
+Fall 2023
+
+Course number: 33104
+
+Title: Experimental Physics
+
+Units: 9.0
+
+Section: A,E,Lec 5,B,C,D,Lec 4,Lec 1,Lec 3,Lec 2
+
+Days: WF,MW,TR
+
+Start: 09:00AM,02:00PM,01:00PM,10:00AM,08:00PM,07:00PM
+
+End: 09:50PM,01:50PM,09:50AM,03:50PM,07:50PM,11:50AM
+
+Room: DH A331
+
+Locations: Pittsburgh, Pennsylvania
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 66122
+
+Title: DC Grand Challenge First-Year Seminar: Beyond Earth
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4625
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Werner, Li
+
+Spring 2024
+
+Course number: 66137
+
+Title: DC Grand Challenge Seminar: Causes and Consequences of Health Disparities:
+
+Units: 9.0
+
+Section: A,
+1946 Raceday: Prelims on Friday, May 3 at 4:30pm; Finals on Saturday, May 11* at 2:00pm
+
+Sweepstakes Committee: John H. Siepel (Chair)
+
+Race Results: (1) DTD (3:49? ); (2) KapSig; (DQ) PiKA
+
+Design Comp: (1) Beta
+
+Weather: Cloudy, High 66/Low 47 on Friday; Rain on Saturday, May 4; Overcast, High 67/Low 49 on Saturday, May 11
+
+1946 saw the return of Buggy, though not all of the Fraternities were back yet. It also saw a rain delay and a very controversial result.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+1947 – KapSig being pushed on the back hills (unknown buggy trailing) (from the 1948 Thistle). 1948 Raceday: Prelims on Friday, May 14 at 1:00pm; Finals on Saturday, May 15 at 1:00pm
+
+Sweepstakes Committee: Robert Kerr (Chair)
+
+Race Results: (1) DTD (2:48); (2) KapSig (~2:48.5); (3) PiKA
+
+Design Comp: (1) KapSig
+
+Weather: Sunny; High of 62/72, Low of 54/50
+14. Web search engines, 1994 The World Wide Web was still in its toddler stage when CMU researcher Michael “Fuzzy” Mauldin (CS’83,’89) developed one of the first successful search engines, Lycos. It was the most-visited site on the Web by 1999.
+18. Self-driving vehicles, 2007 Carnegie Mellon’s early attempts at self-driving vehicles progressed slowly, creeping around Pittsburgh’s Schenley Park in the late 1990s. But they were going full-throttle by the time CMU’s self-driving SUV, named BOSS, won the 2007 DARPA Urban Challenge road race.
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+
+
+Answer: 

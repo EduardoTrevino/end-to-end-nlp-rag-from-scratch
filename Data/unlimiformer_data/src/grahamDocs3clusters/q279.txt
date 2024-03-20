@@ -1,0 +1,176 @@
+Question: What is the title of Scotch'n'Soda's performance at the Spring Carnival?
+
+Context: address: 9620 S Las Vegas Blvd, Ste E-7 Las Vegas NV id: 15108 title: Black Rock Coffee Bar address: 7565 S Rainbow Blvd Las Vegas NV 1st: id: 195 title: Outback Steakhouse address: 7380 Las Vegas Blvd S Las Vegas NV 2nd: id: 17172 title: Myungrang Hot Dog address: 4284 Spring Mountain Rd, D101 Las Vegas NV 3rd: id: 6201 title: Dutch Bros Coffee address: 4585 Blue Diamond Rd Las Vegas NV 4th: id: 12468 title: Brother’s Pizza address: 7575 S Rainbow Blvd, Ste 104 Las Vegas NV 5th: id: 13175
+Hyunwoo Kim, Jack Hessel, Liwei Jiang, Ximing Lu, Youngjae Yu, Pei Zhou, Ronan Le Bras, Malihe Alikhani, Gunhee Kim, Maarten Sap, and Yejin Choi. 2022a. Soda: Million-scale dialogue distillation with social commonsense contextualization. ArXiv preprint.
+
+Hyunwoo Kim, Youngjae Yu, Liwei Jiang, Ximing Lu, Daniel Khashabi, Gunhee Kim, Yejin Choi, and Maarten Sap. 2022b. Prosocialdialog: A prosocial backbone for conversational agents. ArXiv preprint.
+id: 5908 title: DoMazing address: 6659 S Las Vegas Blvd, Ste B-101 Las Vegas NV, id: 2053 title: Village Pub & Poker address: 7575 S Rainbow Blvd Las Vegas NV, id: 15510 title: Starbucks address: 7855 Blue Diamond Rd, 101 Las Vegas NV, id: 8414 title: Bowlology address: 4680 Maryland Pkwy, Ste 102 Las Vegas NV, id: 1477 title: IKEA - Cafe address: 6500 Ikea Way Las Vegas NV, ... , id: 16133 title: Meet Fresh address: 3930 Spring Mountain Rd Las Vegas NV, id: 12190 title: Yanni’s Greek Grill
+Title: Puccini's Operas:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room:  ,HOA 225
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Sciannameo
+
+Spring 2024
+
+Course number: 57417
+
+Title: Major Vocal Performance Ensemble
+
+Units: 6.0
+
+Section: A, ,B
+
+Days: WF,TR
+
+Start: 04:00PM
+
+End: 05:50PM,05:20PM
+
+Room: MM 119
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors:  ,Douglas, Rissinger,Douglas
+
+Spring 2024
+
+Course number: 57418
+
+Title: Major Instrumental Ensemble
+Course number: 57234
+
+Title: Performance for Composers
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Galbraith, Whipple
+
+Spring 2024
+
+Course number: 57236
+
+Title: Performance for Composers
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Galbraith, Whipple
+
+Spring 2024
+
+Course number: 57241
+
+Title: Acting II
+
+Units: 3.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+Title: Viola Studio Performance Class
+
+Units: 1.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: CFA KRESGE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Harding
+
+Spring 2024
+
+Course number: 57018
+
+Title: Double Bass Studio Performance Class
+
+Units: 1.0
+
+Section: A
+
+Days: M
+
+Start: 07:30PM
+
+End: 09:20PM
+
+Room: CFA ACH
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Howard
+
+Spring 2024
+
+Course number: 57020
+
+Title: Flute Studio Performance Class:
+
+Units: 1.0
+
+Section: A,
+The Kiltie Marching Band consists of musicians and colorguard and plays at all Carnegie Mellon home football games. There is a new show every week with music ranging from traditional marches and oldies to current pop tunes and jazz standards.
+
+After football season, the Kiltie Concert Band plays a holiday concert and two spring concerts, including a performance at Carnegie Mellon’s Spring Carnival. Additionally, a part of the band gets together and acts as a pep band for the basketball teams.
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+
+
+Answer: 

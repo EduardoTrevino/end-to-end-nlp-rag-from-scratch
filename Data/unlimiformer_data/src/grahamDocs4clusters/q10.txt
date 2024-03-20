@@ -1,0 +1,183 @@
+Question: Which LTI faculty member is an author on "Accelerating Diffusion-based Combinatorial Optimization Solvers by Progressive Distillation"?
+
+Context: Paper title: 'DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization' Published year: 2023 Publication venue or conference: arXiv.org Authors: Zhiqing Sun, Yiming Yang Summary: DIFUSCO is introduced, a new graph-based diffusion framework for NPC combinatorial optimization that outperforms the previous state-of-the-art neural solvers on the challenging SATLIB benchmark and investigates two types of diffusion models with Gaussian and Bernoulli noise, respectively.
+[6] Irwan Bello, Hieu Pham, Quoc V Le, Mohammad Norouzi, and Samy Bengio. Neural combinatorial optimization with reinforcement learning. arXiv preprint arXiv:1611.09940, 2016.
+
+[7] Jieyi Bi, Yining Ma, Jiahai Wang, Zhiguang Cao, Jinbiao Chen, Yuan Sun, and Yeow Meng Chee. Learning generalizable models for vehicle routing problems via knowledge distillation. In Advances in Neural Information Processing Systems, 2022.
+[87] Wenbin Ouyang, Yisen Wang, Shaochen Han, Zhejian Jin, and Paul Weng. Improving general- ization of deep reinforcement learning-based tsp solvers. arXiv preprint arXiv:2110.02843, 2021.
+
+[88] Christos H Papadimitriou and Kenneth Steiglitz. Combinatorial optimization: algorithms and
+
+complexity. Courier Corporation, 1998.
+Instructors: Laird
+
+Fall 2023
+
+Course number: 06326
+
+Title: Optimization Modeling and Algorithms
+
+Units: 6.0
+
+Section: A2
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: GHC 4215
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gounaris
+
+Fall 2023
+
+Course number: 06400
+
+Title: Senior Research Project
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Robinson
+
+Fall 2023
+
+Course number: 06421
+
+Title: Chemical Process Systems Design
+Course number: 47817
+
+Title: Information Economics
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Best
+
+Spring 2024
+
+Course number: 47830
+
+Title: Integer Programming
+
+Units: 6.0
+
+Section: A3
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornuejols
+
+Spring 2024
+
+Course number: 47853
+
+Title: Special Topics in Combinatorial Optimization
+
+Units: 6.0
+Instructors: Islam, Houser,Pistorius, Houser,O'Connor, Houser,Barati Farimani, Houser,Houser, Rohrer,Dickey, Houser,Towe,Houser, Skowronski,Kurchin, Houser,Bockstaller, Houser,Houser, Porter,Houser, Degraef,Rollett, Houser,Marom, Houser,Krause, Houser,Houser,Houser, Bettinger,Houser, Whitacre,Cohen-Karni, Houser,Houser, Taheri-Mousavi,Houser, Feinberg,Houser, Salvador,Webler, Houser
+
+Fall 2023
+
+Course number: 27766
+
+Title: Defects and Diffusion in Materials
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+the University Policies website . It is the responsibility of each member of the Carnegie Mellon
+
+community to be familiar with university policies and guidelines.
+
+1.4 MIIS Contact Information
+
+The people responsible for administering the MIIS degree are:
+
+Brianna Eriksen     Teruko Mitamura
+
+Academic Program Manager    Program Director, MIIS
+
+GHC 6415      Professor, LTI
+
+412-268-4277     GHC 6711
+
+bfreema2@andrew.cmu.edu     412-268-6596
+
+teruko@andrew.cmu.edu
+
+
+Answer: 

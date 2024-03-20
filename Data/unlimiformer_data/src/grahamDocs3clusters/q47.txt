@@ -1,0 +1,170 @@
+Question: In which conference was HomeRobot published?
+
+Context: Paper title: 'HomeRobot: Open-Vocabulary Mobile Manipulation' Published year: 2023 Publication venue or conference: Conference on Robot Learning Authors: Théophile Gervet, Sriram Yenamandra, Alexander Clegg, John Turner, M. Savva, Devendra Singh Chaplot, Chris Paxton, Mukul Khanna, A. Ramachandran, Roozbeh Mottaghi, Austin S. Wang, Angel X. Chang, Vidhi Jain, Z. Kira, Yonatan Bisk, Dhruv Batra, Tsung-Yen Yang, Karmesh Yadav Summary: The HomeRobot OVMM benchmark is introduced, where an agent
+4 The HomeRobot Library
+yearly to assess progress on this challenging problem. Real-world benchmarking will be run as a part of the NeurIPS 2023 HomeRobot OVMM competition [23].
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bartos
+
+Fall 2023
+
+Course number: 84721
+
+Title: American Politics Graduate Seminar
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH 226A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cervas
+
+Fall 2023
+
+Course number: 84722
+
+Title: Comparative Political Institutions Graduate Seminar
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH 125D
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Bartos
+
+Spring 2024
+
+Course number: 84606
+
+Title: Latin American Politics
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PH 226B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Arana
+
+Spring 2024
+
+Course number: 84612
+
+Title: Terrorism in Sub-Saharan Africa
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: PH 226C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bartos
+
+Spring 2024
+
+Course number: 84617
+Instructors: Bartos
+
+Spring 2024
+
+Course number: 84267
+
+Title: Data Science for Political Science
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: BH 235B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liu
+
+Spring 2024
+
+Course number: 84275
+
+Title: Comparative Politics
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Arana
+
+Spring 2024
+
+Course number: 84304
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+6.3 Conference Travel Funding  ........................................................................................... 28
+
+6.4 Office of the Dean of Students Emergency Support Funding  ....................................... 28
+
+6.5 Health Insurance  .......................................................................................................... 28
+
+6.6 Emergency Loans  .......................................................................................................... 29
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+
+
+Answer: 

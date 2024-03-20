@@ -1,0 +1,151 @@
+Question: In fall 2024, When are Fall Deans' Lists Posted?
+
+Context: Fall 2023
+
+Course number: 95799
+
+Title: Linux and Open Source
+
+Units: 6.0
+
+Section: A1,Z2
+
+Days: TBA,R
+
+Start: ,06:30PM
+
+End: ,09:20PM
+
+Room: DNM DNM,HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Moul
+
+Fall 2023
+
+Course number: 95808
+
+Title: IT Project Management
+
+Units: 6.0
+
+Section: A1,Z2
+
+Days: TBA,T
+
+Start: ,06:30PM
+
+End: ,09:20PM
+
+Room: DNM DNM,HBH 1007
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Tucker
+
+Fall 2023
+
+Course number: 95810
+
+Title: Blockchain Fundamentals
+Fall 2023
+
+Course number: 60278
+
+Title: Infinite Rooms: Photography and Installation
+
+Units: 10.0
+
+Section: A
+
+Days: F
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: MM B14
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martello
+
+Fall 2023
+
+Course number: 60335
+
+Title: IDeATe Special Topics in Animation: Story Development
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lim Haas
+
+Fall 2023
+
+Course number: 60355
+Fall 2023
+
+Course number: 27210
+
+Title: Materials Engineering Essentials:
+
+Units: 6.0
+
+Section: A,
+
+Days: R,
+
+Start:  ,11:00AM
+
+End:  ,12:50PM
+
+Room:  ,WEH 5409
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Heard, Kurchin
+
+Fall 2023
+
+Course number: 27211
+
+Title: Structure of Materials (Minor Option)
+
+Units: 6.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sokalski
+
+Fall 2023
+
+Course number: 27215
+Event - Reading Day Date -  December 17 ; Event - Final Exams Date -  December 18 ; Day - Monday ; Event - Make-Up Final Exams Date -  December 18 ; Day - Monday ; Event - Semester & Mini-2 Faculty Course Evaluations close Date -  December 20 ; Day - Wednesday ; Event - Final Grades Due by 4 pm Date -  December 23 ; Event - 2 Sa-Tu Winter Break; University Closed Date -  January 8 ; Day - Monday ; Event - Fall Deans' Lists Posted
+Event - Reading Day Date -  December 15 ; Event - Final Exams Date -  December 15 ; Event - Semester & Mini-2 Faculty Course Evaluations close Date -  December 16 ; Day - Monday ; Event - Make-Up Final Exams Date -  December 18 ; Day - Wednesday ; Event - Final Grades Due by 4 pm Date -  December 24 ; Event - 25 T-W University Closed Date -  December 31 ; Event - 1 T-W University Closed Date -  January 6 ; Day - Monday ; Event - Fall Deans' Lists Posted
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail
+
+
+Answer: 

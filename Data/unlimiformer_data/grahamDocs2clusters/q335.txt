@@ -1,0 +1,39 @@
+Question: Which LTI professor co-authored the paper titled "Text Matching Improves Sequential Recommendation by Reducing Popularity Biases"?
+
+Context: Paper title: 'Text Matching Improves Sequential Recommendation by Reducing Popularity Biases' Published year: 2023 Publication venue or conference: International Conference on Information and Knowledge Management Authors: Zhenghao Liu, Ge Yu, Senkun Mei, Chenyan Xiong, Zhiyuan Liu, Shi Yu, Yu Gu, Xiaohua Li Summary: None
+ACM Reference Format: Zhenghao Liu, Sen Mei, Chenyan Xiong, Xiaohua Li, Shi Yu, Zhiyuan Liu, Yu Gu, and Ge Yu. 2023. Text Matching Improves Sequential Recommendation by Reducing Popularity Biases. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM ’23), Octo- ber 21–25, 2023, Birmingham, United Kingdom. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/nnnnnnn.nnnnnnn
+[48] Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, and Peter J. Liu. 2020. Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer. J. Mach. Learn. Res. (2020), 140:1–140:67.
+
+Text Matching Improves Sequential Recommendation by Reducing Popularity Biases
+
+[49] Steffen Rendle. 2010. Factorization Machines. In Proceedings of The 10th IEEE
+
+International Conference on Data Mining. 995–1000.
+potential advisors determine how many new students they can take and  indicate their
+
+preferences. Finally, the entire LTI faculty meets as a " Matching  Committee" to determine the best
+
+set of matches.
+
+Until a student finds a specific advisor, the Progr am Director  of the LTI graduate programs serves
+
+as the advisor.
+
+How to change advisors:  The initial advisor selection should be made carefully. However, it is
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+To emphasize student research, improve public speaking skills and increase internal awareness of LTI work, all LTI Ph.D.  students must complete an oral presentation at the LTI each year (by
+
+the end of May). The presentation should consist of a 20- minute ta lk plus time for discussion. It
+
+must be advertised to the LTI mailing lists at least one week before your presentation, and the public will be invited. (The thesis proposal and defense each count towards this requirement.)
+
+
+Answer: 

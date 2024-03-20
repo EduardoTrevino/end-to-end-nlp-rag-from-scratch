@@ -1,0 +1,21 @@
+Question: When was Human-Computer Interaction Institute formed?
+
+Context: [78] Christina Harrington, Sheena Erete, and Anne Marie Piper. Deconstructing community-based collaborative design: Towards more equitable participatory design engagements. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW):1–25, 2019.
+Carlos Toxtli, Siddharth Suri, and Saiph Sav- age. 2021. Quantifying the invisible labor in crowd work. Proceedings of the ACM on human-computer interaction, 5(CSCW2):1–26.
+
+Alexander Matt Turner, Aseem Saxena, and Prasad Tadepalli. 2022. Formalizing the problem of side effect regularization. In NeurIPS ML Safety Workshop.
+
+Peter Vamplew, Richard Dazeley, Cameron Foale, Sally Firmin, and Jane Mummery. 2018. Human- aligned artificial intelligence is a multiobjective
+
+Preprint
+[41] Frederick Tung and Greg Mori. Similarity-preserving knowl- edge distillation. In Proceedings of the IEEE/CVF Interna- tional Conference on Computer Vision, pages 1365–1374, 2019. 2, 8
+
+[42] Suchen Wang, Yueqi Duan, Henghui Ding, Yap-Peng Tan, Kim-Hui Yap, and Junsong Yuan. Learning transferable
+
+human-object interaction detector with natural language su- pervision. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 939–948, June 2022. 1, 3
+New departments, new areas of study Along the way, the Center for Machine Translation became the Language Technologies Institute, and other new departments were formed, including the Human-Computer Interaction Institute (1993), the Institute for Software Research (1999), the Machine Learning Department (2006) and the Ray and Stephanie Lane Center for Computational Biology (2009). SCS’s seven degree-granting departments draw faculty and students from a wide variety of disciplines, including
+8. User interfaces, 1983 Why should humans adapt to fit computers? Shouldn’t computers adapt to fit humans? That was the attitude of CMU researchers, who applied design principles to computer science to develop better, easier-to-use interfaces. They called the new field “human-computer interaction.”
+Launching a Robotics Institute In 1979, an executive at Pittsburgh’s Westinghouse Electric Corp., Tom Murrin, collaborated with Jordan and Reddy to create the Robotics Institute, with Reddy as its first director. By 1982, the Computer Science Department included more than 30 faculty members and 100 graduate students.
+
+
+Answer: 

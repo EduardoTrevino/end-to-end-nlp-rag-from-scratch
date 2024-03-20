@@ -1,0 +1,174 @@
+Question: In fall 2023, Who is the instructor for unit 02718?
+
+Context: Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong. 2023a. Compositional ex- emplars for in-context learning. arXiv preprint arXiv:2302.05698.
+
+Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. 2023b. In-context instruction learning. arXiv preprint arXiv:2302.14691.
+
+Yiming Zhang, Shi Feng, and Chenhao Tan. 2022a. Active example selection for in-context learning. CoRR, abs/2211.04486.
+Zichao Wang, Jakob Valdez, Debshila Basu Mallick, and Richard G. Baraniuk. Towards human-like educational question generation with large language models. In Maria Mercedes Rodrigo, Noburu Matsuda, Alexandra I. Cristea, and Vania Dimitrova, editors, Artiﬁcial Intelligence in Education, pages 153–166, Cham, 2022. Springer International Publishing. ISBN 978-3-031-11644-5.
+
+Brendan Wyse and Paul Piwek. Generating questions from openlearn study units. In AIED 2009 Workshop Proceedings
+Renze Lou, Kai Zhang, and Wenpeng Yin. 2023. Is prompt all you need? no. a comprehensive and broader view of instruction learning. ArXiv, abs/2303.10475.
+
+Ximing Lu, Sean Welleck, Liwei Jiang, Jack Hessel, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, and Yejin Choi. 2022a. Quark: Controllable text generation with reinforced unlearning. CoRR, abs/2205.13636.
+Instructors: Martelaro, Saffer,Zimmerman, Musuraca
+
+Fall 2023
+
+Course number: 05618
+
+Title: Human AI Interaction
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: SH 234
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhu
+
+Fall 2023
+
+Course number: 05630
+
+Title: Programming Usable Interfaces:
+
+Units: 15.0
+
+Section: A,E,B,C,D,Lec,
+
+Days: M, ,W,MW
+
+Start: 08:00AM, ,09:30AM
+
+End: 10:50AM,09:20AM,
+
+Room: WEH 5310,TEP 1403,PH 226B,WEH 6403, ,PH 125B
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 57618
+
+Title: Independent Study in Conducting
+
+Units: 3-9
+
+Section: A,E,B,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Curtis,Instructor TBA,Colwell
+
+Fall 2023
+
+Course number: 57619
+
+Title: Independent Study in Opera
+
+Units: 3-9
+
+Section: A,E,B,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Dueck
+
+Fall 2023
+
+Course number: 57620
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Fall 2023
+
+Course number: 02602
+
+Title: Professional Issues for Computational and Automated Scientists
+
+Units: 3.0
+
+Section: A
+
+Days: R
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brasier, DeBlasio
+
+Fall 2023
+
+Course number: 02613
+
+Title: Algorithms and Advanced Data Structures
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: DH 2315
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+https://www.cmu.edu/graduate/policies /appeal-grievance-procedures.html .
+
+Final grades will be changed only in exceptiona l circumstances and only with the approval of
+
+the instructor and the department, unit or prog ram. Grading is a matter of  sound discretion of
+
+the instructor and final grades are rarely ch anged without the consent of the instructor who
+
+assigned the grade. The following circumstances are the unusual exceptions that may warrant a
+the instructor and the department, unit, or program. Grading is a  matter of sound discretion of
+
+the instructor, and final grades are rarely changed without the consent of the instructor who assigned the grade. The following circumstances are the unusual exceptions that may warrant a grade appeal:
+
+a) The final grade assigned for a course is based on manifest error (e.g., a clear error such as arithmetic error in computing a grade or failure to grade one of the answers on an exam)
+
+
+Answer: 

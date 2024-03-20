@@ -1,0 +1,47 @@
+Question: How large are the trained models by the authors of SantaCoder paper?
+
+Context: ﬁltering ablations. One of our main ﬁndings was that ﬁltering for Github stars consistently decreased performance across all benchmarks and programming languages. Using the ﬁndings of these abla- tion studies, we trained a ﬁnal 1.1B model—dubbed SantaCoder—for 236B tokens and showed it is able to outperform previous multi-lingual code models (InCoder-6.7B and CodeGen-Multi-2.7B) on both left-to-right generation and inﬁlling tasks. We anticipate that larger architectures and more training data
+6.2 FINAL MODEL
+
+Based on the insights from the architecture and dataset ablations, we train a ﬁnal model, which we call SantaCoder, with MQA and FIM and the two data ﬁlters that yielded the best results: more near- deduplication and comments-to-code ﬁlter. We train this model for 600K iterations (236B tokens) and keep all other hyper-parameters the same.
+Findings We ﬁnd all BigCode Santa variants with 1.1B parameters to outperform the 6.7B In- Coder model (Fried et al., 2022), which we attribute to differences in the training datasets. Among BigCode models, variants trained on more Python perform better: The stars variant with 32% of Python in its training corpus outperforms the tokenizer fertility variant with only 28.5% of Python (see proportions in Table 3). The bfloat16 is the same as the no-ﬁm variant, except for the lat- ter being trained
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+4.4.3  Breadth Courses:  Machine Learning  ................................................................................ 15
+
+4.5 Practice Requirements  ................................................................................................................... 16
+
+4.6 Registration Process/Procedures  ................................................................................................. 17
+
+
+Answer: 

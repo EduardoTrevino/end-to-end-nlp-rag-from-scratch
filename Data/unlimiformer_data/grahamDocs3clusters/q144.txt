@@ -1,0 +1,162 @@
+Question: Which two faculty are co-teaching the neural code generation course?
+
+Context: Junxian He, Jiatao Gu, Jiajun Shen, and Marc’Aurelio Ranzato. 2020. Revisiting self-training for neural sequence generation. In International Conference on Learning Representations.
+
+Geoffrey Hinton, Oriol Vinyals, Jeff Dean, et al. 2015. Distilling the knowledge in a neural network. arXiv preprint arXiv:1503.02531, 2(7).
+
+Neil Houlsby, Ferenc Huszár, Zoubin Ghahramani, and Máté Lengyel. 2011. Bayesian active learning for classification and preference learning. arXiv preprint arXiv:1112.5745.
+Hiroaki Hayashi, Yusuke Oda, Alexandra Birch, Ioannis Konstas, Andrew Finch, Minh-Thang Luong, Graham Neubig, and Katsuhito Sudoh. Findings of the third workshop on neural generation and translation. In Proceedings of the 3rd Workshop on Neural Generation and Translation, pp. 1–14, Hong Kong, November 2019. Association for Computational Linguistics. doi: 10.18653/v1/ D19-5601. URL https://aclanthology.org/D19-5601.
+
+10
+Kenneth Heafield, Hiroaki Hayashi, Yusuke Oda, Ioannis Konstas, Andrew Finch, Graham Neubig, Xian Li, and Alexandra Birch. Findings of the fourth workshop on neural generation and translation. In Proceedings of the Fourth Workshop on Neural Generation and Translation, pp. 1–9, Online, July 2020. Association for Computational Linguistics. doi: 10.18653/v1/2020.ngt-1.1. URL https://aclanthology.org/2020.ngt-1.1.
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Instructors: Kurnikova
+
+Spring 2024
+
+Course number: 09616
+
+Title: Neural Networks & Deep Learning in Science
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 3SC 110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Isayev
+
+Spring 2024
+
+Course number: 09621
+
+Title: Welcome to the Future Lab - Science in the Cloud
+
+Units: 6.0
+
+Section: A3
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: WEH 5202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Das
+
+Spring 2024
+Course number: 10725
+
+Title: Convex Optimization:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room: TEP 1403,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Poczos
+
+Spring 2024
+
+Course number: 10733
+
+Title: Representation and Generation in Neuroscience and AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wehbe
+
+Spring 2024
+
+Course number: 10735
+
+Title: Responsible AI
+Language Technologies Institute - Faculty Name: Alexander Waibel Email: waibel@cs.cmu.edu Office: 205 407 South Craig Street Research Areas: Spoken Language Translation, Machine Translation, Speech Processing, Neural Networks, Machine Learning, Multimodal Interaction, Dialog Processing Phone: 412-268-7676
+Language Technologies Institute - Faculty Name: Daniel Fried Email: dfried@andrew.cmu.edu Research Areas: Natural Language Processing: Language and Code, Conversational AI, Intelligent Agents, and Dialogue, Discourse and Pragmatics, Multimodal AI
+
+Language Technologies Institute - Faculty Name: Anatole Gershman Email: anatole.gershman@cs.cmu.edu Office: 6415 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering Phone: 412-268-8259
+Language Technologies Institute - Faculty Name: Daphne Ippolito Email: daphnei@cmu.edu Research Areas: Natural Language Generation, Privacy and Security, Language Technology Application Areas/Issues, Creativity Phone: 412-268-7250
+
+Language Technologies Institute - Faculty Name: Lori Levin Email: lsl@cs.cmu.edu Office: 5717 Gates & Hillman Centers Research Areas: Machine Translation, Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources Phone: 412-268-6193
+
+
+Answer: 

@@ -1,0 +1,189 @@
+Question: Is Annual International ACM SIGIR Conference on Research and Development in Information Retrieval the publication venue for DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization
+
+Context: Paper title: 'OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit' Published year: 2023 Publication venue or conference: Annual International ACM SIGIR Conference on Research and Development in Information Retrieval Authors: Zhenghao Liu, Chenyan Xiong, Zhiyuan Liu, Shi Yu Summary: As a full upgrade of OpenMatch proposed in 2021, OpenMatch-v2 incorporates the most recent advancements of PLM-based IR research, providing support for new, cross-modality models and
+Paper title: 'Unsupervised Dense Retrieval Training with Web Anchors' Published year: 2023 Publication venue or conference: Annual International ACM SIGIR Conference on Research and Development in Information Retrieval Authors: Yiqing Xie, Chenyan Xiong, X. Liu Summary: This work trains an unsupervised dense retriever, Anchor-DR, with a contrastive learning task that matches the anchor text and the linked document, and presents a novel filtering technique to only select anchors that contain
+the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval, page 39–48, New York, NY, USA. Association for Computing Machinery.
+
+Yubin Kim. 2022. Applications and future of dense retrieval in industry. In Proceedings of the 45th In- ternational ACM SIGIR Conference on Research and Development in Information Retrieval, pages 3373– 3374.
+Instructors: Quesenberry,Poepping,Liginlal,Heimann,Sooriamurthi,Hagan,Huang,Tu
+
+Summer 2024
+
+Course number: 67505
+
+Title: Information Systems Internship
+
+Units: 1-3
+
+Section: A,W,B,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Avery,Dandoy,Di Lisio,Instructor TBA,Lutz
+
+Summer 2024
+
+Course number: 95565
+
+Title: Introduction to Information Security
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HBH 1004
+Locations: Doha, Qatar
+
+Instructors: Liginlal
+
+Summer 2024
+
+Course number: 67390
+
+Title: Independent Study in Information Systems
+
+Units: 1-12
+
+Section: A,C,D,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Heimann,Sooriamurthi,Hagan,Quesenberry
+
+Summer 2024
+
+Course number: 67393
+
+Title: Guided Research in Information Systems
+
+Units: VAR
+
+Section: A,M,O,B,C,D,N,L
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Li,Labash,Ciccone,Kolowitz,Lightman,Smalley,Shaikh,Meyer,Costa,DeSantis,Dwivedi,Yucel,Vadlamudi,Stephens,Trzeciak,Yasar,Tucker,Smith,Bigrigg,Kowalsky,Jafry O'Connor,Spooner,Chen
+
+Fall 2023
+
+Course number: 95721
+
+Title: Information Systems Research Practicum
+
+Units: VAR
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhang
+
+Fall 2023
+
+Course number: 95722
+
+Title: Digital Transformation
+
+Units: 6.0
+
+Section: D2,A2
+
+Days: TR
+In the spring, the Task Force partnered with SME Branding — a firm with more than 17 years of experience creating mascots for professional sports teams and universities — to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+1946 Raceday: Prelims on Friday, May 3 at 4:30pm; Finals on Saturday, May 11* at 2:00pm
+
+Sweepstakes Committee: John H. Siepel (Chair)
+
+Race Results: (1) DTD (3:49? ); (2) KapSig; (DQ) PiKA
+
+Design Comp: (1) Beta
+
+Weather: Cloudy, High 66/Low 47 on Friday; Rain on Saturday, May 4; Overcast, High 67/Low 49 on Saturday, May 11
+
+1946 saw the return of Buggy, though not all of the Fraternities were back yet. It also saw a rain delay and a very controversial result.
+in all-things information - including locatin g and obtaining specific resources, providing
+
+specialized research support, advanced training in  the use and management of data. Sign up for
+
+workshops and hands-on topic-spe cific sessions such as data visualization with Tableau,
+
+cleaning data with OpenRefine, and getting st arted with Zotero. Weekly drop-in hours for
+
+Digital Humanities and for Rese arch Data Research Managem ent are scheduled during the
+study or meet up with friends. GSA also maintai ns a website of graduate student resources on
+
+and off-campus. Through GSA’s continued funding  for professional development and research
+
+conferences, the GSA/Provost Conference Funding  Program and GSA/Provost GuSH Research
+
+Grants are able to run, as managed by the Gradua te Education Office. As we move forward, GSA
+
+will continue to rely on your feedback to impr ove the graduate student experience at CMU. Feel
+on and off- campus. Through GSA’s continued funding for professional development and
+
+research conferences, the GSA/Provost Conference Funding Program and GSA/Provost GuSH Research Grants are able to run, as managed by the Graduate Education Offi ce. As we move
+
+forward, GSA will continue to rely on your feedback to improve the graduate student experience at CMU. Feel free to contact us at gsa@cmu.edu
+
+to get involved, stop by our o ffice
+
+
+Answer: 

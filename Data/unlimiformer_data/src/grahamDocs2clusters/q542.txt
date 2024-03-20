@@ -1,0 +1,81 @@
+Question: Who is CMU's first official mascot?
+
+Context: Christian Huber1, Tu Anh Dinh1, Carlos Mullov1, Ngoc Quan Pham1, Thai Binh Nguyen1, Fabian Retkowski1, Stefan Constantin1, Enes Yavuz Ugan1, Danni Liu1, Zhaolin Li1, Sai Koneru1, Jan Niehues1 and Alexander Waibel1,2 1Karlsruhe Institute of Technology, Karlsruhe, Germany firstname.lastname@kit.edu 2Carnegie Mellon University, Pittsburgh PA, USA alexander.waibel@cmu.edu
+
+Abstract
+Room: CMU REMOTE,CMR F307
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Fall 2023
+
+Course number: 18726
+
+Title: Projects in Integrated Circuit Design: First Silicon
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mai
+
+Fall 2023
+
+Course number: 18729
+
+Title: Special Topics in Circuits:
+
+Units: 12.0
+
+Section: C,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,ANS C02
+3 2 0 2
+
+n u J
+
+0 3
+
+] L C . s c [
+
+1 v 1 0 1 0 0 . 7 0 3 2 : v i X r a
+
+Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models
+
+Harnoor Dhingra
+
+Preetiha Jayashanker
+
+Sayali Moghe
+
+Emma Strubell
+
+Carnegie Mellon University {hdhingra, pjayasha, smoghe, estrubel}@cs.cmu.edu
+
+Abstract
+
+quantify the detected biases. Hence, in this work we aim to answer the following research questions:
+Official Mascot? More than a century after Carnegie Mellon University opened its doors, an official mascot finally made its mark. Although students have dressed as a Scottish terrier — typically referred to as Scotty — for 50 years, it wasn't until 2007 that Carnegie Mellon officially welcomed the Scottish terrier as the university's first mascot.
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+In keeping with tradition, students, faculty, staff and alumni voted to name the new official mascot Scotty. But it's not just the costumed mascot that voters named. The live dog is also known as Scotty to the Carnegie Mellon community.
+
+
+Answer: 

@@ -1,0 +1,159 @@
+Question: In spring 2024, When is the final deadline for withdrawing from a Mini-3 course?
+
+Context: Fall 2023
+
+Course number: 60454
+
+Title: Adv Studio: Small Things:Quiet interventions, Miniatures & the Power of Everyday
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: DH C300
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yeh
+
+Fall 2023
+
+Course number: 60470
+
+Title: Advanced DP3: Special Topic: Painting The Unconscious
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 310
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ray
+
+Fall 2023
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A1
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33224
+
+Title: Stars, Galaxies and the Universe
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,T
+
+Start: 03:00PM,07:00PM
+
+End: 07:50PM,03:50PM
+
+Room: HH B103,POS 151
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mandal
+
+Spring 2024
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A3
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: GHC 4102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mandal
+
+Spring 2024
+
+Course number: 33226
+
+Title: Physics of Energy
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 7500
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dodelson
+
+Spring 2024
+Monday ; Event - Mini-3 pass/no pass & withdrawal deadline (3) Date -  February 19 ; Day - Monday ; Event - Mini-3 Faculty Course Evaluations open Date -  February 26 ; Day - Monday ; Event - Semester course drop deadline; withdrawal grade assigned after this date (2) Date - March 1 ; Day - Friday;  Mini-3 Last Day of Classes Date -  March 1 ; Day - Friday ; Event - Mini-3 voucher deadline (4) Date -  March 2 ; Event - Mini-3 Exams Date -  March 2 ; Event - Mini-3 Faculty Course Evaluations
+date (2) Date -  February 17 ; Day - Monday ; Event - Mini-3 pass/no pass & withdrawal deadline (3) Date -  February 17 ; Day - Monday ; Event - Mini-3 Faculty Course Evaluations open Date - February 24 ; Day - Monday; Event - Semester course drop deadline; withdrawal grade assigned after this date (2) Date -  February 28 ; Day - Friday ; Event - Mini-3 Last Day of Classes Date -  February 28 ; Day - Friday ; Event - Mini-3 voucher deadline (4) Date -  March 1 ; Event - Mini-3 Exams Date -
+Date -  February 19 ; Day - Monday ; Event - Mini-3 drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  February 19 ; Day - Monday ; Event - Mini-3 Faculty Course Evaluations open
+
+Date -  March 1 ; Day - Friday ; Event - Mini-3 Last Day of Classes
+
+Date -  March 1 ; Day - Friday ; Event - Mini-3 withdrawal deadline
+
+Date -  March 2 ; Event - Mini-3 Exams
+
+Date -  March 2 ; Event - Mini-3 Faculty Course Evaluations close
+
+
+Answer: 

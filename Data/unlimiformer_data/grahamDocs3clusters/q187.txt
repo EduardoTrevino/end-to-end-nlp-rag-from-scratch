@@ -1,0 +1,174 @@
+Question: In the paper "Modeling Empathic Similarity in Personal Narratives", what is the name of the dataset created for this task?
+
+Context: Abigail See, Aneesh Pappu, Rohun Saxena, Akhila Yerukola, and Christopher D Manning. 2019. Do massively pretrained language models make better In Proceedings of the 23rd Confer- storytellers? ence on Computational Natural Language Learning (CoNLL), pages 843–861.
+
+Jocelyn Shen, Maarten Sap, Pedro Colon-Hernandez, Hae Won Park, and Cynthia Breazeal. 2023. Model- ing empathic similarity in personal narratives.
+Figure 2: Spearman (upper left) and Pearson (lower right) correlations between performance on suite tasks. All models from Table 1 are used.
+
+Surprisingly, the best model for human similarity is a simple count-based model. Semantic word embeddings perform worse than explicit phonetic embeddings, most notably on human similarity and analogies. However, they do perform reasonably on cognate detection.
+Inspired by Fourrier (2022), we probe our model for diachronic information on how genetically re- lated each Romance language is to each other. We create a distance matrix between every pair of lan- guages in a dataset by taking the cosine similarity between a pair’s language embeddings. We then use sklearn (Pedregosa et al., 2011)’s implementa- tion of the Ward variance minimization algorithm (Ward Jr, 1963) to perform hierarchical clustering on the distance matrix. We take a consensus of the
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: PH 125C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Suarez-Pena
+
+Fall 2023
+
+Course number: 54196
+
+Title: Harvesting Personal Narratives: A Writing Workshop
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Goldberg, Seitz
+
+Fall 2023
+
+Course number: 54200
+
+Title: Dramaturgy Forum
+
+Units: 1.0
+
+Section: A
+
+Days: F
+
+Start: 04:00PM
+Course number: 82295
+
+Title: 20th Century Russian Masterpieces
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH 125C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gershkovich
+
+Spring 2024
+
+Course number: 82296
+
+Title: From Augustine to Avatars: Personal Narratives Across Media
+
+Units: 9-12
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: DH 2105
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gershkovich
+
+Spring 2024
+
+Course number: 82297
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kirk, Swenson
+
+Fall 2023
+
+Course number: 62195
+
+Title: Creative and Dramatic Writing for Engineers
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: PH 125C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Suarez-Pena
+
+Fall 2023
+
+Course number: 62196
+
+Title: Harvesting Personal Narratives: A Writing Workshop
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+5. Emoticons, 1982 Sure, it was just a joke, but (for better or worse) it’s endured for more than three decades. CMU researcher Scott Fahlman created the emoticon to clear up misunderstandings on computer message boards. We’ve been looking at the world sideways ever since. :-)
+career development, experiential learning, and em ployer relations shaped by strong connections
+
+with the university's seven academic colleges. The center's success is founded upon a solid
+
+understanding of career and professional developm ent theory, integration of technology, and an
+
+unwavering commitment to providing personal ized attention towards meeting the unique
+
+individual needs of students, al umni, and employers. The CDPC is located on the second floor of
+CMU's career and professional development model is grounded in discipline -specific career
+
+development, experiential learning, and employ er relations shaped by strong connections with
+
+the university's seven academic colleges. The center's success is founded upon a solid
+
+understanding of career and professional development theory, integration of technology, and
+
+an unwavering commitment to providing personalized attention towards meeting the unique
+
+
+Answer: 

@@ -1,0 +1,188 @@
+Question: For additional information about the MSAII program, who should you contact?
+
+Context: Inception, Mohamed bin Zayed University of Artificial (MBZUAI), and Cerebras Systems. Arabic (MSA) and English Pretrained model – 13B parameters. Text-only data. Model generates text. GPT-3 with dense attention, 40 decoder blocks, 40 attention heads, 5,120 hid- den size, SwiGLU activation and ALiBi positional embeddings. Jais was trained between 23 June 2023 and 18 July 2023 This static model has been trained using an offline dataset. As we enhance the model safety based on community feedback,
+Inception, Mohamed bin Zayed University of Artificial (MBZUAI), and Cerebras Systems. Arabic (MSA) and English Instruction-tuned model – 13B parameters. Text-only data. Model generates text. GPT-3 with dense attention, 40 decoder blocks, 40 attention heads, 5,120 hid- den size, SwiGLU activation, and ALiBi positional embeddings. Jais-chat was trained between 11 August 2023 and 13 August 2023. This static model has been trained using an offline dataset. As we enhance the model safety based on
+from Tsinghua University) for providing their Chinese datasets as part of the challenge data. Thanks to Unbabel for providing the COMET MTQE scores annotations as part of the challenge data. This contribution was supported by national funds through Fundação para a Ciência e a Tecnologia (FCT) with references PRT/BD/152198/2021 and UIDB/50021/2020, and by the P2020 program MAIA led by Unbabel (LISBOA-01-0247-FEDER- 045909). We also give thanks to MS Azure services (especially to Irving Kwong)
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 11699
+
+Title: MSAII Program Capstone
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11700
+
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,P
+
+Days: TBA,F
+
+Start: ,02:00PM
+
+End: ,03:20PM
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Rose
+
+Fall 2023
+
+Course number: 11635
+
+Title: Data Science Capstone Research
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Fall 2023
+
+Course number: 11636
+
+Title: MSAII Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Fall 2023
+Section: A,
+
+Days:  ,MW
+
+Start: 08:00AM,
+
+End: 09:20AM,
+
+Room:  ,SH 236
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg
+
+Spring 2024
+
+Course number: 11635
+
+Title: Data Science Capstone Research
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11636
+
+Title: MSAII Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+For specific application/admissions questions, please contact Amber Vivis. Handbook: For a complete breakdown of the MSAII program and its policies, including information about internships, please view the MSAII Handbook. Additional Info: For more about the MSAII program, visit the MSAII website, or contact Amber Vivis.
+Students must contact the MSAII Director to discuss their plans and fill out the appropriate form. The student’s place in the program will be  held until a mutually  determined time. For
+
+more information refer to www.cmu.edu/policies/student-and-student-life/student-leave.html .
+
+When planning to return from Leave of Abs ence students must complete the appropriate
+
+paperwork before returnin g to the University.
+
+MSAII students who require longer than the standard time to complete their degree
+returning) for personal, medical or academic reasons must contact the MSAII Director to
+
+discuss their plans and fill out the appropri ate form. For more information refer to
+
+www.cmu.edu/policies/student-and- student-life/student-leave.html .
+
+11.2 Tuition and Fees
+
+Information about tuition and fees is available at https://www.cmu.edu/sfs/tuition/index.html .
+
+MSAII students will pay tuition according to the ra tes set for the School of Computer Science.
+
+
+Answer: 

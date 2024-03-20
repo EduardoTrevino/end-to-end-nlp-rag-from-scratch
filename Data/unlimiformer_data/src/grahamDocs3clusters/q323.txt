@@ -1,0 +1,148 @@
+Question: What time in the day does SafeWalk end?
+
+Context: If-needed rules are not checked until a value is explicitly requested, so adding knowledge “10:30 AM is the start time of meeting 27” and “11:30 AM is the end time of meeting 27” should not activate any triggers. The absence of any inherited triggers on {start time} and {end time} ensures this behavior. Once the value for the slot ﬁller {the duration of meeting 27} is requested, an upscan is performed on role node {duration}, which ﬁnds trigger (R C). This trigger is activated by substituting
+Suppose we ﬁnd out that “11:30 AM is the end time of meeting 27” and add this to the knowledge base. This causes an upscan on {end time} to ﬁnd inherited rule triggers, which ﬁnds trigger (R B C) on {end time}. Activating the rule trigger by substituting {11:30 AM} for B and {meeting 27} for C (as shown in Figure 4.5) is successful because there are no violated predicates, so the search algorithm looks for an element for the unsubstituted variable A.
+Fig. 19. Top-level node decomposition: The AGV can stop safely when encountering obstacles.
+
+of reaction time it starts to decelerate and brakes at a distance of 𝑥 meters. In order to avoid a collision with the obstacle, the left AGV needs to generate sufficient deceleration. However, if the deceleration is too large, it may cause the goods on the AGV to slide or even fall thus causing a safety hazard.
+Title: Special Topics: Provably Safe Robotics
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liu
+
+Spring 2024
+
+Course number: 16886
+
+Title: Special Topics: Models & Algorithms for Interactive Robotics
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: GHC 4101
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bajcsy
+
+Spring 2024
+
+Course number: 16891
+Instructors: Gordon, Talwalkar
+
+Spring 2024
+
+Course number: 10422
+
+Title: Foundations of Learning, Game Theory, and Their Connections
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: GHC 4211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Balcan
+
+Spring 2024
+
+Course number: 10423
+
+Title: Generative AI
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gormley, Li, Lipton
+
+Spring 2024
+Section: S2,S1,A1, ,A2
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations: San Jose, California, ,Pittsburgh, Pennsylvania
+
+Instructors: Tsamitis
+
+Fall 2023
+
+Course number: 14735
+
+Title: Secure Coding
+
+Units: 12.0
+
+Section: A,SV,Lec 1,Lec 3,Lec 2,RW
+
+Days: F,TR
+
+Start: 06:00PM,09:30AM,09:00AM,12:00PM,12:30PM,06:30PM
+
+End: 12:50PM,01:50PM,09:50AM,07:50PM,10:50AM,06:50PM
+
+Room: B23 227,INI DEC,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+SafeWalk provides another option to campus community members walking across and around campus during late-night hours. SafeWalk is a student volunteer organization that provides campus escorts for all members of the Carnegie Mellon community. SafeWalk operates nightly during the regular academic year (except certain holidays and break periods) from 10pm until 2am. Students, faculty and staff may request an escort by calling 412-268-SAFE (8-7233 from a campus phone), by approaching an escort
+SafeWalk provides another option to campus community members walking across and around
+
+campus during late-night hours. SafeWalk is a st udent volunteer organiza tion that provides
+
+campus escorts for all members of the Carnegie  Mellon community. SafeWalk operates nightly
+
+during the regular academic year (except certain holidays and break periods) from 10pm until
+
+2am. Students, faculty, and staff may request an escort by calling 412-268-SAFE (8-7233 from a
+SafeWalk provides another option to campus community members walking across and around campus during late -night hours. SafeWalk is a student volunteer organization that provides
+
+campus escorts for all members of the Carnegie Mellon community. SafeWalk operates nightly MLT Graduate Student Handbook  Page 35
+
+during the regular academic year (except certain holidays and break periods) from 10pm until
+
+
+Answer: 

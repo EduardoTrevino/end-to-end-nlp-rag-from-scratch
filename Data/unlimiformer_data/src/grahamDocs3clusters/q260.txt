@@ -1,0 +1,102 @@
+Question: Who provides a signal for buggy drivers to start the right-hand turn from Schenley Drive onto Frew Street?
+
+Context: Caretaker says: green Act : move forward Obs : Just to the left of you there is a unactivated green lever Just to the right of you there is a unactivated blue lever Caretaker says: green Act : turn left Obs : Right in front of you there is a unactivated green lever Caretaker says: green Act : toggle Obs : Right in front of you there is a activated green lever Caretaker says: green Act : turn left Obs : 6 steps in front of you and 2 steps to the left there is a
+
+green applegenerator
+Caretaker says: green Act : turn right Obs : 2 steps in front of you and 1 steps to the left there is a
+
+closed green lockablebox
+
+Just to the left of you there is a green switch Caretaker says: green Act : move forward Obs : 1 steps in front of you and 1 steps to the left there is a
+
+closed green lockablebox
+the text matching signals. It helps to learn more effective representa- tions for these long-tail items, alleviates the “cold start” problem, and makes TASTE return more text-relevant items as the recom- mendation result. Thrives on our attention sparsity method, TASTE has the ability to reduce the GPU memory and achieves more than 2% improvements by modeling longer user-item interaction history. All experimental results show that the behavior modeling of user purchases and visits starts to be
+Instructors: Pisztora,Wiesel,Hrusa,Bukh,Bohman,Tkocz,Shkolnikov,Grossberg,Frieze,Neumayer,Pegden,Frick,Anderson,Rosenzweig,Instructor TBA,Schimmerling,Tice,Statman,Tetali,Conley,Kinderlehrer,Fonseca,Young,Loh,Cummings,Slepcev,Iyer,Walkington,Leoni,Kramkov,Larsson,Tikhomirov
+
+Spring 2024
+
+Course number: 21901
+
+Title: Master's Degree Research
+
+Units: 0-99
+
+Section: E,I,F,D,P,C,J,S,A,K,B,T,H,L,M,R,O,Q,G,N
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Section: A,B,C,Lec,
+
+Days: R,W,F,T,TR
+
+Start: 01:00PM,12:00PM,11:00AM,07:00PM,12:30PM
+
+End: 09:50PM,11:50AM,01:50PM,12:50PM
+
+Room: SH 236,HH 1107,HH 1305,DH 2210
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nace, Zajdel,
+
+Fall 2023
+
+Course number: 18290
+
+Title: Signals and Systems
+
+Units: 12.0
+
+Section: A,B,C,D,Lec
+
+Days: F,MW
+
+Start: 12:00PM,10:00AM,11:00AM,09:00AM
+
+End: 11:50AM,10:50AM,12:50PM,09:50AM
+
+Room: SH 234,WEH 5415,WEH 4623,HOA 160
+
+Locations: Pittsburgh, Pennsylvania
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pisztora,Wiesel,Hrusa,Bukh,Bohman,Tkocz,Shkolnikov,Grossberg,Frieze,Neumayer,Pegden,Frick,Anderson,Instructor TBA,Schimmerling,Tice,Statman,Tetali,Conley,Kinderlehrer,Fonseca,Young,Loh,Cummings,Slepcev,Iyer,Walkington,Leoni,Kramkov,Larsson,Fonseca, Leoni,Tikhomirov
+
+Fall 2023
+
+Course number: 21901
+
+Title: Master's Degree Research
+
+Units: 0-99
+
+Section: E,I,F,D,P,C,J,S,A,K,B,H,L,M,R,O,Q,G,N
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Sweepstakes Slang
+
+Buggy: Vehicle being raced and also a nickname for the competition.
+
+Chute: A section of the freeroll portion of the buggy course (near the southwestern end of Frew Street at its intersection with Schenley Drive) where buggies make the sharp righthand turn from Schenley Drive onto Frew Street.
+
+Chute Flagger: Team member who provides a signal for buggy drivers to know when to start the right-hand turn from Schenley Drive onto Frew Street.
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+The starting line from the inaugural race in June 1920 was outside what is now known as the College of Fine Arts building. Racers then traveled toward Margaret Morrison Carnegie Hall, went up Tech Street, down through Schenley Park and then turned back to campus. Buggies would then take pit stops and have their rear wheels swapped before heading back toward the starting line.
+
+Alpha Kappa Psi, the first sorority to enter a Buggy on race day, in 1922.
+
+
+Answer: 

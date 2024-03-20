@@ -1,0 +1,51 @@
+Question: Are guests allowed to play in the tennis court?
+
+Context: Engaging: The response is somewhat engaging. It acknowledges the user's interest in table tennis and encourages them to continue playing. 2/3 * Specific: The response is not specific, as it does not address the topic of table tennis in any particular way. 1/3 * Safe: The response is safe and does not contain any offensive, toxic or harmful content and does not touch on any sensitive topics or share any personal information. 3/3 * User understanding: The response shows some understanding of the
+night. Provision for children to play (under supervi- sion). In summer people sleep in open. Pedestrian traﬃc within village. Eﬃcient use of school; no distraction of stu- dents.
+
+77
+
+Village and individual houses must be pro- tected from ﬁre.
+
+Unpaired rpg Set 13
+
+5 10 20
+
+24
+
+37
+
+102 128 131 140
+after his semi - final win in Beijing , his phone was flooded with
+
+loyal messages from the coaches and players . This sparked his realization that it had become bigger than tennis , and they had become a family trying to keep in touch no matter how far apart they
+
+all were . He feels it has helped provide a support system for everyone , both on and off the court , at a time when they really needed it the most .
+
+(... Truncated )
+
+B.2.3 Sample 3 - [urlsf_subset04]-[230559]-web
+Skibo Gym facilities include courts for basketball, volleyball, badminton, as well as weight- training and aerobic equipment. The University Center’s recreational facilities include an eight- lane pool, racquetball and squash courts, aerobics room, fitness center and gym for basketball and volleyball. All users must present a current Carnegie Mellon Card to use these facilities. More information can be found at: http://www.cmu.edu/athletics 6.19 CMU Alert CMU Alert sends voice and/or text
+Skibo Gym facilities include courts for basketba ll, volleyball, badminton, as well as weight-
+
+training and aerobic equipment. The University Cent er’s recreational facilities include an eight-
+
+lane pool, racquetball and squash courts, aerobi cs room, fitness center and gym for basketball
+
+and volleyball. All users must pr esent a current Carnegie Mellon Card to use these facilities. 41
+
+13.19  CMU Alert
+
+www.cmu.edu/alert
+workshops and instruction related to fitness and health. The Athletics Office is located in the
+
+Skibo Gymnasium. MIIS Graduate Student Handbook  Page 38
+
+Skibo Gym facilities include courts for basketball, volleyball, badminton, as well as weight -
+
+training and aerobic equipment. The University Center’s recreational facilities include an
+
+eight- lane pool, racquetball and squash courts, aerobics room, fitness center and gym for
+
+
+Answer: 

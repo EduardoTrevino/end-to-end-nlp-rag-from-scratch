@@ -1,0 +1,164 @@
+Question: How many system submissions does GlobalBench currently cover?
+
+Context: In Task 1, 4 teams participated, which provided a total of 16 submissions. Participants were asked to provide a brief description of the system for their proposals. The two system descriptions provided by the participants are shown below:
+for different tasks. MultiBench spans 10 diverse modalities (images, video, audio, text, time-series, various robotics sensors, sets, and tables), 15 prediction tasks (humor, sentiment, emotions, mortality rate, ICD-9 codes, image-captions, human activities, digits, robot pose, object pose, robot contact, and design interfaces), and 5 research areas (affective computing, healthcare, multimedia, robotics, and HCI). These datasets are designed to test a combination of feature learning and
+We use LLaVA-Bench (Liu et al., 2023a) and our MMHAL-BENCH as our main evaluation met- rics for their high alignment with human preferences. In addition, we conducted tests on widely- recognized Large Multimodal Model benchmarks. We employed MMBench (Liu et al., 2023b), a multi-modal benchmark offering an objective evaluation framework comprising 2,974 multiple- choice questions spanning 20 ability dimensions. This benchmark utilizes ChatGPT to juxtapose model predictions against desired
+Instructors: Leben
+
+Fall 2023
+
+Course number: 46901
+
+Title: Financial Computing I
+
+Units: 6.0
+
+Section: I1,M1
+
+Days: TR
+
+Start: 01:00PM
+
+End: 02:30PM
+
+Room: BRD 507,TCS 250
+
+Locations: New York, New York,Pittsburgh, Pennsylvania
+
+Instructors: Ostlund
+
+Fall 2023
+
+Course number: 46904
+
+Title: Financial Computing IV
+
+Units: 6.0
+
+Section: I1,M1
+
+Days: MW
+
+Start: 01:00PM
+
+End: 02:30PM
+
+Room: BRD 507,TCS 250
+
+Locations: New York, New York,Pittsburgh, Pennsylvania
+
+Instructors: Kramkov
+
+Fall 2023
+Title: Global Technology Consulting Groundwork
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mertz
+
+Spring 2024
+
+Course number: 67331
+
+Title: Technology Consulting in the Global Community
+
+Units: VAR
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mertz
+
+Spring 2024
+
+Course number: 67364
+
+Title: Practical Data Science
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+End: ,03:45PM,08:15PM,06:45PM,05:45PM,09:45PM
+
+Room: TBA,TEP 2110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rakach,Ytsma,Sudbury
+
+Spring 2024
+
+Course number: 45711
+
+Title: Global Economics:
+
+Units: 6.0
+
+Section: B4, ,A4,C4
+
+Days:  ,TR
+
+Start: 08:00AM, ,10:00AM,02:00PM
+
+End: 03:45PM,09:45AM, ,11:45AM
+
+Room:  ,TEP 2110
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Ales
+
+Spring 2024
+
+Course number: 45741
+
+Title: Managing Networks & Organizations:
+
+Units: 6.0
+
+Section: B4, ,A4,C4
+6.9 Computing Services  ........................................................................................................................ 37
+
+6.10  Family and Dependents Resources ............................................................................................. 37
+
+6.11 Domestic Partner Registration  ..................................................................................................... 37
+9.6 Professional Development  .............................................................................................................34
+
+9.7 University Libraries  ........................................................................................................................34
+
+9.8 Computing Services  ........................................................................................................................ 35
+4.13 Intellectual Property Policy  ......................................................................................................... 20
+
+5 Grading and Evaluation  20
+
+5.1 Grading Scale/System  .................................................................................................................... 20
+
+5.2 Pass/Fail Grades  .............................................................................................................................. 20
+
+
+Answer: 

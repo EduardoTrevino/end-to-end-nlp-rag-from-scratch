@@ -1,0 +1,182 @@
+Question: In fall 2023, What is the title of course 05318?
+
+Context: Portnoﬀ (2018) says that the 10 years he has been a teacher in an introductory computer programming course, he has used
+
+Frontiers in Computer Science
+
+05
+
+10.3389/fcomp.2023.1085507
+Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong. 2023a. Compositional ex- emplars for in-context learning. arXiv preprint arXiv:2302.05698.
+
+Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. 2023b. In-context instruction learning. arXiv preprint arXiv:2302.14691.
+
+Yiming Zhang, Shi Feng, and Chenhao Tan. 2022a. Active example selection for in-context learning. CoRR, abs/2211.04486.
+Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+Fall 2023
+
+Course number: 09344
+
+Title: Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,W
+
+Start: 11:00AM,07:00PM
+
+End: 11:50AM,07:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hendrich
+
+Fall 2023
+
+Course number: 09381
+
+Title: Environmental Systems on a Changing Planet: Science & Engineering Addendum
+
+Units: 12.0
+
+Section: A
+
+Days: F
+
+Start: 12:00PM
+
+End: 12:50PM
+
+Room: DH 1112
+End: 03:20PM
+
+Room: 3SC 172
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kaufman
+
+Fall 2023
+
+Course number: 05317
+
+Title: Design of Artificial Intelligence Products
+
+Units: 12.0
+
+Section: A,B
+
+Days: MW,TR
+
+Start: 11:00AM,03:30PM
+
+End: 12:20PM,04:50PM
+
+Room: 4SC 104
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martelaro, Saffer,Zimmerman, Musuraca
+
+Fall 2023
+
+Course number: 05318
+
+Title: Human AI Interaction
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+Fall 2023
+
+Course number: 53831
+
+Title: Building Virtual Worlds
+
+Units: 24.0
+
+Section: A,
+
+Days: R,T
+
+Start: 10:00AM,03:00PM
+
+End: 05:20PM,03:20PM
+
+Room: PTC MPR
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors:  ,Culyba, Walton
+
+Fall 2023
+
+Course number: 53871
+
+Title: Role Playing Game Writing Workshop
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: PTC 2301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Klug
+
+Fall 2023
+
+Course number: 53882
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+Elective course For more information on the MSAII program curriculum and requirements, see the program website. Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+
+
+Answer: 

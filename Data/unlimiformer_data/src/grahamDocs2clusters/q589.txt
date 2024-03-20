@@ -1,0 +1,63 @@
+Question: Who is the last author on WebArena?
+
+Context: Paper title: 'WebArena: A Realistic Web Environment for Building Autonomous Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: Robert Lo, Frank F. Xu, Shuyan Zhou, Xuhui Zhou, Hao Zhu, Uri Alon, Daniel Fried, Abishek Sridhar, Graham Neubig, Yonatan Bisk, Xianyi Cheng Summary: This paper builds an environment for language-guided agents that is highly realistic and reproducible, and creates an environment with fully functional websites from four common domains:
+(1) Information-seeking tasks expect a textual response. Importantly, these tasks in WebArena often require navigation across multiple pages or focus on user-centric content. This makes them distinct from open-domain question-answering (Yang et al., 2018; Kwiatkowski et al., 2019), which focuses on querying general knowledge with a simple retrieval step. For instance, to answer “When was the last time I bought the shampoo”, an agent traverses the user’s purchase history, checking order details
+such as map, calculator, and scratchpad, to best support possible human-like task executions. Lastly, WebArena is complemented by an extensive collection of documentation and knowledge bases that vary from general resources like English Wikipedia to more domain-specific references, such as manuals for using the integrated development tool (Fan et al., 2022). The content populating these websites is extracted from their real-world counterparts, preserving the authenticity of the content served
+14. Web search engines, 1994 The World Wide Web was still in its toddler stage when CMU researcher Michael “Fuzzy” Mauldin (CS’83,’89) developed one of the first successful search engines, Lycos. It was the most-visited site on the Web by 1999.
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+
+
+Answer: 

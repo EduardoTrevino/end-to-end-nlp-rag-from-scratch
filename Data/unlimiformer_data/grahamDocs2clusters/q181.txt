@@ -1,0 +1,65 @@
+Question: What are the results of training 1.1B parameter models on Java, JavaScript, and Python subsets of The Stack and evaluating them on MultiPL-E?
+
+Context: In this tech report, we summarize the learnings of the BigCode community in developing the Santa models, a set of 1.1B-parameter models trained on the Java, JavaScript, and Python subsets of The Stack and evaluated on MultiPL-E (Cassano et al., 2022). We describe the ﬁrst steps of the commu- nity towards developing larger code models and report experiments to de-risk the model architecture and the data processing pipeline. Speciﬁcally, the contributions of this report can be summarized as
+Using the ﬁndings from these experiments, we train a ﬁnal 1.1B parameter model, dubbed SantaCoder, on Python, JavaScript, and Java. This model obtains comparable or stronger performance than previous open-source multilingual models, InCoder-6.7B and CodeGen- Multi-2.7B, on code generation and inﬁlling tasks on the MultiPL-E benchmark for these three languages, despite being substantially smaller.
+
+2 RELATED WORK
+the Java, JavaScript, and Python subsets of The Stack (Kocetkov et al., 2022) and evaluate them on the MultiPL-E text-to-code benchmark (Cas- sano et al., 2022). We ﬁnd that more aggressive ﬁltering of near-duplicates can further boost performance and, surprisingly, that selecting ﬁles from repositories with 5+ GitHub stars deteriorates performance signiﬁcantly. Our best model out- performs previous open-source multilingual code generation models (InCoder- 6.7B and CodeGen-Multi-2.7B) in both
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+10-708, Probabilistic Graphical Models
+
+16-720, Computer Vision
+
+17-631 Information Security, Privacy & Policy
+
+17-781, Mobile and IoT Computing Services
+
+4.4.1 Breadth Courses:  Human Language
+
+11-611, Natural Language Processing
+
+11-624, Human Language for Artificial Intelligence
+
+11-711, Advanced NLP
+
+11-722, Grammar Formalisms
+
+11-724, Human Language for Artificial Intelligence
+
+11-727, Computational Semantics for NLP
+
+11-737, Multilingual NLP
+
+
+Answer: 

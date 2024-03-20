@@ -1,0 +1,152 @@
+Question: What are the four common domains of websites in the WebArena environment?
+
+Context: websites from four common domains: e-commerce, social forum discussions, collaborative software development, and content management. Our environment is enriched with tools (e.g., a map) and external knowledge bases (e.g., user manuals) to encourage human-like task-solving. Building upon our environment, we release a set of benchmark tasks focusing on evaluating the functional correctness of task completions. The tasks in our benchmark are diverse, long-horizon, and designed to emulate tasks
+Paper title: 'WebArena: A Realistic Web Environment for Building Autonomous Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: Robert Lo, Frank F. Xu, Shuyan Zhou, Xuhui Zhou, Hao Zhu, Uri Alon, Daniel Fried, Abishek Sridhar, Graham Neubig, Yonatan Bisk, Xianyi Cheng Summary: This paper builds an environment for language-guided agents that is highly realistic and reproducible, and creates an environment with fully functional websites from four common domains:
+We introduce WebArena, a realistic and reproducible web environment designed to facilitate the development of autonomous agents capable of executing tasks (§2). An overview of WebArena is in Figure 1. Our environment comprises four fully operational, self-hosted web applications, each representing a distinct domain prevalent on the internet: online shopping, discussion forums, collaborative development, and business content management. Furthermore, WebArena incorporates several utility tools,
+Title: Building Better Web Applications
+
+Units: 3.0
+
+Section: A2
+
+Days: MW
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Heimann, Huang
+
+Fall 2023
+
+Course number: 67301
+
+Title: Networks and Telecommunications
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 10:00AM
+
+End: 11:15AM
+
+Room: CMB 3044
+
+Locations: Doha, Qatar
+
+Instructors: Phelps
+
+Fall 2023
+
+Course number: 67309
+
+Title: Special Topics: Information Assurance and Security
+
+Units: 6.0
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Webler
+
+Spring 2024
+
+Course number: 27227
+
+Title: Phase Relations and Diagrams (Minor Option)
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: HH B103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Webler
+
+Spring 2024
+
+Course number: 27305
+
+Title: Introduction to Materials Characterization
+
+Units: 6.0
+
+Section: A,C,B,Lec
+
+Days: W,T,R,F
+
+Start: 08:00AM
+
+End: 09:50AM
+
+Room: HH B131,DH A303
+Instructors: Miller
+
+Fall 2023
+
+Course number: 17213
+
+Title: Network Analysis: The Hidden Structures behind the Webs We Weave
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH A18B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Vasilescu, Park
+
+Fall 2023
+
+Course number: 17214
+
+Title: Principles of Software Construction: Objects, Design, and Concurrency
+
+Units: 12.0
+
+Section: A,E,B,F,C,D,Lec
+
+Days: W,TR
+
+Start: 09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM
+14. Web search engines, 1994 The World Wide Web was still in its toddler stage when CMU researcher Michael “Fuzzy” Mauldin (CS’83,’89) developed one of the first successful search engines, Lycos. It was the most-visited site on the Web by 1999.
+Affairs web page , the Office of the Dean of Students web page , and other resources contained in
+
+Appendix A of this handbook.
+
+Welcome! We hope that your time here is a life -changing experience.
+
+1.1 Degrees Offered
+
+The Language Technologies Institute offers two Ph.D. programs and four Master degrees.
+
+Ph.D.  in Language and Information Technologies (LTI Ph.D. )
+
+Dual -Degree Ph.D. in Language and Information Technologies (CMU -PT Ph.D.)
+
+Masters in Language Technologies (MLT)
+6.14 Dining Dining services and operations are offered through the Office of Housing and Dining Services. The office operates dining locations open around campus in academic buildings, Hunt Library and the University Center. These locations offer flexible hours with options from the early morning through late night. The Dining Service website contains information about dining locations, hours of operation, graduate student dining plans forms, nutritional information, and weekly menus for dining
+
+
+Answer: 

@@ -1,0 +1,137 @@
+Question: In fall 2023, Who is the instructor for course 05315?
+
+Context: Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Levin-Decanini, Ion,Ion, Levin-Decanini
+
+Fall 2023
+
+Course number: 05631
+
+Title: Software Structures for User Interfaces
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 4SC 104
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hudson
+
+Fall 2023
+
+Course number: 05652
+
+Title: Service Design
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:50AM
+
+Room: 3SC 172
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Saffer, Hardman
+
+Fall 2023
+
+Course number: 05660
+
+Title: Interaction Design Fundamentals:
+
+Units: 12.0
+
+Section: A,E,B,C,D,
+
+Days:  ,MW,TR
+
+Start: 08:00AM,09:30AM,12:30PM,05:00PM,
+
+End: 10:20AM,07:20PM,02:50PM,11:50AM,
+
+Room:  ,3SC 172,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Matthews, Saffer,Shelly, Beck,Vinchesi, Weinstein,Matthews, Saunders,Matthews, Vinchesi
+
+Fall 2023
+
+Course number: 05670
+
+Title: Digital Service Innovation:
+
+Units: 12.0
+
+Section: A,
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Perer
+
+Fall 2023
+
+Course number: 05863
+
+Title: Introduction to Human Computer Interaction for Technology Executives
+
+Units: 6.0
+
+Section: A1
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pileggi
+
+Fall 2023
+
+Course number: 05888
+
+Title: Practicum in HCI:
+
+Units: 3-48
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+21The instructor must record the permanent course grade by the last day of the examination period of the following semester, or the Registrar will automatically assign the default grade.
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+
+
+Answer: 

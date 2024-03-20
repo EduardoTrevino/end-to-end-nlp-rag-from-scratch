@@ -1,0 +1,195 @@
+Question: Was ML-SUPERB: Multilingual Speech Universal PERformance Benchmark published?
+
+Context: Paper title: 'ML-SUPERB: Multilingual Speech Universal PERformance Benchmark' Published year: 2023 Publication venue or conference: Interspeech Authors: Xuankai Chang, Shang-Wen Li, Jiatong Shi, Wei Huang, Dan Berrebbi, Ho-Lam Chung, Hung-yi Lee, William Chen, En-Pei Hu, Shinji Watanabe, Abdel-rahman Mohamed Summary: None
+[28] Jiatong Shi et al., “Ml-superb: Multilingual speech universal
+
+performance benchmark,” arXiv:2305.10615, 2023.
+
+[29] Guan-Ting Lin et al., “On the utility of self-supervised models
+
+for prosody-related tasks,” in SLT, 2023.
+
+[30] Jacob Devlin et al., “BERT: Pre-training of deep bidirectional
+
+transformers for language understanding,” in NAACL, 2019.
+Speech processing Universal PERformance Benchmark (SU- PERB) is a leaderboard to benchmark the performance of Self- Supervised Learning (SSL) models on various speech process- ing tasks. However, SUPERB largely considers English speech in its evaluation. This paper presents multilingual SUPERB (ML-SUPERB), covering 143 languages (ranging from high- resource to endangered), and considering both automatic speech recognition and language identification. Following the concept of SUPERB, ML-SUPERB
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Fall 2023
+
+Course number: 11726
+
+Title: Meaning in Language Lab (Self Paced)
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11737
+
+Title: Multilingual Natural Language Processing.
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: BH 332P
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 85414
+
+Title: Cognitive Neuropsychology:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,PH 125B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Plaut
+
+Fall 2023
+
+Course number: 85417
+
+Title: Multilingual Minds and the Brain
+
+Units: 9.0
+
+Section: A
+
+Days: F
+
+Start: 11:00AM
+
+End: 01:50PM
+
+Room: BH 340A
+1948 saw the first independent orgs and the start of DTD’s run of greatness, but it wasn’t easy, as they barely held off KapSig for the championship.
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+the 3 teams qualifying for Finals, broke the post-war record. In the finals, it was another close battle, with DTD squeaking it out over PiKA. DTD’s winning time of 2:42.5 was fast enough to set the course record, and PiKA’s 2:43.5 was only ½ second behind the prior record. SAE’s Best Design. SAE took home the trophy for Design Comp with their sleek aluminum buggy. Unfortunately, we haven’t found a photo. [Ed. Update: Based on the buggies from 1950, the 1950 Thistle’s actual description of
+Electives (Choose Three): - Natural Language Processing (11-411) - Machine Learning for Text and Graph-based Mining (11-441) - Search Engines (11-442) - Speech Processing (11-492) - Machine Learning in Practice (11-344) - Advanced Natural Language Processing (11-711) - Machine Translation and Sequence-to-Sequence Models (11-731) - Multilingual Natural Language Processing (11-737) - Neural Networks for NLP (11-747) - Speech Recognition and Understanding (11-751) - Language and Statistics
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+MLT Graduate Student Handbook  Page 1
+
+Master of Language Technologies
+
+Student Handbook
+
+2023 - 2024
+
+Revised:  July 26
+
+th, 2023
+
+MLT Graduate Student Handbook  Page 2
+
+Contents
+
+1 Introduction  .......................................................................................................................... 6
+
+1.1 Welcome  ........................................................................................................................ 6
+
+
+Answer: 

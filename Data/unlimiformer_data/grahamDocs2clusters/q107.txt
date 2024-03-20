@@ -1,0 +1,39 @@
+Question: What does the Plan module in the PET framework do?
+
+Context: We propose the Plan, Eliminate, and Track (PET) framework. The Plan module trans- lates a task description into a list of high-level sub-tasks. The Eliminate module masks out irrelevant objects and receptacles from the ob- servation for the current sub-task. Finally, the Track module determines whether the agent has accomplished each sub-task. On the Alf- World instruction following benchmark, the PET framework leads to a signiﬁcant 15% improvement over SOTA for generalization to human goal
+Figure 1. PET framework. Plan module uses LLM to gen- erate a high-level plan. Eliminate Module uses a QA model to mask irrelevant objects in observation. Track module uses a QA model to track the completion of sub-tasks.
+In this work, we explore alternative mechanisms to leverage the prior knowledge encoded in LLMs without impacting the trainable nature of the actor. We propose a 3-step framework (Figure 1): Plan, Eliminate, and Track (PET). Plan module simpliﬁes complex tasks by breaking them down into sub-tasks. It uses a pre- trained LLM to generate a list of sub-tasks for an input task description employing example prompts from the training set similar to Huang et al. (2022a); Ahn et al. (2022). The
+capstone project goals, requirements, success metrics, and deliverables; and
+
+identifies and acquires data, software, and other resources required for successful
+
+completion of the project. The planning seminar must be completed in the semester prior to taking the capstone project.
+
+4.6 Registration Process/Procedures
+
+Students are responsible for registering for their courses. Use the Stellic Degree Audit
+a. The capstone project (36 units) is a large, group- oriented demonstration of
+
+student skill in one or more areas covered by the degree. Typically,  the result of
+
+the capstone project is a major software application. The capstone project is
+
+supervised by a member of the faculty who meets with students on a weekly
+
+basis to monitor progress and provide guidance. MIIS Graduate Student Handbook  Page 17
+
+b. The capstone planning seminar (6 units) organizes students into groups; defines
+plan” (see the Carnegie Mellon University Student Health Insurance Policy at
+
+https://www.cmu.edu/policies/student- and-student- life/student- health -insurance.html
+
+.
+
+It is the responsibility of each student to make arrangements with Student Health Services to
+
+either pay for their insurance at the beginning of the semester or  elect a payment plan over the MIIS Graduate Student Handbook  Page 32
+
+course of the academic year. More information is available at the Student Health Services Web
+
+
+Answer: 

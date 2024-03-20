@@ -1,0 +1,155 @@
+Question: When did the Fall Break end in 2023?
+
+Context: Fall 2023
+
+Course number: 21325
+
+Title: Probability
+
+Units: 9.0
+
+Section: A,C,B
+
+Days: MWF
+
+Start: 12:00PM,10:00AM,09:00AM
+
+End: 10:50AM,12:50PM,09:50AM
+
+Room: GHC 5222,WEH 8220,DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pisztora
+
+Fall 2023
+
+Course number: 21341
+
+Title: Linear Algebra
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 01:00PM
+
+End: 01:50PM
+
+Room: WEH 8220
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Schimmerling
+
+Fall 2023
+
+Course number: 21355
+Fall 2023
+
+Course number: 36613
+
+Title: Data Visualization:
+
+Units: 6.0
+
+Section:  ,A1
+
+Days:  ,MW
+
+Start:  ,10:00AM
+
+End: 10:50AM,
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Yurko
+
+Fall 2023
+
+Course number: 36614
+
+Title: Data Engineering and Distributed Environments:
+
+Units: 6.0
+
+Section:  ,A2
+
+Days:  ,MW
+
+Start:  ,10:00AM
+
+End: 10:50AM,
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Reinhart
+
+Fall 2023
+
+Course number: 36617
+Fall 2023
+
+Course number: 19659
+
+Title: Economic Regulation of Networked Industries
+
+Units: 6.0
+
+Section: D2
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: CFA 102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sirbu
+
+Fall 2023
+
+Course number: 19669
+
+Title: Behavior, Decision and Policy
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 6403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Fischhoff
+
+Fall 2023
+
+Course number: 19671
+be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application Deadline December 13, 2023 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted by November 29, 2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select programs. For more information, please refer to the School of Computer Science Fee Waiver page. Requirements The School of Computer Science
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail
+
+
+Answer: 

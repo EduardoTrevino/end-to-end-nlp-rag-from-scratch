@@ -1,0 +1,175 @@
+Question: In spring 2024, What is the title of course 17537?
+
+Context: Spring 2024
+
+Course number: 94843
+
+Title: Research Studio: Arts Futures
+
+Units: 6.0
+
+Section: A
+
+Days: W
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HBH 1208
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Crawford
+
+Spring 2024
+
+Course number: 94844
+
+Title: Generative AI Lab
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HBH 1202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 94854
+
+Title: Developing as a Leader
+
+Units: 6.0
+Spring 2024
+
+Course number: 17612
+
+Title: Business and Marketing Strategy
+
+Units: 6.0
+
+Section: 44,D4,A4
+
+Days: F,TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Berardone
+
+Spring 2024
+
+Course number: 17628
+
+Title: Applied Quantum Computing
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Wang
+
+Spring 2024
+
+Course number: 17630
+Spring 2024
+
+Course number: 90970
+
+Title: Independent Study
+
+Units: 1-12
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Washington, District of Columbia,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 90971
+
+Title: Independent Study
+
+Units: 1-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Crawford
+
+Spring 2024
+
+Course number: 90972
+
+Title: Independent Study
+
+Units: 1-12
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+
+
+Answer: 

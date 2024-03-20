@@ -1,0 +1,170 @@
+Question: How many scientific challenges in spoken language translation did the IWSLT 2023 shared tasks address?
+
+Context: This paper summarizes Karlsruhe Institute of Tech- nology’s speech translation system for the multilin- gual track of IWSLT 2023 (Agarwal et al., 2023). In this track, the task is to translate scientific talks in English into 10 languages: Arabic (ar), Chinese (zh), Dutch (nl), French (fr), German (de), Japanese (ja), Persian/Farsi (fa), Portuguese (pt), Russian (ru), Turkish (tr). The talks are from presentations in the 60th Annual Meeting of the Association for Computational Linguistics (ACL
+Many existing speech translation benchmarks focus on native-English speech in high-quality recording conditions, which often do not match In this the conditions in real-life use-cases. paper, we describe our speech translation sys- tem for the multilingual track of IWSLT 2023, which evaluates translation quality on scientific conference talks. The test condition features accented input speech and terminology-dense contents. The task requires translation into 10 languages of varying amounts of
+Peter Polák, Ngoc-Quan Pham, Tuan Nam Nguyen, Danni Liu, Carlos Mullov, Jan Niehues, Ondˇrej Bo- jar, and Alexander Waibel. 2022. CUNI-KIT system for simultaneous speech translation task at IWSLT 2022. In Proceedings of the 19th International Con- ference on Spoken Language Translation (IWSLT
+
+2022), pages 277–285, Dublin, Ireland (in-person and online). Association for Computational Linguis- tics.
+End:  ,02:50PM,03:50PM
+
+Room:  ,PH 107E
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Ozis
+
+Fall 2023
+
+Course number: 12200
+
+Title: CEE Challenges: Design in a Changing World
+
+Units: 9.0
+
+Section: A,B
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH 107E
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Flanigan
+
+Fall 2023
+
+Course number: 12201
+
+Title: Geology
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: R,T
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: BH A53,PH 107E
+Fall 2023
+
+Course number: 82703
+
+Title: Translation Technologies
+
+Units: 9-12
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCullough
+
+Fall 2023
+
+Course number: 82704
+
+Title: Translation Workshop I
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCullough
+
+Fall 2023
+
+Course number: 82706
+
+Title: Translation Workshop III
+
+Units: 18.0
+Title: Translation Workshop 1
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: McCullough
+
+Fall 2023
+
+Course number: 82482
+
+Title: Introduction to Translation
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: BH 136E
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shapiro
+
+Fall 2023
+
+Course number: 82483
+
+Title: Translation as a Profession I
+
+Units: 3.0
+
+Section: A
+
+Days: R
+
+Start: 10:00AM
+22. Language learning software, 2010 Learning a second language has always been challenging, but a CMU spinoff called Duolingo is proving that it doesn’t have to be expensive. Duolingo has developed language tutoring software that enables users to learn Spanish, English, Italian, German, Portuguese or French for free through its website and mobile apps. In the process, Duolingo users are helping to translate the Web.
+1.7 University Policies and Expectations  .......................................................................................... 9
+
+1.8 Academic Calendar  ......................................................................................................................... 10
+
+2 The Language Technologies Institute  10
+
+2.1.1  Mailboxes & Office Supplies  .............................................................................................. 10
+9. Machine translation, 1984 Every “Star Trek” fan knows about the universal translator. Scientists in the Language Technologies Institute are moving those gadgets from science fiction to real life. Their pioneering systems include handheld, portable speech-to-speech translators, just like those depicted on the USS Enterprise.
+
+
+Answer: 

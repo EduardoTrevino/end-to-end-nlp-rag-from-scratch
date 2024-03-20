@@ -1,0 +1,158 @@
+Question: What is Fernando Diaz's job title?
+
+Context: Fernando Diaz and Michael Madaio
+Fernando Diaz and Michael Madaio
+Paper title: 'Recall as a Measure of Ranking Robustness' Published year: 2023 Publication venue or conference: arXiv.org Authors: Fernando Diaz, Bhaskar Mitra Summary: Through extensive empirical analysis across 17 TREC tracks, it is established that the new evaluation method, lexirecall, is correlated with existing recall metrics and exhibits substantially higher discriminative power and stability in the presence of missing labels.
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,12:30PM
+
+End: ,01:50PM
+
+Room: TBA,POS A35
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Diaz, Bisk,Bisk, Diaz
+
+Fall 2023
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking, Fried
+
+Fall 2023
+
+Course number: 11716
+Room: SH 105,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Bisk, Diaz
+
+Spring 2024
+
+Course number: 11711
+
+Title: Advanced Natural Language Processing:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: TEP 1403,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Neubig
+
+Spring 2024
+
+Course number: 11712
+
+Title: Lab in Natural Language Processing: Self-Paced
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+Language Technologies Institute - Faculty Name: Fernando Diaz Email: diazf@cmu.edu Research Areas: Information Retrieval: Recommender Systems, Retrieval and Ranking Models, Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation Phone: 412-268-4229
+Information regarding the application of Title IX, including to admission and employment decisions, the sexual misconduct grievance procedures and process, including how to file a report or a complaint of sex discrimination, how to file a report of sexual harassment, and how the university responds to such reports is available at www.cmu.edu/title-ix . The Title IX 10coordinator may be reached at 412-268-7125 or tix@cmu.edu .
+
+1.7 The Carnegie Mellon Code
+Information regarding the application of Title  IX, including to admission and employment
+
+decisions, the sexual misconduct grievance proced ures and process, including how to file a
+
+report or a complaint of sex discrimination, how to file a report of sexual harassment, and how
+
+the university responds to su ch reports is available at www.cmu.edu/title-ix . The Title IX
+
+coordinator may be reached at 4615 Forbes Ave, Suite 330, Pittsburgh, PA 15213; 412-268-7125; or
+
+tix@cmu.edu .
+
+
+Answer: 

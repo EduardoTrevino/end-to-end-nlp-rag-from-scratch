@@ -1,0 +1,181 @@
+Question: What are the results of training 1.1B parameter models on Java, JavaScript, and Python subsets of The Stack and evaluating them on MultiPL-E?
+
+Context: In this tech report, we summarize the learnings of the BigCode community in developing the Santa models, a set of 1.1B-parameter models trained on the Java, JavaScript, and Python subsets of The Stack and evaluated on MultiPL-E (Cassano et al., 2022). We describe the ﬁrst steps of the commu- nity towards developing larger code models and report experiments to de-risk the model architecture and the data processing pipeline. Speciﬁcally, the contributions of this report can be summarized as
+Using the ﬁndings from these experiments, we train a ﬁnal 1.1B parameter model, dubbed SantaCoder, on Python, JavaScript, and Java. This model obtains comparable or stronger performance than previous open-source multilingual models, InCoder-6.7B and CodeGen- Multi-2.7B, on code generation and inﬁlling tasks on the MultiPL-E benchmark for these three languages, despite being substantially smaller.
+
+2 RELATED WORK
+the Java, JavaScript, and Python subsets of The Stack (Kocetkov et al., 2022) and evaluate them on the MultiPL-E text-to-code benchmark (Cas- sano et al., 2022). We ﬁnd that more aggressive ﬁltering of near-duplicates can further boost performance and, surprisingly, that selecting ﬁles from repositories with 5+ GitHub stars deteriorates performance signiﬁcantly. Our best model out- performs previous open-source multilingual code generation models (InCoder- 6.7B and CodeGen-Multi-2.7B) in both
+Title: Special Topics:  Introduction to Python Prototyping for Infrastructure Systems:
+
+Units: 6.0
+
+Section:  ,A1
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,SH 236
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Finger
+
+Fall 2023
+
+Course number: 12751
+
+Title: Air Quality Engineering:
+
+Units: 12.0
+
+Section: A,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,02:50PM
+
+Room:  ,WEH 6403
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Presto
+
+Fall 2023
+
+Course number: 12757
+Title: Special Topics: Advanced Python for Infrastructure Systems:
+
+Units: 6.0
+
+Section:  ,A2
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,SH 236
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Finger
+
+Fall 2023
+
+Course number: 12781
+
+Title: Special Topics: Applied Python for Engineers:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,SH 236
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Finger
+
+Fall 2023
+
+Course number: 12783
+Instructors: Hofstad,Singh,Quintana,McDermott
+
+Spring 2024
+
+Course number: 21256
+
+Title: Multivariate Analysis
+
+Units: 9.0
+
+Section: A,E,B,F,C,D,Lec 1,Lec 2
+
+Days: MWF,T
+
+Start: 09:00AM,01:00PM,12:00PM,10:00AM,11:00AM
+
+End: 12:50PM,01:50PM,09:50AM,11:50AM,10:50AM
+
+Room: MM 103,WEH 4625,BH 235B,MM A14,WEH 5302,PH A18A,DH 1112
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Tribendis,Cho,Robinson,Kidonakis,Flaherty,Tankova
+
+Spring 2024
+
+Course number: 21259
+1946 – PiKA’s Buggy (from the 1947 Thistle). It didn’t win Design Competition, but it had the best aesthetic design. Prelim Heats and Results. The Prelims were run in 3 heats, with 3 teams in each. The rules initially stated that the winner of each heat would compete in the finals, but it seems that the rules changed to be the three fastest times instead, as the Prelim results printed in the May 7, 1946 Tartan indicate that the Finals was just a rematch of Prelim Heat 1. According to the May 7
+Tartan, Heat 1 saw a very tight race between KapSig, DTD, and PiKA, with KapSig winning in 3:24.5, DTD finishing in 3:25.1, and PiKA finishing in 3:26.3. Those were the top 3 times and they advanced to the finals. Prelim Heat 2 paired Beta, SAE, and DU, and SAE won the heat by default, as Beta was DQ’d for a pushbar violation and DU was DQ’d for a Hill 4-5 transition violation (the Tartan reports that they “shoved the buggy into the last zone instead of pushing it”). Prelims Heat 3 was a battle
+But a few of the specific rules changed slightly, or are worth noting again: All drivers, pushers, designers and builders were required to members of the organization they’re competing for All team members (including designers and builders) must be “eligible” under the Executive Board’s requirements, which include a minimum of 36 units and being in good academic standing (with a minimum GPA requirement). The buggy/driver combo must weigh a minimum of 180 pounds (up from the previous 160 lbs)
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+10-708, Probabilistic Graphical Models
+
+16-720, Computer Vision
+
+17-631 Information Security, Privacy & Policy
+
+17-781, Mobile and IoT Computing Services
+
+4.4.1 Breadth Courses:  Human Language
+
+11-611, Natural Language Processing
+
+11-624, Human Language for Artificial Intelligence
+
+11-711, Advanced NLP
+
+11-722, Grammar Formalisms
+
+11-724, Human Language for Artificial Intelligence
+
+11-727, Computational Semantics for NLP
+
+11-737, Multilingual NLP
+
+
+Answer: 

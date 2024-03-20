@@ -1,0 +1,41 @@
+Question: In the paper "Improving Perceptual Quality, Intelligibility, and Acoustics on VoIP Platforms", which preprocessing methods were experimented with for audio data?
+
+Context: on pre-trained speech recogni- tion models, however, this can be limiting since this approach primarily measures speech intelligibility. In this paper, we propose an evaluation technique involving the training of an ASR model on synthetic speech and assessing its performance on real speech. Our main assumption is that by training the ASR model on the synthetic speech, the WER on real speech reflects the similarity between distributions, a broader assess- ment of synthetic speech quality beyond
+This paper makes the following contributions:
+
+1. We propose a new evaluation method for TTS that captures distributional similarity between real and synthetic speech as a proxy for perceptual speech quality tests.
+
+2. We compare the proposed metric to multiple automatic metrics and Mean Opinion Score (MOS), and show that our metric correlates well with human-provided MOS.
+
+2. BACKGROUND: SPEECH SYNTHESIS AND EVALUATION
+Paper title: 'Improving Massively Multilingual ASR with Auxiliary CTC Objectives' Published year: 2023 Publication venue or conference: IEEE International Conference on Acoustics, Speech, and Signal Processing Authors: Yifan Peng, Jiatong Shi, William Chen, Shinji Watanabe, Brian Yan, Soumi Maiti Summary: This work introduces work on improving performance on FLEURS, a 102-language open ASR benchmark, by conditioning the entire model on language identity (LID), and investigates techniques
+Clients meet with a c onsultant to improve the logic, clarity, and flow of writing or
+
+presentation and receive expert feedback that will strengthen a project. When making an appointment, clients upload a draft, instructor prompts, and rubrics so the consultants can use specific  criteria to give relevant feedback. See the
+
+appointment types offered here:
+
+https://www.cmu.edu/student-
+
+success/programs/communication -support/make- an-appointment.html
+assist students in improving time management , productive habits, organization, stress
+
+management, and study skills. Students wi ll request support through the Academic
+
+Success Center website and attend in-person meetings or meet using video and audio
+
+conferencing technology to provid e all students with support.
+
+“Just in Time” Workshops:  The Student Academic Success team is available to partner
+
+with instructors and departments to identify sk ills or concepts that would benefit from
+Academic Coaching: Academic Coaching provides holistic one -on-one peer  support and
+
+group workshops to help students find and implement their conditions for success. We assist students in improving time management, productive habits, organization, stress management, and study skills. Students will request support through the Academic
+
+Success Center website and attend in- person meetings or meet using video and audio
+
+conferencing technology to provide all students with support.
+
+
+Answer: 

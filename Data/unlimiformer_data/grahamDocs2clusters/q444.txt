@@ -1,0 +1,25 @@
+Question: What are the four common domains of websites in the WebArena environment?
+
+Context: websites from four common domains: e-commerce, social forum discussions, collaborative software development, and content management. Our environment is enriched with tools (e.g., a map) and external knowledge bases (e.g., user manuals) to encourage human-like task-solving. Building upon our environment, we release a set of benchmark tasks focusing on evaluating the functional correctness of task completions. The tasks in our benchmark are diverse, long-horizon, and designed to emulate tasks
+Paper title: 'WebArena: A Realistic Web Environment for Building Autonomous Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: Robert Lo, Frank F. Xu, Shuyan Zhou, Xuhui Zhou, Hao Zhu, Uri Alon, Daniel Fried, Abishek Sridhar, Graham Neubig, Yonatan Bisk, Xianyi Cheng Summary: This paper builds an environment for language-guided agents that is highly realistic and reproducible, and creates an environment with fully functional websites from four common domains:
+We introduce WebArena, a realistic and reproducible web environment designed to facilitate the development of autonomous agents capable of executing tasks (§2). An overview of WebArena is in Figure 1. Our environment comprises four fully operational, self-hosted web applications, each representing a distinct domain prevalent on the internet: online shopping, discussion forums, collaborative development, and business content management. Furthermore, WebArena incorporates several utility tools,
+14. Web search engines, 1994 The World Wide Web was still in its toddler stage when CMU researcher Michael “Fuzzy” Mauldin (CS’83,’89) developed one of the first successful search engines, Lycos. It was the most-visited site on the Web by 1999.
+Affairs web page , the Office of the Dean of Students web page , and other resources contained in
+
+Appendix A of this handbook.
+
+Welcome! We hope that your time here is a life -changing experience.
+
+1.1 Degrees Offered
+
+The Language Technologies Institute offers two Ph.D. programs and four Master degrees.
+
+Ph.D.  in Language and Information Technologies (LTI Ph.D. )
+
+Dual -Degree Ph.D. in Language and Information Technologies (CMU -PT Ph.D.)
+
+Masters in Language Technologies (MLT)
+6.14 Dining Dining services and operations are offered through the Office of Housing and Dining Services. The office operates dining locations open around campus in academic buildings, Hunt Library and the University Center. These locations offer flexible hours with options from the early morning through late night. The Dining Service website contains information about dining locations, hours of operation, graduate student dining plans forms, nutritional information, and weekly menus for dining
+
+
+Answer: 

@@ -1,0 +1,152 @@
+Question: In spring 2024, what time does the Subword Modeling class start?
+
+Context: Kudo, 2018; Song et al., 2021). With Sennrich et al. (2016), one starts with a base vocab- ulary of only characters and adds new vocabulary items by recursively merging existing ones based on their frequency statistics in a training corpus. Other approaches judge subword candidates to be included into the vocabulary using a language model (Kudo, 2018; Song et al., 2021). For multilingual models containing data in a variety of scripts, even the base vocabulary of only characters (based on
+160k synthetic preferences sub-sampled from Stanford SHP (Ethayarajh et al., 2022) is used for Preference Model Pre-training (PMP; Bai et al. (2022a)).
+models (Radford et al., 2019; Devlin et al., 2018; Liu et al., 2019; Brown et al., 2020). Using subword tokenization also eliminates the need for adaptive softmax (Joulin et al., 2017). It makes the output layer more generalized, sharing more resemblance to the kNN component as described in Section 2, and facilitates the ablation studies in this paper.1 This base LM has 268M parameters. To get a perspective on how large the datastore is, it is built on the training data that contains nearly
+Title: ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11824
+
+Title: Subword Modeling
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH 100
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mortensen
+
+Spring 2024
+
+Course number: 11830
+Title: ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11424
+
+Title: Subword Modeling
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH 100
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mortensen
+
+Spring 2024
+
+Course number: 11441
+
+Title: Machine Learning with Graphs
+
+Units: 9.0
+Course number: 18789
+
+Title: Deep Generative Modeling
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HH 1107
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Fanti, Chen
+
+Spring 2024
+
+Course number: 18799
+
+Title: Special Topics in Signal Processing:
+
+Units: 12.0
+
+Section: R, ,RW
+
+Days:  ,MW
+
+Start:  ,12:00PM,10:00AM
+
+End: 11:50AM, ,01:50PM
+
+Room:  ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Busogi, Gueye,Vernon
+
+Spring 2024
+
+Course number: 18845
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+close Date -  March 4 ; Event - 8 M-F Spring Break; No Classes Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 12 ; Day - Tuesday ; Event - Summer 2024 Registration Opens Date -  March 15 ; Day - Friday ; Event - Mini-4
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+
+
+Answer: 

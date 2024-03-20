@@ -1,0 +1,118 @@
+Question: In spring 2024, What is the day and time of course 17604-C?
+
+Context: [cs.CV] 28 Oct 2023
+2022) and early stopping.
+2023.
+Spring 2024
+
+Course number: 76101
+
+Title: Interpretation and Argument
+
+Units: 9.0
+
+Section: E,I,AC,LL,FF,AD,F,HH,CC,D,WW,GG,BB,II,C,EE,DD,J,AB,A,K,W,B,KK,JJ,YY,M,O,X,Z,MM,N,XX
+
+Days: MWF,UTR,TR
+
+Start: 08:45AM,08:00AM,04:00PM,09:30AM,03:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM,03:30PM,12:30PM
+
+End: 12:50PM,01:50PM,09:50AM,03:20PM,03:50PM,09:35AM,02:50PM,04:50PM,12:20PM,11:50AM,10:50AM,09:20AM,08:50AM
+Spring 2024
+
+Course number: 17612
+
+Title: Business and Marketing Strategy
+
+Units: 6.0
+
+Section: 44,D4,A4
+
+Days: F,TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Berardone
+
+Spring 2024
+
+Course number: 17628
+
+Title: Applied Quantum Computing
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Wang
+
+Spring 2024
+
+Course number: 17630
+Spring 2024
+
+Course number: 15659
+
+Title: Probability and Computing
+
+Units: 9.0
+
+Section: A,B,C,D,Lec
+
+Days: F,TR
+
+Start: 12:30PM,01:00PM,09:00AM,02:00PM
+
+End: 01:50PM,02:50PM,09:50AM
+
+Room: GHC 4401,BH A53,WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Harchol-Balter, Wang
+
+Spring 2024
+
+Course number: 15661
+
+Title: Interaction and Expression using the Pausch Bridge Lighting
+
+Units: 4.0
+
+Section: A4
+
+Days: R
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: GHC 4301
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+close Date -  March 4 ; Event - 8 M-F Spring Break; No Classes Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 12 ; Day - Tuesday ; Event - Summer 2024 Registration Opens Date -  March 15 ; Day - Friday ; Event - Mini-4
+Democracy Day; No Classes, except Evening classes after 5 pm will still meet Date -  November 11 ; Event - Homecoming Date -  November 13 ; Event - 17 M-F Spring 2024 Registration Week Date -  November 13 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  November 15 ; Day - Wednesday ; Event - Mini-2 drop deadline; withdrawal grade assigned after this date (2) Date -  November 22 ; Event - 24 W-F Thanksgiving Break; No Classes Date -  November 27 ; Day - Monday ;
+
+
+Answer: 

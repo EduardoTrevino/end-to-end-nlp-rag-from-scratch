@@ -1,0 +1,47 @@
+Question: What is the full name of the metric used to evaluate the performance of the models on the Squad test set in the paper PROMPT2MODEL: Generating Deployable Models from Natural Language Instructions?
+
+Context: In this evaluation, we investigate the effectiveness of input augmentation for zero-shot inference with- out training. We evaluate the performance of our model on two datasets, namely AG News and Ya- hoo Answers, using two evaluation metrics: per class F1 metric and ranking-based precision metric according to prediction conﬁdence. The per class F1 metric provides an insight into how well the model performs on each individual class by bal- ancing precision and recall. In the upper part of ﬁgure
+To evaluate performance, we used the most widely used set of reference-based metrics for natural lan- guage generation tasks (Liu et al., 2021; Ziems et al., 2022). Since these metrics have not been used for conversational strategies, we add an un- supervised reference-free metric, the BART score (Yuan et al., 2021). The BART score formulates the evaluation process as a text generation task using a pre-trained model. The score represents the proba- bility of generating a hypothesis given a
+The rest of this paper is structured as follows: We ﬁrst discuss related work in Section 2; illustrate OpenGPTText data set in Section 3; present our model and the training details in Section 4; evaluate the performance using various metrics in Section 5; interpret the basis for the model’s prediction in Section 6; point out future work in Section 7; and conclude in Section 8.
+
+2 Related Work
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+capstone project goals, requirements, success metrics, and deliverables; and
+
+identifies and acquires data, software, and other resources required for successful
+
+completion of the project. The planning seminar must be completed in the semester prior to taking the capstone project.
+
+4.6 Registration Process/Procedures
+
+Students are responsible for registering for their courses. Use the Stellic Degree Audit
+Semester One: - Artificial Intelligence and Future Markets - Law of Computer Technology - Coding Bootcamp - Machine Learning
+
+Semester Two - AI Engineering - Machine Learning with Large Datasets - Cloud Computing* - Software Engineering for Startups*
+
+Semester Three
+
+AI Innovation
+
+Natural Language Processing
+
+Applied Machine Learning
+
+Web Application Development*
+
+Semester Four
+
+Deep Learning
+
+Capstone Project(36 units)
+
+
+Answer: 

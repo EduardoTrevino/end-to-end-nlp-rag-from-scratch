@@ -1,0 +1,115 @@
+Question: How many de-biased training examples were used for fine-tuning the pre-trained model to significantly reduce the tendency to favor any gender?
+
+Context: changes to the training regime, in this paper, we propose data intervention strategies as a powerful yet simple technique to reduce gender bias in pre- trained models. Specifically, we empirically show that by fine-tuning a pre-trained model on only 10 de-biased (intervened) training exam- ples, the tendency to favor any gender is sig- nificantly reduced. Since our proposed method only needs a few training examples, our few- shot debiasing approach is highly feasible and practical. Through
+In this paper, we show that simple data interventions on limited training data effectively reduce gender bias in LLMs. We also show that a biased pre- trained LLM can be used to mine the most effective de-biasing training examples. Evaluation of our methods on state-of-the-art bias benchmarks empir- ically suggests that our methods effectively reduce gender bias. Given that our methods can work in a few-shot manner and do not require any auxiliary model training, we hope that our work benefits
+Paper title: 'Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Louis-Philippe Morency, P. Liang, Praneetha Vaddamanu, Atishay Jain, Himanshu Thakur Summary: This paper empirically shows that by fine-tuning a pre-trained model on only 10 debiased (intervened) training examples, the tendency to favor any gender is
+Instructors: Howard,Dealmeida,Almarza,Kostyniak,Vosburgh,Defade,Cardenes,Shields, Thompson,Wu,Ferla,Spacagna,Caballero,Schepkin,Instructor TBA,Gruber,Van Hoesen, Shields,Evans, Allen, Branson,Cherian,McGhee,Knox,Dee,Whipple,Aylmer,Kush,Carlisle,van der Sloot,Rusinek, Shields,Shields, Sullivan,Laduke,Williams,Berntsen,Harding,Goeres, Shields,Premo,Teadt,Galbraith,Chiu,Shields, Houlik
+
+Fall 2023
+
+Course number: 57498
+
+Title: BXA Studio (3rd semester)
+
+Units: 9.0
+Instructors: Howard,Dealmeida,Almarza,Kostyniak,Vosburgh,Defade,Cardenes,Wu,Ferla,Spacagna,Caballero,Schepkin,Instructor TBA,Gruber,Cherian,McGhee,Knox,Thompson, Shields,Dee,Whipple,Aylmer,Kush,Carlisle,van der Sloot,Rusinek, Shields,Houlik, Shields,Laduke,Sullivan, Shields,Shields, Van Hoesen,Williams,Berntsen,Harding,Goeres, Shields,Premo,Teadt,Evans, Branson, Allen,Galbraith,Chiu
+
+Fall 2023
+
+Course number: 57499
+
+Title: BXA Studio (4th semester)
+
+Units: 9.0
+Course number: 85375
+
+Title: Crosscultural Psychology:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: BH 336B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: MacWhinney
+
+Fall 2023
+
+Course number: 85377
+
+Title: Attitudes and Persuasion
+
+Units: 9.0
+
+Section: W
+
+Days: MW
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 1031
+
+Locations: Doha, Qatar
+
+Instructors: Belanger
+
+Fall 2023
+
+Course number: 85402
+
+Title: Multilevel Modeling
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+3. Tutoring machines, 1973 Games and drills, such as flash cards, have long been used to help students learn tough subjects. But the cognitive tutoring programs developed at Carnegie Mellon, beginning in the 1970s, did more than simply drill students on math problems. Cognitive tutors were able to adapt, presenting harder or easier problems as students learned or stumbled. Today, cognitive tutors teach subjects such as algebra to hundreds of thousands of students every year.
+relationships unless there is a conflicting profe ssional relationship in  which one party has
+
+authority over the other as in the policy.
+
+11.5.5  Cultural Tolerance
+
+The MSAII program is extremely diverse for a pr ogram of its size. We have students from
+
+numerous different countries who must work effectively in a team se tting. The students
+
+invariably come from very different cultures that  have differing attitudes  towards age, gender,
+MIIS Capstone Planning Seminar
+
+Summer: - Academic Research Practices and Scientific Communities - MIIS Capstone Project
+
+Here are some example schedules for completing the MIIS-21 program. Example Course of Study #1 This schedule would satisfy course requirements for a student interested in deepening their expertise in Machine Learning area of concentration.
+
+Fall 1:
+
+Search Engines
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+
+MIIS Directed Study
+
+Spring 1:
+
+Question Answering
+
+
+Answer: 

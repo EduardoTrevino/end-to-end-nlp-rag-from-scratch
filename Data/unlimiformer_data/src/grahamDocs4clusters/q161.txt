@@ -1,0 +1,171 @@
+Question: What is the BartScore achieved by the CRL-COM (R) system from the paper Improving Factuality of Abstractive Summarization via Contrastive Reward Learning, on the XSUM dataset?
+
+Context: Yuan W., Neubig G. and Liu P. (2021). BARTScore: Evaluating generated text as text generation. In Advances in Neural
+
+Information Processing Systems 34, pp. 27263–27277.
+
+Zhang J., Zhao Y., Saleh M. and Liu P. (2020a). Pegasus: Pre-training with extracted gap-sentences for abstractive
+
+summarization. In International Conference on Machine Learning. PMLR, pp. 11328–11339.
+(2020) proposed an unsupervised abstractive summarization model that generates summaries directly from source documents by optimizing coverage, ﬂuency, and brevity using reinforcement learning (RL)-based rewards. Yadav et al. (2021) introduced two novel question-aware semantic rewards for abstractive question summarization: (1) question-type identiﬁcation and (2) question-focus recognition. They integrated these rewards into an encoder- decoder-based ProphetNet transformer model (Qi et al.
+BARTScore (Yuan et al., 2021) formulates the text generation evaluation as a text generation task from pretrained language models in an unsuper- vised fashion. When the generated text is better, the training model will get a higher score by convert- ing the generated text to reference or source text. BART score can be applied to different evaluations (e.g., informativeness, coherence, and factuality). Perplexity (Chen et al., 1998) calculates lan- guage model perplexity. Perplexity quantifies
+Instructors: Crumrine
+
+Fall 2023
+
+Course number: 53323
+
+Title: IDEATE Storytelling Through Effects Animation
+
+Units: 6.0
+
+Section: A1
+
+Days: T
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mayeda
+
+Fall 2023
+
+Course number: 53324
+
+Title: IDeATe Special Topics in Animation: Advanced 3D Asset Creation (for Animation Pr
+
+Units: 6.0
+
+Section: A1
+
+Days: R
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+End:  ,07:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Xing, Zhang
+
+Spring 2024
+
+Course number: 98097
+
+Title: Student Taught Courses (StuCo): Intro to 3D Modeling- Character Design Pipeline
+
+Units: 3.0
+
+Section: A
+
+Days: R
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: CYH 100A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Diel
+
+Spring 2024
+
+Course number: 98123
+
+Title: Student Taught Courses (StuCo): Introduction to Hand Lettering
+
+Units: 3.0
+
+Section: A
+
+Days: R
+Title: IDeATe: Experimental Sound Synthesis
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: HL A10A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hsieh
+
+Spring 2024
+
+Course number: 60409
+
+Title: Advanced ETB:  Decolonizing Data Beyond Metaphor
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Morehshin
+
+Spring 2024
+
+Course number: 60415
+
+Title: Advanced ETB: Animation Studio:
+the 3 teams qualifying for Finals, broke the post-war record. In the finals, it was another close battle, with DTD squeaking it out over PiKA. DTD’s winning time of 2:42.5 was fast enough to set the course record, and PiKA’s 2:43.5 was only ½ second behind the prior record. SAE’s Best Design. SAE took home the trophy for Design Comp with their sleek aluminum buggy. Unfortunately, we haven’t found a photo. [Ed. Update: Based on the buggies from 1950, the 1950 Thistle’s actual description of
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+SAE’s buggy as a “sleek aluminum auto”, and DTD’s letter to the editor in 1951 complaining that if a team had used a “Buick grill” they would have placed in Design Comp, we’ve determined that Buggy #4 (2nd from the left in the Design Comp photo below) is actually SAE’s design winner. For a better look at the design, check out the 1950 photos, which is a similar style (though with different wheels, a different pushbar, and likely some other changes).] 1949 Photos. Here are photos from 1949.
+The Office of Research Integrity & Complian ce (ORIC) is designed to support research at
+
+Carnegie Mellon University. The staff work with  researchers to ensure research is conducted
+
+with integrity and in accordance with federa l and Pennsylvania regulation. ORIC assists
+
+researchers with human subject re search, conflicts of interest, re sponsible conduct of research,
+
+export controls, and institutional animal care & us e.  ORIC also provides consultation, advice,
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+processes available to graduate students who se ek review of academic and non-academic issues.
+
+Graduate students are expected to seek informal resolution of all concerns within the applicable
+
+department, unit or program before invoking fo rmal processes. When an informal resolution
+
+cannot be reached, however, a gr aduate student who seeks furthe r review of the matter is to
+
+follow the formal procedures outlined here. Th ese appeal and grievanc e procedures shall apply
+
+
+Answer: 

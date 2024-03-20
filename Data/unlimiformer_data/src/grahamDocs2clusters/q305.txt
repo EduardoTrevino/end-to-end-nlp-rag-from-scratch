@@ -1,0 +1,41 @@
+Question: In the Value Kaleidescope paper by Maarten Sap's group, what is the name of the dataset that is introduced?
+
+Context: Paper title: 'NLPositionality: Characterizing Design Biases of Datasets and Models' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Katharina Reinecke, Sebastin Santy, Ronan Le Bras, Jenny T Liang, Maarten Sap Summary: NLPositionality, a framework for characterizing design biases and quantifying the positionality of NLP datasets and models, is introduced and it is found that dataset and models align predominantly
+Thomas Hartvigsen, Saadia Gabriel, Hamid Palangi, Maarten Sap, Dipankar Ray, and Ece Kamar. Toxigen: A large-scale machine-generated dataset for adversarial and implicit hate speech detection. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3309–3326, 2022.
+Paper title: 'Don't Take This Out of Context! On the Need for Contextual Models and Evaluations for Stylistic Rewriting' Published year: 2023 Publication venue or conference: arXiv.org Authors: Xuhui Zhou, Maarten Sap, Akhila Yerukola Summary: A new composite contextual evaluation metric is introduced that combines similarity to the original sentence with contextual cohesiveness and highlights the importance of integrating context into the generation and especially the evaluation stages of
+Language Technologies Institute - Faculty Name: Maarten Sap Email: msap2@andrew.cmu.edu Research Areas: Fairness and Ethics in Language Technology, Computational Social Science, Discourse and Pragmatics, Conversational AI, Intelligent Agents, and Dialogue
+
+Language Technologies Institute - Faculty Name: Michael Shamos Email: shamos@cs.cmu.edu Office: 6707 Gates & Hillman Centers Phone: 412-268-8193
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+
+
+Answer: 

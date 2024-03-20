@@ -1,0 +1,17 @@
+Question: What is the full name of the conference where the paper GameQA: Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets, got published?
+
+Context: Paper title: 'GameQA: Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets' Published year: 2023 Publication venue or conference: Conference of the European Chapter of the Association for Computational Linguistics Authors: Njall Skarphedinsson, Breki Gudmundsson, Abuzar Khan, H. Einarsson, H. Loftsson, Eric Nyberg, Steinar Smari, M. Lárusdóttir Summary: This work developed a novel crowd-sourcing platform to gather multiple-domain QA data for low-resource
+Paper title: 'Chain-of-Skills: A Configurable Model for Open-Domain Question Answering' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Yu Zhang, Hao Cheng, Kaixin Ma, Jianfeng Gao, Eric Nyberg, Xiaodong Liu Summary: This work proposes a modular retriever where individual modules correspond to key skills that can be reused across datasets and achieves state-of-the-art fine-tuned retrieval performance on NQ, HotpotQA
+Yingqi Qu, Yuchen Ding, Jing Liu, Kai Liu, Ruiyang Ren, Wayne Xin Zhao, Daxiang Dong, Hua Wu, and Haifeng Wang. 2021. RocketQA: An optimized training approach to dense passage retrieval for open- domain question answering. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Hu- man Language Technologies, pages 5835–5847, On- line. Association for Computational Linguistics.
+21. RNA sequencing via videogames, 2010 Thanks to crowdsourcing, science isn’t just for scientists any more. People without formal training in molecular biology are producing new insights into genetic encoding through a videogame called EteRNA, developed by researchers at CMU and Stanford, that allows players to fold and shift RNA molecules to solve on-screen puzzles.
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+Language Technologies Institute - Faculty Name: Teruko Mitamura Email: teruko@cs.cmu.edu Office: 6711 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics Phone: 412-268-6596
+
+
+Answer: 

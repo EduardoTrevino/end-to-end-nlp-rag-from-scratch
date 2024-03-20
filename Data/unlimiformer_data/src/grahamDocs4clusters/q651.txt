@@ -1,0 +1,237 @@
+Question: In the Paaploss paper, what does the neural network estimator developed in the study predict?
+
+Context: Samy Bengio, Oriol Vinyals, Navdeep Jaitly, and Noam Shazeer. Scheduled sampling for sequence prediction with recurrent neural networks. Advances in neural information processing systems, 28, 2015.
+
+Gregory Beylkin, Ronald Coifman, and Vladimir Rokhlin. Fast wavelet transforms and numerical
+
+algorithms i. Communications on pure and applied mathematics, 44(2):141–183, 1991.
+
+Kaushik Bhattacharya, Bamdad Hosseini, Nikola B. Kovachki, and Andrew M. Stuart. Model
+Neural networks are powerful but their internal workings are infamously opaque. Recent work in mechanistic interpretability explains specific processes within language models (LMs) using circuit analysis (Wang et al., 2022; Hanna et al., 2023; Lieberum et al., 2023) which reverse-engineers small subnetworks that explain some behavior on a dataset. Through causal interventions, these studies are able to attribute interpretable roles for specific model components involved in predicting the
+ABSTRACT Recent research has shown that training low-rank neural networks can effectively reduce the total number of trainable parameters without sacriﬁcing predictive accuracy, resulting in end-to-end speedups. However, low-rank model training necessitates adjusting several additional factorization hyperparameters, such as the rank of the factorization at each layer. In this paper, we tackle this challenge by introducing CUTTLEFISH, an automated low-rank training approach that eliminates the
+Instructors: Kurnikova
+
+Spring 2024
+
+Course number: 09616
+
+Title: Neural Networks & Deep Learning in Science
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 3SC 110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Isayev
+
+Spring 2024
+
+Course number: 09621
+
+Title: Welcome to the Future Lab - Science in the Cloud
+
+Units: 6.0
+
+Section: A3
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: WEH 5202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Das
+
+Spring 2024
+Title: Informational Visualization for Scientists
+
+Units: 6.0
+
+Section: A3
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 3SC 110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Welling
+
+Spring 2024
+
+Course number: 38616
+
+Title: Neural Networks & Deep Learning in Science
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 3SC 110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Isayev
+
+Spring 2024
+
+Course number: 38617
+Course number: 42782
+
+Title: Biomedical Engineering Systems Modeling and Analysis
+
+Units: 12.0
+
+Section: A,B
+
+Days: TR
+
+Start: 08:00AM,11:00AM
+
+End: 09:20AM,12:20PM
+
+Room: POS 152,BH A53
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chalacheva
+
+Fall 2023
+
+Course number: 42783
+
+Title: Neural Engineering Laboratory
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: M,T
+
+Start: 12:00PM,09:00AM
+
+End: 11:50AM,12:50PM
+
+Room: MI 130,EDS 125
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Smith, Weber
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Machine Translation
+
+Spring 2:
+
+Comp Semantics for NLP
+
+Neural Networks for NLP
+
+Elective
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in deepening their expertise in Human Language area of concentration
+
+Fall 1:
+
+Natural Language Processing
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+
+
+Answer: 

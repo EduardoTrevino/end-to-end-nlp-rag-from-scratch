@@ -1,0 +1,178 @@
+Question: How does SenteCon affect predictive performance on downstream tasks?
+
+Context: We evaluate the implications of SENTECON(+) on downstream predictive performance. Our results, including comparisons with baseline models, are shown in Tables 1 and 2. Importantly, we find that: (1) Both SENTECON and SENTECON+ per- form better than the Lexicon and Lexi- con+word2vec approaches do on downstream tasks (Table 1). This finding suggests that by mod- eling sentence-level context, SENTECON and SEN- TECON+ improve text characterization with respect to not only human evaluation but also
+text, and we ran a series of experiments using SEN- TECON in downstream predictive tasks. In doing so, we demonstrated that SENTECON and its exten- sion, SENTECON+, better represent the character and content of the text than traditional lexicons do. Furthermore, we showed that when used in con- junction with language models fine-tuned on the downstream task, SENTECON and SENTECON+ provide interpretability to deep language models without any loss of performance. These findings render SENTECON
+representations. Given a passage of text, SENTECON encodes the text as a layer of interpretable categories in which each dimension corresponds to the rele- vance of a specific category. Our empirical eval- uations indicate that encoding language with SENTECON provides high-level interpretability at little to no cost to predictive performance on downstream tasks. Moreover, we find that SENTECON outperforms existing interpretable language representations with respect to both its downstream
+Title: Production: Performance
+
+Units: 3.0
+
+Section: A3
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Douglas, Rissinger
+
+Spring 2024
+
+Course number: 57476
+
+Title: How Music Works: An Affective History
+
+Units: 6.0
+
+Section: A
+
+Days: W
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: PH 125D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Johnston
+
+Spring 2024
+
+Course number: 57477
+
+Title: Music of the Spirit
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 12:00PM
+End: 10:50AM,05:50PM
+
+Room: CMR F309,CMU REMOTE
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Spring 2024
+
+Course number: 18691
+
+Title: Digital Signal Processing
+
+Units: 12.0
+
+Section: A,B,Lec
+
+Days: F,MW
+
+Start: 12:00PM,10:00AM,02:00PM
+
+End: 11:50AM,01:50PM,03:50PM
+
+Room: SH 234,DH 1117,WEH 5320
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stern
+
+Spring 2024
+
+Course number: 18698
+
+Title: Neural Signal Processing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+Spring 2024
+
+Course number: 27741
+
+Title: Practical Methods in Transmission Electron Microscopy
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: TBA,MW
+
+Start: ,04:00PM
+
+End: ,05:20PM
+
+Room: DNM DNM,REH 124
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dickey
+
+Spring 2024
+
+Course number: 27754
+
+Title: Mechanical Behavior of Engineering Materials
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: SH 238
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: De Boer
+
+Spring 2024
+thesis defense. The pre sentation must communicate the research work done, similar to
+
+a conference paper presentation. The committee will observe the presentation, and then decide whether the thesis and presentation were acceptable, or whether further
+
+work is required. Unlike a P hD defense, only a simple majority vote of the committee is
+
+required for approval.
+our Future Faculty Program, both of which are designed to help participants be effectiv e and
+
+efficient in their teaching roles. The Eberly Center also assists departments in creating and
+
+conducting customized programs to meet the specific needs of their graduate student instructors.
+
+Specific information about Eberly Center support for graduate students is found at:
+
+https://www.cmu.edu/teaching/graduatestudentsupport/
+
+LTI Ph.D.  Graduate Student Handbook  Page 44
+exceed 12, and assign a grade at the end of the study. Th e faculty member must send
+
+an email to the Director indicating such wi llingness. You can then register for 11-636.
+
+Courses carrying more than 12 units in a se mester are NOT APPROVED as electives.
+
+Students may take athletics or music or th eatrical performance courses that do not
+
+require work outside of class times. Ho wever, such courses will NOT count toward
+
+the 195 units required for graduation.
+
+10.2.1  Incomplete Grades
+
+
+Answer: 

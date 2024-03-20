@@ -1,0 +1,169 @@
+Question: When did buggy rules change to include a permanent driver and four pushers along the course?
+
+Context: Rubik’s cube. Recently, a four-fingered gripper for caging and lifting various objects was introduced in [15]. Other approaches focused on increasing the gripping function of the fingered hand in specific scenarios. For example, micropat- terned pads were deposited to the fingertip’s surface of a two- finger gripper developed in [16] could enhance wet adhesion in gripping wet and deformable objects such as tofu. Despite the difference in structure, these grippers required pneumatic systems with
+2
+
+The White Rose Libraries open educational resources (OER) project was initiated in 2021, and drivers for the project included restrictions on access to physical library stock during the Covid-19 pandemic lockdowns, unsustainable and expensive business models for the provision of many e-books, as well as a growing interest in open and sustainable education.
+a push. The first 3 domains all have 4 actions (up, down, left, right), and the Rubik’s cube has 12 actions (a rotation of each face, in either direction).
+Course number: 18744
+
+Title: Autonomous Driving
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: BH 237B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rajkumar
+
+Spring 2024
+
+Course number: 18745
+
+Title: Rapid Prototyping of Computer Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: DH A302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Smailagic, Martelaro
+
+Spring 2024
+
+Course number: 18750
+
+Title: Wireless Networks and Applications
+Spring 2024
+
+Course number: 54184
+
+Title: Dramaturgy 2: Introduction to Production Dramaturgy
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Good
+
+Spring 2024
+
+Course number: 54190
+
+Title: Intro to Writing the Television Pilot
+
+Units: 9.0
+
+Section: A,B
+
+Days: TR
+
+Start: 09:30AM,11:00AM
+
+End: 10:50AM,12:20PM
+
+Room: PCA 231,BH 154A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Norman-Hunt,Handel
+
+Spring 2024
+Spring 2024
+
+Course number: 16848
+
+Title: Hands: Design and Control for Dexterous Manipulation
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: PH A18B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pollard
+
+Spring 2024
+
+Course number: 16865
+
+Title: Space Robotics Development
+
+Units: 12.0
+
+Section: A,
+
+Days: M,W
+
+Start: 03:30PM
+
+End: 04:50PM,06:20PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Whittaker, Jones,
+
+Spring 2024
+
+Course number: 16874
+But a few of the specific rules changed slightly, or are worth noting again: All drivers, pushers, designers and builders were required to members of the organization they’re competing for All team members (including designers and builders) must be “eligible” under the Executive Board’s requirements, which include a minimum of 36 units and being in good academic standing (with a minimum GPA requirement). The buggy/driver combo must weigh a minimum of 180 pounds (up from the previous 160 lbs)
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+Teams in the outside lane are given a 3 yard head start due to being required to go the long way around the traffic dummy Each pusher must have at least 1 hand on the buggy at all times, except in the transition zone; but no more than 1 pusher may be in contact with the buggy at any time In addition to the driver, pushers, and alternates, Rosters also included all designers and builders Buggies entered in Design Comp must also finish the race in order to qualify (but exceptions are permitted)
+18. Self-driving vehicles, 2007 Carnegie Mellon’s early attempts at self-driving vehicles progressed slowly, creeping around Pittsburgh’s Schenley Park in the late 1990s. But they were going full-throttle by the time CMU’s self-driving SUV, named BOSS, won the 2007 DARPA Urban Challenge road race.
+4.1.1  Department Policy on Double Counting Courses  .......................................................... 24
+
+4.1.2  External Internships  .............................................................................................................. 24
+
+4.1.3  Maximum Courseload  ........................................................................................................... 25
+Date -  April 15 ; Day - Monday ; Event - Mini-4 drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 15 ; Day - Monday ; Event - Semester & Mini-4 Faculty Course Evaluations open
+
+Date -  April 26 ; Day - Friday ; Event - Last Day of Classes
+
+Date -  April 26 ; Day - Friday ; Event - Semester & Mini-4 withdrawal deadline
+
+Date -  April 29 ; Event - 30 M-Tu Final Examinations
+
+Date -  May 1 ; Day - Wednesday ; Event - Reading Day
+
+
+Answer: 

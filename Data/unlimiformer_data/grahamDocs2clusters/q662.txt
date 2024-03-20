@@ -1,0 +1,61 @@
+Question: Which two institutes merged together to form the current day Carnegie Mellon University?
+
+Context: 3 2 0 2
+
+p e S 8 1
+
+]
+
+V C . s c [
+
+1 v 3 1 0 0 1 . 9 0 3 2 : v i X r a
+
+Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin
+
+Gabriel Moreira Language Technologies Institute Carnegie Mellon University gmoreira@cs.cmu.edu
+
+Manuel Marques Institute for Systems and Robotics Instituto Superior T´ecnico manuel@isr.tecnico.ulisboa.pt
+
+Jo˜ao Paulo Costeira Institute for Systems and Robotics Instituto Superior T´ecnico jpc@isr.tecnico.ulisboa.pt
+3 2 0 2
+
+n u J
+
+6 2
+
+] L C . s c [
+
+1 v 3 0 1 5 1 . 6 0 3 2 : v i X r a
+
+Structured Dialogue Discourse Parsing
+
+Ta-Chung Chi Language Technologies Institute Carnegie Mellon University tachungc@andrew.cmu.edu
+
+Alexander I. Rudnicky Language Technologies Institute Carnegie Mellon University air@cs.cmu.edu
+
+Abstract
+3 2 0 2
+
+t c O 3 1
+
+] L C . s c [
+
+3 v 6 1 2 7 1 . 5 0 3 2 : v i X r a
+
+Generating Images with Multimodal Language Models
+
+Jing Yu Koh Carnegie Mellon University jingyuk@cs.cmu.edu
+
+Daniel Fried Carnegie Mellon University dfried@cs.cmu.edu
+
+Ruslan Salakhutdinov Carnegie Mellon University rsalakhu@cs.cmu.edu
+
+Abstract
+In 1967, Carnegie Tech merged with the Mellon Institute, a science research center founded by the Mellon family of Pittsburgh, to become known as Carnegie Mellon University. The merger built upon a long history of support from the Mellons. It allowed Carnegie Mellon to establish the last of its current pillars: the Mellon College of Science and the College of Humanities and Social Sciences, now known as Marianna Brown Dietrich College of Humanities and Social Sciences. In 2017, Carnegie Mellon
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+nearby Mellon Institute of Industrial Research to form Carnegie-Mellon University. The Department of Computer Science moved into the newly created Mellon Institute of Science, later renamed Mellon College of Science, or MCS. Future SCS dean Raj Reddy joined the CSD in 1969 after three years as an assistant professor at Stanford. He brought with him research in speech, language and computer vision. But in 1970 and 1971, the new Computer Science Department faced its first crisis, as half of its
+
+
+Answer: 

@@ -1,0 +1,37 @@
+Question: What is the name of the proposed method that extends WavLM's joint prediction and denoising to 40k hours of data across 136 languages?
+
+Context: This work proposes DPHuBERT, a task-agnostic compres- sion method based on joint distillation and structured pruning. DPHuBERT outperforms previous distillation methods in most tasks of SUPERB. Comprehensive analyses are presented to in- vestigate its performance with less training data or at various sparsity ratios. In addition to HuBERT Base, our method can be directly applied to other speech SSL models such as WavLM and HuBERT Large while still being efficient and effective. In the future,
+In our experiments, we use a pre-trained WavLM model1 [17] to extract hidden embeddings. It was trained pri- marily on learning the masked language models by predicting the pseudo-labels while performing speech denoising simul- taneously. It achieved the best results on many downstream tasks in the SUPERB [20]. Note that the WavLM large model used comprises 24 hidden layers. The last Transformer-Encoder layer from the model is chosen to extract hidden embeddings because it has been reported
+In Table. 5, we present the performance on LibriSpeech 960 hours data with speed perturbation. As baselines, we listed the conventional FBank-based ASR system and the WavLM-Large
+MS students will be given access to the LTI’s comp uter cluster on an as-needed basis, to be used
+
+for course assignments, directed study projects, and/or the capstone project. The LTI cluster
+
+provides storage and computation for projects  involving large datasets and/or lengthy
+
+computation. 12
+
+10 Degree Requirements
+
+MSAII students are expected to complete their degr ee requirements within five consecutive semesters,
+Design and execute experimental data collection and present resulting analyses using appropriate user experience (UX) techniques including interactive data visualizations.
+
+Apply and customize analytics, systems and human
+
+centered data science techniques to application
+
+specific data science requirements and objectives.
+
+Identify tradeoffs among data science techniques (analytics, systems and/or human
+in all-things information - including locatin g and obtaining specific resources, providing
+
+specialized research support, advanced training in  the use and management of data. Sign up for
+
+workshops and hands-on topic-spe cific sessions such as data visualization with Tableau,
+
+cleaning data with OpenRefine, and getting st arted with Zotero. Weekly drop-in hours for
+
+Digital Humanities and for Rese arch Data Research Managem ent are scheduled during the
+
+
+Answer: 

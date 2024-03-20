@@ -1,0 +1,171 @@
+Question: What year was Fully Unsupervised Topic Clustering of Unlabelled Spoken Audio Using Self-Supervised Representation Learning and Topic Model published?
+
+Context: [7] X. Chang et al., “An exploration of self-supervised pretrained representations for end-to-end speech recognition,” in Proc. ASRU, 2021, pp. 228–235.
+
+[8] A. Mohamed et al., “Self-supervised speech representation learning: A review,” IEEE Journal of Selected Topics in Signal Processing, vol. 16, no. 6, pp. 1179–1210, 2022.
+
+[9]
+
+S. Schneider et al., “wav2vec: Unsupervised Pre-Training for Speech Recognition,” in Proc. Interspeech, 2019, pp. 3465– 3469.
+[4] S. Chen, C. Wang, Z. Chen, Y. Wu, S. Liu, Z. Chen, J. Li, N. Kanda, T. Yoshioka, X. Xiao et al., “Wavlm: Large-scale self- supervised pre-training for full stack speech processing,” IEEE J. Sel. Topics Signal Process., vol. 16, no. 6, pp. 1505–1518, 2022.
+
+[5] A. Baevski, W.-N. Hsu, A. Conneau, and M. Auli, “Unsupervised
+
+speech recognition,” in Proc. NeurIPS, 2021.
+Conneau A., Khandelwal K., Goyal N., Chaudhary V., Wenzek G., Guzmán F., Grave É., Ott M., Zettlemoyer L. and Stoyanov V. (2020). Unsupervised cross-lingual representation learning at scale. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 8440–8451.
+
+https://doi.org/10.1017/S1351324923000505 Published online by Cambridge University Press
+
+Natural Language Engineering
+Fall 2023
+
+Course number: 57627
+
+Title: Independent Study in Supervised Teaching
+
+Units: VAR
+
+Section: A,E,B,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 57651
+
+Title: Special Topics in Music:
+
+Units: VAR
+
+Section: A,E,B,C,D,
+
+Days: TBA,M, ,MW
+
+Start: ,02:00PM,08:30AM,10:00AM,
+
+End: ,02:50PM,11:50AM,09:20AM,
+
+Room: TBA, ,CFA KRESGE,WQE ST B
+
+Locations:  ,Pittsburgh, Pennsylvania
+Title: Current Topics in Privacy Seminar
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Habib, Sadeh
+
+Fall 2023
+
+Course number: 95865
+
+Title: Unstructured Data Analytics
+
+Units: 6.0
+
+Section: B2,C2,A2
+
+Days: TR
+
+Start: 05:00PM,03:30PM,02:00PM
+
+End: 03:20PM,04:50PM,06:20PM
+
+Room: HBH 1004,HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chen
+
+Fall 2023
+
+Course number: 95866
+Instructors: Savvides
+
+Fall 2023
+
+Course number: 18797
+
+Title: Machine Learning for Signal Processing
+
+Units: 12.0
+
+Section: A,SV,RW
+
+Days: TR
+
+Start: 08:00PM,11:00AM,02:00PM
+
+End: 12:20PM,09:20PM,03:20PM
+
+Room: B23 212,DH A302,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Ramakrishnan
+
+Fall 2023
+
+Course number: 18799
+
+Title: Special Topics in Signal Processing:
+
+Units: 12.0
+
+Section:  ,K
+
+Days:  ,MW
+
+Start:  ,10:00AM
+
+End: 11:50AM,
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+1948 saw the first independent orgs and the start of DTD’s run of greatness, but it wasn’t easy, as they barely held off KapSig for the championship.
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+Year 1 Fall:
+
+Grammars and Lexicons
+
+Algorithms for NLP
+
+Directed Study
+
+Year 1 Spring: - Search Engines or Machine Learning for Text Mining - Machine Translation - Self-Paced Lab - Directed Study
+
+Year 1 Summer:
+
+Required Research
+
+Year 2 Fall: - Software Engineering for LT (I) - Speech Understanding - Self-Paced Lab - Directed Study
+
+Year 2 Spring: - Software Engineering for LT (II) - Directed Study - Elective
+
+Year 2 Summer:
+
+Required Research
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+
+
+Answer: 

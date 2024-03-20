@@ -1,0 +1,118 @@
+Question: In spring 2025, When do the first day of classes for the winter semester take place?
+
+Context: Generate a yes or no answer to the following question. Question: Is it common to see frost during some college commencements? Answer: College commencement ceremonies can happen in December, May, and June. December is in the winter, so there can be frost. Thus, there could be frost at some commencements. So the final answer is yes.
+The first round of interviews took place in January 2022 with four academics from different departments at the University of York. The purpose was to gain insight into how they created their reading lists and found materials to include, specifically exploring the availability of OER and their inclusion on those lists. A thematic analysis was conducted and a copy of the report can be found in the Supplemental files. Suggestions from the first round about what should be included in the toolkit
+Received: 14 October 2022 – Discussion started: 27 February 2023 Revised: 9 May 2023 – Accepted: 17 July 2023 – Published: 1 September 2023
+Spring 2024
+
+Course number: 76101
+
+Title: Interpretation and Argument
+
+Units: 9.0
+
+Section: E,I,AC,LL,FF,AD,F,HH,CC,D,WW,GG,BB,II,C,EE,DD,J,AB,A,K,W,B,KK,JJ,YY,M,O,X,Z,MM,N,XX
+
+Days: MWF,UTR,TR
+
+Start: 08:45AM,08:00AM,04:00PM,09:30AM,03:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM,03:30PM,12:30PM
+
+End: 12:50PM,01:50PM,09:50AM,03:20PM,03:50PM,09:35AM,02:50PM,04:50PM,12:20PM,11:50AM,10:50AM,09:20AM,08:50AM
+Spring 2024
+
+Course number: 79275
+
+Title: Introduction to Global Studies
+
+Units: 9.0
+
+Section: A,B
+
+Days: TR
+
+Start: 11:00AM,02:00PM
+
+End: 12:20PM,03:20PM
+
+Room: PH 225B,WEH 5320
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eiss
+
+Spring 2024
+
+Course number: 79278
+
+Title: How (Not) to Change the World
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: BH 237B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Theriault
+
+Spring 2024
+
+Course number: 79280
+Spring 2024
+
+Course number: 15659
+
+Title: Probability and Computing
+
+Units: 9.0
+
+Section: A,B,C,D,Lec
+
+Days: F,TR
+
+Start: 12:30PM,01:00PM,09:00AM,02:00PM
+
+End: 01:50PM,02:50PM,09:50AM
+
+Room: GHC 4401,BH A53,WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Harchol-Balter, Wang
+
+Spring 2024
+
+Course number: 15661
+
+Title: Interaction and Expression using the Pausch Bridge Lighting
+
+Units: 4.0
+
+Section: A4
+
+Days: R
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: GHC 4301
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+close Date -  March 4 ; Event - 8 M-F Spring Break; No Classes Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 12 ; Day - Tuesday ; Event - Summer 2024 Registration Opens Date -  March 15 ; Day - Friday ; Event - Mini-4
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+
+
+Answer: 

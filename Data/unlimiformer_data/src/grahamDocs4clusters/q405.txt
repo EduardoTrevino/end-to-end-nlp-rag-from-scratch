@@ -1,0 +1,149 @@
+Question: Who was the first director of the Robotics Institute?
+
+Context: [12] Yaroslav Ganin and Victor Lempitsky. Unsupervised domain adaptation by backpropagation. In International conference on machine learning, pages 1180–1189. PMLR, 2015. 2 [13] Andreas Geiger, Philip Lenz, Christoph Stiller, and Raquel Urtasun. Vision meets robotics: The kitti dataset. The Inter- national Journal of Robotics Research, 32(11):1231–1237, 2013. 4
+This work has been supported by the Carl Zeiss Foundation through the JuBot project and by the Baden-W¨urttemberg Ministry of Science, Research and the Arts (MWK) as part of the state’s “digital@bw” digitization strategy in the context of the Real-World Lab “Robotics AI.”
+Isaac Asimov. Three laws of robotics. Asimov, I. Runaround, 2, 1941.
+
+Amanda Askell, Yuntao Bai, Anna Chen, Dawn Drain, Deep Ganguli, Tom Henighan, Andy Jones, Nicholas Joseph, Ben Mann, Nova DasSarma, et al. A general language assistant as a laboratory for alignment. arXiv preprint arXiv:2112.00861, 2021.
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bourne
+
+Spring 2024
+
+Course number: 16735
+
+Title: Ethics and Robotics
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nourbakhsh
+
+Spring 2024
+
+Course number: 16737
+
+Title: Special Topic: Research to Startup: creating a startup from robotics research
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: WEH 2302
+Fall 2023
+
+Course number: 16997
+
+Title: Reading and Research in Robotics
+
+Units: 0-48
+
+Section: A,PP
+
+Days: TBA,F
+
+Start: ,03:30PM
+
+End: ,04:50PM
+
+Room: TBA,DNM DNM,BH 235B
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Wettergreen,Garrod, Rivers
+
+Fall 2023
+
+Course number: 07120
+
+Title: Introduction to Software Construction
+
+Units: 6.0
+
+Section: A2
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: DH 2105
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hilton, Goel
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5415
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Atkeson
+
+Spring 2024
+
+Course number: 16311
+
+Title: Introduction to Robotics
+
+Units: 12.0
+
+Section: A,
+
+Days: T,MW
+
+Start: 04:00PM,02:00PM
+
+End: 04:50PM,03:20PM
+
+Room: GHC 4307,GHC 4215
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Choset, Rao,
+
+Spring 2024
+
+Course number: 16350
+
+Title: Planning Techniques for Robotics
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+Launching a Robotics Institute In 1979, an executive at Pittsburgh’s Westinghouse Electric Corp., Tom Murrin, collaborated with Jordan and Reddy to create the Robotics Institute, with Reddy as its first director. By 1982, the Computer Science Department included more than 30 faculty members and 100 graduate students.
+SCS is officially formed CMU’s Faculty Senate in the fall of 1988 agreed to President Richard Cyert’s plan to elevate the Department of Computer Science to college status. In addition to the Computer Science Department, SCS also incorporated the Robotics Institute, the Center for Machine Translation, and researchers from the Information Technology Center, which had developed Andrew. On Dec. 13, 1988, Cyert (H’89) told faculty and staff that Habermann had been appointed CMU’s first Dean of
+nearly 1,700, including undergraduate, master’s and Ph.D. students, and conducted $124 million in research. Indeed, by itself, the Robotics Institute is the largest university robotics research group in the world, with more than 500 people and more than 100 ongoing research projects. A half-century ago, Perlis, Simon and Newell outlined a vision for computer science. The School of Computer Science at CMU remains committed to continuing and extending their vision in the context of big data and
+
+
+Answer: 

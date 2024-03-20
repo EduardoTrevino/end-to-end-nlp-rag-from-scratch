@@ -1,0 +1,152 @@
+Question: When did independent organizations, other than fraternities, enter Buggy for the first time?
+
+Context: Oscar Täckström, Dipanjan Das, Slav Petrov, Ryan Mc- Donald, and Joakim Nivre. 2013. Token and type constraints for cross-lingual part-of-speech tagging. Transactions of the Association for Computational Linguistics, 1:1–12.
+
+Erik F. Tjong Kim Sang and Fien De Meulder. 2003. Introduction to the CoNLL-2003 shared task: Language-independent named entity recognition. In Proceedings of the Seventh Conference on Natural Language Learning at HLT-NAACL 2003, pages 142– 147.
+In August 2022, Castryck and Decru [7] (and independently Maino and Mar- tindale [26]) introduced new powerful attacks against SIDH, with polynomial time complexity when the endomorphism ring of E0 is known and subexpo- nential complexity in general. Extensions by Robert [33] further reduced the complexity to polynomial time in the general case. In a sense, these attacks can be seen as generalizations of previous torsion point attacks3, but with a key ad- ditional insight: they crucially embed
+Rose (1981) was nothing if not a roman à clef about the perfidy of librarians hoard- ing secrets—which of course we know we never do. A final example, the pharaonic undertaking by two other outsiders, Sergey Brin and Larry Page, to create a universal digital library, was, as Deanna Marcum and Roger C. Schonfeld argue in Along Came Google: A History of Library Digitization, brought down largely through the opposition of major library organizations, ALA, ARL, and ACRL.
+Title: Independent Study in Computer Science Pedagogy:
+
+Units: 3-18
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Eckhardt, O'Hallaron
+
+Fall 2023
+
+Course number: 15640
+
+Title: Distributed Systems
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec
+
+Days: F,TR
+
+Start: 08:00AM,03:00PM,09:00AM,02:00PM,10:00AM,11:00AM
+
+End: 09:50AM,03:50PM,12:20PM,02:50PM,10:50AM,08:50AM
+
+Room: MM 103,BH A36,POS 153,POS 152,CUC MCCNMY
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Farooqi,Hollifield
+
+Spring 2024
+
+Course number: 70504
+
+Title: Independent Study in Organizational Behavior
+
+Units: 3-18
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Farooqi,Hollifield
+
+Spring 2024
+
+Course number: 70505
+
+Title: Independent Study in Finance
+
+Units: 3-18
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Spring 2024
+
+Course number: 95902
+
+Title: Independent Study
+
+Units: 1-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Butkovic
+
+Spring 2024
+
+Course number: 95903
+
+Title: Independent Study
+
+Units: 1-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhang
+
+Spring 2024
+
+Course number: 95904
+
+Title: Independent Study
+
+Units: 1-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+The war is over, and we won! This week, the 100 Years of Buggy History series brings back Fraternities, Spring Carnival, and most importantly, Buggy! The post-war era brought a whole new style of buggy, but also brought with it some controversies. It also saw the entry of multiple non-Greek organizations for the first time! (As a reminder, the Men’s Dorms were permitted to enter in 1928, though it’s unclear if they actually did).
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+
+
+Answer: 

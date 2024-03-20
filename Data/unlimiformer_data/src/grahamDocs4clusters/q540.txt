@@ -1,0 +1,295 @@
+Question: What is the Gates Hillman Complex at Carnegie Mellon University's 5 digit zip code?
+
+Context: 3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+3 2 0 2
+
+t c O 3 1
+
+] L C . s c [
+
+3 v 6 1 2 7 1 . 5 0 3 2 : v i X r a
+
+Generating Images with Multimodal Language Models
+
+Jing Yu Koh Carnegie Mellon University jingyuk@cs.cmu.edu
+
+Daniel Fried Carnegie Mellon University dfried@cs.cmu.edu
+
+Ruslan Salakhutdinov Carnegie Mellon University rsalakhu@cs.cmu.edu
+
+Abstract
+3 2 0 2
+
+t c O 0 3
+
+] L C . s c [
+
+3 v 5 2 6 1 0 . 5 0 3 2 : v i X r a
+
+Unlimiformer: Long-Range Transformers with Unlimited Length Input
+
+Amanda Bertsch
+
+Uri Alon∗
+
+Graham Neubig
+
+Matthew R. Gormley Carnegie Mellon University, USA {abertsch,ualon,gneubig,mgormley}@cs.cmu.edu
+
+Abstract
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Start: 09:30AM,04:00PM
+
+End: 10:50AM,06:20PM
+
+Room: PH A19,POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hiller
+
+Spring 2024
+
+Course number: 03900
+
+Title: Doctoral Thesis Research
+
+Units: 5-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hinman, Hiller
+
+Spring 2024
+
+Course number: 42101
+
+Title: Introduction to Biomedical Engineering
+
+Units: 12.0
+
+Section: A
+
+Days: MF
+
+Start: 02:00PM
+
+End: 02:50PM
+
+Room: BH A51
+End: 12:20PM
+
+Room: OFF CAMPUS
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lanni
+
+Fall 2023
+
+Course number: 03900
+
+Title: Doctoral Thesis Research
+
+Units: 5-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hinman, Hiller
+
+Fall 2023
+
+Course number: 42101
+
+Title: Introduction to Biomedical Engineering
+
+Units: 12.0
+
+Section: A
+
+Days: MF
+
+Start: 01:00PM
+
+End: 01:50PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Abbott
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Official Mascot? More than a century after Carnegie Mellon University opened its doors, an official mascot finally made its mark. Although students have dressed as a Scottish terrier — typically referred to as Scotty — for 50 years, it wasn't until 2007 that Carnegie Mellon officially welcomed the Scottish terrier as the university's first mascot.
+Carnegie Mellon's official mascot debuted at the Nov. 10, 2007 home football game. The graphic features a profile of a distinguished, bold Scottish terrier sporting a plaid scarf around his neck. The dog is contained in a shield, representing Carnegie Mellon's Scottish heritage.
+
+The Task Force then partnered with a mascot costume company to design our Scottish terrier in the winter of 2007. The official Scotty costume was unveiled at the 2008 Spring Carnival.
+conflicts.
+
+The Language Technologies Institute is located primarily on the 5
+
+th and 6th floors  of the Gates
+
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus. The address and contact
+
+information of the LTI are:
+
+Language Technologies Institute
+
+Carnegie Mellon University
+
+5000 Forbes Avenue
+
+Gates Hillman Complex 5402, LTI
+
+Pittsburgh, PA 152 41-3891
+
+412- 268-6591 (phone)
+
+412- 268-6298 (fax)
+
+http://www.lti.cs.cmu.edu/
+
+MLT Graduate Student Handbook  Page 8
+The Language Technologies Institute is located primarily on the 5th and 6th floors of the Gates
+
+Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus . The address and contact
+
+information of the LTI are :
+
+Language Technologies Institute
+
+Carnegie Mellon University
+
+5000 Forbes Avenue
+
+Gates Hillman Complex 5404 , LTI
+
+Pittsburgh, PA 15241 -3891
+
+412-268-6591  (phone)
+
+412-268-6298 (fax)
+
+http://www.lti.cs.cmu.edu/
+
+1.5 Carnegie Mellon University Statement of Assurance
+The Language Technologies Institute is located primarily on the 5th and 6th floors of the Gates Hillman Complex (GHC) on Carnegie Mellon’s Pittsburgh campus:
+
+Language Technologies Institute Carnegie Mellon University 5000 Forbes Avenue Gates Hillman Complex 5402, LTI Pittsburgh, PA 15241-3891
+
+
+Answer: 

@@ -1,0 +1,170 @@
+Question: At what conference was "BASS: Block-wise Adaptation for Speech Summarization" published?
+
+Context: Paper title: 'Structured Pruning of Self-Supervised Pre-Trained Models for Speech Recognition and Understanding' Published year: 2023 Publication venue or conference: IEEE International Conference on Acoustics, Speech, and Signal Processing Authors: Yifan Peng, Kwangyoun Kim, Felix Wu, Shinji Watanabe, Prashant Sridhar Summary: This work proposes three task-specific structured pruning methods to deal with heterogeneous speech models that not only utilize a stack of Transformer blocks, but also
+In this paper, we described our systems for the mul- tilingual speech translation track of IWSLT 2023, which translates English speech into 10 target lan- guages. To tackle the task of translating scien- tific conference talks, which feature non-native in- put speech and terminology-dense contents, our systems have several novelties. Lacking suitable training data for the target domain, we used kNN- MT for inference-time adaptation and showed an improvement of +0.8 BLEU for cascaded speech
+Xutai Ma, Juan Pino, and Philipp Koehn. 2020b. SimulMT to simulST: Adapting simultaneous text translation to end-to-end simultaneous speech trans- lation. In Proceedings of the 1st Conference of the Asia-Pacific Chapter of the Association for Compu- tational Linguistics and the 10th International Joint Conference on Natural Language Processing, pages 582–587.
+Title: Writing the Adaptation for Stage and Screen
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Swenson, Kirk
+
+Fall 2023
+
+Course number: 54191
+
+Title: Acting for Non-Majors
+
+Units: 9.0
+
+Section: A,B
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: PCA 115,PCA 313
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pazos,Swierc
+
+Fall 2023
+
+Course number: 54195
+
+Title: Creative and Dramatic Writing for Engineers
+Course number: 18495
+
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Spring 2024
+
+Course number: 18500
+
+Title: ECE Design Experience
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: TBA,HH 1307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Fedder,Kim,Sullivan,Mukherjee,Savvides
+
+Spring 2024
+
+Course number: 18525
+Course number: 80788
+
+Title: Acoustics of Human Speech: Theory, Data, and Analysis
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bjorndahl
+
+Spring 2024
+
+Course number: 80811
+
+Title: Professional Development Seminar
+
+Units: 6.0
+
+Section: A,C,B
+
+Days: M
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: BH 145C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zaffora Blando
+
+Spring 2024
+
+Course number: 80814
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+Language Technologies Institute - Faculty Name: Ralf Brown Email: ralf@andrew.cmu.edu Office: 5711 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Translation, Natural Language Processing and Computational Linguistics Phone: 412-268-8298
+
+
+Answer: 

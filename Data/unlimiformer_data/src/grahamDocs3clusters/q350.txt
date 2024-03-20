@@ -1,0 +1,166 @@
+Question: What is the title of the paper that proposes a novel re-ranker model abbreviated FiT5?
+
+Context: Common IR pipelines are typically cascade sys- tems that may involve multiple rankers and/or fusion models to integrate different informa- tion step-by-step. In this paper, we propose a novel re-ranker named Fusion-in-T5 (FiT5), which integrates document text information, retrieval features, and global document in- formation into a single unified model using templated-based input and global attention. Ex- periments on passage ranking benchmarks MS MARCO and TREC DL show that FiT5 sig-
+Paper title: 'Fusion-in-T5: Unifying Document Ranking Signals for Improved Information Retrieval' Published year: 2023 Publication venue or conference: arXiv.org Authors: Technology, N. University, Zhenghao Liu Tsinghua University, Cheng-Chung Fan, Microsoft Research, Chenyan Xiong, S. Yu, Zhiyuan Liu, David Jin, Huazhong University of Science, M. I. O. Technology Summary: A novel re-ranker named Fusion-in-T5 (FiT5), which integrates document text information, retrieval features, and global
+In this paper, we introduce Fusion-in-T5 (FiT5), a T5-based (Raffel et al., 2020) re-ranking model that collects ranking signals and ranks documents within a unified framework. FiT5 is designed to consolidate multiple IR features, including doc- ument texts, ranking features, and global docu- ment information, into a single learnable model. Specifically, the input to FiT5 is formulated us- ing a template that incorporates the document text with the ranking feature, which is represented as
+Course number: 99359
+
+Title: IDeATe: 3D Modeling and 3D Printing
+
+Units: 1.0
+
+Section: A1,A2
+
+Days: S,U
+
+Start: 12:30PM,12:00PM
+
+End: 03:00PM,03:30PM
+
+Room: HL A5
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Patton
+
+Fall 2023
+
+Course number: 99360
+
+Title: IDeATe: E-Textiles
+
+Units: 1.0
+
+Section: A2
+
+Days: S
+
+Start: 11:00AM
+
+End: 03:00PM
+
+Room: HL A10
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Albaugh
+
+Fall 2023
+
+Course number: 99384
+Instructors: Schmerl, Bloch
+
+Fall 2023
+
+Course number: 17415
+
+Title: Software Engineering Reflection
+
+Units: 6.0
+
+Section: A,B
+
+Days: F
+
+Start: 12:30PM,11:00AM
+
+End: 01:50PM,12:20PM
+
+Room: PH 125D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sunshine, Schmerl
+
+Fall 2023
+
+Course number: 17437
+
+Title: Web Application Development
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: BH A51
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eppinger
+
+Fall 2023
+Section: A3,B3
+
+Days: U,S
+
+Start: 12:30PM,12:00PM
+
+End: 04:30PM,04:00PM
+
+Room: HL 106C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dyar
+
+Spring 2024
+
+Course number: 99359
+
+Title: IDeATe: 3D Modeling and 3D Printing
+
+Units: 1.0
+
+Section: A3,B3
+
+Days: U,S
+
+Start: 12:30PM,12:00PM
+
+End: 03:00PM,03:30PM
+
+Room: HL A5
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Patton
+
+Spring 2024
+
+Course number: 99360
+
+Title: IDeATe: E-Textiles
+
+Units: 1.0
+
+Section: A3
+
+Days: S
+
+Start: 11:00AM
+If you can ID any of the unknown buggies, let us know.
+
+1949 – Design Competition (from the 1966 Buggy Book). Buggies are KapSig (far left), SAE’s design winner (#4, 2nd from the left), Men’s Dorms (#7, 3rd from the left), and DU (#11, far right).
+
+1949 – SAE’s Design-winning buggy getting worked on (from the November 1949 issue of The Record, the SAE National Publication)
+
+1949 – Citcom Clan Buggy (#9) (from the 1950 Thistle).
+5.5 Process for Appealing Final Grades
+
+Final grades will be changed only in exceptional circumstances and only with the approval of the instructor and the department, unit or program. Grading is a matter of sound discretion of
+
+the instructor and final grades are rarely changed without the consent of the instructor who
+5.3 Independent Study  .......................................................................................................................... 21
+
+5.4 University Policy on Grades  ......................................................................................................... 21
+
+5.5 Process for Appealing Final Grades ............................................................................................ 21
+
+
+Answer: 

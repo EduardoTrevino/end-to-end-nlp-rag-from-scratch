@@ -1,0 +1,31 @@
+Question: What does ICTIR stand for?
+
+Context: [11] Luca Busin and Stefano Mizzaro. 2013. Axiometrics: An Axiomatic Approach to Information Retrieval Effectiveness Metrics. In Proceedings of the 2013 Conference on the Theory of Information Retrieval (ICTIR ’13). Association for Computing Machinery, New York, NY, USA, 22–29.
+[17] Charles L.A. Clarke, Alexandra Vtyurina, and Mark D. Smucker. 2020. Offline Evaluation without Gain. In Proceedings of the 2020 ACM SIGIR on International Conference on Theory of Information Retrieval (ICTIR ’20). Association for Computing Machinery, New York, NY, USA, 185–192.
+[28] Fernando Diaz. 2015. Condensed List Relevance Models. In Proceedings of the 2015 International Conference on The
+
+Theory of Information Retrieval (ICTIR ’15). ACM, New York, NY, USA, 313–316.
+
+[29] Fernando Diaz and Andres Ferraro. 2022. Offline Retrieval Evaluation Without Evaluation Metrics. In Proceedings of
+
+the 45th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval.
+offered by the Language Technologies Institute (LTI), a graduate department in the School of
+
+Computer Science at Carnegie Mellon University. The MIIS degree provides advanced study
+
+and practical experience in areas of Computer Science focused on the processing and analysis
+
+of unstructured and semi -structured information, for example, text, image, video, speech, and
+
+audio information. It is a practice -oriented professional degree designed for students who
+Innovation (MSAII) program is a successor to the M.S. in Biotechnology, Innovation and Computing (MSBIC). It combines a rigorous AI and machine learning curriculum with real-world team experience in identifying an AI market niche and developing a responsive product in cooperation with external stakeholders. The core program, which lasts four semesters and leads to a capstone project, focuses on both intrapreneurship and entrepreneurship, equipping graduates to either begin a startup or develop
+Student Information Online (SIO) is a secure site where students can find important,
+
+personalized information, including E -Bills and student account information, financial aid
+
+status and eligibility, grades and QPA, and course schedules. Students can updat e their and
+
+their spouse's or domestic partner's contact information, sign up for E -Check & E -Refund,
+
+
+Answer: 

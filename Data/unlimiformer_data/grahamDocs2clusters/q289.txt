@@ -1,0 +1,75 @@
+Question: Which fraternity won the first race in 1920?
+
+Context: why are there 5 rings in the olympics symbol? what does it represent? i heard few theories about it but not sure what is the correct one the 5 rings were intro- duced at the the 1920 games in antwerp games. the rings included at least one color from the flag of every participat- ing country.
+
+why are there 5 rings in the olympics symbol?
+MMLU [HBB+22] RACE [LXL+17] EXAMS [HMZ+20] LiteratureQA (ours) HellaSwag [ZHB+19] PIQA [BZB+20] BoolQ [CLC+19] SituatedQA [ZC21] ARC-Challenge [CCE+18] OBQA [MCKS18] Winogrande [SBBC21]
+
+EN EN AR AR
+
+EN EN EN EN EN EN EN
+
+14K 4.1K – –
+
+40K 3.6K 6.5K 5.7K 4.6K 2K 2.5K
+
+14K – 0.5K 175
+
+40K 3.6K 6.5K 5.7K 4.6K 2K –
+
+Misinformation and Bias
+
+TruthfulQA (mc) [LHE22] CrowS-Pairs [NVBB20]
+
+EN EN
+
+5.8K 3K
+
+5.8K 3K
+Section: A,C,B,Lec
+
+Days: F,TR
+
+Start: 12:30PM,01:00PM,12:00PM,02:00PM
+
+End: 12:50PM,01:50PM,02:50PM
+
+Room: WEH 5316,PH 125C,POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Matthews
+
+Fall 2023
+
+Course number: 19201
+
+Title: Professional Issues in Engineering, Science, Technology and Public Policy
+
+Units: 1.0
+
+Section: A
+
+Days: F
+
+Start: 01:00PM
+
+End: 01:50PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Matthews
+
+Fall 2023
+
+Course number: 19301
+The starting line from the inaugural race in June 1920 was outside what is now known as the College of Fine Arts building. Racers then traveled toward Margaret Morrison Carnegie Hall, went up Tech Street, down through Schenley Park and then turned back to campus. Buggies would then take pit stops and have their rear wheels swapped before heading back toward the starting line.
+
+Alpha Kappa Psi, the first sorority to enter a Buggy on race day, in 1922.
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+
+
+Answer: 

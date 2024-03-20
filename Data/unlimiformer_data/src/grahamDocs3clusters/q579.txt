@@ -1,0 +1,188 @@
+Question: What is the title of LTI's text mining course?
+
+Context: Paper title: 'PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Ta-Chung Chi, Yau-Shian Wang, Ruohong Zhang, Yiming Yang Summary: PESCO is presented, a novel contrastive learning framework that substantially improves the performance of zero-shot text classification and achieves state-of-the-art performance on four benchmark text
+[48] Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, and Peter J. Liu. 2020. Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer. J. Mach. Learn. Res. (2020), 140:1–140:67.
+
+Text Matching Improves Sequential Recommendation by Reducing Popularity Biases
+
+[49] Steffen Rendle. 2010. Factorization Machines. In Proceedings of The 10th IEEE
+
+International Conference on Data Mining. 995–1000.
+Holger Schwenk, Vishrav Chaudhary, Shuo Sun, Hongyu Gong, and Francisco Guzm´an. WikiMa- trix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia. In Proceedings of Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2021.
+
+Thibault Sellam, Dipanjan Das, and Ankur Parikh. BLEURT: Learning robust metrics for text generation. In Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL), 2020.
+Instructors: Li
+
+Fall 2023
+
+Course number: 11741
+
+Title: Machine Learning for Text and Graph-based Mining
+
+Units: 12.0
+
+Section: A,PP
+
+Days: TBA,TR
+
+Start: ,11:00AM
+
+End: ,12:20PM
+
+Room: TBA,HH B131
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 11742
+
+Title: Search Engines:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room:  ,MI 348
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Mortensen, Oflazer
+
+Fall 2023
+
+Course number: 11441
+
+Title: Machine Learning for Text and Graph-based Mining
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 11442
+
+Title: Search Engines
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: MI 348
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11641
+
+Title: Machine Learning for Text and Graph-based Mining
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 11642
+
+Title: Search Engines
+Information retrieval, machine translation and speech technology are used daily by the general public, while text mining, natural language processing and language-based tutoring are common within more specialized professional or educational environments. The LTI prepares students for this world by offering a minor that gives you the opportunity to not only learn about language technologies, but to also apply that knowledge through a directed project.
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+by actual classroom courses, not credit given for research or independent study.
+
+An “LTI course ” is any 12 -unit course with a number of 11 -XXX; a  6-unit course with 11 -XXX
+
+counts as one- half of an LTI course. Unless otherwise specified, "course" means an actual
+
+classroom course, not  credit given for research or independent study. Note that the LTI  allow s
+
+any one MLD (10 -XXX) graduate course to count as an "LTI course".
+
+
+Answer: 

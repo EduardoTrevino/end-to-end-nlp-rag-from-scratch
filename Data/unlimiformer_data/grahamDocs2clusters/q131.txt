@@ -1,0 +1,25 @@
+Question: What is the improvement achieved by the PET framework on the AlfWorld instruction following benchmark?
+
+Context: We propose the Plan, Eliminate, and Track (PET) framework. The Plan module trans- lates a task description into a list of high-level sub-tasks. The Eliminate module masks out irrelevant objects and receptacles from the ob- servation for the current sub-task. Finally, the Track module determines whether the agent has accomplished each sub-task. On the Alf- World instruction following benchmark, the PET framework leads to a signiﬁcant 15% improvement over SOTA for generalization to human goal
+In our experiments, we combine PET with a novel Ac- tion Attention agent that handles the dynamic action space in AlfWorld. Our Action Attention agent greatly outperforms the BUTLER baseline. In addition, since the PET framework is not trained to ﬁt the training set tasks, it demonstrates better generalization to unseen human goal speciﬁcation tasks. Finally, our ablation studies show the Plan and Track modules together im- prove the performance of Eliminate module to achieve the best
+We focus on instruction following in indoor households on the AlfWorld (Shridhar et al., 2020b) interactive text environment benchmark. Our experiments and analysis demonstrate that LLMs not only remove 40% of task- irrelevant objects in observation through common-sense QA, but also generate high-level sub-tasks with 99% accuracy. In addition, multiple LLMs may be used in coordination with each other to assist the agent from diﬀerent aspects.
+
+Our contributions are as follows:
+
+1. PET: A novel
+5.2.5  Satisfactory Progress  ............................................................................................. 24
+
+5.2.6  Winter and Summer Breaks  .................................................................................. 24
+
+5.3 CMU Academic Policies  ................................................................................................ 24
+
+5.3.1  Assistance for Individuals with Disabilities  ............................................................ 24
+Innovation (MSAII) program is a successor to the M.S. in Biotechnology, Innovation and Computing (MSBIC). It combines a rigorous AI and machine learning curriculum with real-world team experience in identifying an AI market niche and developing a responsive product in cooperation with external stakeholders. The core program, which lasts four semesters and leads to a capstone project, focuses on both intrapreneurship and entrepreneurship, equipping graduates to either begin a startup or develop
+10.3.2 Monitoring  Progress ...........................................................................................................  17
+
+10.3.3 Degree Certification  ............................................................................................................  17
+
+10.4 Internship  ............................................................................................................................... ..... 18
+
+
+Answer: 

@@ -1,0 +1,149 @@
+Question: In fall 2024, What is the deadline for Mini-2 drop and withdrawal grade assigned after this date?
+
+Context: repositories from The Stack v1.1. After the cut-off date (31 October 2022), we have received more requests for requests and we will remove these repositories prior to releasing The Stack v1.2.
+↓2.2062.08
+
+↓3.9262.40
+
+↓3.2956.99
+
+↑1.1665.44
+
+↓0.0666.26
+
+↓1.3760.30
+
+↑0.5166.83
+
+↓0.9159.37
+
+↓0.4063.88
+
+↑0.2459.94
+
+ModelGENDERbiasRACEbiasRELIGIONbiasLMScore
+
+↓1.0983.08+DROPOUT(Websteretal.,2020)
+
+↓0.7088.23+SELF-DEBIAS(Schicketal.,2021)
+
+↓3.1558.52
+
+↓3.7455.96
+
+↓30.3053.87
+
+↑0.3860.66
+
+↓2.8958.78
+
+↓9.5749.87
+
+↓0.8259.46
+
+↓0.1083.83+DROPOUT(Websteretal.,2020)
+
+↓1.4462.84
+
+↑0.2489.19
+
+↓0.0884.09+SENTENCEDEBIAS(Liangetal.,2020)
+2023a). Remarkably, when integrated with the SELF-ALIGN technique (Sun et al., 2023b), our method enabled the training of a self-aligned AI-assistant agent, namely Dromedary-2, from scratch by only manually crafting 6 exemplars for In-Context Learning (Brown et al., 2020) and a combined total of 31 principles (17 from SELF-ALIGN and 14 for SALMON). Despite its mini- mal human supervision design, our model outperformed the extensively RLHF-trained LLaMA-2- Chat model (Touvron et al., 2023b),
+Instructors: Bjorndahl,Glymour,Spirtes,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Seidenfeld,Awodey,Simons,Werner,Ramsey,Avigad
+
+Fall 2023
+
+Course number: 80992
+
+Title: Directed Reading Mini
+
+Units: 3,6,12,15
+
+Section: I2,S2,E2,O2,Q2,P2,C2,R2,L2,G2,B2,J2,N2,F2,D2,H2,M2,T2,K2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A1
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33224
+
+Title: Stars, Galaxies and the Universe
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,T
+
+Start: 03:00PM,07:00PM
+
+End: 07:50PM,03:50PM
+
+Room: HH B103,POS 151
+Instructors: Glymour,Wu,Bjorndahl,Spirtes,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Seidenfeld,Simons,Awodey,Smith,Werner,Avigad
+
+Fall 2023
+
+Course number: 80496
+
+Title: Undergraduate Independent Study Mini
+
+Units: VAR
+
+Section: I2,S2,E2,O2,Q2,P2,C2,R2,L2,G2,B2,J2,N2,F2,D2,H2,M2,T2,K2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+The Finals, initially scheduled for 2pm on Saturday, May 4, were ultimately postponed until Saturday, May 11, due to a downpour that cast a damper on an otherwise exciting Spring Carnival. Controversial Finals. An overcast sky threatened rain on the makeup date as well, though it held off long enough for the race to be run. But some of the spectators may have wished the rain came sooner. Although signs were posted about the makeup date, cars ignored the notices and ended up blocking part of the
+Fight Over Carnival Schedule. Now that Spring Carnival was back on, the students had to decide how they wanted it – As 2 days in May (losing a day of vacation) or one day in April (not sacrificing any other off days). Buggy was going to happen either way, but ultimately the students voted on a 2 day Carnival, keeping the tradition intact and putting Raceday on the schedule for May 2-3. Time Trials. It looks like this post-war period was when the race changed from a head-to-head to a time trial.
+cross the finish line in the Finals. So is it possible that DTD rolled 35 seconds faster during the Finals? Sure. But I think I buy that they were 25 seconds slower a little more. 1947 Raceday: Prelims on Friday, May 2 at 1:00pm; Finals on Saturday, May 3 at 2:30pm
+; Day - Monday ; Event - Mini-1 drop deadline; withdrawal grade assigned after this date (2) Date -  September 30 ; Day - Monday ; Event - Mini-1 Pass/no pass & withdrawal deadline (3) Date -  September 30 ; Day - Monday ; Event - Mini-1 Faculty Course Evaluations open Date -  October 7 ; Day - Monday ; Event - Semester drop deadline; withdrawal grade assigned after this date (2) Date -  October 11 ; Day - Friday ; Event - Mini-1 Last Day of Classes Date -  October 11 ; Day - Friday ; Event -
+(1) Date -  November 5 ; Day - Tuesday ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet Date -  November 11 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  November 13 ; Day - Wednesday ; Event - Mini-2 drop deadline; withdrawal grade assigned after this date (2) Date -  November 18 ; Event - 22 M-F Spring 2025 Registration Week Date -  November 25 ; Day - Monday ; Event - Mini-2 pass/no pass & withdrawal deadline (3) Date -
+; Day - Monday ; Event - Summer Two & Mini-6 drop deadline; withdrawal grade assigned after this date (2) Date -  July 21 ; Day - Monday ; Event - Summer Two & Mini-6 pass/no pass & withdrawal deadline (3) Date -  July 28 ; Day - Monday ; Event - Summer All, Two & Mini-6 Faculty Course Evalutations open Date - July 31 ; Thursday ; Event - Summer All, Two & Mini-6 Last Day of Classes Date -  July 31 ; Event - Summer All, Two & Mini-6 voucher deadline Date -  August 1 ; Day - Friday ; Event -
+
+
+Answer: 

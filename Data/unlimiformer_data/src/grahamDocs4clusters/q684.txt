@@ -1,0 +1,187 @@
+Question: Who is the first author of "Reverse-Engineering Decoding Strategies Given Blackbox Access to a Language Generation System"?
+
+Context: Paper title: 'Reverse-Engineering Decoding Strategies Given Blackbox Access to a Language Generation System' Published year: 2023 Publication venue or conference: International Conference on Natural Language Generation Authors: Daphne Ippolito, Milad Nasr, Yun William Yu, Nicholas Carlini, Katherine Lee Summary: Methods to reverse-engineer the decoding method used to generate text (i.e., top-_k_ or nucleus sampling) are presented, which has implications for detecting generated text.
+3 2 0 2
+
+p e S 9
+
+]
+
+G L . s c [
+
+1 v 8 5 8 4 0 . 9 0 3 2 : v i X r a
+
+Reverse-Engineering Decoding Strategies Given Blackbox Access to a Language Generation System
+
+Daphne Ippolito∗ dei@google.com
+
+Nicholas Carlini* ncarlini@google.com
+
+Katherine Lee* katherinelee@google.com
+
+Milad Nasr* miladnasr@google.com
+
+Yun William Yu† ywyu@math.toronto.edu
+
+Abstract
+
+sided die, we found that it only returns 14 of the 20 options, even though all should be equally likely.
+Language models are increasingly being incorporated into web applications and other user-facing tools.1 These applications typically do not provide direct access to the underlying language model or the decoding configuration used for generation. In this paper, we show how even in this blackbox setting, it is possible to identify the decoding strategy employed for generation. We consider the case where one only has access to a system that inputs a prompt and out- puts a generated response. We
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+Course number: 82881
+
+Title: Research Methods in Second Language Acquisition
+
+Units: 9.0
+
+Section: A
+
+Days: R
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: POS 235
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Koda
+
+Spring 2024
+
+Course number: 82888
+
+Title: Topics in Second Language Acquisition:
+
+Units: 9.0
+
+Section: A, ,B
+
+Days: M, ,W
+
+Start:  ,06:00PM,02:00PM
+
+End:  ,08:50PM,04:50PM
+
+Room:  ,POS 235,BH 235B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Van Compernolle,Burns
+
+Spring 2024
+Start:  ,04:00PM,07:00PM
+
+End:  ,08:20PM,05:20PM
+
+Room: B23 212,INI DEC,
+
+Locations: San Jose, California, ,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Telang
+
+Spring 2024
+
+Course number: 14819
+
+Title: Introduction to Software Reverse-Engineering
+
+Units: 12.0
+
+Section: A,SV
+
+Days: TR
+
+Start: 09:30AM,12:30PM
+
+End: 10:50AM,01:50PM
+
+Room: INI DEC,CMU REMOTE
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Belasco, Gennari,Gennari, Belasco
+
+Spring 2024
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+You can find our official tartan on various items in the University Store.
+
+Source: "Tartan: Romancing the Plaid," by Jeffrey Banks and Doria De La Chapelle
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+12. Java, 1991 As a CMU grad student, James Gosling (CS’83) worked on the Andrew project, which stressed interoperability between computers, whether they were Macs, IBMs or Unix machines. Those lessons served Gosling well when he developed Java, the first programming language able to run on almost any platform.
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+
+
+Answer: 

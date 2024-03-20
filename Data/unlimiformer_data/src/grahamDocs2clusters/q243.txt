@@ -1,0 +1,49 @@
+Question: Did anyone from LTI worked on the paper Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting?
+
+Context: Paper title: 'Don't Take This Out of Context! On the Need for Contextual Models and Evaluations for Stylistic Rewriting' Published year: 2023 Publication venue or conference: arXiv.org Authors: Xuhui Zhou, Maarten Sap, Akhila Yerukola Summary: A new composite contextual evaluation metric is introduced that combines similarity to the original sentence with contextual cohesiveness and highlights the importance of integrating context into the generation and especially the evaluation stages of
+Paper title: 'Don't Take This Out of Context! : On the Need for Contextual Models and Evaluations for Stylistic Rewriting' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Elizabeth Clark, Xuhui Zhou, Maarten Sap, Akhila Yerukola Summary: No TLDR summary available
+3 2 0 2
+
+t c O 3 2
+
+] L C . s c [
+
+2 v 5 5 7 4 1 . 5 0 3 2 : v i X r a
+
+“Don’t Take This Out of Context!” On the Need for Contextual Models and Evaluations for Stylistic Rewriting
+
+Akhila Yerukola♡
+
+Xuhui Zhou♡
+
+Elizabeth Clark♢
+
+Maarten Sap♡♣
+
+♡Language Technologies Institute, Carnegie Mellon University ♢Google DeepMind ♣Allen Institute for AI # ayerukol@andrew.cmu.edu
+
+Abstract
+contributions; other relevant research, including competing approaches; some preliminary results; the work that still must be completed; evaluation metrics for that work; and a LTI Ph.D.  Graduate Student Handbook  Page 17
+
+projected timeline for completion. Before presenting the proposal, the student will also
+Students funded by LTI research projects are nor mally expected to work exclusively for those
+
+projects. Since consulting may provide  useful experience, students are generally permitted to
+
+consult, at most , one eight -hour day per seven -day week, only with the advisor's consent.
+
+International students must also have approval in advance from the Office of International
+
+Education (OIE); otherwise, they may be in violation of their visa status.
+If a student does not make satisfactory progress each semester toward completing the degree, the
+
+LTI may remove the m from the program . See section on “End of Semester Evaluation .”
+
+4.2.6 Time Away from Academic Responsibilities
+
+Ph.D. s tudents that are supported by sponsored research, fellowships, or scholarships are
+
+expected to remain on campus and work fu lltime on their education and research throughout the
+
+
+Answer: 

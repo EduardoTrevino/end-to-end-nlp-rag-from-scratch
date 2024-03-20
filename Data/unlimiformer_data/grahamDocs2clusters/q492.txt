@@ -1,0 +1,31 @@
+Question: What is it fine-tuned on for creating StarCoder?
+
+Context: Multimodal Supervised Fine-Tuning A vision encoder and a pre-trained LLM are jointly fine- tuned on an instruction-following demonstration dataset using token-level supervision to produce a supervised fine-tuned (SFT) model πSFT.
+view”). They improve these encoders by fine- tuning the BERT encoder using weak supervision of coreferent entities and improving the knowledge graph representations using data augmentation on the knowledge graph. These two views of each en- tity are then combined to produce a representation. In their original paper, they propose an alter- nating multi-view K-Means procedure where clus- ter assignments that are computed in one view are used to initialize cluster centroids in the other view.
+Specifically, we utilize an encoder-decoder LM as source LM (Ls) to provide LM-preferred signals on a source task (Ts) for fine-tuning a pre-trained retriever. Then, we plug the fine-tuned retriever into unseen target LM (Lt) on a set of target tasks (Tt) non-intersecting with Ts.
+21. RNA sequencing via videogames, 2010 Thanks to crowdsourcing, science isn’t just for scientists any more. People without formal training in molecular biology are producing new insights into genetic encoding through a videogame called EteRNA, developed by researchers at CMU and Stanford, that allows players to fold and shift RNA molecules to solve on-screen puzzles.
+7125; or tix@cmu.edu. MIIS Graduate Student Handbook  Page 9
+
+1.6 The Carnegie Mellon Code
+
+Students at Carnegie Mellon, because they are members of an academic community dedicated
+
+to the achievement of excellence, are expected to meet the highest standards of personal,
+
+ethical,  and moral conduct possible.
+
+These standards require personal integrity, a commitment to honesty without compromise, as well as truth without equivocation and a willingness to place the good of the community
+4 Carnegie Mellon Code
+
+Students at Carnegie Mellon, because they are members of an academic community dedicated to
+
+the achievement of excellence, are expected to m eet the highest standards of personal, ethical
+
+and moral conduct possible.
+
+These standards require personal  integrity, a commitment to honesty without compromise, as
+
+well as truth without equivocation and a willingne ss to place the good of the community above
+
+
+Answer: 

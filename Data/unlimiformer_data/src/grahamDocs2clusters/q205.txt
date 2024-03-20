@@ -1,0 +1,69 @@
+Question: What are the names of the people from LTI who co-authored the paper Approach to Learning Generalized Audio Representation Through Batch Embedding Covariance Regularization and Constant-Q Transforms
+
+Context: [6] Adrien Bardes, Jean Ponce, and Yann LeCun. Vicreg: Variance-invariance-covariance regularization for
+
+self-supervised learning. In International Conference on Learning Representations, 2021.
+
+[7] Anthony J Bell. The co-information lattice.
+
+In Proceedings of the fifth international workshop on
+
+independent component analysis and blind signal separation: ICA, volume 2003, 2003.
+
+[8] Yoshua Bengio, Aaron Courville, and Pascal Vincent. Representation learning: A review and new
+Non-contrastive learning: Methods such as Barlow Twins [93] and VICReg [6] use invariance and covariance regularizations to maximally preserve shared information in the embeddings across two modalities. However, the embeddings learned may contain only contain task-relevant information from the shared part and not unique parts. To use the principle in this paper to capture more task- relevant information from unique parts, one should perform VIC-regularization on X1 features, on
+
+22
+
+(80)
+Wenhao Zhu, Shuang Liu, and Chaoming Liu. 2021. Incorporating syntactic and phonetic infor- mation into multimodal word embeddings using graph convolutional networks. In ICASSP Inter- national Conference on Acoustics, Speech and Signal Processing, pages 7588–7592. IEEE.
+
+Wenhao Zhu, Shuang Liu, Chaoming Liu, Xiaoya Yin, and Xiaping Xv. 2020. Learning multimodal word representations by explicitly embedding syntactic and phonetic information. IEEE Ac- cess, 8:223306–223315.
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+4. Speech recognition, 1976 If you have an iPhone, ask Siri to look up “Hearsay I,” the first computer system capable of continuous speech recognition. It was developed by future Turing Award winner and future SCS dean Raj Reddy along with his students. Their work on subsequent systems established many of the principles that still underlie speech recognition software.
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+
+
+Answer: 

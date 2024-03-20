@@ -1,0 +1,209 @@
+Question: What does the Plan module in the PET framework do?
+
+Context: We propose the Plan, Eliminate, and Track (PET) framework. The Plan module trans- lates a task description into a list of high-level sub-tasks. The Eliminate module masks out irrelevant objects and receptacles from the ob- servation for the current sub-task. Finally, the Track module determines whether the agent has accomplished each sub-task. On the Alf- World instruction following benchmark, the PET framework leads to a signiﬁcant 15% improvement over SOTA for generalization to human goal
+Figure 1. PET framework. Plan module uses LLM to gen- erate a high-level plan. Eliminate Module uses a QA model to mask irrelevant objects in observation. Track module uses a QA model to track the completion of sub-tasks.
+In this work, we explore alternative mechanisms to leverage the prior knowledge encoded in LLMs without impacting the trainable nature of the actor. We propose a 3-step framework (Figure 1): Plan, Eliminate, and Track (PET). Plan module simpliﬁes complex tasks by breaking them down into sub-tasks. It uses a pre- trained LLM to generate a list of sub-tasks for an input task description employing example prompts from the training set similar to Huang et al. (2022a); Ahn et al. (2022). The
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Spring 2024
+
+Course number: 11699
+
+Title: MSAII Program Capstone
+
+Units: 36.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11700
+
+Title: LTI Colloquium
+
+Units: 6.0
+
+Section: A,P
+
+Days: TBA,F
+
+Start: ,02:00PM
+
+End: ,03:20PM
+Instructors: Mitamura
+
+Fall 2023
+
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar:
+
+Units: 6.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11697
+
+Title: Introduction to Question Answering:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: PH A18A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg, Mitamura
+
+Fall 2023
+
+Course number: 11700
+Title: Multi-Robot Planning and Coordination
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 16897
+
+Title: Seminar on Robotics
+
+Units: 0.0
+
+Section: A
+
+Days: F
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pathak
+
+Spring 2024
+
+Course number: 16990
+
+Title: Practicum
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+Design.
+The Machine
+
+The basics of a buggy are straightforward, but teams are often secretive in how they build the machines, in particular the way they brake, steer and what types of wheels are used.
+
+Each has a body, pushbar for runners to move the machine up the hills, wheels, a safety harness and driving and braking mechanisms. Some also include fairings, a type of housing around the wheels that help reduce drag, make the vehicle quieter and just looks cool.
+capstone project goals, requirements, success metrics, and deliverables; and
+
+identifies and acquires data, software, and other resources required for successful
+
+completion of the project. The planning seminar must be completed in the semester prior to taking the capstone project.
+
+4.6 Registration Process/Procedures
+
+Students are responsible for registering for their courses. Use the Stellic Degree Audit
+a. The capstone project (36 units) is a large, group- oriented demonstration of
+
+student skill in one or more areas covered by the degree. Typically,  the result of
+
+the capstone project is a major software application. The capstone project is
+
+supervised by a member of the faculty who meets with students on a weekly
+
+basis to monitor progress and provide guidance. MIIS Graduate Student Handbook  Page 17
+
+b. The capstone planning seminar (6 units) organizes students into groups; defines
+plan” (see the Carnegie Mellon University Student Health Insurance Policy at
+
+https://www.cmu.edu/policies/student- and-student- life/student- health -insurance.html
+
+.
+
+It is the responsibility of each student to make arrangements with Student Health Services to
+
+either pay for their insurance at the beginning of the semester or  elect a payment plan over the MIIS Graduate Student Handbook  Page 32
+
+course of the academic year. More information is available at the Student Health Services Web
+
+
+Answer: 

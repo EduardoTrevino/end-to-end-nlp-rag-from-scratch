@@ -1,0 +1,29 @@
+Question: What data source do authors in "Towards Open-Domain Twitter User Profile Inference" collect their public user profiles from?
+
+Context: Paper title: 'Towards Open-Domain Twitter User Profile Inference' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Haoyang Wen, Zhenxin Xiao, Alexander Hauptmann, E. Hovy Summary: None
+As large datasets from social media platforms (e.g., Twitter, Face- book, Reddit, etc) are used to investigate research questions not only about platform use, but about social dynamics more generally, these platforms may suﬀer from a ‘model organism’ problem [150], where claims are made about the world in general, based on data from one speciﬁc organism, such as mice or fruit ﬂies (or here: one speciﬁc social media platform). In reality, there is a non-random selection of users into social
+The OpenWebText data set [8] is a publicly available resource that comprises web content sourced from URLs shared on Reddit with a minimum of three votes. This data set is a reconstitution of the original WebText corpus, which was initially described by Radford et al. [9]. Since the data set was compiled in 2019, it is improbable that the textual content it contains was algorithmically generated.
+
+3.3 Data Collection Method
+Design and execute experimental data collection and present resulting analyses using appropriate user experience (UX) techniques including interactive data visualizations.
+
+Apply and customize analytics, systems and human
+
+centered data science techniques to application
+
+specific data science requirements and objectives.
+
+Identify tradeoffs among data science techniques (analytics, systems and/or human
+Design, implement and evaluate a user experience prototype to allow for clear understanding of data science solutions.
+
+Apply social and behavioral research methods to data science problems to understand the human aspects of data collection and analysis.
+Tableau, clean ing data with OpenRefine, and getting started with Zotero. Weekly drop- in hours
+
+for Digital Humanities and for Research Data Research Management are scheduled during the academic year. Start at the library home page to find the books, journals and database s you
+
+need; to identify and reach out to the library liaison in your field; to sign up for scheduled MLT Graduate Student Handbook  Page 33
+
+workshops; and to connect with consultants in scholarly publishing, research data
+
+
+Answer: 

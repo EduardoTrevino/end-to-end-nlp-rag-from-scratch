@@ -1,0 +1,133 @@
+Question: In spring 2024, When are final examinations for the semester and Mini-4?
+
+Context: The third round of interviews was conducted in July and August 2022, and coincided with the soft launch of the beta version of the toolkit. The purpose was to gather feedback to help us refine and finalize the toolkit in preparation for a full launch in the autumn. Five interviews were conducted with participants from all three institutions. This round proved to be very valuable with regard to the functionality of the website and what content we should include or exclude. We asked our
+coincidentally, this was contemporaneous with the release of ChatGPT in November 2022 and GPT-4 in March 2023, which frequently provided points of reflection for our participants. of
+The resulting, clean data set are called OpenWebText-Final and OpenGPTText-Final in the discussion below.
+
+3.5 Data Set Release
+
+Our plan entails the release of both OpenGPTText and OpenGPTText-Final on Kaggle in May 2023.
+
+4 Method
+Spring 2024
+
+Course number: 98193
+
+Title: Student Taught Courses (StuCo): Intro to Quantum Computing
+
+Units: 3.0
+
+Section: W3
+
+Days: W
+
+Start: 05:00PM
+
+End: 05:50PM
+
+Room: CMB 1032
+
+Locations: Doha, Qatar
+
+Instructors: Seitkaliyev
+
+Spring 2024
+
+Course number: 98195
+
+Title: Student Taught Courses (StuCo): Introduction to Divination
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: WEH 5320
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Qi
+
+Spring 2024
+Spring 2024
+
+Course number: 09302
+
+Title: Undergraduate Seminar IV
+
+Units: 1.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 11:50AM
+
+Room: DH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stump
+
+Spring 2024
+
+Course number: 09322
+
+Title: Laboratory IV: Molecular Spectroscopy and Dynamics:
+
+Units: 12.0
+
+Section: A, ,Lec
+
+Days:  ,TR
+
+Start:  ,01:00PM,02:00PM
+
+End:  ,01:50PM,04:50PM
+
+Room: DH 1302, ,CYH 100A
+
+Locations:  ,Pittsburgh, Pennsylvania
+Spring 2024
+
+Course number: 76101
+
+Title: Interpretation and Argument
+
+Units: 9.0
+
+Section: E,I,AC,LL,FF,AD,F,HH,CC,D,WW,GG,BB,II,C,EE,DD,J,AB,A,K,W,B,KK,JJ,YY,M,O,X,Z,MM,N,XX
+
+Days: MWF,UTR,TR
+
+Start: 08:45AM,08:00AM,04:00PM,09:30AM,03:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM,03:30PM,12:30PM
+
+End: 12:50PM,01:50PM,09:50AM,03:20PM,03:50PM,09:35AM,02:50PM,04:50PM,12:20PM,11:50AM,10:50AM,09:20AM,08:50AM
+The Finals, initially scheduled for 2pm on Saturday, May 4, were ultimately postponed until Saturday, May 11, due to a downpour that cast a damper on an otherwise exciting Spring Carnival. Controversial Finals. An overcast sky threatened rain on the makeup date as well, though it held off long enough for the race to be run. But some of the spectators may have wished the rain came sooner. Although signs were posted about the makeup date, cars ignored the notices and ended up blocking part of the
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+May 5 ; Day - Monday ; Event - Semester & Mini-4 Faculty Course Evaluations close Date -  May 6 ; Event - Make-Up Final Examinations Date -  May 8 ; Day - Wednesday ; Event - Graduating Students' Final Grades Due by 4 pm Date -  May 11 ; Event - Commencement Date -  May 13 ; Event - Final Grades Due by 4 pm Date -  May 20 ; Event - Spring Deans' Lists Posted
+; Event - Semester & Mini-4 Faculty Course Evaluations close Date -  May 7 ; Event - Make-Up Final Examinations Date -  May 8 ; Day - Wednesday ; Event - Graduating Final Grades Due by 4 pm Date -  May 12 ; Event - Commencement Date -  May 14 ; Event - Final Grades Due by 4 pm Date -  May 21 ; Event - Spring Deans' Lists Posted
+April 14 ; Day - Monday ; Event - Semester & Mini-4 Faculty Course Evaluations open Date -  April 25 ; Day - Friday ; Event - Last Day of Classes Date -  April 25 ; Day - Friday ; Event - Semester & Mini-4 voucher deadline (4) Date -  April 28 ; Event - 29 M-Tu Final Examinations Date -  April 30 ; Day - Wednesday ; Event - Reading Day Date -  May 1 ; Event - 2 Th-F Final Examinations Date -  May 3 ; Event - 4 Sa-Su Reading Days Date -  May 5 ; Day - Monday ; Event - Final Examinations Date -
+
+
+Answer: 

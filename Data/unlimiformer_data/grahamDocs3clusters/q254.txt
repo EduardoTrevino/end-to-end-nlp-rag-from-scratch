@@ -1,0 +1,114 @@
+Question: What score does the global model achieve in the 5K data NER setting in Zhisong Zhang, Emma Strubell, and Eduard Hovy's paper on data constraints and structured prediction?
+
+Context: Paper title: 'On the Interactions of Structural Constraints and Data Resources for Structured Prediction' Published year: 2023 Publication venue or conference: No publication venue information available Authors: Emma Strubell, Zhisong Zhang, E. Hovy Summary: An analysis on the interactions of the effectiveness of decoding with structural constraints and the amount of available training data for structured prediction tasks in NLP finds that models trained with less data predict outputs with more
+3 2 0 2
+
+t c O 9 1
+
+] L C . s c [
+
+2 v 4 3 6 2 1 . 5 0 3 2 : v i X r a
+
+Data-efficient Active Learning for Structured Prediction with Partial Annotation and Self-Training
+
+Zhisong Zhang, Emma Strubell, Eduard Hovy Language Technologies Institute, Carnegie Mellon University zhisongz@cs.cmu.edu, strubell@cmu.edu, hovy@cmu.edu
+
+Abstract
+Table 3. Ablation results over different training objectives. All models are trained on CC3M (Sharma et al., 2018) and reported on the 5K validation set of MS-COCO (2017) (Lin et al., 2014). For captioning, we report BLEU (Papineni et al., 2002) and METEOR (Banerjee & Lavie, 2005) scores, and for retrieval, we report Recall@k (single captions).
+Room: PH A18C,PH A18B,WEH 5302,WEH 5310,WEH 5320,WEH 4708,PH A22,PH 226B,CMB 1190,DH A302,BH 255A,PH 226A,HOA 160,POS A35,WEH 7500,PH 226C,WEH 4709
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Wang,Li,Yuan,Zhai,Zhu,Song,Modrekiladze,Katugampola,Yeung,Altschuler,Kirages,Sahoo,Gupta,Marathe,Kidonakis,Cove,Wyczesany,Lin,Han,Oliver,Boxill
+
+Fall 2023
+
+Course number: 21122
+
+Title: Integration and Approximation
+
+Units: 10.0
+
+Section: A,B,F,G,C,D,Lec 1,Lec 2,H
+
+Days: MWF,TR
+Instructors: Bisk,Yang,Eskenazi,Gormley,Mortensen,Waibel,Brown,Lee,Cassell,Sycara,Morency,Frederking,Rosenfeld,Kolter,Instructor TBA,Poczos,Salakhutdinov,Mitamura,Lipton,Mostow,Berg-Kirkpatrick,Levin,Cohen,Oh,Strubell,Fahlman,Hauptmann,Callan,Mitchell,Xing,Nyberg,Neubig,Smith,Young,Tsvetkov,Rose,Stern,Rudnicky,Ramakrishnan,Watanabe,Hong,Tomasic
+
+Spring 2024
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+Instructors:  ,Zhu, Zhang
+
+Spring 2024
+
+Course number: 18320
+
+Title: Microelectronic Circuits:
+
+Units: 12.0
+
+Section: A, ,B,Lec
+
+Days: R, ,T,TR
+
+Start: 12:30PM, ,07:00PM
+
+End: 09:50PM, ,01:50PM
+
+Room: GHC 4307, ,HH A101
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Dandin
+
+Spring 2024
+
+Course number: 18330
+
+Title: Introduction to Computer Security
+
+Units: 12.0
+
+Section: A,
+
+Days: F,MW
+
+Start: 02:00PM,07:00PM
+
+End: 08:20PM,02:50PM
+
+Room: PH 100,HOA 160
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+Sweepstakes Committee: Jack Johnson (Chair)
+
+Race Results: (1) DTD (2:42.5 – COURSE RECORD); (2) PiKA (2:43.5); (3) KapSig
+
+Design Comp: (1) SAE; (Honorable Mention) PiKA
+
+Weather: Sunny; 66-72 Degrees on Friday, 70-75 Degrees on Saturday
+
+In 1949, DTD earned its second straight nose-length victory and set a course record in doing so. Other than that, the year seemed uneventful.
+11-777 Advanced Multimodal Machine Learning 11-791 Design of Intelligent Information Systems 10-605 Machine Learning with Large Datasets 10-608 Conversational Machine Learning
+
+10-702 Statistical Machine Learning
+
+15-624 Foundations of Cyber-Physical Systems 15-645 Database Systems 15-681 AI: Representation and Problem Solving
+
+15-688 Practical Data Science
+
+16-720 Computer Vision 16-725 Medical Image Analysis 16-772 Sensing and Sensors 16-824 Visual Learning and Recognition
+
+
+Answer: 

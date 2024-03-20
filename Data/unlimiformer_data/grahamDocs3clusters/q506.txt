@@ -1,0 +1,190 @@
+Question: What is David Garlan's email address?
+
+Context: Corresponding author: Helen Moore Faculty Librarian for Engineering and Science University Library University of Sheffield, UK E-mail: h.moore@sheffield.ac.uk ORCID ID: https://orcid.org/0000-0001-6508-7424
+
+Co-authors: David Curtis ORCID ID: https://orcid.org/0009-0007-5762-0381
+
+Alison Hazelaar
+
+Maria Mawson ORCID ID: https://orcid.org/0000-0002-5223-2706
+
+Simon Robinson
+ReferencesJonathanE.Arensen.1982.Murlegrammar,volume2ofOccasionalPapersintheStudyofSudaneseLan-guages.SummerInstituteofLinguisticsandUniver-sityofJuba,Juba,Sudan.StevenBird,DavidS.Day,JohnS.Garofolo,JohnHen-derson,ChristopheLaprun,andMarkY.Liberman.2000.Atlas:Aflexibleandextensiblearchitectureforlinguisticannotation.ArXiv,cs.CL/0007022.StevenBirdandMarkY.Liberman.1999.Afor-malframeworkforlinguisticannotation.ArXiv,cs.CL/9903003.R.D.Bugenhagen.1995.AGrammarofMangap-Mbula:AnAustronesianLanguageof
+[2] Armen Aghajanyan, Bernie Huang, Candace Ross, Vladimir Karpukhin, Hu Xu, Naman Goyal, Dmytro Okhonko, Mandar Joshi, Gargi Ghosh, Mike Lewis, et al. Cm3: A causal masked multimodal model of the internet. arXiv preprint arXiv:2201.07520, 2022.
+
+[3] Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, et al. Do as i can, not as i say: Grounding language in robotic affordances. CoRL, 2023.
+Instructors: Garlan, Kang,Kang, Garlan
+
+Fall 2023
+
+Course number: 17617
+
+Title: Programming Quantum Computers
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice
+
+Fall 2023
+
+Course number: 17620
+
+Title: Quantum Machine Learning
+
+Units: 6.0
+
+Section: A2
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Justice, Singh
+
+Fall 2023
+
+Course number: 17622
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Christin
+
+Fall 2023
+
+Course number: 17714
+
+Title: Formal Methods
+
+Units: 6.0
+
+Section: B1,A1,21,11
+
+Days: F,MW
+
+Start: 12:30PM,09:30AM
+
+End: 10:50AM,01:50PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Garlan, Kang,Kang, Garlan
+
+Fall 2023
+
+Course number: 17715
+
+Title: Special Topics in Hardware Security (Seminar)
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:20PM
+
+Room: DH 1211
+Instructors: Le Goues,Herbsleb,Kang,Fredrikson,Aldrich,Scherlis,Kaestner,Vasilescu,Miller,Shaw,Breaux,Garlan
+
+Fall 2023
+
+Course number: 17808
+
+Title: Software Engineering Research
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: MI 448
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Begel, Aldrich, Breaux, Brown, Garlan, Kaestner, Padhye, Vasilescu, Kang
+
+Fall 2023
+
+Course number: 17909
+
+Title: Requirements for Information Systems
+
+Units: 6.0
+
+Section: A2
+
+Days: TR
+provides information on all deadl ines including registration date s, class start dates, add/drop
+
+deadlines, exam dates and more.
+
+7 School and Departmental Information
+
+The following are key personnel with whom you may  interact during your time at Carnegie
+
+Mellon:
+
+Martial Hebert
+
+Dean, School of Computer Science 9
+
+University Professor
+
+GHC 6105  412-268-5704
+
+hebert@cs.cmu.edu
+
+https://www.cs.cmu.edu/~hebert/
+
+David Garlan Associate Dean for Master’s Programs, SCS Professor TCS 420
+garlan@cs.cmu.edu
+
+http://www.cs.cmu.edu/~garlan/academics.htm
+
+C a r o l y n  R o s é
+
+Interim Director, Language Technologies Institute  Professor  GHC 5415
+
+412-268-7130
+
+cprose@cs.cmu.edu
+
+8 MSAII Policies
+
+The Language Technologies Institute (LTI) ha s prepared this statement of policies, program
+
+requirements, guidance, process a nd procedures for students in the M.S. in Artificial Intelligence
+
+and Innovation (MSAII) program. A copy of this handbook is also available online at the
+Language Technologies Institute - Faculty Name: David Mortensen Email: dmortens@cs.cmu.edu Office: 5707 Gates & Hillman Centers Research Areas: Natural Language Processing and Computational Linguistics, Corpus Annotation and Resources Phone: 412-268-2894
+
+Language Technologies Institute - Faculty Name: Graham Neubig Email: gneubig@cs.cmu.edu Office: 5409 Gates & Hillman Centers Research Areas: Machine Translation, Natural Language Processing, Spoken Language Processing, Machine Learning
+
+
+Answer: 

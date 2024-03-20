@@ -1,0 +1,168 @@
+Question: How much decrease in memory consumption (single GPU setup) does SAMA showcase in large-scale meta learning benchmarks?
+
+Context: scalability and the overall performance of SAMA on a multitude of large-scale meta learning benchmarks involving large language models (e.g., BERT [31] and RoBERTa [39]) or large datasets (e.g., ImageNet-1k [10]). Notably, SAMA showcases up to 1.7/4.8× increase in throughput and 2.0/3.8× decrease in memory consumption respectively on single-/multi-GPU setups compared to other baseline meta learning algorithms. In addition, we observe that SAMA- based data optimization consistently leads to
+designed to flexibly support a broad range of adaptive optimizers in the base level of meta learning programs, while reducing computational burden by avoiding explicit computation of second-order gradient information, and exploiting efficient distributed training techniques implemented for first-order gradients. Evaluated on multiple large-scale meta learning benchmarks, SAMA showcases up to 1.7/4.8× increase in throughput and 2.0/3.8× decrease in memory consumption respectively on
+of RoBERTa experiment. SAMA demonstrates the least significant increase in GPU memory usage with the increasing model size compared to baseline methods.
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH A302,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ramakrishnan
+
+Fall 2023
+
+Course number: 11767
+
+Title: On-Device Machine Learning:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 09:30AM,
+
+End: 10:50AM,
+
+Room:  ,DH 1212
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Bisk, Strubell
+
+Fall 2023
+
+Course number: 11775
+
+Title: Large-Scale Multi-Media Analysis:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,05:00PM
+Course number: 18785
+
+Title: Data, Inference, and Applied Machine Learning
+
+Units: 12.0
+
+Section: A,R
+
+Days: TR
+
+Start: 08:00AM,02:00PM
+
+End: 09:20AM,03:20PM
+
+Room: CMU REMOTE,HOA 160
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: McSharry
+
+Fall 2023
+
+Course number: 18790
+
+Title: Introduction to Deep Learning and Pattern Recognition for Computer Vision Part I
+
+Units: 6.0
+
+Section: A1
+
+Days: M
+
+Start: 04:00PM
+
+End: 04:50PM
+
+Room: SH 236
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Gormley, Chai,Chai, Gormley
+
+Fall 2023
+
+Course number: 10605
+
+Title: Machine Learning with Large Datasets
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Talwalkar, Gordon
+
+Fall 2023
+
+Course number: 10606
+
+Title: Mathematical Foundations for Machine Learning
+
+Units: 6.0
+
+Section: A1
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wilder
+11-777 Advanced Multimodal Machine Learning 11-791 Design of Intelligent Information Systems 10-605 Machine Learning with Large Datasets 10-608 Conversational Machine Learning
+
+10-702 Statistical Machine Learning
+
+15-624 Foundations of Cyber-Physical Systems 15-645 Database Systems 15-681 AI: Representation and Problem Solving
+
+15-688 Practical Data Science
+
+16-720 Computer Vision 16-725 Medical Image Analysis 16-772 Sensing and Sensors 16-824 Visual Learning and Recognition
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+
+
+Answer: 

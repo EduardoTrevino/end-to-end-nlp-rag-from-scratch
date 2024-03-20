@@ -1,0 +1,159 @@
+Question: Where should robots ideally exist according to the OUTDOOR paper?
+
+Context: Abstract— Robots should exist anywhere humans do: in- doors, outdoors, and even unmapped environments. In contrast, the focus of recent advancements in Object Goal Navigation (OGN)[1]–[3] has targeted navigating in indoor environments by leveraging spatial and semantic cues that do not generalize outdoors. While these contributions provide valuable insights into indoor scenarios, the broader spectrum of real-world robotic applications often extends to outdoor settings. As we transition to the
+Localization is pivotal for any autonomous robot, whether it operates in controlled environments such as factory floors or human-centric environments such as pedestrian zones and sidewalks. It is particularly important for the latter case, where the safety of other road users is of utmost importance. While Global Navigation Satellite Systems (GNSSs) are widely used for outdoor localization, their accuracy and reliability strongly deteriorate in urban canyons. Therefore, localization systems
+operations or advanced domestic robotics tasks in semantically rich environments such as airports or campus buildings. In genuine outdoor settings, spatial semantics may be ambiguous or lack well-defined bound- aries. Consequently, an intelligent agent must be capable of strategically predict information in space to effectively navigate and reason within these more complex contexts.
+Spring 2024
+
+Course number: 16467
+
+Title: Introduction to Human Robot Interaction
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: MM A14
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Admoni
+
+Spring 2024
+
+Course number: 16474
+
+Title: Robotics Capstone
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wettergreen, Riviere
+
+Spring 2024
+
+Course number: 16480
+Fall 2023
+
+Course number: 16831
+
+Title: Introduction to Robot Learning
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: SH 105
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pathak
+
+Fall 2023
+
+Course number: 16833
+
+Title: Robot Localization and Mapping
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kaess
+
+Fall 2023
+
+Course number: 16845
+
+Title: Insects and Robots
+
+Units: 12.0
+Title: Soft Robots: Mechanics, Design and Modeling
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: WEH 5302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Majidi
+
+Spring 2024
+
+Course number: 24684
+
+Title: Special Topics: Nanoscale Manufacturing Using Structural DNA Nanotechnology
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: SH 238
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Taylor
+
+Spring 2024
+
+Course number: 24688
+Teams in the outside lane are given a 3 yard head start due to being required to go the long way around the traffic dummy Each pusher must have at least 1 hand on the buggy at all times, except in the transition zone; but no more than 1 pusher may be in contact with the buggy at any time In addition to the driver, pushers, and alternates, Rosters also included all designers and builders Buggies entered in Design Comp must also finish the race in order to qualify (but exceptions are permitted)
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+The Machine
+
+The basics of a buggy are straightforward, but teams are often secretive in how they build the machines, in particular the way they brake, steer and what types of wheels are used.
+
+Each has a body, pushbar for runners to move the machine up the hills, wheels, a safety harness and driving and braking mechanisms. Some also include fairings, a type of housing around the wheels that help reduce drag, make the vehicle quieter and just looks cool.
+7. Autonomous robots, 1983 Thanks to Red Whittaker (E'75,'79), robots moved off of the assembly lines and into places no human ever could go. His Robotic Reconnaissance Vehicle spent four years inspecting and cleaning up the contaminated reactor building at the crippled Three Mile Island nuclear plant.
+nearly 1,700, including undergraduate, master’s and Ph.D. students, and conducted $124 million in research. Indeed, by itself, the Robotics Institute is the largest university robotics research group in the world, with more than 500 people and more than 100 ongoing research projects. A half-century ago, Perlis, Simon and Newell outlined a vision for computer science. The School of Computer Science at CMU remains committed to continuing and extending their vision in the context of big data and
+25. Smart, adaptable traffic signals, 2012 Smart traffic lights developed at CMU’s Robotics Institute are saving time and energy, and cutting down on the amount of air pollution created by idling cars. First rolled out in Pittsburgh’s East Liberty neighborhood, the new signals are being studied around the country.
+
+
+Answer: 

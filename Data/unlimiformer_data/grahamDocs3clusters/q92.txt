@@ -1,0 +1,154 @@
+Question: What are the last names of the professors that taught 11-711 in Fall 2023?
+
+Context: REFERENCES
+
+Tariq Alhindi, Tuhin Chakrabarty, Elena Musi, and Smaranda Muresan. Multitask instruction-based prompting for fallacy recognition. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pp. 8172–8187, Abu Dhabi, United Arab Emirates, December 2022. Association for Computational Linguistics. URL https://aclanthology.org/ 2022.emnlp-main.560. 9
+Zhijing Jin, Abhinav Lalwani, Tejas Vaidhya, Xiaoyu Shen, Yiwen Ding, Zhiheng Lyu, Mrinmaya In Findings of Sachan, Rada Mihalcea, and Bernhard Schölkopf. Logical fallacy detection. the Association for Computational Linguistics: EMNLP 2022, pp. 7180Ã¢â‚¬âCœ–7198, Abu Dhabi, United Arab Emirates, December 2022. Association for Computational Linguistics. URL https://arxiv.org/abs/2202.13758. 9, 10
+
+Emre Kıcıman, Robert Ness, Amit Sharma, and Chenhao Tan. Causal reasoning and large language
+Chris Stokel-Walker. Ai bot chatgpt writes smart essays - should professors worry? Nature, 2022.
+
+Alec Radford, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, and Ilya Sutskever. Robust
+
+speech recognition via large-scale weak supervision. ArXiv, abs/2212.04356, 2022.
+Instructors: Si,Mandal,An,Biswas,Palmese,Amsellem,Dutta,Ganti,Kunnumkai,Majetich
+
+Fall 2023
+
+Course number: 33115
+
+Title: Physics for Future Presidents
+
+Units: 9.0
+
+Section: W
+
+Days: UTR
+
+Start: 11:30AM
+
+End: 12:45PM
+
+Room: CMB 1190
+
+Locations: Doha, Qatar
+
+Instructors: Zayed
+
+Fall 2023
+
+Course number: 33120
+
+Title: Science and Science Fiction
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 11:00AM
+
+End: 11:50AM
+
+Room: DH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Luokkala
+
+Fall 2023
+Instructors: Meyer,Gasson,Salehzadeh,Strickland,Watson,Pessoa,Pal-Agrawal,Tanquary,George,Kidder,Mayshle,Comiskey,Cafasso,Myers,Szalkowski-Ference
+
+Fall 2023
+
+Course number: 76102
+
+Title: Advanced First Year Writing: Special Topics
+
+Units: 9.0
+
+Section: B
+
+Days: MWF
+
+Start: 11:00AM
+
+End: 11:50AM
+
+Room: BH 255B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mayshle
+
+Fall 2023
+
+Course number: 76106
+
+Title: Writing about Literature, Art and Culture
+
+Units: 4.5
+Instructors: Bjorndahl,Glymour,Spirtes,Zollman,Cullen,Sieg,Kelly,Wenner,London,Instructor TBA,Awodey,Seidenfeld,Simons,Smith,Werner,Ramsey,Avigad
+
+Fall 2023
+
+Course number: 80524
+
+Title: Topics in Formal Epistemology: Topological Philosophy of Science
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: BH 150
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kelly
+
+Fall 2023
+
+Course number: 80551
+
+Title: Seminar on History of Philosophy: Smith and Hume
+
+Units: 9.0
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+Classes can be found at https://enr-apps.as.cmu.edu/o pen/SOC/SOCServlet/search .
+
+Students are then required to take and su ccessfully complete the courses below:
+
+2) The Core Courses (87 units) - Must be taken in THIS SEQUENCE:
+
+11-651 – AI & Future Markets – (12 units). First  Fall semester. Only open to MSAII.
+
+17-762 – Law of Computer Technolo gy (12 units). First Fall semester
+
+11-695 – AI Engineering (12 un its). First Spring semester
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+
+
+Answer: 

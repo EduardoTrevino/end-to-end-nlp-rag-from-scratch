@@ -1,0 +1,55 @@
+Question: What is the name of the method introduced in "Semantic Pyramid AutoEncoder for Multimodal Generation"?
+
+Context: Paper title: 'SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs' Published year: 2023 Publication venue or conference: arXiv.org Authors: Lu Jiang, Wolfgang Macherey, A. Hauptmann, David A. Ross, Irfan Essa, K. Murphy, Vivek Kumar, Ming Yang, Yonatan Bisk, Yong Cheng, Lijun Yu, Zhiruo Wang, Yanping Huang Summary: This method marks the first successful attempt to enable a frozen LLM to generate image content while surpassing state-of-the-art performance in image
+proposed a deep learning based approach to repair fa¸cade defect textures from easily accessible semantic label map. Speciﬁcally, we proposed a semantics recovery method by using image completion algorithm to improve automation of de-occlusion. A regularity-aware multi-domain universal image translation method is used to synthesize building fa¸cade textures of arbitrary styles. This method achieves better results by enriching the details and improving the regularity of synthesized images.
+The two main architectures that are ﬁne-tuned to predict sentence pair scoring tasks are cross- encoders and bi-encoders, illustrated in Fig. 1. In the cross-encoder approach, two sentences are passed simultaneously to the transformer network, which directly computes their semantic sim- ilarity score between 0 and 1. We used the cross-encoder architecture described by Reimers and Gurevych (2019), which is trained with the binary cross-entropy loss:
+
+BCE = (y log (ˆy) + (1 − y) log (1 − ˆy))
+11-727: Computational Semantics for NLP ( only if the course project was done as a
+
+group project)
+
+11-731: Machine Translation
+
+11-747: Neural Networks for NLP
+
+11-751:  Speech Recognition
+
+11-775:  Large -Scale Multimedia
+
+11-776: Multimodal Affective Computing
+
+11-777: Multimodal Machine Learning
+
+11-785:  Deep Learning
+
+11-797: Question Answering
+
+Students may request to have other  LTI course s with a group engineering project component to
+
+be added to this list.
+11-663, Applied Machine Learning
+
+11-747, Neural Networks for NLP
+
+11-755, Machine Learning for Signal Processing
+
+11-761, Language and Statistics
+
+11-777, Multimodal Machine Learning  MIIS Graduate Student Handbook  Page 16
+
+11-785, Introduction to Deep Learning
+
+10-601, Introduction to Machine Learning (Master’s)
+
+10-605, Machine Learning with Large Datasets
+
+10-701, Introduction to Machine Learning (PhD)
+
+10-707, Advanced Deep Learning
+
+10-708, Probabilistic Graphical Models
+(11-761) - Multimodal Affective Computing (11-776) - The Nature of Language (80-180)
+
+
+Answer: 

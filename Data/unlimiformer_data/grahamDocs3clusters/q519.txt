@@ -1,0 +1,156 @@
+Question: What is the corresponding author's emaill address for the SantaCoder paper?
+
+Context: Paper title: 'SantaCoder: don't reach for the stars!' Published year: 2023 Publication venue or conference: arXiv.org Authors: M. Lappert, Urvashi Bhattacharyya, Niklas Muennighoff, Terry Yue Zhuo, Yacine Jernite, Carolyn Jane Anderson, Qian Liu, Chenghao Mou, Dmitry Abulkhanov, S. Troshin, Hailey Schoelkopf, Manan Dey, Christopher Akiki, Paulo Villegas, Carlos Muñoz Ferrandis, Bernardo Garc'ia del R'io, D. Lansky, Dzmitry Bahdanau, Harm de Vries, Loubna Ben Allal, Arjun Guha, J. Poirier,
+Keywords: Yahya Kemal, artificial visualization
+
+intelligence, digital art, poetry
+
+Research Article
+
+Received: 10.10.2023 Revision received: 20.10.2023 Accepted: 28.10.2023 Published online: 29.10.2023
+
+Corresponding author: 1Dr. karadoganahmet@hotmail.com Orcid ID: 0000-0002-7183-3929 *2Research Assistant fetullah.uyumaz@atauni.edu.tr Orcid ID: 0000-0002-0274-8640
+
+212
+
+Karadoğan, A., & Uyumaz, F.
+
+Yahya Kemal’in Bazı Şiirlerinin Yapay Zekâ Teknolojisiyle
+3 2 0 2
+
+g u A 2 2
+
+] E S . s c [
+
+1 v 7 8 3 1 1 . 8 0 3 2 : v i X r a
+
+Multi-Objective Improvement of Android Applications
+
+James, Callan1* and Justyna Petke1*
+
+1*Computer Science Department, University College London, Gower Street, London, WC1E 6BT, Greater London, United Kingdom.
+
+Corresponding author(s). E-mail(s): james.callan.19@ucl.ac.uk; j.petke@ucl.ac.uk;
+
+Abstract
+Course number: 18641
+
+Title: Design Patterns for Smartphone Development
+
+Units: 12.0
+
+Section: RW
+
+Days: TR
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: CMR F309
+
+Locations: Kigali, Rwanda
+
+Instructors: Umuhoza
+
+Spring 2024
+
+Course number: 18646
+
+Title: How to Write Fast Code II
+
+Units: 12.0
+
+Section: A,SV
+
+Days: MW
+
+Start: 09:30AM,12:30PM
+
+End: 10:50AM,01:50PM
+
+Room: B23 211,BH A53
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Low
+
+Spring 2024
+
+Course number: 18647
+Course number: 76795
+
+Title: Science Writing
+
+Units: 9-12
+
+Section: A
+
+Days: R
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: PH 125D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Linn
+
+Spring 2024
+
+Course number: 76800
+
+Title: Directed Research in Rhetoric
+
+Units: 3-18
+
+Section: A,C,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Larson,Coulson,Ritivoi
+
+Spring 2024
+
+Course number: 76801
+
+Title: Directed Study in Literary and Cultural Studies
+Room: DH 1209,CMB 3044,PH A20A,WEH 8427,PH A20,WEH 5304,DH 1117,CMB 2049,CMB 2051,WEH 6403,WEH 5316,PH A21,PH A19A,WEH 5328
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Meyer,Gatti Dura,Salehzadeh,Mayshle,Cafasso,Strickland,Squires,Watson,Gomez Laich,Pessoa,Pal-Agrawal,Tanquary,Mitchell,Gasson,Comiskey,Carlock,Myers,Szalkowski-Ference
+
+Spring 2024
+
+Course number: 76106
+
+Title: Writing about Literature, Art and Culture
+
+Units: 4.5
+
+Section: B4,F4,D4,B3,E3,A4,C4,D3,A3,E4,C3,F3
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+students may email The HUB or call 412-268-8186.
+Language Technologies Institute - Faculty Name: Scott Fahlman Email: sef@cs.cmu.edu Office: 6417 Gates & Hillman Centers Research Areas: AI, Knowledge Representation and Reasoning, Natural Language Understanding Phone: 412-268-2575
+
+Language Technologies Institute - Faculty Name: Robert Frederking Email: ref@cs.cmu.edu Office: 6515 Gates & Hillman Centers Phone: 412-268-6656
+
+
+Answer: 

@@ -1,0 +1,23 @@
+Question: What is Fernando Diaz's job title?
+
+Context: Fernando Diaz and Michael Madaio
+Fernando Diaz and Michael Madaio
+Paper title: 'Recall as a Measure of Ranking Robustness' Published year: 2023 Publication venue or conference: arXiv.org Authors: Fernando Diaz, Bhaskar Mitra Summary: Through extensive empirical analysis across 17 TREC tracks, it is established that the new evaluation method, lexirecall, is correlated with existing recall metrics and exhibits substantially higher discriminative power and stability in the presence of missing labels.
+Language Technologies Institute - Faculty Name: Fernando Diaz Email: diazf@cmu.edu Research Areas: Information Retrieval: Recommender Systems, Retrieval and Ranking Models, Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation Phone: 412-268-4229
+Information regarding the application of Title IX, including to admission and employment decisions, the sexual misconduct grievance procedures and process, including how to file a report or a complaint of sex discrimination, how to file a report of sexual harassment, and how the university responds to such reports is available at www.cmu.edu/title-ix . The Title IX 10coordinator may be reached at 412-268-7125 or tix@cmu.edu .
+
+1.7 The Carnegie Mellon Code
+Information regarding the application of Title  IX, including to admission and employment
+
+decisions, the sexual misconduct grievance proced ures and process, including how to file a
+
+report or a complaint of sex discrimination, how to file a report of sexual harassment, and how
+
+the university responds to su ch reports is available at www.cmu.edu/title-ix . The Title IX
+
+coordinator may be reached at 4615 Forbes Ave, Suite 330, Pittsburgh, PA 15213; 412-268-7125; or
+
+tix@cmu.edu .
+
+
+Answer: 

@@ -1,0 +1,191 @@
+Question: When was the department of Computer Science (CSD) established at CMU?
+
+Context: 3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+E. Xing is with the Machine Learning Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, USA; and also with Mohamed bin Zayed University of Artificial Intelligence, Masdar City, Abu Dhabi, UAE (email: epxing@cs.cmu.edu)
+EDepartment of Computer Science, ETH Zurich CLanguage Technologies Institute, Carnegie Mellon University YDepartment of Computer Science, Brigham Young University {vzouhar,msachan}@ethz.ch natbcar@gmail.com {kalvinc,cxcui,nrrobins,dmortens}@cs.cmu.edu
+
+Abstract
+Room: BH 140A,WEH 5201,WEH 5202,MI AUD,BH 140B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Weinberg
+
+Fall 2023
+
+Course number: 36218
+
+Title: Probability Theory for Computer Scientists
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: R,TR
+
+Start: 09:30AM,07:00PM
+
+End: 10:50AM,07:50PM
+
+Room: DH 2315,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Genovese
+
+Fall 2023
+
+Course number: 36220
+
+Title: Engineering Statistics and Quality Control
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 11:00AM
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bain
+
+Summer 2024
+
+Course number: 18613
+
+Title: Foundations of Computer Systems
+
+Units: 12.0
+
+Section: A,SV
+
+Days: TWR
+
+Start: 09:30AM,06:30AM
+
+End: 07:50AM,10:50AM
+
+Room: CMU REMOTE
+
+Locations: San Jose, California,Pittsburgh, Pennsylvania
+
+Instructors: Kesden
+
+Summer 2024
+
+Course number: 18980
+
+Title: M.S. Graduate Project I
+
+Units: 0-48
+
+Section: A,R,SV,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Title: Computer Science Practicum
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Stehlik
+
+Fall 2023
+
+Course number: 15104
+
+Title: Introduction to Computing for Creative Practice:
+
+Units: 10.0
+
+Section: A,E,B,C,D,Lec,
+
+Days: MWF, ,T
+
+Start: 08:00AM,09:30AM,12:30PM,09:00AM,11:00AM,07:00PM,
+
+End: 08:20PM,01:50PM,09:50AM,12:20PM,10:50AM,09:20AM,
+
+Room: GHC 4307, ,GHC 5210
+
+Locations:  ,Pittsburgh, Pennsylvania
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+Computer Science Department established In 1965, Carnegie Tech established its Computer Science Department, or CSD, with a $5 million grant from the R.K. Mellon Foundation. Perlis was the first department head. There were no undergraduates; only Ph.D. students were admitted, and the department’s focus was on research, much of it funded by the federal government through the Defense Department’s Advanced Research Projects Agency, or DARPA. In 1967, Carnegie Institute of Technology merged with the
+A “school of computer science” is proposed Feeling that CSD’s needs were inadequately represented in MCS, CSD head A. Nico Habermann and then-CMU provost Angel Jordan in 1986 wrote a white paper proposing the creation of “a School of Computer Science.” Responding to concerns from the faculty that the change might be taking place too quickly, the university first established a free-floating Department of Computer Science. The experiment, which lasted two years, was an unqualified success.
+Undergraduate degrees begin For several years, undergraduates interested in computer science pursued an “applied math/CS” bachelor’s degree offered by the Mathematics Department. CSD professor Mary Shaw (CS’72) led CMU’s first effort to design an undergraduate curriculum solely in computer science. She and her colleagues were guided by the Carnegie Plan—guidelines established in 1938 under Carnegie Tech President Robert Doherty (A’40, E’48, H’50), outlining the principles of a sound
+
+
+Answer: 

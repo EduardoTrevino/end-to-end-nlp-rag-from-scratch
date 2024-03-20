@@ -1,0 +1,178 @@
+Question: What is the MOS-Q achieved by the HF-GAN on the VoxCeleb test set?
+
+Context: Speaker Similarity Score (SSS). In multi-speaker TTS, it is also important to evaluate how well the synthesizer transfers speaker characteristics. Here we use the cosine
+
+5https://zenodo.org/record/4630406#.YoT0Ji-B1QI
+
+Table 1: Comparison of quantizer and vocoder reconstruc- tion quality on VoxCeleb test set. HF-GAN is HiFi-GAN.
+
+Method
+
+Code size (#groups)
+
+RCER (%)
+
+MOS-Q (95% CI)
+
+MOS-N (95% CI)
+
+GT
+
+n/a
+
+n/a
+
+3.66(.06)
+
+3.81(.05)
+
+HF-GAN
+
+n/a
+
+12.8
+
+3.47(.06)
+
+3.62(.06)
+
+MQTTS Quant.
+Human Evaluation. We report two 5-scale MOS scores, MOS-Q and MOS-N for quantizer evaluation, and only MOS-N for comparing TTS systems. MOS-Q asks the hu- man evaluators to score the general audio quality of the speech, while MOS-N evaluates the speech’s naturalness. We used the Amazon Mechanical Turk (MTurk) platform. Details of the human experiments are in Appendix B. We show both the MOS score and the 95% conﬁdence interval. Prosody FID Score (P-FID). For the evaluation of prosody diversity
+Results: As a result, the YOLO-Tobacco network achieved an average precision (AP) of 80.56% on the test set. The AP was 3.22%, 8.99%, and 12.03% higher than that obtained by the classic lightweight detection networks YOLOX-Tiny network, YOLOv5-S network, and YOLOv4-Tiny network, respectively. In addition, the YOLO-Tobacco network also had a fast detection speed of 69 frames per second (FPS).
+Title: ADDvocate: Anti-Discrimination Dialogue for Social Justice course at CMU-Q
+
+Units: VAR
+
+Section: W3
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:15PM
+
+Room: CMB 1064
+
+Locations: Doha, Qatar
+
+Instructors: Moufid, Vincent
+
+Spring 2024
+
+Course number: 99264
+
+Title: Introduction to Life Design:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,F
+
+Start:  ,10:00AM
+
+End: 11:50AM,
+
+Room:  ,POS 145
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Monahan
+
+Spring 2024
+
+Course number: 99352
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 7500
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mohimani, DeBlasio
+
+Spring 2024
+
+Course number: 15651
+
+Title: Algorithm Design and Analysis
+
+Units: 12.0
+
+Section: A,E,B,F,G,C,D,Lec,H
+
+Days: F,TR
+
+Start: 01:00PM,12:00PM,10:00AM,11:00AM,12:30PM
+
+End: 11:50AM,10:50AM,12:50PM,01:50PM
+
+Room: MM 103,DH 2315,BH A36,HH B131,POS 152,DH 1112,BH A53
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Anderson, Woodruff,Woodruff, Anderson
+Room: DNM DNM,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mozisek
+
+Spring 2024
+
+Course number: 94865
+
+Title: Data Analytics for Decision Making
+
+Units: 6.0
+
+Section: A4
+
+Days: MWF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Escallon Barrios
+
+Spring 2024
+
+Course number: 94866
+
+Title: Design Thinking
+
+Units: 6.0
+
+Section: A3
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HBH 2003
+
+Locations: Pittsburgh, Pennsylvania
+the arrival of an IBM 650 computer on the campus of what was then known as Carnegie Institute of Technology. The IBM 650 had magnetic-drum memory and a processing speed of approximately 60 instructions per second. Herb Simon (H’90), associate dean of the Graduate School of Industrial Administration—now known as CMU’s Tepper School of Business—established Carnegie Tech’s first Computation Center with the help of its first director, Alan Perlis (S’42).
+The English proficiency requirement cannot be waived for any reason. Find more information under "Test Scores" on our FAQ page. Successful applicants will have a minimum TOEFL score of 100. Our Institution Code is 4256; the Department Code is 78. Official transcripts from each university you have attended, regardless of whether you received your degree there. Current resume. Statement of Purpose. Three letters of recommendation. For more details on these requirements, please see the SCS
+Carnegie Mellon courses and courses taken throug h the university's cross-registration program
+
+will have grades recorded on the transcript and be factored into the QPA. All other courses will
+
+be recorded on this transcript indicating where the course was taken but without a grade. Such
+
+courses will not be taken into account for academic actions, honors  or QPA calculations. (Note:
+
+Suspended students may take courses elsewhere; ho wever, they may receive transfer credit only
+
+
+Answer: 

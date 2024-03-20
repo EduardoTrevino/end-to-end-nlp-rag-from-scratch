@@ -1,0 +1,188 @@
+Question: What language did Meloni et al (2021) achieve state-of-the-art results on for protoform reconstruction?
+
+Context: Protoform reconstruction is the task of inferring how morphemes or words sounded in ancestral languages of a set of daughter languages. Mel- oni et al. (2021) achieved the state-of-the-art on Latin protoform reconstruction with an RNN- based encoder-decoder with attention model. We update their model with the state-of-the-art seq2seq model—the Transformer. Our model outperforms their model on a suite of differ- ent metrics on two different datasets: Meloni et al.’s Romance data of 8,000+
+Meloni et al. (2021) employ a GRU-based seq2seq approach (Cho et al., 2014) to Latin proto- form reconstruction and achieve state-of-the-art character edit distances. They extend Dinu and Ciobanu (2014)’s Romance data using data from Wiktionary—for a total of 8,799 cognate sets across 5 Romance languages plus Latin—in both ortho- graphic and phonetic (IPA) representations. In their model, all entries comprising the cognate set are concatenated together in a fixed order to form a training
+graffiti and other informal in- scriptions. Proto-Romance reconstructions are also not exhaustive. As a result, it is difficult to find a dataset like Meloni et al. (2021) with thousands of such ancestor forms. We are also limited to the faithfulness of espeak-ng’s Latin G2P, from which Meloni et al. (2021) obtain their phonetic Romance dataset.
+Title: IDeATe: Experimental Sound Synthesis
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: HL A10A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hsieh
+
+Spring 2024
+
+Course number: 60409
+
+Title: Advanced ETB:  Decolonizing Data Beyond Metaphor
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Morehshin
+
+Spring 2024
+
+Course number: 60415
+
+Title: Advanced ETB: Animation Studio:
+Title: Topics in Second Language Acquisition:
+
+Units: 9.0
+
+Section: A,B,C,D,
+
+Days: M, ,MW,TR
+
+Start: 12:30PM, ,04:00PM,02:00PM
+
+End:  ,01:50PM,06:50PM,03:20PM
+
+Room: DH 1209,WEH 5304, ,PH A21,PH A19D
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Van Compernolle,Al Masaeed,Amgott,Wiener
+
+Fall 2023
+
+Course number: 82989
+
+Title: Second Language Acquisition Dissertation Research
+
+Units: 3-36
+
+Section: A,E,B,F,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+Spring 2024
+
+Course number: 48660
+
+Title: Advanced Synthesis Options Studio II: M.Arch
+
+Units: 18.0
+
+Section: A,E,B,F,G,C,D,Lec
+
+Days: TR
+
+Start: 01:00PM
+
+End: 04:50PM
+
+Room: CFA 200,MM 312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hayes,Bista,Cupkova,Damiani,Anklesaria,Garofalo,Lee,Bizon
+
+Spring 2024
+
+Course number: 48667
+
+Title: Material Histories
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: MM 409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Torello
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+cmu.edu/assets/pdfs/cmu-fact-sheet.pdf    |   cmu.edu/about/awards.htmlMarch 2020BIG IDEAS THAT SHAPE YOUR WORLD START HERE
+
+1,000+ companies greenlighted
+
+across the U.S. and internationally
+
+Cognitive tutors,  which improve
+
+the math skills of 500,000+
+
+students each year
+
+The first U.S. school to award
+
+a degree in drama  in 1914
+
+James Gosling (SCS 1983)
+
+invented the Java computer
+
+programming language .
+
+The first exclusive higher
+
+education partner of the Tony
+
+
+Answer: 

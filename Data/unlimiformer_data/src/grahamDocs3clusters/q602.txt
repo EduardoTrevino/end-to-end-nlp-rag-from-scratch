@@ -1,0 +1,158 @@
+Question: What is the full name of the conference where the paper GameQA: Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets, got published?
+
+Context: Paper title: 'GameQA: Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets' Published year: 2023 Publication venue or conference: Conference of the European Chapter of the Association for Computational Linguistics Authors: Njall Skarphedinsson, Breki Gudmundsson, Abuzar Khan, H. Einarsson, H. Loftsson, Eric Nyberg, Steinar Smari, M. Lárusdóttir Summary: This work developed a novel crowd-sourcing platform to gather multiple-domain QA data for low-resource
+Paper title: 'Chain-of-Skills: A Configurable Model for Open-Domain Question Answering' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Yu Zhang, Hao Cheng, Kaixin Ma, Jianfeng Gao, Eric Nyberg, Xiaodong Liu Summary: This work proposes a modular retriever where individual modules correspond to key skills that can be reused across datasets and achieves state-of-the-art fine-tuned retrieval performance on NQ, HotpotQA
+Yingqi Qu, Yuchen Ding, Jing Liu, Kai Liu, Ruiyang Ren, Wayne Xin Zhao, Daxiang Dong, Hua Wu, and Haifeng Wang. 2021. RocketQA: An optimized training approach to dense passage retrieval for open- domain question answering. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Hu- man Language Technologies, pages 5835–5847, On- line. Association for Computational Linguistics.
+Title: Blockchain Applications
+
+Units: 9.0
+
+Section: W
+
+Days: MW
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 2035
+
+Locations: Doha, Qatar
+
+Instructors: AAZAM
+
+Fall 2023
+
+Course number: 67410
+
+Title: Clinical Data Science
+
+Units: 9.0
+
+Section: W
+
+Days: MW
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 3044
+
+Locations: Doha, Qatar
+
+Instructors: Phelps
+
+Fall 2023
+
+Course number: 67415
+
+Title: Cyber Ethics and Regulation
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 04:00PM
+
+End: 05:15PM
+
+Room: CMB 2051
+Course number: 67443
+
+Title: Mobile Application Design and Development
+
+Units: 12.0
+
+Section: A,W,B,C,D,Lec 1,Lec 2
+
+Days: R,W,T,MW,TR
+
+Start: 07:00PM,10:00AM,11:00AM,02:00PM
+
+End: 08:50PM,12:20PM,11:15AM,03:20PM
+
+Room: SH 238,CMB 2062,WEH 8427,WEH 5336,POS 145
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Heimann,AAZAM
+
+Fall 2023
+
+Course number: 67490
+
+Title: Practicum in Information Systems
+
+Units: 6-18
+
+Section: W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Title: Building Better Web Applications
+
+Units: 3.0
+
+Section: A2
+
+Days: MW
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Heimann, Huang
+
+Fall 2023
+
+Course number: 67301
+
+Title: Networks and Telecommunications
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 10:00AM
+
+End: 11:15AM
+
+Room: CMB 3044
+
+Locations: Doha, Qatar
+
+Instructors: Phelps
+
+Fall 2023
+
+Course number: 67309
+
+Title: Special Topics: Information Assurance and Security
+
+Units: 6.0
+21. RNA sequencing via videogames, 2010 Thanks to crowdsourcing, science isn’t just for scientists any more. People without formal training in molecular biology are producing new insights into genetic encoding through a videogame called EteRNA, developed by researchers at CMU and Stanford, that allows players to fold and shift RNA molecules to solve on-screen puzzles.
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+Language Technologies Institute - Faculty Name: Teruko Mitamura Email: teruko@cs.cmu.edu Office: 6711 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics Phone: 412-268-6596
+
+
+Answer: 

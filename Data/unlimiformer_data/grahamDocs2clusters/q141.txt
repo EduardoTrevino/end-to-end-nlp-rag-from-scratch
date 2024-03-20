@@ -1,0 +1,39 @@
+Question: How many months does the advanced study MIIS degree typically take?
+
+Context: In order to evaluate the applicability of our approach, we analyze its cost. Figure 8 shows a boxplot of the time taken in hours for our experiments. We find that the time taken varies a lot between different benchmarks and in some cases even across different runs on the same benchmark. We find that MO-GI takes between 0.1 hours and 20.6 hours, with a median time across the benchmarks of 2.6 hours. The main source of variation across the benchmarks is the difference in time taken by the test
+Hi, thanks for taking the time to talk with me! My collaborators on this project and I work for CMU. We can be reached at [emails] should you have any questions for us during the study or after.
+
+This interview will take between 45 minutes and an hour. There will be no compensation for participation.
+
+Participation is always voluntary, and you may refuse to participate in the research study or stop participation at any time.
+We estimate the total GPU time for results presented in this paper did not exceed approximately 116 days of time on a single 48-GB A6000. The longest-training models, SLED and retrieval training for GovReport, took approximately 10 days to train.
+The MIIS degree is offered in  two options:
+
+Option 1. Standard MIIS degree  (MIIS -16) - A 16 -month track that is completed in three
+
+academic semesters (fall, spring, fall) and a summer internship.
+
+Option 2. MIIS: Advanced Study degree  (MIIS -21) - A 21 -month track that is completed in
+
+four academic semesters (fall, spring, fall, spring) and a summer internship.
+
+MIIS: Advanced Study track offers in depth  degree in one of the following areas of
+
+concentration:
+Option 1. Standard MIIS degree (MIIS-16) - A 16-month track that is completed in three academic semesters (fall, spring, fall) and a summer internship. Option 2. MIIS: Advanced Study degree (MIIS-21) - A 21-month track that is completed in four academic semesters (fall, spring, fall, spring) and a summer internship. MIIS: Advanced Study track offers indepth degree in one of the following areas of concentration: Human Language for Language Technologies Language Technology Application Machine
+semesters of academic study and one summer internship (21 months total).
+
+MIIS -16 students enrolled for part -time study are expected to complete the program in six
+
+semesters of academic stu dy and  one summer internship (27  months  total ).
+
+MIIS -21 students enrolled for part -time study are expected to complete the program in seven
+
+semesters of academic study and one summer internship (31 months total).
+
+See also the ‘Statute of Limitations’ policy.
+
+6.1.3 Deferral
+
+
+Answer: 

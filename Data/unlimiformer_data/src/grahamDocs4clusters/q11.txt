@@ -1,0 +1,167 @@
+Question: At what conference was "Fully Unsupervised Topic Clustering of Unlabelled Spoken Audio Using Self-Supervised Representation Learning and Topic Model" published?
+
+Context: [14] M. Caron et al., “Deep clustering for unsupervised learning of visual features,” in Proceedings of the European conference on computer vision (ECCV), 2018, pp. 132–149.
+
+[15]
+
+J. Devlin et al., “BERT: Pre-training of deep bidirectional transformers for language understanding,” in Proc. ACL, 2019, pp. 4171–4186.
+
+[16] H.-J. Chang, S.-w. Yang, and H.-y. Lee, “DistilHuBERT: Speech representation learning by layer-wise distillation of hidden-unit BERT,” in Proc. ICASSP, 2022.
+[21] E. Fonseca, D. Ortego, K. McGuinness, N. E. O’Connor, and X. Serra. Unsupervised contrastive learning of sound event representations. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. doi: 10.1109/ICASSP39728.2021. 9415009.
+[4] S. Chen, C. Wang, Z. Chen, Y. Wu, S. Liu, Z. Chen, J. Li, N. Kanda, T. Yoshioka, X. Xiao et al., “Wavlm: Large-scale self- supervised pre-training for full stack speech processing,” IEEE J. Sel. Topics Signal Process., vol. 16, no. 6, pp. 1505–1518, 2022.
+
+[5] A. Baevski, W.-N. Hsu, A. Conneau, and M. Auli, “Unsupervised
+
+speech recognition,” in Proc. NeurIPS, 2021.
+Title: Current Topics in Privacy Seminar
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Habib, Sadeh
+
+Fall 2023
+
+Course number: 95865
+
+Title: Unstructured Data Analytics
+
+Units: 6.0
+
+Section: B2,C2,A2
+
+Days: TR
+
+Start: 05:00PM,03:30PM,02:00PM
+
+End: 03:20PM,04:50PM,06:20PM
+
+Room: HBH 1004,HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chen
+
+Fall 2023
+
+Course number: 95866
+Fall 2023
+
+Course number: 57627
+
+Title: Independent Study in Supervised Teaching
+
+Units: VAR
+
+Section: A,E,B,C,D
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 57651
+
+Title: Special Topics in Music:
+
+Units: VAR
+
+Section: A,E,B,C,D,
+
+Days: TBA,M, ,MW
+
+Start: ,02:00PM,08:30AM,10:00AM,
+
+End: ,02:50PM,11:50AM,09:20AM,
+
+Room: TBA, ,CFA KRESGE,WQE ST B
+
+Locations:  ,Pittsburgh, Pennsylvania
+Instructors: Wiener
+
+Fall 2023
+
+Course number: 82388
+
+Title: Topics in Second Language Acquisition:
+
+Units: 9.0
+
+Section: A,D, ,B
+
+Days: M, ,MW
+
+Start: 12:30PM, ,04:00PM,02:00PM
+
+End:  ,01:50PM,06:50PM,03:20PM
+
+Room: PH A19D, ,PH A21,DH 1209
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Van Compernolle,Al Masaeed,Amgott
+
+Fall 2023
+
+Course number: 82389
+
+Title: Independent Study in Language and Culture-Advanced Level
+
+Units: 3-12
+
+Section: A,C,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+The Kiltie Band is a campus organization recognized by Student Senate and administered by the Department of Athletics, Physical Education and Recreation. Membership is open to all members of the campus/community without audition. Participants must do their best to promote the success of the ensemble through attendance, attitude, and dependability.
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Q: Are there auditions? A: No, any member of the campus community with music experience is able to join the Kiltie Band!
+
+Q: Do I have to memorize music? A: No, the music is changed for every show. You should invest in a good and trusty lyre.
+
+Q: When is the first rehearsal? A: On the first day of class (Monday) at 5:30 p.m. in the CUC Studio Theater. If you have questions, please email the Direcator at jolisar@andrew.cmu.edu.
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+topics. Consultants support communication excellence on essays, technical reports, oral presentations, slides, data visualization, advanced English language learning, and many other project types. Clients can bring in a project at any stage, including bra instorming
+
+ideas, organizing thoughts, responding to instructor feedback, or putting finishing touches on the final draft. Support is offered in several modes:
+
+o One-on-one Communication Tutoring (in-person or synchronous Zoom meeting):
+Race and ethnically -focused programs, including Inter -Unive rsity Graduate Students of
+
+Color Series (SOC) and PhD SOC Network
+
+Women’s empowerment programs, including Graduate Women’s Gatherings (GWGs)
+
+Transgender and non- binary student programs
+
+A.1.4  Eberly Center for Teaching Excellence & Educational Innovation
+
+www.cmu.edu/teaching
+
+
+Answer: 

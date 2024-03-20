@@ -1,0 +1,128 @@
+Question: In the BASS paper from Interspeech 2023, what is the improvement in ROUGE-L score demonstrated by the proposed block-wise training method?
+
+Context: For the case of the proposed evaluation models (similarity-based evaluation), we see that train- ing the summarization model with the RL paradigm gives the best results for both the bi-encoder or cross-encoder models (rows 4 and 8 of the results), compared to MLE-only or RL with ROUGE- L score as the reward metric. This is not the case for ROUGE or BERTScore. We thus see that improving the evaluation measure yields an improvement in overall quality of the summaries, as we already showed that
+We proposed evaluation measures using similarity scores obtained by ﬁne-tuning the BERTurk model using cross-encoder and bi-encoder model architectures on NLI-TR (Budur et al. 2020) and STSb-TR (Beken Fikri et al. 2021) datasets. We showed that the proposed evaluation measures have better correlations with human evaluations compared to ROUGE scores, according to both Pearson and Spearman correlations. We further showed that using bi-encoder and cross-encoder similarities as rewards improved the
+Paper title: 'Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute' Published year: 2023 Publication venue or conference: Interspeech Authors: Yifan Peng, Xuankai Chang, William Chen, Shinji Watanabe, Zhaoheng Ni, Soumi Maiti Summary: This work optimizing HuBERT SSL to fit in academic constraints, and reproducibility, and explores a semi-supervised route, using an ASR model to skip the first pre-training iteration.
+Title: Assessment in Music Education
+
+Units: 9.0
+
+Section: A
+
+Days: W
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HOA 223
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wall
+
+Fall 2023
+
+Course number: 57981
+
+Title: Foundations of Pedagogy in Music Education
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 01:00PM
+
+End: 01:50PM
+
+Room: CFA M160
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Raponi
+
+Fall 2023
+
+Course number: 57982
+
+Title: Research in Music Education
+
+Units: 9.0
+
+Section: A
+
+Days: TBA
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Jen,Colletti
+
+Spring 2024
+
+Course number: 70257
+
+Title: Optimization for Business
+
+Units: 9.0
+
+Section: A,W,B,C,D,Lec 1,Lec 2
+
+Days: F,MW,UMTR
+
+Start: 08:45AM,12:30PM,11:00AM,09:00AM
+
+End: 01:50PM,09:50AM,09:35AM,12:20PM,11:50AM
+
+Room: TEP 2611,TEP 3801,CMB 1064
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Yilma,Moseley
+
+Spring 2024
+
+Course number: 70258
+
+Title: Developing Blockchain Use Case
+
+Units: 6.0
+Instructors: Dueck,Howard,Dealmeida,Kim,Almarza,Kostyniak,Vosburgh,Defade,Cardenes,Wu,Ferla,Carver,Caballero,Schepkin,Instructor TBA,Van Hoesen, Shields,Cherian,McGhee,Knox,Thompson, Shields,Dee,Manriquez,Shields, Goeres,Kush,Carlisle,van der Sloot,Rusinek, Shields,Houlik, Shields,Laduke,Allen, Evans, Branson,Sullivan, Shields,Williams,Berntsen,Harding,Premo,Chiu
+
+Fall 2023
+
+Course number: 57900
+
+Title: Advanced Bagpipe and Drum Band
+
+Units: 6.0
+
+Section: A
+
+Days: MW
+
+Start: 07:00PM
+Students must demonstrate their mastery of material taught in courses and their success in applying their skills in directed stu dy by satisfying the following grade requirements .
+
+Minimum grade:  Only courses with a grade of B (3.0) or higher are counted as satisfying a degree
+
+requirement.
+
+Pass/fail:  Pass/fail grades are not permitted for courses and projects used to satisfy a degree
+
+requirement.
+
+3.1.3 Proficiency Requirements
+5.6 Policy on Grades for Transfer Courses  ...................................................................................... 21
+
+5.7 End of Semester Evaluation ......................................................................................................... 22
+
+5.8 Satisfactory Progress  ...................................................................................................................... 22
+11.5.2 Summary  of Graduate  Student Appeal and Grievance  Procedures  ...................................  29 4
+
+11.5.3 Process for Appealing  Final Grades .....................................................................................  30
+
+11.5.4 Safeguarding  Educational  Equity: .......................................................................................  30
+
+
+Answer: 

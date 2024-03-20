@@ -1,0 +1,168 @@
+Question: Which independent organization set a course record of 2:06.20 in 1988 buggy?
+
+Context: 18.87 13.15 13.66
+
+913.82 8853.11 7102.61
+
+925.31 7013.21 8325.07 6719.53 7174.38 6313.98
+
+623.77 99.55 98.83 892.51 978.01 99.95
+
+100.00 100.00 99.39
+
+tracks as well as several public recommendation tasks [20]. We present details of these datasets in Table 1.
+References
+
+[1] Sungsoo Ahn, Younggyo Seo, and Jinwoo Shin. Learning what to defer for maximum independent sets. In International Conference on Machine Learning, pages 134–144. PMLR, 2020.
+
+[2] Diogo V Andrade, Mauricio GC Resende, and Renato F Werneck. Fast local search for the
+
+maximum independent set problem. Journal of Heuristics, 18(4):525–547, 2012.
+
+[3] David Applegate, Ribert Bixby, Vasek Chvatal, and William Cook. Concorde TSP solver.
+[2] Salvador Barbarà and Matthew Jackson. 1988. Maximin, leximin, and the protective criterion: Characterizations and
+
+comparisons. Journal of Economic Theory 46, 1 (1988), 34–44. https://doi.org/10.1016/0022-0531(88)90148-2
+
+[3] Solon Barocas, Moritz Hardt, and Arvind Narayanan. 2019. Fairness and Machine Learning: Limitations and Opportu-
+
+nities. fairmlbook.org. http://www.fairmlbook.org.
+Course number: 88898
+
+Title: Graduate Independent Study
+
+Units: 0-48
+
+Section: A,O,X,B,C,L
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Loewenstein,Angermeier, Chapman,Gonzalez,Instructor TBA,Miller,Downs
+
+Fall 2023
+
+Course number: 88900
+
+Title: Graduate Research Seminar I
+
+Units: 6.0
+
+Section: A
+
+Days: F
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: PH 223D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Miller
+
+Fall 2023
+
+Course number: 88940
+Fall 2023
+
+Course number: 49747
+
+Title: Innovation Mindset in Practice
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: CA 115
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ayoob
+
+Fall 2023
+
+Course number: 49748
+
+Title: Independent Study
+
+Units: 6.0
+
+Section: A1,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rogers, Ayoob,Ayoob, Rogers
+
+Fall 2023
+
+Course number: 49749
+
+Title: Independent Study
+
+Units: 3,6,12
+
+Section: A
+Title: Independent Study in Computer Science Pedagogy:
+
+Units: 3-18
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Eckhardt, O'Hallaron
+
+Fall 2023
+
+Course number: 15640
+
+Title: Distributed Systems
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec
+
+Days: F,TR
+
+Start: 08:00AM,03:00PM,09:00AM,02:00PM,10:00AM,11:00AM
+
+End: 09:50AM,03:50PM,12:20PM,02:50PM,10:50AM,08:50AM
+
+Room: MM 103,BH A36,POS 153,POS 152,CUC MCCNMY
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+the 3 teams qualifying for Finals, broke the post-war record. In the finals, it was another close battle, with DTD squeaking it out over PiKA. DTD’s winning time of 2:42.5 was fast enough to set the course record, and PiKA’s 2:43.5 was only ½ second behind the prior record. SAE’s Best Design. SAE took home the trophy for Design Comp with their sleek aluminum buggy. Unfortunately, we haven’t found a photo. [Ed. Update: Based on the buggies from 1950, the 1950 Thistle’s actual description of
+The buggies are pushed by a team of five pushers and steered by drivers often less than 5 feet, 3 inches tall, who lay prone, strapped inside the three-wheeled carbon fiber tube. The buggy is pushed up Hills 1 and 2 of Tech Street, roll freely — up to nearly 40 miles per hour— down and around Schenley Drive to the hard, right-hand turn on Frew Street, known as the “chute.” From there, they are pushed up Hills 3, 4, and 5 to complete the 0.84-mile, or 4,418-feet course.
+
+
+Answer: 

@@ -1,0 +1,151 @@
+Question: In spring 2024, What is the day and time of course 17422?
+
+Context: If-needed rules are not checked until a value is explicitly requested, so adding knowledge “10:30 AM is the start time of meeting 27” and “11:30 AM is the end time of meeting 27” should not activate any triggers. The absence of any inherited triggers on {start time} and {end time} ensures this behavior. Once the value for the slot ﬁller {the duration of meeting 27} is requested, an upscan is performed on role node {duration}, which ﬁnds trigger (R C). This trigger is activated by substituting
+4.3. Training Time
+(15)
+
+(16)
+
+Conference’17, July 2017, Washington, DC, USA
+Course number: 17423
+
+Title: Designing Large-scale Software Systems
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 09:30AM,10:00AM
+
+End: 10:50AM
+
+Room: SH 238,SH 236
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Durschmid, Kang,Kang, Durschmid
+
+Spring 2024
+
+Course number: 17437
+
+Title: Web Application Development
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HOA 160
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lee, Eppinger
+
+Spring 2024
+Course number: 17416
+
+Title: AI Governance: Identifying & Mitigating Risks in Design & Dev of AI Solutions
+
+Units: 6.0
+
+Section: A,B
+
+Days: W
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: HH B131,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sadeh
+
+Spring 2024
+
+Course number: 17422
+
+Title: Building User-Focused Sensing Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Agarwal, Goel
+
+Spring 2024
+Spring 2024
+
+Course number: 15659
+
+Title: Probability and Computing
+
+Units: 9.0
+
+Section: A,B,C,D,Lec
+
+Days: F,TR
+
+Start: 12:30PM,01:00PM,09:00AM,02:00PM
+
+End: 01:50PM,02:50PM,09:50AM
+
+Room: GHC 4401,BH A53,WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Harchol-Balter, Wang
+
+Spring 2024
+
+Course number: 15661
+
+Title: Interaction and Expression using the Pausch Bridge Lighting
+
+Units: 4.0
+
+Section: A4
+
+Days: R
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: GHC 4301
+The Finals, initially scheduled for 2pm on Saturday, May 4, were ultimately postponed until Saturday, May 11, due to a downpour that cast a damper on an otherwise exciting Spring Carnival. Controversial Finals. An overcast sky threatened rain on the makeup date as well, though it held off long enough for the race to be run. But some of the spectators may have wished the rain came sooner. Although signs were posted about the makeup date, cars ignored the notices and ended up blocking part of the
+Q: When are rehearsals? A: Football season: Mondays and Thursdays from 5:30 p.m.-7:30 p.m. and Game Day 9:30-11:00a.m. Concert Season: Mondays and Thursdays from 5:30-6:30 p.m. Location is the CUC Studio Theater.
+
+Q: When are performances? A: The Kiltie Band performs at all home football games, a holiday concert, and two spring concerts. Times and dates for all performances are announced at the first practice.
+Fight Over Carnival Schedule. Now that Spring Carnival was back on, the students had to decide how they wanted it – As 2 days in May (losing a day of vacation) or one day in April (not sacrificing any other off days). Buggy was going to happen either way, but ultimately the students voted on a 2 day Carnival, keeping the tradition intact and putting Raceday on the schedule for May 2-3. Time Trials. It looks like this post-war period was when the race changed from a head-to-head to a time trial.
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+close Date -  March 4 ; Event - 8 M-F Spring Break; No Classes Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 12 ; Day - Tuesday ; Event - Summer 2024 Registration Opens Date -  March 15 ; Day - Friday ; Event - Mini-4
+
+
+Answer: 

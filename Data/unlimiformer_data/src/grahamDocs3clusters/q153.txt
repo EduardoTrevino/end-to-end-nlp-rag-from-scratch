@@ -1,0 +1,166 @@
+Question: What is the name of the proposed approach for fairness domain adaptation in semantic scene segmentation?
+
+Context: In this work, we proposed a multi-modal regularisa- tion scheme for self-training approaches in unsupervised domain adaptation for semantic segmentation. We de- rive an objectness constraint from multi-modal clustering that is then used to formulate a contrastive objective for regularisation. We show that this regularisation consis- tently improves upon different types of self-training meth- ods and even achieves state-of-the-art performance in popu- lar benchmarks. In the future, we plan to
+[53] Qin Wang, Dengxin Dai, Lukas Hoyer, Olga Fink, and Luc Van Gool. Domain adaptive semantic segmentation with self-supervised depth estimation. In ICCV, 2021. 2, 3 [54] Zhonghao Wang, Mo Yu, Yunchao Wei, Rog´erio Schmidt Feris, Jinjun Xiong, Wen mei W. Hwu, Thomas S. Huang, and Humphrey Shi. Differential treatment for stuff and things: A simple unsupervised domain adaptation method for semantic segmentation. CVPR, 2020. 2
+
+[55] Yifan Wu, Ezra Winston, Divyansh Kaushik,
+[63] Hengshuang Zhao, Jianping Shi, Xiaojuan Qi, Xiaogang Wang, and Jiaya Jia. Pyramid scene parsing network. In CVPR, 2017. 7
+
+[64] Yang Zou, Zhiding Yu, BVK Kumar, and Jinsong Wang. Unsupervised domain adaptation for semantic segmentation via class-balanced self-training. In Proceedings of the Eu- ropean conference on computer vision (ECCV), pages 289– 305, 2018. 2, 3, 4, 12
+
+11
+Title: Writing the Adaptation for Stage and Screen
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Swenson, Kirk
+
+Fall 2023
+
+Course number: 54191
+
+Title: Acting for Non-Majors
+
+Units: 9.0
+
+Section: A,B
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: PCA 115,PCA 313
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pazos,Swierc
+
+Fall 2023
+
+Course number: 54195
+
+Title: Creative and Dramatic Writing for Engineers
+Spring 2024
+
+Course number: 12749
+
+Title: Climate Change Adaptation:
+
+Units: 6.0
+
+Section:  ,A4
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Ozis
+
+Spring 2024
+
+Course number: 12750
+
+Title: Infrastructure Management
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: BH A53
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Coffelt
+
+Spring 2024
+
+Course number: 12755
+
+Title: Finite Elements in Mechanics I:
+Section: A, ,B
+
+Days:  ,TR
+
+Start:  ,10:00AM,02:00PM
+
+End: 11:50AM, ,03:50PM
+
+Room: HL A5, ,HL 106B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Barbuto,Pinchuk
+
+Fall 2023
+
+Course number: 62183
+
+Title: Documentary Theater
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A20
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Thoni, Miller
+
+Fall 2023
+
+Course number: 62187
+
+Title: Writing the Adaptation for Stage and Screen
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+Language Technologies Institute - Faculty Name: Maarten Sap Email: msap2@andrew.cmu.edu Research Areas: Fairness and Ethics in Language Technology, Computational Social Science, Discourse and Pragmatics, Conversational AI, Intelligent Agents, and Dialogue
+
+Language Technologies Institute - Faculty Name: Michael Shamos Email: shamos@cs.cmu.edu Office: 6707 Gates & Hillman Centers Phone: 412-268-8193
+Language Technologies Institute - Faculty Name: Fernando Diaz Email: diazf@cmu.edu Research Areas: Information Retrieval: Recommender Systems, Retrieval and Ranking Models, Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation Phone: 412-268-4229
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+
+
+Answer: 

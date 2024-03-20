@@ -1,0 +1,207 @@
+Question: How many authors from FACTORCL are from Carnegie Mellon University?
+
+Context: Edouard Grave, Piotr Bojanowski, Prakhar Gupta, Armand Joulin, and Tomas Mikolov. 2018. Learn- ing word vectors for 157 languages. In Pro- ceedings of the International Conference on Lan- guage Resources and Evaluation (LREC 2018).
+
+Carnegie Mellon Speech Group. 2014.
+
+The Carnegie Mellon Pronouncing Dictionary 0.7b. Carnegie Mellon University.
+3 2 0 2
+
+p e S 4 1
+
+] L C . s c [
+
+1 v 3 2 4 7 0 . 9 0 3 2 : v i X r a
+
+ChatGPT MT: Competitive for High- (but not Low-) Resource Languages
+
+Nathaniel R. Robinson1,2∗
+
+Perez Ogayo1∗ David R. Mortensen1 Graham Neubig1
+
+1Language Technologies Institute, Carnegie Mellon University 2 Center for Language and Speech Processing, Johns Hopkins University nrobin38@jhu.edu, {aogayo, dmortens, gneubig}@cs.cmu.edu * Authors contributed equally
+
+Abstract
+1Faculty of Engineering and Natural Sciences, Sabancı University, Istanbul, Türkiye, 2Qatar Computer Science Program/Language Technologies Institute, Carnegie Mellon University, Pittsburgh, PA, USA, and 3Center of Excellence in Data Analytics (VERIM), Sabancı University, Istanbul, Türkiye Corresponding author: Figen Beken Fikri; Email: fbekenﬁkri@sabanciuniv.edu
+
+(Received 15 August 2022; revised 12 September 2023; accepted 27 September 2023)
+Instructors: Meyer,Gasson,Salehzadeh,Strickland,Watson,Pessoa,Pal-Agrawal,Tanquary,George,Kidder,Mayshle,Comiskey,Cafasso,Myers,Szalkowski-Ference
+
+Fall 2023
+
+Course number: 76102
+
+Title: Advanced First Year Writing: Special Topics
+
+Units: 9.0
+
+Section: B
+
+Days: MWF
+
+Start: 11:00AM
+
+End: 11:50AM
+
+Room: BH 255B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mayshle
+
+Fall 2023
+
+Course number: 76106
+
+Title: Writing about Literature, Art and Culture
+
+Units: 4.5
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Course number: 76795
+
+Title: Science Writing
+
+Units: 9-12
+
+Section: A
+
+Days: R
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: PH 125D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Linn
+
+Spring 2024
+
+Course number: 76800
+
+Title: Directed Research in Rhetoric
+
+Units: 3-18
+
+Section: A,C,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Larson,Coulson,Ritivoi
+
+Spring 2024
+
+Course number: 76801
+
+Title: Directed Study in Literary and Cultural Studies
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+Inductees will be selected by a committee comprised of Carnegie Mellon University staff, faculty, a board of trustee member, coaches and a student representative. The Athletics Hall of Fame will endeavor to induct not less than 15 individuals for induction in its first year and not less than 6 in any year thereafter, subject to the discretion of the Nominating Committee. The below will set forth the criteria for selection to the Athletics Hall of Fame.
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+Committed to extending our founders’ vision The School of Computer Science at Carnegie Mellon University enters its second quarter century as a world-leading educational and research institution, embracing all facets of computing. Its graduate programs are consisted ranked with the best in the world by a leading U.S. magazine, while its undergraduate programs are also rated the best in the U.S. by corporate recruiters. In 2013, SCS had 284 faculty members and a total student enrollment of
+Carnegie Mellon courses and courses taken throug h the university's cross-registration program
+
+will have grades recorded on the transcript and be factored into the QPA. All other courses will
+
+be recorded on this transcript indicating where the course was taken, but without grades. Such 26
+
+courses will not be taken into account for academic actions, honors  or QPA calculations. (Note:
+
+suspended students may take courses elsewhere; ho wever, they may receive transfer credit only
+including off-campus/ wireless access to databases and e-journals, offer online access. There are 38
+
+also two neighboring libraries open to Carnegie Mellon graduate students: Carnegie Library of
+
+Pittsburgh and University of Pittsburgh Libraries. Visit the University Libraries website for
+
+information about all mentioned library locatio ns and hours, on-line resources and FAQ’s.
+
+13.10  Computing Services
+
+www.cmu.edu/computing/
+
+
+Answer: 

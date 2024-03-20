@@ -1,0 +1,126 @@
+Question: In spring 2024, What is the title of course 17200?
+
+Context: Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+Jiaqi Li, Ming Liu, Min-Yen Kan, Zihao Zheng, Zekun Wang, Wenqiang Lei, Ting Liu, and Bing Qin. 2020a. Molweni: A challenge multiparty dialogues-based machine reading comprehension dataset with dis- course structure. In Proceedings of the 28th Inter- national Conference on Computational Linguistics, pages 2642–2652, Barcelona, Spain (Online). Inter- national Committee on Computational Linguistics.
+s,ChenhaoTan,YangfengJi,andNoahASmith.2018.Creativewritingwithamachineintheloop:Casestudiesonslogansandstories.In23rdInternationalConferenceonIntelligentUserInterfaces,pages329–340.HerbertHClark.1996.Usinglanguage.Cambridgeuniversitypress.HerbertHClark.1997.Dogmasofunderstanding.Dis-courseProcesses,23(3):567–598.DavidDale,AntonVoronov,DarynaDementieva,Var-varaLogacheva,OlgaKozlova,NikitaSemenov,andAlexanderPanchenko.2021.Textdetoxificationus-inglargepre-trainedneuralmodels.InProceedingsofthe2021
+Spring 2024
+
+Course number: 76101
+
+Title: Interpretation and Argument
+
+Units: 9.0
+
+Section: E,I,AC,LL,FF,AD,F,HH,CC,D,WW,GG,BB,II,C,EE,DD,J,AB,A,K,W,B,KK,JJ,YY,M,O,X,Z,MM,N,XX
+
+Days: MWF,UTR,TR
+
+Start: 08:45AM,08:00AM,04:00PM,09:30AM,03:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM,03:30PM,12:30PM
+
+End: 12:50PM,01:50PM,09:50AM,03:20PM,03:50PM,09:35AM,02:50PM,04:50PM,12:20PM,11:50AM,10:50AM,09:20AM,08:50AM
+Spring 2024
+
+Course number: 18100
+
+Title: Introduction to Electrical and Computer Engineering
+
+Units: 12.0
+
+Section: A,B,C,D,Lec
+
+Days: F,MW
+
+Start: 01:00PM,12:00PM,11:00AM,10:00AM,12:30PM
+
+End: 11:50AM,10:50AM,12:50PM,01:50PM
+
+Room: WEH 5421,WEH 5403,DH 2210
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kesden, Zajdel,Zajdel, Kesden
+
+Spring 2024
+
+Course number: 18202
+
+Title: Mathematical Foundations of Electrical Engineering
+
+Units: 12.0
+
+Section: A,B,C,D,Lec
+
+Days: F,TR
+Instructors: Vasilescu
+
+Spring 2024
+
+Course number: 17806
+
+Title: Software Engineering Independent Study
+
+Units: 1-48
+
+Section: A,M,E,I,K,B,F,G,C,D,N,J,H,L
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Le Goues,Herbsleb,Kang,Fredrikson,Aldrich,Scherlis,Begel,Padhye,Sunshine, Aldrich,Kaestner,Miller,Hellendoorn,Breaux,Garlan
+
+Spring 2024
+
+Course number: 17882
+
+Title: Software Architectures
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 09:30AM
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+
+
+Answer: 

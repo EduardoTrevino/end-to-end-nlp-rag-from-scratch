@@ -1,0 +1,161 @@
+Question: In spring carnival, Scotch'n'Soda's theatre carnival shows are on what days of the week?
+
+Context: INSTRUCTSCORE Input: Reference: Activities include the “Cool Maker Loves Family” carnival of children’s future learning, the first children’s visual art festival, the “Book Carnival” event and the “Whole Family Loves Reading” Picture Book Reading activity. Output: Activities include the "love family and create cool" children’s future learning carnival, the first chil- dren’s visual arts festival, the "book carnival" activity, the "family love reading" picture book series activity.
+INSTRUCTSCORE Input: Reference: It is understood that the activities held during the “Children’s Day” by China Children’s Center this year include the “Cool Maker Loves Family” carnival of children’s future learning, the first children’s visual art festival, the “Book Carnival” event and the “Whole Family Loves Reading” Picture Book Reading activity. Output: It is understood that the activities held by the China children’s center during this year’s "June 1" children’s day include the "love
+A carnival reveller dressed as a clown celebrates on the street in
+
+Berlin February 18 , 2007. REUTERS / Pawel Kopczynski
+
+LONDON ( Reuters ) - Bad news for Coco and Blinko -- children don ’ t like
+
+clowns and even older kids are scared of them .
+
+The news that will no doubt have clowns shedding tears was revealed in
+
+a poll of youngsters by researchers from the University of
+
+Sheffield who were examining how to improve the decor of hospital children ’ s wards .
+Instructors: Hayes,Bista,Cupkova,Arscott,Damiani,Garofalo,Lee,Bizon
+
+Spring 2024
+
+Course number: 48516
+
+Title: Carnival Gateway Special Project
+
+Units: VAR
+
+Section: A4
+
+Days: M
+
+Start: 06:30PM
+
+End: 07:50PM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Khan
+
+Spring 2024
+
+Course number: 48517
+
+Title: Carnival Gateway Project Management:
+
+Units: VAR
+
+Section: A, ,B
+
+Days: M,
+
+Start:  ,06:30PM
+
+End:  ,07:50PM
+
+Room:  ,CFA 206A
+
+Locations:  ,Pittsburgh, Pennsylvania
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Noel,Sindi,Kwon
+
+Spring 2024
+
+Course number: 48616
+
+Title: Carnival Gateway Special Project
+
+Units: VAR
+
+Section: A4
+
+Days: M
+
+Start: 06:30PM
+
+End: 07:50PM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Khan
+
+Spring 2024
+
+Course number: 48617
+
+Title: Carnival Gateway Project Management
+
+Units: VAR
+
+Section: A,B
+
+Days: M
+
+Start: 06:30PM
+
+End: 07:50PM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Achnani,Tannir,Sindi,Abraham, Achnani, Sindi, Tannir,Bizon
+
+Fall 2023
+
+Course number: 48307
+
+Title: Carnival Pavilion
+
+Units: VAR
+
+Section: A1,B2,A2
+
+Days: W
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: CFA 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Achnani,Khan
+
+Fall 2023
+
+Course number: 48310
+
+Title: Prototyping Stories: Experimental Children's Book and Vis Dev as An Architectura
+
+Units: 9.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CFA 211
+Fight Over Carnival Schedule. Now that Spring Carnival was back on, the students had to decide how they wanted it – As 2 days in May (losing a day of vacation) or one day in April (not sacrificing any other off days). Buggy was going to happen either way, but ultimately the students voted on a 2 day Carnival, keeping the tradition intact and putting Raceday on the schedule for May 2-3. Time Trials. It looks like this post-war period was when the race changed from a head-to-head to a time trial.
+The Finals, initially scheduled for 2pm on Saturday, May 4, were ultimately postponed until Saturday, May 11, due to a downpour that cast a damper on an otherwise exciting Spring Carnival. Controversial Finals. An overcast sky threatened rain on the makeup date as well, though it held off long enough for the race to be run. But some of the spectators may have wished the rain came sooner. Although signs were posted about the makeup date, cars ignored the notices and ended up blocking part of the
+Buggy is Back! The War is over, and Spring Carnival is back with Buggy! The first year back was a short one though, as Spring Carnival was only a 2-day event, kicking off with Buggy at 4:30pm on Friday. The field was small (only 9 teams), as not all of the fraternities on campus had reactivated following the War. Buggy secrecy came back as well, as the April 30, 1946 Tartan reported that DU was building their new buggy off-campus, and were so secretive about it that not even their brothers had
+Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1) Date -  March 31 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline Date -  April 2 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 3 ; Event - 5 Th-Sa Spring Carnival; No Classes Date -  April 7 ; Event - 11 M-F Fall 2025 Registration Week Date -  April 14 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -
+add, audit & tuition adjustment drop deadline (1) Date -  April 1 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  April 3 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week Date -  April 15 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -  April 15 ; Day -
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+
+
+Answer: 

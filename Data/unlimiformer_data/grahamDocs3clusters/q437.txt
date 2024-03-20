@@ -1,0 +1,154 @@
+Question: How many candidate documents were re-ranked using InPars-light compared to InPars?
+
+Context: Obtaining good results in the unsupervised setting described above required re-ranking only 100 candidate documents compared to 1000 used by Bonifacio et al. (2022). Overall, compared to InPars, our training recipe—which we call InPars-light—is substantially more cost effective in terms of both, generation of synthetic training data and training/application of ranking models (see § A.2 for a detailed discussion).
+our 435M parameter DeBERTA v3 ranker was at par with the 7x larger monoT5-3B (average gain over BM25 of 1.3 vs 1.32): In fact, on three out of five datasets, DeBERTA slightly outperformed monoT5-3B. Finally, these good results were achieved by re-ranking only 100 candidate documents compared to 1000 used by Bonifacio et al. (2022). We believe that InPars-light is the first truly cost-effective prompt-based unsupervised recipe to train and deploy neural ranking models that outperform BM25. Our
+Optional pre-training of models using all generated queries from all collections.
+
+Re-ranking only 100 candidate documents instead of 1000: However, importantly, the training procedure still generates negatives from a top-1000 set produced by a BM25 ranker.
+
+To obtain consistency-checked queries for a given dataset, a model trained on InPars-generated queries (for this dataset) was used to re-rank output of all original queries (for a given dataset). Then, all the queries
+Instructors: Oddo,Niang,Ales,Thiessen,Vatanasakdakul,Dubreil,Wassif,Aoun,Crittenden,Mahon,Arana,Instructor TBA,Haggerty,Aronson,Mcgovern,Caspar,Fong,Greenhouse, Yurko,Clay,Goldman,Jarbo,Oppenheimer,Parker,Verstynen,London,Helgeson,Manke-Miller, Jarbo,Bouamor,Mccafferty
+
+Fall 2023
+
+Course number: 66502
+
+Title: Dietrich College Senior Honors Thesis II
+
+Units: 9.0
+
+Section: A,C,D,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+End: 10:50AM
+
+Room: PH A19D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dworkin
+
+Fall 2023
+
+Course number: 82500
+
+Title: Modern Languages Independent Study
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Caspar
+
+Fall 2023
+
+Course number: 82501
+
+Title: Special Topics in French & Francophone Studies
+
+Units: 3-12
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+Instructors: Wells
+
+Spring 2024
+
+Course number: 82288
+
+Title: Everyday Learning: Designing Learning Exp in Times of Unrest & Uncertainty
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1024
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Caspar
+
+Spring 2024
+
+Course number: 82292
+
+Title: Intermediate Russian II
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: BH 154A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kats
+
+Spring 2024
+5.3 Independent Study  .......................................................................................................................... 21
+
+5.4 University Policy on Grades  ......................................................................................................... 21
+
+5.5 Process for Appealing Final Grades ............................................................................................ 21
+3.7 Grading and Evaluation  ................................................................................................................. 20
+
+3.7.1  University Policy on Grades  .................................................................................................  20
+
+3.7.2  University Policy on Grades for Transfer Courses  ......................................................... 20
+AI Innovation (11-654) – Prereq uisite is the completion of 11- 695 with a grade of “B” or
+
+better.
+
+Capstone (11-699) – Prerequisite is the completion of 11-654 with a grade of “B” or better.
+
+Students are required to repeat any required cour se that they have completed with a grade less
+
+than the required minimum, preferably at the nex t offering. (Please note that Core courses and
+
+Knowledge courses are only offered once per year.) Students will be  allowed to retake a required
+
+
+Answer: 

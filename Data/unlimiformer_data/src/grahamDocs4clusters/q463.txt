@@ -1,0 +1,187 @@
+Question: In spring 2024, What is the title of course 17437?
+
+Context: mind through textual entailment.
+
+Hal Daumé. 2017. A course in machine learning. Hal
+
+Daumé III.
+
+Jesse Dodge, Maarten Sap, Ana Marasovi´c, William Agnew, Gabriel Ilharco, Dirk Groeneveld, Margaret Mitchell, and Matt Gardner. 2021. Documenting large webtext corpora: A case study on the colossal clean crawled corpus. In EMNLP.
+
+11
+
+Nicholas Epley, Adam Waytz, and John T Cacioppo. 2007. On seeing human: a three-factor theory of an- thropomorphism. Psychological review, 114(4):864.
+Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+9Limitations&EthicalConsiderationsDespitetakingthefirststeptowardsincorporatingcontextintostylisticrewritinganditsevaluationframeworks,thereareseverallimitationsandethi-calconcerns,whichwelistbelow.LimitedContextScopeInthisstudy,ourpri-maryfocusisonincorporatingtextualcontext,particularlyfromprecedingsentencesorpreviousturnsinaconversation.Futureworkshouldex-plorehowtoincorporateotherformsofcontextintorewritingmodelsandevaluations,suchasdis-coursestructure(Wellecketal.,2019),externalknowledge(G
+Course number: 17423
+
+Title: Designing Large-scale Software Systems
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 09:30AM,10:00AM
+
+End: 10:50AM
+
+Room: SH 238,SH 236
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Durschmid, Kang,Kang, Durschmid
+
+Spring 2024
+
+Course number: 17437
+
+Title: Web Application Development
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HOA 160
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lee, Eppinger
+
+Spring 2024
+Spring 2024
+
+Course number: 48497
+
+Title: Pre-Thesis
+
+Units: 3.0
+
+Section: A,B
+
+Days: W
+
+Start: 10:00AM,09:00AM
+
+End: 10:50AM,09:50AM
+
+Room: CFA 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Arscott
+
+Spring 2024
+
+Course number: 48510
+
+Title: Advanced Synthesis Options Studio IV
+
+Units: 18.0
+
+Section: A,E,B,F,G,C,D,Lec
+
+Days: TR
+
+Start: 01:00PM
+
+End: 04:50PM
+
+Room: MM 103,CFA 200,MM 312
+
+Locations: Pittsburgh, Pennsylvania
+Spring 2024
+
+Course number: 48638
+
+Title: Structural Design 2: Materials and Analysis
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4707
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lee
+
+Spring 2024
+
+Course number: 48640
+
+Title: M.Arch Studio: Praxis II:
+
+Units: 18.0
+
+Section: A,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,04:50PM
+
+Room: MM 320,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Davis, Huber, Sawyer
+
+Spring 2024
+
+Course number: 48641
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+
+
+Answer: 

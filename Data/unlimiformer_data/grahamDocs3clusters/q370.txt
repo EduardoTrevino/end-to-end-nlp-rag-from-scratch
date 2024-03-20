@@ -1,0 +1,148 @@
+Question: In spring 2024, Who are the instructors for course 15210?
+
+Context: 6. Michele Chan Santos, “At UTSA, Open Educational Resources Deliver Savings and Reduce Barriers,” Texas Library Journal 96, no. 1 (2020): 7–9, https://txla.org/wp-content/uploads/2020/06/TLJ-Spring-2020_Issuu.pdf (accessed 21 July 2023).
+
+7. Erin Davis et al., “Enhancing Teaching and Learning: Libraries and Open Educational Resources in the Classroom,” Public Services Quarterly 12, no. 1 (2016): 22–35, DOI: https://doi.org/10.1080/15228959.2015.1108893 (accessed 11 July 2023).
+Barlas Oguz, Kushal Lakhotia, Anchit Gupta, Patrick Lewis, Vladimir Karpukhin, Aleksandra Piktus, Xilun Chen, Sebastian Riedel, Scott Yih, Sonal Gupta, and Yashar Mehdad. 2022. Domain-matched pre-training tasks for dense retrieval. In Findings of the Association for Computational Linguistics: NAACL 2022, pages 1524–1534, Seattle, United States. Association for Computational Linguistics.
+Sanjoy Dasgupta, Daniel Hsu, Stefanos Poulis, and Xiaojin Zhu. 2019. Teaching a black-box learner. In Proceedings of the 36th International Conference on Machine Learning, ICML 2019, 9-15 June 2019, Long Beach, California, USA, volume 97 of Proceedings of Machine Learning Research, pages 1547–1555. PMLR.
+Spring 2024
+
+Course number: 24101
+
+Title: Fundamentals of Mechanical Engineering
+
+Units: 12.0
+
+Section: A,C,B,Lec
+
+Days: R,MW
+
+Start: 04:00PM,12:00PM,02:00PM
+
+End: 05:50PM,01:50PM,03:50PM,03:20PM
+
+Room: BH 140B,POS 152,BH 140A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Haidar, Singh,Singh, Haidar
+
+Spring 2024
+
+Course number: 24104
+
+Title: Maker Series: Intro to Modern Making
+
+Units: 3.0
+
+Section: K4,K3
+
+Days: F
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: ANS B10
+End: 12:50PM,01:50PM,12:20PM,02:50PM
+
+Room: PH A22,WEH 8427,HOA 160,WEH 2302,PH 125B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sandholm, Shah
+
+Spring 2024
+
+Course number: 15288
+
+Title: Special Topic: Machine Learning in a Nutshell
+
+Units: 9.0
+
+Section: W
+
+Days: UTR
+
+Start: 11:30AM
+
+End: 12:45PM
+
+Room: CMB 1190
+
+Locations: Doha, Qatar
+
+Instructors: Di Caro
+
+Spring 2024
+
+Course number: 15294
+
+Title: Rapid Prototyping Technologies
+
+Units: 5.0
+
+Section: A3
+
+Days: MW
+
+Start: 07:00PM
+End: 08:20PM
+
+Room: HL 106B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Touretzky
+
+Spring 2024
+
+Course number: 15295
+
+Title: Competition Programming and Problem Solving
+
+Units: 5.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: GHC 4307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sleator
+
+Spring 2024
+
+Course number: 15311
+
+Title: Logic and Mechanized Reasoning
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: NSH 1305
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+(2) Date -  July 22 ; Day - Friday ; Event - Mini-6 pass/no pass & withdrawal deadline (3) Date -  July 29 ; Day - Monday ; Event - Semester & Mini-6 Faculty Course Evalutations open Date -  August 1 ; Event - Semester & Mini-6 Last Day of ClassesSummer Semester 2024 (M24) Date - August 1 ; Day - Thursday ; Event - Semester & Mini-6 voucher deadline (4) Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Final Exams*** Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Faculty
+
+
+Answer: 

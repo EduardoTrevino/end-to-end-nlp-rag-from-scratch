@@ -1,0 +1,162 @@
+Question: Is the GRE optional for the Master of Science in Intelligent Information Systems application? Answer yes or no.
+
+Context: Grgurina’s (2008) work is oriented toward the teaching of ICT (Information and Communication Technology), and develops experiences in the teaching of computing at a general level without pointing out didactics as the basis of teaching action
+
+Frontiers in Computer Science
+
+06
+
+10.3389/fcomp.2023.1085507
+intelligence (SETI) aims to answer this question by looking for evidence of intelligent life elsewhere in the galaxy via the “technosignatures” created by their technology. The majority of technosignature searches to date have been conducted at radio frequencies, given the ease of propagation of radio signals through interstellar space1, as well as the relative efﬁciency of construction of powerful radio transmitters and receivers. One type of technosignatures that is most readily
+systems. One area of improvement for Scone is how useful it can be in supplying knowledge to an intelligent agent that can use the knowledge to perform actions and update the knowledge base with its observations.
+Title: Smart Cities: Growth and Intelligent Transportation Systems
+
+Units: 6.0
+
+Section: A2
+
+Days: R
+
+Start: 06:40PM
+
+End: 09:40PM
+
+Room: HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Qian
+
+Fall 2023
+
+Course number: 12648
+
+Title: CEE Research Project
+
+Units: 3-12
+
+Section: A,C,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wang,Lowry,Flanigan
+
+Fall 2023
+
+Course number: 12651
+
+Title: Air Quality Engineering:
+
+Units: 9.0
+
+Section: A,
+Title: CEE Infrastructure Systems in Action:
+
+Units: 2.0
+
+Section: A,
+
+Days:  ,T
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room:  ,PH 107E
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Gregory
+
+Fall 2023
+
+Course number: 12301
+
+Title: CEE Projects: Integrating the Built, Natural and Information Environments
+
+Units: 9.0
+
+Section: A,B
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: PH 107E
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Coffelt, Moore,Moore, Coffelt
+
+Fall 2023
+Fall 2023
+
+Course number: 49734
+
+Title: Designing Smart and Intelligent Products: Using AI in Industrial Applications
+
+Units: 6.0
+
+Section: A1
+
+Days: MW
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: CA 108
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hindsbo
+
+Fall 2023
+
+Course number: 49740
+
+Title: Integrated Product Development: Processes, Methods & Tools:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,10:00AM
+
+End: 11:50AM,
+
+Room: CA 115,
+
+Locations:  ,Pittsburgh, Pennsylvania
+page. Requirements The School of Computer Science requires the following for all graduate program applications: GRE scores: GREs are now optional, but if you want to submit GRE scores: These must be less than five years old. A GRE subject test in science, engineering, computer science, math, etc. is not required, but you may complete one and submit the scores if you wish. Our Institution Code is 2074; Department Code is 0402.
+Human Language for Language Technologies
+
+Language Technology Application
+
+Machine Learning for Language Technologies
+
+Part- time options are available in some cases.
+
+4.2 Required Units for Degree Attainment
+
+To complete the Master of Science in Intelligent Information Systems, a student must satisfy
+
+three types of requirements. Curricular requirements ensure that MIIS students receive
+
+instruction in core intelligent information systems technologies while also allowing an
+Fee Waiver page. Requirements The School of Computer Science requires the following for all Master's applications. GRE scores: MIIS applicants must submit their GRE scores. The scores must be less than five years old. The GRE Subject Test is not required, but is recommended. Our Institution Code is 2074; Department Code is 0402.
+
+
+Answer: 

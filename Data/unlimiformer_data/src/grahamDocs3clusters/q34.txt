@@ -1,0 +1,204 @@
+Question: How many credits is 11824 worth?
+
+Context: 117 interacts with 6, 16, 17, 20, 49, 57, 86, 95, 101, 111, 113, 114, 116, 121, 123, 124, 125, 133, 135,
+
+137
+
+118 interacts with 5, 9, 17, 19, 28, 33, 34, 35, 39, 40, 41, 42, 45, 46, 47, 49, 51, 53, 57, 126, 127,
+
+130, 131, 134
+
+119 interacts with 3, 16, 23, 29, 48, 55, 61, 62, 63, 68, 81, 86, 94, 95, 96, 97, 98, 101, 105, 113,
+
+136
+
+120 interacts with 25, 61, 71, 76, 84, 86, 98, 111, 121, 126, 132, 133, 139
+↓0.0670.554+INLP0.2950.565∗0.799∗0.370∗0.976∗1.039∗0.432∗
+
+RoBERTaBase0.1320.018-0.191-0.1660.127+DYNAMICPTQint80.527∗0.567∗0.0790.020
+
+RoBERTaBase0.395∗0.159-0.114-0.003-0.3150.780∗0.386∗0.307+DYN.PTQint80.660∗-0.118-0.1730.093-0.3180.337∗0.364∗
+
+↑0.1250.432+DYN.PTQint8-0.065-0.0140.587∗-0.1900.572∗0.580∗-0.173
+
+↑0.0520.179DistilRoBERTa0.490∗0.0190.291-0.131
+
+↑0.0410.167+INLP-0.309-0.347-0.191-0.135
+
+↑0.0090.316+SENTDEBIAS0.407∗0.084-0.1030.015-0.3000.728∗0.274∗
+.393(±.083) .366(±.079) .368(±.092) .365(±.094) .338(±.103) .418(±.090) .394(±.096) .391(±.080)
+
+.352(±.064) .326(±.075) .334(±.054) .322(±.077) .350(±.064) .402(±.049) .379(±.058) .309(±.073)
+
+.248(±.075) .261(±.065) .279(±.092) .261(±.077) .271(±.078) .324(±.075) .302(±.073) .118(±.057)
+
+.343(±.052) .299(±.043) .280(±.068) .292(±.057) .293(±.046) .415(±.022) .374(±.044) .059(±.069)
+
+CodeBERTScore
+
+.553(±.068)
+
+.369(±.049)
+
+.327(±.086)
+
+.393(±.048)
+
+.422(±.090)
+
+.415(±.071)
+
+.319(±.054)
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Title: ConLanging: Lrng. Ling. & Lang Tech via Constru Artif. Lang.
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11824
+
+Title: Subword Modeling
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH 100
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mortensen
+
+Spring 2024
+
+Course number: 11830
+Course number: 11868
+
+Title: Large Language Model Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Li
+
+Spring 2024
+
+Course number: 11877
+
+Title: Advanced Topics in Multimodal Machine Learning
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Liang, Fried
+
+Spring 2024
+
+Course number: 11891
+
+Title: Neural Code Generation:
+least 36 units that count toward their current degree level. (See separate
+11.1.9 Transfer Credits ...................................................................................................................  25
+
+11.1.10  Leave of Absence ............................................................................................................  26
+
+11.1.11  Additional  Guidance  for Students ...................................................................................  26
+student eligibility for federal financial aid is contingent upon enrol lment in and successful
+
+completion of courses that are counted as credit toward their current degree program. To receive the maximum amount of federal financial aid for which they may be eligible, students
+
+must enroll each semester in at least 36 units that count toward their current degree level. (See
+
+separate guidance regarding integrated degree completion.) Students should consult with their
+
+
+Answer: 

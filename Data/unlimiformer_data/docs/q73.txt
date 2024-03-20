@@ -1,0 +1,177 @@
+Question: How did Carnegie Tech's campus evolve architecturally in the early 20th century?
+
+Context: that can answer basic queries about the stored knowl- edge [6]. Scone is implemented in Common Lisp and has been under development in Carnegie Mellon University’s (CMU’s) Language Technologies Institute since around 2003. A tutorial book on the design and usage of Scone is in the process of being written. Until it is published, more information about Scone can be found in Fahlman’s Knowledge Nuggets blog [8].
+3 2 0 2
+
+l u J
+
+6
+
+] L C . s c [
+
+2 v 6 9 8 1 0 . 7 0 3 2 : v i X r a
+
+Transformed Protoform Reconstruction
+
+Young Min Kim∗ and Kalvin Chang∗ and Chenxuan Cui and David Mortensen Language Technologies Institute, Carnegie Mellon University {youngmik, kalvinc, cxcui, dmortens}@cs.cmu.edu
+
+Abstract
+construction of the ﬁrst computers as electromechanical machines, computing would not be what we know today (Kulkarni, 2015). In this context, computer science has evolved during the second half of the 20th century, starting with computer programming in assembler through procedural languages to focus at the beginning of the 21st century on Object Oriented programming and code generators. Currently there are several initiatives in the world to incorporate programming in schools, one of them is
+Units: 3.0
+
+Section: A
+
+Days: MW
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: MM 307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rafson
+
+Spring 2024
+
+Course number: 48435
+
+Title: Modern Mexico & Guatemala: 19th-21st Century Architecture
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: CFA 102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shaw
+
+Spring 2024
+
+Course number: 48442
+
+Title: History of Asian Architecture
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Title: Software Architectures: MSE
+
+Units: 1-36
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Schmerl, Garlan,Garlan, Schmerl
+
+Spring 2024
+
+Course number: 17634
+
+Title: Applied Machine Learning
+
+Units: 6.0
+
+Section: 43,A3,D3
+
+Days: M,MW
+
+Start: 03:30PM,07:00PM
+
+End: 08:20PM,04:50PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Worrell, Scanlon,Scanlon, Worrell
+
+Spring 2024
+Who founded Carnegie Mellon University?
+
+Carnegie Technical Schools was founded in 1900 by Andrew Carnegie. Twelve years later it became known as the Carnegie Institute of Technology. In 1967, the school merged with Mellon Institute and became what is known today as Carnegie Mellon University.
+The starting line from the inaugural race in June 1920 was outside what is now known as the College of Fine Arts building. Racers then traveled toward Margaret Morrison Carnegie Hall, went up Tech Street, down through Schenley Park and then turned back to campus. Buggies would then take pit stops and have their rear wheels swapped before heading back toward the starting line.
+
+Alpha Kappa Psi, the first sorority to enter a Buggy on race day, in 1922.
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+With the end of World War II, the latter half of the 20th century brought unprecedented growth to Carnegie Tech. In 1956, the arrival of the first IBM computer to campus was revolutionary, initiating a university culture where information technology pervaded virtually all areas of study. University culture also changed in 1973 when Margaret Morrison closed and women joined their male peers in classrooms and dorms. The times were changing, and Tech positioned itself at the forefront, opening
+It expanded from two buildings into an elegant 20th century campus designed in the beaux arts architectural style, housing a wealth of machine shops, studios and laboratories — the hands-on center of learning that persists today. It pioneered conservatory degree programs in music and drama, in addition to visual art and design programs. The first U.S. drama degree was awarded in 1914 at Carnegie Tech. It began offering graduate degrees. In 1919, the first doctorate (in civil engineering) was
+Carnegie Tech – Early Years
+
+Soon faced with the demand for baccalaureate programs, Carnegie Technical Schools began offering bachelor's degrees through its College of Engineering and College of Fine Arts, becoming the Carnegie Institute of Technology, or "Carnegie Tech." During the first half of the 20th century, with support from Andrew Carnegie and other funders, Carnegie Tech laid the foundation for a school on the cutting edge. Some key developments were:
+
+
+Answer: 

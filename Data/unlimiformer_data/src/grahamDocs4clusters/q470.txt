@@ -1,0 +1,181 @@
+Question: In spring 2024, What is the title of course 15210?
+
+Context: Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+6. Michele Chan Santos, “At UTSA, Open Educational Resources Deliver Savings and Reduce Barriers,” Texas Library Journal 96, no. 1 (2020): 7–9, https://txla.org/wp-content/uploads/2020/06/TLJ-Spring-2020_Issuu.pdf (accessed 21 July 2023).
+
+7. Erin Davis et al., “Enhancing Teaching and Learning: Libraries and Open Educational Resources in the Classroom,” Public Services Quarterly 12, no. 1 (2016): 22–35, DOI: https://doi.org/10.1080/15228959.2015.1108893 (accessed 11 July 2023).
+Portnoﬀ (2018) says that the 10 years he has been a teacher in an introductory computer programming course, he has used
+
+Frontiers in Computer Science
+
+05
+
+10.3389/fcomp.2023.1085507
+Course number: 15210
+
+Title: Parallel and Sequential Data Structures and Algorithms
+
+Units: 12.0
+
+Section: A,E,I,K,W,B,F,G,C,D,Lec,J,H,L
+
+Days: MWF,T,UTR
+
+Start: 04:00PM,03:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM
+
+End: 12:50PM,01:50PM,09:50AM,03:50PM,12:20PM,02:50PM,04:50PM,11:15AM,11:50AM,10:50AM
+
+Room: GHC 5207,GHC 5208,GHC 4401,CMB 1202
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Oflazer,Acar, Sleator
+
+Spring 2024
+
+Course number: 15213
+Spring 2024
+
+Course number: 24101
+
+Title: Fundamentals of Mechanical Engineering
+
+Units: 12.0
+
+Section: A,C,B,Lec
+
+Days: R,MW
+
+Start: 04:00PM,12:00PM,02:00PM
+
+End: 05:50PM,01:50PM,03:50PM,03:20PM
+
+Room: BH 140B,POS 152,BH 140A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Haidar, Singh,Singh, Haidar
+
+Spring 2024
+
+Course number: 24104
+
+Title: Maker Series: Intro to Modern Making
+
+Units: 3.0
+
+Section: K4,K3
+
+Days: F
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: ANS B10
+Spring 2024
+
+Course number: 24789
+
+Title: Intermediate Deep Learning for Engineers
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Barati Farimani
+
+Spring 2024
+
+Course number: 24790
+
+Title: Thesis Research
+
+Units: 3-36
+
+Section: A3
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hertz
+
+Spring 2024
+
+Course number: 24791
+
+Title: Graduate Seminar I
+
+Units: 0.0
+
+Section: A
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+(2) Date -  July 22 ; Day - Friday ; Event - Mini-6 pass/no pass & withdrawal deadline (3) Date -  July 29 ; Day - Monday ; Event - Semester & Mini-6 Faculty Course Evalutations open Date -  August 1 ; Event - Semester & Mini-6 Last Day of ClassesSummer Semester 2024 (M24) Date - August 1 ; Day - Thursday ; Event - Semester & Mini-6 voucher deadline (4) Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Final Exams*** Date -  August 2 ; Day - Friday ; Event - Semester & Mini-6 Faculty
+
+
+Answer: 

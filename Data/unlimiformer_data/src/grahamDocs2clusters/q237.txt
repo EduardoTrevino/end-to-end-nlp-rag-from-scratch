@@ -1,0 +1,41 @@
+Question: What is the 5 letter abbreviation for the MS in artificial intelligence and innovation degree?
+
+Context: Inception, Mohamed bin Zayed University of Artificial (MBZUAI), and Cerebras Systems. Arabic (MSA) and English Pretrained model – 13B parameters. Text-only data. Model generates text. GPT-3 with dense attention, 40 decoder blocks, 40 attention heads, 5,120 hid- den size, SwiGLU activation and ALiBi positional embeddings. Jais was trained between 23 June 2023 and 18 July 2023 This static model has been trained using an offline dataset. As we enhance the model safety based on community feedback,
+Inception, Mohamed bin Zayed University of Artificial (MBZUAI), and Cerebras Systems. Arabic (MSA) and English Instruction-tuned model – 13B parameters. Text-only data. Model generates text. GPT-3 with dense attention, 40 decoder blocks, 40 attention heads, 5,120 hid- den size, SwiGLU activation, and ALiBi positional embeddings. Jais-chat was trained between 11 August 2023 and 13 August 2023. This static model has been trained using an offline dataset. As we enhance the model safety based on
+Tushar Khot, Peter Clark, Michal Guerquin, Peter Jansen, and Ashish Sabharwal. 2020. QASC: A dataset for question answering via sentence compo- In The Thirty-Fourth AAAI Conference on sition. Artificial Intelligence, AAAI 2020, The Thirty-Second Innovative Applications of Artificial Intelligence Con- ference, IAAI 2020, The Tenth AAAI Symposium on Educational Advances in Artificial Intelligence, EAAI 2020, New York, NY, USA, February 7-12, 2020, pages 8082–8090. AAAI Press.
+Master of Science in Intelligent Information Systems (MIIS)
+
+Master of Computational Data Science  (MCDS)
+
+Master of Science in Artificial Intelligence and Innovation  (MSAII)  LTI Ph.D.  Graduate Student Handbook  Page 10
+
+This handbook applies to the LTI Ph.D.
+
+The Ph.D.  in Language and Information Technologies (LTI Ph.D. ) is focused on understanding
+
+and extending the state of the art in computational linguistics, natural language processing,
+1
+
+Master of Science in
+
+Artificial Intelligence and Innovation
+
+(MSAII)
+
+Student Handbook
+
+2022-2023
+
+Revised:  October 2, 2022
+
+2
+
+Table of Contents
+
+1 Welcome  ............................................................................................................................... ................  6
+
+2 Mission, Vision and Philoso phy.............................................................................................................  6
+Innovation (MSAII) program is a successor to the M.S. in Biotechnology, Innovation and Computing (MSBIC). It combines a rigorous AI and machine learning curriculum with real-world team experience in identifying an AI market niche and developing a responsive product in cooperation with external stakeholders. The core program, which lasts four semesters and leads to a capstone project, focuses on both intrapreneurship and entrepreneurship, equipping graduates to either begin a startup or develop
+
+
+Answer: 

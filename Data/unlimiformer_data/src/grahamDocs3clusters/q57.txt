@@ -1,0 +1,178 @@
+Question: In spring 2024, What is the title of course 15151?
+
+Context: Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+Renze Lou, Kai Zhang, and Wenpeng Yin. 2023. Is prompt all you need? no. a comprehensive and broader view of instruction learning. ArXiv, abs/2303.10475.
+
+Ximing Lu, Sean Welleck, Liwei Jiang, Jack Hessel, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, and Yejin Choi. 2022a. Quark: Controllable text generation with reinforced unlearning. CoRR, abs/2205.13636.
+Paper title: 'Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech' Published year: 2023 Publication venue or conference: arXiv.org Authors: Kai-Wei Chang, Chi-Yuan Hsiao, Yifan Peng, Haibin Wu, Shi Wang, Roshan Sharma, Chun-Yi Kuan, Siddhant Arora, Shady Shehata, Jiatong Shi, Hung-yi Lee, Ke-Han Lu, Chien-yu Huang, Shinji Watanabe, Bhiksha Ramakrishnan Summary: This work presents Dynamic-SUPERB, a benchmark designed for building universal
+Spring 2024
+
+Course number: 15151
+
+Title: Mathematical Foundations for Computer Science
+
+Units: 12.0
+
+Section: A,B,Lec
+
+Days: MWF,TR
+
+Start: 01:00PM,10:00AM,02:00PM
+
+End: 10:50AM,01:50PM,02:50PM
+
+Room: GHC 4307,GHC 4301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Peng
+
+Spring 2024
+
+Course number: 15195
+
+Title: Competition Programming I
+
+Units: 5.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: GHC 4307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sleator
+
+Spring 2024
+Spring 2024
+
+Course number: 15744
+
+Title: Computer Networks:
+
+Units: 12.0
+
+Section: A,
+
+Days: MWF,
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room:  ,GHC 4303
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Sherry, Atre
+
+Spring 2024
+
+Course number: 15751
+
+Title: CS Theory Toolkit:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room:  ,POS 152
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: O'Donnell, Jain
+
+Spring 2024
+
+Course number: 15772
+Spring 2024
+
+Course number: 57514
+
+Title: Major Studio (Saxophone)
+
+Units: 9.0
+
+Section: A,C,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kush,Instructor TBA,Houlik, Shields
+
+Spring 2024
+
+Course number: 57515
+
+Title: Major Studio (Horn)
+
+Units: 9.0
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Caballero,Kostyniak
+
+Spring 2024
+
+Course number: 57516
+
+Title: Major Studio (Trumpet)
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 15 ; Day - Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1)Spring 2024 Semester (S24)Fall 2023 Semester (F23) 2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+April 1 M Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes
+
+Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+
+
+Answer: 

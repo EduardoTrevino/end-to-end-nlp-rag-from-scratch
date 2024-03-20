@@ -1,0 +1,99 @@
+Question: What are the number of credits MCDS students must complete to graduate?
+
+Context: Course number: 57897
+
+Title: Graduate Recital (Voice)
+
+Units: 1.0
+
+Section: B4,D4,A4,C4,E4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Spring 2024
+
+Course number: 57898
+
+Title: Graduate Recital:
+
+Units: 1.0
+
+Section: E,IA,AC,OA,VD,NA,JA, ,FB,PB,VA,C,DD,AB,S,FA,KA,B,MC,T,MA,OB,VE,H,JB,L,NB,PC,IB,AA,PA,Q,R,DC,G,KB,VC,DB,VB,DA,MB
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+Title: Software Management Capstone Project
+
+Units: 3,6,12,24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: San Jose, California
+
+Instructors: Mercier
+
+Summer 2024
+
+Course number: 11633
+
+Title: MCDS Independent Study
+
+Units: 3-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Summer 2024
+
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: T
+
+Start: 08:00AM
+all met- rics except MCD, which we explained earlier. This sug- gests MQTTS is generally better than VITS, given enough resources. Additionally, we observed overﬁtting for both 100M and 200M of MQTTS, but with a higher severity for the 200M version. This explains the little improvement from 100M to 200M and suggests that a larger training corpus is needed for further improvement.
+Regardless of the timing option, all MCDS students must complete a minimum of 144 units to graduate. Here are the options: Standard Timing — a 16-month degree consisting of study for fall and spring semesters, a summer internship, and fall semester of study. Each semester comprises a minimum of 48 units. This timing is typical for most students. Students graduate in December. Extended Timing — a 20-month degree consisting of study for fall and spring semesters, a summer internship, and a second
+year of fall and spring study. Each semester comprises a minimum of 36 units. Students graduate in May. For a complete overview of the MCDS requirements, visit the MCDS website or read the MCDS Handbook. Curriculum: To earn an MCDS degree, student must pass courses in the core curriculum, the MCDS seminar, a concentration area and electives. Students must also complete a capstone project in which they work on a research project at CMU or on an industry-sponsored project. In total, students must
+MCDS students must also pass the undergraduate course 15-513 Introduction to Computer Systems (6 units), typically in the summer before their program commences. The student must pass with a grade of B- or better. Failure to pass the course means that the student takes 15-213 during either the fall or spring semester. Note that in both cases the units do not count toward the 144 eligible units of study. Click here to see the MCDS Course Map. Some example courses of study are included below.
+
+
+Answer: 

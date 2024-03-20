@@ -1,0 +1,81 @@
+Question: How many Academy Awards have alumni and current/former faculty won so far?
+
+Context: "The film was positively received by critics , and received seven Academy Award nominations , including Best Actor in a Leading Role ( Daniel Day-Lewis ) , Best Actor in a Supporting Role ( Pete Postlethwaite ) , Best Actress in a Supporting Role ( Emma Thompson ) , Best Director , and Best Picture ."
+(DARPA) Young Faculty Award and DARPA Director Award under Grant No. N66001-17-1-4044, an Intel faculty award, the Okawa Foundation award, a Northrop Grumman grant, and Google cloud program. A part of this work used the Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant number ACI-1548562. R.B. has been supported in part by a NSF award under grant DMS-2108900 and by the Simons Foundation. The views, opinions, and/or findings
+Acknowledgments
+
+We thank our shepherd, Bilge Acun, and the anonymous MLSys reviewers for their valuable insights and recom- mendations, which have enhanced our work. This research has been graciously funded by ONR Grant No. N00014- 21-1-2806, three Sony Faculty Innovation Awards, NSF IIS1563887, NSF CCF1629559, NSF IIS1617583, NSF IIS1955532, NSF CNS2008248, NSF IIS2123952, and NSF BCS2040381, and NGA HM04762010002.
+
+CUTTLEFISH: Low-rank Model Training without All The Tuning
+
+REFERENCES
+10 million downloads in 12 months
+
+and was named Apple’s 2013 app
+
+of the year.
+
+:-)
+
+LEADERSHIP
+
+Farnam Jahanian
+
+President
+
+David Coulter
+
+Chair, Board of Trustees
+
+James H. Garrett Jr.
+
+Provost2 National Academy of Engineering       3 National Academy of Sciences        4 National Academy of Medicine
+
+Won by alumni and current/former faculty
+
+The leading university center
+
+for cybersecurity , providing
+
+support to more than 110
+
+centers around the world
+
+The world’s first university
+10 million downloads in 12 months
+
+and was named Apple’s 2013 app
+
+of the year.
+
+:-)
+
+LEADERSHIP
+
+Farnam Jahanian
+
+President
+
+David Coulter
+
+Chair, Board of Trustees
+
+James H. Garrett Jr.
+
+Provost2 National Academy of Engineering       3 National Academy of Sciences        4 National Academy of Medicine
+
+Won by alumni and current/former faculty
+
+The leading university center
+
+for cybersecurity , providing
+
+support to more than 110
+
+centers around the world
+
+The world’s first university
+Turing Awards and a Nobel Prize In 1975, Simon and Newell were awarded the A.M. Turing Award for their work in artificial intelligence. (As of 2014, 12 CMU alumni or faculty have been awarded Turings, sometimes considered the Nobel Prize of computing.) Three years later, Simon received the Nobel Prize in Economics for his work on decision-making theory. As the 1970s progressed, Newell became interested in human-computer interaction, and began a long relationship with Xerox’s Palo Alto Research
+
+
+Answer: 

@@ -1,0 +1,235 @@
+Question: The TASTE algorithm was introduced in what paper?
+
+Context: ABSTRACT This paper proposes Text mAtching based SequenTial rEcommenda- tion model (TASTE), which maps items and users in an embedding space and recommends items by matching their text representa- tions. TASTE verbalizes items and user-item interactions using identifiers and attributes of items. To better characterize user be- haviors, TASTE additionally proposes an attention sparsity method, which enables TASTE to model longer user-item interactions by reducing the self-attention computations
+6 CONCLUSION In this paper, we propose a Text mAtching based SequenTial rEcommendation (TASTE) model, which represents users and items with text utterances and leans text matching signals to model the relevance between them. TASTE achieves the state-of-the-art on widely used sequential recommendation datasets. It outperforms
+In this paper, we propose Text mAtching based SequenTial rEcommendation (TASTE), which represents items and users with texts, establishes relevance between them by matching their text representations and alleviates the popularity bias of previous item id based recommendation models. TASTE verbalizes users and items by designing some prompts [39] and filling up the templates with item ids and item attributes. The item information provides text- matching clues to model the dependency and
+Fall 2023
+
+Course number: 85359
+
+Title: Introduction to Music Cognition Research:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room:  ,BH 336A
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Heller, Randall
+
+Fall 2023
+
+Course number: 85370
+
+Title: Perception:
+
+Units: 9.0
+
+Section: A,W,
+
+Days:  ,TR
+
+Start: 09:30AM, ,11:30AM
+
+End: 12:45PM,10:50AM,
+
+Room: BH 336B, ,CMB 1199
+
+Locations:  ,Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Bruder,Klatzky
+
+Fall 2023
+Course number: 15351
+
+Title: Algorithms and Advanced Data Structures
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 7500
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: DeBlasio, Mohimani
+
+Spring 2024
+
+Course number: 15355
+
+Title: Modern Computer Algebra
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 3203
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sutner
+
+Spring 2024
+
+Course number: 15356
+
+Title: Introduction to Cryptography
+Instructors: Heard
+
+Spring 2024
+
+Course number: 27515
+
+Title: Introduction to Computational Materials Science
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: POS 152
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: O'Connor
+
+Spring 2024
+
+Course number: 27537
+
+Title: Data Analytics for Materials Science
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 5207
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Taheri-Mousavi
+
+Spring 2024
+1946 – PiKA’s Buggy (from the 1947 Thistle). It didn’t win Design Competition, but it had the best aesthetic design. Prelim Heats and Results. The Prelims were run in 3 heats, with 3 teams in each. The rules initially stated that the winner of each heat would compete in the finals, but it seems that the rules changed to be the three fastest times instead, as the Prelim results printed in the May 7, 1946 Tartan indicate that the Finals was just a rematch of Prelim Heat 1. According to the May 7
+1948 saw the first independent orgs and the start of DTD’s run of greatness, but it wasn’t easy, as they barely held off KapSig for the championship.
+Sweepstakes Committee: Jack Johnson (Chair)
+
+Race Results: (1) DTD (2:42.5 – COURSE RECORD); (2) PiKA (2:43.5); (3) KapSig
+
+Design Comp: (1) SAE; (Honorable Mention) PiKA
+
+Weather: Sunny; 66-72 Degrees on Friday, 70-75 Degrees on Saturday
+
+In 1949, DTD earned its second straight nose-length victory and set a course record in doing so. Other than that, the year seemed uneventful.
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+4.4.2 Breadth Courses:  Language Technology Applications
+
+11-642, Search Engines
+
+11-688, Concepts in Digital Multimedia and Cyber Forensics
+
+11-692, Speech Processing
+
+11-697. Introduction to Q uestion Answering
+
+11-751, Speech Recognition and Understanding
+
+11-767, On -Service Machine Learning
+
+11-797, Question Answering
+
+11-830, Computational Ethics For NLP
+
+4.4.3 Breadth Courses:  Machine Learning
+
+11-641, Machine Learning for Text and Graph -Based Mining
+
+11-661, Language and Statistics
+
+
+Answer: 

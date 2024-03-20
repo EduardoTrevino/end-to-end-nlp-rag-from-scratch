@@ -1,0 +1,179 @@
+Question: What does SPAE stand for?
+
+Context: an image of the number of continents in the world
+
+an image of the square root of 4
+
+Context
+
+an image of the last digit of 5*7
+
+SPAE: A pizza with pepperoni and cheese on a white plate.SPAE: A man in a suit and tie standing next to a woman in a wedding dress.
+
+Query
+Baseline: A man in a suit standing in front of a white wall.SPAE L1: A man in a red jacket and black pants standing on a snowy mountain.SPAE L2: A man in a red jacket skiing down a snowy mountain.SPAE L3: A man skiing down a snowy mountain.SPAE L4: A person skiing down a snowy mountain.SPAE L5: A person skiing down a mountain.SPAE L6: A person skiing down a mountain.Baseline: A group of people are standing in a field.SPAE L1: A group of people are standing in a room.SPAE L2: A kitchen with a
+Baseline: A man and a woman are sitting on a bench in a park.SPAE L1: A man is holding a baby in his arms.SPAE L2: A group of people are standing in a line.SPAE L3: A group of people in costumes at a Halloween party.SPAE L4: A group of people are dressed up in costumes for Halloween.SPAE L5: a group of people dressed in costumes at a partySPAE L6: a table with a bowl of fruit and a vase of flowers
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Spacagna
+
+Spring 2024
+
+Course number: 57227
+
+Title: Jazz Instrumental Ensemble:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,08:00PM
+
+End:  ,09:20PM
+
+Room:  ,MM 119
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Snyder
+
+Spring 2024
+
+Course number: 57232
+
+Title: Chamber Music: Guitar
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Marcinizyn, Ferla
+
+Spring 2024
+Fall 2023
+
+Course number: 57588
+
+Title: Junior Recital Voice
+
+Units: 1.0
+
+Section: E2,B2,D2,C2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Fall 2023
+
+Course number: 57589
+
+Title: Senior Recital Voice
+
+Units: 1.0
+
+Section: E2,B2,D2,C2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Fall 2023
+
+Course number: 57591
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Johnston, Dannenberg, Stiles, Schulz, Stern, Sullivan
+
+Spring 2024
+
+Course number: 57588
+
+Title: Junior Recital Voice
+
+Units: 1.0
+
+Section: B4,D4,A4,C4,E4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Spring 2024
+
+Course number: 57589
+
+Title: Senior Recital Voice
+
+Units: 1.0
+
+Section: B4,D4,A4,C4,E4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+What is a Tartan?
+In the spring, the Task Force partnered with SME Branding — a firm with more than 17 years of experience creating mascots for professional sports teams and universities — to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.
+Driver: Person who travels with a buggy and controls the vehicles via steering and braking systems.
+
+Pushbar: Structure attached to a buggy that a person pushes to propel that buggy forward.
+
+Pusher: Person who propels a buggy via a pushbar along one of the five hills of the buggy course.
+
+Shell: Entire outer structure or covering of a buggy that determines that buggy's aerodynamic characteristics.
+The Office of the Assistant Vice Provost for Graduate Education (AVPGE) offers a robust schedule of professional development opportunities. Some are geared towards a specific
+
+population (master’s students, Ph.D.  students at the beginning of their program, graduate
+
+students seeking tenure track positions, etc.) and others are open to all graduate students (time management, balancing, staying healthy) . A full schedule of programs can be found at:
+
+http://www.cmu.edu/graduate/
+
+.
+The Office of the Assistant Vice Provost for Graduate Education (AVPGE) offers a robust schedule of professional development opportunities. Some are geared towards a specific population (master’s students, PhD students at the beginning of their program, graduate students seeking tenure track positions, etc.) and others are open to all graduate students (time management, balancing, staying healthy). A full schedule of programs can be found at: http://www.cmu.edu/graduate/.
+retaliation any individual who makes a good faith report of a suspected violation of any applicable law or regulation, university Policy or procedure, any contractual obligation of the university, and any report made pursuant to the Carnegie Mellon University Code of Business Ethics and Conduct.
+
+
+Answer: 

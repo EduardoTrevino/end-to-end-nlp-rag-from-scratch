@@ -1,0 +1,75 @@
+Question: At what journal was "Somatosensory and motor representations following bilateral transplants of the hands: A 6-year longitudinal case report on the first pediatric bilateral hand transplant patient" published?
+
+Context: Ahmadi, N., Constandinou, T.G., and Bouganis, C.-S. (2021). Robust and accurate decoding of hand
+
+kinematics from entire spiking activity using deep learning. Journal of Neural Engineering 18(2):
+
+026011. DOI:10.1088/1741-2552/abde8a.
+
+Alexander, A.S., Place, R., Starrett, M.J., Chrastil, E.R., and Nitz, D.A. (2023). Rethinking retrosplenial
+
+cortex: Perspectives and predictions. Neuron 111(2): 150–175.
+Timothy Dozat and Christopher D. Manning. 2017. Deep biaffine attention for neural dependency pars- ing. In 5th International Conference on Learning Representations, ICLR 2017, Toulon, France, April 24-26, 2017, Conference Track Proceedings. Open- Review.net.
+
+Jack Edmonds. 1967. Optimum branchings. Journal of Research of the national Bureau of Standards B, 71(4):233–240.
+Nalini Ambady and Robert Rosenthal. 1993. Half a minute: Predicting teacher evaluations from thin slices of nonverbal behavior and physical attractive- ness. Journal of personality and social psychology, 64(3):431.
+
+Dzmitry Bahdanau, Kyung Hyun Cho, and Yoshua Ben- gio. 2015. Neural machine translation by jointly learning to align and translate. In 3rd International Conference on Learning Representations, ICLR 2015.
+A history of SCS For an expanded history of the School of Computer Science and its predecessors at CMU, read "Institutional Memories" in the Summer 2014 issue of The Link magazine. In 2014, the School of Computer Science celebrated its 25th year as a stand-alone college within Carnegie Mellon University. It was arguably the first college devoted solely to computer science in the United States, and a model for others that followed. But CMU’s computer science era begins much earlier—in 1956, with
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+
+
+Answer: 

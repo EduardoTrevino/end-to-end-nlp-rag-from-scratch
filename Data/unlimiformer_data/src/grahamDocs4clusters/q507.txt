@@ -1,0 +1,199 @@
+Question: What is the full name of the conference where the paper Riveter: Measuring Power and Social Dynamics Between Entities, got published?
+
+Context: Paper title: 'Riveter: Measuring Power and Social Dynamics Between Entities' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Melanie Walsh, Jimin Mun, Lauren F. Klein, Maarten Sap, Anjalie Field, Maria Antoniak Summary: Riveter greatly improves the accessibility of verb lexica and can facilitate a broad range of future research by organizing the language processing pipeline, providing complete lexicon scores and
+Maria Antoniak, Anjalie Field, Ji Min Mun, Melanie Walsh, Lauren F. Klein, and Maarten Sap. 2023. Riv- eter: Measuring power and social dynamics between entities. In ACL demonstrations.
+
+Katherine Atwell, Sabit Hassan, and Malihe Alikhani. 2022. Appdia: A discourse-aware transformer-based style transfer model for offensive social media con- versations. In Proceedings of the 29th International Conference on Computational Linguistics, pages 6063–6074.
+Paper title: 'Conversational Search with Random Walks over Entity Graphs' Published year: 2023 Publication venue or conference: International Conference on the Theory of Information Retrieval Authors: Gustavo Gonçalves, Jamie Callan, João Magalhães Summary: Experiments show that using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.
+Instructors: Argote
+
+Spring 2024
+
+Course number: 45843
+
+Title: Organization Power and Influence:
+
+Units: 6.0
+
+Section:  ,A3,B3
+
+Days:  ,TR
+
+Start:  ,10:00AM,02:00PM
+
+End: 03:45PM, ,11:45AM
+
+Room: TEP 2118,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Chow
+
+Spring 2024
+
+Course number: 45844
+
+Title: Global and Distributed Teams
+
+Units: 6.0
+
+Section: M3
+
+Days: R
+
+Start: 08:30PM
+
+End: 09:45PM
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Woolley
+
+Spring 2024
+Course number: 94823
+
+Title: Measuring Social
+
+Units: 12.0
+
+Section: A
+
+Days: W
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH A301
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lightman
+
+Fall 2023
+
+Course number: 94833
+
+Title: Decision Analysis and Multicriteria Decision Making
+
+Units: 6.0
+
+Section: A2
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: HBH 1007
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Caulkins
+
+Fall 2023
+
+Course number: 94834
+
+Title: Applied Econometrics I
+
+Units: 6.0
+Title: Bias, Objectivity, and the Media's Role in Politics
+
+Units: 6.0
+
+Section: A2
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: GHC 4101
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kliewer
+
+Fall 2023
+
+Course number: 84360
+
+Title: CMU/WSP: Internship Seminar
+
+Units: 24.0
+
+Section: A
+
+Days: M
+
+Start: 06:00PM
+
+End: 08:20PM
+
+Room: MDC 522
+
+Locations: Washington, District of Columbia:Dulles
+
+Instructors: Crowell
+
+Fall 2023
+
+Course number: 84362
+
+Title: Diplomacy and Statecraft
+
+Units: 9.0
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+6.3 Conference Travel Funding
+
+Students funded by a research project receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to presen t a refereed conference paper. There is an LTI
+
+form that must be filled out in advance.
+
+6.4 Office of the Dean of Students Emergency Support Funding
+5.2 Conference Travel Funding  LTI Ph.D.  Graduate Student Handbook  Page 33
+
+Students funded by research projects receive travel funding according to policies set by the
+
+individual projects. Students who have no project funding may be provided with partial funding,
+
+with a larger amount available for travel to p resent a refereed conference paper . There is an LTI
+
+form that must be filled out in advance.
+
+5.3 Research Funding
+
+
+Answer: 

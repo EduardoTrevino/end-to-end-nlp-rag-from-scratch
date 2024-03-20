@@ -1,0 +1,198 @@
+Question: How many people co-authored the paper COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements?
+
+Context: Paper title: 'COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Haojie Zhu, Thomas Davidson, Xuhui Zhou, Akhila Yerukola, Jena D. Hwang, Swabha Swayamdipta, Maarten Sap Summary: COBRA frames are introduced, the first context-aware formalism for explaining the intents, reactions, and harms of offensive or biased statements grounded in
+3 2 0 2
+
+n u J
+
+9
+
+] L C . s c [
+
+2 v 5 8 9 1 0 . 6 0 3 2 : v i X r a
+
+COBRA
+
+Frames:
+
+Contextual Reasoning about Effects and Harms of Offensive Statements
+
+Xuhui Zhou♡
+
+Hao Zhu♡
+
+Akhila Yerukola♡
+
+Thomas Davidson♠
+
+Jena D. Hwang♣
+
+Swabha Swayamdipta♢
+
+Maarten Sap♡♣ ♠Department of Sociology, Rutgers University ♣Allen Institute for AI
+
+♡Language Technologies Institute, Carnegie Mellon University
+
+♢Thomas Lord Department of Computer Science, University of Southern California
+Xuhui Zhou, Hao Zhu, Akhila Yerukola, Thomas David- son, Jena D. Hwang, Swabha Swayamdipta, and Maarten Sap. 2023. Cobra frames: Contextual rea- soning about effects and harms of offensive state- ments. In Findings of ACL.
+
+Jan Zienkowski, Jef Verschueren, and Jo Östman. 2011. Discursive pragmatics: A platform for the pragmatic study of discourse. In Disursive Pragmatics, pages 1–13. John Benjamins Publishing Company.
+
+A Tasks and Datasets
+Fall 2023
+
+Course number: 80101
+
+Title: Dangerous Ideas in Science and Society
+
+Units: 9.0
+
+Section: A,E,I,B,F,G,C,D,Lec,J,H
+
+Days: F,MW
+
+Start: 01:00PM,02:00PM
+
+End: 01:50PM,02:50PM
+
+Room: PH 226B,CFA 102,PH 126A,WEH 8427,PH A20,PH 225B,TBA,PH A21,PH 125B,PH A19D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cullen
+
+Fall 2023
+
+Course number: 80130
+
+Title: Introduction to Ethics
+
+Units: 9.0
+
+Section: A,B,Lec
+
+Days: F,MW
+
+Start: 10:00AM,11:00AM
+
+End: 11:50AM,10:50AM
+Course number: 95888
+
+Title: Data Focused Python
+
+Units: 6.0
+
+Section: C3,Z3
+
+Days: TBA,TR
+
+Start: ,05:00PM
+
+End: ,06:20PM
+
+Room: DNM DNM,HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ostlund
+
+Spring 2024
+
+Course number: 95889
+
+Title: Applied Threat Analysis
+
+Units: 6.0
+
+Section: A4
+
+Days: T
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 1004
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Snoke
+
+Spring 2024
+
+Course number: 95891
+
+Title: Introduction to Artificial Intelligence
+Room: WEH 6423
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wynn
+
+Fall 2023
+
+Course number: 76784
+
+Title: Race, Nation, and the Enemy
+
+Units: 9-12
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: PH 126A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Coulson
+
+Fall 2023
+
+Course number: 76788
+
+Title: Coding for Humanists
+
+Units: VAR
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: WEH 5201
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ishizaki
+
+Fall 2023
+A.1.11  Policy Against Retaliation  .................................................................................................... 45
+
+A.2 Key Offices for Academic & Research Support  ....................................................................... 45
+
+A.2.1  Computing and Information Resources ............................................................................ 45
+A.1.6  Policy Against Retaliation  ...................................................................................... 39
+
+A.1.7  Graduate Student Assembly  ................................................................................. 39
+
+A.1.8  Language and Cross -Cultural Support  ................................................................... 40
+
+A.1.9  Office of International Education (OIE)  .................................................................  40
+A.1.10  Veterans and Military Community  ........................................................................ 41
+
+A.2 Key Offices for Academic & Research Support  ............................................................. 41
+
+A.2.1  Computing and Information Resources  ................................................................ 41
+
+A.2.2  Research at CMU  .................................................................................................. 41
+
+
+Answer: 

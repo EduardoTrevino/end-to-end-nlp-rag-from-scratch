@@ -1,0 +1,33 @@
+Question: According the OUTDOOR paper, what is one of the challenges of navigating in outdoor environments compared to indoor environments?
+
+Context: vast and complex terrains of outdoor environments, new challenges emerge. Unlike the structured layouts found indoors, outdoor environments lack clear spatial delineations and are riddled with inherent semantic ambiguities. Despite this, humans navigate with ease because we can reason about the unseen. We introduce a new task OUTDOOR, a new mechanism for Large Language Models (LLMs) to accurately hallucinate possible futures, and a new computationally aware success metric for pushing research
+Fig. 1. Direct application of Language Models in embodied agents navigating outdoor environments suffers from short-sightedness and limited environment comprehension. Our approach augments the LLM by enabling it to expand imaginary nodes in space, enhancing feasibility for outdoor navigation.
+Recently, Large Language Models
+
+(LLMs)
+
+Thus, we posit that outdoor navigation offers a promising avenue to test and refine the foundational navigation and reasoning abilities of LLMs. This paper aims to formulate an elementary navigation policy and evaluate its efficacy in diverse and challenging outdoor environments, providing insights into the potential of LLMs as embodied agents.
+3.6 Academic Integrity 3.7.1 Expectations Regarding Proper Conduct In the midst of self-exploration, the high demands of a challenging academic environment can create situations where some students have difficulty exercising good judgment. Academic challenges can provide many opportunities for high standards to evolve if students actively reflect on these challenges and if the community supports 25discussions to aid in this process. It is the responsibility of the entire community to establish
+LTI Ph.D.  Graduate Student Handbook  Page 21
+
+3.8 Academic Integrity
+
+In the midst of self- exploration, the high demands of a challenging academic environment can
+
+create situations where some students have difficulty exercising good judgment. Academic
+
+challenges can provide many opportunities for high standards to evolv e if students actively reflect
+
+on these challenges and if the community supports discussions to aid in this process. It is the
+adjudicating violations of the University Policy on Academic Integrity. The procedures also outline the appeal process.
+
+In the midst of self -exploration, the high demands of a challenging academic environment can
+
+create situations where some students have difficulty exercising good judgment. Academic
+
+challenges can provide many opportunities for high standards to evolve if students actively
+
+reflect on these challenges and if the community supports discussions to aid in this process. It
+
+
+Answer: 

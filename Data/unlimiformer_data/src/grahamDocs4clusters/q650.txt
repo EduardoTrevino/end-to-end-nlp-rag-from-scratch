@@ -1,0 +1,191 @@
+Question: What tasks does ESPnet-ST-v2 support?
+
+Context: We presented ESPnet-ST-v2 which now supports offline speech translation, simultaneous speech translation, and offline speech-to-speech transla- tion. ESPnet-ST-v2 will continue to grow to sup- port the community’s interests. Future updates may include more new tasks, such as simultane- ous speech-to-speech translation, and cross-toolkit integrations via TorchAudio.
+
+Limitations
+ESPnet-ST-v2 is a revamp of the open-source ESPnet-ST toolkit necessitated by the broad- ening interests of the spoken language trans- lation community. ESPnet-ST-v2 supports 1) offline speech-to-text translation (ST), 2) simul- taneous speech-to-text translation (SST), and 3) offline speech-to-speech translation (S2ST) – each task is supported with a wide variety of approaches, differentiating ESPnet-ST-v2 from other open source spoken language trans- lation toolkits. This toolkit offers
+Figure 1 illustrates the software architecture of ESPnet-ST-v2. This modular design is an improve- ment over the ESPnet-ST-v1 where monolithic model and task definitions made it more difficult to extend and modify the toolkit. We also designed ESPnet-ST-v2 such that modules developed for ad- jacent tasks (e.g. ASR, TTS, MT) can also be readily used for spoken language translation.
+Title: Data-Driven Decision Analysis
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5310
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rode
+
+Fall 2023
+
+Course number: 88397
+
+Title: SDS Undergraduate Research - mini
+
+Units: VAR
+
+Section: S2,V2,T2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Downs,Jarbo,Oppenheimer
+
+Fall 2023
+
+Course number: 88398
+
+Title: Independent Study
+
+Units: 1-18
+
+Section: A
+
+Days: TBA
+
+Start:
+Course number: 17722
+
+Title: Building User-Focused Sensing Systems
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Agarwal, Goel
+
+Spring 2024
+
+Course number: 17723
+
+Title: Designing Large-scale Software Systems
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 09:30AM,10:00AM
+
+End: 10:50AM
+
+Room: SH 238,SH 236
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kang, Durschmid
+
+Spring 2024
+
+Course number: 17730
+Start: 07:00PM
+
+End: 10:00PM
+
+Room: WQE ST B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Douglas
+
+Fall 2023
+
+Course number: 57473
+
+Title: Production: Performance
+
+Units: 3.0
+
+Section: A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Douglas, Rissinger
+
+Fall 2023
+
+Course number: 57479
+
+Title: Beginning Piano Practicum I
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+Mission:  The Carnegie Mellon University Tartan Athletics Club strives to support, grow and develop the athletics program by engagement of alumni, students, friends and leadership of Carnegie Mellon University. The Club will support the goals and mission of the athletics department, within the context of the University’s goals and mission. The Club will pursue targeted strategies to develop and enhance alumni relations, fundraising, development and other initiatives as determined by the Club
+To support the athletics department’s fundraising initiatives, including, but not limited to, annual giving to the Tartan Funds, and major gifts for capital projects. To regularly engage athletics alumni, both on and off campus. To communicate major athletics department and Club initiatives to university stakeholders. To provide advice and counsel to the athletics department administration. To raise awareness of athletics programs to students, alumni and the community at-large. Other goals as
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+development programs to support graduate students as teaching assistants or instructors of
+
+record during their time at Carnegie Mellon University and as future faculty members at other
+
+institutions. Regardless of one's current or future teaching context an d duties, Eberly’s goal is
+
+to disseminate evidence -based teaching strategies in ways that are accessible and actionable.
+
+Programs and services include campus -wide Graduate Student Instructor Orientation events
+ Consultations on issues related to  the graduate student experience
+
+The Graduate Education Office also works with the colleges and departments by informing and
+
+assisting in developing policy and procedures re levant to graduate students and working with
+
+departments on issues related to graduate students. Additionally we partner with many other
+
+offices and organizations, such as the Graduate St udent Assembly, to support the holistic graduate
+
+student educational experience
+development programs to support graduate students as teaching assistants or instructors of
+
+record during their time at Carnegie Mellon University and as future faculty members at other
+
+institutions. Regardless of one's current or future teaching context and duties, Eberly’s goal is to
+
+disseminate evidence- based teaching strategies in ways that are accessible and actionable.
+
+Programs and services include campus- wide Graduate Student Instructor Orientation events and
+
+
+Answer: 

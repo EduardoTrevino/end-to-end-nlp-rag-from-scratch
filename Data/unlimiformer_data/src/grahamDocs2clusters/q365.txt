@@ -1,0 +1,35 @@
+Question: Which program has an application date of September 30th?
+
+Context: At this point, the project group arranged to embed links to the toolkit in each institution’s web pages and to actively promote the resource at every available opportunity. The toolkit had a ‘soft’ launch in September 2022 at an OpenFest event run by Sheffield, before being formally launched during Open Access Week in October 2022 at an event led by the University of Leeds.
+
+Discovery of OER
+
+The aims of this element of the project were to:
+ACM CCS 2012
+
+Applied computing → Arts and humanities;
+
+Keywords Christopher Alexander, HIDECS, Cohesion, Coupling
+
+The Art, Science, and Engineering of Programming
+
+Submitted September 14, 2022
+
+Published February 15, 2023
+
+doi
+
+10.22152/programming-journal.org/2023/7/8
+
+© Richard P. Gabriel This work is licensed under a “CC BY 4.0” license. In The Art, Science, and Engineering of Programming, vol. 7, no. 3, 2023, article 8; 79 pages.
+
+Notes on “Notes on the Synthesis of Form”
+
+1
+Habchi S, Blanc X, Rouvoy R (2018) On adopting linters to deal with performance concerns in Android apps. In: Huchard M, K¨astner C, Fraser G (eds) Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering, ASE 2018, Montpellier, France, September 3-7, 2018. ACM, pp 6–16, https://doi. org/10.1145/3238147.3238197, URL https://doi.org/10.1145/3238147.3238197
+be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application Deadline December 13, 2023 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted by November 29, 2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select programs. For more information, please refer to the School of Computer Science Fee Waiver page. Requirements The School of Computer Science
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application Deadline December 13, 2023 at 3 p.m. EST. Cost $100 per program and $80 if the applicant applies before November
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail
+
+
+Answer: 

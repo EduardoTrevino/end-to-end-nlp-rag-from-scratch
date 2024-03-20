@@ -1,0 +1,179 @@
+Question: What types of prompts can PaintSeg be configured to work with?
+
+Context: Bonifacio et al. (2022) evaluated two types of the prompts of which we use only the so-called vanilla prompt (see Table 2).
+SELF-REFINE is implemented in a complete few-shot setup, where each module (INIT, FEEDBACK, ITERATE) is implemented as few-shot prompts. We execute the self-improvement loop for a maximum of k = 4 iterations. The iterations continue until the target sentiment is reached.
+
+P.1 Details
+necessitating any manual system modifications. As previously mentioned, GLoRA supports VPT-Deep level prompts via the support tensor C, however, it does not impose any computational overhead due to its completely structural re-parameterization design.
+Title: Prompt Engineering
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Breaux
+
+Spring 2024
+
+Course number: 17734
+
+Title: Usable Privacy and Security
+
+Units: 12.0
+
+Section: A,B
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HH B103,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cranor, Agarwal
+
+Spring 2024
+
+Course number: 17735
+
+Title: Engineering Privacy in Software
+
+Units: 12.0
+
+Section: A,B
+Title: Prompt Engineering
+
+Units: 12.0
+
+Section: A,D,Lec 4
+
+Days: T,TR
+
+Start: 05:00PM,02:00PM
+
+End: 06:20PM,03:20PM
+
+Room: 3SC 265,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Breaux
+
+Spring 2024
+
+Course number: 17632
+
+Title: Software Project Management
+
+Units: 6.0
+
+Section: C3,A3,B3
+
+Days: TR
+
+Start: 08:00AM,11:00AM,03:30PM
+
+End: 09:20AM,12:20PM,04:50PM
+
+Room: 3SC 265
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Miranda,Chick, Kumar
+
+Spring 2024
+
+Course number: 17633
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PCA 107
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carter
+
+Spring 2024
+
+Course number: 54712
+
+Title: Painting for the Theatrical Designer
+
+Units: 9.0
+
+Section: A
+
+Days: W
+
+Start: 09:00AM
+
+End: 12:20PM
+
+Room: PCA 305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gajic
+
+Spring 2024
+
+Course number: 54722
+
+Title: Graduate Directing: Text to Stage
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 05:00PM
+
+Room: OFF CAMPUS
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+Q: Are there auditions? A: No, any member of the campus community with music experience is able to join the Kiltie Band!
+
+Q: Do I have to memorize music? A: No, the music is changed for every show. You should invest in a good and trusty lyre.
+
+Q: When is the first rehearsal? A: On the first day of class (Monday) at 5:30 p.m. in the CUC Studio Theater. If you have questions, please email the Direcator at jolisar@andrew.cmu.edu.
+SAE’s buggy as a “sleek aluminum auto”, and DTD’s letter to the editor in 1951 complaining that if a team had used a “Buick grill” they would have placed in Design Comp, we’ve determined that Buggy #4 (2nd from the left in the Design Comp photo below) is actually SAE’s design winner. For a better look at the design, check out the 1950 photos, which is a similar style (though with different wheels, a different pushbar, and likely some other changes).] 1949 Photos. Here are photos from 1949.
+Clients meet with a c onsultant to improve the logic, clarity, and flow of writing or
+
+presentation and receive expert feedback that will strengthen a project. When making an appointment, clients upload a draft, instructor prompts, and rubrics so the consultants can use specific  criteria to give relevant feedback. See the
+
+appointment types offered here:
+
+https://www.cmu.edu/student-
+
+success/programs/communication -support/make- an-appointment.html
+Design and execute experimental data collection and present resulting analyses using appropriate user experience (UX) techniques including interactive data visualizations.
+
+Apply and customize analytics, systems and human
+
+centered data science techniques to application
+
+specific data science requirements and objectives.
+
+Identify tradeoffs among data science techniques (analytics, systems and/or human
+recommendation. For more details on these requirements, please see the SCS Master's Admissions page. In addition to the SCS guidelines, the MIIS requires: A short (1-3 minute) video of yourself. There will be a prompt question that you will respond to. You will have three attempts. No incomplete applications will be eligible for consideration. For specific application/admissions questions, please contact Brianna Eriksen. Handbook: For a complete breakdown of the MIIS program and its policies,
+
+
+Answer: 

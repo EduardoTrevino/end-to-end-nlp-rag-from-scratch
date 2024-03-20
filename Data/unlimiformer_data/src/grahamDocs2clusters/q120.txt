@@ -1,0 +1,13 @@
+Question: Have Professors Bhiksha Raj and Rita Singh co-authored a paper?
+
+Context: Paper title: 'Evaluating Speech Synthesis by Training Recognizers on Synthetic Speech' Published year: 2023 Publication venue or conference: arXiv.org Authors: Roshan Sharma, Hira Dhamyal, Dareen Alharthi, Rita Singh, Bhiksha Raj, Soumi Maiti Summary: This paper proposes an evaluation technique involving the training of an ASR model on synthetic speech and assessing its performance on real speech, and demonstrates a strong correlation with both MOS naturalness and MOS intelligibility when
+Paper title: 'Prompting Audios Using Acoustic Properties For Emotion Representation' Published year: 2023 Publication venue or conference: arXiv.org Authors: Soham Deshmukh, Benjamin Elizalde, Huaming Wang, Hira Dhamyal, Rita Singh, Bhiksha Raj Summary: This work addresses the challenge of automatically generating prompts and training a model to better learn emotion representations from audio and prompt pairs by using acoustic properties that are correlated to emotion like pitch, intensity,
+Paper title: 'Token Prediction as Implicit Classification to Identify LLM-Generated Text' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Yutian Chen, Hao Kang, Liangze Li, Vivian Zhai, Rita Singh, Bhiksha Raj Summary: Evaluation shows the exceptional performance of the method in the text classification task, highlighting its simplicity and efficiency, and interpretability studies on the features extracted by the
+Language Technologies Institute - Faculty Name: Rita Singh Email: rsingh@cs.cmu.edu Office: 6703 Gates & Hillman Centers Phone: 412-268-9859
+
+Language Technologies Institute - Faculty Name: Emma Strubell Email: estrubel@andrew.cmu.edu Office: Gates & Hillman Centers
+Language Technologies Institute - Faculty Name: Bhiksha Ramakrishnan Email: bhiksha@cs.cmu.edu Office: 6705 Gates & Hillman Centers Research Areas: Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy Phone: 412-268-9826
+nearby Mellon Institute of Industrial Research to form Carnegie-Mellon University. The Department of Computer Science moved into the newly created Mellon Institute of Science, later renamed Mellon College of Science, or MCS. Future SCS dean Raj Reddy joined the CSD in 1969 after three years as an assistant professor at Stanford. He brought with him research in speech, language and computer vision. But in 1970 and 1971, the new Computer Science Department faced its first crisis, as half of its
+
+
+Answer: 

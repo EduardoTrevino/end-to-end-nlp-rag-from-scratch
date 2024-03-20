@@ -1,0 +1,45 @@
+Question: Which LTI faculty members are authors on the WebArena paper?
+
+Context: Paper title: 'WebArena: A Realistic Web Environment for Building Autonomous Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: Robert Lo, Frank F. Xu, Shuyan Zhou, Xuhui Zhou, Hao Zhu, Uri Alon, Daniel Fried, Abishek Sridhar, Graham Neubig, Yonatan Bisk, Xianyi Cheng Summary: This paper builds an environment for language-guided agents that is highly realistic and reproducible, and creates an environment with fully functional websites from four common domains:
+13. Lily Todorinova and Zara T. Wilkinson, “Incentivizing faculty for open educational resources (OER) adoption and open textbook authoring,” Journal of Academic Librarianship 46, no. 6 (2020): 1–10, DOI: https://doi.org/10.1016/j.acalib.2020.102220 (accessed 12 July 2023).
+
+13
+
+14. Todorinova and Wilkinson, “Incentivizing faculty,” 9.
+Corresponding author: Helen Moore Faculty Librarian for Engineering and Science University Library University of Sheffield, UK E-mail: h.moore@sheffield.ac.uk ORCID ID: https://orcid.org/0000-0001-6508-7424
+
+Co-authors: David Curtis ORCID ID: https://orcid.org/0009-0007-5762-0381
+
+Alison Hazelaar
+
+Maria Mawson ORCID ID: https://orcid.org/0000-0002-5223-2706
+
+Simon Robinson
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+At least two CMU faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the chair of graduate programs (the form for this is available on the LTI website). This feedback will help the student refine speaking skills with respect to talk structure, content, and delivery.
+
+4.1.3 Withdrawal of a Degree
+potential advisors determine how many new students they can take and  indicate their
+
+preferences. Finally, the entire LTI faculty meets as a " Matching  Committee" to determine the best
+
+set of matches.
+
+Until a student finds a specific advisor, the Progr am Director  of the LTI graduate programs serves
+
+as the advisor.
+
+How to change advisors:  The initial advisor selection should be made carefully. However, it is
+
+
+Answer: 

@@ -1,0 +1,139 @@
+Question: In spring 2024, Who are the instructors for course 17514?
+
+Context: Renze Lou, Kai Zhang, and Wenpeng Yin. 2023. Is prompt all you need? no. a comprehensive and broader view of instruction learning. ArXiv, abs/2303.10475.
+
+Ximing Lu, Sean Welleck, Liwei Jiang, Jack Hessel, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, and Yejin Choi. 2022a. Quark: Controllable text generation with reinforced unlearning. CoRR, abs/2205.13636.
+Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong. 2023a. Compositional ex- emplars for in-context learning. arXiv preprint arXiv:2302.05698.
+
+Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. 2023b. In-context instruction learning. arXiv preprint arXiv:2302.14691.
+
+Yiming Zhang, Shi Feng, and Chenhao Tan. 2022a. Active example selection for in-context learning. CoRR, abs/2211.04486.
+OpenAI. 2023. Gpt-4 technical report.
+
+Ofir Press, Muru Zhang, Sewon Min, Ludwig Schmidt, Noah A. Smith, and Mike Lewis. 2022. Measuring and narrowing the compositionality gap in language models.
+
+Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, and Thomas Scialom. 2023. Toolformer: Language models can teach themselves to use tools.
+
+John Schulman. 2023. Reinforcement learning from
+
+human feedback: Progress and challenges.
+Instructors: Wang,Thornton,Sheng,Xie,Quintana,Abdelghany,Gordon,Raanes,Mediratta,Hsieh,Beard,Zetune,Yu,Walker,Zhang,Khare,Hoover,Kulasiri
+
+Spring 2024
+
+Course number: 21150
+
+Title: Mathematics and the Arts
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 2049
+
+Locations: Doha, Qatar
+
+Instructors: Yilma
+
+Spring 2024
+
+Course number: 21201
+
+Title: Undergraduate Colloquium
+
+Units: 1.0
+
+Section: A3
+
+Days: T
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: SH 105
+Instructors: Armentrout,Segizekov,Witwick,Iyer,Yoon,Pavelka, Koganemaru,Howell,El Hajj,Jeffs,Park,Manchala,Hill,Beltran,Zhu,Zhou,Quangkananurug
+
+Spring 2024
+
+Course number: 21124
+
+Title: Calculus II for Biologists and Chemists
+
+Units: 10.0
+
+Section: A,Lec
+
+Days: MWF,TR
+
+Start: 03:00PM,10:00AM
+
+End: 10:50AM,03:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wang,Flaherty
+
+Spring 2024
+
+Course number: 21127
+
+Title: Concepts of Mathematics
+
+Units: 12.0
+Spring 2024
+
+Course number: 36995
+
+Title: Reading and Research
+
+Units: 1-48
+
+Section: E,I,F,D,U,P,C,J,S,A,K,Y,W,B,T,H,L,M,R,O,Q,X,G,N,V
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ventura,Shalizi,Lei,Mejia,Greenhouse,Lee,Jin,Ben-Michael,Ramdas,Branson,Niezink,Reinhart,Roeder,Kass,Nugent,Kuchibhotla,Schafer,Neykov,Chouldechova,Kuusela,Townes,Genovese,Balakrishnan,Wasserman,Kennedy
+
+Spring 2024
+
+Course number: 36996
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+close Date -  March 4 ; Event - 8 M-F Spring Break; No Classes Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 12 ; Day - Tuesday ; Event - Summer 2024 Registration Opens Date -  March 15 ; Day - Friday ; Event - Mini-4
+
+
+Answer: 

@@ -1,0 +1,219 @@
+Question: At what conference was "To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing" published?
+
+Context: Paper title: 'To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Emma Strubell, Sireesh Gururaja, Amanda Bertsch, Clara Na, D. Widder Summary: This work conducts long-form interviews with 26 NLP researchers of varying seniority, research area, institution, and social identity to study factors that shape NLP as a
+3 2 0 2
+
+t c O 1 1
+
+] L C . s c [
+
+1 v 5 1 7 7 0 . 0 1 3 2 : v i X r a
+
+To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing
+Contextual rewriteIndeed, I concur. The workload is quite overwhelming.
+
+Informal response: “I know, right? I'm drowning in them.”
+
+Non-contextual RewriteIndeed, I concur. I am inundated with them.
+
+Preceding Dialog: “I can't believe how much work we have to do.”
+
+11419 Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 11419–11444 December 6-10, 2023 ©2023 Association for Computational Linguistics
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Fall 2023
+
+Course number: 11726
+
+Title: Meaning in Language Lab (Self Paced)
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11737
+
+Title: Multilingual Natural Language Processing.
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+Title: Paradigms of Research in Architecture
+
+Units: VAR
+
+Section: A
+
+Days: MW
+
+Start: 08:30AM
+
+End: 09:50AM
+
+Room: MM 415IW
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Lee
+
+Spring 2024
+
+Course number: 48712
+
+Title: Graduate Seminar 2: Issue of Global Urbanization
+
+Units: 3-9
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: MM 415IW
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Nisa
+
+Spring 2024
+
+Course number: 48713
+
+Title: MUD Urban Ecology
+
+Units: 9.0
+
+Section: A
+Title: Natural Language Processing
+
+Units: 12.0
+
+Section: A,W
+
+Days: MW,TR
+
+Start: 02:30PM,03:30PM
+
+End: 03:45PM,04:50PM
+
+Room: CMB 2052,POS A35
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Oflazer,Mortensen, Strubell
+
+Spring 2024
+
+Course number: 11422
+
+Title: Grammar Formalisims
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4707
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11423
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+thanks to the 1948 Thistle, we know that DTD, DU, and PiKA had the top 3 times from the Prelims and advanced to the Finals. We also know that storms moved in right after the Prelims on Friday, creating some concern about whether the Finals would run as scheduled. ANOTHER Controversial Finals. For the second year in a row, there was a major controversy during the finals. Unfortunately, this time we don’t actually know what the controversy was.
+If you can ID any of the unknown buggies, let us know.
+
+1949 – Design Competition (from the 1966 Buggy Book). Buggies are KapSig (far left), SAE’s design winner (#4, 2nd from the left), Men’s Dorms (#7, 3rd from the left), and DU (#11, far right).
+
+1949 – SAE’s Design-winning buggy getting worked on (from the November 1949 issue of The Record, the SAE National Publication)
+
+1949 – Citcom Clan Buggy (#9) (from the 1950 Thistle).
+Question Answering
+
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Machine Translation
+
+Spring 2:
+
+Comp Semantics for NLP
+
+Neural Networks for NLP
+
+Elective
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in deepening their expertise in Human Language area of concentration
+
+Fall 1:
+
+Natural Language Processing
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+entrepreneurial leaders. The first two years of the Ph.D. program are similar to our MLT program. After the second year, you will spend most of your time working closely with your faculty advisor on research that advances the state-of-the-art in computer science. Ph.D. students are expected to publish papers about original research in the most competitive scientific journals and international conference proceedings, and to present their research at conferences and workshops. Most of our Ph.D.
+on and off- campus. Through GSA’s continued funding for professional development and
+
+research conferences, the GSA/Provost Conference Funding Program and GSA/Provost GuSH Research Grants are able to run, as managed by the Graduate Education Offi ce. As we move
+
+forward, GSA will continue to rely on your feedback to improve the graduate student experience at CMU. Feel free to contact us at gsa@cmu.edu
+
+to get involved, stop by our o ffice
+
+
+Answer: 

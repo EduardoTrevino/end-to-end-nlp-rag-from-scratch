@@ -1,0 +1,166 @@
+Question: What site can I visit for more information about CMU's COVID policies?
+
+Context: applying educational technologies, teaching and learn- ing, evaluation, and empowering students during the forced transition of schools to online education due to the COVID-19 pandemic. These four interconnected competencies are subcomponents of educators’ pedagogical competencies based on the DigCompEdu framework (Redecker, 2017b). Meanwhile, other studies
+TREC COVID BEIR (Roberts et al., 2020) is a small corpus that has 171K scientific articles on the topic of COVID-19 and. TREC COVID BEIR comes with 50 densely-judged queries (1.3K judged documents per query on average). It was created for a NIST challenge whose objective was to develop information retrieval methods tailored for the COVID-19 domain (with a hope to be a useful tool during COVID-19 pandemic). We use the BEIR’s version of this dataset (Thakur et al., 2021).
+
+5 Results
+2
+
+The White Rose Libraries open educational resources (OER) project was initiated in 2021, and drivers for the project included restrictions on access to physical library stock during the Covid-19 pandemic lockdowns, unsustainable and expensive business models for the provision of many e-books, as well as a growing interest in open and sustainable education.
+Instructors: Mcgovern
+
+Spring 2024
+
+Course number: 84450
+
+Title: Policy Seminar
+
+Units: 6.0
+
+Section: A3,B3
+
+Days: W,R
+
+Start: 05:30PM,07:00PM
+
+End: 09:00PM,07:30PM
+
+Room: MDC 522,CMU REMOTE
+
+Locations: Washington, District of Columbia:Dulles,Pittsburgh, Pennsylvania
+
+Instructors: Rishikof,Lane
+
+Spring 2024
+
+Course number: 84451
+
+Title: Policy Seminar II
+
+Units: 6.0
+
+Section: A4
+
+Days: T
+
+Start: 05:30PM
+
+End: 07:30PM
+
+Room: MDC 522
+
+Locations: Washington, District of Columbia:Dulles
+Instructors: Savvides
+
+Fall 2023
+
+Course number: 18797
+
+Title: Machine Learning for Signal Processing
+
+Units: 12.0
+
+Section: A,SV,RW
+
+Days: TR
+
+Start: 08:00PM,11:00AM,02:00PM
+
+End: 12:20PM,09:20PM,03:20PM
+
+Room: B23 212,DH A302,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Ramakrishnan
+
+Fall 2023
+
+Course number: 18799
+
+Title: Special Topics in Signal Processing:
+
+Units: 12.0
+
+Section:  ,K
+
+Days:  ,MW
+
+Start:  ,10:00AM
+
+End: 11:50AM,
+Room: TBA
+
+Locations: Washington, District of Columbia
+
+Instructors: Mendelson
+
+Fall 2023
+
+Course number: 90860
+
+Title: Policy in a Global Economy
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 1006
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Branstetter
+
+Fall 2023
+
+Course number: 90872
+
+Title: Using R for Policy Data Analysis
+
+Units: 6.0
+
+Section: W1,A1
+
+Days: T
+
+Start: 06:00PM
+
+End: 08:50PM
+
+Room: CMU REMOTE
+life/academic -integrity.html
+
+University Policies Website:  www.cmu.edu/policies/
+
+Office of Graduate and Postdoctoral Affairs :
+
+www.cmu.edu/graduate/policies/index.html
+
+Due to the changing nature of conditions and expectations surrounding public health and safety requirements, please visit www.cmu.edu/c oronavirus
+
+for the most up to date information.
+
+Please see Appendix A for additional information about The Word and other university resources.
+community, we are all responsible for the security of these shared resources. Be sure to review the Safe Computing (https://www.cmu.edu/computing/safe/ ) section and the University Computing Policy (https://www.cmu.edu/policies/information-technology/computing.html ) Visit the Computing Services website  (https://www.cmu.edu/computing/ ) to learn more. For assistance the Computing Services Help Center is available at 412-268-4357 (HELP) or ithelp@cmu.edu . 21 Student Academic Success Center
+University Policies Website  www.cmu.edu/policies/  MIIS Graduate Student Handbook  Page 10
+
+Office of Graduate and Postdoc Affairs  http://www.cmu.edu/graduate/policies/index.html
+
+Due to the changing nature of conditions and expectations surrounding public health and
+
+safety requirements, please visit  www.cmu.edu/coronavirus  for the most up to date
+
+information.
+
+Please see Appendix A for additional information about The Word and U niversity resources.
+
+1.8 Academic Calendar
+
+
+Answer: 

@@ -1,0 +1,227 @@
+Question: Who is ther first author of the paper Unlimiformer: Long-Range Transformers with Unlimited Length Input?
+
+Context: Paper title: 'Unlimiformer: Long-Range Transformers with Unlimited Length Input' Published year: 2023 Publication venue or conference: arXiv.org Authors: Amanda Bertsch, Graham Neubig, Uri Alon, Matthew R. Gormley Summary: This work proposes Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores.
+3 2 0 2
+
+t c O 0 3
+
+] L C . s c [
+
+3 v 5 2 6 1 0 . 5 0 3 2 : v i X r a
+
+Unlimiformer: Long-Range Transformers with Unlimited Length Input
+
+Amanda Bertsch
+
+Uri Alon∗
+
+Graham Neubig
+
+Matthew R. Gormley Carnegie Mellon University, USA {abertsch,ualon,gneubig,mgormley}@cs.cmu.edu
+
+Abstract
+[7] Amanda Bertsch, Uri Alon, Graham Neubig, and Matthew R Gormley. Unlimiformer: Long- range transformers with unlimited length input. arXiv preprint arXiv:2305.01625, 2023. [8] Abeba Birhane, Vinay Uday Prabhu, and Emmanuel Kahembwe. Multimodal datasets: misog-
+
+yny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963, 2021.
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: HH B103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dayal
+
+Spring 2024
+
+Course number: 24755
+
+Title: Finite Elements in Mechanics I
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: MI 348
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dayal
+
+Spring 2024
+
+Course number: 24773
+
+Title: Multivariable Linear Control
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: WEH 8427
+Start: 08:00AM,02:00PM
+
+End: 09:50AM,03:50PM
+
+Room: CMR F309,HH 1107
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Rawn
+
+Spring 2024
+
+Course number: 18866
+
+Title: Off-Grid Electricity Systems
+
+Units: 6.0
+
+Section: A3,R3
+
+Days: MW
+
+Start: 10:00AM,05:00PM
+
+End: 11:20AM,06:20PM
+
+Room: POS 147,CMR F309
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Rawn
+
+Spring 2024
+
+Course number: 18867
+
+Title: Applied Smart Grid Telecoms
+
+Units: 6.0
+
+Section: A4,R4
+Room: CMU REMOTE,CMR F307
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Fall 2023
+
+Course number: 18726
+
+Title: Projects in Integrated Circuit Design: First Silicon
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mai
+
+Fall 2023
+
+Course number: 18729
+
+Title: Special Topics in Circuits:
+
+Units: 12.0
+
+Section: C,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,ANS C02
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Launching a Robotics Institute In 1979, an executive at Pittsburgh’s Westinghouse Electric Corp., Tom Murrin, collaborated with Jordan and Reddy to create the Robotics Institute, with Reddy as its first director. By 1982, the Computer Science Department included more than 30 faculty members and 100 graduate students.
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+
+
+Answer: 

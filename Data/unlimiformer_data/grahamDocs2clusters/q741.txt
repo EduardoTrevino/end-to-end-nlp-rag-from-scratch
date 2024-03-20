@@ -1,0 +1,171 @@
+Question: What number do all of the Civil & Environmental Engineering classes start with?
+
+Context: Units: 0-99
+
+Section: A,R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 12993
+
+Title: Reading and Research in Civil and Environmental Engineering
+
+Units: 5,18,36
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 12995
+
+Title: Internship in Civil and Environmental Engineering
+
+Units: 1-36
+
+Section: R
+
+Days: TBA
+Instructors: Francioni Rooney
+
+Fall 2023
+
+Course number: 12799
+
+Title: Ph.D. Thesis
+
+Units: 0-99
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Akinci
+
+Fall 2023
+
+Course number: 12995
+
+Title: Practicum in Civil and Environmental Engineering
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Akinci
+
+Fall 2023
+
+Course number: 02261
+Room: PH A7F
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gregory
+
+Spring 2024
+
+Course number: 12371
+
+Title: Advanced Computing and Problem Solving in Civil and Environmental Engineering
+
+Units: 9.0
+
+Section: A,B
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Qian
+
+Spring 2024
+
+Course number: 12451
+
+Title: Advanced Environmental Engineering
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: PH A18C
+course. No undergraduat e courses count toward the 195-unit requirement.
+
+All Core courses are organized in sequence, and must be taken in the following order:
+
+Artificial Intelligence and Future Markets (11-651) – No prerequisite.
+
+AI Engineering (11-695) – Prerequisite is the co mpletion of 11-651 with a grade of “B” or
+
+better.
+
+LTI Practicum (11-935) – Three credit units for completing the required Internship.
+Classes can be found at https://enr-apps.as.cmu.edu/o pen/SOC/SOCServlet/search .
+
+Students are then required to take and su ccessfully complete the courses below:
+
+2) The Core Courses (87 units) - Must be taken in THIS SEQUENCE:
+
+11-651 – AI & Future Markets – (12 units). First  Fall semester. Only open to MSAII.
+
+17-762 – Law of Computer Technolo gy (12 units). First Fall semester
+
+11-695 – AI Engineering (12 un its). First Spring semester
+complete 144 eligible units of study, including eight 12-unit courses, two 12-unit seminar courses and one 24-unit capstone course. Students must choose at minimum five core courses. The remainder of the 12-unit courses with course numbers 600 or greater can be electives chosen from the SCS course catalog. Any additional non-prerequisite units taken beyond the 144 units are also considered electives.
+
+
+Answer: 

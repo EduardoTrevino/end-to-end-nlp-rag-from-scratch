@@ -1,0 +1,27 @@
+Question: How do buggies move forward in the beginning of the race?
+
+Context: Caretaker says: brown Act : move forward Obs : 2 steps in front of you and 3 steps to the right there is a
+
+closed brown lockablebox
+
+Caretaker says: brown Act : move forward Obs : 1 steps in front of you and 3 steps to the right there is a
+
+closed brown lockablebox
+Just to the right of you there is a green marble 2 steps to the right there is a round brown applegenerator Caretaker says: brown Act : move forward Obs : Right in front of you there is a red apple 1 steps in front of you and 1 steps to the right there is a round
+
+green applegenerator
+
+Caretaker says: brown Act : toggle Obs : Right in front of you there is a yellow apple 1 steps in front of you and 1 steps to the right there is a round
+
+green applegenerator
+
+open green remotedoor
+Caretaker says: brown Act : move forward Obs : 3 steps to the right there is a closed brown lockablebox Caretaker says: brown Act : turn right Obs : 5 steps in front of you there is a caretaker 3 steps in front of you there is a closed brown lockablebox Caretaker says: brown Act : move forward Obs : 4 steps in front of you there is a caretaker 2 steps in front of you there is a closed brown lockablebox Caretaker says: brown Act : move forward Obs : 3 steps in front of you there is a caretaker
+The starting line from the inaugural race in June 1920 was outside what is now known as the College of Fine Arts building. Racers then traveled toward Margaret Morrison Carnegie Hall, went up Tech Street, down through Schenley Park and then turned back to campus. Buggies would then take pit stops and have their rear wheels swapped before heading back toward the starting line.
+
+Alpha Kappa Psi, the first sorority to enter a Buggy on race day, in 1922.
+Teams in the outside lane are given a 3 yard head start due to being required to go the long way around the traffic dummy Each pusher must have at least 1 hand on the buggy at all times, except in the transition zone; but no more than 1 pusher may be in contact with the buggy at any time In addition to the driver, pushers, and alternates, Rosters also included all designers and builders Buggies entered in Design Comp must also finish the race in order to qualify (but exceptions are permitted)
+1946 was the first clue, since the 3 buggies advancing to the Finals were from the same Prelim Heat. But in 1947, it became more obvious, as there were 4 Prelim Heats but only the 3 teams with the fastest Prelim times advanced to the Finals. Prelims. Sadly, the 1947 Tartan was not very interested in Buggy, so we don’t know much about the race. In fact, all we really know from the Tartan is that PhiKap’s buggy was built by DeBolt, Malenock, Butters, and Gregg, and was driven by Danny Gallo. But
+
+
+Answer: 

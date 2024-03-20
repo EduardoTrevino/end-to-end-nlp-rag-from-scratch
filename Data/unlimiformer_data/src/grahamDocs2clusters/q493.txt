@@ -1,0 +1,203 @@
+Question: What Psychology course in Summer 2024 will be offered at Doha, Qatar?
+
+Context: Locations: Doha, Qatar
+
+Instructors: Hakim
+
+Summer 2024
+
+Course number: 70417
+
+Title: Topics in Entrepreneurship
+
+Units: 9.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Hakim
+
+Summer 2024
+
+Course number: 39405
+
+Title: CIT Leadership Independent Study
+
+Units: 9.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Murphy
+
+Summer 2024
+
+Course number: 39500
+Locations: Doha, Qatar
+
+Instructors: Liginlal
+
+Summer 2024
+
+Course number: 67390
+
+Title: Independent Study in Information Systems
+
+Units: 1-12
+
+Section: A,C,D,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Heimann,Sooriamurthi,Hagan,Quesenberry
+
+Summer 2024
+
+Course number: 67393
+
+Title: Guided Research in Information Systems
+
+Units: VAR
+
+Section: A,M,O,B,C,D,N,L
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+Title: Psychology of Prejudice
+
+Units: 9.0
+
+Section: W
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:15PM
+
+Room: CMB 3044
+
+Locations: Doha, Qatar
+
+Instructors: Crittenden
+
+Spring 2024
+
+Course number: 85364
+
+Title: Environmental Psychology
+
+Units: 9.0
+
+Section: W
+
+Days: TR
+
+Start: 11:30AM
+
+End: 12:45PM
+
+Room: CMB 2049
+
+Locations: Doha, Qatar
+
+Instructors: Bruder
+
+Spring 2024
+
+Course number: 85385
+
+Title: Auditory Perception: Sense of Sound:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,11:00AM
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Intro to Deep Learning
+
+MIIS Capstone Planning Seminar
+
+MIIS Directed Study
+
+Summer:
+
+Internship
+
+Fall 2:
+
+MIIS Capstone Project
+
+Applied ML
+
+Spring 2:
+
+ML for Text Mining
+
+ML for Signal Processing
+
+Elective
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in deepening their expertise in Language Technology Applications area of concentration.
+
+Fall 1:
+
+Search Engines
+
+Algorithms for NLP
+
+Intro to ML (MLD)
+
+MIIS Directed Study
+
+Spring 1:
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+
+
+Answer: 

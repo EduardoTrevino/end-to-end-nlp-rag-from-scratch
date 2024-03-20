@@ -1,0 +1,137 @@
+Question: What percentage of CMU's Computer Science first year students in 2019 were women?
+
+Context: Of the academics interviewed, there was an even split between early, mid, and late career (6/33% each). Of those in industry, 6 (75%) were individual contributors and 2 (25%) were research managers. Our sample is only 19% women, which is likely representative, as women comprise approximately 15% of tenure-track computer science faculty in the US (Way et al., 2016). For more discussion of the sample characteristics, see 7. Our positive response rate was 82%.
+
+Demographic trait
+
+% of sample
+We recruited 26 researchers to participate in inter- views using purposive (Campbell et al., 2020) and snowball sampling (Parker et al., 2019): asking participants to recommend other candidates, and purposively selecting for diversity in affiliation, ca- reer stage, geographic position, and research area (see participant demographics in Appendix A.1). Our sample had a 69-31% academia-industry split, was 19% women, and 27% of participants identi- fied as part of a minoritized group in the field.
+tions, 3(6):16–23.
+
+Batya Friedman and Helen Nissenbaum. 1996. Bias in computer systems. ACM Transactions on Informa- tion Systems, 14(3):330–347.
+
+Aparna Garimella, Carmen Banea, Dirk Hovy, and Rada Mihalcea. 2019. Women’s syntactic resilience and men’s grammatical luck: Gender-bias in part-of- speech tagging and dependency parsing. In Annual Meeting of the Association for Computational Lin- guistics, pages 3493–3498.
+
+Timnit Gebru,
+SCIENCE’S FIRST-
+
+YEAR STUDENTS
+
+WERE WOMEN
+
+IN 2019
+
+Nearly triple the
+
+national average“ My Heart is in the Work. ”
+
+Andrew Carnegie, Founder
+
+November 15, 1900
+
+49.8 %
+
+87%  U.S. 13%  InternationalSCHOOLS AND COLLEGES
+
+College of Engineering
+
+College of Fine Arts
+
+Dietrich College of Humanities
+
+and Social Sciences
+
+Heinz College of Information Systems
+
+and Public Policy
+
+Mellon College of Science
+
+School of Computer Science
+
+Tepper School of Business
+SCIENCE’S FIRST-
+
+YEAR STUDENTS
+
+WERE WOMEN
+
+IN 2019
+
+Nearly triple the
+
+national average“ My Heart is in the Work. ”
+
+Andrew Carnegie, Founder
+
+November 15, 1900
+
+49.8 %
+
+87%  U.S. 13%  InternationalSCHOOLS AND COLLEGES
+
+College of Engineering
+
+College of Fine Arts
+
+Dietrich College of Humanities
+
+and Social Sciences
+
+Heinz College of Information Systems
+
+and Public Policy
+
+Mellon College of Science
+
+School of Computer Science
+
+Tepper School of Business
+SCIENCE
+
+U.S. News & World Report, 2022
+
+UNIVERSITY
+
+IN THE WORLD
+
+Times Higher Education
+
+World University
+
+Ranking, 2023#28TIME-BASED/
+
+NEW MEDIA
+
+U.S. News & World Report, 2019#11,529
+
+FACULTY16,779
+
+STUDENTSGraduate
+
+Undergraduate
+
+117,257
+
+ALUMNI (LIVING)
+
+85%  U.S. 15%  International35%  U.S. 65%  International
+
+76%  U.S. 24%  InternationalGLOBAL COMMUNITY
+
+Students representing
+
+126 countries
+
+Faculty representing
+
+56 countries
+
+Alumni representing
+
+148 countries
+
+OF COMPUTER
+
+
+Answer: 

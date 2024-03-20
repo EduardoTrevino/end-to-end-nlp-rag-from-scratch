@@ -1,0 +1,123 @@
+Question: What class is taught by Eric Nyberg and Teruko Mitamura?
+
+Context: Instructors: Bisk,Yang,Eskenazi,Gormley,Mortensen,Waibel,Brown,Lee,Cassell,Sycara,Morency,Frederking,Rosenfeld,Kolter,Instructor TBA,Poczos,Salakhutdinov,Mitamura,Lipton,Mostow,Berg-Kirkpatrick,Levin,Cohen,Oh,Strubell,Fahlman,Hauptmann,Callan,Mitchell,Xing,Nyberg,Neubig,Smith,Young,Tsvetkov,Rose,Stern,Rudnicky,Ramakrishnan,Watanabe,Hong,Tomasic
+
+Spring 2024
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+Instructors: Mitamura
+
+Fall 2023
+
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar:
+
+Units: 6.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11697
+
+Title: Introduction to Question Answering:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: PH A18A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg, Mitamura
+
+Fall 2023
+
+Course number: 11700
+Instructors: Yang,Eskenazi,Mortensen,Waibel,Ganapathiraju,Brown,Cassell,Koedinger,Sycara,Frederking,Metze,Rosenfeld,Instructor TBA,Mitamura,Mostow,Levin,Cohen,Fahlman,Singh,Hauptmann,Callan,Smith,TBA,Xing,Mitchell,Nyberg,Langmead,Schultz,Bar-Joseph,Rose,Lavie,Rudnicky,Carley
+
+Spring 2024
+
+Course number: 11930
+
+Title: Dissertation Research
+
+Units: 1-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Spring 2024
+
+Course number: 11935
+permitted  only after  registration week)
+
+Class Level, College and Department are correct (if incorrect, please contact your home
+
+academic department)
+
+The registration process can be completed within SIO (Student Information Online) by following 4 easy steps: https://www.cmu.edu/hub/registrar/docs/4 -easy -steps.pdf
+
+If students have any questions about course selection, students  may reach out to MIIS program
+
+director, Teruko Mitamura.
+
+4.7 Drop/Add/Withdraw Procedures
+Language Technologies Institute - Faculty Name: Teruko Mitamura Email: teruko@cs.cmu.edu Office: 6711 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics Phone: 412-268-6596
+the University Policies website . It is the responsibility of each member of the Carnegie Mellon
+
+community to be familiar with university policies and guidelines.
+
+1.4 MIIS Contact Information
+
+The people responsible for administering the MIIS degree are:
+
+Brianna Eriksen     Teruko Mitamura
+
+Academic Program Manager    Program Director, MIIS
+
+GHC 6415      Professor, LTI
+
+412-268-4277     GHC 6711
+
+bfreema2@andrew.cmu.edu     412-268-6596
+
+teruko@andrew.cmu.edu
+
+
+Answer: 

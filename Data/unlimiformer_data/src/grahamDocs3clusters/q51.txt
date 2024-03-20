@@ -1,0 +1,162 @@
+Question: In fall 2023, What is the deadline for adding, auditing, and tuition adjustment drop for Mini-2 (deadline 1)?
+
+Context: repositories from The Stack v1.1. After the cut-off date (31 October 2022), we have received more requests for requests and we will remove these repositories prior to releasing The Stack v1.2.
+weights (Fried et al., 2022; Nijkamp et al., 2022) or provided access to the model through a paid API service (Chen et al., 2021; Athiwaratkun et al., 2022), but these works did not release the full training data or the preprocessing methods that were used.
+2023b). This limitation makes fine-tuning unfeasible for the broader community.
+Fall 2023
+
+Course number: 70495
+
+Title: Corporate Finance
+
+Units: 9.0
+
+Section: W
+
+Days: MW
+
+Start: 11:30AM
+
+End: 12:45PM
+
+Room: CMB 2052
+
+Locations: Doha, Qatar
+
+Instructors: Farooqi
+
+Fall 2023
+
+Course number: 70497
+
+Title: Derivative Securities
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: TEP 2701
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Seppi
+
+Fall 2023
+
+Course number: 70499
+
+Title: Internship
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+Fall 2023
+
+Course number: 09344
+
+Title: Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,W
+
+Start: 11:00AM,07:00PM
+
+End: 11:50AM,07:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hendrich
+
+Fall 2023
+
+Course number: 09381
+
+Title: Environmental Systems on a Changing Planet: Science & Engineering Addendum
+
+Units: 12.0
+
+Section: A
+
+Days: F
+
+Start: 12:00PM
+
+End: 12:50PM
+
+Room: DH 1112
+Fall 2023
+
+Course number: 60454
+
+Title: Adv Studio: Small Things:Quiet interventions, Miniatures & the Power of Everyday
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: DH C300
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yeh
+
+Fall 2023
+
+Course number: 60470
+
+Title: Advanced DP3: Special Topic: Painting The Unconscious
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 310
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ray
+
+Fall 2023
+Date -  October 27 ; Day - Friday ; Event - Mini-2 add, audit & tuition adjustment drop deadline (1)
+
+Date -  November 7 ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet
+
+Date -  November 11 ; Event - Homecoming
+
+Date -  November 13 ; Event - 17 M-F Spring 2024 Registration Week
+
+Date -  November 13 ; Day - Monday ; Event - Semester drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+add, audit & tuition adjustment drop deadline (1) Date -  April 1 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  April 3 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 11 ; Event - 13 Th-Sa Spring Carnival; No Classes Date -  April 15 ; Event - 19 M-F Fall 2024 Registration Week Date -  April 15 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -  April 15 ; Day -
+Friday ; Event - Mini-4 add, audit & tuition adjustment drop deadline (1) Date -  March 31 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline Date -  April 2 ; Day - Wednesday ; Event - Mini-4 course drop deadline; withdrawal grade assigned after this date (2) Date -  April 3 ; Event - 5 Th-Sa Spring Carnival; No Classes Date -  April 7 ; Event - 11 M-F Fall 2025 Registration Week Date -  April 14 ; Day - Monday ; Event - Mini-4 pass/no pass & withdrawal deadline (3) Date -
+
+
+Answer: 

@@ -1,0 +1,25 @@
+Question: The first doctorate at Carnegie Tech was awarded in 1919. Who was it awarded to and in what discipline was it in?
+
+Context: Michael Heilman. Automatic Factual Question Generation from Text. PhD thesis, School of Computer Science,
+
+Carnegie Mellon University, Pittsburgh, PA, 2011.
+
+Michael Heilman and Noah A. Smith. Question generation via overgenerating transformations and ranking. Technical
+
+report, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA, 2009.
+Michael Denkowski. 2015. Machine translation for hu- man translators. Unpublished doctoral dissertation, Carnegie Mellon University, Pittsburgh, Pennsylva- nia.
+
+David M Eberhard, Gary F Simons, and Charles D Fen- nig. 2021. Ethnologue. SIL International, Global Publishing.
+
+Matthias Eck. 2008.
+
+Developing deployable spo- ken language translation systems given limited resources. thesis, Karlsruhe Institute of Techonology.
+
+Ph.D.
+This material is based upon work partially sup- ported by the National Science Foundation (Awards #1722822 and #1750439) and National Institutes of Health (Awards #R01MH125740, #R01MH096951, and #U01MH116925). PPL is partially supported by a Facebook PhD Fellowship and a Carnegie Mel- lon University’s Center for Machine Learning and Health Fellowship. Any opinions, findings, conclu- sions, or recommendations expressed in this mate- rial are those of the author(s) and do not necessarily reflect
+It expanded from two buildings into an elegant 20th century campus designed in the beaux arts architectural style, housing a wealth of machine shops, studios and laboratories — the hands-on center of learning that persists today. It pioneered conservatory degree programs in music and drama, in addition to visual art and design programs. The first U.S. drama degree was awarded in 1914 at Carnegie Tech. It began offering graduate degrees. In 1919, the first doctorate (in civil engineering) was
+awarded to Mao Yisheng, a student from China. It laid the groundwork for a research institution, recruiting leading scientists, offering sponsored fellowships with government and industry leaders and pioneering nontraditional interdisciplinary research, which brought together physicists, chemists and metallurgists, for example. Interdisciplinary research would become the hallmark of Carnegie Mellon research. It initiated the 'Carnegie Plan' in 1938, a new curriculum that required science and
+Computer science Ph.D. program created In 1961, the Computation Center and its newest computer, a Bendix G-20, were moved to recently completed Scaife Hall. That same year, Carnegie Tech created an interdisciplinary Ph.D. program called Systems and Communications Sciences, combining elements of computer science, mathematics, psychology, business and electrical engineering. The university’s first computer science Ph.D.s were graduates of this program.
+
+
+Answer: 

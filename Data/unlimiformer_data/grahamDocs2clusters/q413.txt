@@ -1,0 +1,31 @@
+Question: The first authors of the paper NLPositionality: Characterizing Design Biases of Datasets and Models, are from which university/institute?
+
+Context: Paper title: 'NLPositionality: Characterizing Design Biases of Datasets and Models' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Katharina Reinecke, Sebastin Santy, Ronan Le Bras, Jenny T Liang, Maarten Sap Summary: NLPositionality, a framework for characterizing design biases and quantifying the positionality of NLP datasets and models, is introduced and it is found that dataset and models align predominantly
+3 2 0 2
+
+n u J
+
+2
+
+] L C . s c [
+
+1 v 3 4 9 1 0 . 6 0 3 2 : v i X r a
+
+NLPositionality: Characterizing Design Biases of Datasets and Models
+
+Sebastin Santy†∗ Jenny T. Liang‡∗ Ronan Le Bras⋄ Katharina Reinecke† Maarten Sap‡⋄ ‡Carnegie Mellon University †University of Washington
+
+⋄Allen Institute for AI {ssanty,reinecke}@cs.washington.edu,
+
+Hate Speech Database
+
+1 2 3 4 5 6 7
+
+1 2 3 4 5 6 7
+We introduce NLPositionality, a framework for characterizing design biases and positionality of NLP datasets and models. For a given dataset and task, we obtain a wide set of new annotations for a data sample, from a diverse pool of volunteers from various countries and of different backgrounds (re- cruited through LabintheWild; Reinecke and Gajos, 2015). We then quantify design biases by compar- ing which identities and backgrounds have higher agreement with the original dataset labels or
+First freshman-level computer science course In 1956 and 1957, Simon, Allen Newell (IA’57) and Cliff Shaw of RAND designed the Logic Theorist, a computer program that could develop proofs for theorems in much the same way a human would work. They also developed linked-list data structures, the foundation of computer programming. Perlis, Simon and Newell are credited with defining the term “computer science” as “the theory and design of computers,” as well as (in Newell’s words) “the study of
+15. Model checking, 1994 CMU professor Edmund Clarke had long stressed the importance of verifying computer hardware and software through a formal problem-solving technique called “model checking.” In 1994, his arguments gained new weight with the discovery that Intel’s amazing new Pentium chip made errors on certain math problems. Clarke would go on to receive the Turing Award for his role in the development of model checking.
+Undergraduate degrees begin For several years, undergraduates interested in computer science pursued an “applied math/CS” bachelor’s degree offered by the Mathematics Department. CSD professor Mary Shaw (CS’72) led CMU’s first effort to design an undergraduate curriculum solely in computer science. She and her colleagues were guided by the Carnegie Plan—guidelines established in 1938 under Carnegie Tech President Robert Doherty (A’40, E’48, H’50), outlining the principles of a sound
+
+
+Answer: 

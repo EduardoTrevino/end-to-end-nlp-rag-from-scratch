@@ -1,0 +1,161 @@
+Question: When did the MLT application period for Fall 2024 admissions start?
+
+Context: Title: Blockchain Applications
+
+Units: 9.0
+
+Section: W
+
+Days: MW
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 2035
+
+Locations: Doha, Qatar
+
+Instructors: AAZAM
+
+Fall 2023
+
+Course number: 67410
+
+Title: Clinical Data Science
+
+Units: 9.0
+
+Section: W
+
+Days: MW
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 3044
+
+Locations: Doha, Qatar
+
+Instructors: Phelps
+
+Fall 2023
+
+Course number: 67415
+
+Title: Cyber Ethics and Regulation
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 04:00PM
+
+End: 05:15PM
+
+Room: CMB 2051
+Section: 12,A2
+
+Days: M,W
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: POS 145,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Perl
+
+Fall 2023
+
+Course number: 67328
+
+Title: Full-Stack Application Development
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hershberger, Dobson
+
+Fall 2023
+
+Course number: 67331
+
+Title: Technology Consulting in the Global Community
+
+Units: VAR
+
+Section: A1,A2
+
+Days: TBA
+
+Start:
+Instructors: Schmerl, Bloch
+
+Fall 2023
+
+Course number: 17415
+
+Title: Software Engineering Reflection
+
+Units: 6.0
+
+Section: A,B
+
+Days: F
+
+Start: 12:30PM,11:00AM
+
+End: 01:50PM,12:20PM
+
+Room: PH 125D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sunshine, Schmerl
+
+Fall 2023
+
+Course number: 17437
+
+Title: Web Application Development
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: BH A51
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eppinger
+
+Fall 2023
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail
+
+
+Answer: 

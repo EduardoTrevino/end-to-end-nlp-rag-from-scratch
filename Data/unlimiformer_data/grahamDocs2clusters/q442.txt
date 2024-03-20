@@ -1,0 +1,19 @@
+Question: Which year did The Kiltie Band began?
+
+Context: Retrievers. We adopt two widely used retriev- ers to initialize AAR: ANCE initialized from T5Base (Raffel et al., 2020; Ge et al., 2023) and Contriever (Izacard et al., 2021) initialized from BERTBase (Devlin et al., 2019). Both of them have been fine-tuned on MS MARCO (Bajaj et al., 2016) previously. For the retrieval corpus, we choose the MS MARCO (Bajaj et al., 2016) for MMLU and the KILT-Wikipedia (Petroni et al.) for PopQA.
+
+(6)
+
+(7)
+Figure 7: Comparison between single-task (MS- MARCO QA) and multi-task (KILT) trained AAR. TART (Asai et al., 2022) is a multi-task instruction- finetuned retriever that has not been finetuned with LM- preferred signals.
+Fabio Petroni, Aleksandra Piktus, Angela Fan, Patrick Lewis, Majid Yazdani, Nicola De Cao, James Thorne, Yacine Jernite, Vladimir Karpukhin, Jean Maillard, Vassilis Plachouras, Tim Rocktäschel, and Sebastian Riedel. KILT: a benchmark for knowledge intensive In Proceedings of NAACL, pages language tasks. 2523–2544.
+The Kiltie Band
+
+The Kiltie Band began in 1908 with a group of just seven students dedicated to supporting Carnegie Tech football, and today's Kiltie Band continues a tradition of excellence originated over a century ago. The Band took the field for its first official performance on November 25th, 1922, on what would have been Andrew Carnegie's 87th birthday.
+The Kiltie Band is a campus organization recognized by Student Senate and administered by the Department of Athletics, Physical Education and Recreation. Membership is open to all members of the campus/community without audition. Participants must do their best to promote the success of the ensemble through attendance, attitude, and dependability.
+The Kiltie Marching Band consists of musicians and colorguard and plays at all Carnegie Mellon home football games. There is a new show every week with music ranging from traditional marches and oldies to current pop tunes and jazz standards.
+
+After football season, the Kiltie Concert Band plays a holiday concert and two spring concerts, including a performance at Carnegie Mellon’s Spring Carnival. Additionally, a part of the band gets together and acts as a pep band for the basketball teams.
+
+
+Answer: 

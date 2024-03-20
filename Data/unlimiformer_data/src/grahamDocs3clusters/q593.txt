@@ -1,0 +1,246 @@
+Question: How many credits is Linguistics Lab worth?
+
+Context: 12748 Findings of the Association for Computational Linguistics: EMNLP 2023, pages 12748–12755 December 6-10, 2023 ©2023 Association for Computational Linguistics
+
+367
+
+225
+
+399
+
+3,395
+
+2,864
+
+50%
+
+7,160
+
+381
+
+11,456
+
+Test
+
+Test
+
+366
+
+2Followingpreviousconventions,wedon’tconsiderthesituationofmissingclassesorliteralsinthisstudy.
+
+1,660,390
+
+232
+
+997
+
+7,230
+
+1,807
+
+Table2:DataStatisticsoftheKGcompletiondataset.ForthedefinitionofIncompleteness,pleaserefertoSection2.3.
+
+1,667,397
+
+Incompleteness
+Laban P., Hsi A., Canny J. and Hearst M.A. (2020). The summary loop: Learning to write abstractive summaries without examples. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), pp. 5135–5150. Lewis M., Liu Y., Goyal N., Ghazvininejad M., Mohamed A., Levy O., Stoyanov V. and Zettlemoyer L. (2020). BART: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. In Proceedings of the 58th Annual
+[23] Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang. SQuAD: 100,000+ ques- tions for machine comprehension of text. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pages 2383–2392, Austin, Texas, November 2016. Association for Computational Linguistics.
+
+13
+
+Table 5: Baseline evaluation on GPT2-output data set
+
+Small
+
+Medium
+
+Large
+
+Extra Large
+
+Metrics
+
+top-k
+
+pure
+
+top-k
+
+pure
+
+top-k
+
+pure
+
+top-k
+
+pure
+Title: Graduate Seminar on Dialog Processing
+
+Units: 6.0
+
+Section: A
+
+Days: T
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: PH A21A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rudnicky
+
+Fall 2023
+
+Course number: 11723
+
+Title: Linguistics Lab
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin, Mortensen
+
+Fall 2023
+
+Course number: 11724
+
+Title: Human Language for Artificial Intelligence
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 11722
+
+Title: Grammar Formalisms
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4707
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11723
+
+Title: Linguistics Lab: Self-Paced
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11726
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+For a detailed breakdown of the above requirements, download and read the PhD Handbook. Curriculum: In order to obtain your Ph.D. in Language and Information Technologies, you need to pass 96 units (generally, eight courses) of graduate courses that fulfill these requirements: At least 72 units of LTI courses: Must include one class in each LTI focus area. At least 24 units of SCS courses. At least two lab courses in two different research areas. Here's a sample of what your five-year schedule
+In order to  complete the Master of Language Technologies degree, the student must pass 120
+
+or more course units of senior- to-graduate courses, and meet the following criteria:
+
+within those 120 units, at least 72 units of “LTI” courses and 24 units of “SCS” courses,
+
+within those 72 units, 11 -711, 11- 791 (or an equivalent , see below ), and one ``Task
+
+Orientation Focus'' class, and
+
+within those 72 units, at least one of the following:
+
+o an LTI lab course,
+
+o 11-792, or
+Requirements: Students interested in the language technologies minor must complete our prerequisite courses with an average grade of B (3.0) or better before applying to the program. (Students who do not meet this average must submit a letter of explanation along with their application.) Prerequisites include: - Principles of Imperative Computation (15-122) - Principles of Functional Programming (15-150)
+
+
+Answer: 

@@ -1,0 +1,184 @@
+Question: Where is Teruko Mitamura's Hierarchical Event Grounding published at?
+
+Context: 3 2 0 2
+
+b e F 8
+
+] L C . s c [
+
+1 v 7 9 1 4 0 . 2 0 3 2 : v i X r a
+
+Hierarchical Event Grounding
+
+Jiefu Ou, Adithya Pratapa, Rishubh Gupta, Teruko Mitamura
+
+Language Technologies Institute, Carnegie Mellon University {jiefuo, vpratapa, rishubhg, teruko}@andrew.cmu.edu
+
+Abstract
+
+three events (Q602744, Q8641370, Q216184) themselves constitute a hierarchical event structure.
+3 Hierarchical Event Grounding The task of grounding involves linking event references in text documents to the corresponding entries in a knowl- edge base (Chandu, Bisk, and Black 2021). Pratapa, Gupta, and Mitamura (2022) studied linking event references from Wikipedia and Wikinews articles to Wikidata items. How- ever, they restrict the dictionary of Wikidata items to leaf events. This ignores important parent events such as ‘Op- eration Overlord’ and ‘Western Front (World War II)’ from
+1 Introduction Grounding entity and event references from documents to a large-scale knowledge base (KB) is an important compo- nent in the information extraction stack. While entity linking has been extensively explored in the literature (Ji and Grish- man 2011), event linking is relatively unexplored.2 Recently, Pratapa, Gupta, and Mitamura (2022) presented a dataset for linking event references from Wikipedia and Wikinews arti- cles to Wikidata KB. However, this work limited the ground- ing
+Instructors: Mitamura
+
+Fall 2023
+
+Course number: 11696
+
+Title: MIIS Capstone Planning Seminar:
+
+Units: 6.0
+
+Section: A,
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Brown
+
+Fall 2023
+
+Course number: 11697
+
+Title: Introduction to Question Answering:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: PH A18A,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Nyberg, Mitamura
+
+Fall 2023
+
+Course number: 11700
+Section: A,B,SV,Lec 1,Lec 3,RW
+
+Days: TBA,F,MW
+
+Start: ,08:00AM
+
+End: ,09:20AM,08:20AM
+
+Room: BH A51,DNM DNM,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11690
+
+Title: MIIS Directed Study
+
+Units: 1-48
+
+Section: C
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mitamura
+
+Spring 2024
+
+Course number: 11692
+Title: Introduction to Deep Learning
+
+Units: 12.0
+
+Section: A,M,R,B,C,D,SV,Lec 1,Lec 3,Lec 2
+
+Days: TBA,F,MW
+
+Start: ,08:00AM
+
+End: ,09:20AM
+
+Room: BH A51,DNM DNM,CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11797
+
+Title: Question Answering
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: GHC 4102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mitamura, Nyberg
+Language Technologies Institute - Faculty Name: Teruko Mitamura Email: teruko@cs.cmu.edu Office: 6711 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Language Technologies for Education, Natural Language Processing and Computational Linguistics Phone: 412-268-6596
+permitted  only after  registration week)
+
+Class Level, College and Department are correct (if incorrect, please contact your home
+
+academic department)
+
+The registration process can be completed within SIO (Student Information Online) by following 4 easy steps: https://www.cmu.edu/hub/registrar/docs/4 -easy -steps.pdf
+
+If students have any questions about course selection, students  may reach out to MIIS program
+
+director, Teruko Mitamura.
+
+4.7 Drop/Add/Withdraw Procedures
+the University Policies website . It is the responsibility of each member of the Carnegie Mellon
+
+community to be familiar with university policies and guidelines.
+
+1.4 MIIS Contact Information
+
+The people responsible for administering the MIIS degree are:
+
+Brianna Eriksen     Teruko Mitamura
+
+Academic Program Manager    Program Director, MIIS
+
+GHC 6415      Professor, LTI
+
+412-268-4277     GHC 6711
+
+bfreema2@andrew.cmu.edu     412-268-6596
+
+teruko@andrew.cmu.edu
+
+
+Answer: 

@@ -1,0 +1,158 @@
+Question: What is the full name of the conference where the paper BASS: Block-wise Adaptation for Speech Summarization, got published?
+
+Context: Paper title: 'Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints' Published year: 2023 Publication venue or conference: arXiv.org Authors: Emma Strubell, Rajshekhar Das, Jean Oh, Jose Moura, Jonathan M Francis, Sanket Vaibhav Mehta Summary: The regularizer significantly improves top performing self-training methods in various UDA benchmarks for semantic segmentation and introduces a contrastive pixel-level objectness constraint that pulls the pixel
+Paper title: 'Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Zichun Yu, S. Yu, Chenyan Xiong, Zhiyuan Liu Summary: This paper proposes augmentation-adapted retriever (AAR), which learns LM’s preferences obtained from a known source LM to assist target LMs that may not be known beforehand or are unable to be fine-tuned
+Paper title: 'Structured Pruning of Self-Supervised Pre-Trained Models for Speech Recognition and Understanding' Published year: 2023 Publication venue or conference: IEEE International Conference on Acoustics, Speech, and Signal Processing Authors: Yifan Peng, Kwangyoun Kim, Felix Wu, Shinji Watanabe, Prashant Sridhar Summary: This work proposes three task-specific structured pruning methods to deal with heterogeneous speech models that not only utilize a stack of Transformer blocks, but also
+Title: Writing the Adaptation for Stage and Screen
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Swenson, Kirk
+
+Fall 2023
+
+Course number: 54191
+
+Title: Acting for Non-Majors
+
+Units: 9.0
+
+Section: A,B
+
+Days: MW
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: PCA 115,PCA 313
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pazos,Swierc
+
+Fall 2023
+
+Course number: 54195
+
+Title: Creative and Dramatic Writing for Engineers
+Spring 2024
+
+Course number: 12749
+
+Title: Climate Change Adaptation:
+
+Units: 6.0
+
+Section:  ,A4
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Ozis
+
+Spring 2024
+
+Course number: 12750
+
+Title: Infrastructure Management
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: BH A53
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Coffelt
+
+Spring 2024
+
+Course number: 12755
+
+Title: Finite Elements in Mechanics I:
+Section: A, ,B
+
+Days:  ,TR
+
+Start:  ,10:00AM,02:00PM
+
+End: 11:50AM, ,03:50PM
+
+Room: HL A5, ,HL 106B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Barbuto,Pinchuk
+
+Fall 2023
+
+Course number: 62183
+
+Title: Documentary Theater
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A20
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Thoni, Miller
+
+Fall 2023
+
+Course number: 62187
+
+Title: Writing the Adaptation for Stage and Screen
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+Language Technologies Institute - Faculty Name: Ralf Brown Email: ralf@andrew.cmu.edu Office: 5711 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Translation, Natural Language Processing and Computational Linguistics Phone: 412-268-8298
+thesis defense. The pre sentation must communicate the research work done, similar to
+
+a conference paper presentation. The committee will observe the presentation, and then decide whether the thesis and presentation were acceptable, or whether further
+
+work is required. Unlike a P hD defense, only a simple majority vote of the committee is
+
+required for approval.
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+
+
+Answer: 

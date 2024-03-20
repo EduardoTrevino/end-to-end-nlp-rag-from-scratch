@@ -1,0 +1,171 @@
+Question: In spring 2024, When is the final deadline for withdrawing from a Mini-3 course?
+
+Context: 2022) and early stopping.
+The third round of interviews was conducted in July and August 2022, and coincided with the soft launch of the beta version of the toolkit. The purpose was to gather feedback to help us refine and finalize the toolkit in preparation for a full launch in the autumn. Five interviews were conducted with participants from all three institutions. This round proved to be very valuable with regard to the functionality of the website and what content we should include or exclude. We asked our
+et al. (2022), who observed that only monoT5-3B (but not a much smaller monoT5-220M) outperformed BM25 on all collections. Strong performance of MiniLM-L6-30M in our study was due to additional training with consistency-checked data and pre-training on all-domain data (all queries from all collections). To confirm the effectiveness of these procedures, we carried out ablation experiments.
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A1
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33224
+
+Title: Stars, Galaxies and the Universe
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,T
+
+Start: 03:00PM,07:00PM
+
+End: 07:50PM,03:50PM
+
+Room: HH B103,POS 151
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mandal
+
+Spring 2024
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A3
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: GHC 4102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mandal
+
+Spring 2024
+
+Course number: 33226
+
+Title: Physics of Energy
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 7500
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dodelson
+
+Spring 2024
+Course number: 36735
+
+Title: Statistical Analysis Mini - TBA
+
+Units: 6.0
+
+Section: A3
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36736
+
+Title: Statistical Methods Mini - TBA
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36757
+
+Title: Advanced Data Analysis I
+The Finals, initially scheduled for 2pm on Saturday, May 4, were ultimately postponed until Saturday, May 11, due to a downpour that cast a damper on an otherwise exciting Spring Carnival. Controversial Finals. An overcast sky threatened rain on the makeup date as well, though it held off long enough for the race to be run. But some of the spectators may have wished the rain came sooner. Although signs were posted about the makeup date, cars ignored the notices and ended up blocking part of the
+After an hour-long argument with the judges (and presumably the Sweepstakes committee), the decision to DQ PiKA was upheld and DTD was awarded the victory. Final Time. The Tartan reported that DTD’s winning time was 3:49, but our database has the time as 2:49. 3:49 would be significantly slower than any other race on this course, but I also think it’s possible. Bleak skies threatened the race (meaning it may have been bad weather), the best Prelim time was 3:24.5, and DTD was the 2nd buggy to
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+Monday ; Event - Mini-3 pass/no pass & withdrawal deadline (3) Date -  February 19 ; Day - Monday ; Event - Mini-3 Faculty Course Evaluations open Date -  February 26 ; Day - Monday ; Event - Semester course drop deadline; withdrawal grade assigned after this date (2) Date - March 1 ; Day - Friday;  Mini-3 Last Day of Classes Date -  March 1 ; Day - Friday ; Event - Mini-3 voucher deadline (4) Date -  March 2 ; Event - Mini-3 Exams Date -  March 2 ; Event - Mini-3 Faculty Course Evaluations
+date (2) Date -  February 17 ; Day - Monday ; Event - Mini-3 pass/no pass & withdrawal deadline (3) Date -  February 17 ; Day - Monday ; Event - Mini-3 Faculty Course Evaluations open Date - February 24 ; Day - Monday; Event - Semester course drop deadline; withdrawal grade assigned after this date (2) Date -  February 28 ; Day - Friday ; Event - Mini-3 Last Day of Classes Date -  February 28 ; Day - Friday ; Event - Mini-3 voucher deadline (4) Date -  March 1 ; Event - Mini-3 Exams Date -
+Date -  February 19 ; Day - Monday ; Event - Mini-3 drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  February 19 ; Day - Monday ; Event - Mini-3 Faculty Course Evaluations open
+
+Date -  March 1 ; Day - Friday ; Event - Mini-3 Last Day of Classes
+
+Date -  March 1 ; Day - Friday ; Event - Mini-3 withdrawal deadline
+
+Date -  March 2 ; Event - Mini-3 Exams
+
+Date -  March 2 ; Event - Mini-3 Faculty Course Evaluations close
+
+
+Answer: 

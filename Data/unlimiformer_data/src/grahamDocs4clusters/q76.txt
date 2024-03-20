@@ -1,0 +1,203 @@
+Question: What is included in the ACL 60/60 evaluation dataset?
+
+Context: We test our system using datasets from different language pairs. Test datasets includes:
+
+Test data from the IWSLT shared task (tst19, tst20) (Anastasopoulos et al., 2021, 2022), where the domain is TED talks.
+
+Test data tst19 tst20 LT CS LT nonCS mTEDx
+
+Lang. pair Hours en→de 4.82 en→de 4.09 de→en 6.39 de→en 2.66 es→en 2.07 it→en 2.16 en→X 0.95
+
+# Utterances 2279 1804 2454 1516 1012 999 468
+
+ACL dev *
+Mark Joseph, Min-Yen Kan, Dongwon Lee, Brett Powley, Dragomir Radev, and Yee Fan Tan. 2008. The acl anthology reference corpus: A reference dataset for bibliographic research in computational linguistics. In Proceedings of the sixth international conference on language resources and evaluation (LREC’08).
+
+Robert A Bjork and Marcia C Linn. 2006. The science of learning and the learning of science. Aps Observer, 19(3).
+In the multilingual track, the testing condition is scientific conference talks. Therefore, we primarily rely on the ACL development (dev) set (Salesky et al., 2023) for validation. It consists of English transcripts of the talks and translations into the 10 target languages. The systems are then evaluated on a blind test set. The dev and test sets consist of 5 talks each. The paper abstracts for all talks are available in English. The talks are pre-segmented. In all experiments, we use the
+Title: IDeATe: Experimental Sound Synthesis
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: HL A10A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hsieh
+
+Spring 2024
+
+Course number: 60409
+
+Title: Advanced ETB:  Decolonizing Data Beyond Metaphor
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Morehshin
+
+Spring 2024
+
+Course number: 60415
+
+Title: Advanced ETB: Animation Studio:
+Course number: 60415
+
+Title: Advanced ETB: Animation Studio
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CYH 100A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Duesing
+
+Fall 2023
+
+Course number: 60417
+
+Title: Advanced ETB: Video Art
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 318
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Washko
+
+Fall 2023
+
+Course number: 60418
+
+Title: Advanced ETB: Experimental Game Design:
+
+Units: 10.0
+Instructors: Ragona,Barrois,Chodos
+
+Spring 2024
+
+Course number: 60402
+
+Title: Senior Studio
+
+Units: 10.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 303
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hansen, Merrell
+
+Spring 2024
+
+Course number: 60404
+
+Title: Advanced ETB: Digitally Mediated Performance
+
+Units: 10.0
+
+Section: A
+
+Days: F
+
+Start: 10:00AM
+
+End: 12:50PM
+
+Room: HL A10A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yoo
+
+Spring 2024
+
+Course number: 60407
+But a few of the specific rules changed slightly, or are worth noting again: All drivers, pushers, designers and builders were required to members of the organization they’re competing for All team members (including designers and builders) must be “eligible” under the Executive Board’s requirements, which include a minimum of 36 units and being in good academic standing (with a minimum GPA requirement). The buggy/driver combo must weigh a minimum of 180 pounds (up from the previous 160 lbs)
+1949 – KapSig’s buggy with front hatch removed, being inspected (from the 1950 Thistle).
+
+1949 – PiKA’s Buggy and team (from the 1950 Thistle)
+
+1949 – ATO’s buggy (from the 1950 Thistle). The buggy is flat and white, and has side view mirrors!
+
+1949 – KapSig’s buggy being pushed on the Back Hills (from the 1949 Thistle)
+
+1949 – PiKA’s Buggy (from the 1950 Thistle)
+Safety is a top priority for teams. All drivers are required to have five pieces of safety gear: mouth guard, goggles, a harness that includes three points of contact to the body of the buggy, gloves and a helmet. And during practice runs and races, flaggers man the course to let drivers know if it's safe to proceed.
+11-777 Advanced Multimodal Machine Learning 11-791 Design of Intelligent Information Systems 10-605 Machine Learning with Large Datasets 10-608 Conversational Machine Learning
+
+10-702 Statistical Machine Learning
+
+15-624 Foundations of Cyber-Physical Systems 15-645 Database Systems 15-681 AI: Representation and Problem Solving
+
+15-688 Practical Data Science
+
+16-720 Computer Vision 16-725 Medical Image Analysis 16-772 Sensing and Sensors 16-824 Visual Learning and Recognition
+10-605, Machine Learning with Large Data sets (12 units). First spring semester.
+
+11-611, Natural Language Processing (12 units). Second fall semester.
+
+11-785, Deep Learning (12 unit s). Second spring semester.
+
+One more 12-unit AI, ML or NLP course of the student’s choice (with approval of the
+
+Program Director)
+
+In the event that a course is not available, a course covering equivalent material with a
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+
+
+Answer: 

@@ -1,0 +1,41 @@
+Question: When was the department of Computer Science (CSD) established at CMU?
+
+Context: 3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+E. Xing is with the Machine Learning Department, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA 15213, USA; and also with Mohamed bin Zayed University of Artificial Intelligence, Masdar City, Abu Dhabi, UAE (email: epxing@cs.cmu.edu)
+Follow this and additional works at: https://scholarworks.utep.edu/cs_techrep
+
+Part of the Computer Sciences Commons, and the Mathematics Commons
+
+Comments: Technical Report: UTEP-CS-21-28
+
+Published in Proceedings of the 14th International Workshop on Constraint Programming and
+
+Decision Making CoProd'2021, Szeged, Hungary, September 12, 2021.
+Computer Science Department established In 1965, Carnegie Tech established its Computer Science Department, or CSD, with a $5 million grant from the R.K. Mellon Foundation. Perlis was the first department head. There were no undergraduates; only Ph.D. students were admitted, and the department’s focus was on research, much of it funded by the federal government through the Defense Department’s Advanced Research Projects Agency, or DARPA. In 1967, Carnegie Institute of Technology merged with the
+A “school of computer science” is proposed Feeling that CSD’s needs were inadequately represented in MCS, CSD head A. Nico Habermann and then-CMU provost Angel Jordan in 1986 wrote a white paper proposing the creation of “a School of Computer Science.” Responding to concerns from the faculty that the change might be taking place too quickly, the university first established a free-floating Department of Computer Science. The experiment, which lasted two years, was an unqualified success.
+Undergraduate degrees begin For several years, undergraduates interested in computer science pursued an “applied math/CS” bachelor’s degree offered by the Mathematics Department. CSD professor Mary Shaw (CS’72) led CMU’s first effort to design an undergraduate curriculum solely in computer science. She and her colleagues were guided by the Carnegie Plan—guidelines established in 1938 under Carnegie Tech President Robert Doherty (A’40, E’48, H’50), outlining the principles of a sound
+
+
+Answer: 

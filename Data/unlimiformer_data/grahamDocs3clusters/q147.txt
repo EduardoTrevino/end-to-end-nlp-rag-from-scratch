@@ -1,0 +1,186 @@
+Question: What is the full name of the conference where the paper A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech, got published?
+
+Context: 3 2 0 2
+
+b e F 8
+
+] S A . s s e e [
+
+1 v 5 1 2 4 0 . 2 0 3 2 : v i X r a
+
+A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech
+
+Li-Wei Chen, Shinji Watanabe, Alexander Rudnicky
+
+Language Technologies Institute, Carnegie Mellon University liweiche@cs.cmu.edu, swatanab@cs.cmu.edu, air@cs.cmu.edu
+
+Abstract
+[14] Y. A. Li, C. Han, and N. Mesgarani, “Styletts: A style-based gener- ative model for natural and diverse text-to-speech synthesis,” arXiv preprint arXiv:2205.15439, 2022.
+
+[15]
+
+L.-W. Chen, S. Watanabe, and A. Rudnicky, “A vector quantized approach for text to speech synthesis on real-world spontaneous speech,” arXiv preprint arXiv:2302.04215, 2023.
+
+[16]
+Paper title: 'Evaluating Speech Synthesis by Training Recognizers on Synthetic Speech' Published year: 2023 Publication venue or conference: arXiv.org Authors: Roshan Sharma, Hira Dhamyal, Dareen Alharthi, Rita Singh, Bhiksha Raj, Soumi Maiti Summary: This paper proposes an evaluation technique involving the training of an ASR model on synthetic speech and assessing its performance on real speech, and demonstrates a strong correlation with both MOS naturalness and MOS intelligibility when
+Course number: 80788
+
+Title: Acoustics of Human Speech: Theory, Data, and Analysis
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: WEH 5312
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bjorndahl
+
+Spring 2024
+
+Course number: 80811
+
+Title: Professional Development Seminar
+
+Units: 6.0
+
+Section: A,C,B
+
+Days: M
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: BH 145C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zaffora Blando
+
+Spring 2024
+
+Course number: 80814
+Course number: 18495
+
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Spring 2024
+
+Course number: 18500
+
+Title: ECE Design Experience
+
+Units: 12.0
+
+Section: A,E,B,C,D,Lec
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: TBA,HH 1307
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Fedder,Kim,Sullivan,Mukherjee,Savvides
+
+Spring 2024
+
+Course number: 18525
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Watanabe
+
+Spring 2024
+
+Course number: 11695
+
+Title: AI Engineering
+
+Units: 12.0
+
+Section: A,E,B,F,C,D,Lec
+
+Days: F,MW
+
+Start: 09:30AM,11:00AM,02:00PM
+
+End: 10:50AM,12:20PM,03:20PM
+
+Room: PH 226C,PH A22,GHC 4215,WEH 5310,PH 100,WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kaestner, Le Goues
+
+Spring 2024
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+9. Machine translation, 1984 Every “Star Trek” fan knows about the universal translator. Scientists in the Language Technologies Institute are moving those gadgets from science fiction to real life. Their pioneering systems include handheld, portable speech-to-speech translators, just like those depicted on the USS Enterprise.
+
+
+Answer: 

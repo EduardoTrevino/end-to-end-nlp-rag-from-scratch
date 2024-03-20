@@ -1,0 +1,162 @@
+Question: In the paper "An Approach to Ontological Learning from Weak Labels", what dataset and ontology were used in the investigation?
+
+Context: Label ambiguity remains a fundamental challenge in Partial Label Learning (PLL). The most straight- forward approach to handling PLL is the average-based method, which assumes an equal probability for each candidate label being the ground-truth label. For instance, Hüllermeier & Beringer (2006) employed k-nearest neighbors for label disambiguation, treating all candidate labels of a sample’s neighborhood equally and predicting the ground-truth label through voting strategies. However, a
+Additionally, some work has focused on semi-supervised partial label learning (Wang et al., 2019b; Wang & Zhang, 2020). An iterative label propagation process is proposed in these studies, operating between partially labeled examples and unlabeled instances, which helps clarify the candidate label sets of the partially labeled examples and assign valid labels to unlabeled instances. However, these methods don’t scale well to larger datasets like CIFAR-10.
+Following previous work (Xu et al., 2022; Wen et al., 2021; Wang et al., 2022a), we evaluate our method on partial label learning setting using CIFAR-10, CIFAR-100, and CUB-200 (Welinder et al., 2010). We generate partially labeled datasets by flipping negative labels to false positive labels with a probability q, which is also denoted as a partial ratio. Specifically, the C − 1 negative labels are uniformly aggregated into the ground truth label to form a set of label candidates. We consider q
+Course number: 85320
+
+Title: Research Methods in Developmental Psychology:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,BH 336A
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Vales
+
+Spring 2024
+
+Course number: 85340
+
+Title: Research Methods in Social Psychology:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room: BH 336B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Cox-Boyd
+
+Spring 2024
+
+Course number: 85350
+Title: Statistical Concepts and Methods for Behavioral and Social Science:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room:  ,BH 332P
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Trujillo
+
+Spring 2024
+
+Course number: 85310
+
+Title: Research Methods in Cognitive Psychology:
+
+Units: 9.0
+
+Section: A,W,
+
+Days: MWF, ,MW
+
+Start:  ,10:00AM,04:00PM
+
+End: 10:50AM, ,05:15PM
+
+Room: CMB 2049,BH 336B,
+
+Locations:  ,Doha, Qatar,Pittsburgh, Pennsylvania
+Title: Computational Modeling, Statistical Analysis and Machine Learning in Science
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: 3SC 110
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Isayev
+
+Fall 2023
+
+Course number: 09700
+
+Title: Introduction to Research
+
+Units: 3.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 08:50AM
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Armitage
+
+Fall 2023
+
+Course number: 09707
+
+Title: Nanoparticles:
+
+Units: 12.0
+review sessions on course materials outside th e classroom. SI is a non-remedial approach
+
+to learning as the program targets high-risk  courses and is available in select courses
+
+based on data related to past stu dent performance and feasibility.
+
+Peer Tutoring:  Weekly Tutoring Appointments are offered in a one-on-one and small
+
+group format to students from any discipli ne who need assistance with a course that may
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+
+
+Answer: 

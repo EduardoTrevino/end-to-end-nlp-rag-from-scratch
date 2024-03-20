@@ -1,0 +1,147 @@
+Question: How many authors are on the paper "Multimodal Fusion Interactions: A Study of Human and Automatic Quantification"?
+
+Context: Paper title: 'Multimodal Fusion Interactions: A Study of Human and Automatic Quantification' Published year: 2023 Publication venue or conference: International Conference on Multimodal Interaction Authors: Louis-Philippe Morency, R. Salakhutdinov, P. Liang, Yun Cheng Summary: A comparative study of how humans annotate two categorizations of multimodal interactions is performed and a method to automatically convert annotations of partial and counterfactual labels to information decomposition is
+Torsten Wörtwein, Lisa B. Sheeber, Nicholas Allen, Jeffrey F. Cohn, and Louis-Philippe Morency. 2021. Human-guided modality informativeness for affec- tive states. In Proceedings of the 2021 International
+
+Conference on Multimodal Interaction, ICMI ’21, page 728–734, New York, NY, USA. Association for Computing Machinery.
+[10] C. Chen, K. Z. Zhang, Z. Chu, and M. Lee, “Augmented reality in the metaverse market: the role of multimodal sensory interaction,” Internet Research, 2023.
+
+[11] S. Cai, K. Zhu, Y. Ban, and T. Narumi, “Visual-tactile cross-modal data generation using residue-fusion gan with feature-matching and perceptual losses,” IEEE Robotics and Automation Letters, vol. 6, no. 4, pp. 7525–7532, 2021.
+Instructors: Martelaro, Saffer,Zimmerman, Musuraca
+
+Fall 2023
+
+Course number: 05618
+
+Title: Human AI Interaction
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: SH 234
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zhu
+
+Fall 2023
+
+Course number: 05630
+
+Title: Programming Usable Interfaces:
+
+Units: 15.0
+
+Section: A,E,B,C,D,Lec,
+
+Days: M, ,W,MW
+
+Start: 08:00AM, ,09:30AM
+
+End: 10:50AM,09:20AM,
+
+Room: WEH 5310,TEP 1403,PH 226B,WEH 6403, ,PH 125B
+Spring 2024
+
+Course number: 16467
+
+Title: Introduction to Human Robot Interaction
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: MM A14
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Admoni
+
+Spring 2024
+
+Course number: 16474
+
+Title: Robotics Capstone
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wettergreen, Riviere
+
+Spring 2024
+
+Course number: 16480
+Instructors: Kaufman
+
+Spring 2024
+
+Course number: 05617
+
+Title: Design of Artificial Intelligence Products:
+
+Units: 12.0
+
+Section: A, ,B
+
+Days:  ,MW,TR
+
+Start:  ,11:00AM,03:30PM
+
+End:  ,12:20PM,04:50PM
+
+Room:  ,4SC 104
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Forlizzi, Saffer,Zimmerman, Yildirim
+
+Spring 2024
+
+Course number: 05618
+
+Title: Human AI Interaction:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,MW
+
+Start: 12:30PM,
+
+End:  ,01:50PM
+
+Room:  ,GHC 4211
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+out how many pedestrians they had hit”). The impact was severe enough that KapSig’s buggy was dented, and the time it lost from the impact made it impossible for them to catch up. PiKA eventually passed DTD in the freeroll and went on to win by 30 yards, but by then it didn’t matter. The judges decided to DQ PiKA for interference. The brothers of PiKA didn’t take it lightly though; they immediately lodged a protest against the judge’s decision.
+8. User interfaces, 1983 Why should humans adapt to fit computers? Shouldn’t computers adapt to fit humans? That was the attitude of CMU researchers, who applied design principles to computer science to develop better, easier-to-use interfaces. They called the new field “human-computer interaction.”
+New departments, new areas of study Along the way, the Center for Machine Translation became the Language Technologies Institute, and other new departments were formed, including the Human-Computer Interaction Institute (1993), the Institute for Software Research (1999), the Machine Learning Department (2006) and the Ray and Stephanie Lane Center for Computational Biology (2009). SCS’s seven degree-granting departments draw faculty and students from a wide variety of disciplines, including
+Turing Awards and a Nobel Prize In 1975, Simon and Newell were awarded the A.M. Turing Award for their work in artificial intelligence. (As of 2014, 12 CMU alumni or faculty have been awarded Turings, sometimes considered the Nobel Prize of computing.) Three years later, Simon received the Nobel Prize in Economics for his work on decision-making theory. As the 1970s progressed, Newell became interested in human-computer interaction, and began a long relationship with Xerox’s Palo Alto Research
+
+
+Answer: 

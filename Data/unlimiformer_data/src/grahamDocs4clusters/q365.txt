@@ -1,0 +1,161 @@
+Question: Which program has an application date of September 30th?
+
+Context: At this point, the project group arranged to embed links to the toolkit in each institution’s web pages and to actively promote the resource at every available opportunity. The toolkit had a ‘soft’ launch in September 2022 at an OpenFest event run by Sheffield, before being formally launched during Open Access Week in October 2022 at an event led by the University of Leeds.
+
+Discovery of OER
+
+The aims of this element of the project were to:
+ACM CCS 2012
+
+Applied computing → Arts and humanities;
+
+Keywords Christopher Alexander, HIDECS, Cohesion, Coupling
+
+The Art, Science, and Engineering of Programming
+
+Submitted September 14, 2022
+
+Published February 15, 2023
+
+doi
+
+10.22152/programming-journal.org/2023/7/8
+
+© Richard P. Gabriel This work is licensed under a “CC BY 4.0” license. In The Art, Science, and Engineering of Programming, vol. 7, no. 3, 2023, article 8; 79 pages.
+
+Notes on “Notes on the Synthesis of Form”
+
+1
+Habchi S, Blanc X, Rouvoy R (2018) On adopting linters to deal with performance concerns in Android apps. In: Huchard M, K¨astner C, Fraser G (eds) Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering, ASE 2018, Montpellier, France, September 3-7, 2018. ACM, pp 6–16, https://doi. org/10.1145/3238147.3238197, URL https://doi.org/10.1145/3238147.3238197
+Course number: 17637
+
+Title: Web Application Development
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HOA 160
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eppinger, Lee
+
+Spring 2024
+
+Course number: 17639
+
+Title: Applied Distributed Systems
+
+Units: 6.0
+
+Section: D3
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yasar
+
+Spring 2024
+
+Course number: 17643
+
+Title: Quality Management
+
+Units: 6.0
+Start: 05:00PM,09:00AM,12:00PM,11:00AM,03:30PM,07:00PM,12:30PM
+
+End: 01:50PM,07:20PM,12:20PM,04:50PM,10:50AM,08:50PM
+
+Room: B23 118,WEH 4623,CMR F205,BH A36,B23 227
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Joe-Wong, Joshi,Joshi, Joe-Wong
+
+Spring 2024
+
+Course number: 18662
+
+Title: Principles and Engineering Applications of AI
+
+Units: 12.0
+
+Section: A,Lec 2,Lec 1,RW
+
+Days: F,MW
+
+Start: 04:00PM,10:00AM,05:00PM
+
+End: 11:50AM,10:50AM,06:50PM,04:50PM
+Title: Applied AI (Artificial Intelligence):
+
+Units: 6.0
+
+Section:  ,A3,R3
+
+Days: R,
+
+Start:  ,05:30PM
+
+End:  ,07:20PM
+
+Room: TBA, ,B23 118
+
+Locations:  ,San Jose, California
+
+Instructors: Dai
+
+Spring 2024
+
+Course number: 49780
+
+Title: Human Computer Interaction & User Experience:
+
+Units: 6.0
+
+Section: B4, ,R4
+
+Days: R,
+
+Start:  ,07:30PM
+
+End:  ,09:20PM
+
+Room: TBA, ,B23 109
+
+Locations:  ,San Jose, California
+
+Instructors: Prayaga
+
+Spring 2024
+
+Course number: 49781
+“Buggy doesn’t exist anywhere else. It’s a 100-year love of creation and collaboration,” said Olivia Keller at dawn on the inaugural morning practice — called first rolls — in late September. “That the alumni network can be so involved, that they continue to be passionate about buggy long after they’ve gone is very telling of how amazing and special buggy is. It’s part of the CMU experience,” said the senior chemical engineering major, pusher and chair of this year’s Kappa Kappa Gamma and Kappa
+system). 1948 Photos. Here are some photos from 1948. Let us know if you can ID any of the “unknown” buggies.
+If you can ID any of the unknown buggies, let us know.
+
+1949 – Design Competition (from the 1966 Buggy Book). Buggies are KapSig (far left), SAE’s design winner (#4, 2nd from the left), Men’s Dorms (#7, 3rd from the left), and DU (#11, far right).
+
+1949 – SAE’s Design-winning buggy getting worked on (from the November 1949 issue of The Record, the SAE National Publication)
+
+1949 – Citcom Clan Buggy (#9) (from the 1950 Thistle).
+be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application Deadline December 13, 2023 3:00 p.m. EST. Cost $100 per program, $80 for applications submitted by November 29, 2023 at 3:00 p.m. EST (early deadline). Fee Waivers Fee waivers may be available in cases of financial hardship, or for participants in select programs. For more information, please refer to the School of Computer Science Fee Waiver page. Requirements The School of Computer Science
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. Final Application Deadline December 13, 2023 at 3 p.m. EST. Cost $100 per program and $80 if the applicant applies before November
+Admission: Carnegie Mellon's School of Computer Science has a centralized online application process. Applications and all supporting documentation for fall admission to any of the LTI's graduate programs must be received by the application deadline. Incomplete applications will not be considered. The application period for Fall 2024 will open on September 6, 2023. *Please note, we no longer require mailed, hard versions of transcripts or test scores at the time of application. Do not mail
+
+
+Answer: 

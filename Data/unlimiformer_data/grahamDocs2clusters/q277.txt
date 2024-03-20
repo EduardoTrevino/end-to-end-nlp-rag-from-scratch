@@ -1,0 +1,21 @@
+Question: What single letter grade do you get for an incomplete grade?
+
+Context: (4) The fourth and final segment (lines 57-62) presents an incomplete example that consists solely of a placeholder for a goal, denoted as ⟨A_NEW_GOAL⟩ , which is intended to be decomposed. This incomplete example follows the same format as the examples in the third segment and is designed for completion by a large language model. When invoking the model, ⟨A_NEW_GOAL⟩ is replaced with a specific goal, as illustrated in the first line of Figure 10.
+Figure 8: Preference agreement with 𝛿RR1 with full data. La- bels and requests removed randomly. Results averaged across ten samples. Solid green lines: 𝛿RR1 with incomplete infor- mation. Dashed red lines: rrLP with incomplete informa- tion. Dotted blue lines: sgnLP with incomplete information. Shaded areas: one standard deviation across samples. Rank- ing agreement with incomplete labels for sgnLP is identical to rrLP and omitted for clarity.
+high or slightly higher agreement with 𝛿RR1 with complete infor- mation than 𝛿RR1 with incomplete information. This means that rrLP can accurately predict 𝛿RR1 with complete information as well or better than using reciprocal rank. Moreover, we observed that sgnLP shows weaker system agreement which occurs because its magnitude does not decay with rank position and, therefore, result- ing averages are inconsistent with averages of position-discounted reciprocal rank values.
+3.3.18 Incomplete grades Carnegie Mellon University students are expected to complete a course during the academic semester in which the course was taken. However, if the instructor agrees, a grade of “I” (incomplete) may be given when a student has been unable to complete the work of a course. However, the work completed up to that date must be of passing quality and the grade of incomplete provides no undue advantage to that student over other students.
+Carnegie Mellon University students are expect ed to complete a course during the academic
+
+semester in which the course was taken. Howeve r, if the instructor agrees, a grade of “I”
+
+(incomplete) may be given when a student has b een unable to complete the work of a course.
+
+However, the work completed up to that date must be of pa ssing quality and the grade of
+
+incomplete provides no undue advantage to that student over other students.
+By awarding an “I” grade, an instructor must specify the requirements for the completion of the work and designate a default letter grade in the event that the student fails to complete the remaining work.
+
+Students must complete the required course work by no later than the end of the following academic semester or sooner if required by the instructor.
+
+
+Answer: 

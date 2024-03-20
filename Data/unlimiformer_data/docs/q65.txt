@@ -1,0 +1,225 @@
+Question: Is Neha Sengupta the author for Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models?
+
+Context: Paper title: 'Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models' Published year: 2023 Publication venue or conference: arXiv.org Authors: Osama Mohammed Afzal, Alham Fikri Aji, Xudong Han, Satheesh Katipomu, Neha Sengupta, Eric P. Xing, Andrew Feldman, Lalit Pradhan, Samta Kamboj, O. Pandit, Andy Hock, Fajri Koto, Rahul Pal, Preslav Nakov, Haonan Li, Zhengzhong Liu, A. Jackson, Sunil Kumar Sahu, Massa Baali, Timothy Baldwin, Bokang Jia,
+3 2 0 2
+
+p e S 9 2
+
+] L C . s c [
+
+2 v 9 4 1 6 1 . 8 0 3 2 : v i X r a
+
+Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models
+
+Neha Sengupta1 Haonan Li2
+
+Sunil Kumar Sahu1 Bokang Jia1 Fajri Koto2 William Marshall3 Gurpreet Gosal3
+
+Satheesh Katipomu1
+
+Cynthia Liu3
+
+Zhiming Chen3 Osama Mohammed Afzal2
+
+Samta Kamboj1
+
+Onkar Pandit1 Rahul Pal1 Massa Baali2 Xudong Han2
+
+Lalit Pradhan1 Sondos Mahmoud Bsharat2 Alham Fikri Aji2
+
+Zain Muhammad Mujahid2
+Zainul Mujahid, Jonathan Lee Summary: Jais and Jais-chat are introduced, new state-of-the-art Arabic-centric foundation and instruction-tuned open generative large language models (LLMs) based on the GPT-3 decoder-only architecture that demonstrate better knowledge and reasoning capabilities in Arabic than any existing open Arabic and multilingual models by a sizable margin.
+Instructors: Li,Xue,Paramavej,Vasishta,Qiu,Lew,Handron,Chaoui,Shi,Koganemaru,Nanduri
+
+Fall 2023
+
+Course number: 21295
+
+Title: Putnam Seminar
+
+Units: 3.0
+
+Section: A,E,W,B,C,D
+
+Days: M,R,W,F,T
+
+Start: 04:00PM,03:00PM,11:30AM
+
+End: 12:20PM,04:50PM,03:50PM
+
+Room: POS 146,CMB 1031,GHC 4301,DH A302,POS A35
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Loh,Yilma
+
+Fall 2023
+
+Course number: 21300
+
+Title: Basic Logic
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 02:50PM
+Units: 3.0
+
+Section: W3
+
+Days: T
+
+Start: 05:15PM
+
+End: 06:05PM
+
+Room: CMB 1064
+
+Locations: Doha, Qatar
+
+Instructors: Darwish Fakhroo
+
+Spring 2024
+
+Course number: 98156
+
+Title: Student Taught Course: Contemporary and Marginalized Poetics Workshop
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: DH 1117
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chan, Krishnan
+
+Spring 2024
+
+Course number: 98157
+Title: Seminar: Multimodal Foundational Models
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ramanan
+
+Fall 2023
+
+Course number: 16895
+
+Title: Understanding and Critiquing Generative Computer Vision
+
+Units: 12.0
+
+Section: A
+
+Days: F
+
+Start: 12:30PM
+
+End: 02:50PM
+
+Room: NSH 3002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gupta
+
+Fall 2023
+
+Course number: 16897
+
+Title: Seminar on Robotics
+
+Units: 0.0
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+You can find our official tartan on various items in the University Store.
+
+Source: "Tartan: Romancing the Plaid," by Jeffrey Banks and Doria De La Chapelle
+The Carnegie Mellon athletic teams are nicknamed the "Tartans" as a nod to Andrew Carnegie's Scottish heritage. A tartan is often misrepresented as a fierce warrior from either the Asian tundra or Scottish highlands. In actuality, a Tartan is a twilled woolen fabric with a plaid design. It is of Scottish origin and consists of stripes of various colors and widths against a solid ground, denoting a particular family lineage. The school's founder, Andrew Carnegie, was born in Dunfermline,
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Language Technologies Institute - Faculty Name: Daniel Fried Email: dfried@andrew.cmu.edu Research Areas: Natural Language Processing: Language and Code, Conversational AI, Intelligent Agents, and Dialogue, Discourse and Pragmatics, Multimodal AI
+
+Language Technologies Institute - Faculty Name: Anatole Gershman Email: anatole.gershman@cs.cmu.edu Office: 6415 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering Phone: 412-268-8259
+
+
+Answer: 

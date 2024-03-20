@@ -1,0 +1,219 @@
+Question: What is the name of the new class of offline policy gradient algorithms introduced in the paper "Improving Language Models with Advantage-based Offline Policy Gradients"?
+
+Context: Paper title: 'Improving Language Models with Advantage-based Offline Policy Gradients' Published year: 2023 Publication venue or conference: arXiv.org Authors: Faeze Brahman, Ronan Le Bras, Ashutosh Baheti, Ximing Lu, Maarten Sap, Mark O. Riedl Summary: Advantage-Leftover Lunch RL (A-LoL), a new class of offline policy gradient algorithms that enable RL training on any pre-existing data that assumes the entire LM output sequence as a single action, and allows incorporating sequence-level
+Language Models (LMs) achieve substantial language capabilities when finetuned using Reinforcement Learning with Human Feedback (RLHF). However, RLHF is an unstable and data-hungry process that continually requires new high-quality LM-generated data for finetuning. We introduce Advantage-Leftover Lunch RL (A-LOL), a new class of offline policy gradient algorithms that enable RL training on any pre-existing data. By assuming the entire LM output sequence as a single action, A-LOL allows
+3 2 0 2
+
+t c O 0 1
+
+] L C . s c [
+
+3 v 8 1 7 4 1 . 5 0 3 2 : v i X r a
+
+Preprint under review.
+
+IMPROVING LANGUAGE MODELS WITH ADVANTAGE-BASED OFFLINE POLICY GRADIENTS
+
+Ashutosh Baheti♢,♣, Ximing Lu♡,♣, Faeze Brahman♣, Ronan Le Bras♣, Maarten Sap♠,♣, Mark Riedl♢ ♢ Georgia Institute of Technology, ♠Carnegie Mellon University, ♡University of Washington, ♣ Allen Institute for Artificial Intelligence
+
+ABSTRACT
+Title: Methods of Policy Analysis: Future of Work
+
+Units: VAR
+
+Section: A
+
+Days: TR
+
+Start: 05:00PM
+
+End: 06:20PM
+
+Room: HBH 2003
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Branstetter
+
+Spring 2024
+
+Course number: 90747
+
+Title: Cost Benefit Analysis
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 1202
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gogolak
+
+Spring 2024
+
+Course number: 90749
+
+Title: Cost Benefit Analysis: A Capital Budgeting Approach
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Matthews, Muller
+
+Fall 2023
+
+Course number: 19701
+
+Title: Introduction to the Theory and Practice of Policy Analysis
+
+Units: 12.0
+
+Section: A,PP
+
+Days: TR
+
+Start: 09:30AM,02:00PM
+
+End: 10:50AM,03:20PM
+
+Room: TBA,WEH 4623
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Morgan
+
+Fall 2023
+
+Course number: 19705
+
+Title: Workshop Applied Policy Analysis
+
+Units: 6.0
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Apple
+
+Fall 2023
+
+Course number: 90440
+
+Title: Critical Analysis of Policy Research
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HBH 2009
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kovak
+
+Fall 2023
+
+Course number: 90442
+
+Title: Critical AI Studies for Public Policy
+
+Units: 6.0
+
+Section: A2
+
+Days: MW
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HBH 1007
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+Tartan, Heat 1 saw a very tight race between KapSig, DTD, and PiKA, with KapSig winning in 3:24.5, DTD finishing in 3:25.1, and PiKA finishing in 3:26.3. Those were the top 3 times and they advanced to the finals. Prelim Heat 2 paired Beta, SAE, and DU, and SAE won the heat by default, as Beta was DQ’d for a pushbar violation and DU was DQ’d for a Hill 4-5 transition violation (the Tartan reports that they “shoved the buggy into the last zone instead of pushing it”). Prelims Heat 3 was a battle
+1947 – Starting Line of a Prelims Heat (from the 1948 Thistle). Unknown buggy in Lane 1, Theta Xi in Lane 2, and an unknown (barely visible) buggy in Lane 3.
+
+1947 – Prelim (Unknown Heat) Back Hills (from the 1948 Thistle). Beta’s snow plow buggy (with dragon) leading (far left), KapSig 2nd (far right), SigNu trailing (middle)
+
+Who wore it best? 1947 – DU and DTD on Hill 1 during what we now believe might be the Finals (from the 1948 Thistle).
+4.4.2 Breadth Courses:  Language Technology Applications
+
+11-642, Search Engines
+
+11-688, Concepts in Digital Multimedia and Cyber Forensics
+
+11-692, Speech Processing
+
+11-697. Introduction to Q uestion Answering
+
+11-751, Speech Recognition and Understanding
+
+11-767, On -Service Machine Learning
+
+11-797, Question Answering
+
+11-830, Computational Ethics For NLP
+
+4.4.3 Breadth Courses:  Machine Learning
+
+11-641, Machine Learning for Text and Graph -Based Mining
+
+11-661, Language and Statistics
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+such behavior, which will not be tolerated. Re peated infractions, or a serious single infraction
+
+may result in termination from the program.
+
+11.5.6  Language Policy
+
+The MSAII program is a component of the Language  Technologies Institute, which studies and
+
+celebrates the diversity of human language and fo rms of expression. The LTI also recognizes the
+
+futility and unfairness of attempting to det ermine the language students must use when
+
+
+Answer: 

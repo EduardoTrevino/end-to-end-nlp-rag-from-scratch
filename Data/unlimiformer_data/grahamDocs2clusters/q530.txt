@@ -1,0 +1,165 @@
+Question: Who taught Urban Design Methods and Theory in Fall 2023?
+
+Context: Title: Master's Independent Study
+
+Units: 0-99
+
+Section: M,E,I,O,R,X,F,C,J,V
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cochran,Cupkova,Byrne,Huber,Cardoso Llach,Baird,Gruber,Loftness,Lee,Sawyer
+
+Fall 2023
+
+Course number: 48740
+
+Title: Urban Design Methods and Theory
+
+Units: 9.0
+
+Section: A
+
+Days: F
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: CFA 211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kline
+
+Fall 2023
+
+Course number: 48742
+Units: 9.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room:  ,CFA 102
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Shaw
+
+Fall 2023
+
+Course number: 48753
+
+Title: Intro to Urban Design Media
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 09:00AM
+
+End: 10:50AM
+
+Room: CFA 206A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Abraham
+
+Fall 2023
+
+Course number: 48755
+
+Title: Introduction to Architectural Robotics:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,02:00PM
+Instructors: Garofalo
+
+Fall 2023
+
+Course number: 48250
+
+Title: Urbanism and the Social Production of Space
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: MM 303
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kwon
+
+Fall 2023
+
+Course number: 48300
+
+Title: Architecture Design Studio: Praxis Studio 1
+
+Units: 18.0
+
+Section: A,B,C,D,Lec
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: MM A14,MM 312
+
+Locations: Pittsburgh, Pennsylvania
+Ubiquitous Computing: - Fall: DHCS, ML, ARM - Spring: Interactive Data Science, Rapid Prototyping, Gadgets, Usable Priv & Security, Advanced ML
+
+Educational Software Design: - Fall: DHCS, ML, ARM, Learning Analytics and EDS - Spring: Learning with Peers, Psych Found for Design Impact, ML with Big Data, ML with Text Analysis
+Fall 2:
+
+Conversational Interfaces
+
+MIIS Capstone Project
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems who has petitioned to have the summer internship waived.
+
+Fall 1: - Search Engines - Analysis of Social Media - Design and Engineering of Intelligent Systems - Directed Study
+
+Spring:
+
+Machine Learning
+
+Natural Language Processing
+
+Question Answering
+
+Directed Study
+First freshman-level computer science course In 1956 and 1957, Simon, Allen Newell (IA’57) and Cliff Shaw of RAND designed the Logic Theorist, a computer program that could develop proofs for theorems in much the same way a human would work. They also developed linked-list data structures, the foundation of computer programming. Perlis, Simon and Newell are credited with defining the term “computer science” as “the theory and design of computers,” as well as (in Newell’s words) “the study of
+
+
+Answer: 

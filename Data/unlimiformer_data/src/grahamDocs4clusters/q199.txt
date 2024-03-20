@@ -1,0 +1,163 @@
+Question: When was the first freshman-level computer programming course offered at CMU?
+
+Context: Portnoﬀ, S. (2018). The introductory computer programming course is ﬁrst and
+
+foremost a language course. ACM Inroads 9, 34–52. doi: 10.1145/3152433
+
+Psycharis, S., Kalovrektis, K., and Xenakis, A. (2020). A conceptual framework for computational pedagogy in STEAM education: determinants and perspectives. Hell. J. STEM Educ. 1, 17–32. doi: 10.51724/hjstemed.v1i1.4
+
+Repenning, A.
+
+(2017). Moving beyond syntax:
+
+from 20 years J. Vis. Lang. Sentient Syst. 3, 68–91.
+
+lessons
+Watson and Li (2014) researchers at Durham University in the United Kingdom, calculated a high failure rate in the achievement level of students in the subject of introduction to computer programming. The study describes the results of 161 introductory computer programming courses that were conducted in 15 diﬀerent countries, in which the average pass rate was found to be 67.7%, therefore, the average failure rate is 32.3%. However, despite several studies conducted on the topic of achievement
+Portnoﬀ (2018) says that the 10 years he has been a teacher in an introductory computer programming course, he has used
+
+Frontiers in Computer Science
+
+05
+
+10.3389/fcomp.2023.1085507
+Fall 2023
+
+Course number: 07128
+
+Title: First Year Immigration Course
+
+Units: 3.0
+
+Section: A
+
+Days: MW
+
+Start: 04:00PM
+
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cortina, Peet
+
+Fall 2023
+
+Course number: 07129
+
+Title: Freshmen Immigration Course
+
+Units: 3.0
+
+Section: W1
+
+Days: MW
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 1202
+
+Locations: Doha, Qatar
+
+Instructors: Harras
+
+Fall 2023
+
+Course number: 07131
+
+Title: Great Practical Ideas for Computer Scientists
+Course number: 18785
+
+Title: Data, Inference, and Applied Machine Learning
+
+Units: 12.0
+
+Section: A,R
+
+Days: TR
+
+Start: 08:00AM,02:00PM
+
+End: 09:20AM,03:20PM
+
+Room: CMU REMOTE,HOA 160
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: McSharry
+
+Fall 2023
+
+Course number: 18790
+
+Title: Introduction to Deep Learning and Pattern Recognition for Computer Vision Part I
+
+Units: 6.0
+
+Section: A1
+
+Days: M
+
+Start: 04:00PM
+
+End: 04:50PM
+
+Room: SH 236
+
+Locations: Pittsburgh, Pennsylvania
+Title: Parallel Computer Architecture and Programming
+
+Units: 12.0
+
+Section: A
+
+Days: MWF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: CUC MCCNMY
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Railing, Mowry
+
+Spring 2024
+
+Course number: 15619
+
+Title: Cloud Computing
+
+Units: 15.0
+
+Section: A,C,E,B
+
+Days: R,T,F
+
+Start: 08:00AM,04:00PM,05:00PM
+
+End: 08:50AM,04:50PM,06:20PM
+
+Room: CMU REMOTE
+
+Locations: San Jose, California,Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Sakr, Goldstein,Sakr
+Since the first Campus Week in 1920, when “chariots” were built to race around campus, student groups have been working year-round, using their engineering skills, design expertise and penchant for interdisciplinary collaboration to secretly build, modify and refine the most aerodynamic, torpedo-like vessel they call a “buggy.”
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+The Carnegie Mellon University (CMU) Athletics Hall of Fame, which was established in November 2018, will recognize, celebrate and memorialize the contributions of student-athletes, administrators, coaches and supporters, and preserve the history of the intercollegiate athletics program. The Hall of Fame will engender school spirit and pride, and inspire the university community through the celebration of excellence. As part of the Tartan Athletics Club, the Athletics Hall of Fame will enhance
+the phenomena arising from them.” In 1958, Perlis began teaching the first freshman-level computer programming course in the United States at Carnegie Tech.
+First freshman-level computer science course In 1956 and 1957, Simon, Allen Newell (IA’57) and Cliff Shaw of RAND designed the Logic Theorist, a computer program that could develop proofs for theorems in much the same way a human would work. They also developed linked-list data structures, the foundation of computer programming. Perlis, Simon and Newell are credited with defining the term “computer science” as “the theory and design of computers,” as well as (in Newell’s words) “the study of
+Computer Science, effective Dec. 1, and that the School of Computer Science would soon begin operations. SCS made its formal debut on Dec. 22, 1988, with a reception in the Wherrett Room of Skibo Hall, CMU’s student union. The official announcement of CMU’s new “graduate School of Computer Science” was made Jan. 3, 1989.
+
+
+Answer: 

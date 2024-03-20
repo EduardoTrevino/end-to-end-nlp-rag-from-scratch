@@ -1,0 +1,171 @@
+Question: In fall 2023, Is there class and university operation on Labor Day?
+
+Context: Instructors: Touretzky
+
+Fall 2023
+
+Course number: 15410
+
+Title: Operating System Design and Implementation
+
+Units: 15.0
+
+Section: A
+
+Days: MWF
+
+Start: 11:00AM
+
+End: 11:50AM
+
+Room: WEH 7500
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eckhardt, O'Hallaron
+
+Fall 2023
+
+Course number: 15412
+
+Title: Operating System Practicum
+
+Units: 9,12
+
+Section: A
+
+Days: MWF
+
+Start: 01:00PM
+
+End: 01:50PM
+
+Room: WEH 5207
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Eckhardt
+
+Fall 2023
+Section: A
+
+Days: MW
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 2701
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ravi
+
+Fall 2023
+
+Course number: 70476
+
+Title: Service Operations Management
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 3204
+
+Locations: Doha, Qatar
+
+Instructors: Adeinat
+
+Fall 2023
+
+Course number: 70481
+
+Title: Marketing Research
+
+Units: 9.0
+
+Section: W
+
+Days: UT
+
+Start: 08:30AM
+
+End: 09:45AM
+
+Room: CMB 3204
+
+Locations: Doha, Qatar
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: DH A302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Iyer, Crane
+
+Fall 2023
+
+Course number: 21393
+
+Title: Operations Research II
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 03:00PM
+
+End: 03:50PM
+
+Room: WEH 8220
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frieze
+
+Fall 2023
+
+Course number: 21441
+
+Title: Number Theory
+
+Units: 9.0
+
+Section: A
+
+Days: MWF
+
+Start: 02:00PM
+
+End: 02:50PM
+
+Room: PH 226A
+Date -  September 4 ; Day - Monday ; Event - Labor Day; No Classes & University Closed
+
+Date -  September 11 ; Day - Monday ; Event - Semester add, audit & tuition adjustment drop deadline (1)
+
+Date -  September 25 ; Day - Monday ; Event - Mini-1 drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  October 2 ; Day - Monday ; Event - Mini-1 Faculty Course Evaluations open
+
+Date -  October 13 ; Day - Friday ; Event - Mini-1 Last Day of Classes
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1) Date -  September 4 ; Day - Monday ; Event - Labor Day; No Classes & University Closed Date -  September 11 ; Day - Monday ; Event - Semester add, audit & tuition adjustment drop deadline (1) Date -  September 20 ; Day - Wednesday ; Event - Mini-1 drop deadline; withdrawal grade assigned after this date (2) Date -
+Date Day Event Date -  August 18 ; Event - 23 S-F First-Year Orientation Date -  August 22 ; Event - Convocation Date -  August 26 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin Date -  August 30 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1) Date -  September 2 ; Day - Monday ; Event - Labor Day; No Classes & University Closed Date -  September 9 ; Day - Monday ; Event - Semester add, audit & tuition adjustment drop deadline (1) Date -  September 18
+
+
+Answer: 

@@ -1,0 +1,39 @@
+Question: What does A-LoL use to filter negative advantage (low-quality) data points during training?
+
+Context: incorporating sequence-level classifiers or human-designed scoring functions as rewards. Subsequently, by using LM’s internal sequence-level value estimate, A-LOL filters negative advantage (low-quality) data points during training, making it resilient to noise. Overall, A-LOL is an easy-to-implement LM training recipe that is sample-efficient and stable. We demonstrate the effectiveness of A-LOL and its variants with a set of four different language generation tasks. We compare against both
+Overall, A-LOL and its variants consistently achieve high average reward with relatively low variance, even after discarding ≈33% of training data points. Further qualitative analysis reveals that the lowest negative advantage instances often indicate bad quality data (Appendix B.4). A-LOL methods perform comparably to DPO and outperform all other preference-based and reward-based baselines while generating the most diverse responses. Interestingly, A-LOL seq. (that uses a per-token importance
+Surprisingly, the LMs trained on downvoted data with A-LOL almost close the gap with their counterparts trained on upvoted data. Upon closer inspection, we find that about 36% of upvoted replies and 48% of the downvoted replies in their respective training sets received a negative advantage and thus, were never sampled when finetuning with A-LOL. By filtering the unfavorable data points, A-LOL extracts the useful training signal even from suboptimal data. We called our method Leftover Lunch RL
+in all-things information - including locatin g and obtaining specific resources, providing
+
+specialized research support, advanced training in  the use and management of data. Sign up for
+
+workshops and hands-on topic-spe cific sessions such as data visualization with Tableau,
+
+cleaning data with OpenRefine, and getting st arted with Zotero. Weekly drop-in hours for
+
+Digital Humanities and for Rese arch Data Research Managem ent are scheduled during the
+certification-english-fluency-instructors.html .
+
+11.4.4  Leave of Absence
+
+The LTI discourages Leaves of Absence (LOA) since students usually do not return, despite
+
+having good intentions. However,  a student in good standing may  be granted a LOA of at most
+
+one year, upon written request to the MSAII Dire ctor and with the consent of the student's
+
+advisor. It is the responsibility of  the student on LOA to contact th e LTI to initiate a return to
+
+the program.
+Carnegie Mellon University. This program seeks to educate students in the innovative use of
+
+artificial intelligence to create practical soluti ons in a wide variety of application areas. As
+
+artificial intelligence matures, th ere is a great need for students who can envision, design, plan
+
+and deliver solutions that integrate AI technolo gies such as deep learning, natural language
+
+processing, robotics and big data analytics into  new applications. The program stresses both 10
+
+
+Answer: 

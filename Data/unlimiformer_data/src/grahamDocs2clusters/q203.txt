@@ -1,0 +1,45 @@
+Question: Which LTI faculty member is on the paper titled "Fusion-in-T5: Unifying Document Ranking Signals for Improved Information Retrieval"?
+
+Context: Paper title: 'Fusion-in-T5: Unifying Document Ranking Signals for Improved Information Retrieval' Published year: 2023 Publication venue or conference: arXiv.org Authors: Technology, N. University, Zhenghao Liu Tsinghua University, Cheng-Chung Fan, Microsoft Research, Chenyan Xiong, S. Yu, Zhiyuan Liu, David Jin, Huazhong University of Science, M. I. O. Technology Summary: A novel re-ranker named Fusion-in-T5 (FiT5), which integrates document text information, retrieval features, and global
+3 2 0 2
+
+y a M 4 2
+
+]
+
+R
+
+I . s c [
+
+1 v 5 8 6 4 1 . 5 0 3 2 : v i X r a
+
+Fusion-in-T5: Unifying Document Ranking Signals for Improved Information Retrieval
+In this paper, we propose Fusion-in-T5 (FiT5), which collects and unifies IR features on the re- ranking stage. We conduct experiments on MS MARCO and TREC DL, demonstrating FiT5’s ad- vantage in effectiveness. In addition, we provide an analytical demonstration to show the rationale of the effectiveness of FiT5 in incorporating global document information and ranking features.
+
+References
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+Language Technologies Institute - Faculty Name: Fernando Diaz Email: diazf@cmu.edu Research Areas: Information Retrieval: Recommender Systems, Retrieval and Ranking Models, Natural Language Processing: Fairness and Ethics in Language Technology, Creativity, Evaluation Phone: 412-268-4229
+Language Technologies Institute - Faculty Name: Alexander Hauptmann Email: alex@cs.cmu.edu Office: 5519 Gates & Hillman Centers Research Areas: Information Extraction, Summarization and Question Answering, Information Retrieval, Text Mining and Analytics, Machine Learning, Multimodal Computing and Interaction Phone: 412-268-1448
+
+
+Answer: 

@@ -1,0 +1,194 @@
+Question: What does SHAP mean in SHAP-based Prediction of Mother's History of Depression to Understand the Influence on Child Behavior?
+
+Context: The SHAP method works by evaluating the model’s prediction for each instance while permuting the values of a specific feature. This involves shuffling the values of the chosen feature while keeping the rest of the features unchanged. The difference between the model’s prediction with the original feature values and the prediction with the
+
+PRECISION =
+
+TP TP + FP
+
+RECALL =
+
+TP TP + FN
+Ran Zhao, Alexandros Papangelis, and Justine Cassell. 2014. Towards a dyadic computational model of rapport management for human-virtual agent inter- In International conference on intelligent action. virtual agents, pages 514–527. Springer.
+
+Appendix: SHAP Value Graphs The vertical axis indicates the mean contribution of the feature over the model decision. The horizontal axis indicates how the distribution of features influences the model decision.
+et al. (2019). Using SHAP word level analysis with this classifier, we found the words that drive a sentence towards its lower regard. Yang (2022) mask out the words detected by SHAP and use a language model to predict the words in place of In our case, we take the idea of chain-of- that. thought prompting (CoT) (Wei et al., 2023). We first query the LLM for a possible reason why the words detected by the SHAP analysis would lower the regard of the given sentence. We then take that reason and
+Instructors: Peha
+
+Fall 2023
+
+Course number: 95827
+
+Title: Blockchain and SQL Fundamentals
+
+Units: 6.0
+
+Section: A2
+
+Days: W
+
+Start: 05:00PM
+
+End: 08:00PM
+
+Room: TCS 251
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mccarthy, Sooriamurthi
+
+Fall 2023
+
+Course number: 95835
+
+Title: Time Series Forecasting in Python
+
+Units: 6.0
+
+Section: A1,Z2
+
+Days: W
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: TBA,HBH 1007
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shaikh
+
+Fall 2023
+
+Course number: 95844
+Title: Uncertainty and Risk Modeling
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: TEP 2702
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Akshat
+
+Fall 2023
+
+Course number: 70467
+
+Title: Machine Learning for Business Analytics
+
+Units: 9.0
+
+Section: A,B
+
+Days: TR
+
+Start: 12:30PM,02:00PM
+
+End: 01:50PM,03:20PM
+
+Room: TEP 2610
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Singh
+
+Fall 2023
+
+Course number: 70469
+
+Title: End to End Business Analytics
+
+Units: 9.0
+Days: TR
+
+Start: 10:00AM
+
+End: 11:45AM
+
+Room: TEP 2111
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Gasper
+
+Spring 2024
+
+Course number: 45911
+
+Title: Statistical Models for Management and Control - Causal Inference
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: TEP 2118
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sowell
+
+Spring 2024
+
+Course number: 45915
+
+Title: Managing Through Incentives:
+
+Units: 6.0
+
+Section:  ,A3
+
+Days:  ,TR
+
+Start:  ,04:00PM
+Fall 2: - Machine Learning for Text Mining - MIIS Capstone Project
+
+Example Course of Study #2 This schedule would satisfy course requirements for a student interested in voice-based computer applications.
+
+Fall 1:
+
+Machine Learning
+
+Algorithms for NLP
+
+Speech Recognition and Understanding
+
+Directed Study
+
+Spring: - Applied Machine Learning - Competitive Engineering - Design and Implementation of Speech Recognition Systems - Directed Study - MIIS Capstone Planning Seminar
+
+Summer:
+
+Internship
+The birth of a child is a significant life event that may require time away from academic pu rsuits
+
+for delivery and recovery from delivery of a newly born child. Students whose anticipated delivery date is during the course of a semester may need to take time away from their academic responsibilities. Carnegie Mellon students seeking time away are afforded two options as possible accommodation:
+
+Short -Term Accommodation for Gestational Parents  – A short term absence from
+The birth of a child is a significant life event that may require time away from  academic pursuits
+
+for delivery and recovery from delivery of a newly born  child. Students whose anticipated
+
+delivery date is during the course of a semester may need to take time away from their academic responsibilities. Carnegie Mellon students seeking time away are afforded two options as
+
+possible accommodation:
+
+Short- Term Accommodation for Gestational Parents  – A short term absence from
+
+
+Answer: 

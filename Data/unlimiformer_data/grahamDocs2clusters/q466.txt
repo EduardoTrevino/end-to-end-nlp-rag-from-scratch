@@ -1,0 +1,31 @@
+Question: In which two task families does the document demonstrate MOSAIC's versatility?
+
+Context: aligning these rep- resentations not only across vision but also haptic and auditory sensory modalities. Through extensive experiments on a dataset where a humanoid robot interacts with 100 objects across 10 exploratory behaviors, we demonstrate the versatility of MOSAIC in two task families: object categorization and object- fetching tasks. Our results underscore the efficacy of MOSAIC’s unified representations, showing competitive performance in category recognition through a simple linear
+We introduced the MOSAIC framework to enable robots to generate versatile, multimodal representations through interactive object perception and to leverage these unified representations across various downstream robot learning tasks. Through extensive performance evaluation, we have showcased the effectiveness of these unified representations in tasks such as category recognition, using a simple linear probe setup, and the fetch object task under zero-shot condi- tions. Moving forward, there
+methods, showing the effectiveness of unified represen- tations even within a straightforward linear probe setup. Furthermore, MOSAIC demonstrates exceptional capabilities in executing natural language instructions in the fetch object task under a zero-shot condition. In summary, MOSAIC offers a versatile framework for multi-modal object property learning, bridging the gap between different sensory inputs and facilitating a wide range of downstream robot tasks.
+in their family to attend college in a setting where students’ differences and talents are
+
+appreciated and reinforced, both at the graduate and undergraduate level. Initiatives coordinated by the Center include, but are not limited t o:
+
+First generation/first in family to attend college programs
+
+LGBTQ+ Initiatives
+
+Race and ethnically focused programs, including Inter -University
+
+Graduate Students of Color Series (SOC) and PhD SOC Network
+The Graduate Student Assembly website maintai ns a resource page fo r spouses, domestic
+
+partners and families of graduate students: www.cmu.edu/stugov/gsa/Resources-for-Graduate-
+
+Students/Partner-and-Family-Resources.html,  including The Student Parent Association, new
+
+mother rooms, and links to resources around campus and the Pittsburgh area.
+
+13.12  Domestic Partner Registration
+
+Carnegie Mellon extends certain benefits to domest ic partners of students. Eligible students
+Additionally, the Center supports and connects historically underrepresented students and those who are first in their family to attend college in a setting where students’ differences and talents are appreciated and reinforced, both at the graduate and undergraduate level. Initiatives coordinated by the Center include, but are not limited to:  First generation/first in family to attend college programs  LGBTQ+ Initiatives  Race and ethnically focused programs, including Inter-University
+
+
+Answer: 

@@ -1,0 +1,17 @@
+Question: What is the framework proposed to simplify the control problem of embodied agents using LLMs?
+
+Context: Paper title: 'Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: So Yeon Min, Shrimai Prabhumoye, R. Salakhutdinov, Tom M. Mitchell, Yue Wu, Yonatan Bisk, A. Azaria, Yuan-Fang Li Summary: A framework to use the knowledge in LLMs to simplify the control problem, rather than solving it is proposed, which leads to a significant 15% improvement over SOTA for generalization to human goal
+framework for leveraging pre- trained LLMs with embodied agents; our work shows that each of P, E, T serves a complementary role and should be simultaneously addressed to tackle control tasks.
+5. Conclusion, Limitations, and Future Work
+
+Akakzia, A., Colas, C., Oudeyer, P.-Y., Chetouani, M., and Sigaud, O. Grounding language to autonomously-acquired skills via goal generation. arXiv preprint arXiv:2006.07185, 2020.
+
+In this work, we propose the Plan, Eliminate, and Track (PET) framework that uses pre-trained LLMs to assist an embodied agent in three steps. Our PET framework requires no ﬁne-tuning and is designed to be compatible with any goal-conditional embodied agents.
+17 Implement and evaluate complex, scalable data science systems, with emphasis on providing experimental evidence for design decisions.  Anticipate and avert structural and/or implementation problems with systems design, especially with scaling and tail distributions.
+
+HCDS. Students electing to complete the Human-Centered Data Science (HCDS) concentration will also learn to:
+Center, or PARC, which released the Xerox Alto in 1973. Considered a forerunner to many of the computing environments that followed, Alto featured a graphical-user interface and was among the first commercially available workstations controlled with a mouse. Inspired by Alto, Reddy launched a drive for development of CMU’s own “three-M” machine—a personal workstation with a megabyte of memory, a megapixel display and at least one million instructions per second of processing power.
+16. CAPTCHAs, 2000 “Spam” and malicious attacks were a growing problem on the Internet when hackers developed automated “bots” that could sign up for email and other Web services without human intervention. Luis von Ahn (CS’03,’05), Nick Hopper (CS’04), John Langford (CS’02) and CMU professor Manuel Blum invented a “Completely Automated Public Turing Test to tell Computers and Humans Apart,” or CAPTCHA, to help foil the bots. A later variation, reCAPTCHA, is helping digitize old books and
+
+
+Answer: 

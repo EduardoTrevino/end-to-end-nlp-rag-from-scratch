@@ -1,0 +1,23 @@
+Question: In November 2006, who chaired the Mascot Identity Task Force?
+
+Context: [88] Mehdi S. M. Sajjadi, Olivier Bachem, Mario Lucic, Olivier Bousquet, and Sylvain Gelly. 2018. Assessing Generative Models via Precision and Recall. In Proceedings of the 32nd International Conference on Neural Information Processing Systems (NIPS’18). Curran Associates Inc., Red Hook, NY, USA, 5234–5243.
+
+[89] Tetsuya Sakai. 2006. A Further Note on Evaluation Metrics for the Task of Finding One Highly Relevant Document.
+
+Technical Report 33(2006-DD-054). Toshiba Corporate R&D Center.
+Quentin Dénigot and Heather Burnett. 2020. Dogwhis- tles as identity-based interpretative variation. In Pro- ceedings of the Probability and Meaning Conference (PaM 2020).
+
+Penelope Eckert. 2008. Variation and the indexical field
+
+1. Journal of sociolinguistics, 12(4):453–476.
+Razvan C. Bunescu and Marius Pasca. 2006. Using en- cyclopedic knowledge for named entity disambigua- tion. In Conference of the European Chapter of the Association for Computational Linguistics.
+
+Rich Caruana. 2013. Clustering: Probably approxi- mately useless? In Proceedings of the 22nd ACM International Conference on Information & Knowl- edge Management, CIKM ’13, page 1259–1260, New York, NY, USA. Association for Computing Machin- ery.
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+In the spring, the Task Force partnered with SME Branding — a firm with more than 17 years of experience creating mascots for professional sports teams and universities — to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.
+Carnegie Mellon's official mascot debuted at the Nov. 10, 2007 home football game. The graphic features a profile of a distinguished, bold Scottish terrier sporting a plaid scarf around his neck. The dog is contained in a shield, representing Carnegie Mellon's Scottish heritage.
+
+The Task Force then partnered with a mascot costume company to design our Scottish terrier in the winter of 2007. The official Scotty costume was unveiled at the 2008 Spring Carnival.
+
+
+Answer: 

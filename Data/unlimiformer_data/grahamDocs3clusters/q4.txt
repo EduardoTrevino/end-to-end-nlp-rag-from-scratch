@@ -1,0 +1,178 @@
+Question: In the TAPLoss paper, what does TAP stand for?
+
+Context: (e.g., material), all chosen randomly. Further variety was introduced by selecting synonyms for words within the description from a curated set of synonyms corresponding to the dataset’s labels. We generated 100 unique text descriptions using this random selection process for each combination of object and behavior. For instance, an example text description might read: “Performing tap action on a ball with properties: round, yellow, small, soft, toy”. Data Pre-processing. To ensure
+contextual embeddings. For IWSLT14, a vocabulary consisting of 7,000 BPE (Sen- nrich et al., 2016) units is used, whereas WMT14 employs 32,000 BPE units.
+Figure 3: Demonstration of our calibration framework with three calibration methods. Sr and S r denotes scores of the response r in the first and second positions, respectively. BPDE is short for Balanced Position Diversity Entropy score, which is calculated based on the evaluation results (ER) of MEC and BPC.
+
+gap ≥ 3), GPT-4’s evaluation results are relatively stable.
+Title: Tap III: Expand Percussive Rhythms
+
+Units: 2.0
+
+Section: A,B
+
+Days: R,T
+
+Start: 04:30PM
+
+End: 05:20PM
+
+Room: PCA 306
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cousin,Conte
+
+Spring 2024
+
+Course number: 54326
+
+Title: Actor Dance III
+
+Units: 2.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:00PM
+
+Room: PCA 313
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cousin
+
+Spring 2024
+
+Course number: 54328
+
+Title: Advanced Digital Sound Design Skills
+
+Units: 9.0
+
+Section: A
+
+Days: W
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cody
+
+Spring 2024
+
+Course number: 54224
+
+Title: Tap II: Rhythmic Technique/Foundational to Complex
+
+Units: 2.0
+
+Section: A,B
+
+Days: T,F
+
+Start: 12:30PM
+
+End: 01:20PM
+
+Room: PCA 306
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Conte
+
+Spring 2024
+
+Course number: 54230
+
+Title: Make-Up for Designers
+
+Units: 6.0
+
+Section: A
+
+Days: R
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: PCA A19
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Russman
+Title: Directing III: INTRODUCTION TO TV & FILM DIRECTING
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 01:00PM
+
+End: 02:50PM
+
+Room: PH 125D
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wolk
+
+Fall 2023
+
+Course number: 54323
+
+Title: Tap III - Expand Percussive Rhythms
+
+Units: 2.0
+
+Section: A,B
+
+Days: R,T
+
+Start: 04:30PM
+
+End: 05:20PM
+
+Room: PCA 306
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cousin,Conte
+
+Fall 2023
+
+Course number: 54325
+
+Title: Actor Dance III
+
+Units: 2.0
+
+Section: A
+services, stops, routes, tracking and schedules.
+
+A.4 The WORD
+
+https://www.cmu.edu/student- affairs/theword/
+
+The WORD is Carnegie Mellon University’s online student handbook and serves as the
+
+foundation for the department (and so metimes college) handbook. The WORD contains
+
+university -wide academic policy information and resources, community policies and resources,
+
+and describes the university level procedures used to review possible violations of these
+Student Information Online (SIO) is a secure site where students can find important,
+
+personalized information, including E -Bills and student account information, financial aid
+
+status and eligibility, grades and QPA, and course schedules. Students can updat e their and
+
+their spouse's or domestic partner's contact information, sign up for E -Check & E -Refund,
+the "TOEFL ITP Plus for China," since speaking is not scored. We do not issue waivers for non-native speakers of English. In particular, we do not issue waivers based on previous study at a U.S. high school, college, or university. We also do not issue waivers based on previous study at an English-language high school, college, or university outside of the United States. No amount of educational experience in English, regardless of which country it occurred in, will result in a test waiver.
+
+
+Answer: 

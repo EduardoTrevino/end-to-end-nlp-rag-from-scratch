@@ -1,0 +1,172 @@
+Question: In spring 2024, When do Mini-3 faculty course evaluations open?
+
+Context: Sachan et al. (2022) evaluated their method using only QA (but not IR) datasets and their main results are for an impractically large three-billion parameter instruction-finetuned model, which was used essentially as a re-ranker (in a zero-shot scenario). The smallest model used by Sachan et al. (2022) had 250 million parameters (compared to our 30-million MiniLM model). It was evaluated only on the Natural Questions (NQ) collection (Kwiatkowski et al., 2019) where it outperformed BM25 by about
+Chevalier-Boisvert, M., Bahdanau, D., Lahlou, S., Willems, L., Saharia, C., Nguyen, T. H., & Bengio, Y. (2019). Babyai: A platform to study the sample efficiency of grounded language learning. In 7th International Conference on Learning Representations, ICLR 2019, New Orleans, LA, USA, May 6-9, 2019. OpenReview.net.
+
+Chevalier-Boisvert, M., Willems, L., & Pal, S. (2018). Minimalistic gridworld environment
+
+for openai gym. https://github.com/maximecb/gym-minigrid.
+(Dai et al., 2023). Otter (Li et al., 2023b;a) focuses on enhancing OpenFlamingo’s instruction-following capability. MiniGPT-4 (Zhu et al., 2023) suggests GPT4’s prowess is due to sophisticated LLMs and recommends using a sin- gle project layer to align visual and linguistic models. It showcases abilities akin to GPT4 but is computationally efficient. mPLUG-Owl (Ye et al., 2023) offers a new approach: initially aligning
+Course number: 36735
+
+Title: Statistical Analysis Mini - TBA
+
+Units: 6.0
+
+Section: A3
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36736
+
+Title: Statistical Methods Mini - TBA
+
+Units: 6.0
+
+Section: A4
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 5304
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 36757
+
+Title: Advanced Data Analysis I
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mandal
+
+Spring 2024
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A3
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: GHC 4102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mandal
+
+Spring 2024
+
+Course number: 33226
+
+Title: Physics of Energy
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 7500
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dodelson
+
+Spring 2024
+Instructors: Cox-Boyd, Rendulic
+
+Spring 2024
+
+Course number: 85510
+
+Title: Research in Psychology - Mini
+
+Units: VAR
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cox-Boyd
+
+Spring 2024
+
+Course number: 85602
+
+Title: Senior Thesis
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Thiessen
+
+Spring 2024
+
+Course number: 85710
+
+Title: Graduate Core Course: Developmental
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+Monday ; Event - Mini-3 pass/no pass & withdrawal deadline (3) Date -  February 19 ; Day - Monday ; Event - Mini-3 Faculty Course Evaluations open Date -  February 26 ; Day - Monday ; Event - Semester course drop deadline; withdrawal grade assigned after this date (2) Date - March 1 ; Day - Friday;  Mini-3 Last Day of Classes Date -  March 1 ; Day - Friday ; Event - Mini-3 voucher deadline (4) Date -  March 2 ; Event - Mini-3 Exams Date -  March 2 ; Event - Mini-3 Faculty Course Evaluations
+Date -  February 19 ; Day - Monday ; Event - Mini-3 drop & pass/no pass deadline; withdrawal grade assigned after this date (2)
+
+Date -  February 19 ; Day - Monday ; Event - Mini-3 Faculty Course Evaluations open
+
+Date -  March 1 ; Day - Friday ; Event - Mini-3 Last Day of Classes
+
+Date -  March 1 ; Day - Friday ; Event - Mini-3 withdrawal deadline
+
+Date -  March 2 ; Event - Mini-3 Exams
+
+Date -  March 2 ; Event - Mini-3 Faculty Course Evaluations close
+
+
+Answer: 

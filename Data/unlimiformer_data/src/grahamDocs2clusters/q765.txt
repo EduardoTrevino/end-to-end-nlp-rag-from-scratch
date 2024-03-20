@@ -1,0 +1,25 @@
+Question: What dataset does the BASS paper by Bhiksha Raj's group evaluate on?
+
+Context: Paper title: 'Token Prediction as Implicit Classification to Identify LLM-Generated Text' Published year: 2023 Publication venue or conference: Conference on Empirical Methods in Natural Language Processing Authors: Yutian Chen, Hao Kang, Liangze Li, Vivian Zhai, Rita Singh, Bhiksha Raj Summary: Evaluation shows the exceptional performance of the method in the text classification task, highlighting its simplicity and efficiency, and interpretability studies on the features extracted by the
+Paper title: 'Evaluating Speech Synthesis by Training Recognizers on Synthetic Speech' Published year: 2023 Publication venue or conference: arXiv.org Authors: Roshan Sharma, Hira Dhamyal, Dareen Alharthi, Rita Singh, Bhiksha Raj, Soumi Maiti Summary: This paper proposes an evaluation technique involving the training of an ASR model on synthetic speech and assessing its performance on real speech, and demonstrates a strong correlation with both MOS naturalness and MOS intelligibility when
+We consider six popular datasets for evaluation, all focused on Wikipedia, with four single-hop data, NQ (Kwiatkowski et al., 2019), WebQ (Be- rant et al., 2013), SQuAD (Rajpurkar et al., 2016) and EntityQuestions (Sciavolino et al., 2021); two multi-hop data, HotpotQA (Yang et al., 2018) and OTT-QA (Chen et al., 2021a). Dataset-specific corpora are used for multi-hop datasets, because HotpotQA requires retrieval hopping between text passages while table-passage hopping is demanded by OTT-QA.
+Language Technologies Institute - Faculty Name: Bhiksha Ramakrishnan Email: bhiksha@cs.cmu.edu Office: 6705 Gates & Hillman Centers Research Areas: Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy Phone: 412-268-9826
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+semester, the faculty evaluates each student's academic progress. The student's advisor serves
+
+as the student's advocate in this process. The result of the evaluation is a letter from the faculty to the student that indicates whether the student is making satisfactory progress towards
+
+completing the degree.
+
+A good letter  typically indicates that the student is making satisfactory progress. If the student
+
+
+Answer: 

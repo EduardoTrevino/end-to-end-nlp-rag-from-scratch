@@ -1,0 +1,166 @@
+Question: What is the full name of the conference where the paper An Approach to Ontological Learning from Weak Labels, got published?
+
+Context: Renzhi Wu, Shen-En Chen, Jieyu Zhang, and Xu Chu. Learning hyper label model for programmatic weak supervision. In International Conference on Learning Representations (ICLR), 2023a.
+
+Zhenguo Wu, Jiaqi Lv, and Masashi Sugiyama. Learning with proper partial labels. Neural Computation, 35(1):58–81, Jan 2023b. ISSN 1530-888X. doi: 10.1162/neco_a_01554. URL http://dx.doi.org/10.1162/neco_a_01554.
+Paper title: 'Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations' Published year: 2023 Publication venue or conference: arXiv.org Authors: Jindong Wang, B. Raj, Masashi Sugiyama, Ankit Shah, R. Tao, Xingxu Xie, Yidong Wang, Hao Chen, Rita Singh Summary: Imprecise label learning (ILL) is introduced, a framework for the unification of learning with various imprecise label configurations, marking the first unified framework with robust and
+layer. In International Conference on Learning Representations (ICLR), 2016.
+
+Chen Gong, Tongliang Liu, Yuanyan Tang, Jian Yang, Jie Yang, and Dacheng Tao. A regularization approach for instance-based superset label learning. IEEE transactions on cybernetics, 48(3): 967–978, 2017.
+Instructors: D'Antonio, Downs, Ritivoi
+
+Fall 2023
+
+Course number: 66137
+
+Title: DC Grand Challenge Seminar: Causes and Consequences of Health Disparities
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: DH 1112
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cox-Boyd, Sanford
+
+Fall 2023
+
+Course number: 66138
+
+Title: DC Grand Challenge First-Year Seminar: Militarizing Freedom Arms in U.S. Culture
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+Course number: 47890
+
+Title: Seminar in Organizational Behavior (Micro)
+
+Units: 6.0
+
+Section: A2
+
+Days: W
+
+Start: 01:00PM
+
+End: 04:00PM
+
+Room: TEP 5222
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cohen
+
+Fall 2023
+
+Course number: 47894
+
+Title: Research Methods in Behavioral Sciences
+
+Units: 6.0
+
+Section: A1
+
+Days: M
+
+Start: 10:00AM
+
+End: 12:50PM
+
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shea
+
+Fall 2023
+
+Course number: 47896
+
+Title: Seminar in Meso OB
+
+Units: 6.0
+Course number: 85375
+
+Title: Crosscultural Psychology:
+
+Units: 9.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room: BH 336B,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: MacWhinney
+
+Fall 2023
+
+Course number: 85377
+
+Title: Attitudes and Persuasion
+
+Units: 9.0
+
+Section: W
+
+Days: MW
+
+Start: 02:30PM
+
+End: 03:45PM
+
+Room: CMB 1031
+
+Locations: Doha, Qatar
+
+Instructors: Belanger
+
+Fall 2023
+
+Course number: 85402
+
+Title: Multilevel Modeling
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+The LTI Ph.D.  does not require any Qualifying Exams. Instead, a LTI Ph.D.  student is required to
+
+demonstrate proficiency in the following four areas.
+
+Writing: This is satisfied by producing a peer -reviewed conference paper, or the
+
+equivalent (a written report that at least two SCS faculty certify as being of conference -
+
+paper quality).
+
+Presentation: This is satisfied by the oral presentation of a conference paper, or the
+visit the Human Resources Service website to learn more about Form I-9 and E-Verify and to schedule an appointment to complete the Form I-9. 5.2 Conference Travel Funding Students funded by a research project may receive travel funding according to policies set by the individual projects. Students who have no project funding may be provided with partial funding, with a larger amount available for travel to present a refereed conference paper.
+
+
+Answer: 

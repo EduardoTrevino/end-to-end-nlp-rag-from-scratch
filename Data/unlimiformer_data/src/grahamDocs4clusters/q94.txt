@@ -1,0 +1,113 @@
+Question: How many Tony Awards have alumni and current/former faculty won so far?
+
+Context: "The film was positively received by critics , and received seven Academy Award nominations , including Best Actor in a Leading Role ( Daniel Day-Lewis ) , Best Actor in a Supporting Role ( Pete Postlethwaite ) , Best Actress in a Supporting Role ( Emma Thompson ) , Best Director , and Best Picture ."
+(Krippendorff 2011) for relevance, ﬂuency, and consistency were 0.17, 0.18, and 0.22, respectively, showing that there is a slight to fair agreement. Each of the three criteria (relevance, ﬂuency, and consistency) has 150 evaluations.
+Acknowledgments
+
+We thank our shepherd, Bilge Acun, and the anonymous MLSys reviewers for their valuable insights and recom- mendations, which have enhanced our work. This research has been graciously funded by ONR Grant No. N00014- 21-1-2806, three Sony Faculty Innovation Awards, NSF IIS1563887, NSF CCF1629559, NSF IIS1617583, NSF IIS1955532, NSF CNS2008248, NSF IIS2123952, and NSF BCS2040381, and NGA HM04762010002.
+
+CUTTLEFISH: Low-rank Model Training without All The Tuning
+
+REFERENCES
+Instructors: Dueck,Howard,Dealmeida,Kim,Pukinskis,Sullivan,Almarza,Kostyniak,Vosburgh,Cardenes,Wu,Houlik,Spacagna,Caballero,Carver,Howell,Schepkin,Instructor TBA,Gruber,Cherian,McGhee,Knox,Mead,Goeres,Dee,Rusinek,Aylmer,Whipple,Manriquez,Kush,Carlisle,Marcinizyn,van der Sloot,Laduke,Shields, Van Hoesen,Williams,Berntsen,Harding,Park,Evans, Branson, Allen,Teadt,Galbraith,Chiu
+
+Spring 2024
+
+Course number: 57988
+
+Title: Advanced Music Studies Studio (Chamber Music)
+
+Units: 18.0
+Instructors: Howard,Dealmeida,Almarza,Kostyniak,Vosburgh,Defade,Cardenes,Wu,Ferla,Spacagna,Caballero,Schepkin,Instructor TBA,Gruber,Van Hoesen, Shields,Evans, Allen, Branson,Cherian,McGhee,Knox,Thompson, Shields,Dee,Whipple,Aylmer,Kush,Carlisle,van der Sloot,Rusinek, Shields,Houlik, Shields,Shields, Sullivan,Laduke,Williams,Berntsen,Harding,Goeres, Shields,Premo,Teadt,Galbraith,Chiu
+
+Fall 2023
+
+Course number: 57500
+
+Title: Major Studio (Voice)
+
+Units: 9.0
+
+Section: A,E,B,F,C,D
+
+Days: TBA
+Instructors: Dueck,Howard,Dealmeida,Kim,Almarza,Kostyniak,Vosburgh,Allen, Branson, Evans,Cardenes,Shields, Thompson,Wu,Ferla,Spacagna,Caballero,Carver,Schepkin,Instructor TBA,Gruber,Cherian,McGhee,Knox,Mead,Dee,Whipple,Aylmer,Manriquez,Shields, Goeres,Kush,Carlisle,van der Sloot,Rusinek, Shields,Houlik, Shields,Shields, Sullivan,Laduke,Shields, Van Hoesen,Williams,Berntsen,Harding,Premo,Teadt,Galbraith,Chiu
+
+Fall 2023
+
+Course number: 57988
+
+Title: Advanced Music Studies Studio (Chamber Music)
+The mascot selection process included a series of surveys and a university Town Hall meeting. Nearly 78 percent of 2,370 students surveyed in February 2007 voted for the Scottish terrier, and approximately 25 percent of 400 alumni surveyed thought the Scottish terrier was already the mascot.
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Inductees will be selected by a committee comprised of Carnegie Mellon University staff, faculty, a board of trustee member, coaches and a student representative. The Athletics Hall of Fame will endeavor to induct not less than 15 individuals for induction in its first year and not less than 6 in any year thereafter, subject to the discretion of the Nominating Committee. The below will set forth the criteria for selection to the Athletics Hall of Fame.
+In its 115 years, Carnegie Mellon has soared to national and international leadership in higher education and research. A birthplace of innovation since its founding, it continues to be known for innovation, for solving real-world problems and for interdisciplinary collaboration. Its alumni can be found across the globe — from Tony Award winners to Nobel Prize and Turing Award winners, from CEOs to entrepreneurs, from professors to artists. In the 2000s, in response to demand for expanded
+10 million downloads in 12 months
+
+and was named Apple’s 2013 app
+
+of the year.
+
+:-)
+
+LEADERSHIP
+
+Farnam Jahanian
+
+President
+
+David Coulter
+
+Chair, Board of Trustees
+
+James H. Garrett Jr.
+
+Provost2 National Academy of Engineering       3 National Academy of Sciences        4 National Academy of Medicine
+
+Won by alumni and current/former faculty
+
+The leading university center
+
+for cybersecurity , providing
+
+support to more than 110
+
+centers around the world
+
+The world’s first university
+10 million downloads in 12 months
+
+and was named Apple’s 2013 app
+
+of the year.
+
+:-)
+
+LEADERSHIP
+
+Farnam Jahanian
+
+President
+
+David Coulter
+
+Chair, Board of Trustees
+
+James H. Garrett Jr.
+
+Provost2 National Academy of Engineering       3 National Academy of Sciences        4 National Academy of Medicine
+
+Won by alumni and current/former faculty
+
+The leading university center
+
+for cybersecurity , providing
+
+support to more than 110
+
+centers around the world
+
+The world’s first university
+
+
+Answer: 

@@ -1,0 +1,77 @@
+Question: In spring 2025, What is the deadline for Mini-3 pass/no pass and withdrawal?
+
+Context: 2022) and early stopping.
+1.13 1.30
+
+7 7
+
+monoT5-220M (InPars) (Bonifacio et al., 2022) monoT5-3B (InPars) (Bonifacio et al., 2022)
+
+1.07 1.32
+
+3 7
+
+Supervised transfer learning with optional unsupervised fine-tuning: transfer from MS MARCO with optional fine-tuning on consistency-checked InPars data
+
+MiniLM-L6-30M (MS MARCO) MiniLM-L6-30M (MS MARCO ▶ consist. checked queries)
+
+1.21 1.24
+
+5 7
+
+DeBERTA-v3-435M (MS MARCO) DeBERTA-v3-435M (MS MARCO ▶ consist. checked queries)
+
+1.42 1.36
+
+7 7
+Fall 2023
+
+Course number: 60454
+
+Title: Adv Studio: Small Things:Quiet interventions, Miniatures & the Power of Everyday
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: DH C300
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yeh
+
+Fall 2023
+
+Course number: 60470
+
+Title: Advanced DP3: Special Topic: Painting The Unconscious
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: CFA 310
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Ray
+
+Fall 2023
+Monday ; Event - Mini-3 pass/no pass & withdrawal deadline (3) Date -  February 19 ; Day - Monday ; Event - Mini-3 Faculty Course Evaluations open Date -  February 26 ; Day - Monday ; Event - Semester course drop deadline; withdrawal grade assigned after this date (2) Date - March 1 ; Day - Friday;  Mini-3 Last Day of Classes Date -  March 1 ; Day - Friday ; Event - Mini-3 voucher deadline (4) Date -  March 2 ; Event - Mini-3 Exams Date -  March 2 ; Event - Mini-3 Faculty Course Evaluations
+date (2) Date -  February 17 ; Day - Monday ; Event - Mini-3 pass/no pass & withdrawal deadline (3) Date -  February 17 ; Day - Monday ; Event - Mini-3 Faculty Course Evaluations open Date - February 24 ; Day - Monday; Event - Semester course drop deadline; withdrawal grade assigned after this date (2) Date -  February 28 ; Day - Friday ; Event - Mini-3 Last Day of Classes Date -  February 28 ; Day - Friday ; Event - Mini-3 voucher deadline (4) Date -  March 1 ; Event - Mini-3 Exams Date -
+(1) Date -  November 5 ; Day - Tuesday ; Event - Democracy Day; No Classes, except Evening classes after 5 pm will still meet Date -  November 11 ; Day - Monday ; Event - Semester pass/no pass & withdrawal deadline (3) Date -  November 13 ; Day - Wednesday ; Event - Mini-2 drop deadline; withdrawal grade assigned after this date (2) Date -  November 18 ; Event - 22 M-F Spring 2025 Registration Week Date -  November 25 ; Day - Monday ; Event - Mini-2 pass/no pass & withdrawal deadline (3) Date -
+
+
+Answer: 

@@ -1,0 +1,162 @@
+Question: What does Self-Refine use to provide feedback and refine the initial output?
+
+Context: Given an input sequence, SELF-REFINE generates an initial output, provides feedback on the output, and refines the output according to the feedback. SELF-REFINE iterates between feedback and refinement until a desired condition is met. SELF-REFINE relies on a suitable language model and three prompts (for initial generation, feedback, and refinement), and does not require training. SELF-REFINE is shown in Figure 1 and Algorithm 1. Next, we describe SELF-REFINE in more detail.
+REFINE Next, SELF-REFINE uses M to refine its most recent output, given its own feedback:
+
+yt+1 = M (prefine∥x∥yt∥f bt) . For example, in Figure 2(f), given the initial output and the generated feedback, the model generates a re-implementation that is shorter and runs much faster than the initial implementation. The prompt prefine provides examples of improving the output based on the feedback, in the form of input-output-feedback-refined quadruples ⟨x(k), y(k)
+
+, f b(k) t
+
+, y(k)
+
+t+1⟩.
+
+t
+Like humans, large language models (LLMs) do not always generate the best output on their first try. Motivated by how humans refine their written text, we introduce SELF-REFINE, an approach for improving initial outputs from LLMs through iterative feedback and refinement. The main idea is to generate an initial output using an LLM; then, the same LLM provides feedback for its output and uses it to refine itself, iteratively. SELF-REFINE does not require any supervised training data, additional
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Downs
+
+Spring 2024
+
+Course number: 54433
+
+Title: The Basics of Self-Producing for Theater Artists
+
+Units: 6.0
+
+Section: A3,A4
+
+Days: TR
+
+Start: 11:00AM,03:30PM
+
+End: 12:20PM,04:50PM
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Good,Young
+
+Spring 2024
+
+Course number: 54434
+
+Title: Production Prep: New Works:
+
+Units: 9-21
+
+Section: A, ,B
+
+Days:  ,MTWRF
+
+Start:  ,06:30PM
+
+End:  ,10:30PM
+
+Room: TBA,
+Title: Modern Techniques in Uncertainty Quantification
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 4708
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wu
+
+Spring 2024
+
+Course number: 17765
+
+Title: Autonomous Self-Adaptive Systems Using Reinforcement Learning
+
+Units: 6.0
+
+Section: M4
+
+Days: R
+
+Start: 04:00PM
+
+End: 05:50PM
+
+Room: GHC 4101
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Al-Shaer
+
+Spring 2024
+
+Course number: 17766
+Start: 11:00AM, ,05:00PM,06:30PM
+
+End:  ,10:30PM,03:00PM,06:20PM
+
+Room: TBA,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Warren,Boevers, Hines,Wei,Limauro, Stebbins,Pino,Brown,Prendergast,Instructor TBA,Sahoo,Cody, ,Hanson
+
+Fall 2023
+
+Course number: 54433
+
+Title: The Basics of Self-Producing for Theater Artists
+
+Units: 6.0
+
+Section: A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Young
+
+Fall 2023
+
+Course number: 54435
+At least two CMU faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the chair of graduate programs (the form for this is available on the LTI website). This feedback will help the student refine speaking skills with respect to talk structure, content, and delivery.
+
+4.1.3 Withdrawal of a Degree
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+Clients meet with a c onsultant to improve the logic, clarity, and flow of writing or
+
+presentation and receive expert feedback that will strengthen a project. When making an appointment, clients upload a draft, instructor prompts, and rubrics so the consultants can use specific  criteria to give relevant feedback. See the
+
+appointment types offered here:
+
+https://www.cmu.edu/student-
+
+success/programs/communication -support/make- an-appointment.html
+
+
+Answer: 

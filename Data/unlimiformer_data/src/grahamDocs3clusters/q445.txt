@@ -1,0 +1,160 @@
+Question: Which LLMs were used for validation of the SPAE method?
+
+Context: Paper title: 'SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs' Published year: 2023 Publication venue or conference: arXiv.org Authors: Lu Jiang, Wolfgang Macherey, A. Hauptmann, David A. Ross, Irfan Essa, K. Murphy, Vivek Kumar, Ming Yang, Yonatan Bisk, Yong Cheng, Lijun Yu, Zhiruo Wang, Yanping Huang Summary: This method marks the first successful attempt to enable a frozen LLM to generate image content while surpassing state-of-the-art performance in image
+5ConclusionOurworkunveilstheuntappedpotentialoffrozenLargeLanguageModels(LLMs)intacklingmultimodalunderstandingandgenerationtasksinvolvingimagesandvideos,withoutrequiringexplicittrainingonthesemodalities.Thisisachievedbyanewmethod,SPAE,whichconvertsbetweenvisualcontentandlexicaltokensofvariablelength,imbuedwithrichsemanticmeaning.OurfindingsshowthegreatpotentialofharnessingthevastknowledgeandreasoningcapabilitiesofLLMsinthefieldofcomputervision,transcendingthelimitationsoflanguage-onlytasks.Lim
+Particularly, SPAR-wiki is an ensemble of two dense models with one pretrained using BM25 su- pervision on Wikipedia and the other fine-tuned on NQ. BM25 is included here, as it is found to achieve better performance than its dense counter- part on those two datasets. The evaluation results are shown in Table 5. Overall, our model achieves the largest gains over BM25 on both datasets, indi- cating that our multi-task fine-tuned model with Chain-of-Skills inference is more robust than previous
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Johnston, Dannenberg, Stiles, Schulz, Stern, Sullivan
+
+Spring 2024
+
+Course number: 57588
+
+Title: Junior Recital Voice
+
+Units: 1.0
+
+Section: B4,D4,A4,C4,E4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Spring 2024
+
+Course number: 57589
+
+Title: Senior Recital Voice
+
+Units: 1.0
+
+Section: B4,D4,A4,C4,E4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Spacagna
+
+Spring 2024
+
+Course number: 57227
+
+Title: Jazz Instrumental Ensemble:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,08:00PM
+
+End:  ,09:20PM
+
+Room:  ,MM 119
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Snyder
+
+Spring 2024
+
+Course number: 57232
+
+Title: Chamber Music: Guitar
+
+Units: 3.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Marcinizyn, Ferla
+
+Spring 2024
+Fall 2023
+
+Course number: 57588
+
+Title: Junior Recital Voice
+
+Units: 1.0
+
+Section: E2,B2,D2,C2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Fall 2023
+
+Course number: 57589
+
+Title: Senior Recital Voice
+
+Units: 1.0
+
+Section: E2,B2,D2,C2,A2
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cornetti,Spacagna,Aylmer,Teadt,Gruber
+
+Fall 2023
+
+Course number: 57591
+16. CAPTCHAs, 2000 “Spam” and malicious attacks were a growing problem on the Internet when hackers developed automated “bots” that could sign up for email and other Web services without human intervention. Luis von Ahn (CS’03,’05), Nick Hopper (CS’04), John Langford (CS’02) and CMU professor Manuel Blum invented a “Completely Automated Public Turing Test to tell Computers and Humans Apart,” or CAPTCHA, to help foil the bots. A later variation, reCAPTCHA, is helping digitize old books and
+15. Model checking, 1994 CMU professor Edmund Clarke had long stressed the importance of verifying computer hardware and software through a formal problem-solving technique called “model checking.” In 1994, his arguments gained new weight with the discovery that Intel’s amazing new Pentium chip made errors on certain math problems. Clarke would go on to receive the Turing Award for his role in the development of model checking.
+in all-things information - including locatin g and obtaining specific resources, providing
+
+specialized research support, advanced training in  the use and management of data. Sign up for
+
+workshops and hands-on topic-spe cific sessions such as data visualization with Tableau,
+
+cleaning data with OpenRefine, and getting st arted with Zotero. Weekly drop-in hours for
+
+Digital Humanities and for Rese arch Data Research Managem ent are scheduled during the
+
+
+Answer: 

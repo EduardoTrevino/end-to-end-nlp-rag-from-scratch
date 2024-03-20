@@ -1,0 +1,185 @@
+Question: What number do all of the Computational Biology classes start with?
+
+Context: Bioinformatics 46. Computational Biology 47. Genetics 48. Neuroscience 49. Psychology 50. Linguistics 51. Computational Linguistics 52. Digital Signal Processing 53. Image Processing 54. Audio Processing 55. Video Processing 56. Speech Recognition 57. Speech Synthesis 58. Text-to-Speech 59. Optical Character Recognition 60. Computer Vision Applications 61. Face Recognition 62. Object Detection 63. Object Tracking 64. Image Segmentation 65. Image Classification 66. Image Retrieval 67. Image
+Table 7: Computational effort per epoch for different training methodologies, relative to the baseline of standard finetuning and inference. All are averaged over 3 runs on BookSum using a single 48 GB A6000 GPU, 32 GB RAM, and 16 CPUs.
+
+Number of layers using Unlimiformer Memory consumption (GB)
+
+0 (normal inference) 1 2 3 4 5 6 (all)
+
+1.61 7.33 7.32 7.36 7.32 7.33 7.35
+
+Table 8: Memory consumption for applying Unlimiformer at different numbers of layers in BART.
+online 2023.1085507/full#supplementary-material
+
+at:
+
+frontiersin.org
+
+Belmar
+
+References
+
+Araujo, A. L. S. O., Andrade, W. L., Guerrero, D. D. S., and Melo, M. R. A. (2019). “How many abilities can we measure in computational thinking? A study on Bebras challenge,” in Proceedings of the 50th ACM Technical Symposium on Computer Science Education (Universidad Federal de Paraíba, Paraíba, Brasil), 545–551. doi: 10.1145/3287324.3287405
+Course number: 02702
+
+Title: Computational Biology Seminar
+
+Units: 3.0
+
+Section: A
+
+Days: F
+
+Start: 10:30AM
+
+End: 12:00PM
+
+Room: OFF PITT
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carja
+
+Fall 2023
+
+Course number: 02712
+
+Title: Computational Methods for Biological Modeling and Simulation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Schwartz, Carja
+
+Fall 2023
+
+Course number: 02718
+Instructors: Lugo-Martinez
+
+Spring 2024
+
+Course number: 02499
+
+Title: Independent Study in Computational Biology
+
+Units: VAR
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Spring 2024
+
+Course number: 02500
+
+Title: Undergraduate Research in Computational Biology
+
+Units: 6-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Spring 2024
+
+Course number: 02510
+Title: String Algorithms
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: CFA 102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kingsford
+
+Fall 2023
+
+Course number: 02500
+
+Title: Undergraduate Research in Computational Biology
+
+Units: 6-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Compeau
+
+Fall 2023
+
+Course number: 02512
+
+Title: Computational Methods for Biological Modeling and Simulation
+
+Units: 9.0
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+But a few of the specific rules changed slightly, or are worth noting again: All drivers, pushers, designers and builders were required to members of the organization they’re competing for All team members (including designers and builders) must be “eligible” under the Executive Board’s requirements, which include a minimum of 36 units and being in good academic standing (with a minimum GPA requirement). The buggy/driver combo must weigh a minimum of 180 pounds (up from the previous 160 lbs)
+A student may not take more than 60 units per semester, without permission from their academic advisor. Students must maintain full-time enrollment status (minimum of 36 units) in their final semester. 3.3.4 Prerequisite Core Course All MCDS students are expected to pass the 11-637 Foundations of Computational Data Science course by the end of their first semester. Each student must pass 11-637 with a grade of “B” or better. 3.3.5 Plan of study The degree consists of two timing options based on
+New departments, new areas of study Along the way, the Center for Machine Translation became the Language Technologies Institute, and other new departments were formed, including the Human-Computer Interaction Institute (1993), the Institute for Software Research (1999), the Machine Learning Department (2006) and the Ray and Stephanie Lane Center for Computational Biology (2009). SCS’s seven degree-granting departments draw faculty and students from a wide variety of disciplines, including
+17-637 Web Application Development
+
+17-639 Management of Software Development 17-652 Methods: Deciding What to Design 17-653 Managing Software Development
+
+17-766 Software Engineering for Startups 16
+
+02-604 Fundamentals of Bioinformatics
+
+02-718 Computational Medicine
+
+Independent study (11-636) is encouraged. The process is that you find a faculty
+
+member willing to supervise your independent study,  assign a number of credits not to
+
+
+Answer: 

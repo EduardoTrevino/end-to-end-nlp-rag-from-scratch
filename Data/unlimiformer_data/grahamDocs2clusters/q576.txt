@@ -1,0 +1,69 @@
+Question: What LTI professor was on "KIT’s Multilingual Speech Translation System for IWSLT 2023"?
+
+Context: 3 2 0 2
+
+l u J
+
+2 1
+
+] L C . s c [
+
+3 v 0 2 3 5 0 . 6 0 3 2 : v i X r a
+
+KIT’s Multilingual Speech Translation System for IWSLT 2023
+
+Danni Liu, Thai Binh Nguyen, Sai Koneru, Enes Yavuz Ugan, Ngoc-Quan Pham, Tuan-Nam Nguyen, Tu Anh Dinh, Carlos Mullov, Alexander Waibel, Jan Niehues Karlsruhe Institute of Technology firstname.lastname@kit.edu
+
+Abstract
+Danni Liu, Thai Binh Nguyen, Sai Koneru, Enes Yavuz Ugan, Ngoc-Quan Pham, Tuan Nam Nguyen, Tu Anh Dinh, Carlos Mullov, Alexander Waibel, and Jan Niehues. 2023. KIT’s multilingual speech trans- lation system for IWSLT 2023. In Proceedings of the 20th International Conference on Spoken Lan- guage Translation (IWSLT 2023), pages 113–122, Toronto, Canada (in-person and online). Association for Computational Linguistics.
+Peter Polák, Danni Liu, Ngoc-Quan Pham, Jan Niehues, Alexander Waibel, and Ondˇrej Bojar. 2023. Towards efficient simultaneous speech translation: CUNI- KIT system for simultaneous track at IWSLT 2023. In Proceedings of the 20th International Confer- ence on Spoken Language Translation (IWSLT 2023), Toronto, Canada (in-person and online). Association for Computational Linguistics.
+dialogue systems, information retrieval, machine translation, speech processing,  video
+
+understanding, multimodal systems, automated reasoning, and other topics related to analysis
+
+and understanding of unstructured information  (e.g., machine learning, and software engineering
+
+of intelligent systems).
+
+1.2 Department Personnel
+
+The people responsible for administering the LTI Ph.D.  degree are:
+
+Jamie Callan
+
+Ph.D. Program Director
+
+Professor
+
+GHC 5419
+
+callan@cs.cmu.edu
+garlan@cs.cmu.edu
+
+http://www.cs.cmu.edu/~garlan/academics.htm
+
+C a r o l y n  R o s é
+
+Interim Director, Language Technologies Institute  Professor  GHC 5415
+
+412-268-7130
+
+cprose@cs.cmu.edu
+
+8 MSAII Policies
+
+The Language Technologies Institute (LTI) ha s prepared this statement of policies, program
+
+requirements, guidance, process a nd procedures for students in the M.S. in Artificial Intelligence
+
+and Innovation (MSAII) program. A copy of this handbook is also available online at the
+Language Technologies Institute - Faculty Name: Shinji Watanabe Email: swatanab@andrew.cmu.edu Research Areas: Natural Language Processing: Conversational AI, Intelligent Agents, and Dialogue, Speech Processing (ASR, Speech Synthesis): Speech Recognition, Speech Synthesis, Multilingual/Low-Resource Speech Processing, Speech-to-Speech Translation, Speech Enhancement / Robust Speech Processing Phone: 412-268-3687
+
+Language Technologies Institute
+
+Faculty
+
+Name: Sean Welleck
+
+
+Answer: 

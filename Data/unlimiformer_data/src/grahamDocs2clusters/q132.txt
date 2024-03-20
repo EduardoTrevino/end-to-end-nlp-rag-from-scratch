@@ -1,0 +1,21 @@
+Question: In the Plan, Eliminate and Track paper, which benchmark was used in the experiments?
+
+Context: We propose the Plan, Eliminate, and Track (PET) framework. The Plan module trans- lates a task description into a list of high-level sub-tasks. The Eliminate module masks out irrelevant objects and receptacles from the ob- servation for the current sub-task. Finally, the Track module determines whether the agent has accomplished each sub-task. On the Alf- World instruction following benchmark, the PET framework leads to a signiﬁcant 15% improvement over SOTA for generalization to human goal
+Paper title: 'Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: So Yeon Min, Shrimai Prabhumoye, R. Salakhutdinov, Tom M. Mitchell, Yue Wu, Yonatan Bisk, A. Azaria, Yuan-Fang Li Summary: A framework to use the knowledge in LLMs to simplify the control problem, rather than solving it is proposed, which leads to a significant 15% improvement over SOTA for generalization to human goal
+Dataset The base training dataset for the experiments in this paper contains 268 GB of Python, Java and JavaScript ﬁles from The Stack v1.1 (Kocetkov et al., 2022) after removing data from opt- out requests, near-deduplication, PII-redaction (see Section 4), and ﬁltering based on line-length and percentage of alphanumeric characters. This dataset was also decontaminated by removing ﬁles that contained test-samples from the following benchmarks: HumanEval (Chen et al., 2021), APPS (Hendrycks et
+awarded to Mao Yisheng, a student from China. It laid the groundwork for a research institution, recruiting leading scientists, offering sponsored fellowships with government and industry leaders and pioneering nontraditional interdisciplinary research, which brought together physicists, chemists and metallurgists, for example. Interdisciplinary research would become the hallmark of Carnegie Mellon research. It initiated the 'Carnegie Plan' in 1938, a new curriculum that required science and
+Professional Preparation Track – a 16
+
+month degree consisting of study for Fall and Spring semesters, a summer internship, and Fall semester of study. Each semester consists of a minimum of 48 units of study. This timing is typical for most students. The student graduates in December.
+
+Research Preparation Track – a 20
+thesis defense. The pre sentation must communicate the research work done, similar to
+
+a conference paper presentation. The committee will observe the presentation, and then decide whether the thesis and presentation were acceptable, or whether further
+
+work is required. Unlike a P hD defense, only a simple majority vote of the committee is
+
+required for approval.
+
+
+Answer: 

@@ -1,0 +1,199 @@
+Question: What is the effect of training speakers with a highly weighted ToM listener component?
+
+Context: (2021), we build language-learning agents equipped with ToM, and measure its effects on the learning process. We model ToM by giving the speaker agent an internal listener model that is trained alongside the speaker and used to rerank potential utterances. We experiment with varying task difﬁculty, hy- pothesizing that models will acquire more complex language to adapt to stronger environmental pressures. We ﬁnd that training speakers with a highly weighted ToM listener component leads to
+Paper title: 'Computational Language Acquisition with Theory of Mind' Published year: 2023 Publication venue or conference: International Conference on Learning Representations Authors: Hao Zhu, Graham Neubig, Yonatan Bisk, Andy T. Liu, Emmy Liu Summary: It is found that training speakers with a highly weighted ToM listener component leads to performance gains in the authors' image referential game setting, and suggests the potential utility of further incorporating ToM, as well as other
+We also ﬁnd that the usage of a highly-weighted ToM listener leads to signiﬁcant ﬂuency gains when training on both easy (15.6% relative increase in ﬂuency score) and hard (11.6%) distractors. We also see longer and more complex utterances when using normally or highly weighted ToM listeners. Additionally, we ﬁnd limited gains in general captioning ability between baseline and high-weight models, as measured by BLEU score. However, these effects are more subtle, and do not always lead to
+Title: Expanded Theater
+
+Units: 6.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: MEL 102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Warren, Shea
+
+Fall 2023
+
+Course number: 54500
+
+Title: Voice Lab:
+
+Units: 5.0
+
+Section: A,C, ,B
+
+Days: R,
+
+Start: 12:30PM,
+
+End:  ,01:20PM
+
+Room: PCA 321,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Benack,Kline,Edinger
+
+Fall 2023
+
+Course number: 54505
+
+Title: Ear Training
+
+Units: 1.0
+
+Section: A
+
+Days: F
+
+Start: 11:00AM
+
+End: 11:50AM
+Instructors: Benack,Kline,Edinger
+
+Spring 2024
+
+Course number: 54505
+
+Title: Ear Training
+
+Units: 1.0
+
+Section: A
+
+Days: F
+
+Start: 11:30AM
+
+End: 12:20PM
+
+Room: PCA 103
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pino
+
+Spring 2024
+
+Course number: 54513
+
+Title: Millinery II
+
+Units: 9.0
+
+Section: A
+
+Days: F
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: PCA 308
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Russman
+
+Spring 2024
+
+Course number: 54520
+
+Title: Acting for the Camera
+
+Units: 8.0
+Title: Graduate Reading and Research
+
+Units: 0-99
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Helgeson
+
+Spring 2024
+
+Course number: 85785
+
+Title: Auditory Perception: Sense of Sound:
+
+Units: 9,12
+
+Section: A,
+
+Days:  ,MW
+
+Start:  ,11:00AM
+
+End:  ,12:20PM
+
+Room:  ,BH 340A
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Heller
+
+Spring 2024
+
+Course number: 85794
+
+Title: Teaching Practicum:
+
+Units: 9.0
+
+Section: A,
+
+Days: TBA,
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+Safety is a top priority for teams. All drivers are required to have five pieces of safety gear: mouth guard, goggles, a harness that includes three points of contact to the body of the buggy, gloves and a helmet. And during practice runs and races, flaggers man the course to let drivers know if it's safe to proceed.
+The Kiltie Band is a campus organization recognized by Student Senate and administered by the Department of Athletics, Physical Education and Recreation. Membership is open to all members of the campus/community without audition. Participants must do their best to promote the success of the ensemble through attendance, attitude, and dependability.
+https://www.cmu.edu/policies/faculty/evaluation- certification -english -fluency-
+
+instructors.html .
+
+The fluency of all instructional personnel will be rated by Language Support in the S tudent
+
+Academic Success Center to determine at what level of responsibility the student can TA. In addition to administering the International Teaching Assistant (ITA) Test (a mandatory screening for all non -native speakers of English), Language Support in the Student Academic
+Success Center helps teaching assistants who are non- native English speakers develop fluency
+
+and cultural understanding to teach successfully at Carnegie Mellon. Visit the Student Academic
+
+Success Center website for additional information: https://www.cmu.edu/student- success/
+
+.
+
+5.2 LTI Academic Policies
+
+5.2.1 “Grandfather” policy
+
+A student can graduate under the policies in effect at the time that the student entered the
+https://www.cmu.edu/policies/faculty/evaluation -certification -english -fluency -instructors.html
+
+The fluency of all instructional personnel will be rated  by Language Support in the Student
+
+Academic Success Center to determine at what level of responsibility the student can TA.
+
+In addition to administering the International Teaching Assistant (ITA) Test (a mandatory
+
+screening test for any non- native speake r of English), Language Support in the Student Academic
+
+
+Answer: 

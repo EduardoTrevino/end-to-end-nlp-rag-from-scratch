@@ -1,0 +1,179 @@
+Question: What type of requests will aligned text models refuse to answer?
+
+Context: Large language models are now tuned to align with the goals of their creators, namely to be “helpful and harmless.” These models should respond helpfully to user questions, but refuse to answer requests that could cause harm. However, adversarial users can construct inputs which circumvent attempts at alignment. In this work, we study to what extent these models remain aligned, even when interacting with an adversarial user who constructs worst-case inputs (adversarial examples). These inputs
+Non-Evasiveness Alignment Sometimes, due to iterative safety alignment training, the RLHF- trained model (e.g., LLaMA-2-Chat; Touvron et al. (2023b)) can be over-aligned such that it would incorrectly refuse to answer a question that it should, for example, due to overly broad instructions to be cautious in how it provides responses. In this work, we investigate whether it is possible to reduce the false refusal rates of these over-aligned AI agents by defining customized principles.
+are designed to cause the model to emit harmful content that would otherwise be prohibited. We show that existing NLP-based optimiza- tion attacks are insufficiently powerful to reliably attack aligned text models: even when current NLP-based attacks fail, we can find adversarial inputs with brute force. As a result, the failure of current attacks should not be seen as proof that aligned text models remain aligned under adversarial inputs.
+Title: Seminar in Finance IV (Corporate Finance)
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mayer
+
+Spring 2024
+
+Course number: 47744
+
+Title: Analytical and Structural Marketing Models
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: TEP 4219
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Srinivasan
+
+Spring 2024
+
+Course number: 47770
+
+Title: Strategic Queueing Models
+
+Units: 6.0
+End:  ,07:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Xing, Zhang
+
+Spring 2024
+
+Course number: 98097
+
+Title: Student Taught Courses (StuCo): Intro to 3D Modeling- Character Design Pipeline
+
+Units: 3.0
+
+Section: A
+
+Days: R
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: CYH 100A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Diel
+
+Spring 2024
+
+Course number: 98123
+
+Title: Student Taught Courses (StuCo): Introduction to Hand Lettering
+
+Units: 3.0
+
+Section: A
+
+Days: R
+Title: Dramaturgy 1: Approaches to Text
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: PCA 231
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Arons
+
+Fall 2023
+
+Course number: 54110
+
+Title: Text for Actors
+
+Units: 2.0
+
+Section: B2,C2,A2
+
+Days: MW,TR
+
+Start: 09:30AM,03:00PM,11:00AM
+
+End: 10:20AM,11:50AM,03:50PM
+
+Room: PCA 103,PCA 115
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Haden
+
+Fall 2023
+
+Course number: 54121
+
+Title: Directing I: A Director's Mindset
+Tau Delta Phi Tries To Make Its Debut; PhiKap Struggles. Tau Delta Phi put together a buggy with a bubbled canopy for its first try on the course. Unfortunately, they broke their rear wheel axle (presumably during practice) and were unable to compete on Raceday. On another note, PhiKap lent their buggy to the PhiKap chapter of Pitt for Pitt’s buggy race. Unfortunately, the buggy didn’t have a very good year, as it lost the Pitt race and didn’t qualify for Finals at CMU. Beta Defeats PiKA in
+Beta’s new design was the winner of the first post-war Design Competition. The buggy, designed by Rick Saxton, was shaped like a bug with welded tubular steel. The real design battle seemed to be between Beta and PiKA, and the Tartan noted that PiKA’s buggy had a better appearance. However, Beta’s was structurally superior and that allowed it to take home the design trophy.
+between PhiKap, Theta Xi, and Scobell House (Men’s Dorms), but again, Theta Xi won by default, as both PhiKap and Scobell were DQ’d for a Hill 4-5 transition violation (the same problem that DU had). Rain or Shine, But Not Really… One other rule stated that the race would be rain-or-shine. However, that didn’t turn out to be true.
+Fall 2:
+
+Conversational Interfaces
+
+MIIS Capstone Project
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems who has petitioned to have the summer internship waived.
+
+Fall 1: - Search Engines - Analysis of Social Media - Design and Engineering of Intelligent Systems - Directed Study
+
+Spring:
+
+Machine Learning
+
+Natural Language Processing
+
+Question Answering
+
+Directed Study
+to serve as an advisor, and then make a  request to the Program Director to switch advisors. The
+
+LTI follows the long -standing SCS policy that both the new and old advisors need to agree to the
+
+change; typically, this is not a problem ( assuming the new advisor has agreed in advance, as
+
+described  here ). It is to the student's advantage to avoid switching advisors, especially late in
+
+their graduate studies, because forging a strong student- advisor relationship takes time.
+possible to change advisors. To do so, the student should find another faculty member willing to
+
+serve as an advisor, and then make a request to the Program Director to switch advisors. The LTI
+
+follows the long- standing SCS policy that both the new and old advisors need to agree to the
+
+change; typically, this is not a problem (assuming the new advisor  has agreed in advance, as
+
+
+Answer: 

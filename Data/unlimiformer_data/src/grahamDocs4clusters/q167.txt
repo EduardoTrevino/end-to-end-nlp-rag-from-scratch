@@ -1,0 +1,153 @@
+Question: According to the paper ChatGPT MT, which languages does the study suggest ChatGPT is especially disadvantaged for?
+
+Context: ability to trans- late it, and suggests that ChatGPT is especially disadvantaged for LRLs and African languages.
+4. A decision tree analysis of language features’ correlation with LLM effectiveness in MT, suggesting ChatGPT is especially disadvan- taged for LRLs and African languages
+
+5. A cost comparison across MT systems
+We provide benchmarks for LLM ENG→X MT performance across 203 languages, with compar- isons to state-of-the-art commercial and open- source MT models. For many HRLs, LLMs like ChatGPT perform competitively with these tra- ditional models. But for LRLs, traditional MT remains dominant, despite LLMs’ increased pa- rameter size. Our decision-tree analysis reveals language features that predict ChatGPT’s transla- tion effectiveness relative to NLLB, finding that ChatGPT is especially disadvantaged
+Spring 2024
+
+Course number: 11801
+
+Title: Quantitative Evaluation of Language Technologies:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,TR
+
+Start:  ,03:30PM
+
+End:  ,04:50PM
+
+Room: WEH 5421,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Diaz
+
+Spring 2024
+
+Course number: 11821
+
+Title: Advanced Linguistics Seminar
+
+Units: 6.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: PH A19C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Spring 2024
+
+Course number: 11823
+Instructors: Wiener
+
+Fall 2023
+
+Course number: 82388
+
+Title: Topics in Second Language Acquisition:
+
+Units: 9.0
+
+Section: A,D, ,B
+
+Days: M, ,MW
+
+Start: 12:30PM, ,04:00PM,02:00PM
+
+End:  ,01:50PM,06:50PM,03:20PM
+
+Room: PH A19D, ,PH A21,DH 1209
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Van Compernolle,Al Masaeed,Amgott
+
+Fall 2023
+
+Course number: 82389
+
+Title: Independent Study in Language and Culture-Advanced Level
+
+Units: 3-12
+
+Section: A,C,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+Title: Topics in Second Language Acquisition:
+
+Units: 9.0
+
+Section: A, ,B
+
+Days: M, ,W
+
+Start:  ,06:00PM,02:00PM
+
+End:  ,08:50PM,04:50PM
+
+Room:  ,POS 235,BH 235B
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Van Compernolle,Burns
+
+Spring 2024
+
+Course number: 82389
+
+Title: Independent Study in Language and Culture-Advanced Level
+
+Units: 3-12
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Abraham,Instructor TBA
+
+Spring 2024
+Tau Delta Phi Tries To Make Its Debut; PhiKap Struggles. Tau Delta Phi put together a buggy with a bubbled canopy for its first try on the course. Unfortunately, they broke their rear wheel axle (presumably during practice) and were unable to compete on Raceday. On another note, PhiKap lent their buggy to the PhiKap chapter of Pitt for Pitt’s buggy race. Unfortunately, the buggy didn’t have a very good year, as it lost the Pitt race and didn’t qualify for Finals at CMU. Beta Defeats PiKA in
+Tartan, Heat 1 saw a very tight race between KapSig, DTD, and PiKA, with KapSig winning in 3:24.5, DTD finishing in 3:25.1, and PiKA finishing in 3:26.3. Those were the top 3 times and they advanced to the finals. Prelim Heat 2 paired Beta, SAE, and DU, and SAE won the heat by default, as Beta was DQ’d for a pushbar violation and DU was DQ’d for a Hill 4-5 transition violation (the Tartan reports that they “shoved the buggy into the last zone instead of pushing it”). Prelims Heat 3 was a battle
+Déjà vu. Much like the prior years, the Tartan didn’t seem too interested with Buggy in 1949. So what we know is that 1949 seems very similar to 1948. Once again, 14 organizations (all 12 fraternities, Dorm Council and Citcom Clan) entered the race, and Prelims were run in 5 heats. The first 4 Heats had 3 buggies each, while the 5th Heat had only 2. Record-Breaking Year. There was little, if any, doubt that a course record would be broken this year. And in fact, each of DTD, PiKA, and KapSig,
+speaking is not scored. We do not issue waivers for non-native speakers of English. In particular, we do not issue waivers based on previous study at a U.S. high school, college, or university. We also do not issue waivers based on previous study at an English-language high school, college, or university outside of the United States. No amount of educational experience in English, regardless of which country it occurred in, will result in a test waiver. Submit valid, recent scores: If as
+communicating. However, it is unprofessional in any official team meeting to speak a language 32
+
+that is not understood by all team members. Fo r example, if all members of a team understand
+
+Chinese, then they may use Chi nese in team meetings. However,  if even one team member does
+
+not understand Chinese, then a language must be us ed that is understood by all team members.
+
+It is recommended that non-native speakers of Eng lish use English as much as possible if they
+the "TOEFL ITP Plus for China," since speaking is not scored. We do not issue waivers for non-native speakers of English. In particular, we do not issue waivers based on previous study at a U.S. high school, college, or university. We also do not issue waivers based on previous study at an English-language high school, college, or university outside of the United States. No amount of educational experience in English, regardless of which country it occurred in, will result in a test waiver.
+
+
+Answer: 

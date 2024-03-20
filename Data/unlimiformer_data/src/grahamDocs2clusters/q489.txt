@@ -1,0 +1,71 @@
+Question: What's the theme for the booths at Spring Carnival this year?
+
+Context: Title: Guest Experience in Theme Park Design
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HL 106C
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Saldamarco
+
+Spring 2024
+
+Course number: 53321
+
+Title: IDeATe Special Topics in Animation: Bipedal Rigging for Animation Production
+
+Units: 6.0
+
+Section: A3
+
+Days: T
+
+Start: 07:00PM
+
+End: 08:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Videva
+
+Spring 2024
+
+Course number: 53330
+Frontiers in Computer Science
+
+04
+
+10.3389/fcomp.2023.1085507
+
+diﬀerent themes (Haunted House, Wild West, Space Adventure, Amusement Park), playing a variety of small games in each theme area predestined to learn decimals. The youngster’s progress is made through a sequence of steps in the park and players are graphically shown the next game (McLaren et al., 2017).
+INSTRUCTSCORE Input: Reference: It is understood that the activities held during the “Children’s Day” by China Children’s Center this year include the “Cool Maker Loves Family” carnival of children’s future learning, the first children’s visual art festival, the “Book Carnival” event and the “Whole Family Loves Reading” Picture Book Reading activity. Output: It is understood that the activities held by the China children’s center during this year’s "June 1" children’s day include the "love
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+The Finals, initially scheduled for 2pm on Saturday, May 4, were ultimately postponed until Saturday, May 11, due to a downpour that cast a damper on an otherwise exciting Spring Carnival. Controversial Finals. An overcast sky threatened rain on the makeup date as well, though it held off long enough for the race to be run. But some of the spectators may have wished the rain came sooner. Although signs were posted about the makeup date, cars ignored the notices and ended up blocking part of the
+
+
+Answer: 

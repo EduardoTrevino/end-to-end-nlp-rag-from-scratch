@@ -1,0 +1,190 @@
+Question: Which LTI faculty is involved in the work Improving Factuality of Abstractive Summarization via Contrastive Reward Learning?
+
+Context: 3.4. Policy gradient reinforcement with similarity rewards As the second major contribution of this work, we have trained an abstractive summarization model using the reinforcement learning framework, where the proposed similarity metric is used as the reward signal. In this model, we ﬁne-tuned the mT5 model, which is a multilingual vari- ant of the text-to-text-transfer-transformer (T5) (Raffel et al. 2020), that was pre-trained for 101
+(2020) proposed an unsupervised abstractive summarization model that generates summaries directly from source documents by optimizing coverage, ﬂuency, and brevity using reinforcement learning (RL)-based rewards. Yadav et al. (2021) introduced two novel question-aware semantic rewards for abstractive question summarization: (1) question-type identiﬁcation and (2) question-focus recognition. They integrated these rewards into an encoder- decoder-based ProphetNet transformer model (Qi et al.
+Williams R.J. (1992). Simple statistical gradient-following algorithms for connectionist reinforcement learning. Machine
+
+Learning 8(3), 229–256.
+
+Xu S., Zhang X., Wu Y. and Wei F. (2022). Sequence level contrastive learning for text summarization. In Proceedings of the
+
+AAAI Conference on Artiﬁcial Intelligence, vol. 36, pp. 11556–11565.
+Course number: 11485
+
+Title: Introduction to Deep Learning
+
+Units: 9.0
+
+Section: A,B,Lec
+
+Days: TBA,F,MW
+
+Start: ,08:00AM
+
+End: ,09:20AM
+
+Room: BH A51,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Fall 2023
+
+Course number: 11490
+
+Title: LTI Minor Project - Seniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11590
+Room: BH A51, ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Spring 2024
+
+Course number: 11490
+
+Title: LTI Minor Project - Seniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 11492
+
+Title: Speech Technology for Conversational AI
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 5222
+Title: LTI Practicum
+
+Units: 1-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 38100
+
+Title: CATALYST - MCS First-Year Seminar
+
+Units: 3.0
+
+Section: A4
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hovis, Pinnow
+
+Spring 2024
+
+Course number: 38110
+
+Title: ENGAGE in Service
+
+Units: 1.0
+
+Section: A,W
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+At least two LTI faculty members will attend the presentation, including the research advisor.
+
+After the presentation, these faculty members will convene and provide written feedback to both the student and the Program Director  of graduate programs (the form for this is available on the
+
+LTI website). This feedback will help the student refine speaking skills with respect to talk
+
+structure, content,  and delivery.
+
+3.2 Advising
+the necessary faculty mentoring. The advisor also provides the student with career advice.
+
+How and when the advisor is selected:  Advisors are selected during the first month of the
+
+program. Students are expected to attend the LTI Orientation Faculty Research Talks in which faculty describe their interests and areas of expertise, and to be proactive about meeting
+
+individually with potential advisors. Typically, if a student and faculty member agree to enter
+above still applies (“ B-” is the minimu m for PhD, “ C” for MLT).
+
+MLT Graduate Student Handbook  Page 18
+
+4.6 LTI Orientation
+
+At the beginning of each  Fall semester, the LTI provides a set  of lectures and talks to help
+
+students learn about the work done by CMU faculty and to provide an opportunity for advisors
+
+to recruit new students. Students are expected to attend them and treat them  seriously,
+
+because they provide a good introduction to the broad range of research done at the LTI.
+
+
+Answer: 

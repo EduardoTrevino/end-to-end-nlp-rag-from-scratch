@@ -1,0 +1,191 @@
+Question: In summer 2024, When do Mini-5 Final Exams take place?
+
+Context: We follow Liu et al. (2022) to choose k-NN exam- ples from the training corpus. The demonstrations are encoded by all-MiniLM-L6-v2. For LMs with maximum context length as 2048, we set k to 32; and for LMs with maximum context length as 1024, we set k to 16.
+
+We conduct other baselines with the code imple- mented by Meng et al. (2022a). 1 We simply add the preﬁx Prompt: in prompts and report the re- sults conducted by us.
+
+A.2.1 Demonstration Formatting
+
+B Details of COUNTERFACT Dataset
+The third round of interviews was conducted in July and August 2022, and coincided with the soft launch of the beta version of the toolkit. The purpose was to gather feedback to help us refine and finalize the toolkit in preparation for a full launch in the autumn. Five interviews were conducted with participants from all three institutions. This round proved to be very valuable with regard to the functionality of the website and what content we should include or exclude. We asked our
+Table 4. MiniImageNet 5-shot 5-way test results, 95% confi- dence intervals and embedding radii.
+
+Clipping value 2.0 3.0 4.0
+
+Test acc 62.21 ± 0.24 65.04 ± 0.24 66.26 ± 0.23
+
+rmin 1.873 2.618 3.191
+
+ravg 1.877 2.618 3.191
+
+rmax 1.877 2.618 3.191
+
+Table 5. Effect of feature clipping before the exponential map. CUB 200 2011 1-shot 5-way test results, 95% confidence inter- vals and embedding radii in P d
+
+k for d = 1024 and k = −0.05.
+
+resulting in a chordal metric on a sphere.
+Title: Special Topics in ICT Mini:
+
+Units: 6.0
+
+Section:  ,A1,N1
+
+Days:  ,MW,TR
+
+Start: 08:00AM, ,04:00PM
+
+End:  ,05:50PM,09:50AM
+
+Room: CMR F305, ,CMR F309
+
+Locations:  ,Kigali, Rwanda
+
+Instructors: Rodriguez-Perez,Ostheimer
+
+Fall 2023
+
+Course number: 04900
+
+Title: MSIT Practicum
+
+Units: 24.0
+
+Section: A
+
+Days: T
+
+Start: 12:00PM
+
+End: 01:20PM
+
+Room: CMR F305
+
+Locations: Kigali, Rwanda
+
+Instructors: Okeyo
+
+Fall 2023
+
+Course number: 04910
+
+Title: Entrepreneurship Project
+
+Units: VAR
+
+Section: A
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mandal
+
+Spring 2024
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A3
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: GHC 4102
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mandal
+
+Spring 2024
+
+Course number: 33226
+
+Title: Physics of Energy
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 7500
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dodelson
+
+Spring 2024
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33213
+
+Title: Mini-Course in Special Relativity
+
+Units: 4.0
+
+Section: A1
+
+Days: MWF
+
+Start: 09:00AM
+
+End: 09:50AM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Deserno
+
+Fall 2023
+
+Course number: 33224
+
+Title: Stars, Galaxies and the Universe
+
+Units: 9.0
+
+Section: A,Lec
+
+Days: MWF,T
+
+Start: 03:00PM,07:00PM
+
+End: 07:50PM,03:50PM
+
+Room: HH B103,POS 151
+The Finals, initially scheduled for 2pm on Saturday, May 4, were ultimately postponed until Saturday, May 11, due to a downpour that cast a damper on an otherwise exciting Spring Carnival. Controversial Finals. An overcast sky threatened rain on the makeup date as well, though it held off long enough for the race to be run. But some of the spectators may have wished the rain came sooner. Although signs were posted about the makeup date, cars ignored the notices and ended up blocking part of the
+was pretty uneventful, which leads to a boring story. Prelims were run in 5 heats, with DTD, KapSig, and PiKA advancing to the Finals (DTD put up a Prelim time of 2:51). There were no crashes. In fact, the only thing of note that we know about is that Beta Sigma Rho was DQ’d for a pushbar violation (the DQ was not protested, as their time wasn’t fast enough to make the Finals anyway). Finals. The Finals was a very tight race (see photo right).
+cross the finish line in the Finals. So is it possible that DTD rolled 35 seconds faster during the Finals? Sure. But I think I buy that they were 25 seconds slower a little more. 1947 Raceday: Prelims on Friday, May 2 at 1:00pm; Finals on Saturday, May 3 at 2:30pm
+Event - Mini-5 Final Exams Date -  June 21 ; Day - Friday ; Event - Mini-5 Faculty Course Evaluations close Date -
+Date -  June 21 ; Day - Friday ; Event - Mini-5 Final Exams
+
+Date -  June 21 ; Day - Friday ; Event - Mini-5 Faculty Course Evaluations close
+
+Date -  June 24 ; Day - Monday ; Event - Mini-6 First Day of Classes
+
+Date -  June 25 ; Event - Mini-5 Final Grades Due by 4 pm
+
+Date -  June 28 ; Day - Friday ; Event - Mini-6 add, audit, & tuition adjustment drop deadline (1)
+
+Date -  July 4 ; Event - Independence Day; University Closed & No Classes
+deadline Date -  June 19 ; Event - Juneteenth; University Closed & No Classes Date -  June 20 ; Day - Friday ; Event - Summer One & Mini-5 Final Exams Date -  June 20 ; Day - Friday ; Event - Summer One & Mini-5
+
+
+Answer: 

@@ -1,0 +1,29 @@
+Question: What is the DialDoc 2023 shared task about?
+
+Context: 101 Proceedings of the Third DialDoc Workshop on Document-grounded Dialogue and Conversational Question Answering, pages 101–108 July 13, 2023 ©2023 Association for Computational Linguistics
+Thiago Castro Ferreira, Claire Gardent, Nikolai Ilinykh, Chris van der Lee, Simon Mille, Diego Moussallem, and Anastasia Shimorina. 2020. The 2020 bilingual, bi-directional WebNLG+ shared task: Overview and evaluation results (WebNLG+ 2020). In Proceed- ings of the 3rd International Workshop on Natu- ral Language Generation from the Semantic Web (WebNLG+), pages 55–76, Dublin, Ireland (Virtual). Association for Computational Linguistics.
+Pushpak Bhattacharyya, Rajen Chatterjee, Markus Freitag, Diptesh Kanojia, Matteo Negri, and Marco Turchi. 2022. Findings of the WMT 2022 shared task on automatic post-editing. In Proceedings of the Seventh Conference on Machine Translation (WMT), pages 109–117, Abu Dhabi, United Arab Emirates (Hybrid). As- sociation for Computational Linguistics.
+https://www.cmu.edu/student-success/ The Student Academic Success Center’s (SASC) work to support success focuses on creating spaces for students to engage in their coursework and approach to learning through many group and individual program options. SASC supports student success by providing academic coaching, subject-specific tutoring, effective communication strategies, accommodations for students with disabilities, and language support for multilingual learners.
+their tenure at Carnegie Mellon University. Information about The Word, the student
+
+handbook, the Office of Graduate and Postdoc Affairs, the Office of the Dean of Student Affairs, and others, are included in Appendix A of this  handbook.
+
+1.1 Vision
+
+Carnegie Mellon University will have a transformative impact on society through continual
+
+innovation in education, research, creativity, and entrepreneurship.
+
+1.2 Mission
+Computing Services maintains and supports co mputing resources for the campus community,
+
+including the campus wired and wi reless networks, printing, computer labs, file storage, email
+
+and software catalog. As members of this community , we are all responsible  for the security of
+
+these shared resources. Be sure to review the Safe Computing
+
+(https://www.cmu.edu/computing/safe/ ) section and the University Computing Policy
+
+
+Answer: 

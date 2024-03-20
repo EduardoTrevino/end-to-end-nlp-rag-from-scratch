@@ -1,0 +1,75 @@
+Question: In spring 2024, Who are the instructors for course 17313?
+
+Context: Renze Lou, Kai Zhang, and Wenpeng Yin. 2023. Is prompt all you need? no. a comprehensive and broader view of instruction learning. ArXiv, abs/2303.10475.
+
+Ximing Lu, Sean Welleck, Liwei Jiang, Jack Hessel, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, and Yejin Choi. 2022a. Quark: Controllable text generation with reinforced unlearning. CoRR, abs/2205.13636.
+Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong. 2023a. Compositional ex- emplars for in-context learning. arXiv preprint arXiv:2302.05698.
+
+Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. 2023b. In-context instruction learning. arXiv preprint arXiv:2302.14691.
+
+Yiming Zhang, Shi Feng, and Chenhao Tan. 2022a. Active example selection for in-context learning. CoRR, abs/2211.04486.
+suited for our tasks: fastText (Grave et al., 2018), BPEmb (Heinzerling and Strube, 2018), BERT (Devlin et al., 2019) and INSTRUCTOR (Su et al., 2022). We chose these embeddings be- cause they are open (i.e., they provide embeddings even to words unseen in the training data). All of these embeddings except for BERT and INSTRUC- TOR are 300-dimensional (see Section 5.5).
+Start: 07:00PM,09:00AM,02:00PM,01:00PM,12:00PM,10:00AM,11:00AM,03:30PM
+
+End: 12:50PM,01:50PM,09:50AM,07:50PM,02:50PM,04:50PM,11:50AM,10:50AM
+
+Room: SH 238,PH 126A,POS 147,WEH 5316,WEH 7500,PH 125B,WEH 5328
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Aldrich, Garrod, Lacomis,Garrod, Aldrich, Lacomis
+
+Spring 2024
+
+Course number: 17313
+
+Title: Foundations of Software Engineering
+
+Units: 12.0
+
+Section: A,E,B,F,C,D,Lec
+
+Days: M,TR
+Instructors: Dueck,Howard,Dealmeida,Kim,Pukinskis,Almarza,Kostyniak,Vosburgh,Cardenes,Wu,Shields, Howell,Spacagna,Caballero,Carver,Schepkin,Instructor TBA,Gruber,Van Hoesen, Shields,Evans, Allen, Branson,Cherian,McGhee,Knox,Mead,Dee,Whipple,Aylmer,Manriquez,Shields, Goeres,Kush,Carlisle,Marcinizyn,van der Sloot,Laduke,Sullivan, Shields,Williams,Berntsen,Harding,Park,Galbraith,Teadt,Chiu,Shields, Houlik,Shields, Rusinek
+
+Spring 2024
+
+Course number: 57987
+Instructors: Howard,Dealmeida,Pukinskis,Sullivan,Almarza,Kostyniak,Vosburgh,Cardenes,Wu,Houlik,Spacagna,Caballero,Howell,Schepkin,Instructor TBA,Van Hoesen,Gruber,Cherian,McGhee,Knox,Branson, Evans, Allen,Goeres,Dee,Rusinek,Aylmer,Whipple,Kush,Carlisle,Marcinizyn,van der Sloot,Laduke,Williams,Berntsen,Harding,Premo,Teadt,Galbraith,Chiu
+
+Spring 2024
+
+Course number: 57498
+
+Title: BXA Studio (3rd semester)
+
+Units: 9.0
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+The streets of the race course haven't changed, but the condition of the course varies due to potholes, which can make or break a fast run. The last course records were set in 2017, but this year potholes are making for some challenging conditions, said Amy Chen, a senior in psychology who has been driving for four years.
+
+With the vehicles just inches from the ground, "even poorly filled potholes makes it dangerous to drive," she added.
+1948 – Barry Rowles (DTD Hill 5) works hard to get DTD (left) across the finish line first, edging out KapSig (right) for the trophy (from the 1949 Thistle). First “Broadcast”. 1948 is the first indication that we have of a “broadcast” on Raceday. According to the May 18, 1948 Tartan, a jeep patrolled the course and carried both the starter and a PA system, allowing the occupants of the vehicle to broadcast the race to the spectators on the course (as long as you were in range to hear the PA
+March 1 ; Event - Mini-3 Faculty Course Evaluations close Date -  March 3 ; Event - 7 M-F Spring Break; No Classes Date -  March 10 ; Day - Monday ; Event - First day of Mini-4 Classes Date -  March 11 ; Day - Tuesday ; Event - Summer 2025 Registration Opens Date -  March 12 ; Day - Wednesday ; Event - Mid-Semester & Mini-3 grades due by 4 pm Date -  March 14 ; Day
+By awarding an “I” grade, an instructor must spe cify the requirements for the completion of the
+
+work and designate a default letter grade in th e event that the student fails to complete the
+
+remaining work.
+
+Students must complete the required course work  by no later than th e end of the following
+
+academic semester or sooner if  required by the instructor.
+
+The instructor must record the permanent cours e grade by the last day of the examination
+Date -  March 4 ; Event - 8 M-F Spring Break; No Classes
+
+Date -  March 11 ; Day - Monday ; Event - First day of Mini-4 Classes
+
+Date -  March 11 ; Day - Monday ; Event - Mid-Semester & Mini-3 grades due by 4 pm
+
+Date -  March 12 ; Event - Summer 2024 Registration Opens
+
+
+Answer: 

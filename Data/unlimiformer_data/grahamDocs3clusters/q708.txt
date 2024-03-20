@@ -1,0 +1,168 @@
+Question: In which types of benchmarks has SoftMatch shown substantial improvements?
+
+Context: RLHF improves human alignment benchmarks further. From another angle, even though high- quality instruction data demonstrates large gains in capability assessment, it does not improve much on human-alignment benchmarks including LLaVA-Bench and MMHAL-BENCH, which is also evident in recent LLM studies (Wang et al., 2023). LLaVA-RLHF show a significant improvement in aligning with human values. It attains scores of 2.05 (7b) and 2.53 (13b) on MMHAL-BENCH and improves LLaVA-SFT+ by over 10% on
+Experimental results on widely-used IR bench- marks, namely MS MARCO (Nguyen et al., 2016) and TREC DL 2019 (Craswell et al., 2020) & 2020 (Craswell et al., 2021), demonstrate that FiT5 exhibits substantial improvements over traditional retrieve-and-rerank pipelines. Furthermore, FiT5 outperforms systems with more re-ranking stages and/or larger models on the MS MARCO dataset. Further analysis reveals that FiT5 effectively lever- ages ranking features through its global attention architecture,
+especially for the chal- lenging benchmark SynLiDAR→ SemanticSTF. The two 2D generalization methods both help SemanticKITTI → SemanticSTF clearly but show very limited improvement over SynLiDAR → SemanticSTF. The proposed PointDR achieves the best generalization consistently across both benchmarks, demonstrating its superior capability to learn perturbation-invariant point cloud representations and ef- fectiveness while handling all-weather 3DSS tasks.
+Title: IDeATe: Soft Fabrication Skills
+
+Units: 1.0
+
+Section: A3
+
+Days: S
+
+Start: 10:30AM
+
+End: 03:20PM
+
+Room: HL 106B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pinchuk
+
+Spring 2024
+
+Course number: 99353
+
+Title: IDeATe: Design Essentials for Laser Cutting
+
+Units: 1.0
+
+Section: A3,B3
+
+Days: S,U
+
+Start: 12:00PM
+
+End: 03:00PM
+
+Room: HL A5
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Knopf
+
+Spring 2024
+
+Course number: 99355
+
+Title: IDeATe: Introduction to Arduino
+
+Units: 1.0
+Title: Soft Robots: Mechanics, Design and Modeling
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 12:00PM
+
+End: 01:50PM
+
+Room: WEH 5302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Majidi
+
+Spring 2024
+
+Course number: 24684
+
+Title: Special Topics: Nanoscale Manufacturing Using Structural DNA Nanotechnology
+
+Units: 12.0
+
+Section: A
+
+Days: MW
+
+Start: 10:00AM
+
+End: 11:50AM
+
+Room: SH 238
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Taylor
+
+Spring 2024
+
+Course number: 24688
+Title: IDeATe: Creative Soft Robotics
+
+Units: 10.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 03:50PM
+
+Room: HL A10
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Zeglin
+
+Spring 2024
+
+Course number: 16597
+
+Title: Undergraduate Reading and Research
+
+Units: 0-48
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Riviere
+
+Spring 2024
+
+Course number: 16621
+
+Title: MSCV Project I:
+
+Units: 12.0
+
+Section: A,
+
+Days:  ,F
+
+Start:  ,11:00AM
+centered) and contrast design alternatives, within the context of specific data science application domains.
+
+Survey, interpret and comparatively criticize state of the art research talks and papers, with emphasis on constructive improvements.
+
+Organize, execute, report on, and present a real world data science project in collaboration with other researchers/programmers.
+
+Depending on the concentration, additional learning outcomes are emphasized:
+Clients meet with a c onsultant to improve the logic, clarity, and flow of writing or
+
+presentation and receive expert feedback that will strengthen a project. When making an appointment, clients upload a draft, instructor prompts, and rubrics so the consultants can use specific  criteria to give relevant feedback. See the
+
+appointment types offered here:
+
+https://www.cmu.edu/student-
+
+success/programs/communication -support/make- an-appointment.html
+3. Tutoring machines, 1973 Games and drills, such as flash cards, have long been used to help students learn tough subjects. But the cognitive tutoring programs developed at Carnegie Mellon, beginning in the 1970s, did more than simply drill students on math problems. Cognitive tutors were able to adapt, presenting harder or easier problems as students learned or stumbled. Today, cognitive tutors teach subjects such as algebra to hundreds of thousands of students every year.
+
+
+Answer: 

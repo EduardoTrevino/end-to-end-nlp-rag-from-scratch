@@ -1,0 +1,19 @@
+Question: When was Andrew project launched?
+
+Context: At this point, the project group arranged to embed links to the toolkit in each institution’s web pages and to actively promote the resource at every available opportunity. The toolkit had a ‘soft’ launch in September 2022 at an OpenFest event run by Sheffield, before being formally launched during Open Access Week in October 2022 at an event led by the University of Leeds.
+
+Discovery of OER
+
+The aims of this element of the project were to:
+Before the survey was launched, an academic colleague from the University of Sheffield, who had previously indicated an interest in the project and was willing to be a critical friend, was approached for feedback about it. Their feedback was used to make minor amendments to the survey, and it was then circulated to teaching staff in all institutions using appropriate local channels during December 2021 and January 2022.
+
+6
+
+About the participants
+The research project concluded in late 2022, with the launch of the toolkit and the submission of a final project report and recommendations for consideration by the White Rose Libraries Innovation Board. The recommendations noted that ongoing collaboration and resources will be required to maintain and update the toolkit, and also suggested that there is scope for further research and collaboration to develop other aspects of OER, in particular the searchability and visibility of OER in
+6. Andrew project, 1982 It was long the dream of computer scientists to put a workstation in every home and office, but no one had actually tried to accomplish it until researchers from Carnegie Mellon University and IBM launched the Andrew Project. Soon, every student, faculty member and employee had access to email, word processing, file-transfer services and graphics programs, and CMU was the most-wired campus in the world.
+12. Java, 1991 As a CMU grad student, James Gosling (CS’83) worked on the Andrew project, which stressed interoperability between computers, whether they were Macs, IBMs or Unix machines. Those lessons served Gosling well when he developed Java, the first programming language able to run on almost any platform.
+The best-wired campus in the world Working with IBM in the early 1980s, the university and the Computer Science Department established another new research frontier: Development of a high-speed computer network that would reach virtually every room on campus, along with a GUI-based computing environment, and providing networked PCs or workstations for 7,000 students, faculty members and employees. Called the Andrew Project, it turned Carnegie Mellon into the best-connected, most-wired
+
+
+Answer: 

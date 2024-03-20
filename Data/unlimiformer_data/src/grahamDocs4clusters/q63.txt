@@ -1,0 +1,201 @@
+Question: ICML is the abbreviation for which conference?
+
+Context: Dongyoung Go, Tomasz Korbak, Germ´an Kruszewski, Jos Rozen, Nahyeon Ryu, and Marc Dymet- man. Aligning language models with preferences through f-divergence minimization. In Interna- tional Conference on Machine Learning (ICML), 2023. URL https://openreview.net/forum? id=ttga7UlrsE.
+trillions of tokens. In International Conference on Machine Learning, ICML 2022, 17-23 July 2022, Bal- timore, Maryland, USA, volume 162 of Proceedings of Machine Learning Research, pages 2206–2240. PMLR.
+Armand Joulin and Francis Bach. A convex relaxation for weakly supervised classifiers. In Proceed-
+
+ings of the International Conference on Machine Learning (ICML). PMLR, 2012.
+
+Alex Krizhevsky et al. Learning multiple layers of features from tiny images. 2009.
+
+Dong-Hyun Lee et al. Pseudo-label: The simple and efficient semi-supervised learning method for deep neural networks. In Workshop on challenges in representation learning, ICML, pp. 896, 2013.
+Title: Music and Triads: Before/Beyond Roman Numerals in Western Music
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HOA 224
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Pukinskis
+
+Spring 2024
+
+Course number: 57560
+
+Title: Electronic Music Seminar
+
+Units: 3.0
+
+Section: A
+
+Days: R
+
+Start: 03:00PM
+
+End: 03:50PM
+
+Room: CFA A2
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Abtan
+
+Spring 2024
+
+Course number: 57570
+
+Title: Music and Technology Seminar
+
+Units: 1.0
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Weiner
+
+Spring 2024
+
+Course number: 79702
+
+Title: Graduate Research Seminar II
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: BH 246A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Weiner
+
+Spring 2024
+
+Course number: 79710
+
+Title: Transnational Histories of Labor and Work
+
+Units: 12.0
+
+Section: A
+
+Days: T
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: BH 246A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Laemmli
+Course number: 57980
+
+Title: Seminar in Music Education
+
+Units: 9.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HOA 224
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Raponi
+
+Spring 2024
+
+Course number: 57983
+
+Title: Music Education Recital/Composition/Thesis
+
+Units: 3-15
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Raponi
+
+Spring 2024
+
+Course number: 57984
+
+Title: Music Education Composition Concert
+
+Units: 3-6
+The Basketball/Volleyball Gym called Wiegand Gymnasium has a Capacity: 500
+
+The Soccer Stadium: CMU Soccer Field has a Capacity of 250 studnets with a Surface: FieldTurf
+
+Affiliation: NCAA Division III
+
+Conference: University Athletic Association | Presidents' Athletic Conference (Football Only)
+
+President: Dr. Farnam Jahanian
+
+Alma Mater, Year: University of Texas at Austin
+
+Athletic Director: Dr. Josh Centor
+
+Alma Mater, Year: Brandeis, 2004
+
+Athletic Department Phone: 412
+
+268
+
+8054
+First Non-Greek Orgs. 14 Organizations were entered for Raceday in 1948. They included all 12 fraternities (ATO, Beta, Beta Sigma Rho, DTD, DU, KapSig, PhiKap, PiKA, SAE, SigNu, Tau Delta Phi, and Theta Xi), the Men’s Dorms, and Citcom Clan (the commuters – “Citcom” is short for “CIT Commuter”). Although the Men’s Dorms were permitted to enter as far back as 1928, this is the first year that we have evidence that any organization other than a Greek actually did so. Training started in April,
+This year Fringe is planning to roll four different vehicles, built and maintained in the Fringe workshop in the basement of the East Campus Garage, known as the "Froom."
+
+"We're used to saying everything with 'fr' in front of it but when we say something in front of other people, it gets them confused," said Fringe head mechanic Dave Singh, who will graduate in May with a bachelor's degree in mechanical engineering and biomedical engineering.
+Students do not register for the LTI Orientation, nor do they receive  a grade;  however , the
+
+department is serious about its expectation that new students will attend these talks.
+
+For many years, these talks were called "the Immigration Course (IC)" , which caused confusion.
+
+The older name has been retired;  however , people who have been at CMU a long time may
+
+occasionally use the older name.
+
+4.7 End of Semester  Evaluation
+standard course, because they provide a good introduction to the broad range of research done at
+
+the LTI. Students do not register for the LTI Orientation, nor do they receive a grade; however, the department is serious about its expectation that new students will attend these talks.
+
+For many years, these talks were called "the Immigration Course (IC)." The intuition behind this
+
+name is that the talks help orient newly -arrived students – immigrants into the CMU
+The Technical Opportunities Conference (TOC) http://engineering.cmu.edu/companies/toc/  occurs every September. This conference is one of the main recruiting events each year.
+
+
+Answer: 

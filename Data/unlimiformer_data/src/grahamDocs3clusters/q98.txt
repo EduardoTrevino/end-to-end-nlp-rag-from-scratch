@@ -1,0 +1,156 @@
+Question: What is the task success rate of the GPT-4-based agent in WebArena?
+
+Context: that humans routinely perform on the internet. We experiment with several baseline agents, integrating recent techniques such as reasoning before acting. The results demonstrate that solving complex tasks is challenging: our best GPT-4-based agent only achieves an end-to-end task success rate of 14.41%, significantly lower than the human performance of 78.24%. These results highlight the need for further development of robust agents, that current state-of-the-art large language models are far
+We use this benchmark to evaluate several agents that can follow NL command and perform web- based tasks (§4). These agents are implemented in a few-shot in-context learning fashion with powerful large language models (LLMs) such as GPT-4 and PALM-2. Experiment results show that the best GPT-4 agent performance is somewhat limited, with an end-to-end task success rate of only 14.41%, while the human performance is 78.24%. We hypothesize that the limited performance of current LLMs stems from a
+Table 1: Comparison of LLM-based agents on two SocialAI environments parsed into pure text (see figure 16). The best model (gpt-4) reached the success rates of 100% on AsocialBox, and 75% on ColorBoxes. The score of 75% suggests that the model is levering the peer to choose the correct box. When tested for generalization this model reached 55% success rate implying it is not able to generalize to a novel object. These expriments demontrate how LLM-based agents can be used in the SocialAI
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Synnott
+
+Spring 2024
+
+Course number: 94815
+
+Title: Agent-Based Modeling & Digital Twins
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: HBH 1006
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rao
+
+Spring 2024
+
+Course number: 94816
+
+Title: Generative AI: Applications, Implications, and Governance
+
+Units: 6.0
+
+Section: A3
+
+Days: W
+
+Start: 06:30PM
+
+End: 09:20PM
+
+Room: HBH 2008
+
+Locations: Pittsburgh, Pennsylvania
+End: 09:30PM, ,10:00PM
+
+Room: TBA, ,TEP 2111
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Ciollaro
+
+Spring 2024
+
+Course number: 45893
+
+Title: Communicating DEI in the Workplace:
+
+Units: 6.0
+
+Section:  ,M4
+
+Days: M,
+
+Start:  ,08:15PM
+
+End: 09:30PM,
+
+Room: TBA,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Depretis
+
+Spring 2024
+
+Course number: 45895
+
+Title: Acting for Business I:
+
+Units: 6.0
+
+Section: B4,B3,A4,A3,
+
+Days:  ,TR
+
+Start: 08:00AM, ,04:00PM,10:00AM
+Title: Applied AI (Artificial Intelligence):
+
+Units: 6.0
+
+Section:  ,A3,R3
+
+Days: R,
+
+Start:  ,05:30PM
+
+End:  ,07:20PM
+
+Room: TBA, ,B23 118
+
+Locations:  ,San Jose, California
+
+Instructors: Dai
+
+Spring 2024
+
+Course number: 49780
+
+Title: Human Computer Interaction & User Experience:
+
+Units: 6.0
+
+Section: B4, ,R4
+
+Days: R,
+
+Start:  ,07:30PM
+
+End:  ,09:20PM
+
+Room: TBA, ,B23 109
+
+Locations:  ,San Jose, California
+
+Instructors: Prayaga
+
+Spring 2024
+
+Course number: 49781
+AI Innovation (11-654) – Prereq uisite is the completion of 11- 695 with a grade of “B” or
+
+better.
+
+Capstone (11-699) – Prerequisite is the completion of 11-654 with a grade of “B” or better.
+
+Students are required to repeat any required cour se that they have completed with a grade less
+
+than the required minimum, preferably at the nex t offering. (Please note that Core courses and
+
+Knowledge courses are only offered once per year.) Students will be  allowed to retake a required
+https://www.cmu.edu/student-success/ The Student Academic Success Center’s (SASC) work to support success focuses on creating spaces for students to engage in their coursework and approach to learning through many group and individual program options. SASC supports student success by providing academic coaching, subject-specific tutoring, effective communication strategies, accommodations for students with disabilities, and language support for multilingual learners.
+4.1.4  Pass/Fail Grades ...................................................................................................................... 25
+
+4.1.5  Transfer Credit  ........................................................................................................................ 25
+
+4.1.6  Residency Requirements  ...................................................................................................... 25
+
+
+Answer: 

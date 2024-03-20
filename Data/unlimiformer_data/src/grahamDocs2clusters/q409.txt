@@ -1,0 +1,43 @@
+Question: In summer 2024, When do Mini-5 Final Exams take place?
+
+Context: We follow Liu et al. (2022) to choose k-NN exam- ples from the training corpus. The demonstrations are encoded by all-MiniLM-L6-v2. For LMs with maximum context length as 2048, we set k to 32; and for LMs with maximum context length as 1024, we set k to 16.
+
+We conduct other baselines with the code imple- mented by Meng et al. (2022a). 1 We simply add the preﬁx Prompt: in prompts and report the re- sults conducted by us.
+
+A.2.1 Demonstration Formatting
+
+B Details of COUNTERFACT Dataset
+The third round of interviews was conducted in July and August 2022, and coincided with the soft launch of the beta version of the toolkit. The purpose was to gather feedback to help us refine and finalize the toolkit in preparation for a full launch in the autumn. Five interviews were conducted with participants from all three institutions. This round proved to be very valuable with regard to the functionality of the website and what content we should include or exclude. We asked our
+Table 4. MiniImageNet 5-shot 5-way test results, 95% confi- dence intervals and embedding radii.
+
+Clipping value 2.0 3.0 4.0
+
+Test acc 62.21 ± 0.24 65.04 ± 0.24 66.26 ± 0.23
+
+rmin 1.873 2.618 3.191
+
+ravg 1.877 2.618 3.191
+
+rmax 1.877 2.618 3.191
+
+Table 5. Effect of feature clipping before the exponential map. CUB 200 2011 1-shot 5-way test results, 95% confidence inter- vals and embedding radii in P d
+
+k for d = 1024 and k = −0.05.
+
+resulting in a chordal metric on a sphere.
+Event - Mini-5 Final Exams Date -  June 21 ; Day - Friday ; Event - Mini-5 Faculty Course Evaluations close Date -
+Date -  June 21 ; Day - Friday ; Event - Mini-5 Final Exams
+
+Date -  June 21 ; Day - Friday ; Event - Mini-5 Faculty Course Evaluations close
+
+Date -  June 24 ; Day - Monday ; Event - Mini-6 First Day of Classes
+
+Date -  June 25 ; Event - Mini-5 Final Grades Due by 4 pm
+
+Date -  June 28 ; Day - Friday ; Event - Mini-6 add, audit, & tuition adjustment drop deadline (1)
+
+Date -  July 4 ; Event - Independence Day; University Closed & No Classes
+deadline Date -  June 19 ; Event - Juneteenth; University Closed & No Classes Date -  June 20 ; Day - Friday ; Event - Summer One & Mini-5 Final Exams Date -  June 20 ; Day - Friday ; Event - Summer One & Mini-5
+
+
+Answer: 

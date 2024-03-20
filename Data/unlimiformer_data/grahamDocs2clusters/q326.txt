@@ -1,0 +1,45 @@
+Question: Is Yonatan the last author on the plan, eliminate and track paper?
+
+Context: Paper title: 'Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: So Yeon Min, Shrimai Prabhumoye, R. Salakhutdinov, Tom M. Mitchell, Yue Wu, Yonatan Bisk, A. Azaria, Yuan-Fang Li Summary: A framework to use the knowledge in LLMs to simplify the control problem, rather than solving it is proposed, which leads to a significant 15% improvement over SOTA for generalization to human goal
+3 2 0 2
+
+y a M 7
+
+] L C . s c [
+
+2 v 2 1 4 2 0 . 5 0 3 2 : v i X r a
+
+Plan, Eliminate, and Track — Language Models are Good Teachers for Embodied Agents.
+
+Yue Wu 1 So Yeon Min 1 Yonatan Bisk 1 Ruslan Salakhutdinov 1 Amos Azaria 2 Yuanzhi Li 1 3 Tom M. Mitchell 1 Shrimai Prabhumoye 4
+Paper title: 'WebArena: A Realistic Web Environment for Building Autonomous Agents' Published year: 2023 Publication venue or conference: arXiv.org Authors: Robert Lo, Frank F. Xu, Shuyan Zhou, Xuhui Zhou, Hao Zhu, Uri Alon, Daniel Fried, Abishek Sridhar, Graham Neubig, Yonatan Bisk, Xianyi Cheng Summary: This paper builds an environment for language-guided agents that is highly realistic and reproducible, and creates an environment with fully functional websites from four common domains:
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+notice of this finding, including a list of meas ures that need to be tak en to be removed from 13
+
+academic probation. A student on academic pr obation for two consecutive semesters may be
+
+dropped from the program.
+
+The MSAII program conducts an academic progress re view at the conclusion of each semester in
+
+order to monitor individual student progress towa rd graduation. Should a student’s effort fall
+Language Technologies Institute - Faculty Name: Jamie Callan Email: callan@cs.cmu.edu Office: 5419 Gates & Hillman Centers Research Areas: Information Retrieval, Text Mining and Analytics Phone: 412-268-4525
+
+Language Technologies Institute - Faculty Name: Justine Cassell Email: jcassell@andrew.cmu.edu Office: 5107 Gates & Hillman Centers Phone: 412-204-6268
+
+Language Technologies Institute
+
+Faculty
+
+Name: Mona Diab
+
+Email: mdiab@andrew.cmu.edu
+
+Phone: 412
+
+268
+
+3669
+
+
+Answer: 

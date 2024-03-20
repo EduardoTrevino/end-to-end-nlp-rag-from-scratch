@@ -1,0 +1,123 @@
+Question: What is Yonatan Bisk's research area?
+
+Context: Hao Zhu, Graham Neubig, and Yonatan Bisk. Few-shot language coordination by modeling theory of mind. In International Conference on Machine Learning, pp. 12901–12911. PMLR, 2021.
+
+Hao Zhu, Yonatan Bisk, and Graham Neubig. Simulated language learning through communicative goals and linguistic input. Proceedings of the Annual Meeting of the Cognitive Science Society, 44:1351–1358, 2022.
+
+A APPENDIX
+
+A.1 FULL EFFECTS OF DISTRACTOR DIFFICULTY
+10
+
+Under review
+
+Yonatan Bisk, Jan Buys, Karl Pichotta, and Yejin Choi. Benchmarking hierarchical script knowledge. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pp. 4077–4085, Minneapolis, Minnesota, 2019. Association for Computational Linguistics. doi: 10.18653/v1/N19-1412. URL https://aclanthology.org/N19-1412.
+Yonatan Bisk, Rowan Zellers, Ronan Le Bras, Jianfeng Gao, and Yejin Choi. PIQA: reasoning In Proceedings of the Thirty-Fourth AAAI about physical commonsense in natural language. Conference on Artificial Intelligence, AAAI, pages 7432–7439, New York, NY, USA, 2020.
+
+[CCE+18]
+Room: POS A35
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bisk
+
+Fall 2023
+
+Course number: 11910
+
+Title: Directed Research:
+
+Units: 1-48
+
+Section: A, ,PP
+
+Days: TBA,
+
+Start: ,
+
+End: ,
+
+Room: TBA,
+
+Locations:  ,Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Fall 2023
+
+Course number: 11920
+
+Title: Independent Study: Breadth
+
+Units: 1-48
+
+Section: E,I,AC,BC,AD,AE,F,CC,D,AH,U,BD,PP,BB,AW,P,C,EE,DD,J,AV,AB,A,S,K,Y,SS,W,B,T,AI,H,L,M,R,AA,N,O,Q,X,Z,G,AJ,QQ,AF,V
+
+Days: TBA
+Instructors: Bisk,Yang,Eskenazi,Gormley,Mortensen,Waibel,Brown,Lee,Cassell,Sycara,Morency,Frederking,Rosenfeld,Kolter,Instructor TBA,Poczos,Salakhutdinov,Mitamura,Lipton,Mostow,Berg-Kirkpatrick,Levin,Cohen,Oh,Strubell,Fahlman,Hauptmann,Callan,Mitchell,Xing,Nyberg,Neubig,Smith,Young,Tsvetkov,Rose,Stern,Rudnicky,Ramakrishnan,Watanabe,Hong,Tomasic
+
+Spring 2024
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+
+Instructors: Wu,Bisk,Mortensen,Instructor TBA,Strubell,Fried,Watanabe,Xiong,Neubig,Morency
+
+Fall 2023
+
+Course number: 11925
+
+Title: Independent Study: Area
+
+Units: 1-48
+
+Section: E,I,AC,AD,F,AM,D,AH,AN,U,PP,BB,AP,A0,AL,P,C,EE,DD,J,AB,A,S,K,Y,SS,W,B,T,AI,H,L,M,R,AA,O,Q,X,Z,G,AJ,N,V,AK
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+Ben Matzke is one such passionate alumnus. A 2011 mechanical engineering graduate, Matzke, former chair of the student group CIA (Carnegie Involvement Association), is chair of the Buggy Alumni Association's Centennial Planning Committee. He attended the first rolls to officially kick off the 100th anniversary season.
+Fringe vehicles often are named with the letter "B," like Boson, Blueshift, Bissa and Bumper. Other teams, such as Apex, often use names that connotate fire, while the SDC (Student Dormitory Committee) team, uses names such as Vice, Bane, Avarice and Malice.
+
+This year's buggy names will be under wraps until Thursday, when the Buggy Showcase will take place from noon to 2 p.m. in Weigand Gymnasium in the Cohon University Center. It's one of the few times spectators can see buggies up close.
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+Language Technologies Institute - Faculty Name: Bhiksha Ramakrishnan Email: bhiksha@cs.cmu.edu Office: 6705 Gates & Hillman Centers Research Areas: Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy Phone: 412-268-9826
+Language Technologies Institute - Faculty Name: Jamie Callan Email: callan@cs.cmu.edu Office: 5419 Gates & Hillman Centers Research Areas: Information Retrieval, Text Mining and Analytics Phone: 412-268-4525
+
+Language Technologies Institute - Faculty Name: Justine Cassell Email: jcassell@andrew.cmu.edu Office: 5107 Gates & Hillman Centers Phone: 412-204-6268
+
+Language Technologies Institute
+
+Faculty
+
+Name: Mona Diab
+
+Email: mdiab@andrew.cmu.edu
+
+Phone: 412
+
+268
+
+3669
+
+
+Answer: 

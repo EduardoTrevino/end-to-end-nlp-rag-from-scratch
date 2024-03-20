@@ -1,0 +1,43 @@
+Question: What type of requests will aligned text models refuse to answer?
+
+Context: Large language models are now tuned to align with the goals of their creators, namely to be “helpful and harmless.” These models should respond helpfully to user questions, but refuse to answer requests that could cause harm. However, adversarial users can construct inputs which circumvent attempts at alignment. In this work, we study to what extent these models remain aligned, even when interacting with an adversarial user who constructs worst-case inputs (adversarial examples). These inputs
+Non-Evasiveness Alignment Sometimes, due to iterative safety alignment training, the RLHF- trained model (e.g., LLaMA-2-Chat; Touvron et al. (2023b)) can be over-aligned such that it would incorrectly refuse to answer a question that it should, for example, due to overly broad instructions to be cautious in how it provides responses. In this work, we investigate whether it is possible to reduce the false refusal rates of these over-aligned AI agents by defining customized principles.
+are designed to cause the model to emit harmful content that would otherwise be prohibited. We show that existing NLP-based optimiza- tion attacks are insufficiently powerful to reliably attack aligned text models: even when current NLP-based attacks fail, we can find adversarial inputs with brute force. As a result, the failure of current attacks should not be seen as proof that aligned text models remain aligned under adversarial inputs.
+Fall 2:
+
+Conversational Interfaces
+
+MIIS Capstone Project
+
+Example Course of Study #3 This example would satisfy course requirements for a student interested in text mining, text analytics and question-answering systems who has petitioned to have the summer internship waived.
+
+Fall 1: - Search Engines - Analysis of Social Media - Design and Engineering of Intelligent Systems - Directed Study
+
+Spring:
+
+Machine Learning
+
+Natural Language Processing
+
+Question Answering
+
+Directed Study
+to serve as an advisor, and then make a  request to the Program Director to switch advisors. The
+
+LTI follows the long -standing SCS policy that both the new and old advisors need to agree to the
+
+change; typically, this is not a problem ( assuming the new advisor has agreed in advance, as
+
+described  here ). It is to the student's advantage to avoid switching advisors, especially late in
+
+their graduate studies, because forging a strong student- advisor relationship takes time.
+possible to change advisors. To do so, the student should find another faculty member willing to
+
+serve as an advisor, and then make a request to the Program Director to switch advisors. The LTI
+
+follows the long- standing SCS policy that both the new and old advisors need to agree to the
+
+change; typically, this is not a problem (assuming the new advisor  has agreed in advance, as
+
+
+Answer: 

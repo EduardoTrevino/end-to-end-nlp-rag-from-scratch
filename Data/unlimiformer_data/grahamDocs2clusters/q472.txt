@@ -1,0 +1,179 @@
+Question: What is the title for 11737?
+
+Context: Start: 12:30PM
+
+End: 01:50PM
+
+Room: WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Levin
+
+Fall 2023
+
+Course number: 11726
+
+Title: Meaning in Language Lab (Self Paced)
+
+Units: 6.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11737
+
+Title: Multilingual Natural Language Processing.
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: DH 1212
+
+Locations: Pittsburgh, Pennsylvania
+Course number: 11637
+
+Title: Foundations of Computational Data Science
+
+Units: 12.0
+
+Section: A
+
+Days: M
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Fall 2023
+
+Course number: 11641
+
+Title: Machine Learning for Text and Graph-based Mining
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Yang
+
+Fall 2023
+
+Course number: 11642
+
+Title: Search Engines
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Shamos
+
+Spring 2024
+
+Course number: 11637
+
+Title: Foundations of Computational Data Science:
+
+Units: 12.0
+
+Section: A,
+
+Days: M,
+
+Start:  ,02:00PM
+
+End:  ,03:20PM
+
+Room:  ,DNM DNM
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Rose
+
+Spring 2024
+
+Course number: 11642
+
+Title: Search Engines
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: GHC 4401
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Callan
+
+Spring 2024
+Information regarding the application of Title IX, including to admission and employment decisions, the sexual misconduct grievance procedures and process, including how to file a report or a complaint of sex discrimination, how to file a report of sexual harassment, and how the university responds to such reports is available at www.cmu.edu/title-ix . The Title IX 10coordinator may be reached at 412-268-7125 or tix@cmu.edu .
+
+1.7 The Carnegie Mellon Code
+Office of Title IX Initiatives, http://www.cmu.edu/title-ix/ , 412-268-7125
+
+Sexual Harassment Advisors, found in A ppendix A of the Policy Against Sexual
+
+Harassment and Sexual Assault;
+
+Survivor Support Network, found in A ppendix B of the Policy Against Sexual
+
+Harassment and Sexual Assault;
+
+Sexual Harassment Process and Title IX Coordina tors, found in section II of the Policy
+
+Against Sexual Harassment and Sexual Assault;
+
+University Police, 412-268-2323
+Information regarding the application of Title IX, including to admission and employment
+
+decisions, the sexual misconduct grievance procedures and process, including how to file a
+
+report or a complaint of sex discrimination, how to file a report of sexual harassment, and how
+
+the university responds to such reports is available at www.cmu.edu/title -ix. The Title IX
+
+coordinator may be reached at 5000 Forbes Ave., 140 Cyert Hall, Pittsburgh, PA 15213; 412 -268-
+
+
+Answer: 

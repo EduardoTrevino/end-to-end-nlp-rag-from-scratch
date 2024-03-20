@@ -1,0 +1,61 @@
+Question: How many people from CMU co-authored the paper Multi-lingual and Multi-cultural Figurative Language Understanding?
+
+Context: Paper title: 'Multi-lingual and Multi-cultural Figurative Language Understanding' Published year: 2023 Publication venue or conference: Annual Meeting of the Association for Computational Linguistics Authors: Alham Fikri Aji, Samuel Cahyawijaya, Perez Ogayo, Anuoluwapo Aremu, Graham Neubig, Anubha Kabra, Genta Indra Winata, Simran Khanuja, Emmy Liu Summary: This work assesses multilingual LMs' abilities to interpret figurative language in zero-shot and few-shot settings, and reveals that each
+Multi-lingual and Multi-cultural Figurative Language Understanding
+
+Anubha Kabra1∗, Emmy Liu1∗, Simran Khanuja1∗, Alham Fikri Aji2, Genta Indra Winata3, Samuel Cahyawijaya4, Anuoluwapo Aremu5, Perez Ogayo1, Graham Neubig1
+
+1Carnegie Mellon University 2MBZUAI
+
+3Bloomberg 4HKUST 5Masakhane
+
+Abstract
+
+Figurative Expression
+
+Inference
+
+1
+2 Linguistic and Cultural Biases of
+
+Existing Figurative Language Datasets
+
+To confirm the importance of building a multi- lingual, multi-cultural figurative language dataset, we first performed a pilot study to examine the fea- sibility of instead translating an existing figurative language dataset, Fig-QA (Liu et al., 2022), from
+
+Lang.
+
+fr
+
+hi
+
+ja
+
+Incorrect Culturally irrelevant
+
+13% 40% 21% 17% 20% 17%
+in the Cohon University Center Room 304 or become a representative for your department.
+
+A.1.8  Language and Cross- Cultural Support
+
+More than 60% of graduate students at Carnegie Mellon are international students, and others are nonnative speakers of English who have attended high school or undergraduate programs
+
+in the US. Many of these students want to hone their language and cross -cultural skills for
+
+academic and professional success. Students can choose from sessions on:
+Language Technologies Institute - Faculty Name: Bhiksha Ramakrishnan Email: bhiksha@cs.cmu.edu Office: 6705 Gates & Hillman Centers Research Areas: Machine Learning, Multimodal Computing and Interaction, Speech Processing, Spoken Interfaces and Dialogue Processing, Privacy Phone: 412-268-9826
+https://www.cmu.edu/student- success/calendar.html
+
+o Resources:  An online collection of handouts and videos that concisely explain
+
+specific communication strategies are available. https://www.cmu.edu/student-
+
+success/other -resources/index.html
+
+A.2.4.2  Language and Cross -Cultural Support
+
+More than 60% of graduate students at Carnegie Mellon are international students, and other s
+
+are non -native speakers of English who have attended high school or undergraduate programs
+
+
+Answer: 

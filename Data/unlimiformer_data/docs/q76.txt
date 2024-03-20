@@ -1,0 +1,225 @@
+Question: When did the official mascot of Carnegie Mellon debut?
+
+Context: 3 2 0 2
+
+y a M 7
+
+] I
+
+A . s c [
+
+1 v 4 5 1 4 0 . 5 0 3 2 : v i X r a
+
+Score: A Rule Engine for the Scone Knowledge Base System
+
+Jeffrey Chen
+
+CMU-CS-21-116
+
+May 2021
+
+Computer Science Department School of Computer Science Carnegie Mellon University Pittsburgh, PA 15213
+
+Thesis Committee: Scott E. Fahlman, Carnegie Mellon University Computer Science Department and Language Technologies Institute
+
+Alessandro Oltramari Bosch Research & Technology Center, Pittsburgh
+that can answer basic queries about the stored knowl- edge [6]. Scone is implemented in Common Lisp and has been under development in Carnegie Mellon University’s (CMU’s) Language Technologies Institute since around 2003. A tutorial book on the design and usage of Scone is in the process of being written. Until it is published, more information about Scone can be found in Fahlman’s Knowledge Nuggets blog [8].
+In the USA, researchers from Carnegie Mellon University and Notre Dame, published in 2017 the article entitled “A computer game that promotes mathematics learning more than a conventional approach,” which unveils a practical work that generates evidence that a mathematical educational game can help with learning alternatives, which manages to make learning mathematics more entertaining. The program “Decimal Point” is a single-player game that recreates the amusement park and is oriented to
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Spring 2024
+
+Course number: 84110
+
+Title: Foundations of Political Economy
+
+Units: 9.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 145
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Counselman
+
+Spring 2024
+
+Course number: 84198
+
+Title: Research Training: Carnegie Mellon Institute for Strategy and Technology
+
+Units: 6,9
+
+Section: A,B
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Start: 08:00AM,12:30PM,02:00PM
+
+End: 09:20AM,01:50PM,03:20PM
+
+Room: TEP 3808
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Jafry O'Connor
+
+Fall 2023
+
+Course number: 70311
+
+Title: Organizational Behavior
+
+Units: 9.0
+
+Section: A,C,B,W
+
+Days: MW,TR
+
+Start: 08:00AM,11:30AM,03:30PM,02:00PM
+
+End: 09:20AM,12:45PM,04:50PM,03:20PM
+
+Room: TEP 2700,CMB 1190
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Rulke,Haan,Hahl
+
+Fall 2023
+
+Course number: 70321
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wasson
+
+Fall 2023
+
+Course number: 19690
+
+Title: M.S. Project
+
+Units: 3-12
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Matthews
+
+Fall 2023
+
+Course number: 19691
+
+Title: Special Topics: Decision-Making Methods for Innovation Management
+
+Units: 6.0
+
+Section: A2
+
+Days: F
+
+Start: 09:00AM
+
+End: 11:50AM
+
+Room: PH A18B
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wasson
+
+Fall 2023
+Carnegie Mellon's official mascot debuted at the Nov. 10, 2007 home football game. The graphic features a profile of a distinguished, bold Scottish terrier sporting a plaid scarf around his neck. The dog is contained in a shield, representing Carnegie Mellon's Scottish heritage.
+
+The Task Force then partnered with a mascot costume company to design our Scottish terrier in the winter of 2007. The official Scotty costume was unveiled at the 2008 Spring Carnival.
+Scotty's road from popular icon to official mascot of the university began in 2006. Carnegie Mellon formed a Mascot Identity Task Force in November 2006, which consisted of students, faculty, staff and alumni. The Task Force was co-chaired by Director of Athletics Susan Bassett and Dean of Student Affairs Jennifer Church.
+Official Mascot? More than a century after Carnegie Mellon University opened its doors, an official mascot finally made its mark. Although students have dressed as a Scottish terrier — typically referred to as Scotty — for 50 years, it wasn't until 2007 that Carnegie Mellon officially welcomed the Scottish terrier as the university's first mascot.
+2024-2025 OFFICIAL Academic Calendar Carnegie Mellon University Proposed: 13 June 2023 Approved: 4 December 2023 Updated: 4 December 2023
+
+Semester : (M
+
+13, T
+
+13, W
+
+13, Th
+
+13, F
+
+13) Total=65
+
+Mini
+
+1: (M
+
+6, T
+
+7, W
+
+7, Th
+
+7, F
+
+7) Total=34
+
+Mini
+
+2: (M
+
+7, T
+
+6, W
+
+6, Th
+
+6, F
+
+6) Total=31
+In 1967, Carnegie Tech merged with the Mellon Institute, a science research center founded by the Mellon family of Pittsburgh, to become known as Carnegie Mellon University. The merger built upon a long history of support from the Mellons. It allowed Carnegie Mellon to establish the last of its current pillars: the Mellon College of Science and the College of Humanities and Social Sciences, now known as Marianna Brown Dietrich College of Humanities and Social Sciences. In 2017, Carnegie Mellon
+2023-2024 OFFICIAL Academic Calendar - DOCTORAL Course-Sections Only Carnegie Mellon University
+
+Semester : (M-13, Tu-13, W-13, Th-13, F-13) Total=65
+
+Mini-1 : (M-6, Tu-7, W-7, Th-7, F-7) Total=34
+
+Mini-2 : (M-7, Tu-6, W-6, Th-6, F-65) Total=31
+
+Date Day Event
+
+Date -  August 28 ; Day - Monday ; Event - Semester & Mini-1 Classes Begin
+
+Date -  September 1 ; Day - Friday ; Event - Mini-1 add, audit & tuition adjustment drop deadline (1)
+
+
+Answer: 

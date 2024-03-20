@@ -1,0 +1,63 @@
+Question: Who are the authors of the book "The Last Lecture"?
+
+Context: Librarians tend to look askance at commentators on their work and pro- fession from outside the guild. Henry Petroski, an engineer, wrote Book on the Bookshelf (1999), looking at the practical construction principles of bookshelves through history, and was never taken seriously by librar- ians—perhaps also in light of his (joking?) recommendations to arrange books on bookshelves by the author’s first name, or by the first letter of the second-to-last word of the title. Umberto Eco’s Name of the
+We present an alternative view of data, similar to that seen in Figure 1, in Figure 4. Here, we define members of the community as authors with at least three papers total in *CL venues. Authors are counted as “leaving” the community the year after their last *CL publication. We only consider trends in authorship until 2020, as it is difficult to determine if authors who did not publish in the last few years have left the community indefinitely.
+Baldoni, Paola Flocchini, and Binoy Ravindran, editors, Principles of Distributed Systems, 16th International Conference, OPODIS 2012, Rome, Italy, December 18-20, 2012. Proceedings, volume 7702 of Lecture Notes in Computer Science, pages 224–238. Springer, 2012. doi:10.1007/978-3-642-35476-2\_16. Pierre Fraigniaud, Amos Korman, and David Peleg. Towards a complexity theory for local distributed computing. J. ACM, 60(5):35:1–35:26, 2013. doi:10.1145/2499228.
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+Awards® , co-creating the first,
+
+national recognition program
+
+honoring K-12 theatre educators The first smile in an email , created
+
+in 1982 by professor Scott Fahlman
+
+Kevlar Fiber , invented by alumna
+
+Stephanie Kwolek (MM 1946)
+
+The Last Lecture , written
+
+by alumni Randy Pausch (SCS 1988)
+
+and Jeffrey Zaslow (DC 1980)
+
+In 1919, CMU’s first Ph.D.  was
+
+awarded to Mao Yisheng, father
+
+of Chinese bridge construction.
+
+Duolingo , invented by professor
+
+Luis von Ahn (CS 2003, 2005), had
+April 14 ; Day - Monday ; Event - Semester & Mini-4 Faculty Course Evaluations open Date -  April 25 ; Day - Friday ; Event - Last Day of Classes Date -  April 25 ; Day - Friday ; Event - Semester & Mini-4 voucher deadline (4) Date -  April 28 ; Event - 29 M-Tu Final Examinations Date -  April 30 ; Day - Wednesday ; Event - Reading Day Date -  May 1 ; Event - 2 Th-F Final Examinations Date -  May 3 ; Event - 4 Sa-Su Reading Days Date -  May 5 ; Day - Monday ; Event - Final Examinations Date -
+
+
+Answer: 

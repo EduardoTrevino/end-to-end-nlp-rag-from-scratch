@@ -1,0 +1,178 @@
+Question: What loss functions are proposed in the Fairness Continual Learning approach?
+
+Context: Furthermore, through the optimization of the loss function, we observe a further 3.7% increase in detection accuracy while maintaining consistent detection speed. This underlines the success of the proposed loss function in prioritizing high-score prediction bounding boxes and diminishing the inﬂuence of redundant bounding boxes during subsequent screening.
+
+7 Application prospect
+2019) to prevent the model from becoming overly conﬁ- dent. In this work, we propose a loss function with soft labeling that connects contrastive learning and entropy regularization (Grandvalet and Bengio, 2004).
+where λ (respectively, θ) are the parameters of meta (base) learners, Dmeta (Dbase) are meta (base) datasets, and Lmeta (Lbase) are meta (base) loss functions. An important implication of the above formulation is that meta learning changes the task of finding the optimal inductive biases from designing heuristics to designing meta optimization problems. As an example, consider the problem of finding the optimal inductive bias for fair classification given class-imbalanced training data. A
+Instructors: Wells
+
+Spring 2024
+
+Course number: 82288
+
+Title: Everyday Learning: Designing Learning Exp in Times of Unrest & Uncertainty
+
+Units: 6.0
+
+Section: A4
+
+Days: TR
+
+Start: 12:30PM
+
+End: 01:50PM
+
+Room: TEP 1024
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Caspar
+
+Spring 2024
+
+Course number: 82292
+
+Title: Intermediate Russian II
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: BH 154A
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kats
+
+Spring 2024
+Course number: 11485
+
+Title: Introduction to Deep Learning
+
+Units: 9.0
+
+Section: A,B,Lec
+
+Days: TBA,F,MW
+
+Start: ,08:00AM
+
+End: ,09:20AM
+
+Room: BH A51,DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Fall 2023
+
+Course number: 11490
+
+Title: LTI Minor Project - Seniors
+
+Units: 12.0
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Fall 2023
+
+Course number: 11590
+Days: MWF,UMTW
+
+Start: 09:30AM,04:00PM
+
+End: 10:50AM,05:15PM
+
+Room: CMB 2049,TEP 1308
+
+Locations: Doha, Qatar,Pittsburgh, Pennsylvania
+
+Instructors: Balcan,Di Caro
+
+Fall 2023
+
+Course number: 10414
+
+Title: Deep Learning Systems: Algorithms and Implementation
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: TEP 1403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kolter, Chen
+
+Fall 2023
+
+Course number: 10417
+
+Title: Intermediate Deep Learning
+
+Units: 12.0
+
+Section: A
+review sessions on course materials outside th e classroom. SI is a non-remedial approach
+
+to learning as the program targets high-risk  courses and is available in select courses
+
+based on data related to past stu dent performance and feasibility.
+
+Peer Tutoring:  Weekly Tutoring Appointments are offered in a one-on-one and small
+
+group format to students from any discipli ne who need assistance with a course that may
+Carnegie Mell on University will have a transformative impact on society through continual
+
+innovation in education, research, creativity, and entrepreneurship.
+
+MLT Graduate Student Handbook  Page 10
+
+1.8 Mission
+
+To create a transformative educational experience for students focused on deep disciplinary
+
+knowl edge; problem solving; leadership, communication, and interpersonal skills; and personal
+
+health and well -being.
+Carnegie Mellon University will have a transfor mative impact on society through continual
+
+innovation in education, research, creativity, and entrepreneurship.
+
+Our mission is to create a transformative educatio nal experience for students focused on deep
+
+disciplinary knowledge; problem solving; teamwork, leadership, communication, and
+
+interpersonal skills; and pers onal health and well-being.
+
+The university community is committed to (a) at tracting and retaining diverse, world-class
+
+
+Answer: 

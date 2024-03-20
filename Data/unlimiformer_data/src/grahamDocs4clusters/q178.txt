@@ -1,0 +1,197 @@
+Question: In fall 2023, Who are the instructors for unit 02512?
+
+Context: Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong. 2023a. Compositional ex- emplars for in-context learning. arXiv preprint arXiv:2302.05698.
+
+Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo. 2023b. In-context instruction learning. arXiv preprint arXiv:2302.14691.
+
+Yiming Zhang, Shi Feng, and Chenhao Tan. 2022a. Active example selection for in-context learning. CoRR, abs/2211.04486.
+Renze Lou, Kai Zhang, and Wenpeng Yin. 2023. Is prompt all you need? no. a comprehensive and broader view of instruction learning. ArXiv, abs/2303.10475.
+
+Ximing Lu, Sean Welleck, Liwei Jiang, Jack Hessel, Lianhui Qin, Peter West, Prithviraj Ammanabrolu, and Yejin Choi. 2022a. Quark: Controllable text generation with reinforced unlearning. CoRR, abs/2205.13636.
+[28] R. Wang, Q. Bai, J. Ao, L. Zhou, Z. Xiong, Z. Wei, Y. Zhang, T. Ko, and H. Li, “LightHuBERT: Lightweight and Configurable Speech Representation Learning with Once-for-All Hidden-Unit BERT,” in Proc. Interspeech, 2022.
+
+[29] H. Cai, C. Gan, T. Wang, Z. Zhang, and S. Han, “Once-for-all: Train one network and specialize it for efficient deployment,” in Proc. ICLR, 2020.
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: HH B131
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Carja, Schwartz
+
+Fall 2023
+
+Course number: 02518
+
+Title: Computational Medicine
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 5403
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Wu
+
+Fall 2023
+
+Course number: 02601
+
+Title: Programming for Scientists
+
+Units: 12.0
+
+Section: A,Lec
+
+Days: F,MW
+
+Start: 03:30PM
+
+End: 04:50PM
+
+Room: POS 152
+Instructors: Wang,Johnson,Newstead,Burch,Grover,Raanes,Cho,Mittal,Demirkoparan,Xu,Beard,Ingimarson,Han
+
+Fall 2023
+
+Course number: 21128
+
+Title: Mathematical Concepts and Proofs
+
+Units: 12.0
+
+Section: A,C,B,Lec
+
+Days: MWF,TR
+
+Start: 04:00PM,01:00PM,10:00AM,11:00AM
+
+End: 11:50AM,10:50AM,01:50PM,04:50PM
+
+Room: BH A51,BH 237B,WEH 4709,WEH 5409
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA,Mackey
+
+Fall 2023
+
+Course number: 21201
+
+Title: Undergraduate Colloquium
+
+Units: 1.0
+Instructors: Ippolito, Xiong
+
+Fall 2023
+
+Course number: 11685
+
+Title: Introduction to Deep Learning
+
+Units: 12.0
+
+Section: A,M,R,B,Lec,
+
+Days: MWF,F,MW
+
+Start: 08:00AM,02:35PM
+
+End: 09:20AM,03:55PM
+
+Room: BH A51,CMU REMOTE
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors:  ,Singh, Ramakrishnan,Ramakrishnan, Singh
+
+Fall 2023
+
+Course number: 11690
+
+Title: MIIS Directed Study
+
+Units: 1-48
+
+Section: C
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+Tishya Girdhar, a junior in neuroscience, is social chair for Fringe. She came to CMU wanting to drive, but first she had to get over being claustrophobic. She started as a mechanic and got behind the wheel for last year's Sweepstakes.
+
+"Our team's philosophy is to teach everyone how to do everything," Girdhar said. "But I came to CMU wanting to drive. I wanted to drive so badly."
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+Department Quick Facts about Enrollment, Capacity, and general facts about Carnegie Mellon University(CMU)
+
+Name of School: Carnegie Mellon University
+
+City/Zip: Pittsburgh, PA 15213
+
+Founded: 1900
+
+Enrollment (undergrad): 6,982
+
+Fall 2021
+
+Enrollment (graduate and doctoral): 7,062 - Fall 2021
+
+Alumni: 102,577
+
+Nickname: Tartans
+
+Mascot: Scottie Dog
+
+School Colors: Cardinal and Gray
+
+The Football Stadium and Track and Field: Gesling Stadium has Capacity 3,500 with Surface: FieldTurf
+11-935 – LTI Practicum (3 units). Summer Internship  11-654 – AI Innovation (12 units). Seco nd Fall semester. Only open to MSAII.
+
+11-699 – Capstone Project (36 units). Second Spring  semester. Only open  to MSAII.
+
+3) The Knowledge Area Courses (72 units):
+
+11-601, Coding Bootcamp (12 un its). First fall semester.
+
+10-601, Machine Learning (12 units), First fall semester. (Normally
+
+11-691, Math for Machine Learni ng, which is not being offered in Fall 2022.)
+https://www.cmu.edu/graduate/policies /appeal-grievance-procedures.html .
+
+Final grades will be changed only in exceptiona l circumstances and only with the approval of
+
+the instructor and the department, unit or prog ram. Grading is a matter of  sound discretion of
+
+the instructor and final grades are rarely ch anged without the consent of the instructor who
+
+assigned the grade. The following circumstances are the unusual exceptions that may warrant a
+5.5 Process for Appealing Final Grades
+
+Final grades will be changed only in exceptional circumstances and only with the approval of the instructor and the department, unit or program. Grading is a matter of sound discretion of
+
+the instructor and final grades are rarely changed without the consent of the instructor who
+
+
+Answer: 

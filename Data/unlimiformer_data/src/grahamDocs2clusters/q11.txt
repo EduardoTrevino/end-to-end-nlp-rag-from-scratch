@@ -1,0 +1,33 @@
+Question: At what conference was "Fully Unsupervised Topic Clustering of Unlabelled Spoken Audio Using Self-Supervised Representation Learning and Topic Model" published?
+
+Context: [14] M. Caron et al., “Deep clustering for unsupervised learning of visual features,” in Proceedings of the European conference on computer vision (ECCV), 2018, pp. 132–149.
+
+[15]
+
+J. Devlin et al., “BERT: Pre-training of deep bidirectional transformers for language understanding,” in Proc. ACL, 2019, pp. 4171–4186.
+
+[16] H.-J. Chang, S.-w. Yang, and H.-y. Lee, “DistilHuBERT: Speech representation learning by layer-wise distillation of hidden-unit BERT,” in Proc. ICASSP, 2022.
+[21] E. Fonseca, D. Ortego, K. McGuinness, N. E. O’Connor, and X. Serra. Unsupervised contrastive learning of sound event representations. In ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021. doi: 10.1109/ICASSP39728.2021. 9415009.
+Junyuan Xie, Ross B. Girshick, and Ali Farhadi. 2015. Unsupervised deep embedding for clustering analysis. In International Conference on Machine Learning.
+
+Jianhua Yin and Jianyong Wang. 2016. A model-based approach for text clustering with outlier detection. 2016 IEEE 32nd International Conference on Data Engineering (ICDE), pages 625–636.
+Language Technologies Institute - Faculty Name: Yonatan Bisk Email: ybisk@cs.cmu.edu Office: Gates & Hillman Centers Research Areas: Grounding, RoboNLP, Vision and Language, Embodiment, Unsupervised Learning
+Race and ethnically -focused programs, including Inter -Unive rsity Graduate Students of
+
+Color Series (SOC) and PhD SOC Network
+
+Women’s empowerment programs, including Graduate Women’s Gatherings (GWGs)
+
+Transgender and non- binary student programs
+
+A.1.4  Eberly Center for Teaching Excellence & Educational Innovation
+
+www.cmu.edu/teaching
+topics. Consultants support communication excellence on essays, technical reports, oral presentations, slides, data visualization, advanced English language learning, and many other project types. Clients can bring in a project at any stage, including bra instorming
+
+ideas, organizing thoughts, responding to instructor feedback, or putting finishing touches on the final draft. Support is offered in several modes:
+
+o One-on-one Communication Tutoring (in-person or synchronous Zoom meeting):
+
+
+Answer: 

@@ -1,0 +1,17 @@
+Question: Is the university open on January 15th 2024?
+
+Context: The first round of interviews took place in January 2022 with four academics from different departments at the University of York. The purpose was to gain insight into how they created their reading lists and found materials to include, specifically exploring the availability of OER and their inclusion on those lists. A thematic analysis was conducted and a copy of the report can be found in the Supplemental files. Suggestions from the first round about what should be included in the toolkit
+Before the survey was launched, an academic colleague from the University of Sheffield, who had previously indicated an interest in the project and was willing to be a critical friend, was approached for feedback about it. Their feedback was used to make minor amendments to the survey, and it was then circulated to teaching staff in all institutions using appropriate local channels during December 2021 and January 2022.
+
+6
+
+About the participants
+18. Peter Reed, “Awareness, attitudes and participation of teaching staff towards the open content movement in one university,” Research in Learning Technology 20 (2012), DOI: https://doi.org/10.3402/rlt.v20i0.18520 (accessed 12 July 2023).
+
+19. Rebecca Pitt et al., The UK Open Textbook Report 2019 (Open Education Research Hub, The Open University, 2019) http://ukopentextbooks.org/wp-content/uploads/2019/05/UK-Open-Textbooks.pdf (accessed 12 July 2023).
+Event - Reading Day Date -  December 15 ; Event - Final Exams Date -  December 15 ; Event - Semester & Mini-2 Faculty Course Evaluations close Date -  December 16 ; Day - Monday ; Event - Make-Up Final Exams Date -  December 18 ; Day - Wednesday ; Event - Final Grades Due by 4 pm Date -  December 24 ; Event - 25 T-W University Closed Date -  December 31 ; Event - 1 T-W University Closed Date -  January 6 ; Day - Monday ; Event - Fall Deans' Lists Posted
+Date Day Event Date -  January 13 ; Day - Monday ; Event - First Day of Classes Date -  January 17 ; Day - Friday ; Event - Mini-3 add, audit & tuition adjustment drop deadline (1) Date -  January 20 ; Day - Monday ; Event - Martin Luther King Day; No Classes & University Closed Date -  January 27 ; Day - Monday ; Event - Semester add, audit & tuition adjustment drop deadline (1) Date -  February 5 ; Day - Wednesday ; Event - Mini-3 course drop deadline; withdrawal grade assigned after this
+Event - Reading Day Date -  December 17 ; Event - Final Exams Date -  December 18 ; Day - Monday ; Event - Make-Up Final Exams Date -  December 18 ; Day - Monday ; Event - Semester & Mini-2 Faculty Course Evaluations close Date -  December 20 ; Day - Wednesday ; Event - Final Grades Due by 4 pm Date -  December 23 ; Event - 2 Sa-Tu Winter Break; University Closed Date -  January 8 ; Day - Monday ; Event - Fall Deans' Lists Posted
+
+
+Answer: 

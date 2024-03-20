@@ -1,0 +1,13 @@
+Question: What is the process of exchanging pushers during the race called?
+
+Context: Coordinating perspectives Once children reach sufficient linguistic competence, they start jointly attending to mental content in the form of linguistic discourse. They begin to exchange and align perspectives of such content as well. Through linguistic discourse, children often encounter conflicting perspectives, which they are then pushed to resolve (e.g. one parent says it’s raining outside, but another says it’s not). They resolve those conflicts by learning to form an "objective"
+Some work to improve benchmark performance was also perceived as explore work, particularly when it involved developing new architectures. One participant described a distinction between “entering a race” (4) and “forging in a new direction” (4) with a project, which focuses the exploit/explore divide more on the perceived surprisingness of an idea rather than the type of contribution made. Ex- ploration often leads to a new breakthrough, causing the cycle to begin anew.
+
+3.1 Where are we now?
+text-to-text-transfer-transformer (T5) pre-trained on the new open-source dataset called the Colossal Clean Crawled Corpus (C4) they introduced. In T5, every text process- ing problem is considered in a text-to-text framework, and a single model can be trained with the same loss function and decoding process on different NLP tasks. Additionally, Lewis et al. (2020) proposed BART, a denoising autoencoder for pre-training sequence-to-sequence models. Pre-training occurs in two steps: First, an
+Transition: Procedure whereby one pusher finishes pushing a buggy and the next pusher in sequence starts to push that same buggy.
+Teams in the outside lane are given a 3 yard head start due to being required to go the long way around the traffic dummy Each pusher must have at least 1 hand on the buggy at all times, except in the transition zone; but no more than 1 pusher may be in contact with the buggy at any time In addition to the driver, pushers, and alternates, Rosters also included all designers and builders Buggies entered in Design Comp must also finish the race in order to qualify (but exceptions are permitted)
+We don’t have many details of the race itself, but DTD took the win, just barely edging out KapSig, who was less than 1 second behind. DTD’s goggled driver was Dick Stanley, and the Hill 5 pusher working very hard was Barry Rowles. As a consolation prize, KapSig’s streamlined aluminum buggy (which looks just like a slightly larger version of today’s designs, with an extra wheel) took home the Design Comp trophy.
+
+
+Answer: 

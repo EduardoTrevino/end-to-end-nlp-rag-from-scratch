@@ -1,0 +1,161 @@
+Question: Besides Pittsburgh, where else does CMU have physical campuses?
+
+Context: Room: CMU REMOTE,CMR F307
+
+Locations: Kigali, Rwanda,Pittsburgh, Pennsylvania
+
+Instructors: Tennakoon
+
+Fall 2023
+
+Course number: 18726
+
+Title: Projects in Integrated Circuit Design: First Silicon
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4709
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mai
+
+Fall 2023
+
+Course number: 18729
+
+Title: Special Topics in Circuits:
+
+Units: 12.0
+
+Section: C,
+
+Days: MWF,
+
+Start:  ,02:00PM
+
+End:  ,03:50PM
+
+Room:  ,ANS C02
+End: 08:50PM
+
+Room: CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Barati Farimani
+
+Spring 2024
+
+Course number: 24892
+
+Title: Locomotion Seminar
+
+Units: 0.0
+
+Section: A
+
+Days: F
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: WEH 4623
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Johnson
+
+Spring 2024
+
+Course number: 24992
+
+Title: Professional Development for PhD students II
+
+Units: 2.0
+
+Section: A
+
+Days: F
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: SH 234
+Room: DNM DNM,CMU REMOTE
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Mozisek
+
+Spring 2024
+
+Course number: 94865
+
+Title: Data Analytics for Decision Making
+
+Units: 6.0
+
+Section: A4
+
+Days: MWF
+
+Start: 09:30AM
+
+End: 10:50AM
+
+Room: HBH 1002
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Escallon Barrios
+
+Spring 2024
+
+Course number: 94866
+
+Title: Design Thinking
+
+Units: 6.0
+
+Section: A3
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: HBH 2003
+
+Locations: Pittsburgh, Pennsylvania
+but also sells postage stamps, makes copies, sends faxes, distributes campus maps, manages a lost & found, and has information brochures about Pittsburgh and the campus.
+
+9.16  Athletic/Fitness Facilities
+
+www.cmu.edu/athletics
+
+For the participant or the spectator, Carnegie Mellon offers intercollegiate athletics, intramural sports, physical education classes and club sports. The Athletics Department also offers aerobics classes in the University Center and Skibo Gym as well as occasional
+campus events, but also sells postage stamps, makes copies, sends faxes, distributes campus maps, man ages a lost & found, and has informational brochures about Pittsburgh and the
+
+campus.
+
+7.18 Athletic/Fitness Facilities
+
+www.cmu.edu/athletics
+
+For the participant or the spectator, Ca rnegie Mellon offers intercollegiate athletics, intramural
+CMU is positioned like never before to meet the challenges of the 21st century. In the coming years, the university will see the largest expansion to the Pittsburgh campus since 1900. At the intersection of technology and humanity, CMU research, innovation and creativity will continue to guide our future as a world-class university. As outlined in the Strategic Plan 2025, the university will focus on advancing the individual student experience, the broader Carnegie Mellon community experience,
+
+
+Answer: 

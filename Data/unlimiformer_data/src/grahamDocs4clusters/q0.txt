@@ -1,0 +1,171 @@
+Question: What is another name for the vehicle being raced in sweepstakes?
+
+Context: As an example of what capabilities we want our rule engine to have, suppose we are using Score to plan a trip, which can be represented as an event type. If we know that the vehicle used in the trip is an airplane, then the trip involves ﬂying, whereas if the vehicle used is a car, then the trip involves driving. These inferences can be phrased informally as rules saying “if there is a trip event and the vehicle used is an airplane, then the trip is a ﬂying event” and similarly for the other
+If the UAE had an F1 team, what should the name be? Some potential names for an FIA Formula One World Championship racing team representing the United Arab Emirates could include Emirates Team Racing, Desert Falcon Racing Team Abu D Habibhi, or Etihad Airways Team UAE Stars. What do you think?
+
+Tell me a joke about camels? Why did the camel cross the road? To get to the other desert!
+car/vehicle/SUV/tractor/etc. drives nicely, This jet/plane/aircraft/etc. flies smoothly). In fact, the examples that davinci-003 gets the “most wrong” (higher LLincorrect − LLcorrect) are sen- tences with these verb-noun combinations.
+Course number: 16663
+
+Title: F1Tenth Autonomous Racing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 11:00AM
+
+End: 12:20PM
+
+Room: WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dolan
+
+Fall 2023
+
+Course number: 16665
+
+Title: Robot Mobility on Air, Land, & Sea
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Apostolopoulos, Dolan, Geyer, Kaess, Shi
+
+Fall 2023
+
+Course number: 16682
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: POS 146
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chandler
+
+Spring 2024
+
+Course number: 98258
+
+Title: Student Taught Courses (StuCo): Introduction to Competitive Pokemon
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 07:50PM
+
+Room: DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kim, Sbaschnig
+
+Spring 2024
+
+Course number: 98266
+
+Title: Student Taught Courses (StuCo): Private Pilot Ground School
+
+Units: 3.0
+
+Section: A
+
+Days: T
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kroemer
+
+Spring 2024
+
+Course number: 16663
+
+Title: F1Tenth Autonomous Racing
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 02:00PM
+
+End: 03:20PM
+
+Room: NSH 1305
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Dolan
+
+Spring 2024
+
+Course number: 16675
+
+Title: Manufacturing Futures
+
+Units: 12.0
+
+Section: A
+
+Days: TR
+
+Start: 08:00AM
+
+End: 09:20AM
+
+Room: WEH 2302
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Bourne
+
+Spring 2024
+Sweepstakes Slang
+
+Buggy: Vehicle being raced and also a nickname for the competition.
+
+Chute: A section of the freeroll portion of the buggy course (near the southwestern end of Frew Street at its intersection with Schenley Drive) where buggies make the sharp righthand turn from Schenley Drive onto Frew Street.
+
+Chute Flagger: Team member who provides a signal for buggy drivers to know when to start the right-hand turn from Schenley Drive onto Frew Street.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+18. Self-driving vehicles, 2007 Carnegie Mellon’s early attempts at self-driving vehicles progressed slowly, creeping around Pittsburgh’s Schenley Park in the late 1990s. But they were going full-throttle by the time CMU’s self-driving SUV, named BOSS, won the 2007 DARPA Urban Challenge road race.
+7. Autonomous robots, 1983 Thanks to Red Whittaker (E'75,'79), robots moved off of the assembly lines and into places no human ever could go. His Robotic Reconnaissance Vehicle spent four years inspecting and cleaning up the contaminated reactor building at the crippled Three Mile Island nuclear plant.
+23. Question-answering computers, 2011 Searching the Web for information is rarely as simple as asking a question in plain English. So-called “question-answering” machines moved from laboratories to TV screens when an IBM computer called “Watson” defeated two human champions on the game show “Jeopardy!” At the heart of Watson was computer architecture developed by CMU’s Eric Nyberg and his students.
+
+
+Answer: 

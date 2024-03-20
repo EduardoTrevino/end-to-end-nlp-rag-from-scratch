@@ -1,0 +1,41 @@
+Question: What is the proposed learning objective to improve perceptual quality of speech?
+
+Context: This paper makes the following contributions:
+
+1. We propose a new evaluation method for TTS that captures distributional similarity between real and synthetic speech as a proxy for perceptual speech quality tests.
+
+2. We compare the proposed metric to multiple automatic metrics and Mean Opinion Score (MOS), and show that our metric correlates well with human-provided MOS.
+
+2. BACKGROUND: SPEECH SYNTHESIS AND EVALUATION
+[37] A. Fan, E. Grave, and A. Joulin, “Reducing transformer depth on demand with structured dropout,” in Proc. ICLR, 2020.
+
+[38] J. Lee and S. Watanabe, “Intermediate loss regularization for ctc-based speech recognition,” in Proc. ICASSP, 2021.
+
+[39] C. K. Reddy, V. Gopal, and R. Cutler, “Dnsmos p.835: A non- intrusive perceptual objective speech quality metric to evaluate noise suppressors,” in Proc. ICASSP, 2022.
+cations. Similarly, in summarization, most works leverage feedback related to aspects such as rel- evance, consistency and accuracy (Ziegler et al., 2019; Stiennon et al., 2020) (in short, the quality of the summary). One particularly well-studied feedback objective is the ability to follow instruc- tions (Ouyang et al., 2022): the task of instruction- following can encompass a wide range of other tasks, and using feedback to improve (instruction following) language assistants has been
+spaces for students to engage in their coursework and  approach to learning through many group
+
+and individual program options. SASC supports student success by providing academic coaching,
+
+subject -specific tutoring, effective communication strategies, accommodations for students with
+
+disabilities, and language support for multilingual learners. SASC engages with faculty and staff
+
+to improve the coordination and professional development for academic advisors. Visit the SASC
+create and disseminate knowledge and art through research and artistic expression, teaching
+
+and learning and transfer to society, to serve students by teaching them leadership and
+
+problem -solving skills, and the values of quality, ethical behavior, responsibility to society and
+
+commitments to work, to pursue the advantages provided by a diverse community, open to the
+
+exchange of ideas, where discovery and artistic creativity can flourish.
+and individual program options. SASC supports student success by providing academic
+
+coaching, subject -specific tutoring, effective communication strategies, accommodations for
+
+students with disabilities, and language support for multilingual learners. SASC engages with faculty and staff to improve the coordination and professional development for academic advisors. Visit the SASC website for more information about services offered in areas such as
+
+
+Answer: 

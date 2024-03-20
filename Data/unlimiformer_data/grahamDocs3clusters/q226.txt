@@ -1,0 +1,222 @@
+Question: The first two years of the PhD program are similar to what master's program?
+
+Context: I am about to finish my MSc in computer science. My goal is eventually to go to industry, but I would like to do interesting and innovative things. So, my question is: should I go straight to industry or should I do a PhD first? That’s an excellent question! There isn’t necessarily one right answer here - it really depends on what you want to achieve personally and professionally. However, there are some potential benefits to pursuing either path. Pursuing a PhD could allow you to become highly
+Pretraining Similar to Contriever (Izacard et al., 2021), we adopt a continual pretraining setup based
+
+Both HotpotQA and OTT-QA have reasoning paths with max length 2. For OTT-QA, we first
+
+Dataset
+
+Train
+
+Dev
+
+Test
+
+Skill Training Data
+
+# Examples
+
+Pretraining
+
+
+
+
+
+
+
+single retrieval expanded query retrieval passage entity linking
+
+6M 6M 9M
+
+NQ
+
+79,168
+
+8,757
+
+3,610
+
+single retrieval reranking
+
+86,252 86,252
+
+HotpotQA
+
+90,447
+
+7,405
+
+7,405
+elementary. So much so, that some more talented as to get their codings to work correctly stagnate in their learning during their ﬁrst year. The exact complications of learning a programming language are similar with the complexity of speaking a second language (Portnoﬀ, 2018).
+Title: Master of Science Research
+
+Units: 0-99
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hertz, Brown
+
+Fall 2023
+
+Course number: 24795
+
+Title: PhD Internship in Teaching Counterpoint
+
+Units: 0-24
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Hertz
+
+Fall 2023
+
+Course number: 24797
+
+Title: Thesis Research
+
+Units: 0-99
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+Spring 2024
+
+Course number: 11928
+
+Title: Masters Thesis I
+
+Units: 5-36
+
+Section: A
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Frederking
+
+Spring 2024
+
+Course number: 11929
+
+Title: Masters Thesis II
+
+Units: 5-36
+
+Section: E,I,AC,BC,AD,AE,F,D,U,PP,GG,BB,P,C,EE,DD,J,AB,A,S,K,Y,W,B,AG,T,H,L,M,R,AA,N,O,Q,X,Z,G,AF,V
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA,DNM DNM
+
+Locations: Lisbon, Portugal,Pittsburgh, Pennsylvania
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cupkova
+
+Summer 2024
+
+Course number: 48703
+
+Title: Master's Project
+
+Units: 18-36
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Instructor TBA
+
+Summer 2024
+
+Course number: 48704
+
+Title: Internship (MS & PhD)
+
+Units: 0-18
+
+Section: R
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: DNM DNM
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Cochran, Lee, Bard, Loftness, Krishnamurti, Cupkova, Cardoso Llach
+entrepreneurial leaders. The first two years of the Ph.D. program are similar to our MLT program. After the second year, you will spend most of your time working closely with your faculty advisor on research that advances the state-of-the-art in computer science. Ph.D. students are expected to publish papers about original research in the most competitive scientific journals and international conference proceedings, and to present their research at conferences and workshops. Most of our Ph.D.
+from two semesters for some full- time master’s programs to several or more years for doctoral
+
+programs. Upon completion of the graduate program degree requirements, the degree will be
+
+certified by the student’s academic program in the s emester in which the student completes
+
+the requirements.
+
+Early  Completion
+
+Graduate students who consider the completion of all degree requirements in less than the standard length of time for their program of study may consult with their degree -granting
+There are two course components required for students who elect to complete the M.S. Thesis: 11 -928 – Masters ’ Thesis I (with the chosen thesis advisor, typically for 12 units,
+
+typically in the Fall of their second year) and 11 -929 – Masters ’ Thesis II in the following
+
+Spring.
+
+Each of these two courses counts towards 6 units of MLT -level LTI course credit; if the
+
+student goes on to an LTI PhD, the second course (11 -929) counts towards one PhD lab
+
+requirement.
+
+
+Answer: 

@@ -1,0 +1,33 @@
+Question: In the study "On the Interactions of Structural Constraints and Data Resources for Structured Prediction", what are the three structured prediction tasks evaluated?
+
+Context: Paper title: 'On the Interactions of Structural Constraints and Data Resources for Structured Prediction' Published year: 2023 Publication venue or conference: No publication venue information available Authors: Emma Strubell, Zhisong Zhang, E. Hovy Summary: An analysis on the interactions of the effectiveness of decoding with structural constraints and the amount of available training data for structured prediction tasks in NLP finds that models trained with less data predict outputs with more
+cle. With evaluations on four benchmark tasks for structured prediction (named entity recognition, de- pendency parsing, event extraction, and relation extraction), we show that PA can obtain roughly the same benefits as FA with the same reading cost but less sub-structure labeling cost, leading to bet- ter data efficiency. We also demonstrate that the adaptive partial selection scheme and self-training play crucial and complementary roles.
+
+2 Method
+
+2.1 AL for Structured Prediction
+Structured prediction (Smith, 2011) is a fundamen- tal problem in NLP, wherein the label space con- sists of complex structured outputs with groups of interdependent variables. It covers a wide range of NLP tasks, including sequence labeling, syntactic parsing and information extraction (IE). Modern structured predictors are developed in a data-driven way, by training statistical models with suitable annotated data. Recent developments in neural models and especially pre-trained language models
+17 Implement and evaluate complex, scalable data science systems, with emphasis on providing experimental evidence for design decisions.  Anticipate and avert structural and/or implementation problems with systems design, especially with scaling and tail distributions.
+
+HCDS. Students electing to complete the Human-Centered Data Science (HCDS) concentration will also learn to:
+used for course assignments, directed study projects , and/or capstone projects. The LTI cluster
+
+provides storage and computation for projects involving large datasets and/or lengthy computation.
+
+3 Master’s Degree Completion and Certification
+
+3.1 Standard Degree Requirements an d Degree Certification
+
+3.1.1 Graduate Students
+3.3.6.4 MCDS Capstone Courses All MCDS students complete three Capstone courses:  11-634 - Capstone Planning Seminar (12 units)  11-635 - Capstone Research (12 units)  11-632 - Data Science Capstone (12 units)
+
+MCDS Program Learning Outcomes
+
+Design, implement and evaluate the use of analytic algorithms on sample datasets.
+
+Explain how a machine
+
+learning model is developed for and evaluated on real world datasets.
+
+
+Answer: 

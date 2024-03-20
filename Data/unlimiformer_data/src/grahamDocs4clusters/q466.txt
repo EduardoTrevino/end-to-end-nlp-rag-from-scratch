@@ -1,0 +1,179 @@
+Question: In which two task families does the document demonstrate MOSAIC's versatility?
+
+Context: aligning these rep- resentations not only across vision but also haptic and auditory sensory modalities. Through extensive experiments on a dataset where a humanoid robot interacts with 100 objects across 10 exploratory behaviors, we demonstrate the versatility of MOSAIC in two task families: object categorization and object- fetching tasks. Our results underscore the efficacy of MOSAIC’s unified representations, showing competitive performance in category recognition through a simple linear
+methods, showing the effectiveness of unified represen- tations even within a straightforward linear probe setup. Furthermore, MOSAIC demonstrates exceptional capabilities in executing natural language instructions in the fetch object task under a zero-shot condition. In summary, MOSAIC offers a versatile framework for multi-modal object property learning, bridging the gap between different sensory inputs and facilitating a wide range of downstream robot tasks.
+We introduced the MOSAIC framework to enable robots to generate versatile, multimodal representations through interactive object perception and to leverage these unified representations across various downstream robot learning tasks. Through extensive performance evaluation, we have showcased the effectiveness of these unified representations in tasks such as category recognition, using a simple linear probe setup, and the fetch object task under zero-shot condi- tions. Moving forward, there
+Title: Photography and the Ephemeral
+
+Units: 10.0
+
+Section: A
+
+Days: F
+
+Start: 08:00AM
+
+End: 10:50AM
+
+Room: MM B14
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Martello
+
+Spring 2024
+
+Course number: 62344
+
+Title: Introduction to Mosaics:
+
+Units: 3.0
+
+Section: A,
+
+Days:  ,U
+
+Start:  ,03:00PM
+
+End:  ,06:00PM
+
+Room: OFF CAMPUS,
+
+Locations:  ,Pittsburgh, Pennsylvania
+
+Instructors: Mcgowan
+
+Spring 2024
+
+Course number: 62347
+
+Title: Hot Glass II:
+
+Units: 3.0
+
+Section: A, ,B
+
+Days:  ,T,S
+Title: Cultural History of the Visual Arts - the Modern Period
+
+Units: 9.0
+
+Section: A,B
+
+Days: M,W
+
+Start: 07:00PM
+
+End: 09:20PM
+
+Room: PH A19
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Versari
+
+Spring 2024
+
+Course number: 60107
+
+Title: Foundations: Critical Studies
+
+Units: 9.0
+
+Section: A,B
+
+Days: W,T
+
+Start: 07:00PM
+
+End: 09:20PM
+
+Room: WEH 5403,WEH 5310
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kim
+
+Spring 2024
+
+Course number: 60120
+
+Title: Foundations: Digital Media
+Room: PCA 306,PCA 313
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Moore
+
+Spring 2024
+
+Course number: 54117
+
+Title: Design Collaboration Project
+
+Units: 3.0
+
+Section: A4
+
+Days: F
+
+Start: 11:30AM
+
+End: 12:50PM
+
+Room: PCA 118
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Arons, Blackwood, Block, Thomson, Gajic
+
+Spring 2024
+
+Course number: 54122
+
+Title: Directing I: A Director's Preparation
+
+Units: 9.0
+
+Section: A
+
+Days: MW
+
+Start: 02:00PM
+
+End: 04:50PM
+
+Room: PCA 118
+In the spring, the Task Force partnered with SME Branding — a firm with more than 17 years of experience creating mascots for professional sports teams and universities — to develop the graphics for the mascot. During October, students and alumni reviewed potential mascot images in focus groups.
+Carnegie Mellon's official mascot debuted at the Nov. 10, 2007 home football game. The graphic features a profile of a distinguished, bold Scottish terrier sporting a plaid scarf around his neck. The dog is contained in a shield, representing Carnegie Mellon's Scottish heritage.
+
+The Task Force then partnered with a mascot costume company to design our Scottish terrier in the winter of 2007. The official Scotty costume was unveiled at the 2008 Spring Carnival.
+Fairings have been a key feature for the Fringe team in recent years, which is celebrating its 50th anniversary of Buggy.
+
+"We have a reputation of being the quietest on the course," said Diya Nuxoll, who wrapped up her bachelor's degree in mechanical engineering in December and is working on an advanced studies master's degree in design and manufacturing. Nuxoll leads the Fringe team as one of two head mechanics.
+The Graduate Student Assembly website maintai ns a resource page fo r spouses, domestic
+
+partners and families of graduate students: www.cmu.edu/stugov/gsa/Resources-for-Graduate-
+
+Students/Partner-and-Family-Resources.html,  including The Student Parent Association, new
+
+mother rooms, and links to resources around campus and the Pittsburgh area.
+
+13.12  Domestic Partner Registration
+
+Carnegie Mellon extends certain benefits to domest ic partners of students. Eligible students
+in their family to attend college in a setting where students’ differences and talents are
+
+appreciated and reinforced, both at the graduate and undergraduate level. Initiatives coordinated by the Center include, but are not limited t o:
+
+First generation/first in family to attend college programs
+
+LGBTQ+ Initiatives
+
+Race and ethnically focused programs, including Inter -University
+
+Graduate Students of Color Series (SOC) and PhD SOC Network
+Additionally, the Center supports and connects historically underrepresented students and those who are first in their family to attend college in a setting where students’ differences and talents are appreciated and reinforced, both at the graduate and undergraduate level. Initiatives coordinated by the Center include, but are not limited to:  First generation/first in family to attend college programs  LGBTQ+ Initiatives  Race and ethnically focused programs, including Inter-University
+
+
+Answer: 

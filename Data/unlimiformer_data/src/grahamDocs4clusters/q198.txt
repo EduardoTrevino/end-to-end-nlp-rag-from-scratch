@@ -1,0 +1,169 @@
+Question: What is the nickname for the sweepstakes competition?
+
+Context: 1Ifawordissplitintomultipletokens,wesimplytakeitsfirstsub-token.
+Bightdoesn’thelptakeBelgium;detectingthisrequiresdomainknowledgewhichnoviceplayerstypicallylack.Therearealsomanynonsensetypes,suchaswrongjustificationofpre-viousmovements,invalidorderproposalforotherplayersorthemselves,contradiction,etc,andeachtyperequiresitsownreplies.Table3showstheDiplomacyNonsensestatistics,withhighlyimbal-ancedclasses(only12%messagesarenonsense),makingthenonsensedetectionmorechallenging.Insummary,DiplomacyNonsenseisachalleng-ingdataset,inwhichdetectingnonsensicalmes-sagecani
+plenonsensicalmessages,thenitlikelycapturesnonsense-relatedfeaturesandmayleadtodiscrim-inativereplies.Weenumerateandexpandsuchtokenstogeneratereplies,andthencontrastthegeneratedrepliesagainstgoodmessagestoprunethesearchandkeepthediscriminativerepliesonly.Weevaluateourreply-basedapproachondia-loguemodelsfortheboardgameDiplomacy(Cal-hamer,1959).Diplomacyinvolveslengthydia-loguesinwhichplayersattempttopersuadeotherstotakecertainactionsinthegame(FAIRetal.,2022).Thissettingrepresentsachallengetoex-i
+Course number: 15295
+
+Title: Competition Programming II
+
+Units: 5.0
+
+Section: A
+
+Days: W
+
+Start: 07:00PM
+
+End: 09:50PM
+
+Room: POS 151
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Sleator
+
+Fall 2023
+
+Course number: 15312
+
+Title: Foundations of Programming Languages
+
+Units: 12.0
+
+Section: A,W,B,C,Lec 1,Lec 2
+
+Days: W,MW,R,TR
+
+Start: 12:30PM,04:00PM,11:00AM,11:30AM
+
+End: 11:50AM,12:45PM,01:50PM,04:50PM
+
+Room: PH A18B,GHC 5222,GHC 4307,HH B131,CMB 2051
+Start: 07:00PM
+
+End: 08:20PM
+
+Room: POS 146
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Chandler
+
+Spring 2024
+
+Course number: 98258
+
+Title: Student Taught Courses (StuCo): Introduction to Competitive Pokemon
+
+Units: 3.0
+
+Section: A
+
+Days: T
+
+Start: 07:00PM
+
+End: 07:50PM
+
+Room: DH 1211
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Kim, Sbaschnig
+
+Spring 2024
+
+Course number: 98266
+
+Title: Student Taught Courses (StuCo): Private Pilot Ground School
+
+Units: 3.0
+
+Section: A
+
+Days: T
+Spring 2024
+
+Course number: 48670
+
+Title: MArch Thesis
+
+Units: 18.0
+
+Section: A
+
+Days: TR
+
+Start: 01:00PM
+
+End: 04:50PM
+
+Room: MM 320
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Rafson
+
+Spring 2024
+
+Course number: 48677
+
+Title: Hines Competition
+
+Units: 3.0
+
+Section: A3
+
+Days: TBA
+
+Start:
+
+End:
+
+Room: TBA
+
+Locations: Pittsburgh, Pennsylvania
+
+Instructors: Danes
+
+Spring 2024
+
+Course number: 48685
+
+Title: Design and Documentation in Revit
+
+Units: VAR
+
+Section: A
+
+Days: M
+
+Start: 09:30AM
+Sweepstakes Slang
+
+Buggy: Vehicle being raced and also a nickname for the competition.
+
+Chute: A section of the freeroll portion of the buggy course (near the southwestern end of Frew Street at its intersection with Schenley Drive) where buggies make the sharp righthand turn from Schenley Drive onto Frew Street.
+
+Chute Flagger: Team member who provides a signal for buggy drivers to know when to start the right-hand turn from Schenley Drive onto Frew Street.
+Delta Upsilon entered a three-wheeled buggy in 1940.
+
+It’s quirky, it’s different, and it’s so Carnegie Mellon University, where the college experience is a little buggy.
+
+Sweepstakes, better known as the Spring Carnival Buggy Races, will celebrate its 100th anniversary April 17-18, 2020. The CMU tradition is unlike any other.
+April 10, 2019
+
+Buggy Races Keep Rolling at Carnegie Mellon
+
+In its 99th year, the tradition is a Spring Carnival treat
+
+By Heidi Opdyke
+
+Sweepstakes, also known as the Buggy Races, has come a long way at Carnegie Mellon University. The slick, torpedo-like vessels carrying drivers with nerves of steel are a far cry from the two-man teams that once changed places halfway through a race and rode in everything from rain barrels with bicycle wheels to three-wheeled ash cans 99 years ago.
+23. Question-answering computers, 2011 Searching the Web for information is rarely as simple as asking a question in plain English. So-called “question-answering” machines moved from laboratories to TV screens when an IBM computer called “Watson” defeated two human champions on the game show “Jeopardy!” At the heart of Watson was computer architecture developed by CMU’s Eric Nyberg and his students.
+21. RNA sequencing via videogames, 2010 Thanks to crowdsourcing, science isn’t just for scientists any more. People without formal training in molecular biology are producing new insights into genetic encoding through a videogame called EteRNA, developed by researchers at CMU and Stanford, that allows players to fold and shift RNA molecules to solve on-screen puzzles.
+17. Robotic video cameras, 2001 When Baltimore Ravens quarterback Trent Dilfer dropped back to pass, TV viewers of Super Bowl XXXV saw something they’d never seen before --- the motion froze and the view suddenly rotated to show Dilfer’s opposite side. CBS called it Eyevision. The synchronized system of robotic cameras and advanced image processing was the brainchild of CMU’s Takeo Kanade, one of many advances he pioneered in computer vision.
+
+
+Answer: 

@@ -1,0 +1,133 @@
+Question: Did Andy Warhol graduate from CMU? Answer with True or False
+
+Context: ∗haoc3@andrew.cmu.edu
+
+1
+
+𝒙𝟏𝒙𝟐𝒙𝟒𝒙𝟑Label 1Label 2Label 3
+
+True Label
+
+Candidate Label
+
+𝒙𝟏𝒙𝟐𝒙𝟒𝒙𝟑Label 1Label 2Label 3
+
+𝒙𝟏𝒙𝟐𝒙𝟒𝒙𝟑Label 1Label 2Label 3
+
+Unlabeled
+
+𝒙𝟏𝒙𝟐𝒙𝟒𝒙𝟑Label 1Label 2Label 3
+
+Noisy Label
+
+Preprint
+
+(a) Full Label
+
+(b) Partial Label
+
+(c) Semi-Supervised
+
+(d) Noisy Label
+work was primarily science fiction and horror, serving as a screenwriter and director.[y: true]Sidse Babett Knudsen graduated on November 22nd, 1968.[y: false]Aleister Crowley was an English citizen.[y: true]Magic Johnson was a tap dancer.[y: false]Queen (band) is a Canadian rock band.[y: false]Figure10:ArandomsubgraphofthebeliefgraphforFEVER.Noteallnodesactuallyareconnectedtoatleastoneanothernode.
+(cid:113) 64V log(9/α) 1−γ
+
+Remark C.7 (Controlling false positive rate). The theorem implies that if we choose τ > 16Cmax log(9/α)
+
++ , then the false-positive rate is smaller than α. Note that V and Cmax can be computed directly from y, allowing us to choose an input-dependent τ as a function of V, Cmax that achieves a α-Type I error guarantee with a fixed α for all inputs. In particular, the Type I error α decreases exponentially as we increase the threshold τ .
+
+√
+
+nγ(1−γ)
+robotics department ,
+
+founded in 1979
+
+Alumnus Andy Warhol
+
+(CFA1949), pop artist pioneer
+
+and cultural icon
+
+One of only 29 universities
+
+invited to be a member of the
+
+World Economic Forum’s
+
+Global University
+
+Leaders Forum
+
+CMU.EDU
+
+ECONOMIC IMPACT
+
+Attracting major companies  —
+
+including Google, Intel, Uber and GE —
+
+to locate operations and create new
+
+jobs in Pittsburgh
+
+To date, the CMU community has
+
+launched more than 400 startups
+
+and created more than 152 spinoff
+
+companies .
+robotics department ,
+
+founded in 1979
+
+Alumnus Andy Warhol
+
+(CFA1949), pop artist pioneer
+
+and cultural icon
+
+One of only 29 universities
+
+invited to be a member of the
+
+World Economic Forum’s
+
+Global University
+
+Leaders Forum
+
+CMU.EDU
+
+ECONOMIC IMPACT
+
+Attracting major companies  —
+
+including Google, Intel, Uber and GE —
+
+to locate operations and create new
+
+jobs in Pittsburgh
+
+To date, the CMU community has
+
+launched more than 400 startups
+
+and created more than 152 spinoff
+
+companies .
+Military veterans are a vital part of the Carnegie Mellon Uni versity community. Graduate
+
+students can find information on applying for veteran education benefits, campus services,
+
+veteran’s groups at CMU, and non -educational resources through the Veterans and Military
+
+Community website. There are also links and conn ections to veteran resource in the Pittsburgh
+
+community. The ROTC and Veteran Affairs Coordinator can be reached at  urovaedbenefits@andrew.cmu.edu
+
+or 412 -268-8747.
+
+
+Answer: 
