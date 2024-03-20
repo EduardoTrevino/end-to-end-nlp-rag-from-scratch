@@ -1,0 +1,325 @@
+Q: Is Zhaoheng Ni the author for ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit?
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is Zhaoheng Ni the author for NLPositionality: Characterizing Design Biases of Datasets and Models?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Zhaoheng Ni the author for SantaCoder: don't reach for the stars!?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Zhaoheng Ni the author for Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute?
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is Zhaoheng Ni the author for Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Austin S. Wang the author for HomeRobot: Open-Vocabulary Mobile Manipulation?
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is Austin S. Wang the author for Structured Pruning of Self-Supervised Pre-Trained Models for Speech Recognition and Understanding?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Austin S. Wang the author for Representation Learning for Interpersonal and Multimodal Behavior Dynamics: A Multiview Extension of Latent Change Score Models?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Austin S. Wang the author for End-to-End Speech Recognition: A Survey?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is N. University the author for Fusion-in-T5: Unifying Document Ranking Signals for Improved Information Retrieval?
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is N. University the author for Self-Refine: Iterative Refinement with Self-Feedback?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is N. University the author for SantaCoder: don't reach for the stars!?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Sean Welleck the author for Commonality in Recommender Systems: Evaluating Recommender Systems to Enhance Cultural Citizenship?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Sean Welleck the author for Making Scalable Meta Learning Practical?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Sean Welleck the author for Improving Multitask Retrieval by Promoting Task Specialization?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Neha Sengupta the author for Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models?
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is Neha Sengupta the author for Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Neha Sengupta the author for Multimodal Fusion Interactions: A Study of Human and Automatic Quantification?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is International Conference on Learning Representations the publication venue for Computational Language Acquisition with Theory of Mind
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is International Conference on Learning Representations the publication venue for Improving Massively Multilingual ASR with Auxiliary CTC Objectives
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is International Conference on Learning Representations the publication venue for On the Interactions of Structural Constraints and Data Resources for Structured Prediction
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is International Conference on Learning Representations the publication venue for Distributionally-Informed Recommender System Evaluation
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Computer Vision and Pattern Recognition the publication venue for 3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is Computer Vision and Pattern Recognition the publication venue for Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Computer Vision and Pattern Recognition the publication venue for Understanding Masked Autoencoders via Hierarchical Latent Variable Models
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is Computer Vision and Pattern Recognition the publication venue for Abstractive summarization with deep reinforcement learning using semantic similarity rewards
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Computer Vision and Pattern Recognition the publication venue for End-to-End Speech Recognition: A Survey
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Entropy the publication venue for A Gene-Based Algorithm for Identifying Factors That May Affect a Speaker’s Voice
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is Entropy the publication venue for 3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Entropy the publication venue for Deriving Vocal Fold Oscillation Information from Recorded Voice Signals Using Models of Phonation
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is Entropy the publication venue for Conversational Search with Random Walks over Entity Graphs
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Entropy the publication venue for End-to-End Speech Recognition: A Survey
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is arXiv.org the publication venue for SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is arXiv.org the publication venue for Text Matching Improves Sequential Recommendation by Reducing Popularity Biases
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is arXiv.org the publication venue for DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is arXiv.org the publication venue for Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is arXiv.org the publication venue for Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is arXiv.org the publication venue for Data-efficient Active Learning for Structured Prediction with Partial Annotation and Self-Training
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Annual International ACM SIGIR Conference on Research and Development in Information Retrieval the publication venue for Unsupervised Dense Retrieval Training with Web Anchors
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is Annual International ACM SIGIR Conference on Research and Development in Information Retrieval the publication venue for DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Annual International ACM SIGIR Conference on Research and Development in Information Retrieval the publication venue for A Gene-Based Algorithm for Identifying Factors That May Affect a Speaker’s Voice
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Is Annual International ACM SIGIR Conference on Research and Development in Information Retrieval the publication venue for OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit
+A: Yes.
+D: metadata.txt
+T: 1
+
+Q: Is Annual International ACM SIGIR Conference on Research and Development in Information Retrieval the publication venue for I3D: Transformer Architectures with Input-Dependent Dynamic Depth for Speech Recognition
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Training Compute-Optimal Large Language Models ('Chinchilla') published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Chain of Thought Prompting Elicits Reasoning in Large Language Models published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Training Language Models to Follow Instructions with Human Feedback ('InstructGPT') published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was PaLM: Scaling Language Models with Pathways published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Constitutional AI: Harmless from AI Feedback published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was ST-MoE: Designing Stable and Transferable Sparse Expert Models published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Solving Quantitative Reasoning Problems with Language Models ('Minerva') published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Scaling Instruction-Finetuned Language Models ('Flan2') published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Competition-level code Generation with AlphaCode published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was LaMDA: Language Model for Dialog Applications published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Emergent Abilities of Large Language Models published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Multitask Prompted Training Enables Zero-Shot Task Generalization published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was When to generate hedges in peer-tutoring interactions published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Using Implicit Feedback to Improve Question Generation published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Making Scalable Meta Learning Practical published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was ML-SUPERB: Multilingual Speech Universal PERformance Benchmark published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Riveter: Measuring Power and Social Dynamics Between Entities published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Cuttlefish: Low-Rank Model Training without All the Tuning published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Chain-of-Skills: A Configurable Model for Open-Domain Question Answering published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was SantaCoder: don't reach for the stars! published?
+A: No.
+D: metadata.txt
+T: 1
+
+Q: Was Difference-Masking: Choosing What to Mask in Continued Pretraining published?
+A: No.
+D: metadata.txt
+T: 1
+

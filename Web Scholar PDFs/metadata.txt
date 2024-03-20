@@ -1,0 +1,744 @@
+Paper title: 'WebArena: A Realistic Web Environment for Building Autonomous Agents'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Robert Lo, Frank F. Xu, Shuyan Zhou, Xuhui Zhou, Hao Zhu, Uri Alon, Daniel Fried, Abishek Sridhar, Graham Neubig, Yonatan Bisk, Xianyi Cheng
+Summary: This paper builds an environment for language-guided agents that is highly realistic and reproducible, and creates an environment with fully functional websites from four common domains: e-commerce, social forum discussions, collaborative software development, and content management.
+
+Paper title: 'HomeRobot: Open-Vocabulary Mobile Manipulation'
+Published year: 2023
+Publication venue or conference: Conference on Robot Learning
+Authors: Théophile Gervet, Sriram Yenamandra, Alexander Clegg, John Turner, M. Savva, Devendra Singh Chaplot, Chris Paxton, Mukul Khanna, A. Ramachandran, Roozbeh Mottaghi, Austin S. Wang, Angel X. Chang, Vidhi Jain, Z. Kira, Yonatan Bisk, Dhruv Batra, Tsung-Yen Yang, Karmesh Yadav
+Summary: The HomeRobot OVMM benchmark is introduced, where an agent navigates household environments to grasp novel objects and place them on target receptacles, and baselines achieve a 20% success rate in the real world; the experiments identify ways future research work improve performance.
+
+Paper title: 'Reasoning about the Unseen for Efficient Outdoor Object Navigation'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Quanting Xie, Tianyi Zhang, Yonatan Bisk, Kedi Xu, M. Johnson-Roberson
+Summary: A new task OUTDOOR is introduced, a new mechanism for Large Language Models (LLMs) to accurately hallucinate possible futures, and a new computationally aware success metric for pushing research forward in this more complex domain are introduced.
+
+Paper title: 'Plan, Eliminate, and Track - Language Models are Good Teachers for Embodied Agents'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: So Yeon Min, Shrimai Prabhumoye, R. Salakhutdinov, Tom M. Mitchell, Yue Wu, Yonatan Bisk, A. Azaria, Yuan-Fang Li
+Summary: A framework to use the knowledge in LLMs to simplify the control problem, rather than solving it is proposed, which leads to a significant 15% improvement over SOTA for generalization to human goal specifications.
+
+Paper title: 'Computational Language Acquisition with Theory of Mind'
+Published year: 2023
+Publication venue or conference: International Conference on Learning Representations
+Authors: Hao Zhu, Graham Neubig, Yonatan Bisk, Andy T. Liu, Emmy Liu
+Summary: It is found that training speakers with a highly weighted ToM listener component leads to performance gains in the authors' image referential game setting, and suggests the potential utility of further incorporating ToM, as well as other insights from child language acquisition, into computational models of language acquisition.
+
+Paper title: 'The Framework Tax: Disparities Between Inference Efficiency in Research and Deployment'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Emma Strubell, Yonatan Bisk, Jacob Kahn, Clara Na, Jared Fernandez
+Summary: This work examines the effects of model design decisions, framework paradigms, and hardware platforms on total model latency through a series of case studies analyzing the effects of model design decisions, framework paradigms, and hardware platforms on total model latency.
+
+Paper title: 'SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Lu Jiang, Wolfgang Macherey, A. Hauptmann, David A. Ross, Irfan Essa, K. Murphy, Vivek Kumar, Ming Yang, Yonatan Bisk, Yong Cheng, Lijun Yu, Zhiruo Wang, Yanping Huang
+Summary: This method marks the first successful attempt to enable a frozen LLM to generate image content while surpassing state-of-the-art performance in image understanding tasks, under the same setting, by over 25%.
+
+Paper title: 'MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Yonatan Bisk, Jonathan M Francis, Gyan Tatiya, Ho-Hsiang Wu, J. Sinapov
+Summary: This work pioneers the application of CLIP-based sensory grounding in robotics, promising a significant leap in multi-sensory perception capabilities for autonomous systems.
+
+Paper title: 'Active Retrieval Augmented Generation'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Jane Dwivedi-Yu, Frank F. Xu, Luyu Gao, Zhiqing Sun, Jamie Callan, Qian Liu, Graham Neubig, Zhengbao Jiang, Yiming Yang
+Summary: This work proposes Forward-Looking Active REtrieval augmented generation (FLARE), a generic method which iteratively uses a prediction of the upcoming sentence to anticipate future content, which is then utilized as a query to retrieve relevant documents to regenerate the sentence if it contains low-confidence tokens.
+
+Paper title: 'Conversational Search with Random Walks over Entity Graphs'
+Published year: 2023
+Publication venue or conference: International Conference on the Theory of Information Retrieval
+Authors: Gustavo Gonçalves, Jamie Callan, João Magalhães
+Summary: Experiments show that using random walks to estimate entity centrality on conversation entity graphs improves top precision answer passage ranking over competitive transformer-based baselines.
+
+Paper title: 'Multi-Objective Improvement of Android Applications'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: J. Petke, Jamie Callan
+Summary: This work proposes a practical approach and the first open-source tool, GIDroid, for multi-objective automated improvement of Android apps, and uses Genetic improvement, a search-based technique that navigates the space of software variants to find improved software.
+
+Paper title: 'CSurF: Sparse Lexical Retrieval through Contextualized Surface Forms'
+Published year: 2023
+Publication venue or conference: International Conference on the Theory of Information Retrieval
+Authors: Zhen Fan, Jamie Callan, Luyu Gao
+Summary: This paper proposes to directly bridge the surface form space and the term semantics space in lexical exact-match retrieval via contextualized surface forms (CSF), reaching comparable accuracy as lexical all-to-all soft match systems as an efficient exact- match-based system.
+
+Paper title: 'KALE: Using a K-Sparse Projector for Lexical Expansion'
+Published year: 2023
+Publication venue or conference: International Conference on the Theory of Information Retrieval
+Authors: Bruno Martins, Jamie Callan, Luís Borges
+Summary: KALE is a new lightweight method that uses a small model with a k-sparse projector to convert dense representations into a sparse set of entries from a latent vocabulary, which can replace the original lexical vocabulary with gains in accuracy and efficiency.
+
+Paper title: '"You might think about slightly revising the title”: Identifying Hedges in Peer-tutoring Interactions'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: C. Clavel, Yann Raphalen, Justine Cassell
+Summary: A model explainability tool is employed to explore the features that characterize hedges in peer-tutoring conversations, and some novel features, and the benefits of a such a hybrid model approach are identified.
+
+Paper title: 'How About Kind of Generating Hedges using End-to-End Neural Models?'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Alafate Abulimiti, C. Clavel, Justine Cassell
+Summary: This work develops a model of hedge generation based on fine-tuning state-of-the-art language models trained on human-human tutoring data, followed by reranking to select the candidate that best matches the expected hedging strategy within a candidate pool using a hedge classifier.
+
+Paper title: 'When to generate hedges in peer-tutoring interactions'
+Published year: 2023
+Publication venue or conference: SIGDIAL Conferences
+Authors: Alafate Abulimiti, C. Clavel, Justine Cassell
+Summary: The results show that embedding layers, capturing the semantic information of the previous turns, significantly improves the model’s performance and provides insights into the importance of various features, such as interpersonal rapport and nonverbal behaviors, in predicting hedges by using Shapley values for feature explanation.
+
+Paper title: 'Distributionally-Informed Recommender System Evaluation'
+Published year: 2023
+Publication venue or conference: ACM Transactions on Recommender Systems
+Authors: Fernando Diaz, Michael D. Ekstrand, Ben Carterette
+Summary: The need for researchers and practitioners to attend more closely to various distributions that arise from a recommender system (or other information access system) and the sources of uncertainty that lead to these distributions is argued.
+
+Paper title: 'Scaling Laws Do Not Scale'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Fernando Diaz, Michael A. Madaio
+Summary: It is argued that as the size of datasets used to train large AI models grows, the number of distinct communities whose data is included in a given dataset is likely to grow, each of whom may have different values.
+
+Paper title: 'Recall as a Measure of Ranking Robustness'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Fernando Diaz, Bhaskar Mitra
+Summary: Through extensive empirical analysis across 17 TREC tracks, it is established that the new evaluation method, lexirecall, is correlated with existing recall metrics and exhibits substantially higher discriminative power and stability in the presence of missing labels.
+
+Paper title: 'Commonality in Recommender Systems: Evaluating Recommender Systems to Enhance Cultural Citizenship'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Fernando Diaz, Georgina Born, Andrés Ferraro, Gustavo Ferreira
+Summary: A new metric, commonality, is introduced that measures the degree to which recommendations familiarize a given user population with specified categories of cultural content and contributes to a growing body of scholarship developing `public good' rationales for machine learning systems.
+
+Paper title: 'Group Membership Bias'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Ali Vardasbi, M. de Rijke, Mostafa Dehghani, Fernando Diaz
+Summary: A correction method is provided for group bias that is based on the assumption that the utility score of items in different groups comes from the same distribution and has two potential issues of sparsity and equality-instead-of-equity, which the method is used to solve.
+
+Paper title: 'Grounding Language Models to Images for Multimodal Generation'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Daniel Fried, R. Salakhutdinov, Jing Yu Koh
+Summary: An ef-fective, general solution for leveraging pretrained language models in visually grounded settings, enabling them to process and generate arbitrarily interleaved image-and-text data.
+
+Paper title: 'Generating Images with Multimodal Language Models'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Daniel Fried, R. Salakhutdinov, Jing Yu Koh
+Summary: This work proposes a method to fuse frozen text-only large language models (LLMs) with pre-trained image encoder and decoder models, by mapping between their embedding spaces, and exhibits a wider range of capabilities compared to prior multimodal language models.
+
+Paper title: 'SantaCoder: don't reach for the stars!'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: M. Lappert, Urvashi Bhattacharyya, Niklas Muennighoff, Terry Yue Zhuo, Yacine Jernite, Carolyn Jane Anderson, Qian Liu, Chenghao Mou, Dmitry Abulkhanov, S. Troshin, Hailey Schoelkopf, Manan Dey, Christopher Akiki, Paulo Villegas, Carlos Muñoz Ferrandis, Bernardo Garc'ia del R'io, D. Lansky, Dzmitry Bahdanau, Harm de Vries, Loubna Ben Allal, Arjun Guha, J. Poirier, Raymond Li, S. Hughes, Sourab Mangrulkar, I. Yu, Mayank Mishra, Shamik Bose, Daniel Fried, Denis Kocetkov, Jia Li, Luisa Villa, Yangtian Zi, Leandro von Werra, F. Toni, Logesh Kumar Umapathi, A. Gu, Danish Contractor, M. Romero, Marco Zocca, Huu Nguyen
+Summary: The current state of the Personally Identifiable Information (PII) redaction pipeline is outlined, the experiments conducted to de-risk the model architecture, and the experiments investigating better preprocessing methods for the training data are outlined.
+
+Paper title: 'Pragmatic Inference with a CLIP Listener for Contrastive Captioning'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Benno Krojer, Daniel Fried, Jiefu Ou
+Summary: This work proposes a simple yet effective and robust method for contrastive captioning: generating discriminative captions that distinguish target images from very similar alternative distractor images by leveraging an off-the-shelf CLIP model to parameterize the listener.
+
+Paper title: 'Amortizing Pragmatic Program Synthesis with Rankings'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Saujas Vaduguru, Yewen Pu, Priyan Vaithilingam, Daniel Fried, Elena L. Glassman
+Summary: This work presents a novel method of amortizing the RSA algorithm by leveraging a single, total ordering of all the hypotheses, and proves that for a pragmatic synthesizer that uses a single demonstration, the global ranking method exactly replicates RSA's ranked responses.
+
+Paper title: 'AutoReply: Detecting Nonsense in Dialogue with Discriminative Replies'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Adi Renduchintala, Emily Dinan, Mike Lewis, Daniel Fried, Zhou Yu, Weiyan Shi, Athul Paul Jacob
+Summary: No TLDR summary available
+
+Paper title: 'Towards Open-Domain Twitter User Profile Inference'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Haoyang Wen, Zhenxin Xiao, Alexander Hauptmann, E. Hovy
+Summary: None
+
+Paper title: 'Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Manuel Marques, Gabriel Moreira, J. Costeira, Alexander Hauptmann
+Summary: It is demonstrated that better performance can be achieved by a fixed-radius encoder equipped with the Euclidean metric, regardless of the embedding dimension, and that the best few-shot results are attained for hyperbolic embeddings at a commonhyperbolic radius.
+
+Paper title: 'Extracting Training Data from Diffusion Models'
+Published year: 2023
+Publication venue or conference: USENIX Security Symposium
+Authors: Daphne Ippolito, Florian Tramèr, B. Balle, Milad Nasr, Matthew Jagielski, Eric Wallace, Nicholas Carlini, Vikash Sehwag, Jamie Hayes
+Summary: The results show that diffusion models are much less private than prior generative models such as GANs, and that mitigating these vulnerabilities may require new advances in privacy-preserving training.
+
+Paper title: 'A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Barret Zoph, S. Longpre, Daphne Ippolito, Emily Reif, Kevin Robinson, Jason Wei, Denny Zhou, Adam Roberts, Gregory Yauney, Katherine Lee, David M. Mimno
+Summary: These findings constitute the largest set of experiments to validate, quantify, and expose many undocumented intuitions about text pretraining, which are hoped to help support more informed data-centric decisions in LM development.
+
+Paper title: 'Are aligned neural networks adversarially aligned?'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Christopher A. Choquette-Choo, Daphne Ippolito, Anas Awadalla, Milad Nasr, Matthew Jagielski, Ludwig Schmidt, Nicholas Carlini, Katherine Lee, Pang Wei Koh, Florian Tramèr, Irena Gao
+Summary: It is shown that existing NLP-based optimization attacks are insufficiently powerful to reliably attack aligned text models, and conjecture that improved NLP attacks may demonstrate this same level of adversarial control over text-only models.
+
+Paper title: 'Reverse-Engineering Decoding Strategies Given Blackbox Access to a Language Generation System'
+Published year: 2023
+Publication venue or conference: International Conference on Natural Language Generation
+Authors: Daphne Ippolito, Milad Nasr, Yun William Yu, Nicholas Carlini, Katherine Lee
+Summary: Methods to reverse-engineer the decoding method used to generate text (i.e., top-_k_ or nucleus sampling) are presented, which has implications for detecting generated text.
+
+Paper title: 'INSTRUCTSCORE: Towards Explainable Text Generation Evaluation with Automatic Feedback'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Lei Li, William Yang Wang, Markus Freitag, Danqing Wang, Wenda Xu, Zhenqiao Song, Liangming Pan
+Summary: This work fine-tunes a LLAMA model to create an evaluative metric that can produce a diagnostic report aligned with human judgment, and achieves performance levels on par with state-of-the-art metrics like COMET22, which was fine-tuned on human ratings.
+
+Paper title: 'Quantifying & Modeling Feature Interactions: An Information Decomposition Framework'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Louis-Philippe Morency, P. Liang, Chun Kai Ling, Zihao Deng, Faisal Mahmood, R. Salakhutdinov, Suzanne Nie, Richard J. Chen, Yun Cheng, Xiang Fan
+Summary: This work proposes an information-theoretic approach to quantify the degree of redundancy, uniqueness, and synergy across input features, which is term the PID statistics of a multimodal distribution.
+
+Paper title: 'Language Models Get a Gender Makeover: Mitigating Gender Bias with Few-Shot Data Interventions'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Louis-Philippe Morency, P. Liang, Praneetha Vaddamanu, Atishay Jain, Himanshu Thakur
+Summary: This paper empirically shows that by fine-tuning a pre-trained model on only 10 debiased (intervened) training examples, the tendency to favor any gender is significantly reduced, and argues that the few-shot de-biasing approach is highly feasible and practical.
+
+Paper title: 'Representation Learning for Interpersonal and Multimodal Behavior Dynamics: A Multiview Extension of Latent Change Score Models'
+Published year: 2023
+Publication venue or conference: International Conference on Multimodal Interaction
+Authors: J. Girard, Lauren M. Bylsma, Louis-Philippe Morency, Jay Fournier, Holly A. Swartz, Jeffrey F. Cohn, A. Vail
+Summary: This work presents a novel approach to learning multimodal and interpersonal representations of behavior dynamics during one-on-one interaction enabled by the introduction of a multiview extension of latent change score models that demonstrates improved performance over conventional approaches that rely upon summary statistics or correlational metrics.
+
+Paper title: 'Expanding the Role of Affective Phenomena in Multimodal Interaction Research'
+Published year: 2023
+Publication venue or conference: International Conference on Multimodal Interaction
+Authors: Leena Mathur, Louis-Philippe Morency, Maja J Matari'c
+Summary: An examination of research at the intersection of multimodal interaction and affective computing, with the objective of observing trends and identifying understudied areas, finds that this body of research has primarily focused on enabling machines to recognize or express affect and emotion.
+
+Paper title: 'SenteCon: Leveraging Lexicons to Learn Human-Interpretable Language Representations'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Victoria Lin, Louis-Philippe Morency
+Summary: This work presents SenteCon, a method for introducing human interpretability in deep language representations that outperforms existing interpretable language representations with respect to both its downstream performance and its agreement with human characterizations of the text.
+
+Paper title: 'Difference-Masking: Choosing What to Mask in Continued Pretraining'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Sheryl Mathew, Louis-Philippe Morency, P. Liang, Leena Mathur, Syeda Nahida Akter, Mengrou Shou, Eric Nyberg, Alex Wilf
+Summary: Difference-Masking is introduced, a masking strategy that automatically chooses what to mask during continued pretraining by considering what makes a task domain different from the pretraining domain.
+
+Paper title: 'Neural Mixed Effects for Nonlinear Personalized Predictions'
+Published year: 2023
+Publication venue or conference: International Conference on Multimodal Interaction
+Authors: Louis-Philippe Morency, J. Cohn, T. Wörtwein, Lisa B. Sheeber, Nicholas Allen, R. Auerbach
+Summary: NME combines the efficiency of neural network optimization with nonlinear mixed effects modeling and improves performance across six unimodal and multimodal datasets, including a smartphone dataset to predict daily mood and a mother-adolescent datasets to predict affective state sequences where half the mothers experience symptoms of depression.
+
+Paper title: 'Multimodal Fusion Interactions: A Study of Human and Automatic Quantification'
+Published year: 2023
+Publication venue or conference: International Conference on Multimodal Interaction
+Authors: Louis-Philippe Morency, R. Salakhutdinov, P. Liang, Yun Cheng
+Summary: A comparative study of how humans annotate two categorizations of multimodal interactions is performed and a method to automatically convert annotations of partial and counterfactual labels to information decomposition is proposed, yielding an accurate and efficient method for quantifying multimodals interactions.
+
+Paper title: 'Understanding Masked Autoencoders via Hierarchical Latent Variable Models'
+Published year: 2023
+Publication venue or conference: Computer Vision and Pattern Recognition
+Authors: E. Xing, Louis-Philippe Morency, Yuejie Chi, Martin Q. Ma, Guan-Hong Chen, Lingjing Kong, Kun Zhang
+Summary: This work formally characterize and justify existing empirical in-sights and provide theoretical guarantees of MAE, and formulate the underlying data-generating process as a hierarchical latent variable model, and shows that under reasonable assumptions, MAE provably identifies a set of latent variables in the hierarchical model.
+
+Paper title: 'Factorized Contrastive Learning: Going Beyond Multi-view Redundancy'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Louis-Philippe Morency, P. Liang, Martin Q. Ma, R. Salakhutdinov, James Y. Zou, Zihao Deng
+Summary: FactorCL is a new multimodal representation learning method to go beyond multi-view redundancy and captures both shared and unique information and achieves state-of-the-art results on six benchmarks.
+
+Paper title: 'CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Sumit Agarwal, Graham Neubig, Uri Alon, Shuyan Zhou
+Summary: It is found that generated code that receives a higher score by CodeBERTScore is more likely to be preferred by humans, as well as to function correctly when executed, than all existing metrics.
+
+Paper title: 'FacTool: Factuality Detection in Generative AI - A Tool Augmented Framework for Multi-Task and Multi-Domain Scenarios'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Pengfei Liu, Shiqi Chen, Ethan Chern, Kehua Feng, Weizhe Yuan, Chunting Zhou, Graham Neubig, Steffi Chern, Junxian He
+Summary: This paper proposes FacTool, a task and domain agnostic framework for detecting factual errors of texts generated by large language models (e.g., ChatGPT), and demonstrates the efficacy of the proposed method.
+
+Paper title: 'Unlimiformer: Long-Range Transformers with Unlimited Length Input'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Amanda Bertsch, Graham Neubig, Uri Alon, Matthew R. Gormley
+Summary: This work proposes Unlimiformer: a general approach that wraps any existing pretrained encoder-decoder transformer, and offloads the cross-attention computation to a single k-nearest-neighbor (kNN) index, while the returned kNN distances are the attention dot-product scores.
+
+Paper title: 'Multi-lingual and Multi-cultural Figurative Language Understanding'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Alham Fikri Aji, Samuel Cahyawijaya, Perez Ogayo, Anuoluwapo Aremu, Graham Neubig, Anubha Kabra, Genta Indra Winata, Simran Khanuja, Emmy Liu
+Summary: This work assesses multilingual LMs' abilities to interpret figurative language in zero-shot and few-shot settings, and reveals that each language relies on cultural and regional concepts for figurative expressions, with the highest overlap between languages originating from the same region.
+
+Paper title: 'Why do Nearest Neighbor Language Models Work?'
+Published year: 2023
+Publication venue or conference: International Conference on Machine Learning
+Authors: Graham Neubig, Uri Alon, Frank F. Xu
+Summary: This paper identifies three main reasons why k-nearest neighbor language models (kNN-LM) perform better than standard LMs: using a different input representation for predicting the next tokens, approximate kNN search, and the importance of softmax temperature for the kNN distribution.
+
+Paper title: 'Learning Performance-Improving Code Edits'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: A. Yazdanbakhsh, Alex Shypula, Milad Hashemi, Aman Madaan, Uri Alon, Graham Neubig, Parthasarathy Ranganathan, Yiming Yang
+Summary: This paper investigates the ability of large language models (LLMs) to suggest functionally correct, performance improving code edits, and hypothesizes that language models can suggest such edits in ways that would be impractical for static analysis alone.
+
+Paper title: 'Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Pedro Henrique Martins, José G. C. de Souza, Patrick Fernandes, António Farinhas, Amanda Bertsch, Aman Madaan, Shuyan Zhou, Tongshuang Sherry Wu, Graham Neubig, André F. T. Martins, Emmy Liu
+Summary: An overview of the recent research that has leveraged human feedback to improve natural language generation and the nascent field of AI feedback, which exploits large language models to make judgments based on a set of principles and minimize the need for human intervention is provided.
+
+Paper title: 'Large Language Models Enable Few-Shot Clustering'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Tongshuang Sherry Wu, Kiril Gashteovski, Graham Neubig, Vijay Viswanathan, Carolin (Haas) Lawrence
+Summary: It is found that incorporating LLMs in the first two stages can routinely provide significant improvements in cluster quality, and that LLMs enable a user to make trade-offs between cost and accuracy to produce desired clusters.
+
+Paper title: 'InPars-Light: Cost-Effective Unsupervised Training of Efficient Rankers'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Leonid Boytsov, Riddhi Nisar, Sayan Kundu, Preksha Patel, Eric Nyberg, Vivek Sourabh, R. Ramanathan
+Summary: InPars-light is the first truly cost-effective prompt-based unsupervised recipe to train and deploy neural ranking models that outperform BM25.
+
+Paper title: 'Language-Agnostic Transformers and Assessing ChatGPT-Based Query Rewriting for Multilingual Document-Grounded QA'
+Published year: 2023
+Publication venue or conference: Workshop on Document-grounded Dialogue and Conversational Question Answering
+Authors: T. Mitamura, Srijan Bansal, Mitali Potnis, Soham Dinesh Tiwari, Srinivas Gowriraj, Eric Nyberg
+Summary: This paper assesses the effectiveness of both language-agnostic and language-aware paradigms for multilingual pre-trained transformer models in a bi-encoder-based dense passage retriever (DPR), concluding that the language-gnostic approach is superior.
+
+Paper title: 'Chain-of-Skills: A Configurable Model for Open-Domain Question Answering'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Yu Zhang, Hao Cheng, Kaixin Ma, Jianfeng Gao, Eric Nyberg, Xiaodong Liu
+Summary: This work proposes a modular retriever where individual modules correspond to key skills that can be reused across datasets and achieves state-of-the-art fine-tuned retrieval performance on NQ, HotpotQA and OTT-QA.
+
+Paper title: 'GameQA: Gamified Mobile App Platform for Building Multiple-Domain Question-Answering Datasets'
+Published year: 2023
+Publication venue or conference: Conference of the European Chapter of the Association for Computational Linguistics
+Authors: Njall Skarphedinsson, Breki Gudmundsson, Abuzar Khan, H. Einarsson, H. Loftsson, Eric Nyberg, Steinar Smari, M. Lárusdóttir
+Summary: This work developed a novel crowd-sourcing platform to gather multiple-domain QA data for low-resource languages and successfully released the app for Icelandic to build a dataset which rivals large QA datasets for high- resource languages both in terms of size and ratio of answered questions.
+
+Paper title: 'Using Implicit Feedback to Improve Question Generation'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Luísa Coheur, Eric Nyberg, Hugo Rodrigues
+Summary: A system that learns from both levels of implicit feedback when compared to the version with no learning, considering the top 5, 10, and 20 questions, and improvements go up from 10%, depending on the metric and strategy used.
+
+Paper title: 'Abstractive summarization with deep reinforcement learning using semantic similarity rewards'
+Published year: 2023
+Publication venue or conference: Natural Language Engineering
+Authors: Figen Beken Fikri, Kemal Oflazer, B. Yanikoglu
+Summary: A deep reinforcement learning algorithm is introduced that uses the proposed semantic similarity measures as rewards, together with a mixed training objective, in order to generate more natural summaries in terms of human readability.
+
+Paper title: 'Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Kai-Wei Chang, Chi-Yuan Hsiao, Yifan Peng, Haibin Wu, Shi Wang, Roshan Sharma, Chun-Yi Kuan, Siddhant Arora, Shady Shehata, Jiatong Shi, Hung-yi Lee, Ke-Han Lu, Chien-yu Huang, Shinji Watanabe, Bhiksha Ramakrishnan
+Summary: This work presents Dynamic-SUPERB, a benchmark designed for building universal speech models capable of leveraging instruction tuning to perform multiple tasks in a zero-shot fashion, and invites the community to collaborate and contribute, facilitating the dynamic growth of the benchmark.
+
+Paper title: 'Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Yejin Choi, Mosh Levy, Xuhui Zhou, S. Alavi, Vered Shwartz, Natalie Shapira, Maarten Sap, Yoav Goldberg
+Summary: It is found that while LLMs exhibit certain N-ToM abilities, this behavior is far from being robust, indicating reliance on shallow heuristics rather than robust ToM abilities.
+
+Paper title: 'NLPositionality: Characterizing Design Biases of Datasets and Models'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Katharina Reinecke, Sebastin Santy, Ronan Le Bras, Jenny T Liang, Maarten Sap
+Summary: NLPositionality, a framework for characterizing design biases and quantifying the positionality of NLP datasets and models, is introduced and it is found that dataset and models align predominantly with Western, White, college-educated, and younger populations.
+
+Paper title: 'COBRA Frames: Contextual Reasoning about Effects and Harms of Offensive Statements'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Haojie Zhu, Thomas Davidson, Xuhui Zhou, Akhila Yerukola, Jena D. Hwang, Swabha Swayamdipta, Maarten Sap
+Summary: COBRA frames are introduced, the first context-aware formalism for explaining the intents, reactions, and harms of offensive or biased statements grounded in their social and situational context, and the importance and feasibility of contextualized NLP by modeling social factors are highlighted.
+
+Paper title: 'From Dogwhistles to Bullhorns: Unveiling Coded Rhetoric with Language Models'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Maarten Sap, Ronan Le Bras, Yejin Choi, Julia Mendelsohn
+Summary: No TLDR summary available
+
+Paper title: 'Towards Countering Essentialism through Social Bias Reasoning'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Maarten Sap, Emily Allaway, Nina Taneja, S. Leslie
+Summary: No TLDR summary available
+
+Paper title: 'Riveter: Measuring Power and Social Dynamics Between Entities'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Melanie Walsh, Jimin Mun, Lauren F. Klein, Maarten Sap, Anjalie Field, Maria Antoniak
+Summary: Riveter greatly improves the accessibility of verb lexica and can facilitate a broad range of future research by organizing the language processing pipeline, providing complete lexicon scores and visualizations for all entities in a corpus, and providing functionality for users to target specific research questions.
+
+Paper title: 'Don't Take This Out of Context! On the Need for Contextual Models and Evaluations for Stylistic Rewriting'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Xuhui Zhou, Maarten Sap, Akhila Yerukola
+Summary: A new composite contextual evaluation metric is introduced that combines similarity to the original sentence with contextual cohesiveness and highlights the importance of integrating context into the generation and especially the evaluation stages of stylistic text rewriting.
+
+Paper title: 'BiasX: "Thinking Slow" in Toxic Content Moderation with Explanations of Implied Social Biases'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Tongshuang Wu, Yiming Zhang, Sravani Nanduri, Liwei Jiang, Maarten Sap
+Summary: BiasX, a framework that enhances content moderation setups with free-text explanations of statements' implied social biases, is introduced and it is shown that indeed, participants substantially benefit from explanations for correctly identifying subtly (non-)toxic content.
+
+Paper title: 'Don't Take This Out of Context!: On the Need for Contextual Models and Evaluations for Stylistic Rewriting'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Elizabeth Clark, Xuhui Zhou, Maarten Sap, Akhila Yerukola
+Summary: No TLDR summary available
+
+Paper title: 'Improving Language Models with Advantage-based Offline Policy Gradients'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Faeze Brahman, Ronan Le Bras, Ashutosh Baheti, Ximing Lu, Maarten Sap, Mark O. Riedl
+Summary: Advantage-Leftover Lunch RL (A-LoL), a new class of offline policy gradient algorithms that enable RL training on any pre-existing data that assumes the entire LM output sequence as a single action, and allows incorporating sequence-level classifiers or human-designed scoring functions as rewards.
+
+Paper title: 'Pengi: An Audio Language Model for Audio Tasks'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Benjamin Elizalde, Huaming Wang, Rita Singh, Soham Deshmukh
+Summary: Pengi is introduced, a novel Audio Language Model that leverages Transfer Learning by framing all audio tasks as text-generation tasks, and shows that connecting language models with audio models is a major step towards general-purpose audio understanding.
+
+Paper title: 'LoFT: Local Proxy Fine-tuning For Improving Transferability Of Adversarial Attacks Against Large Language Model'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Ankit Shah, Muhammad Ahmed Shah, Soham Deshmukh, R. Olivier, Roshan Sharma, Michael Kuhlmann, Hira Dhamyal, Dareen Alharthi, Massa Baali, Rita Singh, Bhiksha Raj, Hazim T Bukhari
+Summary: Local fine-tuning of proxy models improves attack transferability and increases attack success rate by $39, $7, and $0.5$ (absolute) on target models ChatGPT, GPT-4, and Claude respectively.
+
+Paper title: 'GPT-Sentinel: Distinguishing Human and ChatGPT Generated Content'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Yutian Chen, Hao Kang, Vivian Zhai, Rita Singh, B. Ramakrishnan, Liang Li
+Summary: This paper designed, implemented, and trained two different models for text classification, using Robustly Optimized BERT Pretraining Approach (RoBERTa) and Text-to-Text Transfer Transformer (T5), respectively, and achieved remarkable results, with an accuracy of over 97% on the test dataset.
+
+Paper title: 'Prompting Audios Using Acoustic Properties For Emotion Representation'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Soham Deshmukh, Benjamin Elizalde, Huaming Wang, Hira Dhamyal, Rita Singh, Bhiksha Raj
+Summary: This work addresses the challenge of automatically generating prompts and training a model to better learn emotion representations from audio and prompt pairs by using acoustic properties that are correlated to emotion like pitch, intensity, speech rate, and articulation rate to automatically generate prompts.
+
+Paper title: 'Deriving Vocal Fold Oscillation Information from Recorded Voice Signals Using Models of Phonation'
+Published year: 2023
+Publication venue or conference: Entropy
+Authors: Wayne Zhao, Rita Singh
+Summary: A novel analysis-by-synthesis approach that allows us to infer the VFOs directly from recorded speech signals on an individualized, speaker- by-speaker basis is proposed and it is shown how the V FOs can be quantified from a dynamical systems perspective for classification purposes.
+
+Paper title: 'Evaluating Speech Synthesis by Training Recognizers on Synthetic Speech'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Roshan Sharma, Hira Dhamyal, Dareen Alharthi, Rita Singh, Bhiksha Raj, Soumi Maiti
+Summary: This paper proposes an evaluation technique involving the training of an ASR model on synthetic speech and assessing its performance on real speech, and demonstrates a strong correlation with both MOS naturalness and MOS intelligibility when compared to SpeechLMScore and MosNet on three recent Text-to-Speech systems.
+
+Paper title: 'A Gene-Based Algorithm for Identifying Factors That May Affect a Speaker’s Voice'
+Published year: 2023
+Publication venue or conference: Entropy
+Authors: Rita Singh
+Summary: A simple path-finding algorithm that attempts to find links between vocal characteristics and perturbing factors using cytogenetic and genomic data and shows that in cases where strong links are exposed, vocal characteristics of the patients are indeed reported to be correspondingly affected.
+
+Paper title: 'Imprecise Label Learning: A Unified Framework for Learning with Various Imprecise Label Configurations'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Jindong Wang, B. Raj, Masashi Sugiyama, Ankit Shah, R. Tao, Xingxu Xie, Yidong Wang, Hao Chen, Rita Singh
+Summary: Imprecise label learning (ILL) is introduced, a framework for the unification of learning with various imprecise label configurations, marking the first unified framework with robust and effective performance across various challenging settings.
+
+Paper title: 'The Hidden Dance of Phonemes and Visage: Unveiling the Enigmatic Link between Phonemes and Facial Features'
+Published year: 2023
+Publication venue or conference: Interspeech
+Authors: B. Raj, X. Zou, Xiang Li, Rita Singh, Yandong Wen, Liao Qu
+Summary: This work proposes an analysis pipeline to help explore the voice-face relationship in a fine-grained manner, i.s. phonemes v. facial anthropometric measurements (AM), and indicates that AMs are more predictable from vowels compared to consonants, particularly with plosives.
+
+Paper title: 'Token Prediction as Implicit Classification to Identify LLM-Generated Text'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Yutian Chen, Hao Kang, Liangze Li, Vivian Zhai, Rita Singh, Bhiksha Raj
+Summary: Evaluation shows the exceptional performance of the method in the text classification task, highlighting its simplicity and efficiency, and interpretability studies on the features extracted by the model reveal its ability to differentiate distinctive writing styles among various LLMs even in the absence of an explicit classifier.
+
+Paper title: 'Queer People are People First: Deconstructing Sexual Identity Stereotypes in Large Language Models'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Emma Strubell, Harnoor Dhingra, Sayali S. Moghe, Preetiha Jayashanker
+Summary: It is shown that a post-hoc method based on chain-of-thought prompting using SHAP analysis can increase the regard of the sentence, representing a promising approach towards debiasing the output of LLMs in this setting.
+
+Paper title: 'Understanding the Effect of Model Compression on Social Bias in Large Language Models'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Emma Strubell, Gustavo Gonçalves
+Summary: A carefully controlled study of the impact of model compression via quantization and knowledge distillation on measures of social bias in LLMs finds that longer pretraining and larger models led to higher social bias, and quantization showed a regularizer effect with its best trade-off around 20% of the original pretraining time.
+
+Paper title: 'To Build Our Future, We Must Know Our Past: Contextualizing Paradigm Shifts in Natural Language Processing'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Emma Strubell, Sireesh Gururaja, Amanda Bertsch, Clara Na, D. Widder
+Summary: This work conducts long-form interviews with 26 NLP researchers of varying seniority, research area, institution, and social identity to study factors that shape NLP as a field, including culture, incentives, and infrastructure.
+
+Paper title: 'Surveying (Dis)Parities and Concerns of Compute Hungry NLP Research'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Roy Schwartz, Andreas Ruckl'e, Iryna Gurevych, Betty van Aken, Emma Strubell, J. Forde, Jesse Dodge, Ji-Ung Lee, Haritz Puerto, Leon Derczynski, Yuki Arase
+Summary: This work captures existing (dis)parities between different and within groups with respect to seniority, academia, and industry; and their impact on the peer reviewing process; and provides an analysis and devise recommendations to mitigate found disparities.
+
+Paper title: 'Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Emma Strubell, Rajshekhar Das, Jean Oh, Jose Moura, Jonathan M Francis, Sanket Vaibhav Mehta
+Summary: The regularizer significantly improves top performing self-training methods in various UDA benchmarks for semantic segmentation and introduces a contrastive pixel-level objectness constraint that pulls the pixel representations within a region of an object instance closer, while pushing those from different object categories apart.
+
+Paper title: 'Making Scalable Meta Learning Practical'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Eric P. Xing, Emma Strubell, Sang Keun Choe, Hwijeen Ahn, Pengtao Xie, W. Neiswanger, Sanket Vaibhav Mehta
+Summary: SAMA is designed to flexibly support a broad range of adaptive optimizers in the base level of meta learning programs, while reducing computational burden by avoiding explicit computation of second-order gradient information, and exploiting efficient distributed training techniques implemented for first-order gradients.
+
+Paper title: 'On the Interactions of Structural Constraints and Data Resources for Structured Prediction'
+Published year: 2023
+Publication venue or conference: No publication venue information available
+Authors: Emma Strubell, Zhisong Zhang, E. Hovy
+Summary: An analysis on the interactions of the effectiveness of decoding with structural constraints and the amount of available training data for structured prediction tasks in NLP finds that models trained with less data predict outputs with more structural violations in greedy decoding mode.
+
+Paper title: 'Data-efficient Active Learning for Structured Prediction with Partial Annotation and Self-Training'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Emma Strubell, Zhisong Zhang, E. Hovy
+Summary: This work proposes a pragmatic method that reduces the annotation cost for structured label spaces using active learning by adopting an error estimator to adaptively decide the partial selection ratio according to the current model's capability.
+
+Paper title: 'Efficiency Pentathlon: A Standardized Arena for Efficiency Evaluation'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Emma Strubell, Jesse Dodge, Tom Sherborne, Noah A. Smith, Darrell Plessas, Pete Walsh, Iz Beltagy, Matthew E. Peters, Sam Skjonsberg, Kyle Lo, Hannaneh Hajishirzi, Qingqing Cao, Jared Fernandez, Hao Peng
+Summary: Pentathlon is a benchmark for holistic and realistic evaluation of model efficiency, which focuses on inference, which accounts for a majority of the compute in a model's lifecycle, and is designed to mirror real-world applications scenarios.
+
+Paper title: 'AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Xuankai Chang, Rongjie Huang, Zhenhui Ye, Zhou Zhao, Zhiqing Hong, Mingze Li, Jinglin Liu, Jiatong Shi, Yixiang Ren, Yuning Wu, Jia-Bin Huang, Shinji Watanabe, Dongchao Yang
+Summary: A multi-modal AI system named AudioGPT is proposed, which complements LLMs with 1) foundation models to process complex audio information and solve numerous understanding and generation tasks; and 2) the input/output interface (ASR, TTS) to support spoken dialogue.
+
+Paper title: 'End-to-End Speech Recognition: A Survey'
+Published year: 2023
+Publication venue or conference: IEEE/ACM Transactions on Audio Speech and Language Processing
+Authors: Tara N. Sainath, R. Schluter, Takaaki Hori, Shinji Watanabe, Rohit Prabhavalkar
+Summary: A taxonomy of E2E ASR models and corresponding improvements is provided, and their properties and their relationship to classical hidden Markov model (HMM) based ASR architectures are discussed.
+
+Paper title: 'ML-SUPERB: Multilingual Speech Universal PERformance Benchmark'
+Published year: 2023
+Publication venue or conference: Interspeech
+Authors: Xuankai Chang, Shang-Wen Li, Jiatong Shi, Wei Huang, Dan Berrebbi, Ho-Lam Chung, Hung-yi Lee, William Chen, En-Pei Hu, Shinji Watanabe, Abdel-rahman Mohamed
+Summary: None
+
+Paper title: 'Exploration of Efficient End-to-End ASR using Discretized Input from Self-Supervised Learning'
+Published year: 2023
+Publication venue or conference: Interspeech
+Authors: Xuankai Chang, Yuya Fujita, Takashi Maekaku, Shinji Watanabe, Brian Yan
+Summary: This paper proposes a new protocol that utilizes discretized token sequences in ASR tasks, which includes de-duplication and sub-word modeling to enhance the input sequence and reduces computational cost by decreasing the length of the sequence.
+
+Paper title: 'Improving Massively Multilingual ASR with Auxiliary CTC Objectives'
+Published year: 2023
+Publication venue or conference: IEEE International Conference on Acoustics, Speech, and Signal Processing
+Authors: Yifan Peng, Jiatong Shi, William Chen, Shinji Watanabe, Brian Yan, Soumi Maiti
+Summary: This work introduces work on improving performance on FLEURS, a 102-language open ASR benchmark, by conditioning the entire model on language identity (LID), and investigates techniques inspired from recent Connectionist Temporal Classification studies to help the model handle the large number of languages.
+
+Paper title: 'Structured Pruning of Self-Supervised Pre-Trained Models for Speech Recognition and Understanding'
+Published year: 2023
+Publication venue or conference: IEEE International Conference on Acoustics, Speech, and Signal Processing
+Authors: Yifan Peng, Kwangyoun Kim, Felix Wu, Shinji Watanabe, Prashant Sridhar
+Summary: This work proposes three task-specific structured pruning methods to deal with heterogeneous speech models that not only utilize a stack of Transformer blocks, but also combine a frontend network based on multiple convolutional layers for low-level feature representation learning.
+
+Paper title: 'DPHuBERT: Joint Distillation and Pruning of Self-Supervised Speech Models'
+Published year: 2023
+Publication venue or conference: Interspeech
+Authors: Yui Sudo, Shinji Watanabe, Yifan Peng, Muhammad Shakeel
+Summary: DPHuBERT is proposed, a novel task-agnostic compression method for speech SSL based on joint distillation and pruning that requires little training time and performs well with limited training data, making it suitable for resource-constrained applications.
+
+Paper title: 'Reducing Barriers to Self-Supervised Learning: HuBERT Pre-training with Academic Compute'
+Published year: 2023
+Publication venue or conference: Interspeech
+Authors: Yifan Peng, Xuankai Chang, William Chen, Shinji Watanabe, Zhaoheng Ni, Soumi Maiti
+Summary: This work optimizing HuBERT SSL to fit in academic constraints, and reproducibility, and explores a semi-supervised route, using an ASR model to skip the first pre-training iteration.
+
+Paper title: 'I3D: Transformer Architectures with Input-Dependent Dynamic Depth for Speech Recognition'
+Published year: 2023
+Publication venue or conference: IEEE International Conference on Acoustics, Speech, and Signal Processing
+Authors: Jaesong Lee, Shinji Watanabe, Yifan Peng
+Summary: A novel Transformer encoder with Input-Dependent Dynamic Depth (I3D) to achieve strong performance-efficiency trade-offs and interesting analysis on the gate probabilities and the input-dependency, which helps to better understand deep encoders.
+
+Paper title: 'ESPnet-ST-v2: Multipurpose Spoken Language Translation Toolkit'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Xiaohui Zhang, Yifan Peng, Patrick Fernandes, Tomoki Hayashi, Siddharth Dalmia, Zhaoheng Ni, Jiatong Shi, Moto Hira, Dan Berrebbi, Yun Tang, J. Pino, Peter Pol'ak, Shinji Watanabe, Brian Yan, H. Inaguma, Soumi Maiti
+Summary: The overall design, example models for each task, and performance benchmarking behind ESPnet-ST-v2 are described, which is publicly available at https://github.com/espnet/esp net.
+
+Paper title: 'Improved Logical Reasoning of Language Models via Differentiable Symbolic Programming'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Eric P. Xing, Ziyang Li, M. Naik, Hanlin Zhang, Jiani Huang
+Summary: DSR-LM is proposed, a Differentiable Symbolic Reasoning framework where pre-trained LMs govern the perception of factual knowledge, and a symbolic module performs deductive reasoning, and efficiently learns weighted rules and applies semantic loss to further improve LMs.
+
+Paper title: 'Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Osama Mohammed Afzal, Alham Fikri Aji, Xudong Han, Satheesh Katipomu, Neha Sengupta, Eric P. Xing, Andrew Feldman, Lalit Pradhan, Samta Kamboj, O. Pandit, Andy Hock, Fajri Koto, Rahul Pal, Preslav Nakov, Haonan Li, Zhengzhong Liu, A. Jackson, Sunil Kumar Sahu, Massa Baali, Timothy Baldwin, Bokang Jia, Zainul Mujahid, Jonathan Lee
+Summary: Jais and Jais-chat are introduced, new state-of-the-art Arabic-centric foundation and instruction-tuned open generative large language models (LLMs) based on the GPT-3 decoder-only architecture that demonstrate better knowledge and reasoning capabilities in Arabic than any existing open Arabic and multilingual models by a sizable margin.
+
+Paper title: 'One-for-All: Generalized LoRA for Parameter-Efficient Fine-tuning'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Eric P. Xing, Arnav Chavan, Zhuang Liu, Zhiqiang Shen, D. Gupta
+Summary: Generalized LoRA is presented, an advanced approach for universal parameter-efficient fine-tuning tasks, which outperforms all previous methods in natural, specialized, and structured vision benchmarks, achieving superior accuracy with fewer parameters and computations.
+
+Paper title: '3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds'
+Published year: 2023
+Publication venue or conference: Computer Vision and Pattern Recognition
+Authors: Eric P. Xing, Weihao Xuan, Jiaxing Huang, Kangcheng Liu, Aoran Xiao, Dayan Guan, Shijian Lu, Ruijie Ren, A. E. Saddik
+Summary: This work introduces SemanticSTF, an adverse-weather point cloud dataset that provides dense point-level annotations and allows to study 3DSS under various adverse weather conditions, and designs a domain randomization technique that alternatively randomizes the geometry styles of point clouds and aggregates their embeddings, ultimately leading to a generalizable model that can improve 3D semantic segmentation underVarious adverse weather effectively.
+
+Paper title: 'Cuttlefish: Low-Rank Model Training without All the Tuning'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Pongsakorn U-chupala, Eric P. Xing, Saurabh Agarwal, Hongyi Wang, Dimitris Papailiopoulos, Yoshiki Tanaka
+Summary: This paper introduces Cuttlefish, an automated low-rank training approach that eliminates the need for tuning factorization hyperparameters, and generates models up to 5.6 times smaller than full-rank models, and attains up to a 1.2 times faster end-to-end training process while preserving comparable accuracy.
+
+Paper title: 'Federated Learning as Variational Inference: A Scalable Expectation Propagation Approach'
+Published year: 2023
+Publication venue or conference: International Conference on Learning Representations
+Authors: Eric P. Xing, Hongyi Wang, P. Greengard, Han Guo, A. Gelman, Yoon Kim
+Summary: An extensive empirical study across various algorithmic considerations and describes practical strategies for scaling up expectation propagation to the modern federated setting and applies FedEP on standard federated learning benchmarks and finds that it outperforms strong baselines in terms of both convergence speed and accuracy.
+
+Paper title: 'SlimPajama-DC: Understanding Data Combinations for LLM Training'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Tianhua Tao, Natalia Vassilieva, Eric P. Xing, Liqun Ma, Hongyi Wang, Joel Hestness, Zhengzhong Liu, Bowen Tan, Daria Soboleva, W. Neiswanger, Zhiqiang Shen
+Summary: This paper aims to understand the impacts of various data combinations on the training of large language models using SlimPajama, a rigorously deduplicated, multi-source dataset, and analyzes and discusses how global and local dedUplications affect the performance of trained models.
+
+Paper title: 'KD-DLGAN: Data Limited Image Generation via Knowledge Distillation'
+Published year: 2023
+Publication venue or conference: Computer Vision and Pattern Recognition
+Authors: Eric P. Xing, Fangneng Zhan, Kaiwen Cui, Shengcai Liao, Yingchen Yu, Shijian Lu1
+Summary: KD-DLGAN is proposed, a knowledge-distillation based generation framework that introduces pre-trained vision-language models for training effective data-limited generation models and achieves superior image generation with limited training data.
+
+Paper title: 'Defending Against Malicious Behaviors in Federated Learning with Blockchain'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Yizhe Wen, Eric P. Xing, Nanqing Dong, W. Knottenbelt, Zhipeng Wang, Michael C. Kampffmeyer, Shuoying Zhang, Jiahao Sun
+Summary: This work proposes a secure and reliable FL system based on blockchain and distributed ledger technology that incorporates a peer-to-peer voting mechanism and a reward-and-slash mechanism, which are powered by on-chain smart contracts, to detect and deter malicious behaviors.
+
+Paper title: 'Unsupervised Dense Retrieval Training with Web Anchors'
+Published year: 2023
+Publication venue or conference: Annual International ACM SIGIR Conference on Research and Development in Information Retrieval
+Authors: Yiqing Xie, Chenyan Xiong, X. Liu
+Summary: This work trains an unsupervised dense retriever, Anchor-DR, with a contrastive learning task that matches the anchor text and the linked document, and presents a novel filtering technique to only select anchors that contain similar types of information as search queries.
+
+Paper title: 'Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Zichun Yu, S. Yu, Chenyan Xiong, Zhiyuan Liu
+Summary: This paper proposes augmentation-adapted retriever (AAR), which learns LM’s preferences obtained from a known source LM to assist target LMs that may not be known beforehand or are unable to be fine-tuned together in a generic retrieval plug-in.
+
+Paper title: 'OpenMatch-v2: An All-in-one Multi-Modality PLM-based Information Retrieval Toolkit'
+Published year: 2023
+Publication venue or conference: Annual International ACM SIGIR Conference on Research and Development in Information Retrieval
+Authors: Zhenghao Liu, Chenyan Xiong, Zhiyuan Liu, Shi Yu
+Summary: As a full upgrade of OpenMatch proposed in 2021, OpenMatch-v2 incorporates the most recent advancements of PLM-based IR research, providing support for new, cross-modality models and enhanced domain adaptation techniques with a streamlined, optimized infrastructure.
+
+Paper title: 'Augmenting Zero-Shot Dense Retrievers with Plug-in Mixture-of-Memories'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Paul N. Bennett, Chenyan Xiong, Arnold Overwijk, Suyu Ge, Corby Rosset, Jiawei Han
+Summary: None
+
+Paper title: 'Toolink: Linking Toolkit Creation and Using through Chain-of-Solving on Open-Source Model'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Zhenghao Liu, Chenyan Xiong, Zhiyuan Liu, Cheng Qian
+Summary: This paper introduces Toolink, a comprehensive framework that performs task-solving by first creating a toolkit and then integrating the planning and calling of tools through a chain-of-s solving (CoS) approach, and results in LLaMA-CoS, a powerful open-source model with advanced tool-planning and tool-calling capabilities.
+
+Paper title: 'CompleQA: Benchmarking the Impacts of Knowledge Graph Completion Methods on Question Answering'
+Published year: 2023
+Publication venue or conference: Conference on Empirical Methods in Natural Language Processing
+Authors: Yiming Yang, Chenyan Xiong, Yu Gu, Donghan Yu
+Summary: No TLDR summary available
+
+Paper title: 'Model-Generated Pretraining Signals Improves Zero-Shot Generalization of Text-to-Text Transformers'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Payal Bajaj, Alvin Cheung, Xia Song, Chenyan Xiong, Jianfeng Gao, Linyuan Gong, Yiqing Xie, Xiaodong Liu
+Summary: A new model, METRO-T0 is developed, which is pretrained using the redesigned ELECTRA-Style pretraining strategies and then prompt-finetuned on a mixture of NLP tasks and rivals the state-of-the-art T0-11B model with only **8%** of its parameters.
+
+Paper title: 'Improving Multitask Retrieval by Promoting Task Specialization'
+Published year: 2023
+Publication venue or conference: Transactions of the Association for Computational Linguistics
+Authors: Arnold Overwijk, Wenzheng Zhang, Chenyan Xiong, K. Stratos
+Summary: It is shown that it is possible to train a multitask retriever that outperforms task-specific retrievers by promoting task specialization, and the model indeed learns parameters that are more task-specialized compared to naive multitasking without prompting or adaptive learning.
+
+Paper title: 'Text Matching Improves Sequential Recommendation by Reducing Popularity Biases'
+Published year: 2023
+Publication venue or conference: International Conference on Information and Knowledge Management
+Authors: Zhenghao Liu, Ge Yu, Senkun Mei, Chenyan Xiong, Zhiyuan Liu, Shi Yu, Yu Gu, Xiaohua Li
+Summary: None
+
+Paper title: 'Fusion-in-T5: Unifying Document Ranking Signals for Improved Information Retrieval'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Technology, N. University, Zhenghao Liu Tsinghua University, Cheng-Chung Fan, Microsoft Research, Chenyan Xiong, S. Yu, Zhiyuan Liu, David Jin, Huazhong University of Science, M. I. O. Technology
+Summary: A novel re-ranker named Fusion-in-T5 (FiT5), which integrates document text information, retrieval features, and global document information into a single unified model using templated-based input and global attention, is proposed.
+
+Paper title: 'Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Zhenfang Chen, Qinhong Zhou, Hongxin Zhang, David D. Cox, Chuang Gan, Zhiqing Sun, Yikang Shen, Yiming Yang
+Summary: An AI assistant named Dromedary is developed, which combines principle-driven reasoning and the generative power of LLMs for the self-alignment of AI agents with minimal human supervision and significantly surpasses the performance of several state-of-the-art AI systems on benchmark datasets with various settings.
+
+Paper title: 'Self-Refine: Iterative Refinement with Self-Feedback'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: A. Yazdanbakhsh, Niket Tandon, Luyu Gao, Shrimai Prabhumoye, Aman Madaan, Sarah Wiegreffe, Prakhar Gupta, Uri Alon, Nouha Dziri, Bodhisattwa Prasad Majumder, Skyler Hallinan, Yiming Yang, Shashank Gupta, S. Welleck, Peter Clark
+Summary: Self-Refine is introduced, an approach for improving initial outputs from LLMs through iterative feedback and refinement that demonstrates that even state-of-the-art LLMs like GPT-4 can be further improved at test time using this simple, standalone approach.
+
+Paper title: 'DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Zhiqing Sun, Yiming Yang
+Summary: DIFUSCO is introduced, a new graph-based diffusion framework for NPC combinatorial optimization that outperforms the previous state-of-the-art neural solvers on the challenging SATLIB benchmark and investigates two types of diffusion models with Gaussian and Bernoulli noise, respectively.
+
+Paper title: 'Aligning Large Multimodal Models with Factually Augmented RLHF'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Liangyan Gui, Yu-Xiong Wang, Chuang Gan, Zhiqing Sun, Yikang Shen, Chunyuan Li, Sheng Shen, K. Keutzer, Yiming Yang, Shengcao Cao, Trevor Darrell, Haotian Liu
+Summary: A new alignment algorithm called Factually Augmented RLHF is proposed that augments the reward model with additional factual information such as image captions and ground-truth multi-choice options, which alleviates the reward hacking phenomenon in RLHF and further improves the performance.
+
+Paper title: 'Policy Representation via Diffusion Probability Model for Reinforcement Learning'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Zhixiong Huang, Shiting Wen, Yucun Zhong, Fenghao Lei, Cong Fang, Yiming Yang, Binbin Zhou, Zhouchen Lin, Long Yang
+Summary: A theoretical foundation of policy representation via the diffusion probability model is formally built, a convergence guarantee for diffusion policy is presented, and the DIPO is proposed, which is an implementation for model-free online RL with DIffusion POlicy.
+
+Paper title: 'Generation-driven Contrastive Self-training for Zero-shot Text Classification with Instruction-tuned GPT'
+Published year: 2023
+Publication venue or conference: arXiv.org
+Authors: Yau-Shian Wang, Ruohong Zhang, Yiming Yang
+Summary: This work proposes a new approach to zero-shot text classification, namely \ourmodelshort, which leverages the strong generative power of GPT to assist in training a smaller, more adaptable, and efficient sentence encoder classifier with contrastive self-training.
+
+Paper title: 'PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification'
+Published year: 2023
+Publication venue or conference: Annual Meeting of the Association for Computational Linguistics
+Authors: Ta-Chung Chi, Yau-Shian Wang, Ruohong Zhang, Yiming Yang
+Summary: PESCO is presented, a novel contrastive learning framework that substantially improves the performance of zero-shot text classification and achieves state-of-the-art performance on four benchmark text classification datasets.
+
