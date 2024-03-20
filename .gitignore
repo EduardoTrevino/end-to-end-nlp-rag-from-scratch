@@ -31,6 +31,7 @@ unlimiformer/*
 FlagEmbed/*
 MistralEmbed/*
 sfr-mistralDB.zip
+unlimiformer/*
 # If "ratatouille colbert" is a specific file, include it directly
 # Adjust the path as necessary if it's located within a folder
 # ratatouille colbert
